@@ -301,6 +301,10 @@ CRIMINAL PROCEDURE LAWS
 
  
 
+419C.274  Notification of victim regarding waiver hearing or second look hearing
+
+ 
+
 419C.276  Disclosure of personal identifiers of victim or witness; advice of rights prior to interview or deposition; prohibited contact with victim or witness; effect of threats or intimidation
 
  
@@ -561,7 +565,7 @@ DISPOSITION
 
  
 
-419C.475  Authority to order HIV testing
+419C.475  Authority to order blood-borne infection testing
 
  
 
@@ -817,7 +821,7 @@ GENERALLY
 
  
 
-      419C.005 Jurisdiction. (1) Except as otherwise provided in ORS 137.707, the juvenile court has exclusive original jurisdiction in any case involving a person who is under 18 years of age and who has committed an act that is a violation, or that if done by an adult would constitute a violation, of a law or ordinance of the United States or a state, county or city.
+      419C.005 Jurisdiction. (1) The juvenile court has exclusive original jurisdiction in any case involving a person who is under 18 years of age and who has committed an act that is a violation, or that if done by an adult would constitute a violation, of a law or ordinance of the United States or a state, county or city.
 
       (2) The provisions of subsection (1) of this section do not prevent a court of competent jurisdiction from entertaining a civil action or suit involving a youth.
 
@@ -833,7 +837,7 @@ GENERALLY
 
       (d) The person becomes 25 years of age.
 
-      (e) The court places the person under the jurisdiction of the Psychiatric Security Review Board as provided in ORS 419C.529. If the court also has jurisdiction over the person based on a previous adjudication under this chapter or ORS chapter 419B, placing a person under the jurisdiction of the board in a later case does not terminate wardship under the previous case unless the court so orders. [1993 c.33 §149; 1995 c.422 §73; 2003 c.396 §98; 2005 c.843 §7]
+      (e) The court places the person under the jurisdiction of the Psychiatric Security Review Board as provided in ORS 419C.529. If the court also has jurisdiction over the person based on a previous adjudication under this chapter or ORS chapter 419B, placing a person under the jurisdiction of the board in a later case does not terminate wardship under the previous case unless the court so orders. [1993 c.33 §149; 1995 c.422 §73; 2003 c.396 §98; 2005 c.843 §7; 2019 c.634 §14]
 
  
 
@@ -847,7 +851,7 @@ GENERALLY
 
       (3) Upon the return of the youth described in subsection (1) of this section to this state by extradition or otherwise, any proceedings against the youth shall be commenced in the same manner as provided in this chapter.
 
-      (4) If a youth described in subsection (1) of this section has fled to a state which has adopted the Rendition Amendment to the Interstate Compact on Juveniles, the return of the youth shall be sought in accordance with the provisions of that compact. [1993 c.33 §150]
+      (4) If a youth described in subsection (1) of this section has fled to a state which has adopted the Rendition Amendment to the Interstate Compact for Juveniles, the return of the youth shall be sought in accordance with the provisions of that compact. [1993 c.33 §150; 2019 c.382 §23]
 
  
 
@@ -895,7 +899,7 @@ TRANSFER
 
  
 
-      419C.050 Transfer to juvenile court from another court. Except as otherwise provided in ORS 137.707, if during the pendency of a proceeding involving an allegation of a crime in any court other than a juvenile court it is ascertained that the age of the person who is the subject of the proceeding is such that the matter is within the exclusive jurisdiction of the juvenile court, it is the duty of the court in which the proceeding is pending to transfer the proceeding to the juvenile court of the county in which the proceeding is pending. The clerk of the court transferring the proceeding shall notify the clerk of the juvenile court of the transfer. [1993 c.33 §152; 1995 c.422 §73b; 2017 c.252 §20]
+      419C.050 Transfer to juvenile court from another court. If during the pendency of a proceeding involving an allegation of a crime in any court other than a juvenile court it is ascertained that the age of the person who is the subject of the proceeding is such that the matter is within the exclusive jurisdiction of the juvenile court, it is the duty of the court in which the proceeding is pending to transfer the proceeding to the juvenile court of the county in which the proceeding is pending. The clerk of the court transferring the proceeding shall notify the clerk of the juvenile court of the transfer. [1993 c.33 §152; 1995 c.422 §73b; 2017 c.252 §20; 2019 c.634 §15]
 
  
 
@@ -1265,7 +1269,15 @@ DETENTION
 
  
 
-      419C.156 Detention of runaway from another state. Notwithstanding ORS 419C.145 (1) and (2), the court may order the detention of a youth who resides in another state if the court makes written findings that there is probable cause to believe that the youth has run away from home or from a placement and that describe why it is in the best interests of the youth to be placed in detention. If a youth is ordered detained under this section, the court shall make such orders as are necessary to cause the youth to be immediately returned to the youth’s state of residence. [1993 c.33 §176; 2001 c.686 §11]
+      419C.156 Detention of runaway from another state. (1) As used in this section:
+
+      (a) “Home state” means any other state, territory or outlying possession of the United States where an out-of-state runaway’s parent, legal guardian or custodial agency is located.
+
+      (b) “Out-of-state runaway” means a person who is younger than the juvenile jurisdictional age limit established by the person’s home state, who has voluntarily left the home state without the permission of the person’s parent, legal guardian or custodial agency and who may or may not have been adjudicated in the home state.
+
+      (2) Notwithstanding any provisions in ORS chapter 419A, 419B or 419C prohibiting the detention of youths, if the court determines that a youth is an out-of-state runaway, the court may place the out-of-state runaway in a placement that the court determines to be the least restrictive setting, including detention, necessary to ensure that the out-of-state runaway is not a danger to self or others pending the return of the out-of-state runaway to the out-of-state runaway’s home state.
+
+      (3) Nothing in ORS chapter 419A, 419B or 419C limits or affects the ability of a court to place an out-of-state runaway in detention in accordance with the Interstate Compact for Juveniles as set forth in ORS 417.030. [1993 c.33 §176; 2001 c.686 §11; 2019 c.382 §17]
 
  
 
@@ -1537,7 +1549,7 @@ PETITION
 
       (2) At any time after a petition is filed, the court may make an order providing for the temporary custody of the youth.
 
-      (3) The petition and all subsequent court documents in the proceeding shall be entitled, “In the Matter of________, a youth.” The petition shall be in writing and verified upon the information and belief of the petitioner. [1993 c.546 §70 (enacted in lieu of 1993 c.33 §195); 1995 c.422 §77; 1999 c.59 §120]
+      (3) The petition and all subsequent court documents in the proceeding shall be entitled, “In the Matter of ________, a youth.” The petition shall be in writing and verified upon the information and belief of the petitioner. [1993 c.546 §70 (enacted in lieu of 1993 c.33 §195); 1995 c.422 §77; 1999 c.59 §120]
 
  
 
@@ -1575,7 +1587,7 @@ CRIMINAL PROCEDURE LAWS
 
       419C.270 Application of criminal procedure laws. In all proceedings brought under ORS 419C.005, the following rules of criminal procedure apply:
 
-      (1) ORS 133.673, 133.693 and 133.703;
+      (1) ORS 133.402, 133.673, 133.693 and 133.703;
 
       (2) ORS 135.455, 135.465 and 135.470;
 
@@ -1587,7 +1599,7 @@ CRIMINAL PROCEDURE LAWS
 
       (6) ORS 135.825, 135.835, 135.845 and 135.855 to 135.873; and
 
-      (7) ORS 136.432. [1993 c.546 §72; 1997 c.313 §31; 1999 c.304 §§7,8; 2007 c.581 §4; 2007 c.609 §21; 2013 c.525 §3]
+      (7) ORS 136.432. [1993 c.546 §72; 1997 c.313 §31; 1999 c.304 §§7,8; 2007 c.581 §4; 2007 c.609 §21; 2013 c.525 §3; 2019 c.216 §4]
 
  
 
@@ -1650,6 +1662,16 @@ CRIMINAL PROCEDURE LAWS
       (L) Expunction hearings.
 
       (5) Nothing in this section creates a cause of action for compensation or damages. This section may not be used to invalidate an accusatory instrument or adjudication or otherwise terminate any proceeding at any point after the case is commenced or on appeal. [2007 c.609 §2; 2009 c.178 §26]
+
+ 
+
+      419C.274 Notification of victim regarding waiver hearing or second look hearing. (1) The division of the Department of Justice providing victim and survivor services shall, in consultation with district attorney victim assistance programs and community-based victim service providers, develop model polices for providing notice to victims concerning waiver hearings under ORS 419C.349 (1)(a) and hearings conducted pursuant to ORS 420A.203. The policies must ensure that victim notification is provided in a trauma-informed and culturally specific manner.
+
+      (2) Prior to a waiver hearing under ORS 419C.349 (1)(a) or a hearing conducted pursuant to ORS 420A.203, notice of the hearing shall be provided to the victim of the offense by the district attorney’s victim assistance program in accordance with the model policies described in subsection (1) of this section, and in a manner that informs the victim of the victim’s rights. The district attorney’s victim assistance program shall also provide to the victim accompaniment to court hearings and referrals to community-based victim services that are, where available, culturally specific. [2019 c.634 §30]
+
+ 
+
+      Note: 419C.274 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419C or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1843,59 +1865,73 @@ WAIVER
 
  
 
-      419C.346 Juvenile court’s retention of authority over parent. If the juvenile court waives a youth to another court under ORS 419C.349, 419C.355 and 419C.370 for disposition as an adult, the juvenile court nevertheless may retain jurisdiction over the youth’s parents or guardians under ORS 419C.570. However, if the court enters an order of waiver under ORS 419C.364, jurisdiction over the parents or guardians under ORS 419C.570 shall terminate. [1993 c.33 §212; 1993 c.546 §77]
+      419C.346 Juvenile court’s retention of authority over parent. If the juvenile court waives a youth to another court under ORS 419C.349 (1)(b) or 419C.370 for disposition as an adult, the juvenile court nevertheless may retain jurisdiction over the youth’s parents or guardians under ORS 419C.570. However, if the court enters an order of waiver under ORS 419C.349 (1)(a) or 419C.364, jurisdiction over the parents or guardians under ORS 419C.570 shall terminate. [1993 c.33 §212; 1993 c.546 §77; 2019 c.634 §16]
 
  
 
-      419C.349 Grounds for waiving youth to adult court. The juvenile court, after a hearing except as otherwise provided in ORS 419C.364 or 419C.370, may waive a youth to a circuit, justice or municipal court of competent jurisdiction for prosecution as an adult if:
+      419C.349 Grounds for waiving youth to adult court. (1) Except as otherwise provided in ORS 419C.364 or 419C.370, the juvenile court shall conduct a waiver hearing when:
 
-      (1) The youth is 15 years of age or older at the time of the commission of the alleged offense;
+      (a) The state files a motion requesting a waiver hearing in a case in which a petition has been filed alleging that a youth has committed an act when the youth was 15, 16 or 17 years of age that, if committed by an adult, would constitute aggravated murder or an offense listed in ORS 137.707; or
 
-      (2) The youth, except as otherwise provided in ORS 419C.364 and 419C.370, is alleged to have committed a criminal offense constituting:
+      (b) The state files a motion requesting a waiver hearing in a case in which a petition has been filed alleging that a youth has committed an act when the youth was 15, 16 or 17 years of age that, if committed by an adult, would constitute:
 
-      (a) Murder under ORS 163.115 or any aggravated form thereof;
+      (A) A Class A or Class B felony;
 
-      (b) A Class A or Class B felony;
+      (B) Any of the following Class C felonies:
 
-      (c) Any of the following Class C felonies:
+      (i) Escape in the second degree under ORS 162.155;
 
-      (A) Escape in the second degree under ORS 162.155;
+      (ii) Assault in the third degree under ORS 163.165;
 
-      (B) Assault in the third degree under ORS 163.165;
+      (iii) Coercion under ORS 163.275 (1)(a);
 
-      (C) Coercion under ORS 163.275 (1)(a);
+      (iv) Arson in the second degree under ORS 164.315; or
 
-      (D) Arson in the second degree under ORS 164.315; or
+      (v) Robbery in the third degree under ORS 164.395;
 
-      (E) Robbery in the third degree under ORS 164.395;
+      (C) Any Class C felony in which the youth used or threatened to use a firearm; or
 
-      (d) Any Class C felony in which the youth used or threatened to use a firearm; or
+      (D) Any other crime that the state and the youth stipulate is subject to waiver.
 
-      (e) Any other felony or any misdemeanor if the youth and the state stipulate to the waiver;
+      (2) After the hearing, the juvenile court may waive the youth to a circuit, justice or municipal court of competent jurisdiction if:
 
-      (3) The youth at the time of the alleged offense was of sufficient sophistication and maturity to appreciate the nature and quality of the conduct involved; and
+      (a) The youth at the time of the alleged offense was of sufficient sophistication and maturity to appreciate the nature and quality of the conduct involved; and
 
-      (4) The juvenile court, after considering the following criteria, determines by a preponderance of the evidence that retaining jurisdiction will not serve the best interests of the youth and of society and therefore is not justified:
+      (b) The juvenile court, after considering the following criteria, determines by a preponderance of the evidence that retaining jurisdiction will not serve the best interests of the youth and of society and therefore is not justified:
 
-      (a) The amenability of the youth to treatment and rehabilitation given the techniques, facilities and personnel for rehabilitation available to the juvenile court and to the criminal court which would have jurisdiction after transfer;
+      (A) The amenability of the youth to treatment and rehabilitation given the techniques, facilities and personnel for rehabilitation available to the juvenile court and to the criminal court that would have jurisdiction after transfer;
 
-      (b) The protection required by the community, given the seriousness of the offense alleged;
+      (B) The protection required by the community, given the seriousness of the offense alleged, and whether the youth can be safely rehabilitated under the jurisdiction of the juvenile court;
 
-      (c) The aggressive, violent, premeditated or willful manner in which the offense was alleged to have been committed;
+      (C) The aggressive, violent, premeditated or willful manner in which the offense was alleged to have been committed;
 
-      (d) The previous history of the youth, including:
+      (D) The previous history of the youth, including:
 
-      (A) Prior treatment efforts and out-of-home placements; and
+      (i) Prior treatment efforts and out-of-home placements; and
 
-      (B) The physical, emotional and mental health of the youth;
+      (ii) The physical, emotional and mental health of the youth;
 
-      (e) The youth’s prior record of acts which would be crimes if committed by an adult;
+      (E) The youth’s prior record of acts that would be crimes if committed by an adult;
 
-      (f) The gravity of the loss, damage or injury caused or attempted during the offense;
+      (F) The gravity of the loss, damage or injury caused or attempted during the offense;
 
-      (g) The prosecutive merit of the case against the youth; and
+      (G) The prosecutive merit of the case against the youth; and
 
-      (h) The desirability of disposing of all cases in one trial if there were adult co-offenders. [1993 c.33 §213; 1993 c.546 §78; 1999 c.951 §1; 2003 c.404 §1]
+      (H) The desirability of disposing of all cases in one trial if there were adult co-offenders.
+
+      (3) The victim of the alleged offense has the right to appear at a hearing under this section and to provide the court with any information reasonably related to the court’s determination.
+
+      (4) The right to counsel, and the appointment of counsel under ORS 419C.200, applies to a hearing under this section.
+
+      (5) The state has the right to have at least one psychiatrist or licensed psychologist of its selection examine the youth concerning the determination of whether to waive the youth under this section. [1993 c.33 §213; 1993 c.546 §78; 1999 c.951 §1; 2003 c.404 §1; 2019 c.635 §§3e,23]
+
+ 
+
+      Note: Section 32, chapter 634, Oregon Laws 2019, provides:
+
+      Sec. 32. (1) Sections 24 [161.740] and 25 [144.397], chapter 634, Oregon Laws 2019, and the amendments to ORS 137.071, 137.124, 137.705, 137.707, 137.712, 144.185, 161.610, 161.620, 163.105, 163.115, 163.155, 163A.130, 163A.135, 339.317, 339.319, 339.321, 419C.005, 419C.050, 419C.346, 419C.349, 419C.352, 419C.355, 419C.358, 419C.361, 420.011, 420.081 and 420A.203 and section 3, chapter 635, Oregon Laws 2019 [163.107], by sections 1 to 23 and 26 to 29, chapter 634, Oregon Laws 2019, and section 3a, chapter 635, Oregon Laws 2019, apply to sentences imposed on or after January 1, 2020.
+
+      (2) Notwithstanding subsection (1) of this section, sections 24 and 25, chapter 634, Oregon Laws 2019, and the amendments to ORS 137.071, 137.124, 137.705, 137.707, 137.712, 144.185, 161.610, 161.620, 163.105, 163.115, 163.155, 163A.130, 163A.135, 339.317, 339.319, 339.321, 419C.005, 419C.050, 419C.346, 419C.349, 419C.352, 419C.355, 419C.358, 419C.361, 420.011, 420.081 and 420A.203 and section 3, chapter 635, Oregon Laws 2019, by sections 1 to 23 and 26 to 29, chapter 634, Oregon Laws 2019, and section 3a, chapter 635, Oregon Laws 2019, do not apply to persons who were originally sentenced before January 1, 2020, and who are subsequently resentenced on or after January 1, 2020, as the result of an appellate decision or a post-conviction relief proceeding or for any other reason. [2019 c.634 §32; 2019 c.635 §3c; 2019 c.685 §4]
 
  
 
@@ -1903,31 +1939,47 @@ WAIVER
 
       (1) The youth is represented by counsel during the waiver proceedings;
 
-      (2) The juvenile court makes the findings required under ORS 419C.349 (3) and (4); and
+      (2) The juvenile court makes the findings required under ORS 419C.349 (2); and
 
       (3) The youth is alleged to have committed an act or acts that if committed by an adult would constitute one or more of the following crimes:
 
-      (a) Murder or any aggravated form thereof under ORS 163.095 or 163.115;
+      (a) Murder or any aggravated form thereof under ORS 163.095, 163.107 or 163.115;
 
       (b) Rape in the first degree under ORS 163.375 (1)(a);
 
       (c) Sodomy in the first degree under ORS 163.405 (1)(a); or
 
-      (d) Unlawful sexual penetration in the first degree under ORS 163.411 (1)(a). [1993 c.33 §214; 1993 c.546 §79; 1995 c.422 §78]
+      (d) Unlawful sexual penetration in the first degree under ORS 163.411 (1)(a). [1993 c.33 §214; 1993 c.546 §79; 1995 c.422 §78; 2019 c.634 §17; 2019 c.635 §24]
 
  
 
-      419C.355 Written findings required. The juvenile court shall make a specific, detailed, written finding of fact to support any determination under ORS 419C.349 (3) and (4). [1993 c.33 §215]
+      Note: See note under 419C.349.
 
  
 
-      419C.358 Consolidation of nonwaivable and waivable charges. When a person is waived for prosecution as an adult, the person shall be waived only on the actual charges justifying the waiver under ORS 419C.349 (2) or 419C.352, as the case may be. Any nonwaivable charges arising out of the same act or transaction as the waivable charge shall be consolidated with the waivable charge for purposes of conducting the adjudicatory hearing on the nonwaivable charges. [1993 c.33 §216; 1993 c.546 §82]
+      419C.355 Written findings required. The juvenile court shall make a specific, detailed, written finding of fact to support the findings made under ORS 419C.349 (2). [1993 c.33 §215; 2019 c.634 §18]
 
  
 
-      419C.361 Disposition of nonwaivable consolidated charges and lesser included offenses. (1) Notwithstanding that the juvenile court has waived the case under ORS 419C.349, 419C.352, 419C.355, 419C.358, 419C.364, 419C.367 and 419C.370, the court of waiver shall return the case to the juvenile court unless an accusatory instrument is filed in the court of waiver alleging, in the case of a person under 16 years of age, a crime listed in ORS 419C.352 or, in the case of any other person, a crime listed in ORS 419C.349 (2). Also in the case of a waived person, when a trial has been held in the court of waiver upon an accusatory instrument alleging a crime listed in ORS 419C.349 (2) or 419C.352, as the case may be, and the person is found guilty of any lesser included offense that is not itself a waivable offense, the trial court shall not sentence the defendant therein, but the trial court shall order a presentence report to be made in the case, shall set forth in a memorandum such observations as the court may make regarding the case and shall then return the case to the juvenile court in order that the juvenile court make disposition in the case based upon the guilty finding in the court of waiver. Disposition shall be as if the juvenile court itself had found the youth to be in its jurisdiction pursuant to ORS 419C.005. The records and consequences of the case shall, in all respects, be as if the juvenile court itself had found the youth to be in its jurisdiction pursuant to ORS 419C.005. When the person is found guilty of a nonwaivable charge that was consolidated with a waivable charge under ORS 419C.358, the case shall be returned to the juvenile court for disposition as provided in this subsection for lesser included offenses.
+      Note: See note under 419C.349.
 
-      (2) Nothing in this section or ORS 419C.358 applies to a waiver under ORS 419C.364 or 419C.370. [1993 c.33 §217; 1993 c.546 §83]
+ 
+
+      419C.358 Consolidation of nonwaivable and waivable charges. (1) Except as otherwise provided in subsection (2) of this section and ORS 137.707 (6), when a person is waived for prosecution as an adult, the person shall be waived only on the actual charges justifying the waiver under ORS 419C.349 or 419C.352, as the case may be.
+
+      (2) Any nonwaivable charges arising out of the same act or transaction as the waivable charge shall be consolidated with the waivable charge. [1993 c.33 §216; 1993 c.546 §82; 2019 c.634 §19]
+
+ 
+
+      419C.361 Disposition of nonwaivable consolidated charges and lesser included offenses. (1)(a) Notwithstanding that the juvenile court has waived the case under ORS 419C.349, 419C.352, 419C.364 or 419C.370, the court of waiver shall return the case to the juvenile court unless an accusatory instrument is filed in the court of waiver alleging, in the case of a person under 15 years of age, a crime listed in ORS 419C.352 or, in the case of any other person, a crime described in ORS 419C.349 (1).
+
+      (b) When a trial has been held in the court of waiver upon an accusatory instrument alleging a crime listed in ORS 419C.349 (1)(b) or 419C.352, as the case may be, and the person is found guilty of any lesser included offense that is not itself a waivable offense, the trial court shall not sentence the defendant therein, but the trial court shall order a presentence report to be made in the case, shall set forth in a memorandum such observations as the court may make regarding the case and shall then return the case to the juvenile court in order that the juvenile court make disposition in the case based upon the guilty finding in the court of waiver. Disposition shall be as if the juvenile court itself had found the youth to be in its jurisdiction pursuant to ORS 419C.005. The records and consequences of the case shall, in all respects, be as if the juvenile court itself had found the youth to be in its jurisdiction pursuant to ORS 419C.005. When the person is found guilty of a nonwaivable charge that was consolidated with a waivable charge under ORS 419C.358, the case shall be returned to the juvenile court for disposition as provided in this subsection for lesser included offenses.
+
+      (2) Nothing in this section or ORS 419C.358 applies to a waiver under ORS 419C.364 or 419C.370. [1993 c.33 §217; 1993 c.546 §83; 2019 c.634 §20]
+
+ 
+
+      Note: See note under 419C.349.
 
  
 
@@ -2465,7 +2517,7 @@ DISPOSITION
 
       (2) The felonies to which subsection (1) of this section applies are:
 
-      (a) Rape, sodomy, unlawful sexual penetration, sexual abuse in the first or second degree, public indecency, incest or using a child in a display of sexually explicit conduct, as those offenses are defined in ORS 163.355 to 163.427, 163.465 (1)(c), 163.525 and 163.670;
+      (a) Rape, sodomy, unlawful sexual penetration, sexual abuse in the first or second degree, public indecency, incest or using a child in a display of sexually explicit conduct, as those offenses are defined in ORS 163.355 to 163.427, 163.465 (1)(d), 163.525 and 163.670;
 
       (b) Burglary in the second degree, as defined in ORS 164.215, when committed with intent to commit any offense listed in paragraph (a) of this subsection;
 
@@ -2485,13 +2537,13 @@ DISPOSITION
 
       (b) The court determines that obtaining a sample would create a substantial and unreasonable risk to the health of the youth offender.
 
-      (4) Notwithstanding any other provision of law, blood and buccal samples and other physical evidence and criminal identification information obtained under authority of this section or as a result of analysis conducted pursuant to ORS 181A.155 may be maintained, stored, destroyed and released to authorized persons or agencies under the conditions established in ORS 181A.155 and rules adopted by the Department of State Police under the authority of that section. [1993 c.33 §237; 1999 c.97 §6; 2001 c.852 §4; 2003 c.396 §117]
+      (4) Notwithstanding any other provision of law, blood and buccal samples and other physical evidence and criminal identification information obtained under authority of this section or as a result of analysis conducted pursuant to ORS 181A.155 may be maintained, stored, destroyed and released to authorized persons or agencies under the conditions established in ORS 181A.155 and rules adopted by the Department of State Police under the authority of that section. [1993 c.33 §237; 1999 c.97 §6; 2001 c.852 §4; 2003 c.396 §117; 2019 c.65 §3]
 
  
 
-      419C.475 Authority to order HIV testing. (1) Whenever a youth offender has been found to be within the jurisdiction of the court under ORS 419C.005 (1) for having committed an act from which it appears that the transmission of body fluids from one person to another as described in ORS 135.139 may have been involved or a sexual act may have occurred, the court shall order the youth offender to submit to HIV testing as provided in ORS 135.139 if the victim, or parent or guardian of the victim, requests the court to make such an order.
+      419C.475 Authority to order blood-borne infection testing. (1) Whenever a youth offender has been found to be within the jurisdiction of the court under ORS 419C.005 (1) for having committed an act from which it appears that the transmission of body fluids from one person to another as described in ORS 135.139 may have been involved or a sexual act may have occurred, the court shall order the youth offender to submit to blood-borne infection testing as provided in ORS 135.139 if the victim, or parent or guardian of the victim, requests the court to make such an order.
 
-      (2) The court may also order the youth offender or the parent or guardian of the youth offender to reimburse the appropriate agency for the cost of the test. [1993 c.331 §3; 2003 c.396 §118]
+      (2) The court may also order the youth offender or the parent or guardian of the youth offender to reimburse the appropriate agency for the cost of the test. [1993 c.331 §3; 2003 c.396 §118; 2019 c.280 §11]
 
  
 
@@ -2583,9 +2635,9 @@ DISPOSITION
 
       (g) Twenty years for an act that would constitute a Class A felony if committed by an adult; and
 
-      (h) Life for a young person who was found to have committed an act that, if committed by an adult would constitute murder or any aggravated form of murder under ORS 163.095 or 163.115.
+      (h) Life for a young person who was found to have committed an act that, if committed by an adult would constitute murder or any aggravated form of murder under ORS 163.095, 163.107 or 163.115.
 
-      (2) Except as provided in subsection (1)(h) of this section, the period of any disposition may not extend beyond the date on which the young person or youth offender becomes 25 years of age. [1993 c.33 §246; 1995 c.422 §85; 1999 c.964 §1; 2005 c.843 §11; 2017 c.706 §23]
+      (2) Except as provided in subsection (1)(h) of this section, the period of any disposition may not extend beyond the date on which the young person or youth offender becomes 25 years of age. [1993 c.33 §246; 1995 c.422 §85; 1999 c.964 §1; 2005 c.843 §11; 2017 c.706 §23; 2019 c.635 §26]
 
  
 
@@ -3017,7 +3069,7 @@ SUPPORT
 
       (2) At least 21 days before the hearing, the court shall notify the Administrator of the Division of Child Support of the Department of Justice, or the branch office providing support services to the county where the hearing will be held, of the hearing. Before the hearing the administrator shall inform the court, to the extent known:
 
-      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the youth offender, including a proceeding brought under ORS 25.287, 107.085, 107.135, 107.431, 108.110, 109.100, 109.103, 109.165, 125.025, 416.400 to 416.465 or 419B.400 or ORS chapter 110; and
+      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the youth offender, including a proceeding brought under ORS 25.287, 25.501 to 25.556, 107.085, 107.135, 107.431, 108.110, 109.100, 109.103, 109.165, 125.025 or 419B.400 or ORS chapter 110; and
 
       (b) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the youth offender.
 
@@ -3105,21 +3157,47 @@ REPORTS BY AGENCY HAVING GUARDIANSHIP OR LEGAL CUSTODY
 
  
 
-      419C.620 Circumstances requiring report. When required by the court, the Oregon Youth Authority or a private agency having guardianship or legal custody of a youth offender pursuant to court order shall file reports on the youth offender with the juvenile court that entered the original order concerning the youth offender. [1993 c.33 §263; 1999 c.92 §2; 2005 c.159 §5]
+      419C.620 Circumstances requiring report. (1) When required by the court, the Oregon Youth Authority or a private agency having guardianship or legal custody of a youth offender pursuant to court order shall file reports on the youth offender with the juvenile court that entered the original order concerning the youth offender.
+
+      (2) A county juvenile department shall file a report with the juvenile court under this section if a youth offender remains under juvenile department care for six consecutive months from the date of initial placement and:
+
+      (a) The county juvenile department is a county program, as defined in ORS 418.205;
+
+      (b) The county juvenile department is participating in programs related to Title IV-E of the Social Security Act;
+
+      (c) The county juvenile department has responsibility for the care and placement of the youth offender; and
+
+      (d) The placement is not a detention facility. [1993 c.33 §263; 1999 c.92 §2; 2005 c.159 §5; 2019 c.513 §3]
 
  
 
-      419C.623 Frequency and content of report. (1) The Oregon Youth Authority or private agency shall file the reports required by ORS 419C.620 at times required by the court, required by the youth offender’s reformation plan or case plan and as determined necessary by the youth authority or agency. The youth authority or agency shall file reports more frequently if the court so orders. The reports shall include, but need not be limited to:
+      419C.623 Frequency and content of report. (1) The Oregon Youth Authority, a county juvenile department or a private agency shall file the reports required by ORS 419C.620 at times required by the court, required by the youth offender’s reformation plan or case plan and as determined necessary by the youth authority or agency. The youth authority or agency shall file reports more frequently if the court so orders. The reports shall include, but need not be limited to:
 
-      (a) A description of the offenses that necessitated the placement of the youth offender with the youth authority or agency;
+      (a) A description of the offenses that necessitated the placement of the youth offender with the youth authority, juvenile department or agency;
 
       (b) A description of the youth offender’s risk to reoffend and an analysis of the need for services and assistance; and
 
       (c) A proposed reformation plan or case plan, or proposed continuation or modification of an existing reformation plan or case plan, including, where applicable, a description of services to be provided in furtherance of the youth offender’s reformation and safe return to the community.
 
-      (2) Notwithstanding the requirements of subsection (1) of this section, reports following the first report that is required by subsection (1) of this section need not contain information contained in prior reports.
+      (2) A report under ORS 419C.620 (2) by a county juvenile department must also include:
 
-      (3) Notwithstanding the requirements under ORS 419C.620 that reports be filed with the court, any report after the first report that is required by subsection (1) of this section on a youth offender whose case is being regularly reviewed by a local citizen review board shall be filed with that local citizen review board rather than with the court. [1993 c.33 §264; 1999 c.92 §3; 2005 c.159 §6]
+      (a) A description of the efforts to return the youth offender to the parental home, including, when applicable, efforts to assist the parents in remedying factors that contributed to the removal of the youth offender from the home.
+
+      (b) A description of the care, treatment and supervision that have been provided for the youth offender, including:
+
+      (A) The safety of the placement;
+
+      (B) A description of whether the placement is the least restrictive and most appropriate setting available and in close proximity to the youth offender’s home, and is consistent with the best interest and the special needs of the youth offender; and
+
+      (C) An analysis of the effectiveness of the care, treatment and supervision.
+
+      (c) A description of the progress that has been made toward alleviating or mitigating the causes necessitating the youth offender’s placement.
+
+      (d) If continued substitute care is recommended, a proposed timetable for the youth offender’s return home or other permanent placement or a justification of why continued substitute care is necessary.
+
+      (3) Notwithstanding the requirements of subsections (1) and (2) of this section, reports following the first report that is required by this section need not contain information contained in prior reports.
+
+      (4) Notwithstanding the requirements under ORS 419C.620 that reports be filed with the court, any report after the first report that is required by subsections (1) and (2) of this section on a youth offender whose case is being regularly reviewed by a local citizen review board shall be filed with that local citizen review board rather than with the court. [1993 c.33 §264; 1999 c.92 §3; 2005 c.159 §6; 2019 c.513 §4]
 
  
 
@@ -3127,11 +3205,11 @@ REPORTS BY AGENCY HAVING GUARDIANSHIP OR LEGAL CUSTODY
 
       (a) The court may hold a hearing to review the youth offender’s condition and circumstances and to determine if the court should continue jurisdiction over the youth offender or order modifications in the custody, placement and supervision of the youth offender.
 
-      (b) And if requested by the youth offender, the attorney for the youth offender, if any, the parents of the youth offender if parental rights have not been terminated, a court appointed special advocate, a local citizen review board, the Oregon Youth Authority, a district attorney or a private agency having guardianship or legal custody of the youth offender, the court shall hold a hearing within 30 days of receipt of the request.
+      (b) And if requested by the youth offender, the attorney for the youth offender, if any, the parents of the youth offender if parental rights have not been terminated, a court appointed special advocate, a local citizen review board, the Oregon Youth Authority, a county juvenile department, a district attorney or a private agency having guardianship or legal custody of the youth offender, the court shall hold a hearing within 30 days of receipt of the request.
 
-      (2) The court, on its own motion, may hold a review hearing at any time. Unless good cause otherwise is shown, the court shall hold a review hearing at any time upon the request of the youth offender, the attorney for the youth offender, if any, the parents of the youth offender if parental rights have not been terminated, a court appointed special advocate, a local citizen review board, the youth authority, a district attorney or a private agency having guardianship or legal custody of the youth offender.
+      (2) The court, on its own motion, may hold a review hearing at any time. Unless good cause otherwise is shown, the court shall hold a review hearing at any time upon the request of the youth offender, the attorney for the youth offender, if any, the parents of the youth offender if parental rights have not been terminated, a court appointed special advocate, a local citizen review board, the youth authority, a county juvenile department, a district attorney or a private agency having guardianship or legal custody of the youth offender.
 
-      (3) A hearing under subsection (1) or (2) of this section shall be conducted in the manner provided in ORS 419C.400 (1), 419C.405 and 419C.408, except that the court may receive testimony and reports as provided in ORS 419C.400 (4). At the conclusion of the hearing, the court shall enter findings of fact if the decision is to continue the youth offender in an out-of-home placement in the legal custody of the youth authority or a private agency. The findings shall specifically state:
+      (3) A hearing under subsection (1) or (2) of this section shall be conducted in the manner provided in ORS 419C.400 (1), 419C.405 and 419C.408, except that the court may receive testimony and reports as provided in ORS 419C.400 (4). At the conclusion of the hearing, the court shall enter findings of fact if the decision is to continue the youth offender in an out-of-home placement in the legal custody of the youth authority, a county juvenile department or a private agency. The findings shall specifically state:
 
       (a) Why continued out-of-home placement is necessary as opposed to returning the youth offender to the youth offender’s home or promptly securing another placement;
 
@@ -3139,9 +3217,19 @@ REPORTS BY AGENCY HAVING GUARDIANSHIP OR LEGAL CUSTODY
 
       (c) Whether the youth offender’s reformation plan or case plan should be modified.
 
-      (4) The court may direct the local citizen review board to review the status of the youth offender prior to the court’s next review under ORS 419A.106, 419A.108, 419A.110, 419A.112, 419A.116 and 419A.118.
+      (4) After receiving a report required by ORS 419C.620 (2), if requested by the county juvenile department, the court’s findings under subsection (3) of this section must specifically state:
 
-      (5) Any final decision of the court made pursuant to a hearing under subsection (1) or (2) of this section is appealable under ORS 419A.200. [1993 c.33 §265; 1999 c.92 §4; 2001 c.480 §10; 2001 c.910 §6; 2005 c.159 §7; 2005 c.843 §26]
+      (a) Whether the county juvenile department has made reasonable efforts or, if the Indian Child Welfare Act applies, active efforts to make it possible for the youth offender to safely return home. In making this finding, the court shall consider the youth offender’s health and safety the paramount concerns.
+
+      (b) The appropriateness of the youth offender’s placement.
+
+      (c) The extent of compliance with the youth offender’s case plan.
+
+      (d) The extent of progress that has been made toward alleviating or mitigating the causes necessitating the youth offender’s placement in substitute care.
+
+      (5) The court may direct the local citizen review board to review the status of the youth offender prior to the court’s next review under ORS 419A.106, 419A.108, 419A.110, 419A.112, 419A.116 and 419A.118.
+
+      (6) Any final decision of the court made pursuant to a hearing under subsection (1) or (2) of this section is appealable under ORS 419A.200. [1993 c.33 §265; 1999 c.92 §4; 2001 c.480 §10; 2001 c.910 §6; 2005 c.159 §7; 2005 c.843 §26; 2019 c.513 §5]
 
  
 

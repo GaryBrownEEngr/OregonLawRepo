@@ -4,12 +4,6 @@ Chapter 810 — Road Authorities; Courts; Police; Other Enforcement Officials
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -243,7 +237,7 @@ POLICE
 
  
 
-810.415     Removal of vehicles, cargo or debris from roadway after accident
+810.415     Removal of vehicles, cargo or debris from roadway after collision
 
  
 
@@ -393,7 +387,7 @@ ROAD AUTHORITIES
 
  
 
-      810.012 Jurisdiction over access to facilities and services from certain roads; rules. Notwithstanding any other provision of the Oregon Vehicle Code, the Oregon Transportation Commission, by rule, may establish procedures for, and certify to the Federal Highway Administration compliance with, Federal Regulation 23 C.F.R. part 658 for roads under the authority of cities and counties. [1991 c.283 §2]
+      810.012 Jurisdiction over access to facilities and services from certain roads; rules. Notwithstanding any other provision of the Oregon Vehicle Code, the Oregon Transportation Commission, by rule, may establish procedures for, and certify to the Federal Highway Administration compliance with, 23 C.F.R. part 658 for roads under the authority of cities and counties. [1991 c.283 §2]
 
  
 
@@ -715,13 +709,15 @@ ROAD AUTHORITIES
 
       (c) The road authority shall post a sign giving notice of the designated speed at each end of the portion of highway where the designated speed is imposed and at such other places on the highway as may be necessary to inform the public. The designated speed shall be effective when signs giving notice of the designated speed are posted.
 
-      (11) The City of Portland may establish by ordinance a designated speed for a highway under the jurisdiction of the city that is five miles per hour lower than the statutory speed. The following apply to the authority granted under this subsection:
+      (11) A city may establish by ordinance a designated speed for a highway under the jurisdiction of the city that is five miles per hour lower than the statutory speed. The following apply to the authority granted under this subsection:
 
       (a) The highway is located in a residence district.
 
       (b) The highway is not an arterial highway.
 
-      (c) The city shall post a sign giving notice of the designated speed at each end of the portion of highway where the designated speed is imposed and at such other places on the highway as may be necessary to inform the public. The designated speed shall be effective when signs giving notice of the designated speed are posted. [1983 c.338 §162; 1985 c.16 §51; 1987 c.887 §8; 1989 c.592 §3; 1991 c.728 §3; 1993 c.742 §118; 1995 c.79 §371; 1997 c.249 §227; 1999 c.59 §240; 2003 c.819 §2; 2005 c.77 §1; 2005 c.507 §1; 2011 c.384 §1; 2017 c.291 §1]
+      (c) The city shall post a sign giving notice of the designated speed at each end of the portion of highway where the designated speed is imposed and at such other places on the highway as may be necessary to inform the public. The designated speed shall be effective when signs giving notice of the designated speed are posted.
+
+      (12) Notwithstanding ORS 801.430, as used in subsection (11) of this section, “residence district” includes territory not comprising a business district that is contiguous to a highway and has access to dwellings provided by alleys. [1983 c.338 §162; 1985 c.16 §51; 1987 c.887 §8; 1989 c.592 §3; 1991 c.728 §3; 1993 c.742 §118; 1995 c.79 §371; 1997 c.249 §227; 1999 c.59 §240; 2003 c.819 §2; 2005 c.77 §1; 2005 c.507 §1; 2011 c.384 §1; 2017 c.291 §1; 2019 c.515 §1]
 
  
 
@@ -836,6 +832,8 @@ ROAD AUTHORITIES
       (3) When a traffic control device is placed in position approximately conforming to the requirements of the traffic regulations or other laws of this state, the device is presumed to have been placed by an official act or at the direction of lawful authority unless the contrary is established by competent evidence.
 
       (4) A traffic control device placed under the vehicle code or other laws or regulations of this state and purporting to conform to the lawful requirements pertaining to that device is presumed to comply with the requirements of the vehicle code unless the contrary is established by competent evidence. [1983 c.338 §167]
+
+ 
 
       810.260 Standards for installation, operation and use of traffic control signal operating devices; rules. (1) The Department of Transportation shall adopt standards for the installation, operation and use of traffic control signal operating devices authorized under ORS 815.445. In adopting standards, the department shall consider the impact of traffic control signal operating devices on:
 
@@ -1027,28 +1025,6 @@ COURTS
 
  
 
-      Note: The amendments to 810.375 by section 29, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      810.375. (1) The judge or clerk of every court of this state having jurisdiction of any traffic offense, including all local and municipal judicial officers in this state:
-
-      (a) Shall keep a full record of every case in which a person is charged with any such offense.
-
-      (b) Shall send the Department of Transportation an abstract of conviction for any person who is convicted.
-
-      (c) Shall send the department a copy of any final judgment of conviction of any person that results in mandatory suspension or revocation of driving privileges or commercial driving privileges under ORS 809.409, 809.411, 809.510 to 809.545 or 813.400.
-
-      (d) Shall send the department a copy of any final judgment finding a person charged with a traffic offense guilty except for insanity and committed to the jurisdiction of the Psychiatric Security Review Board or the Oregon Health Authority under ORS 161.315 to 161.351.
-
-      (2) The department shall keep such records in its office, and they shall be open to the inspection of any person during reasonable business hours.
-
-      (3) To comply with this section, a judge or clerk must comply with the following:
-
-      (a) Any information required by this section to be sent to the department must be sent within the time provided under ORS 810.370 and must include information required by ORS 810.370.
-
-      (b) Information may not be sent to the department under this section concerning convictions excluded from ORS 810.370.
-
- 
-
       810.380 [1985 c.744 §3; 1987 c.730 §19; 1987 c.904 §2; repealed by 1987 c.905 §37]
 
  
@@ -1093,7 +1069,7 @@ POLICE
 
  
 
-      810.415 Removal of vehicles, cargo or debris from roadway after accident. A law enforcement officer who comes to the scene of an accident described in ORS 811.700 may remove or direct the driver of a vehicle involved in the accident to remove from the roadway any vehicle, cargo or debris resulting from the accident. A person acting under the authority granted by this section is not liable for damage to a vehicle, cargo or debris caused by reasonable efforts at removal. [2003 c.410 §2]
+      810.415 Removal of vehicles, cargo or debris from roadway after collision. A law enforcement officer who comes to the scene of a collision described in ORS 811.700 may remove or direct the driver of a vehicle involved in the collision to remove from the roadway any vehicle, cargo or debris resulting from the collision. A person acting under the authority granted by this section is not liable for damage to a vehicle, cargo or debris caused by reasonable efforts at removal. [2003 c.410 §2; 2018 c.22 §8]
 
  
 
@@ -1613,25 +1589,25 @@ POLICE
 
       (3) The police officer may, within the discretion of the officer, permit the driver to proceed without removing the excess dimensions, or weights if the amount of excess weight does not exceed the following:
 
-______________________________________________________________________________
+ 
 
  
 
-      Individual wheel                                                500         pounds
+      Individual wheel                             500    pounds
 
-      Axle                                                                   1,000      pounds
+      Axle                                                1,000 pounds
 
-      Tandem axles                                                    2,000      pounds
+      Tandem axles                                 2,000 pounds
 
-      Group of axles                                                   3,000      pounds
+      Group of axles                                3,000 pounds
 
       Vehicle or combination
 
-            of vehicles                                                   4,000      pounds
+            of vehicles                                4,000 pounds
 
  
 
-______________________________________________________________________________
+ 
 
       (4) Discretionary action by the police officer under this section does not relieve the driver or chauffeur and owner of the vehicle or combination of vehicles of any criminal or other liability or responsibility.
 

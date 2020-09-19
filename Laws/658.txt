@@ -4,20 +4,6 @@ Chapter 658 — Employment Agencies; Farm Labor Contractors and Construction Lab
 
  
 
- 
-
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0008
-
- 
-
- 
-
-
- 
 
  
 
@@ -129,11 +115,11 @@ LABOR CONTRACTORS
 
  
 
-658.405     Definitions for ORS 658.405 to 658.503
+658.405     Definitions for ORS 658.405 to 658.511
 
  
 
-658.407     Administration and enforcement of ORS 658.405 to 658.503; rules
+658.407     Administration and enforcement of ORS 658.405 to 658.511; rules
 
  
 
@@ -185,7 +171,7 @@ LABOR CONTRACTORS
 
  
 
-658.428     Rules must require property services contractors to provide professional training
+658.428     Rules must require property services contractors to provide professional training; training requirements
 
  
 
@@ -233,7 +219,7 @@ LABOR CONTRACTORS
 
  
 
-658.475     Injunctive relief and damages for violation of ORS 658.405 to 658.503
+658.475     Injunctive relief and damages for violation of ORS 658.405 to 658.511
 
  
 
@@ -253,7 +239,7 @@ LABOR CONTRACTORS
 
  
 
-658.501     Application of ORS 658.405 to 658.503
+658.501     Application of ORS 658.405 to 658.511
 
  
 
@@ -425,7 +411,7 @@ EMPLOYMENT AGENCIES
 
  
 
-      658.015 Exemptions from ORS 658.005 to 658.245. (1) ORS 658.005 to 658.245 do not apply to labor contractors subject to ORS 658.405 to 658.503.
+      658.015 Exemptions from ORS 658.005 to 658.245. (1) ORS 658.005 to 658.245 do not apply to labor contractors subject to ORS 658.405 to 658.511.
 
       (2) ORS 658.005 to 658.245 do not apply to any nonprofit organization or corporation organized for the purpose of economic adjustment, civic betterment and the giving of professional guidance and placement to its members, when all of the following requirements are met:
 
@@ -835,7 +821,7 @@ LABOR CONTRACTORS
 
  
 
-      658.405 Definitions for ORS 658.405 to 658.503. As used in ORS 658.405 to 658.503 and 658.991 (2) and (3), unless the context requires otherwise:
+      658.405 Definitions for ORS 658.405 to 658.511. As used in ORS 658.405 to 658.511 and 658.991 (2) and (3), unless the context requires otherwise:
 
       (1) “Agricultural association” means a nonprofit or cooperative association of farmers, growers or ranchers that is incorporated under applicable state law and that acts as a farm labor contractor solely on behalf of members of the association.
 
@@ -921,23 +907,23 @@ LABOR CONTRACTORS
 
       (A) The Employment Department;
 
-      (B) A crew leader;
+      (B) Employees of a property services contractor who is licensed under ORS 658.405 to 658.511;
 
       (C) Individuals who perform labor pursuant to an agreement for exchanging their own labor or services with each other, provided the work is performed on land owned or leased by the individuals;
 
       (D) An educational institution that is recognized as such by the Department of Education; or
 
-      (E) A labor union. [1959 c.395 §1; 1961 c.390 §1; 1975 c.502 §1; 1981 c.606 §1; 1983 c.654 §3; 1985 c.314 §1; 1987 c.158 §128; 1991 c.848 §1; 1995 c.73 §1; 1999 c.628 §1; 2013 c.584 §1; 2017 c.676 §1]
+      (E) A labor union. [1959 c.395 §1; 1961 c.390 §1; 1975 c.502 §1; 1981 c.606 §1; 1983 c.654 §3; 1985 c.314 §1; 1987 c.158 §128; 1991 c.848 §1; 1995 c.73 §1; 1999 c.628 §1; 2013 c.584 §1; 2017 c.676 §1; 2018 c.8 §1]
 
  
 
-      658.407 Administration and enforcement of ORS 658.405 to 658.503; rules. The Commissioner of the Bureau of Labor and Industries shall administer and enforce ORS 658.405 to 658.503, and in so doing shall:
+      658.407 Administration and enforcement of ORS 658.405 to 658.511; rules. The Commissioner of the Bureau of Labor and Industries shall administer and enforce ORS 658.405 to 658.511, and in so doing shall:
 
       (1) Investigate and attempt to adjust equitably controversies between labor contractors and their workers with respect to claims arising under ORS 658.415 (3) or 658.419.
 
       (2) Take appropriate action to establish the liability or lack thereof of the labor contractor for wages of the employees of the labor contractor and if appropriate proof exists of liability for wages the commissioner shall pay the same or such part thereof as the commissioner has funds on deposit or cause the surety company to forthwith pay the entire liability or such part thereof as the sums due under the bond will permit.
 
-      (3) Adopt appropriate rules to administer ORS 658.405 to 658.503. [1971 c.479 §2; 1973 c.401 §1; 1975 c.502 §2; 1989 c.164 §10; 1991 c.331 §99; 1995 c.73 §6; 1999 c.628 §7; 2013 c.584 §3]
+      (3) Adopt appropriate rules to administer ORS 658.405 to 658.511. [1971 c.479 §2; 1973 c.401 §1; 1975 c.502 §2; 1989 c.164 §10; 1991 c.331 §99; 1995 c.73 §6; 1999 c.628 §7; 2013 c.584 §3]
 
  
 
@@ -971,17 +957,23 @@ LABOR CONTRACTORS
 
       (g) For a farm labor contractor license only, to an agricultural association that is authorized to do business in Oregon by the Office of Secretary of State.
 
+      (h) For a property services contractor license only:
+
+      (A) To any of the business entities described in paragraphs (b) to (f) of this subsection, provided that each entity includes with the application for a license under ORS 658.415 the names and addresses of one or more individuals who are responsible, financially and otherwise, for fulfilling the entity’s obligations consistent with the provisions of ORS 658.405 to 658.511.
+
+      (B) To a private nonprofit corporation authorized to do business in Oregon by the Office of Secretary of State and designated by the Internal Revenue Service as exempt under section 501(c)(3) of the Internal Revenue Code provided that the corporation is primarily engaged in recruiting, soliciting, supplying or employing workers.
+
       (3) The majority shareholder or majority shareholders of a corporation or limited liability company are not required to be licensed under this section if the corporation or limited liability company:
 
       (a)(A) Publicly trades its shares of stock on a stock exchange regulated by the United States Securities and Exchange Commission; or
 
       (B) Has 10 or more shareholders and demonstrates to the satisfaction of the commissioner that the corporation or limited liability company is adequately capitalized; and
 
-      (b) Is authorized to do business in Oregon by the Office of Secretary of State. [1959 c.395 §2; 1961 c.390 §2; 1983 c.476 §1; 1983 c.654 §4; 1989 c.164 §2; 1999 c.628 §2; 2001 c.178 §1; 2013 c.584 §4]
+      (b) Is authorized to do business in Oregon by the Office of Secretary of State. [1959 c.395 §2; 1961 c.390 §2; 1983 c.476 §1; 1983 c.654 §4; 1989 c.164 §2; 1999 c.628 §2; 2001 c.178 §1; 2013 c.584 §4; 2018 c.8 §2]
 
  
 
-      658.411 Licensing subject to employee indorsement; terms and conditions. (1) An employee of a labor contractor who is licensed under ORS 658.405 to 658.503 may be licensed as a labor contractor subject to an employee indorsement if the employee continuously meets all of the following conditions:
+      658.411 Licensing subject to employee indorsement; terms and conditions. (1) An employee of a labor contractor who is licensed under ORS 658.405 to 658.511 may be licensed as a labor contractor subject to an employee indorsement if the employee continuously meets all of the following conditions:
 
       (a) The employee’s employer has filed with the Commissioner of the Bureau of Labor and Industries a signed statement, in a form required by the commissioner, agreeing to sponsor the application and to notify the commissioner promptly upon termination of the employment of the employee;
 
@@ -1001,17 +993,29 @@ LABOR CONTRACTORS
 
       (b) Comply with ORS 658.440 (1)(j).
 
+      (c) Provide any of the following information that is of a personal nature if the labor contractor subject to an employee indorsement is an employee of a property services contractor:
+
+      (A) A Social Security number;
+
+      (B) A home address and telephone number;
+
+      (C) Personal financial information; and
+
+      (D) Personal income tax or property tax information.
+
       (3) The license of a labor contractor subject to an employee indorsement shall state the conditions contained in subsection (1) of this section on its face and shall state that a labor contractor subject to an employee indorsement who operates out of compliance with these restrictions is an unlicensed labor contractor.
 
-      (4) A labor contractor who employs another labor contractor is personally, jointly and severally liable for any damages, attorney fees or costs awarded against the employee for the actions of the labor contractor employee undertaken within the scope of employment, or for actions of the employee that the employee takes under color of an employee’s license subject to an employee indorsement that are known, or reasonably should have been known, by the employer. In the case of a labor contractor that is a corporation, both the corporation and the licensed majority shareholder or shareholders are so liable. [1995 c.73 §3; 2005 c.340 §3; 2007 c.160 §4; 2013 c.584 §5]
+      (4) A labor contractor who employs another labor contractor is personally, jointly and severally liable for any damages, attorney fees or costs awarded against the employee for the actions of the labor contractor employee undertaken within the scope of employment, or for actions of the employee that the employee takes under color of an employee’s license subject to an employee indorsement that are known, or reasonably should have been known, by the employer. In the case of a labor contractor that is a corporation, both the corporation and the licensed majority shareholder or shareholders are so liable. [1995 c.73 §3; 2005 c.340 §3; 2007 c.160 §4; 2013 c.584 §5; 2018 c.8 §3]
 
  
 
-      658.412 License examination; rules. The Commissioner of the Bureau of Labor and Industries may not issue a license to operate as a labor contractor until an applicant for a license has successfully passed a qualifying examination designed to test the applicant’s ability, knowledge and proficiency to conduct and manage the business of a labor contractor. The examination must also test the applicant’s knowledge of an employer’s responsibility to prevent sexual assault and sexual harassment. The commissioner shall prescribe by rule the requirements for and the manner of testing the competency of license applicants. [1989 c.164 §3; 2013 c.584 §6; 2017 c.676 §5]
+      658.412 License examination; rules. (1) The Commissioner of the Bureau of Labor and Industries may not issue a license to operate as a labor contractor until an applicant for a license has successfully passed a qualifying examination designed to test the applicant’s ability, knowledge and proficiency to conduct and manage the business of a labor contractor. The examination must also test the applicant’s knowledge of an employer’s responsibility to prevent sexual assault and sexual harassment. The commissioner shall prescribe by rule the requirements for and the manner of testing the competency of license applicants.
+
+      (2) In prescribing requirements for testing applicants for a property services contractor license, the commissioner may establish a process to administer the examination in-person, through an online electronic medium or in any other manner as the commissioner may specify. [1989 c.164 §3; 2013 c.584 §6; 2017 c.676 §5; 2018 c.8 §4]
 
  
 
-      658.413 Fee schedule for licenses, indorsements and renewals; rules. (1) The Commissioner of the Bureau of Labor and Industries shall establish by rule a fee schedule for issuing and renewing licenses and indorsements under ORS 658.405 to 658.503 and 658.705 to 658.850. The fees shall be in amounts reasonably necessary to provide sufficient funds to administer ORS 658.405 to 658.503 and 658.705 to 658.850. Annual fees may not exceed the following amounts:
+      658.413 Fee schedule for licenses, indorsements and renewals; rules. (1) The Commissioner of the Bureau of Labor and Industries shall establish by rule a fee schedule for issuing and renewing licenses and indorsements under ORS 658.405 to 658.511 and 658.705 to 658.850. The fees shall be in amounts reasonably necessary to provide sufficient funds to administer ORS 658.405 to 658.511 and 658.705 to 658.850. Annual fees may not exceed the following amounts:
 
       (a) $150 for a farm labor contractor license.
 
@@ -1029,25 +1033,29 @@ LABOR CONTRACTORS
 
       (3) Fees may not be refunded or prorated.
 
-      (4) All fees received pursuant to this section shall be credited to the Bureau of Labor and Industries Account and are continuously appropriated to the Bureau of Labor and Industries to be used only for the administration of ORS 658.405 to 658.503 and 658.705 to 658.850. [1999 c.399 §2; 2013 c.424 §1; 2017 c.208 §1]
+      (4) All fees received pursuant to this section shall be credited to the Bureau of Labor and Industries Account and are continuously appropriated to the Bureau of Labor and Industries to be used only for the administration of ORS 658.405 to 658.511 and 658.705 to 658.850. [1999 c.399 §2; 2013 c.424 §1; 2017 c.208 §1]
 
  
 
-      658.415 Application for license; proof of insurance and financial responsibility; exceptions; proceedings to collect wages owed by labor contractor; commissioner as agent for service of process; rules. (1) A person may not act as a labor contractor unless the person has first been licensed by the Commissioner of the Bureau of Labor and Industries under ORS 658.405 to 658.503. Any person may file an application for a license to act as a labor contractor at any office of the Bureau of Labor and Industries. The application shall be sworn to by the applicant and shall be written on a form prescribed by the commissioner. The form shall include, but not be limited to, questions asking:
+      658.415 Application for license; proof of insurance and financial responsibility; exceptions; proceedings to collect wages owed by labor contractor; commissioner as agent for service of process; rules. (1) A person may not act as a labor contractor unless the person has first been licensed by the Commissioner of the Bureau of Labor and Industries under ORS 658.405 to 658.511. Any person may file an application for a license to act as a labor contractor at any office of the Bureau of Labor and Industries. The application shall be sworn to by the applicant and shall be written on a form prescribed by the commissioner. The form shall include, but not be limited to, questions asking:
 
       (a) The applicant’s name, Oregon address and all other temporary and permanent addresses the applicant uses or knows will be used in the future.
 
       (b) Information on all motor vehicles to be used by the applicant in operations as a labor contractor including license number and state of licensure, vehicle number and the name and address of vehicle owner for all vehicles used.
 
-      (c) Whether or not the applicant was ever denied a license under ORS 658.405 to 658.503 within the preceding three years, or in this or any other jurisdiction had a labor contract license denied, revoked or suspended within the preceding three years.
+      (c) Whether or not the applicant was ever denied a license under ORS 658.405 to 658.511 within the preceding three years, or in this or any other jurisdiction had a labor contract license denied, revoked or suspended within the preceding three years.
 
-      (d) The names and addresses of all persons financially interested, whether as partners, shareholders, associates or profit-sharers, in the applicant’s proposed operations as a labor contractor, together with the amount of their respective interests, and whether or not, to the best of the applicant’s knowledge, any of these persons was ever denied a license under ORS 658.405 to 658.503 within the preceding three years, or had a labor contractor license denied, revoked or suspended within the preceding three years in this or any other jurisdiction.
+      (d) The names and addresses of all persons financially interested, whether as partners, shareholders, associates or profit-sharers, in the applicant’s proposed operations as a labor contractor, together with the amount of their respective interests, and whether or not, to the best of the applicant’s knowledge, any of these persons was ever denied a license under ORS 658.405 to 658.511 within the preceding three years, or had a labor contractor license denied, revoked or suspended within the preceding three years in this or any other jurisdiction.
 
-      (2) Each applicant shall furnish satisfactory proof with the application:
+      (2) Each applicant shall furnish satisfactory proof with the application of the existence of:
 
-      (a) Of the existence of a policy of insurance in an amount adequate under rules issued by the commissioner for vehicles to be used to transport workers. For the purpose of this paragraph, the certificate of an insurance producer licensed in Oregon is satisfactory proof of adequate insurance.
+      (a) A policy of insurance in an amount adequate under rules issued by the commissioner for vehicles to be used to transport workers. Satisfactory proof of adequate insurance includes:
 
-      (b) Of the existence of workers’ compensation insurance as provided in ORS 658.440 (1)(j). The commissioner may adopt rules concerning satisfactory proof of adequate workers’ compensation insurance.
+      (A) The certificate of an insurance producer licensed in Oregon.
+
+      (B) For property services contractors only, documentation that provides the insurance policy number, the amount of coverage under the policy and the name of the insurance producer.
+
+      (b) Workers’ compensation insurance as provided in ORS 658.440 (1)(j). The commissioner may adopt rules concerning satisfactory proof of adequate workers’ compensation insurance.
 
       (3) Except as provided in subsection (6) of this section, each applicant shall submit with the application and shall continually maintain thereafter, until excused, proof of financial ability to promptly pay the wages of employees and other obligations specified in this section. The proof required in this subsection shall be in the form of a corporate surety bond of a company licensed to do such business in Oregon, a cash deposit or a deposit the equivalent of cash. For the purposes of this subsection, it shall be deemed sufficient compliance if the labor contractor procures a savings account at a bank or savings and loan institution in the name of the commissioner as trustee for the employees of the labor contractor and others as their interests may appear and delivers proof of the account and the ability to withdraw the funds to the commissioner under the terms of a bond approved by the commissioner. The amount of the bond and the security behind the bond, or the cash deposit, shall be based on the maximum number of employees the labor contractor employs at any time during the year. The bond or cash deposit shall be:
 
@@ -1119,11 +1127,11 @@ ______________________________________________________________________________
 
       (19) A person who cosigns with a labor contractor for a bond required by subsection (3) of this section or by ORS 658.419 is not personally or jointly and severally liable for unpaid wages above the amount of the bond solely because the person cosigned for the bond.
 
-      (20) The court may award reasonable attorney fees to the prevailing party in any action to enforce the provisions of this section or ORS 658.419. [1959 c.395 §§3,4; 1961 c.390 §3; 1971 c.479 §3; 1973 c.401 §2; 1975 c.502 §3; 1979 c.883 §1; 1981 c.606 §2; 1981 c.897 §93; 1989 c.164 §11; 1989 c.930 §2; 1991 c.331 §100; 1993 c.723 §1; 1995 c.73 §2; 1995 c.618 §115; 1999 c.399 §3; 1999 c.628 §6; 2003 c.364 §54; 2003 c.576 §534; 2005 c.22 §465; 2007 c.160 §1; 2013 c.584 §7; 2017 c.676 §6]
+      (20) The court may award reasonable attorney fees to the prevailing party in any action to enforce the provisions of this section or ORS 658.419. [1959 c.395 §§3,4; 1961 c.390 §3; 1971 c.479 §3; 1973 c.401 §2; 1975 c.502 §3; 1979 c.883 §1; 1981 c.606 §2; 1981 c.897 §93; 1989 c.164 §11; 1989 c.930 §2; 1991 c.331 §100; 1993 c.723 §1; 1995 c.73 §2; 1995 c.618 §115; 1999 c.399 §3; 1999 c.628 §6; 2003 c.364 §54; 2003 c.576 §534; 2005 c.22 §465; 2007 c.160 §1; 2013 c.584 §7; 2017 c.676 §6; 2018 c.8 §5]
 
  
 
-      658.416 Reduction of bond or deposit; conditions. If the Commissioner of the Bureau of Labor and Industries finds that an applicant has operated as an Oregon licensed labor contractor without an employee indorsement for at least two years in compliance with ORS 658.405 to 658.503 and with any other laws pertaining to the conduct of labor contractors, and that no valid claims for unpaid wages have been made against the applicant, then the commissioner may reduce the amount of the bond or deposit that would otherwise be required pursuant to ORS 658.415 (3) to an amount determined by the commissioner, but in no event less than the following:
+      658.416 Reduction of bond or deposit; conditions. If the Commissioner of the Bureau of Labor and Industries finds that an applicant has operated as an Oregon licensed labor contractor without an employee indorsement for at least two years in compliance with ORS 658.405 to 658.511 and with any other laws pertaining to the conduct of labor contractors, and that no valid claims for unpaid wages have been made against the applicant, then the commissioner may reduce the amount of the bond or deposit that would otherwise be required pursuant to ORS 658.415 (3) to an amount determined by the commissioner, but in no event less than the following:
 
       (1) If the commissioner finds that the labor contractor has so operated for a period of at least five years, $20,000;
 
@@ -1135,7 +1143,7 @@ ______________________________________________________________________________
 
  
 
-      658.417 Additional requirements for forestation activities. In addition to the regulation otherwise imposed upon labor contractors pursuant to ORS 658.405 to 658.503, a person who acts as a farm labor contractor with regard to the forestation or reforestation of lands shall:
+      658.417 Additional requirements for forestation activities. In addition to the regulation otherwise imposed upon labor contractors pursuant to ORS 658.405 to 658.511, a person who acts as a farm labor contractor with regard to the forestation or reforestation of lands shall:
 
       (1) Obtain a special indorsement from the Commissioner of the Bureau of Labor and Industries on the license required by ORS 658.410 that authorizes the person to act as a farm labor contractor with regard to the forestation or reforestation of lands.
 
@@ -1183,7 +1191,7 @@ ______________________________________________________________________________
 
       (c) The applicant has paid in advance the fee established under ORS 658.413.
 
-      (d) The applicant or any person financially interested in the applicant’s proposed operation as a labor contractor, whether as a partner, shareholder, associate, profitsharer or otherwise, has not been denied a license in a jurisdiction other than Oregon or under ORS 658.405 to 658.503 within the preceding three years, nor has had such a license revoked or suspended in Oregon or any other jurisdiction within the preceding three years, as appears of record with the commissioner.
+      (d) The applicant or any person financially interested in the applicant’s proposed operation as a labor contractor, whether as a partner, shareholder, associate, profitsharer or otherwise, has not been denied a license in a jurisdiction other than Oregon or under ORS 658.405 to 658.511 within the preceding three years, nor has had such a license revoked or suspended in Oregon or any other jurisdiction within the preceding three years, as appears of record with the commissioner.
 
       (2) Any temporary permit expires immediately if the commissioner rejects the application of the person holding that permit.
 
@@ -1203,13 +1211,21 @@ ______________________________________________________________________________
 
  
 
-      658.428 Rules must require property services contractors to provide professional training. Rules adopted under ORS 658.427 shall require that a property services contractor provide professional training through or approved by the Bureau of Labor and Industries to managers, supervisors and employees:
+      658.428 Rules must require property services contractors to provide professional training; training requirements. (1) Rules adopted under ORS 658.427 shall require that a property services contractor provide professional training through or approved by the Bureau of Labor and Industries to employees of the property services contractor who perform janitorial services, and to employees who manage or supervise those employees, in order to:
 
-      (1) To prevent sexual assault and sexual harassment in the workplace.
+      (a) Prevent sexual assault and sexual harassment in the workplace.
 
-      (2) To prevent discrimination in the workplace and promote cultural competency.
+      (b) Prevent discrimination in the workplace and promote cultural competency.
 
-      (3) To educate the workforce regarding protection for employees who report a violation of a state or federal law, rule or regulation. [2017 c.676 §4]
+      (c) Educate the workforce regarding protection for employees who report a violation of a state or federal law, rule or regulation.
+
+      (2) A property services contractor shall provide the training as follows:
+
+      (a) At least once during the year in which a property services contractor license is first issued to a property services contractor;
+
+      (b) For new employees, within 90 days of the employee’s initial hiring date; and
+
+      (c) At least once every two years after the renewal of a license. [2017 c.676 §4; 2018 c.8 §6]
 
  
 
@@ -1227,7 +1243,7 @@ ______________________________________________________________________________
 
       (2) Applications for renewal of the license shall be made 30 days prior to the expiration date by payment of the fee established under ORS 658.413, but the commissioner may require any person seeking renewal to file a new application under ORS 658.415 (1) and (2) and may conduct a new investigation of the applicant’s character, competence and reliability, and of any other matter relating to the manner by which the applicant proposes to conduct and has conducted operations as a labor contractor.
 
-      (3) If the commissioner finds that an applicant has operated as an Oregon licensed labor contractor, other than as an employee under ORS 658.411, for at least two years in compliance with ORS 658.405 to 658.503 and with any other laws pertaining to the conduct of labor contractors, and that no valid claims for unpaid wages have been made against the applicant, at the request of the applicant the commissioner may renew the license for a term of two or four years. The fee for a license renewed for two or four years is the annual fee established for the license under ORS 658.413 multiplied by the number of years in the renewal term. Notwithstanding any other provision of ORS 658.405 to 658.503, the fee described in this subsection must accompany an application for renewal under this subsection. [1959 c.395 §7; 1975 c.502 §5; 1985 c.252 §1; 1989 c.930 §3; 1999 c.399 §6; 2013 c.584 §14; 2017 c.208 §2]
+      (3) If the commissioner finds that an applicant has operated as an Oregon licensed labor contractor, other than as an employee under ORS 658.411, for at least two years in compliance with ORS 658.405 to 658.511 and with any other laws pertaining to the conduct of labor contractors, and that no valid claims for unpaid wages have been made against the applicant, at the request of the applicant the commissioner may renew the license for a term of two or four years. The fee for a license renewed for two or four years is the annual fee established for the license under ORS 658.413 multiplied by the number of years in the renewal term. Notwithstanding any other provision of ORS 658.405 to 658.511, the fee described in this subsection must accompany an application for renewal under this subsection. [1959 c.395 §7; 1975 c.502 §5; 1985 c.252 §1; 1989 c.930 §3; 1999 c.399 §6; 2013 c.584 §14; 2017 c.208 §2]
 
  
 
@@ -1275,17 +1291,19 @@ ______________________________________________________________________________
 
       (H) The existence of a labor dispute at the worksite.
 
-      (I) The worker’s rights and remedies under ORS chapters 654 and 656, ORS 658.405 to 658.503, the Service Contract Act (41 U.S.C. 351-401) and any other such law specified by the Commissioner of the Bureau of Labor and Industries, in plain and simple language in a form specified by the commissioner.
+      (I) The worker’s rights and remedies under ORS chapters 654 and 656, ORS 658.405 to 658.511, the Service Contract Act (41 U.S.C. 351-401) and any other such law specified by the Commissioner of the Bureau of Labor and Industries, in plain and simple language in a form specified by the commissioner.
 
       (g) At the time of hiring and prior to the worker performing any work for the labor contractor, execute a written agreement between the worker and the labor contractor containing the terms and conditions described in paragraph (f)(A) to (I) of this subsection. The written agreement shall be in the English language and any other language used by the labor contractor to communicate with the workers.
 
       (h) Furnish to the worker, each time the worker receives a compensation payment from the labor contractor, a written statement itemizing the total payment and amount and purpose of each deduction therefrom, hours worked and rate of pay or rate of pay and pieces done if the work is done on a piece rate basis, and if the work is done under the Service Contract Act (41 U.S.C. 351-401) or related federal or state law, a written statement of any applicable prevailing wage.
 
-      (i) Provide to the commissioner a certified true copy of all payroll records for work done as a labor contractor when the contractor pays employees directly. The records shall be submitted in such form and at such times and shall contain such information as the commissioner, by rule, may prescribe.
+      (i) Except for a person acting as a property services contractor, provide to the commissioner a certified true copy of all payroll records for work done as a labor contractor when the contractor pays employees directly. The records shall be submitted in such form and at such times and shall contain such information as the commissioner, by rule, may prescribe.
 
       (j)(A) If the person is a farm labor contractor engaged in the forestation or reforestation of lands, provide workers’ compensation insurance for each individual who performs manual labor in forestation or reforestation activities regardless of the business form of the contractor and regardless of any contractual relationship that may be alleged to exist between the contractor and the workers notwithstanding ORS 656.027, unless workers’ compensation insurance is otherwise provided; or
 
       (B) If the person is a farm labor contractor but is not engaged in the forestation or reforestation of lands, provide workers’ compensation insurance to the extent required under ORS chapter 656, unless workers’ compensation insurance is otherwise provided.
+
+      (k) If the person is a property services contractor, provide time and pay records, as defined in ORS 652.750, to the commissioner or an employee of the property services contractor who requests the records, no later than 45 days after receipt of the request. A property services contractor that fails to comply with the requirements of this paragraph is subject to civil penalty under ORS 652.900.
 
       (2) If the labor contractor:
 
@@ -1305,17 +1323,17 @@ ______________________________________________________________________________
 
       (d) Knowingly employ an alien not legally present or legally employable in the United States.
 
-      (e) Assist an unlicensed person to act in violation of ORS 658.405 to 658.503.
+      (e) Assist an unlicensed person to act in violation of ORS 658.405 to 658.511.
 
       (f) By force, intimidation or threat of procuring dismissal or deportation or by any other manner whatsoever, induce any worker employed or in a subcontracting relationship to the labor contractor to give up any part of the compensation to which the worker is entitled under the contract of employment or under federal or state wage laws.
 
-      (g) Solicit or induce, or cause to be solicited or induced, the travel of a worker from one place to another by representing to a worker that employment for the worker is available at the destination when employment for the worker is not available within 30 days after the date the work was represented as being available. [1959 c.395 §§9, 10; 1961 c.390 §5; 1971 c.479 §4; 1975 c.502 §6; 1981 c.606 §3; 1983 c.654 §6; 1989 c.164 §4; 2005 c.340 §2; 2007 c.160 §3; 2013 c.584 §16]
+      (g) Solicit or induce, or cause to be solicited or induced, the travel of a worker from one place to another by representing to a worker that employment for the worker is available at the destination when employment for the worker is not available within 30 days after the date the work was represented as being available. [1959 c.395 §§9, 10; 1961 c.390 §5; 1971 c.479 §4; 1975 c.502 §6; 1981 c.606 §3; 1983 c.654 §6; 1989 c.164 §4; 2005 c.340 §2; 2007 c.160 §3; 2013 c.584 §16; 2018 c.8 §7]
 
  
 
       658.445 Revocation, suspension or refusal to renew license. The Commissioner of the Bureau of Labor and Industries may revoke, suspend or refuse to renew a license to act as a labor contractor upon the commissioner’s own motion or upon complaint by any individual, if:
 
-      (1) The licensee or agent has violated or failed to comply with any provision of ORS 658.405 to 658.503 and 658.991 (2) and (3);
+      (1) The licensee or agent has violated or failed to comply with any provision of ORS 658.405 to 658.511 and 658.991 (2) and (3);
 
       (2) The conditions under which the license was issued have changed or no longer exist; or
 
@@ -1325,7 +1343,7 @@ ______________________________________________________________________________
 
       658.450 Applicability of Administrative Procedures Act. (1) All proceedings relating to the issuance, revocation, suspension, renewal or refusal to renew a license to act as a labor contractor shall be conducted under ORS chapter 183.
 
-      (2) All rules of the Bureau of Labor and Industries under ORS 658.405 to 658.503 shall be issued in compliance with ORS chapter 183. [1959 c.395 §12; 2013 c.584 §18]
+      (2) All rules of the Bureau of Labor and Industries under ORS 658.405 to 658.511 shall be issued in compliance with ORS chapter 183. [1959 c.395 §12; 2013 c.584 §18]
 
  
 
@@ -1333,17 +1351,17 @@ ______________________________________________________________________________
 
       (1) The employee has made a claim against the labor contractor or employer for compensation for the employee’s own personal services.
 
-      (2) The employee has caused to be instituted any proceedings under or related to ORS 658.405 to 658.503.
+      (2) The employee has caused to be instituted any proceedings under or related to ORS 658.405 to 658.511.
 
       (3) The employee has testified or is about to testify in any such proceedings.
 
-      (4) The employee has discussed or consulted with anyone concerning the employee’s rights under ORS 658.405 to 658.503. [1975 c.397 §4; 1981 c.606 §4; 2013 c.584 §19]
+      (4) The employee has discussed or consulted with anyone concerning the employee’s rights under ORS 658.405 to 658.511. [1975 c.397 §4; 1981 c.606 §4; 2013 c.584 §19]
 
  
 
       658.453 Civil penalty; disposition of funds; civil action by worker. (1) In addition to any other penalty provided by law, the Commissioner of the Bureau of Labor and Industries may assess a civil penalty not to exceed $2,000 for each violation by:
 
-      (a) A labor contractor who, without the license required by ORS 658.405 to 658.503, recruits, solicits, supplies or employs a worker.
+      (a) A labor contractor who, without the license required by ORS 658.405 to 658.511, recruits, solicits, supplies or employs a worker.
 
       (b) A labor contractor who fails to comply with ORS 658.415 (16).
 
@@ -1363,13 +1381,13 @@ ______________________________________________________________________________
 
  
 
-      658.455 Disposition of moneys received. Except as provided in ORS 658.453 (3) and 658.815, and except for money received under a bond or deposit as provided in ORS 658.415 (3), 658.419 or 658.735 (1), all fees and other money received by the Commissioner of the Bureau of Labor and Industries under ORS 658.405 to 658.503 and 658.705 to 658.850 shall be credited and used as provided in ORS 658.413. [1959 c.395 §13; 1973 c.401 §3; 1975 c.502 §7; 1991 c.489 §1; 1999 c.399 §7; 1999 c.628 §9]
+      658.455 Disposition of moneys received. Except as provided in ORS 658.453 (3) and 658.815, and except for money received under a bond or deposit as provided in ORS 658.415 (3), 658.419 or 658.735 (1), all fees and other money received by the Commissioner of the Bureau of Labor and Industries under ORS 658.405 to 658.511 and 658.705 to 658.850 shall be credited and used as provided in ORS 658.413. [1959 c.395 §13; 1973 c.401 §3; 1975 c.502 §7; 1991 c.489 §1; 1999 c.399 §7; 1999 c.628 §9]
 
  
 
       658.465 Liability of person using services of unlicensed labor contractor; prohibition on issuance of bond to unlicensed labor contractor. (1) Any person who knowingly uses the services of an unlicensed labor contractor shall be personally, jointly and severally liable with the person acting as a labor contractor to the same extent and in the same manner as provided in ORS 658.453 (4).
 
-      (2) A surety insurer may not provide any bond, undertaking, recognizance or other obligation for the purpose of securing or guaranteeing any act, duty or obligation, or the refraining from any act with respect to a contract using the services of a labor contractor unless the labor contractor has a valid license issued pursuant to ORS 658.405 to 658.503 at the time of issuance of the bond, undertaking, recognizance or other obligation. [1981 c.607 §2; 1983 c.654 §8; 2013 c.584 §21]
+      (2) A surety insurer may not provide any bond, undertaking, recognizance or other obligation for the purpose of securing or guaranteeing any act, duty or obligation, or the refraining from any act with respect to a contract using the services of a labor contractor unless the labor contractor has a valid license issued pursuant to ORS 658.405 to 658.511 at the time of issuance of the bond, undertaking, recognizance or other obligation. [1981 c.607 §2; 1983 c.654 §8; 2013 c.584 §21]
 
  
 
@@ -1377,11 +1395,11 @@ ______________________________________________________________________________
 
  
 
-      658.475 Injunctive relief and damages for violation of ORS 658.405 to 658.503. The Commissioner of the Bureau of Labor and Industries, or any other person, may bring an action in circuit court to enjoin any person from using the services of an unlicensed labor contractor or to enjoin any person acting as a labor contractor in violation of ORS 658.405 to 658.503, or rules promulgated pursuant thereto, from committing future violations. The court may award to the prevailing party costs and disbursements and a reasonable attorney fee. In addition, the amount of damages recoverable from a person acting as a labor contractor who violates ORS 658.410 or 658.440 (1)(i) or (j) or (3)(e) is actual damages or $2,000, whichever amount is greater. [1981 c.607 §3; 1983 c.654 §9; 1989 c.164 §13; 2005 c.340 §6; 2007 c.160 §6; 2007 c.161 §1; 2013 c.584 §22]
+      658.475 Injunctive relief and damages for violation of ORS 658.405 to 658.511. The Commissioner of the Bureau of Labor and Industries, or any other person, may bring an action in circuit court to enjoin any person from using the services of an unlicensed labor contractor or to enjoin any person acting as a labor contractor in violation of ORS 658.405 to 658.511, or rules promulgated pursuant thereto, from committing future violations. The court may award to the prevailing party costs and disbursements and a reasonable attorney fee. In addition, the amount of damages recoverable from a person acting as a labor contractor who violates ORS 658.410 or 658.440 (1)(i) or (j) or (3)(e) is actual damages or $2,000, whichever amount is greater. [1981 c.607 §3; 1983 c.654 §9; 1989 c.164 §13; 2005 c.340 §6; 2007 c.160 §6; 2007 c.161 §1; 2013 c.584 §22]
 
  
 
-      658.480 Authority of commissioner to enter into reciprocal agreements. The Commissioner of the Bureau of Labor and Industries may enter into an agreement with an agency of another state for the reciprocal enforcement of statutes regulating farm labor contractors, if the other state has a reciprocal statute similar to this section or otherwise authorizes the reciprocal enforcement of statutes regulating farm labor contractors in a manner substantially similar to ORS 658.405 to 658.503. [1985 c.252 §3]
+      658.480 Authority of commissioner to enter into reciprocal agreements. The Commissioner of the Bureau of Labor and Industries may enter into an agreement with an agency of another state for the reciprocal enforcement of statutes regulating farm labor contractors, if the other state has a reciprocal statute similar to this section or otherwise authorizes the reciprocal enforcement of statutes regulating farm labor contractors in a manner substantially similar to ORS 658.405 to 658.511. [1985 c.252 §3]
 
  
 
@@ -1399,7 +1417,9 @@ ______________________________________________________________________________
 
  
 
-      658.501 Application of ORS 658.405 to 658.503. ORS 658.405 to 658.503 apply to all transactions, acts and omissions of labor contractors and users of labor contractors that are within the constitutional power of the state to regulate, and not preempted by federal law, including but not limited to the recruitment of workers in this state to perform work outside this state, the recruitment of workers outside of this state to perform work in whole or in part within this state, the housing of workers in this state for work in another state, the housing of workers from another state in connection with work to be performed in this state, the transportation of workers through this state and the payment, terms and conditions, disclosure and record keeping required with respect to work performed outside this state by workers recruited in this state. [1989 c.164 §9; 2013 c.584 §24]
+      658.501 Application of ORS 658.405 to 658.511. (1) ORS 658.405 to 658.511 apply to all transactions, acts and omissions of labor contractors and users of labor contractors that are within the constitutional power of the state to regulate, and not preempted by federal law, including but not limited to the recruitment of workers in this state to perform work outside this state, the recruitment of workers outside of this state to perform work in whole or in part within this state, the housing of workers in this state for work in another state, the housing of workers from another state in connection with work to be performed in this state, the transportation of workers through this state and the payment, terms and conditions, disclosure and record keeping required with respect to work performed outside this state by workers recruited in this state.
+
+      (2) The provisions of ORS 658.405 to 658.511 apply only to labor contractors and employees of labor contractors who perform those services for which a labor contractor license is required. [1989 c.164 §9; 2013 c.584 §24; 2018 c.8 §8]
 
  
 
@@ -1417,11 +1437,7 @@ ______________________________________________________________________________
 
  
 
-      658.511 Wage claim against property services contractor or construction labor contractor. Nothing in ORS 658.405 to 658.503 affects whether a person is an employee of a property services contractor, of a construction labor contractor or of a user of services provided by a property services contractor or a construction labor contractor for purposes of a wage claim under ORS chapters 652 and 653 or ORS 658.415. [2013 c.584 §28; 2017 c.676 §7]
-
- 
-
-      Note: 658.511 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 658 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      658.511 Wage claim against property services contractor or construction labor contractor. Nothing in ORS 658.405 to 658.511 affects whether a person is an employee of a property services contractor, of a construction labor contractor or of a user of services provided by a property services contractor or a construction labor contractor for purposes of a wage claim under ORS chapters 652 and 653 or ORS 658.415. [2013 c.584 §28; 2017 c.676 §7]
 
  
 
@@ -1497,7 +1513,7 @@ FARMWORKER CAMPS
 
       658.715 Farmworker camp operator requirements. (1) A person may not operate a farmworker camp unless the person:
 
-      (a) Is a farm labor contractor licensed under ORS 658.405 to 658.503, and the contractor first obtains an indorsement to do so as provided in ORS 658.730;
+      (a) Is a farm labor contractor licensed under ORS 658.405 to 658.511, and the contractor first obtains an indorsement to do so as provided in ORS 658.730;
 
       (b) Has a substantial ownership interest in the real property, subject to farm use special assessment under ORS 308A.050 to 308A.128, on which the camp is located or has any form of ownership interest in a business organization that operates the farmworker camp and files an income tax return reporting farm activity in the preceding tax year; or
 
@@ -1613,7 +1629,7 @@ FARMWORKER CAMPS
 
       658.755 Farmworker camp operator duties; prohibitions. (1) Every farmworker camp operator shall:
 
-      (a) If a farm labor contractor, comply with the provisions of ORS 658.405 to 658.503.
+      (a) If a farm labor contractor, comply with the provisions of ORS 658.405 to 658.511.
 
       (b) Comply with ORS chapter 654 and the administrative rules of the Department of Consumer and Business Services adopted pursuant to ORS chapter 654.
 
@@ -1635,7 +1651,7 @@ FARMWORKER CAMPS
 
       (d) Knowingly publish or circulate any false or misleading information concerning the terms, conditions or existence of housing or employment at any place.
 
-      (e) Assist a person who is not entitled to operate a farmworker camp under ORS 658.705 to 658.850 to act in violation of ORS 658.705 to 658.850 or in violation of ORS 658.405 to 658.503 or ORS chapter 654.
+      (e) Assist a person who is not entitled to operate a farmworker camp under ORS 658.705 to 658.850 to act in violation of ORS 658.705 to 658.850 or in violation of ORS 658.405 to 658.511 or ORS chapter 654.
 
       (f) By force, intimidation or threat in any manner whatsoever, induce any occupant of the farmworker camp to give up any part of the compensation the occupant is entitled to by contract or by any state or federal wage payment law.
 
@@ -1651,7 +1667,7 @@ FARMWORKER CAMPS
 
       (c) Has testified or is about to testify in any such proceedings.
 
-      (d) Has discussed or consulted with anyone concerning the occupant’s rights under ORS 658.405 to 658.503 or 658.705 to 658.850.
+      (d) Has discussed or consulted with anyone concerning the occupant’s rights under ORS 658.405 to 658.511 or 658.705 to 658.850.
 
       (2) The aggrieved person shall have the burden of proving that the discrimination was because of the protected activity. [1989 c.962 §8; 1991 c.67 §170]
 
@@ -1757,7 +1773,7 @@ PENALTIES
 
       (2) Violation of ORS 658.452 is a Class A misdemeanor.
 
-      (3) Any person who intentionally defaces, alters or changes a license or permit to act as a labor contractor, or who uses the license or permit of another or knowingly permits that person’s license or permit to be used by another, or who acts as a labor contractor without a valid license or permit under ORS 658.405 to 658.503, commits a Class A misdemeanor.
+      (3) Any person who intentionally defaces, alters or changes a license or permit to act as a labor contractor, or who uses the license or permit of another or knowingly permits that person’s license or permit to be used by another, or who acts as a labor contractor without a valid license or permit under ORS 658.405 to 658.511, commits a Class A misdemeanor.
 
       (4) Any person who willfully swears or affirms falsely under ORS 658.415 (1), (2) or (3) in regard to any matter concerning which an oath or affirmation is required, or who solicits or induces another person to do so, whether or not the matter sworn to or affirmed is material, commits a Class A misdemeanor.
 
@@ -1769,7 +1785,7 @@ PENALTIES
 
       (b) The person’s license to act as a labor contractor has been suspended, revoked or denied; or
 
-      (c) The person is acting in violation of an outstanding order of any court of competent jurisdiction arising out of the enforcement of ORS 658.405 to 658.503. [1953 c.694 §26; subsections (2) and (3) enacted as 1959 c.395 §14; 1961 c.390 §6; 1971 c.743 §406; 1975 c.397 §6; 1979 c.883 §4; 1983 c.654 §10; 1989 c.164 §6; 2003 c.406 §4; 2011 c.597 §272; 2013 c.584 §26]
+      (c) The person is acting in violation of an outstanding order of any court of competent jurisdiction arising out of the enforcement of ORS 658.405 to 658.511. [1953 c.694 §26; subsections (2) and (3) enacted as 1959 c.395 §14; 1961 c.390 §6; 1971 c.743 §406; 1975 c.397 §6; 1979 c.883 §4; 1983 c.654 §10; 1989 c.164 §6; 2003 c.406 §4; 2011 c.597 §272; 2013 c.584 §26]
 
 _______________
 

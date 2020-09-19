@@ -1,13 +1,11 @@
 
 
-Chapter 427 — Persons With Intellectual or Developmental Disabilitie
+Chapter 427 — Persons With Intellectual or Developmental Disabilities
 
  
 
 
  
-
-s
 
  
 
@@ -15,7 +13,7 @@ INTELLECTUAL OR DEVELOPMENTAL DISABILITIES
 
  
 
-MENTAL HEALTH; ALCOHOL AND DRUG TREATMENT
+MENTAL HEALTH; SUBSTANCE ABUSE TREATMENT
 
  
 
@@ -39,7 +37,7 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-427.101     Definitions for ORS 427.115, 427.154 and 427.160
+427.101     Definitions for ORS 427.115, 427.121, 427.154, 430.662 and 430.664
 
  
 
@@ -59,7 +57,7 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-427.109     Dispute resolution procedures
+427.109     Complaint procedures
 
  
 
@@ -71,7 +69,7 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-427.121     Choice of placement setting
+427.121     Choice of community living setting
 
  
 
@@ -80,10 +78,6 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
  
 
 427.154     Individualized written service plan; requirements; rules
-
- 
-
-427.160     Support service brokerages
 
  
 
@@ -155,7 +149,7 @@ COMMUNITY HOUSING
 
  
 
-427.330     Definitions for ORS 427.330 to 427.345
+427.330     Definitions for ORS 427.330 to 427.340
 
  
 
@@ -163,11 +157,35 @@ COMMUNITY HOUSING
 
  
 
-427.340     Developmental Disabilities Community Housing Fund; Community Housing Trust Account; reports
+427.340     Developmental Disabilities Community Housing Fund
 
  
 
-427.345     Sale of state training center; fair market value; use of proceeds
+427.347     Administration of Developmental Disabilities Community Housing Fund by Oregon Community Foundation
+
+ 
+
+427.348     Appointment of advisory committee
+
+ 
+
+OREGON HUMAN RIGHTS COMMISSION
+
+ 
+
+427.401     Oregon Human Rights Commission established; membership; rules
+
+ 
+
+427.403     Commission to establish statewide regional advisory committee
+
+ 
+
+CIVIL PENALTIES
+
+ 
+
+427.900     Authority of Department of Human Services to impose civil penalties; rules
 
  
 
@@ -191,17 +209,15 @@ GENERAL PROVISIONS
 
       (3) “Community developmental disabilities program director” means the director of an entity that provides services described in ORS 430.664 to persons with intellectual disabilities or other developmental disabilities.
 
-      (4) “Developmental disability” means an intellectual disability, autism, cerebral palsy, epilepsy or other neurological condition diagnosed by a qualified professional that:
+      (4) “Developmental disability” means autism, cerebral palsy, epilepsy or other condition diagnosed by a qualified professional that:
 
-      (a) Originates before an individual is 22 years of age, or 18 years of age for an intellectual disability;
+      (a) Originates before an individual is 22 years of age and is expected to continue indefinitely;
 
-      (b) Originates in and directly affects the brain and is expected to continue indefinitely;
+      (b) Results in a significant impairment in adaptive behavior as measured by a qualified professional;
 
-      (c) Results in a significant impairment in adaptive behavior as measured by a qualified professional;
+      (c) Is not attributed primarily to other conditions including, but not limited to, a mental or emotional disorder, sensory impairment, substance abuse, personality disorder, learning disability or attention deficit hyperactivity disorder; and
 
-      (d) Is not attributed primarily to other conditions including, but not limited to, a mental or emotional disorder, sensory impairment, substance abuse, personality disorder, learning disability or attention deficit hyperactivity disorder; and
-
-      (e) Requires training and support similar to that required by an individual with an intellectual disability.
+      (d) Requires supports similar to those required by an individual with an intellectual disability.
 
       (5) “Director of the facility” means the person in charge of care, treatment and training programs at a facility.
 
@@ -219,35 +235,29 @@ GENERAL PROVISIONS
 
       (c) Residence by persons with intellectual disabilities or other developmental disabilities in homes or in home-like settings that are in proximity to community resources, together with regular contact with persons without disabilities in their community.
 
-      (10)(a) “Intellectual disability” means significantly subaverage general intellectual functioning, defined as intelligence quotients under 70 as measured by a qualified professional and existing concurrently with significant impairment in adaptive behavior, that is manifested before the individual is 18 years of age.
+      (10)(a) “Intellectual disability” means an intelligence quotient of 70 or below as measured by a qualified professional and existing concurrently with significant impairment in adaptive behavior, that is manifested before the individual is 18 years of age.
 
-      (b) An individual with intelligence quotients of 70 through 75 may be considered to have an intellectual disability if there is also significant impairment in adaptive behavior, as diagnosed and measured by a qualified professional.
+      (b) An individual with intelligence quotients of 71 through 75 may be considered to have an intellectual disability if there is also significant impairment in adaptive behavior, as diagnosed and measured by a qualified professional.
 
       (c) The impairment in adaptive behavior must be directly related to the intellectual disability.
 
-      (d) Intellectual disability is synonymous with mental retardation.
+      (11) “Minor” means an unmarried person under 18 years of age.
 
-      (11) “Intellectual functioning” means functioning as assessed by one or more of the individually administered general intelligence tests developed for the purpose.
+      (12) “Naturopathic physician” has the meaning given the term in ORS 685.010.
 
-      (12) “Minor” means an unmarried person under 18 years of age.
+      (13) “Physician” means a person licensed by the Oregon Medical Board to practice medicine and surgery.
 
-      (13) “Naturopathic physician” has the meaning given the term in ORS 685.010.
+      (14) “Productivity” means regular engagement in income-producing work, preferably competitive employment with supports and accommodations to the extent necessary, by a person with an intellectual disability or another developmental disability which is measured through improvements in income level, employment status or job advancement or engagement by a person with an intellectual disability or another developmental disability in work contributing to a household or community.
 
-      (14) “Physician” means a person licensed by the Oregon Medical Board to practice medicine and surgery.
+      (15) “Service coordination” means person-centered planning, case management, procuring, coordinating and monitoring of services under an individualized support plan to establish desired outcomes, determine needs and identify resources for a person with developmental disabilities and advocating for the person.
 
-      (15) “Productivity” means regular engagement in income-producing work, preferable competitive employment with supports and accommodations to the extent necessary, by a person with an intellectual disability or another developmental disability which is measured through improvements in income level, employment status or job advancement or engagement by a person with an intellectual disability or another developmental disability in work contributing to a household or community.
-
-      (16) “Service coordination” means person-centered planning, case management, procuring, coordinating and monitoring of services under an individualized support plan to establish desired outcomes, determine needs and identify resources for a person with developmental disabilities and advocating for the person.
-
-      (17) “Significantly subaverage” means a score on a test of intellectual functioning that is two or more standard deviations below the mean for the test.
-
-      (18) “Training” means:
+      (16) “Training” means:
 
       (a) The systematic, planned maintenance, development or enhancement of self-care, social or independent living skills; or
 
       (b) The planned sequence of systematic interactions, activities, structured learning situations or education designed to meet each person’s specified needs in the areas of physical, emotional, intellectual and social growth.
 
-      (19) “Treatment” means the provision of specific physical, mental, social interventions and therapies that halt, control or reverse processes that cause, aggravate or complicate malfunctions or dysfunctions. [1959 c.331 §10; 1961 c.706 §27; 1965 c.339 §1; subsection (2) enacted as 1965 c.595 §5; 1967 c.299 §1; 1979 c.683 §2; 1985 c.463 §1; 1985 c.565 §69; 1991 c.67 §111; 2001 c.900 §126; 2007 c.70 §215; 2009 c.828 §24; 2011 c.720 §§165,234; 2013 c.36 §3; 2017 c.356 §49]
+      (17) “Treatment” means the provision of specific physical, mental, social interventions and therapies that halt, control or reverse processes that cause, aggravate or complicate malfunctions or dysfunctions. [1959 c.331 §10; 1961 c.706 §27; 1965 c.339 §1; subsection (2) enacted as 1965 c.595 §5; 1967 c.299 §1; 1979 c.683 §2; 1985 c.463 §1; 1985 c.565 §69; 1991 c.67 §111; 2001 c.900 §126; 2007 c.70 §215; 2009 c.828 §24; 2011 c.720 §§165,234; 2013 c.36 §3; 2017 c.356 §49; 2019 c.455 §7]
 
  
 
@@ -393,35 +403,49 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-      427.101 Definitions for ORS 427.115, 427.154 and 427.160. As used in this section and ORS 427.115, 427.154 and 427.160:
+      427.101 Definitions for ORS 427.115, 427.121, 427.154, 430.662 and 430.664. As used in this section and ORS 427.115, 427.121, 427.154, 430.662 and 430.664:
 
-      (1) “Adult” means an individual who is 18 years of age or older.
+      (1) “Community living setting” means:
 
-      (2) “Community living and inclusion supports” means services that may or may not be work-related and includes services designed to develop or maintain the individual’s skills in the following areas:
+      (a) A residential setting;
 
-      (a) Eating, bathing, dressing, personal hygiene, mobility and other personal needs;
+      (b) An individual’s home or the home of the individual’s family; or
 
-      (b) Self-awareness and self-control, social responsiveness, social amenities, interpersonal skills, interpersonal relationships and social connections;
+      (c) Other nonresidential setting.
 
-      (c) Community participation, recreation and the ability to use available community services, facilities or businesses;
+      (2) “Developmental disability services” means the following services as provided for individuals with intellectual or developmental disabilities:
 
-      (d) Expressive and receptive skills in verbal and nonverbal language, the functional application of acquired reading and writing skills and other communication needs; and
+      (a) Services designed to develop or maintain the individual’s skills in the following areas:
 
-      (e) Planning and preparing meals, budgeting, laundering, housecleaning and other personal environmental needs.
+      (A) Eating, bathing, dressing, personal hygiene, mobility and other personal needs;
 
-      (3) “Comprehensive services” means a package of services, other than support services for adults, that is provided by or under the direction of a community developmental disabilities program and that includes at least one of the following living arrangements licensed or regulated by the Department of Human Services:
+      (B) Self-awareness and self-control, social responsiveness, social amenities, interpersonal skills, interpersonal relationships and social connections;
 
-      (a) Twenty-four-hour residential care, including but not limited to a group home, a foster home or a supported living program.
+      (C) Community participation, recreation and the ability to use available community services, facilities or businesses;
 
-      (b) Assistance provided to maintain an individual in the individual’s own home or the home of the individual’s family and that costs more than an amount specified by the department by rule.
+      (D) Expressive and receptive skills in verbal and nonverbal language, the functional application of acquired reading and writing skills and other communication needs; and
 
-      (4) “Employment services” means services provided to develop or maintain the skills necessary for an individual to obtain and retain employment, including job assessment, job exploration, job development, job training, job coaching, work skills, and ongoing supports.
+      (E) Planning and preparing meals, budgeting, laundering, housecleaning and other personal environmental needs;
 
-      (5) “Environmental accessibility adaptations” means physical modifications to an individual’s home that are necessary to ensure the health, welfare and safety of the individual in the home, or that enable the individual to function with greater independence in the home.
+      (b) Case management;
 
-      (6) “Individualized written service plan” means a plan described in ORS 427.107 (2)(i), (j) and (k) that identifies the resources, services and purchases necessary for an individual with a developmental disability to achieve identified personal goals and maximize self-determination.
+      (c) Services described in ORS 430.215;
 
-      (7) “Person-centered planning” means an informal or formal process for gathering and organizing information that helps an individual to:
+      (d) Employment services;
+
+      (e) Environmental accessibility adaptations;
+
+      (f) Specialized supports; and
+
+      (g) Specialized medical equipment and supplies.
+
+      (3) “Employment services” means services provided to develop or maintain the skills necessary for an individual to obtain and retain employment, including job assessment, job exploration, job development, job training, job coaching, work skills, and ongoing supports.
+
+      (4) “Environmental accessibility adaptations” means physical modifications to an individual’s home that are necessary to ensure the health, welfare and safety of the individual in the home, or that enable the individual to function with greater independence in the home.
+
+      (5) “Individualized service plan” means a plan described in ORS 427.107 (2)(i), (j) and (k) that identifies the resources, services and purchases necessary for an individual with a developmental disability to achieve identified personal goals and maximize self-determination.
+
+      (6) “Person-centered planning” means an informal or formal process for gathering and organizing information that helps an individual to:
 
       (a) Enhance self-determination by choosing personal goals and lifestyle preferences;
 
@@ -429,19 +453,35 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
       (c) Identify, use and strengthen naturally occurring opportunities for support in the home and in the community.
 
+      (7) “Residential setting” means one of the following community living settings licensed or regulated by the Department of Human Services:
+
+      (a) Residential facilities licensed under ORS 443.400 to 443.455;
+
+      (b) Licensed adult foster homes, as defined in ORS 443.705;
+
+      (c) Developmental disability child foster homes certified under ORS 443.835;
+
+      (d) Group homes; and
+
+      (e) Supported living programs.
+
       (8) “Self-determination” means empowering individuals to:
 
-      (a) Select and plan, together with freely-chosen family members and friends, the support services for adults that are necessary instead of purchasing a predefined program or package of services;
+      (a) Make their own choices and decisions;
 
-      (b) Control the expenditure of available financial assistance in order to purchase support services for adults, with the help of a social support network if needed;
+      (b) Select and plan, together with freely chosen family members and friends, the developmental disability services that are necessary for an individual to live, work and recreate in the setting that the individual chooses and in the community;
 
-      (c) Live an autonomous life in the community, rich in community affiliations, through formal or informal arrangements of resources and personnel; and
+      (c) Control, or have input regarding, the manner in which resources are used to obtain needed services and supports, with the help of a social support network if needed;
 
-      (d) Have a valued role in the community through competitive employment, organizational affiliations, personal development and general caring for others in the community, and to be accountable for spending public dollars in ways that are life-enhancing for the individual.
+      (d) Live an autonomous life in the community, rich in community affiliations, through formal or informal arrangements of resources and personnel and contribute to their community in the ways they choose;
 
-      (9) “Service provider” means any person who is paid a service rate by the department to provide one or more of the services identified in the individualized written service plan of an adult with a developmental disability regardless of where the service is provided.
+      (e) Have a valued role in the community through competitive employment, organizational affiliations, personal development and general caring for others in the community, and to be accountable for spending public dollars in ways that are life-enhancing for the individual; and
 
-      (10) “Service rate” means the amount of reimbursement paid to a service provider to care for an adult with a developmental disability.
+      (f) Speak or act on their own behalf or on behalf of others, including participating in policy-making and legislative processes.
+
+      (9) “Service provider” means any person who is paid a service rate by the department to provide one or more of the services identified in the individualized service plan of an individual with an intellectual or developmental disability regardless of where the service is provided.
+
+      (10) “Service rate” means the amount of reimbursement paid to a service provider to care for an individual with an intellectual or developmental disability.
 
       (11)(a) “Specialized medical equipment and supplies” means:
 
@@ -457,11 +497,9 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
       (b) “Specialized medical equipment and supplies” does not include items that have no direct medical or remedial benefit to the individual.
 
-      (12) “Specialized supports” means treatment, training, consultation or other unique services that are not available through the medical assistance program but are necessary to achieve the goals identified in the individualized written service plan, or other support services for adults prescribed by the department by rule.
+      (12) “Specialized supports” means treatment, training, consultation or other unique services that are not available through the medical assistance program but are necessary to achieve the goals identified in the individualized service plan, or other developmental disability services prescribed by the department by rule.
 
-      (13) “Support service brokerage” means an entity that contracts with the department to provide or to arrange for support services for adults.
-
-      (14) “Support services for adults” means the services for adults with developmental disabilities provided by a support service brokerage under ORS 427.154 and 427.160. [Formerly 427.400]
+      (13) “Support service brokerage” means an entity that contracts with the department to provide or to arrange for developmental disability services. [Formerly 427.400; 2019 c.276 §1]
 
  
 
@@ -513,7 +551,7 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
       (D) An adult foster home as defined in ORS 443.705.
 
-      (b) “Person” means an individual who has a developmental disability as defined in ORS 427.005 and receives services from a program or facility.
+      (b) “Person” means an individual who has an intellectual or developmental disability as defined in ORS 427.005 and receives services from a program or facility.
 
       (c) “Program” means a community developmental disabilities program as described in ORS 430.662 and agencies with which the department or the program contracts to provide services.
 
@@ -539,7 +577,7 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
       (i) Seek a meaningful life by choosing from available services and enjoying the benefits of community involvement and community integration in a manner that is least restrictive to the person’s liberty considering the person’s preferences and age.
 
-      (j) An individualized written service plan, services based upon that plan and periodic review and reassessment of service needs.
+      (j) An individualized service plan, services based upon that plan and periodic review and reassessment of service needs.
 
       (k) Ongoing participation in the planning of services, including the right to participate in the development and periodic revision of the plan for services, the right to be provided with an explanation of all service considerations in a manner that ensures meaningful individual participation and the right to invite others of the person’s choosing to participate in the plan for services.
 
@@ -563,7 +601,7 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
       (6) Nothing in this section may be construed to alter any legal rights and responsibilities between parent and child.
 
-      (7) The department shall adopt rules concerning the rights described in this section that are consistent with the directives set forth in ORS 427.007. [2013 c.36 §1]
+      (7) The department shall adopt rules concerning the rights described in this section that are consistent with the directives set forth in ORS 427.007. [2013 c.36 §1; 2019 c.276 §5]
 
  
 
@@ -575,7 +613,11 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-      427.109 Dispute resolution procedures. The Department of Human Services shall promote dispute resolution procedures for persons receiving developmental disability services from the department, including but not limited to grievance procedures, contested case hearings and mediation. An individual who files a grievance may also use other dispute resolution procedures. [2013 c.36 §2]
+      427.109 Complaint procedures. (1) The Oregon Human Rights Commission established under ORS 427.401 shall receive complaints of violations of the rights afforded to an individual under ORS 427.107. With the consent of the individual, the individual’s guardian or any representative designated by the individual, the commission may request and receive information from the Department of Human Services that is relevant to a complaint. The commission shall have the right to meet with the Director of Human Services or a designee of the director to resolve a complaint.
+
+      (2)(a) All confidential information received by the commission under this section must remain confidential and may be disclosed only in accordance with state and federal laws.
+
+      (b) Commission members and staff may not make any public comment or publicly disclose any materials that relate to the personally identifiable information of an individual who alleges a violation or who appears before the commission under subsection (1) of this section. [2013 c.36 §2; 2019 c.296 §4]
 
  
 
@@ -595,11 +637,11 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-      427.115 Assessment of service needs and determination of service rate; rules. (1) The Department of Human Services or its designee shall assess the support needs for each adult with a developmental disability who is receiving comprehensive services that include 24-hour residential care and shall determine a service rate that is sufficient to meet the support needs of the adult. If an assessment of support needs results in a change to the service rate being paid to the service provider, the department or the department’s designee shall provide to the adult receiving comprehensive services and the adult’s service provider and, if appropriate, to the adult’s service coordinator, guardian, primary caregiver or family members, a detailed accounting of the service rate paid to the service provider and the factors and weighting of factors used to determine the service rate.
+      427.115 Assessment of service needs and determination of service rate; rules. (1) The Department of Human Services or its designee shall assess the support needs for each individual with an intellectual or developmental disability who is receiving developmental disability services in a residential setting and shall determine a service rate that is sufficient to meet the support needs of the individual. If an assessment of support needs results in a change to the service rate being paid to the service provider, the department or the department’s designee shall provide to the individual and the individual’s service provider and case manager and, if appropriate, to the individual’s guardian, primary caregiver or family members, a detailed accounting of the service rate paid to the service provider and the factors and weighting of factors used to determine the service rate.
 
-      (2) The department or the department’s designee shall assess the support needs and determine the service rate, as described in subsection (1) of this section, no later than 90 days after the adult receiving comprehensive services or the adult’s service provider, service coordinator, guardian, primary caregiver, family member or legal representative makes a request, based on significant changes to the adult’s support needs, for a new assessment of support needs and a redetermination of the service rate.
+      (2) The department or the department’s designee shall assess the support needs and determine the service rate, as described in subsection (1) of this section, no later than 90 days after the individual or the individual’s service provider, case manager, guardian, primary caregiver, family member or legal representative makes a request, based on significant changes to the individual’s support needs, for a new assessment of support needs and a redetermination of the service rate.
 
-      (3) The department shall adopt by rule the procedures and criteria for requesting and conducting an assessment of support needs and a determination of a service rate under this section, using an advisory committee appointed in accordance with ORS 183.333. The rules shall include a procedure for contesting the denial of a request for assessment of support needs and redetermination of a service rate or the failure of the department or the department’s designee to respond to a request for assessment and redetermination within a reasonable period of time, as prescribed by the department by rule. [2013 c.604 §2]
+      (3) The department shall adopt by rule the procedures and criteria for requesting and conducting an assessment of support needs and a determination of a service rate under this section, using an advisory committee appointed in accordance with ORS 183.333. The rules shall include a procedure for contesting the denial of a request for assessment of support needs and redetermination of a service rate or the failure of the department or the department’s designee to respond to a request for assessment and redetermination within a reasonable period of time, as prescribed by the department by rule. [2013 c.604 §2; 2019 c.276 §2]
 
  
 
@@ -607,27 +649,27 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-      427.121 Choice of placement setting. (1) As used in this section:
+      427.121 Choice of community living setting. (1) As used in this section, “adult” means an individual:
 
-      (a) “Adult” means an adult with developmental disabilities who is eligible to receive comprehensive services as defined in ORS 427.101.
+      (a) Who is at least 18 years of age;
 
-      (b) “Residential setting” means a living arrangement described in ORS 427.101 (3).
+      (b) Who has an intellectual or developmental disability; and
 
-      (2) An adult has the right to choose the adult’s placement setting. The Department of Human Services or the department’s designee shall present to an adult at least three appropriate placement setting options, including at least two different types of residential settings, before:
+      (c) Who is eligible for, and who chooses to receive, developmental disability services.
 
-      (a) Making an initial placement.
+      (2) An adult has the right to choose the adult’s community living setting. The Department of Human Services or the department’s designee shall present to an adult at least three types of community living settings, including an option for services in the adult’s own or family home:
 
-      (b) Transferring the adult from one placement setting to another placement setting.
+      (a) Each year, prior to authorizing services in a community living setting for the adult.
 
-      (3) The department or the department’s designee may not transfer an adult from a placement setting without first complying with subsection (2) of this section.
+      (b) When an adult is moving from one community living setting to another community living setting.
+
+      (3) The department or the department’s designee may not authorize services in a new type of community living setting without first complying with subsection (2) of this section.
 
       (4) The department or the department’s designee is not required to present the options under subsection (2) of this section if:
 
-      (a) The department or the department’s designee demonstrates that three appropriate placement settings or two different types of residential settings are not available within the geographic area where the adult wishes to reside;
+      (a) The adult is at imminent risk to health or safety in the adult’s current placement setting; or
 
-      (b) The adult selects a placement setting option and waives the right to be presented with the placement setting options described in subsection (2) of this section; or
-
-      (c) The adult is at imminent risk to health or safety in the adult’s current placement setting. [2013 c.602 §2]
+      (b) The adult is moving from one nonresidential setting to another nonresidential setting. [2013 c.602 §2; 2019 c.276 §3]
 
  
 
@@ -647,35 +689,21 @@ DEVELOPMENTAL DISABILITY SERVICES PROGRAM
 
  
 
-      427.154 Individualized written service plan; requirements; rules. (1) Support services for adults are intended to meet the needs of adults with developmental disabilities and to prevent or delay their need for comprehensive services. The Department of Human Services shall establish by rule the application and eligibility determination processes for support services for adults.
+      427.154 Individualized written service plan; requirements; rules. (1) Developmental disability services are intended to meet the needs of individuals with intellectual or developmental disabilities. The Department of Human Services shall establish by rule the application and eligibility determination processes for developmental disability services.
 
-      (2) Support services for adults shall be provided through a support service brokerage and pursuant to an individualized written service plan that is developed and reassessed at least annually using a person-centered planning process.
+      (2) Developmental disability services shall be provided pursuant to an individualized service plan that is developed and reassessed at least annually using a person-centered planning process.
 
-      (3) The department shall ensure that each individual receiving support services for adults has an active role in choosing the services, activities and purchases that will best meet the individual’s needs and preferences and to express those choices verbally, using sign language or by other appropriate methods of communication.
+      (3) The department shall ensure that each individual receiving developmental disability services and the individual’s guardian or legal representative has an active role in choosing the services, activities and purchases that will best meet the individual’s needs and preferences and to express those choices verbally, using sign language or by other appropriate methods of communication.
 
-      (4) The services, activities and purchases available as support services for adults include, but are not limited to:
+      (4) Developmental disability services must complement the existing formal and informal supports, services, activities and purchases available to an individual.
 
-      (a) Community living and inclusion supports that facilitate independence and promote community integration by supporting the individual to live as independently as possible;
+      (5) The department shall ensure that each individual and the individual’s guardian or legal representative has the opportunity to confirm satisfaction with the developmental disability services that the individual receives and to make changes in the services as necessary.
 
-      (b) Employment services;
-
-      (c) Environmental accessibility adaptations;
-
-      (d) Specialized supports; and
-
-      (e) Specialized medical equipment and supplies.
-
-      (5) Support services for adults must complement the existing formal and informal supports, services, activities and purchases available to an adult living in the adult’s own home or the home of the adult’s family.
-
-      (6) The department shall ensure that each individual has the opportunity to confirm satisfaction with the support services for adults that the individual receives and to makes changes in the services as necessary.
-
-      (7) The department shall ensure that all adults with developmental disabilities receiving comprehensive services have an equal opportunity for job placements. A provider of developmental disability services that offers job placements may not give preference to an adult with disabilities who is a resident of a facility owned or operated by the provider when determining eligibility for a job placement. The residence of an adult with developmental disabilities may not be the exclusive factor in determining eligibility for a job placement. [Formerly 427.402]
+      (6) The department shall ensure that all individuals receiving developmental disability services have an equal opportunity for job placements. A provider of developmental disability services that offers job placements may not give preference to an individual who is a resident of a facility owned or operated by the provider when determining eligibility for a job placement. The residence of an individual may not be the exclusive factor in determining eligibility for a job placement. [Formerly 427.402; 2019 c.276 §4]
 
  
 
-      427.160 Support service brokerages. (1) The Department of Human Services shall enter into contracts with support service brokerages to deliver support services for adults in a manner that features regional consolidation, administrative efficiency, cost-effectiveness and strong consumer and family oversight.
-
-      (2) Individuals who receive support services for adults and their family members shall have formal, significant, continuing roles in advising the department and support service brokerages regarding the design, implementation and quality assurance of the support services for adults delivery system. [Formerly 427.410]
+      427.160 [Formerly 427.410; repealed by 2019 c.276 §8]
 
  
 
@@ -879,7 +907,7 @@ COMMUNITY HOUSING
 
  
 
-      427.330 Definitions for ORS 427.330 to 427.345. As used in ORS 427.330 to 427.345:
+      427.330 Definitions for ORS 427.330 to 427.340. As used in ORS 427.330 to 427.340:
 
       (1) “Care provider” means an individual, family member or entity that provides care.
 
@@ -913,33 +941,53 @@ COMMUNITY HOUSING
 
  
 
-      427.340 Developmental Disabilities Community Housing Fund; Community Housing Trust Account; reports. (1) There is established a Developmental Disabilities Community Housing Fund in the State Treasury, separate and distinct from the General Fund. All moneys in the Developmental Disabilities Community Housing Fund are continuously appropriated to the Department of Human Services to pay expenses incurred by the Department of Human Services in carrying out the provisions of ORS 427.330 and 427.335. Interest earned on moneys in the fund shall be credited to the fund.
+      427.340 Developmental Disabilities Community Housing Fund. (1) There is established a Developmental Disabilities Community Housing Fund in the State Treasury, separate and distinct from the General Fund. All moneys in the Developmental Disabilities Community Housing Fund are continuously appropriated to the Department of Human Services to pay expenses incurred by the Department of Human Services in carrying out the provisions of ORS 427.330 and 427.335. Interest earned on moneys in the fund shall be credited to the fund.
 
-      (2) There is established within the fund a Community Housing Trust Account. Notwithstanding the provisions of ORS 270.150, the Department of Human Services shall negotiate with the Oregon Department of Administrative Services to apply the proceeds from the sale, transfer or lease of any surplus real property owned, operated or controlled by the Department of Human Services and used as a state training center to the account. The Department of Human Services may expend, for the purposes of ORS 427.330 to 427.345, any earnings credited to the account, including any income from the lease of surplus property and any interest earned on moneys deposited in the account, and up to five percent of any sale or transfer proceeds initially credited to the account by the Oregon Department of Administrative Services. At least 95 percent of all sale or transfer proceeds shall remain in the account in perpetuity.
-
-      (3) The fund shall consist of:
+      (2) The fund shall consist of:
 
       (a) Moneys appropriated to the fund by the Legislative Assembly;
 
       (b) Repayment of financial assistance provided to housing providers or care providers for community housing under ORS 427.335 (3);
 
-      (c) Proceeds from the account under subsection (2) of this section;
+      (c) Moneys reallocated from other areas of the Department of Human Services’ budget; and
 
-      (d) Moneys reallocated from other areas of the Department of Human Services’ budget; and
-
-      (e) Any earnings or interest credited to the fund.
-
-      (4) Moneys in the Community Housing Trust Account may, with the approval of the State Treasurer, be invested as provided under ORS 293.701 to 293.857, and the earnings from such investments must be credited to the Community Housing Trust Account.
-
-      (5) The Department of Human Services shall provide a report of revenues to and expenditures from the fund as part of its budget submission to the Governor and Legislative Assembly under ORS chapter 291. [1999 c.753 §4; 2001 c.954 §32; 2015 c.178 §3]
+      (d) Any earnings or interest credited to the fund. [1999 c.753 §4; 2001 c.954 §32; 2015 c.178 §3; 2019 c.551 §3]
 
  
 
-      427.345 Sale of state training center; fair market value; use of proceeds. (1) As used in this section, “state training center” means any facility that is an intermediate care facility for the mentally retarded as defined in 42 U.S.C. 1396d(d).
+      427.345 [1999 c.753 §5; 2013 c.36 §14; repealed by 2019 c.551 §4]
 
-      (2) When the Department of Human Services sells any surplus real property owned by the department and used as a state training center, the sale price shall equal or exceed the fair market value of the property.
+ 
 
-      (3) The proceeds from the sale of any real property owned by the department and used as a state training center shall be applied under the provisions of ORS 427.340 (2). [1999 c.753 §5; 2013 c.36 §14]
+      427.347 Administration of Developmental Disabilities Community Housing Fund by Oregon Community Foundation. (1) Notwithstanding the continuous appropriation of moneys in the Developmental Disabilities Community Housing Fund established under ORS 427.340, the balance of moneys remaining in the Community Housing Trust Account established in ORS 427.340 on January 1, 2020, that are unexpended, unobligated and not subject to any conditions shall be transferred to the Oregon Community Foundation for the purposes described in ORS 427.335. The foundation shall be advised by and shall consult with the advisory committee appointed under ORS 427.348 regarding any expenditures made from the moneys transferred to the foundation under this section.
+
+      (2) The Oregon Community Foundation shall annually report to the Department of Human Services the balance remaining of the moneys transferred under subsection (1) of this section and the uses for expenditures made from the moneys transferred. If the department finds that any expenditure is not authorized under the requirements of ORS 427.335, the foundation must pay to the department the amount of the unauthorized expenditure. The department shall deposit the payment to the Developmental Disabilities Community Housing Fund. [2019 c.551 §1]
+
+ 
+
+      Note: 427.347 and 427.348 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 427 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      427.348 Appointment of advisory committee. The Oregon Council on Developmental Disabilities shall appoint an advisory committee to advise and consult with the Oregon Community Foundation in making expenditures under ORS 427.347. The committee must include one individual each to represent:
+
+      (1) Support services brokerages;
+
+      (2) Community developmental disability programs;
+
+      (3) Oregon coalitions consisting of individuals with intellectual or developmental disabilities who encourage and facilitate self-advocacy by individuals with intellectual or developmental disabilities;
+
+      (4) Families of individuals with intellectual or developmental disabilities;
+
+      (5) The Housing and Community Services Department;
+
+      (6) Community-based residential providers of services to individuals with intellectual or developmental disabilities; and
+
+      (7) The system described in ORS 192.517 (1). [2019 c.551 §2]
+
+ 
+
+      Note: See note under 427.347.
 
  
 
@@ -947,7 +995,53 @@ COMMUNITY HOUSING
 
  
 
+OREGON HUMAN RIGHTS COMMISSION
+
+ 
+
+      427.401 Oregon Human Rights Commission established; membership; rules. (1) The Oregon Human Rights Commission is established within the Department of Human Services. The commission consists of nine members appointed by the Governor for not more than two consecutive three-year terms. The purpose of the commission is to safeguard the dignity and basic human rights of individuals who have an intellectual or developmental disability.
+
+      (2) The Governor shall appoint the following members who shall be confirmed by the Senate in the manner prescribed in ORS 171.562 and 171.565:
+
+      (a) One member who is an individual who has an intellectual or developmental disability and who receives services under ORS 427.007.
+
+      (b) One member who is a family member of an individual who has an intellectual or developmental disability.
+
+      (c) One member who is a sibling of an individual who has an intellectual or developmental disability.
+
+      (d) One member who is a self-advocate for the rights of individuals who have intellectual or developmental disabilities and who represents, in a professional capacity, an organization that promotes disability self-advocacy.
+
+      (e) Two members who are representatives from a disabilities advocacy organization.
+
+      (f) One member who is a service provider as defined in ORS 427.101.
+
+      (g) One member who represents the Department of Human Services.
+
+      (h) One member who is an expert regarding behavioral intervention models that have been approved by the Department of Human Services.
+
+      (3) In making appointments, the Governor shall solicit and consider recommendations from the Oregon Council on Developmental Disabilities and Disability Rights Oregon and shall make appointments in consideration of the different geographical regions of the state.
+
+      (4) The commission may appoint any medical, behavioral and educational professionals as the commission deems necessary to assist the commission in an advisory capacity only.
+
+      (5) A majority of the members of the commission constitutes a quorum for the transaction of business.
+
+      (6) Official action by the commission requires the approval of a majority of the members of the commission.
+
+      (7) The commission shall elect one of its members to serve as chairperson.
+
+      (8) If there is a vacancy for any cause, the Governor shall make an appointment to become immediately effective.
+
+      (9) The commission shall meet at times and places specified by the call of the chairperson or of a majority of the members of the commission.
+
+      (10) The commission may adopt any rules the commission considers necessary for the commission to carry out its duties under this section and ORS 427.109. [2019 c.296 §2]
+
+ 
+
       427.402 [2011 c.658 §2; 2013 c.602 §3; renumbered 427.154 in 2013]
+
+ 
+
+      427.403 Commission to establish statewide regional advisory committee. The Oregon Human Rights Commission shall establish by rule a statewide regional advisory committee system. At a minimum, the system shall establish a process by which the regional advisory committees may conduct informational hearings regarding the violation of the rights of individuals who have intellectual or developmental disabilities and relay the information received to the commission for the commission’s consideration in adopting rules. [2019 c.296 §3]
 
  
 
@@ -956,6 +1050,22 @@ COMMUNITY HOUSING
  
 
       427.450 [Formerly 430.218; renumbered 427.163 in 2013]
+
+ 
+
+CIVIL PENALTIES
+
+ 
+
+      427.900 Authority of Department of Human Services to impose civil penalties; rules. (1) The Department of Human Services shall adopt by rule civil penalties to be imposed, in accordance with ORS 183.745, on any provider contracting with the department to provide intellectual or developmental disability services for a violation of a statutory requirement or a rule adopted by the department applicable to the provision of services described in ORS 409.010 (2).
+
+      (2) This section may not be construed to supersede ORS 418.992 or 441.710 or any other statute that prescribes criteria for or limitations on the imposition of a civil penalty.
+
+      (3) Moneys collected by the department pursuant to rules adopted under this section shall be transferred to the State Treasury for deposit to the Department of Human Services Account established under ORS 409.060 and may be used by the division of the department that provides developmental disabilities services for system improvements and the implementation of policies. [2019 c.455 §8]
+
+ 
+
+      Note: 427.900 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 427 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
 _______________
 

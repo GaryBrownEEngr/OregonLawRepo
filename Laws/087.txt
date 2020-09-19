@@ -4,16 +4,6 @@ Chapter 87 — Statutory Liens
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0058
-
- 
-
- 
-
 
  
 
@@ -167,7 +157,7 @@ POSSESSORY CHATTEL LIENS
 
  
 
-87.152       Possessory lien for labor or material expended on chattel
+87.152       Possessory lien for labor or material expended on chattel; requirement for surety bond
 
  
 
@@ -867,9 +857,9 @@ CONSTRUCTION LIENS
 
       87.015 Land and interests therein subject to lien; leaseholds. (1) The site together with the land that may be required for the convenient use and occupation of the improvement constructed on the site, to be determined by the court at the time of the foreclosure of the lien, shall also be subject to the liens created under ORS 87.010 (1), (4) and (5) if, at the time of the commencement of the improvement, the person who caused the improvement to be constructed was the owner of that site and land. If the person owned less than a fee-simple estate in the site and land, then only the interest of the person therein shall be subject to the lien.
 
-      (2) If a lien created under ORS 87.010 (1), (4) and (5) is claimed against a unit as defined in ORS 100.005 to 100.910, the Oregon Condominium Act, the common elements appertaining to that unit are also subject to the lien.
+      (2) If a lien created under ORS 87.010 (1), (4) and (5) is claimed against a unit as defined in ORS 100.005, the common elements appertaining to that unit are also subject to the lien.
 
-      (3) When the interest of the person who caused the improvement to be constructed is a leasehold interest, and that person has forfeited the rights of the person thereto, the purchaser of the improvement and leasehold term at any sale under the provisions of ORS 87.001 to 87.060 and 87.075 to 87.093, is deemed to be the assignee of the leasehold term, and may pay the lessor all arrears of rent or other money and costs due under the lease. If the lessor regains possession of the property, or obtains judgment for the possession thereof prior to the commencement of construction of the improvement, the purchaser may remove the improvement within 30 days after the purchaser purchases it, and the owner of the land shall receive the rent due the owner, payable out of the proceeds of the sale, according to the terms of the lease, down to the time of removal. [Amended by 1975 c.466 §4]
+      (3) When the interest of the person who caused the improvement to be constructed is a leasehold interest, and that person has forfeited the rights of the person thereto, the purchaser of the improvement and leasehold term at any sale under the provisions of ORS 87.001 to 87.060 and 87.075 to 87.093, is deemed to be the assignee of the leasehold term, and may pay the lessor all arrears of rent or other money and costs due under the lease. If the lessor regains possession of the property, or obtains judgment for the possession thereof prior to the commencement of construction of the improvement, the purchaser may remove the improvement within 30 days after the purchaser purchases it, and the owner of the land shall receive the rent due the owner, payable out of the proceeds of the sale, according to the terms of the lease, down to the time of removal. [Amended by 1975 c.466 §4; 2019 c.69 §36]
 
  
 
@@ -1351,7 +1341,7 @@ ______________________________________________________________________________
 
 LIENS GENERALLY
 
-     
+ 
 
       87.142 Definitions for ORS 87.142 to 87.490 and 87.910. As used in ORS 87.142 to 87.490 and 87.910, unless the context otherwise requires:
 
@@ -1427,7 +1417,111 @@ POSSESSORY CHATTEL LIENS
 
  
 
-      87.152 Possessory lien for labor or material expended on chattel. A person who makes, alters, repairs, transports, stores, pastures, cares for, provides services for, supplies materials for or performs labor on a chattel at the request of the owner or lawful possessor of the chattel has a lien on that chattel in the possession of the person for the reasonable or agreed charges for labor, materials or services of the person, and the person may retain possession of the chattel until those charges are paid. [1975 c.648 §3]
+      87.152 Possessory lien for labor or material expended on chattel; requirement for surety bond. (1) Except as provided in subsections (2) and (3) of this section, a person that makes, alters, repairs, transports, stores, pastures, cares for, provides services for, supplies materials for or performs labor on a chattel at the request of the owner or lawful possessor of the chattel has a lien on the chattel in the possession of the person for the reasonable or agreed charges for labor, materials or services of the person, and the person may retain possession of the chattel until the charges are paid.
+
+      (2)(a) Except as provided in subsection (3) of this section, a person may not create, attach, assert or claim a possessory lien on a motor vehicle, as defined in ORS 801.360, unless the person performs a service that complies with ORS 646A.480 to 646A.495 and that involves making, altering, repairing, transporting, storing, providing services for, supplying material for or performing labor in connection with the motor vehicle and the person:
+
+      (A) Is a franchised motor vehicle dealership, as defined in ORS 650.120 (5);
+
+      (B) Holds a towing business certificate that the Department of Transportation issued under ORS 822.205, provided that the person creates, attaches, asserts or claims a possessory lien only for transporting or storing the motor vehicle; or
+
+      (C) Creates, attaches, asserts or claims the lien against an abandoned motor vehicle.
+
+      (b) A person, other than a person that is described in paragraph (a)(A), (B) or (C) of this subsection, shall have in effect before making, altering, repairing, transporting, storing, performing services for, supplying materials for or performing labor in connection with a motor vehicle a valid surety bond in an amount not less than $20,000.
+
+      (3)(a) As used in this subsection:
+
+      (A) “Auction company” means an entity:
+
+      (i) That operates throughout the United States;
+
+      (ii) That holds a vehicle dealer certificate that the Department of Transportation issued or renewed under ORS 822.020 or 822.040, or a dismantler certificate that the department issued or renewed under ORS 822.110 or 822.125; and
+
+      (iii) The primary activity of which, in this state, consists of disposing of totaled motor vehicles.
+
+      (B) “Motor vehicle” has the meaning given that term in ORS 801.360.
+
+      (b) An auction company has a lien on a motor vehicle that the auction company possesses and stored on premises the auction company owns or controls. The auction company may title the motor vehicle in the name of:
+
+      (A) The auction company, if the motor vehicle has remained unclaimed on the auction company’s premises for more than 30 days;
+
+      (B) The insurance company that directed the auction company to take possession of the motor vehicle; or
+
+      (C) An organization with an exemption from taxation under section 501(c)(3) of the Internal Revenue Code that directed the auction company to take possession of the motor vehicle.
+
+      (c) ORS 87.166 and 87.172 to 87.212 do not apply to chattel that is subject to this subsection.
+
+      (4)(a) The owner of a motor vehicle may bring an action to recover from a person that refuses, at the owner’s demand and without a valid possessory lien created and attached as provided in subsection (2) or (3) of this section, to release the owner’s motor vehicle or restore to the owner title to the owner’s motor vehicle if the person changed the title:
+
+      (A) The greater of $2,000 or an amount equivalent to twice the value of the motor vehicle, up to a maximum amount of $20,000; and
+
+      (B) The owner’s reasonable costs and attorney fees.
+
+      (b) In addition to the recovery described in paragraph (a) of this subsection, the owner may obtain:
+
+      (A) A judgment that:
+
+      (i) Directs the Department of Transportation to restore title to the motor vehicle to the owner and to invalidate the title the person obtained; or
+
+      (ii) Extinguishes the person’s interest in the motor vehicle and directs the department to issue title in the name of the plaintiff in the action;
+
+      (B) A judgment that declares that the person’s lien is invalid if the person obtained title to the motor vehicle without complying with this section; and
+
+      (C) Reimbursement for any fees the owner pays to the department to reissue the title. [1975 c.648 §3; 2018 c.58 §1; 2019 c.56 §§1,2; 2019 c.344 §1]
+
+ 
+
+      Note: The amendments to 87.152 by section 2, chapter 56, Oregon Laws 2019, become operative July 1, 2020. See section 4, chapter 56, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 1, chapter 58, Oregon Laws 2018, section 1, chapter 56, Oregon Laws 2019, and section 1, chapter 344, Oregon Laws 2019, is set forth for the user’s convenience.
+
+      87.152. (1) Except as provided in subsections (2) and (3) of this section, a person that makes, alters, repairs, transports, stores, pastures, cares for, provides services for, supplies materials for or performs labor on a chattel at the request of the owner or lawful possessor of the chattel has a lien on the chattel in the possession of the person for the reasonable or agreed charges for labor, materials or services of the person, and the person may retain possession of the chattel until the charges are paid.
+
+      (2) Except as provided in subsection (3) of this section, a person may not create, attach, assert or claim a possessory lien on a motor vehicle, as defined in ORS 801.360, unless the person performs a service that complies with ORS 646A.480 to 646A.495 and that involves making, altering, repairing, transporting, storing, providing services for, supplying material for or performing labor in connection with the motor vehicle and the person:
+
+      (a) Is a franchised motor vehicle dealership, as defined in ORS 650.120 (5);
+
+      (b) Holds a towing business certificate that the Department of Transportation issued under ORS 822.205, provided that the person creates, attaches, asserts or claims a possessory lien only for transporting or storing the motor vehicle; or
+
+      (c) Creates, attaches, asserts or claims the lien against an abandoned motor vehicle.
+
+      (3)(a) As used in this subsection:
+
+      (A) “Auction company” means an entity:
+
+      (i) That operates throughout the United States;
+
+      (ii) That holds a vehicle dealer certificate that the Department of Transportation issued or renewed under ORS 822.020 or 822.040, or a dismantler certificate that the department issued or renewed under ORS 822.110 or 822.125; and
+
+      (iii) The primary activity of which, in this state, consists of disposing of totaled motor vehicles.
+
+      (B) “Motor vehicle” has the meaning given that term in ORS 801.360.
+
+      (b) An auction company has a lien on a motor vehicle that the auction company possesses and stored on premises the auction company owns or controls. The auction company may title the motor vehicle in the name of:
+
+      (A) The auction company, if the motor vehicle has remained unclaimed on the auction company’s premises for more than 30 days;
+
+      (B) The insurance company that directed the auction company to take possession of the motor vehicle; or
+
+      (C) An organization with an exemption from taxation under section 501(c)(3) of the Internal Revenue Code that directed the auction company to take possession of the motor vehicle.
+
+      (c) ORS 87.166 and 87.172 to 87.212 do not apply to chattel that is subject to this subsection.
+
+      (4)(a) The owner of a motor vehicle may bring an action to recover from a person that refuses, at the owner’s demand and without a valid possessory lien created and attached as provided in subsection (2) or (3) of this section, to release the owner’s motor vehicle or restore to the owner title to the owner’s motor vehicle if the person changed the title:
+
+      (A) The greater of $2,000 or an amount equivalent to twice the value of the motor vehicle, up to a maximum amount of $20,000; and
+
+      (B) The owner’s reasonable costs and attorney fees.
+
+      (b) In addition to the recovery described in paragraph (a) of this subsection, the owner may obtain:
+
+      (A) A judgment that:
+
+      (i) Directs the Department of Transportation to restore title to the motor vehicle to the owner and to invalidate the title the person obtained; or
+
+      (ii) Extinguishes the person’s interest in the motor vehicle and directs the department to issue title in the name of the plaintiff in the action;
+
+      (B) A judgment that declares that the person’s lien is invalid if the person obtained title to the motor vehicle without complying with this section; and
+
+      (C) Reimbursement for any fees the owner pays to the department to reissue the title.
 
  
 
@@ -1481,7 +1575,9 @@ POSSESSORY CHATTEL LIENS
 
       (b) The charges for the services or labor performed and materials or money furnished are due and the lien debtor either knows or should reasonably know that the charges are due.
 
-      (2) The lien created by ORS 87.162 attaches to the chattels described in that section on the 20th day after rents or advances occur or attaches when the occupant or tenant attempts to remove the chattels from the premises while there are unpaid rents or advances. A person claiming a lien under ORS 87.162 may take the chattels subject to that lien into the possession of the person when the lien attaches or at any time thereafter. [1975 c.648 §6]
+      (2) The lien created by ORS 87.162 attaches to the chattels described in that section on the 20th day after rents or advances occur or attaches when the occupant or tenant attempts to remove the chattels from the premises wh
+
+ile there are unpaid rents or advances. A person claiming a lien under ORS 87.162 may take the chattels subject to that lien into the possession of the person when the lien attaches or at any time thereafter. [1975 c.648 §6]
 
  
 
@@ -1710,8 +1806,6 @@ ______________________________________________________________________________ [
  
 
 NONPOSSESSORY CHATTEL LIENS
-
- 
 
       87.216 Nonpossessory lien for labor or material expended on chattel. A person who makes, alters, repairs, transports, stores, provides services for or performs labor on a chattel at the request of the owner of the chattel has a lien on that chattel for the reasonable or agreed charges for the labor or services the person performs and for the materials the person furnishes in connection therewith. [1975 c.648 §16]
 
@@ -2625,9 +2719,9 @@ ____________, Claimant.
 
 State of Oregon,          )
 
-      )     ss.
+                                    )           ss.
 
-County of___  )
+County of___              )
 
  
 
@@ -2901,6 +2995,42 @@ SELF-SERVICE STORAGE FACILITY LIEN
 
  
 
+      Note: The amendments to 87.691 by section 51, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      87.691. (1) After the time specified in the notice given under ORS 87.689 expires, if the owner determines, based on the owner’s previous experience, that the personal property subject to the lien created by ORS 87.687 has a value of $300 or less, the owner may dispose of the property at the owner’s sole discretion.
+
+      (2) After the time specified in the notice given under ORS 87.689 expires, if the owner determines, based on the owner’s previous experience, that the personal property subject to the lien created by ORS 87.687 has a value of more than $300, the owner shall cause an advertisement of the sale to be published once a week for two consecutive weeks in a newspaper of general circulation in the city or county in which the self-service storage facility is located. If there is no newspaper of general circulation in the city or county, the advertisement must be posted in not fewer than six conspicuous places in the neighborhood in which the self-service storage facility is located. The advertisement must include:
+
+      (a) The address of the self-service storage facility, the number, if any, of the space where the personal property is located and the name of the occupant.
+
+      (b) The time, place and manner of the sale.
+
+      (3) The sale of the personal property may not take place earlier than 15 days after the first advertisement, publication or posting concerning the sale. The sale must conform to the terms stated in the advertisement published or posted under this section.
+
+      (4) The owner may conduct the lien sale without obtaining a license and may offer the personal property for sale on a publicly accessible website that regularly offers personal property for auction or sale, but the owner shall complete the sale of the personal property at the self-service storage facility or at a suitable place closest to where the personal property is held or stored.
+
+      (5)(a) If the owner does not receive any bids at the public sale held under this section, the owner may dispose of the personal property in another manner at the owner’s sole discretion. The owner may satisfy the lien created by ORS 87.687 and reasonable expenses associated with the disposition from the proceeds of the disposition but shall hold the balance, if any, for delivery on demand to the occupant. If the occupant does not claim the balance of the proceeds within two years after the date of the disposition, the owner shall presume the balance is abandoned and shall report and deliver the balance to the State Treasurer as provided in ORS 98.352.
+
+      (b) The owner, an employee of the owner, an affiliate or relative of the owner or an associate or relative of the employee may not acquire, directly or indirectly, property that is subject to disposal under this section.
+
+      (6)(a) If personal property that is subject to the lien is a motor vehicle, watercraft or trailer, the owner may have the personal property towed away from the self-service storage facility if:
+
+      (A) Rent and other charges for storing the personal property at the self-service storage facility remain unpaid for 60 days or more; and
+
+      (B) The owner sends notice as provided in ORS 87.689.
+
+      (b) An owner is not liable for damage to personal property that a tower removes from the self-service storage facility once the tower takes possession of the personal property.
+
+      (c) A tower has a lien on personal property the tower removes from the self-service storage facility for reasonable towing and storage charges as provided in ORS 98.812.
+
+      (7) Before a sale or other disposition of personal property under this section, the occupant may pay the amount necessary to satisfy the lien and the reasonable expenses incurred under this section and thereby redeem the personal property. Upon receiving payment, the owner shall return the personal property, and thereafter the owner has no liability with respect to the personal property.
+
+      (8) After a sale under this section, the owner may satisfy the lien created by ORS 87.687 from the proceeds of the sale, but shall hold the balance, if any, for delivery on demand to the occupant. If the occupant does not claim the balance of the proceeds within two years after the date of sale, the owner shall presume that the balance of the proceeds is abandoned and shall report and deliver the balance to the State Treasurer as provided in ORS 98.352.
+
+      (9) A purchaser in good faith of the personal property sold to satisfy a lien created by ORS 87.687 takes the property free of any rights of persons against whom the lien was valid, even if the owner does not comply with the requirements of this section and ORS 87.689.
+
+ 
+
       87.693 ORS 87.687 as exclusive law for creating lien; exception. (1) Except as provided in subsection (2) of this section, ORS 87.687 is the sole and exclusive statute creating a lien applicable to personal property in self-service storage facilities.
 
       (2) If a motor vehicle is stored or parked at a self-service storage facility, upon default, the owner may proceed as an owner of a parking facility under ORS 98.810 to 98.818. [1997 c.374 §6]
@@ -3121,7 +3251,9 @@ GRAIN PRODUCER’S LIEN
 
  
 
-UNIFORM FEDERAL TAX LIEN REGISTRATION ACT
+UNIFORM FEDERAL TAX
+
+LIEN REGISTRATION ACT
 
  
 
@@ -3201,7 +3333,9 @@ UNIFORM FEDERAL TAX LIEN REGISTRATION ACT
 
  
 
-LIEN FOR CONTRIBUTIONS TO EMPLOYEE BENEFIT PLAN
+LIEN FOR CONTRIBUTIONS
+
+TO EMPLOYEE BENEFIT PLAN
 
  
 

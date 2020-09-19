@@ -4,16 +4,6 @@ Chapter 837 — Aircraft Operation
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0120
-
- 
-
- 
-
 
  
 
@@ -143,7 +133,7 @@ UNMANNED AIRCRAFT SYSTEMS
 
  
 
-837.360     Restrictions; civil penalties; registration; fees; rules
+837.360     Restrictions; exception for educational institution; civil penalties; registration; fees; rules
 
  
 
@@ -167,7 +157,7 @@ UNMANNED AIRCRAFT SYSTEMS
 
  
 
-837.374     Reckless interference with aircraft; penalty
+837.374     Reckless interference with aircraft; penalties
 
  
 
@@ -283,7 +273,9 @@ GENERALLY
 
       837.045 Fee schedule. (1) The registration fee to be paid under ORS 837.040, and the fee to be paid upon renewal of registration under ORS 837.060, is as follows:
 
-______________________________________________________________________________
+ 
+
+ 
 
 AIRCRAFT CLASSIFICATION
 
@@ -293,31 +285,31 @@ AND FEE SCHEDULE
 
  
 
-Single engine fixed wing, piston               $          65
+Single engine fixed wing, piston                        $     65
 
-Single engine fixed wing, turboprop                    250
+Single engine fixed wing, turboprop                          250
 
-Multiengine fixed wing, piston                            150
+Multiengine fixed wing, piston                                  150
 
-Multiengine fixed wing, turboprop                      300
+Multiengine fixed wing, turboprop                            300
 
-Turbojet fixed wing                                              700
+Turbojet fixed wing                                                    700
 
-Helicopter piston engine                                        65
+Helicopter piston engine                                            65
 
-Helicopter turbine engine                                     175
+Helicopter turbine engine                                           175
 
 Lighter than air, home built,
 
-sailplane, experimental or gyrocopter                    55
+sailplane, experimental or gyrocopter                        55
 
-Ultralight aircraft                                                   55
+Ultralight aircraft                                                       55
 
 Ex-military multiengine or turbojet/
 
-ex-air carrier                                                         300
+ex-air carrier                                                               300
 
-______________________________________________________________________________
+ 
 
  
 
@@ -527,15 +519,21 @@ UNMANNED AIRCRAFT SYSTEMS
 
  
 
-      837.360 Restrictions; civil penalties; registration; fees; rules. (1) A public body may not operate an unmanned aircraft system in the airspace over this state without registering the unmanned aircraft system with the Oregon Department of Aviation.
+      837.360 Restrictions; exception for educational institution; civil penalties; registration; fees; rules. (1) As used in this section, “educational institution” means an education service district, school district, public charter school, community college or public university listed in ORS 352.002.
 
-      (2) The Oregon Department of Aviation may impose a civil penalty of up to $10,000 against a public body that violates subsection (1) of this section.
+      (2)(a) A public body, other than an educational institution, may not operate an unmanned aircraft system in the airspace over this state without registering the unmanned aircraft system with the Oregon Department of Aviation.
 
-      (3) Evidence obtained by a public body through the use of an unmanned aircraft system in violation of subsection (1) of this section is not admissible in any judicial or administrative proceeding and may not be used to establish reasonable suspicion or probable cause to believe that an offense has been committed.
+      (b) An educational institution may not operate an unmanned aircraft system in the airspace over this state without registering as a user of unmanned aircraft systems with the department. The department may not require an educational institution to register individual unmanned aircraft systems under this section.
 
-      (4) The Oregon Department of Aviation shall establish a registry of unmanned aircraft systems operated by public bodies and may charge a fee sufficient to reimburse the department for the maintenance of the registry.
+      (3) The Oregon Department of Aviation may impose a civil penalty of up to $10,000 against a public body that violates subsection (2) of this section.
 
-      (5) The Oregon Department of Aviation shall require the following information for registration of an unmanned aircraft system:
+      (4) Evidence obtained by a public body through the use of an unmanned aircraft system in violation of subsection (2) of this section is not admissible in any judicial or administrative proceeding and may not be used to establish reasonable suspicion or probable cause to believe that an offense has been committed.
+
+      (5)(a) The Oregon Department of Aviation shall establish a registry of unmanned aircraft systems registered under subsection (2)(a) of this section and may charge a fee sufficient to reimburse the department for the maintenance of the registry.
+
+      (b) The department may not charge a fee to an educational institution under this subsection.
+
+      (6) The Oregon Department of Aviation shall require the following information for registration of an unmanned aircraft system under subsection (2)(a) of this section:
 
       (a) The name of the public body that owns or operates the unmanned aircraft system.
 
@@ -543,15 +541,17 @@ UNMANNED AIRCRAFT SYSTEMS
 
       (c) Identifying information for the unmanned aircraft system as required by the department by rule.
 
-      (6) A public body that registers one or more unmanned aircraft systems under this section shall provide an annual report to the Oregon Department of Aviation that:
+      (7)(a) A public body that registers one or more unmanned aircraft systems under subsection (2)(a) of this section shall provide an annual report to the Oregon Department of Aviation that:
 
-      (a) Summarizes the frequency of use of the unmanned aircraft systems by the public body during the preceding calendar year;
+      (A) Summarizes the frequency of use of the unmanned aircraft systems by the public body during the preceding calendar year;
 
-      (b) Summarizes the purposes for which the unmanned aircraft systems have been used by the public body during the preceding calendar year; and
+      (B) Summarizes the purposes for which the unmanned aircraft systems have been used by the public body during the preceding calendar year; and
 
-      (c) Indicates how the public can access the policies and procedures established under ORS 837.362.
+      (C) Indicates how the public can access the policies and procedures established under ORS 837.362.
 
-      (7) The State Aviation Board may adopt all rules necessary for the registration of unmanned aircraft systems in Oregon that are consistent with federal laws and regulations. [2013 c.686 §8; 2015 c.315 §8; 2016 c.72 §8]
+      (b) The department shall adopt rules requiring an educational institution that registers as a user of unmanned aircraft systems under subsection (2)(b) of this section to maintain records of the educational institution’s use of unmanned aircraft systems.
+
+      (8) The State Aviation Board may adopt all rules necessary for the registration of unmanned aircraft systems in Oregon that are consistent with federal laws and regulations. [2013 c.686 §8; 2015 c.315 §8; 2016 c.72 §8; 2019 c.337 §2]
 
  
 
@@ -585,13 +585,23 @@ UNMANNED AIRCRAFT SYSTEMS
 
  
 
-      837.365 Weaponized unmanned aircraft systems; penalties. (1) Except as provided in subsection (2) of this section, a person may not intentionally, knowingly or recklessly operate or cause to be operated an unmanned aircraft system that is capable of firing a bullet or projectile or otherwise operate or cause to be operated an unmanned aircraft system in a manner that causes the system to function as a dangerous weapon as defined in ORS 161.015.
+      837.365 Weaponized unmanned aircraft systems; penalties. (1) Except as provided in subsection (3) of this section, a person may not intentionally, knowingly or recklessly operate or cause to be operated an unmanned aircraft system that is:
+
+      (a) Capable of firing a bullet or projectile; or
+
+      (b) Specifically designed or modified to cause, and is presently capable of causing, serious physical injury as defined in ORS 161.015.
 
       (2)(a) Except as provided in paragraphs (b) and (c) of this subsection, violation of subsection (1) of this section is a Class A misdemeanor.
 
-      (b) If the person intentionally, knowingly or recklessly operates an unmanned aircraft system to fire a bullet or projectile or otherwise operates an unmanned aircraft system in a manner that causes the system to function as a dangerous weapon as defined in ORS 161.015, violation of subsection (1) of this section is a Class C felony.
+      (b) Violation of subsection (1) of this section is a Class C felony if the person intentionally, knowingly or recklessly operates an unmanned aircraft system and the unmanned aircraft system fires a bullet or projectile.
 
-      (c) If the person intentionally, knowingly or recklessly operates an unmanned aircraft system to fire a bullet or projectile or otherwise operates an unmanned aircraft system in a manner that causes the system to function as a dangerous weapon as defined in ORS 161.015, and the operation of the unmanned aircraft system causes serious physical injury to another person as both terms are defined in ORS 161.015, violation of subsection (1) of this section is a Class B felony.
+      (c) Violation of subsection (1) of this section is a Class B felony if the person intentionally, knowingly or recklessly operates an unmanned aircraft system and the unmanned aircraft system:
+
+      (A) Fires a bullet or projectile that causes serious physical injury, as defined in ORS 161.015, to another person; or
+
+      (B)(i) Is specifically designed or modified to cause, and is presently capable of causing, serious physical injury as defined in ORS 161.015; and
+
+      (ii) The design or modification causes serious physical injury, as defined in ORS 161.015, to another person.
 
       (3) Subsection (1) of this section does not apply if:
 
@@ -611,7 +621,7 @@ UNMANNED AIRCRAFT SYSTEMS
 
       (b) A community college as defined in ORS 341.005;
 
-      (c) An education service district as defined in ORS 334.003;
+      (c) A school;
 
       (d) The Oregon Health and Science University;
 
@@ -619,7 +629,9 @@ UNMANNED AIRCRAFT SYSTEMS
 
       (f) An institution that is exempt from ORS 348.594 to 348.615 under ORS 348.597 (2).
 
-      (5) Notwithstanding subsection (3) of this section, a person may not use an unmanned aircraft system that is capable of releasing, discharging, propelling or ejecting a projectile for purposes of crowd management. [2013 c.686 §10; 2015 c.315 §9; 2016 c.72 §2; 2017 c.502 §1]
+      (5) Notwithstanding subsection (3) of this section, a person may not use an unmanned aircraft system that is capable of releasing, discharging, propelling or ejecting a projectile for purposes of crowd management.
+
+      (6) As used in this section, “school” means a public or private institution of learning providing instruction at levels kindergarten through grade 12, or their equivalents. [2013 c.686 §10; 2015 c.315 §9; 2016 c.72 §2; 2017 c.502 §1; 2018 c.120 §6]
 
  
 
@@ -707,13 +719,25 @@ UNMANNED AIRCRAFT SYSTEMS
 
  
 
-      837.374 Reckless interference with aircraft; penalty. A person commits a Class A violation if the person possesses or controls an unmanned aircraft system and recklessly causes the unmanned aircraft system to:
+      837.374 Reckless interference with aircraft; penalties. (1) A person commits a Class A violation if the person possesses or controls an unmanned aircraft system and recklessly causes the unmanned aircraft system to:
 
-      (1) Direct a laser at an aircraft while the aircraft is in the air;
+      (a) Direct a laser at an aircraft while the aircraft is in the air;
 
-      (2) Crash into an aircraft while the aircraft is in the air; or
+      (b) Crash into an aircraft while the aircraft is in the air; or
 
-      (3) Prevent the takeoff or landing of an aircraft. [2016 c.72 §5]
+      (c) Prevent the takeoff or landing of an aircraft.
+
+      (2) A person commits a Class A misdemeanor if the person possesses or controls an unmanned aircraft system and knowingly or intentionally causes the unmanned aircraft system to:
+
+      (a) Direct a laser at an aircraft while the aircraft is in the air;
+
+      (b) Crash into an aircraft while the aircraft is in the air; or
+
+      (c) Prevent the takeoff or landing of an aircraft.
+
+      (3) Notwithstanding subsection (1) of this section, a person commits a Class A misdemeanor if the person violates subsection (1) of this section and the person has one or more convictions under subsection (1) of this section at the time of the offense.
+
+      (4) In addition to and not in lieu of any other sentence the court may impose, upon a person’s second or subsequent conviction under this section, the court shall, at the time of sentencing, declare the unmanned aircraft system used in the offense to be contraband and order that the unmanned aircraft system be forfeited. [2016 c.72 §5; 2019 c.337 §1]
 
  
 
@@ -745,7 +769,7 @@ UNMANNED AIRCRAFT SYSTEMS
 
       (b) The unmanned aircraft system is in the process of taking off or landing.
 
-      (3) A person may not bring an action under this section if the unmanned aircraft system is operated for commercial purposes in compliance with authorization granted by the Federal Aviation Administration. This subsection does not preclude a person from bringing another civil action, including but not limited to an action for invasion of privacy or an action for invasion of personal privacy under ORS 30.865.
+      (3) A person may not bring an action under this section if the unmanned aircraft system is operated for commercial purposes in compliance with authorization granted by the Federal Aviation Administration. This subsection does not preclude a person from bringing another civil action, including but not limited to an action for invasion of privacy or an action for invasion of personal privacy under ORS 30.831.
 
       (4) A prevailing plaintiff may recover treble damages for any injury to the person or the property by reason of a trespass by an unmanned aircraft system as described in this section, and may be awarded injunctive relief in the action.
 

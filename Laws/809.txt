@@ -6,20 +6,6 @@ Chapter 809 — Refusal, Suspension, Cancellation and Revocation of Registration
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0076
-
- 
-
- 
-
-
- 
 
 SUSPENSION AND REVOCATION; IMPOUNDMENT
 
@@ -57,7 +43,7 @@ SUSPENSION AND CANCELLATION OF REGISTRATIONS AND TITLES
 
  
 
-809.090     Cancellation of registration or title for failure to qualify
+809.090     Cancellation of registration or title for failure to qualify; notice; rules
 
  
 
@@ -85,7 +71,7 @@ REGISTRATION, DRIVING PRIVILEGES OR IDENTIFICATION CARD
 
  
 
-809.135     Refusal to issue, revocation or suspension of driving privileges, identification card, registration or title for failure to use same name
+809.135     Refusal to issue, revocation or suspension of identification card, registration or title for failure to use same name
 
  
 
@@ -122,10 +108,6 @@ DRIVING PRIVILEGES
  
 
 809.260     Court-ordered suspension of driving privileges of juvenile
-
- 
-
-809.265     Suspension for inhalant or controlled substances conviction
 
  
 
@@ -201,7 +183,7 @@ DRIVING PRIVILEGES
 
  
 
-809.415     Suspensions for conduct involving judgments, financial responsibility, dishonesty
+809.415     Suspensions for conduct involving judgments, financial responsibility, dishonesty; rules
 
  
 
@@ -221,15 +203,11 @@ DRIVING PRIVILEGES
 
  
 
-809.423     Suspensions for nondriving-related actions by minors
-
- 
-
 809.428     Schedule of suspension or revocation periods for certain offenses
 
  
 
-809.430     Notice of suspension, cancellation or revocation; contents; service
+809.430     Notice of suspension, cancellation or revocation; contents; service; rules
 
  
 
@@ -314,14 +292,6 @@ DRIVING PRIVILEGES
  
 
 809.640     Procedures on habitual offender determination
-
- 
-
-809.650     Effect of habitual offender revocation
-
- 
-
-809.660     Restoration of privileges
 
  
 
@@ -471,13 +441,25 @@ SUSPENSION AND CANCELLATION OF REGISTRATIONS AND TITLES
 
  
 
-      809.090 Cancellation of registration or title for failure to qualify. (1) The Department of Transportation may cancel the registration or title or both of a vehicle if the department determines that:
+      809.090 Cancellation of registration or title for failure to qualify; notice; rules. (1) The Department of Transportation may cancel the registration or title or both of a vehicle if the department determines that:
+
+      (a) A holder is not entitled to the registration or title or both; or
+
+      (b) All fees applicable to a vehicle, payable to the department under any provision of law have not been paid.
+
+      (2) Before cancellation under this section, the department must give opportunity for a hearing upon 10 days’ notice. The department shall serve notice in a manner determined by the department by rule. [1983 c.338 §288; 1991 c.249 §73; 1993 c.233 §53; 1999 c.1009 §3; 2019 c.312 §28]
+
+ 
+
+      Note: The amendments to 809.090 by section 28, chapter 312, Oregon Laws 2019, become operative July 1, 2020. See section 37, chapter 312, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      809.090. (1) The Department of Transportation may cancel the registration or title or both of a vehicle if the department determines that:
 
       (a) A holder is not entitled thereto; or
 
       (b) All fees applicable to a vehicle, payable to the department under any provision of law have not been paid.
 
-      (2) Before cancellation under this section the department must give opportunity for a hearing upon 10 days’ notice. The notice shall be served in person or by first class mail. [1983 c.338 §288; 1991 c.249 §73; 1993 c.233 §53; 1999 c.1009 §3]
+      (2) Before cancellation under this section the department must give opportunity for a hearing upon 10 days’ notice. The notice shall be served in person or by first class mail.
 
  
 
@@ -533,7 +515,7 @@ REGISTRATION, DRIVING PRIVILEGES OR IDENTIFICATION CARD
 
  
 
-      809.135 Refusal to issue, revocation or suspension of driving privileges, identification card, registration or title for failure to use same name. The Department of Transportation may refuse to issue, may revoke or may suspend any license, permit, identification card, title or registration issued by the department or for which application is made to the department if the department determines that the person issued or applying for the license, permit, identification card, title or registration has used one name in one application and another name in any other application. [Formerly 809.060]
+      809.135 Refusal to issue, revocation or suspension of identification card, registration or title for failure to use same name. The Department of Transportation may refuse to issue, may revoke or may suspend any identification card, title or registration issued by the department or for which application is made to the department if the department determines that the person issued or applying for the identification card, title or registration has used one name in one application and another name in any other application. [Formerly 809.060; 2018 c.76 §25]
 
  
 
@@ -554,8 +536,6 @@ REGISTRATION, DRIVING PRIVILEGES OR IDENTIFICATION CARD
  
 
 DRIVING PRIVILEGES
-
- 
 
 (Court-Ordered or Recommended Restrictions, Suspensions, Revocations or Denials)
 
@@ -711,11 +691,27 @@ DRIVING PRIVILEGES
 
  
 
-      809.260 Court-ordered suspension of driving privileges of juvenile. (1) Whenever a person who is 17 years of age or younger, but not younger than 13 years of age, is convicted of any offense described in this subsection or determined by a juvenile court to have committed one of the described offenses, the court shall order suspension of the person’s driving privileges. This subsection applies to ORS 166.370, 475B.341, 475B.346 and 475B.349 and to any offense involving the delivery, manufacture or possession of controlled substances.
+      809.260 Court-ordered suspension of driving privileges of juvenile. (1) Whenever a person who is 17 years of age or younger, but not younger than 13 years of age, at the time of committing any offense described in subsection (2) of this section, is determined by a juvenile court to have committed one of the offenses described in subsection (2) of this section, the court may order suspension of the person’s driving privileges upon:
 
-      (2) Whenever a person who is 20 years of age or younger, but not younger than 13 years of age, at the time of committing any offense described in this subsection, is convicted or determined by a juvenile court to have committed one of the described offenses, the court shall order suspension of the person’s driving privileges. This subsection applies to any offense involving the possession, use or abuse of alcohol or cannabis.
+      (a) The person’s second or subsequent adjudication for an offense described in subsection (2) of this section;
 
-      (3) If a court has issued an order suspending driving privileges under this section, the court, upon petition of the person, may review the order and may withdraw the order at any time the court deems appropriate except as provided in the following:
+      (b) The person’s first adjudication if the person has previously entered into a formal accountability agreement under ORS 419C.230 for an offense described in subsection (2) of this section; or
+
+      (c) The person’s first adjudication if the offense involved the operation of a motor vehicle.
+
+      (2) Subsection (1) of this section applies to any offense involving the delivery, manufacture or possession of controlled substances, or any offense described in ORS 475B.341, 475B.346 or 475B.349.
+
+      (3) Whenever a person who is 20 years of age or younger, but not younger than 13 years of age, at the time of committing any offense described in subsection (4) of this section, is convicted or determined by a juvenile court to have committed one of the offenses described in subsection (4) of this section, the court may order suspension of the person’s driving privileges upon:
+
+      (a) The person’s second or subsequent conviction or adjudication for an offense described in subsection (4) of this section;
+
+      (b) The person’s first conviction or adjudication if the person has previously entered into a formal accountability agreement under ORS 419C.230 for an offense described in subsection (4) of this section; or
+
+      (c) The person’s first conviction or adjudication if the offense involved the operation of a motor vehicle.
+
+      (4) Subsection (3) of this section applies to any offense involving the possession, use or abuse of alcohol or cannabis.
+
+      (5) If a court has issued an order suspending driving privileges under this section, the court, upon petition of the person, may review the order and may withdraw the order at any time the court deems appropriate except as provided in the following:
 
       (a) A court may not withdraw an order for a period of 90 days following the issuance of the order if it is the first such order issued with respect to the person.
 
@@ -723,17 +719,11 @@ DRIVING PRIVILEGES
 
       (c) Notwithstanding paragraph (a) of this subsection, a court may not withdraw an order for a period of six months if the order is based on a determination or conviction involving controlled substances.
 
-      (4) Upon receipt of an order under this section, the department shall take action as directed under ORS 809.280. [1985 c.16 §206; 1991 c.835 §3; 1993 c.625 §6; 1999 c.1051 §88; 2007 c.359 §1; 2009 c.228 §2; 2011 c.355 §7; 2017 c.20 §9; 2017 c.21 §77]
+      (6) Upon receipt of an order under this section, the department shall take action as directed under ORS 809.280. [1985 c.16 §206; 1991 c.835 §3; 1993 c.625 §6; 1999 c.1051 §88; 2007 c.359 §1; 2009 c.228 §2; 2011 c.355 §7; 2017 c.20 §9; 2017 c.21 §77; 2018 c.76 §26]
 
  
 
-      809.265 Suspension for inhalant or controlled substances conviction. (1) Unless the court finds compelling circumstances not to order suspension of driving privileges, the court in which a person is convicted of an offense described in this subsection shall order suspension of the person’s driving privileges. This subsection applies when a person is convicted of:
-
-      (a) Any offense involving manufacturing, possession or delivery of controlled substances.
-
-      (b) Driving while under the influence of intoxicants in violation of ORS 813.010 or of a municipal ordinance if the person was under the influence of an inhalant or a controlled substance.
-
-      (2) Upon receipt of an order under this section, the department shall take action as directed under ORS 809.280. [1991 c.835 §2; 1999 c.619 §7; 1999 c.1051 §139; 2011 c.355 §8; 2013 c.592 §1; 2016 c.24 §61]
+      809.265 [1991 c.835 §2; 1999 c.619 §7; 1999 c.1051 §139; 2011 c.355 §8; 2013 c.592 §1; 2016 c.24 §61; repealed by 2018 c.76 §17]
 
  
 
@@ -783,7 +773,7 @@ DRIVING PRIVILEGES
 
  
 
-      809.275 Court to take possession of license or permit; effective date of suspension or revocation. (1) A court shall take immediate possession of any license or driver permit held by a defendant that is issued by any jurisdiction if the court orders a suspension or revocation under ORS 165.805, 471.430, 809.120, 809.235, 809.240, 809.260, 809.265, 809.270, 811.109 or 811.135.
+      809.275 Court to take possession of license or permit; effective date of suspension or revocation. (1) A court shall take immediate possession of any license or driver permit held by a defendant that is issued by any jurisdiction if the court orders a suspension or revocation under ORS 165.805, 471.430, 809.120, 809.235, 809.240, 809.260, 809.270, 811.109 or 811.135.
 
       (2) Upon taking possession of a license or permit under this section, a court shall immediately forward to the Department of Transportation the license or permit and a copy of the suspension or revocation order or other information satisfactory to the department and to the State Court Administrator.
 
@@ -791,7 +781,7 @@ DRIVING PRIVILEGES
 
       (4) The department is not required to provide further notice of a suspension or revocation ordered by the court.
 
-      (5) Nothing in this section requires a court to take additional action, after the conclusion of the sentencing hearing, to secure the driver license or driver permit. [Formerly 809.250; 2011 c.355 §9]
+      (5) Nothing in this section requires a court to take additional action, after the conclusion of the sentencing hearing, to secure the driver license or driver permit. [Formerly 809.250; 2011 c.355 §9; 2018 c.76 §27]
 
  
 
@@ -821,15 +811,13 @@ DRIVING PRIVILEGES
 
       (8) Upon receipt of a court order under ORS 165.805 or 471.430, the department shall suspend the person’s driving privileges. The suspension shall be for the period ordered by the court. The court may only order suspension for a period not to exceed one year.
 
-      (9) Upon receipt of a court order under ORS 809.265, the department shall suspend the person’s driving privileges for six months.
+      (9) Upon receipt of a court order under ORS 809.235, the department shall permanently revoke the person’s driving privileges. The revocation shall remain in effect until the department is notified by a court that the person’s driving privileges have been ordered restored.
 
-      (10) Upon receipt of a court order under ORS 809.235, the department shall permanently revoke the person’s driving privileges. The revocation shall remain in effect until the department is notified by a court that the person’s driving privileges have been ordered restored.
+      (10) When a court orders suspension of driving privileges under ORS 811.109 (4), the department shall suspend the person’s driving privileges. The suspension shall be for the period ordered by the court. The court may only order suspension for a period not to exceed 30 days.
 
-      (11) When a court orders suspension of driving privileges under ORS 811.109 (4), the department shall suspend the person’s driving privileges. The suspension shall be for the period ordered by the court. The court may only order suspension for a period not to exceed 30 days.
+      (11) When a court orders suspension of driving privileges under ORS 811.109 (5), the department shall suspend the person’s driving privileges. The suspension shall be for the period ordered by the court. The court may only order suspension for not less than 30 days and not more than 90 days.
 
-      (12) When a court orders suspension of driving privileges under ORS 811.109 (5), the department shall suspend the person’s driving privileges. The suspension shall be for the period ordered by the court. The court may only order suspension for not less than 30 days and not more than 90 days.
-
-      (13) Upon receipt of a court order under ORS 811.135, the department shall suspend the person’s driving privileges for one year. [1983 c.338 §362; 1985 c.16 §177; 1985 c.597 §23; 1985 c.669 §12; 1987 c.730 §15; 1991 c.835 §4; 1991 c.860 §3; 1993 c.751 §57; 1993 c.761 §3; 1999 c.359 §3; 1999 c.770 §4; 2001 c.817 §8; 2005 c.491 §2; 2007 c.127 §4; 2007 c.784 §4; 2011 c.355 §1; 2013 c.432 §5]
+      (12) Upon receipt of a court order under ORS 811.135, the department shall suspend the person’s driving privileges for one year. [1983 c.338 §362; 1985 c.16 §177; 1985 c.597 §23; 1985 c.669 §12; 1987 c.730 §15; 1991 c.835 §4; 1991 c.860 §3; 1993 c.751 §57; 1993 c.761 §3; 1999 c.359 §3; 1999 c.770 §4; 2001 c.817 §8; 2005 c.491 §2; 2007 c.127 §4; 2007 c.784 §4; 2011 c.355 §1; 2013 c.432 §5; 2018 c.76 §28]
 
  
 
@@ -863,13 +851,9 @@ DRIVING PRIVILEGES
 
       (f) Produced identification cards, licenses, permits, forms or camera cards in violation of ORS 807.500.
 
-      (g) Transferred documents for the purpose of misrepresentation in violation of ORS 807.510.
-
-      (h) Given false information to a police officer in violation of ORS 807.620.
-
       (4) Upon suspension or cancellation of driving privileges under this section, a person whose privileges are suspended or canceled shall surrender to the department any license or driver permit issued for the driving privileges. Failure to comply with this subsection is subject to penalty as provided under ORS 809.500.
 
-      (5) To obtain driving privileges after the period of suspension or cancellation under this section, a person must reapply for driving privileges in the manner established by law. [1983 c.338 §345; 1985 c.393 §8; 1987 c.272 §1; 1993 c.393 §6]
+      (5) To obtain driving privileges after the period of suspension or cancellation under this section, a person must reapply for driving privileges in the manner established by law. [1983 c.338 §345; 1985 c.393 §8; 1987 c.272 §1; 1993 c.393 §6; 2018 c.76 §29]
 
  
 
@@ -897,11 +881,11 @@ DRIVING PRIVILEGES
 
       (5) The administrative review required under this section shall be conducted in the manner provided in ORS 809.440 (2).
 
-      (6) To reinstate driving privileges or the right to apply for driving privileges after the department determines that the person meets the objective criteria under subsection (4) of this section, the person shall pay the fee for reinstatement of driving privileges as described in ORS 807.370 (25).
+      (6) To reinstate driving privileges or the right to apply for driving privileges after the department determines that the person meets the objective criteria under subsection (4) of this section, the person shall pay the fee for reinstatement of driving privileges as described in ORS 807.370 (10).
 
-      (7) To reinstate an identification card or the right to apply for an identification card after the department determines that the person meets the objective criteria under subsection (4) of this section, the person shall pay the fee for reinstatement of an identification card as described in ORS 807.410 (4).
+      (7) To reinstate an identification card or the right to apply for an identification card after the department determines that the person meets the objective criteria under subsection (4) of this section, the person shall pay the fee for reinstatement of an identification card as described in ORS 807.410.
 
-      (8) The department’s authority to reinstate a suspension of a person’s driving privileges or right to apply for driving privileges under this section does not impinge on a court’s authority to impose a suspension under ORS 165.805 or 471.430. [2012 c.14 §2; 2013 c.237 §46]
+      (8) The department’s authority to reinstate a suspension of a person’s driving privileges or right to apply for driving privileges under this section does not impinge on a court’s authority to impose a suspension under ORS 165.805 or 471.430. [2012 c.14 §2; 2013 c.237 §46; 2018 c.114 §6; 2019 c.15 §2]
 
  
 
@@ -965,6 +949,48 @@ DRIVING PRIVILEGES
 
       (g) The suspension was the result of an error committed by an insurance company in issuing or failing to issue a certification of insurance or in canceling a certification of insurance filed with the department under ORS 806.270.
 
+      (h) The department issued the suspension without error because the person failed to respond as required under ORS 806.150 or to furnish proof of exemption under ORS 806.210 from the filing requirement of ORS 806.200, but the department later determines that the person in fact was in compliance with financial responsibility requirements as of the date specified by the department by rule under ORS 806.150 or at the time of an accident described in ORS 806.200.
+
+      (i) The department issued the suspension without error because the person was not in compliance with financial responsibility requirements as of the date specified by the department by rule under ORS 806.150 or at the time of an accident described in ORS 806.200, but the department later determines that the person reasonably and in good faith believed that the person was in compliance with financial responsibility requirements on the date specified by the department by rule under ORS 806.150 or at the time of the accident.
+
+      (j) The suspension was the result of an error committed by an insurance company in notifying the department regarding the correctness of proof of compliance with financial responsibility requirements provided under ORS 806.150.
+
+      (k) The suspension occurred because the person failed to make future responsibility filings but the department later determines that the reason for the failure was that the person was a military reservist or a member of a national guard unit that was ordered to active military duty to a location outside of the United States. The effective date of the military orders must be prior to the effective date of a suspension issued by the department for failure to make a future responsibility filing.
+
+      (L) The department issued the suspension without error because the department received a notice to suspend from a court under ORS 809.210 or 809.220, but the department later determines that the person in fact was in compliance with the requirements of the court prior to the effective date of the suspension. [1983 c.338 §350; 1985 c.16 §164; 1985 c.173 §1; 1985 c.393 §9; 1985 c.669 §17a; 1985 c.714 §8; 1987 c.137 §3; 1987 c.258 §8; 1987 c.272 §3; 1987 c.801 §7; 1989 c.224 §139; 1991 c.474 §1; 2003 c.402 §26; 2005 c.104 §1; 2005 c.140 §3; 2009 c.105 §1; 2017 c.66 §31; 2017 c.701 §25; 2018 c.76 §30; 2019 c.312 §10]
+
+ 
+
+      Note: The amendments to 809.380 by section 10, chapter 312, Oregon Laws 2019, become operative July 1, 2020. See section 37, chapter 312, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 30, chapter 76, Oregon Laws 2018, is set forth for the user’s convenience.
+
+      809.380. All of the following apply to a person whose driving privileges have been suspended:
+
+      (1) The period of suspension shall last as long as provided for that particular suspension by law.
+
+      (2) During the period of suspension, the person is not entitled to exercise any driving privileges in this state except as provided under this subsection. Unless otherwise specifically provided by law, a person whose driving privileges are suspended may obtain, if the person qualifies, a hardship driver permit under ORS 807.240, and exercise driving privileges under the driver permit.
+
+      (3) Upon expiration of the suspension, the Department of Transportation shall reissue, upon request of the person, the suspended driving privileges and any license or driver permit that evidences the driving privileges. The reissuance shall be without requalification by the person except that the department may require the person to furnish evidence satisfactory to the department that the person is qualified to continue to exercise driving privileges in this state before the department reissues the driving privileges.
+
+      (4) The department may not issue any driving privileges in contradiction to this section.
+
+      (5) If the person fails to surrender to the department any license or driver permit issued as evidence of driving privileges that are suspended, the person is subject to the penalties under ORS 809.500.
+
+      (6) No reinstatement of suspended driving privileges will be made by the department until the fee for reinstatement of suspended driving privileges established under ORS 807.370 is paid to or waived by the department. The department may waive the reinstatement fee for any of the following reasons:
+
+      (a) The suspension occurred under ORS 809.419 for failure to take an examination upon request of the department under ORS 807.340.
+
+      (b) The suspension occurred under ORS 809.419 for failure to obtain required medical clearance upon request of the department under ORS 807.070 or 807.090.
+
+      (c) The suspension occurred under ORS 809.419 for incompetence to drive a motor vehicle or having a mental or physical condition or impairment that affects the person’s ability to safely operate a motor vehicle.
+
+      (d) The suspension occurred under ORS 809.419 upon notification by the superintendent of a hospital under ORS 807.700 that a person should not drive.
+
+      (e) The suspension occurred under ORS 809.419 upon notification by a court under ORS 810.375 that a person charged with a traffic offense has been found guilty except for insanity.
+
+      (f) The department committed an error in issuing the suspension.
+
+      (g) The suspension was the result of an error committed by an insurance company in issuing or failing to issue a certification of insurance or in canceling a certification of insurance filed with the department under ORS 806.270.
+
       (h) The department issued the suspension without error because the person failed to respond as required under ORS 806.160 or to furnish proof of exemption under ORS 806.210 from the filing requirement of ORS 806.200, but the department later determines that the person in fact was in compliance with financial responsibility requirements as of the date of the department’s letter of verification under ORS 806.150 or at the time of an accident described in ORS 806.200.
 
       (i) The department issued the suspension without error because the person was not in compliance with financial responsibility requirements as of the date of the department’s letter of verification under ORS 806.150 or at the time of an accident described in ORS 806.200, but the department later determines that the person reasonably and in good faith believed that the person was in compliance with financial responsibility requirements on the date of the department’s letter of verification or at the time of the accident.
@@ -975,11 +1001,9 @@ DRIVING PRIVILEGES
 
       (L) The department issued the suspension without error because the department received a notice to suspend from a court under ORS 809.210 or 809.220, but the department later determines that the person in fact was in compliance with the requirements of the court prior to the effective date of the suspension.
 
-      (7) The department shall waive the reinstatement fee for a person whose driving privileges were suspended under ORS 809.423 (2) if the person:
+ 
 
-      (a) Has graduated from high school and provides the department with proof of graduation satisfactory to the department; or
-
-      (b) Has received a certificate for passing an approved high school equivalency test such as the General Educational Development (GED) test from a community college and provides the department with proof of the certificate satisfactory to the department. [1983 c.338 §350; 1985 c.16 §164; 1985 c.173 §1; 1985 c.393 §9; 1985 c.669 §17a; 1985 c.714 §8; 1987 c.137 §3; 1987 c.258 §8; 1987 c.272 §3; 1987 c.801 §7; 1989 c.224 §139; 1991 c.474 §1; 2003 c.402 §26; 2005 c.104 §1; 2005 c.140 §3; 2009 c.105 §1; 2017 c.66 §31; 2017 c.701 §25]
+      Note: 806.160 was repealed by section 36, chapter 312, Oregon Laws 2019. The text of 809.380 that is operative until July 1, 2020, was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 809.380 for the repeal of 806.160 has not been made.
 
  
 
@@ -987,9 +1011,9 @@ DRIVING PRIVILEGES
 
       (1) The period of revocation shall last as long as required for the revocation by law.
 
-      (2) During the period of revocation, the person is not entitled to exercise any driving privileges in this state or to apply for or receive any driving privileges in this state except when a person who has been determined to be a habitual offender is permitted to obtain driving privileges under a probationary driving permit as described under ORS 807.270 and 809.650. This subsection prohibits the issuance of any driver permit, including a hardship permit described under ORS 807.240, to a person whose driving privileges or right to apply for driving privileges are revoked except as provided for the probationary driving permit under ORS 807.270.
+      (2) During the period of revocation, the person is not entitled to exercise any driving privileges in this state or to apply for or receive any driving privileges in this state except when a person who has been determined to be a habitual offender is permitted to obtain driving privileges under ORS 807.240.
 
-      (3) Upon expiration of the revocation period, the person must reapply for driving privileges in the manner established by law and must reestablish the person’s eligibility for issuance of driving privileges. If driving privileges are revoked because the person is a habitual offender, the person must meet the additional eligibility requirements for reinstatement of driving privileges under ORS 809.650 and 809.660.
+      (3) Upon expiration of the revocation period, the person must reapply for driving privileges in the manner established by law and must reestablish the person’s eligibility for issuance of driving privileges.
 
       (4) The Department of Transportation may issue new driving privileges to a person before the expiration of the revocation period if the person is otherwise entitled to be issued driving privileges and when, with reference to a conviction upon which the revocation was based, the Governor has pardoned the person of the crime.
 
@@ -997,7 +1021,7 @@ DRIVING PRIVILEGES
 
       (6) If the person fails to surrender to the department any license or driver permit issued as evidence of driving privileges that are revoked, the person is subject to the penalty under ORS 809.500.
 
-      (7) No reinstatement of revoked driving privileges will be made by the department until the fee for reinstatement of revoked driving privileges established under ORS 807.370 is paid to or waived by the department. The department may waive the reinstatement fee if the department committed an error in issuing the revocation. [1983 c.338 §351; 1985 c.16 §165; 1985 c.393 §10; 1985 c.669 §1; 1987 c.801 §8]
+      (7) No reinstatement of revoked driving privileges will be made by the department until the fee for reinstatement of revoked driving privileges established under ORS 807.370 is paid to or waived by the department. The department may waive the reinstatement fee if the department committed an error in issuing the revocation. [1983 c.338 §351; 1985 c.16 §165; 1985 c.393 §10; 1985 c.669 §1; 1987 c.801 §8; 2018 c.76 §10]
 
  
 
@@ -1051,9 +1075,7 @@ DRIVING PRIVILEGES
 
       (c) The department shall revoke driving privileges under this subsection for a period of five years if the court indicates on the record of conviction that a person was killed as a result of the accident. The person may apply for reinstatement of privileges five years after the date the person was released from incarceration, if the sentence includes incarceration. If the sentence does not include incarceration, the person may apply for reinstatement five years from the date the revocation was imposed under this subsection.
 
-      (4) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of perjury or the making of a false affidavit to the department under any law of this state requiring the registration of vehicles or regulating their operation on the highways.
-
-      (5) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of any felony with a material element involving the operation of a motor vehicle. [2003 c.402 §2; 2007 c.867 §10; 2009 c.320 §2; 2009 c.783 §10; 2011 c.355 §14; 2013 c.124 §1]
+      (4) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of any felony with a material element involving the operation of a motor vehicle. [2003 c.402 §2; 2007 c.867 §10; 2009 c.320 §2; 2009 c.783 §10; 2011 c.355 §14; 2013 c.124 §1; 2018 c.76 §31]
 
  
 
@@ -1065,7 +1087,7 @@ DRIVING PRIVILEGES
 
       (b) A person is entitled to administrative review under ORS 809.440 of a suspension under this section.
 
-      (c) Except as otherwise provided in subsections (7), (8), (9) and (10) of this section, the suspension shall be for the period of time described in Schedule I of ORS 809.428. The department may not reinstate driving privileges of any person whose privileges are suspended under subsection (2), (3), (4), (5), (6), (7) or (10) of this section until the person complies with future responsibility filings. There is no requirement of compliance with future responsibility filings if the person was suspended under subsection (8) or (9) of this section.
+      (c) Except as otherwise provided in subsections (7), (8) and (9) of this section, the suspension shall be for the period of time described in Schedule I of ORS 809.428. The department may not reinstate driving privileges of any person whose privileges are suspended under subsection (2), (3), (4), (5), (6) or (9) of this section until the person complies with future responsibility filings. There is no requirement of compliance with future responsibility filings if the person was suspended under subsection (7) or (8) of this section.
 
       (2) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of any degree of recklessly endangering another person, menacing or criminal mischief resulting from the operation of a motor vehicle.
 
@@ -1077,19 +1099,17 @@ DRIVING PRIVILEGES
 
       (6) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of reckless endangerment of highway workers under ORS 811.231 (1).
 
-      (7) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of theft under ORS 164.043, 164.045 or 164.055 when the theft was of gasoline. A suspension under this subsection shall continue for a period of six months from the date of suspension.
+      (7) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of criminal trespass under ORS 164.245 that involves the operation of a motor vehicle. A suspension under this subsection shall continue for a period of six months from the date of suspension.
 
-      (8) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of criminal trespass under ORS 164.245 that involves the operation of a motor vehicle. A suspension under this subsection shall continue for a period of six months from the date of suspension.
+      (8) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of an offense described in ORS 809.310. A suspension under this subsection shall continue for a period of one year from the date of the suspension.
 
-      (9) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of an offense described in ORS 809.310. A suspension under this subsection shall continue for a period of one year from the date of the suspension.
-
-      (10)(a) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of assault in the second, third or fourth degree resulting from the operation of a motor vehicle.
+      (9)(a) The department shall take action under subsection (1) of this section upon receipt of a record of conviction of assault in the second, third or fourth degree resulting from the operation of a motor vehicle.
 
       (b) A person who is convicted of assault in the second degree and whose driving privileges are suspended under this subsection may apply for reinstatement of driving privileges eight years from the date the person is released from incarceration for the conviction, if the sentence includes incarceration. If the sentence for the conviction does not include incarceration, the person may apply for reinstatement of driving privileges eight years from the date the department suspended the privileges under this subsection.
 
       (c) A person who is convicted of assault in the third degree and whose driving privileges are suspended under this subsection may apply for reinstatement of driving privileges five years from the date the person is released from incarceration for the conviction, if the sentence includes incarceration. If the sentence for the conviction does not include incarceration, the person may apply for reinstatement of driving privileges five years from the date the department suspended the privileges under this subsection.
 
-      (d) A person who is convicted of assault in the fourth degree and whose driving privileges are suspended under this subsection may apply for reinstatement of driving privileges one year from the date the person is released from incarceration for the conviction, if the sentence includes incarceration. If the sentence for the conviction does not include incarceration, the person may apply for reinstatement of driving privileges one year from the date the department suspended the privileges under this subsection. [2003 c.402 §3; 2005 c.403 §1; 2011 c.355 §15]
+      (d) A person who is convicted of assault in the fourth degree and whose driving privileges are suspended under this subsection may apply for reinstatement of driving privileges one year from the date the person is released from incarceration for the conviction, if the sentence includes incarceration. If the sentence for the conviction does not include incarceration, the person may apply for reinstatement of driving privileges one year from the date the department suspended the privileges under this subsection. [2003 c.402 §3; 2005 c.403 §1; 2011 c.355 §15; 2018 c.76 §32]
 
  
 
@@ -1105,7 +1125,49 @@ DRIVING PRIVILEGES
 
  
 
-      809.415 Suspensions for conduct involving judgments, financial responsibility, dishonesty. (1)(a) The Department of Transportation shall suspend the driving privileges of a person who has a judgment of the type described under ORS 806.040 rendered against the person if the person does not settle the judgment in the manner described under ORS 809.470 within 60 days after its entry.
+      809.415 Suspensions for conduct involving judgments, financial responsibility, dishonesty; rules. (1)(a) The Department of Transportation shall suspend the driving privileges of a person who has a judgment of the type described under ORS 806.040 rendered against the person if the person does not settle the judgment in the manner described under ORS 809.470 within 60 days after its entry.
+
+      (b) A suspension under this subsection shall continue until the person does one of the following:
+
+      (A) Settles the judgment in the manner described in ORS 809.470.
+
+      (B) Has an insurer that has been found by the department to be obligated to pay the judgment, provided that there has been no final adjudication by a court that the insurer has no such obligation.
+
+      (C) Gives evidence to the department that a period of seven years has elapsed since the entry of the judgment.
+
+      (D) Receives from the court that rendered the judgment an order permitting the payment of the judgment in installments.
+
+      (c) A person is entitled to administrative review under ORS 809.440 of a suspension under this subsection.
+
+      (2)(a) The department shall suspend the driving privileges of a person who falsely certifies the existence of a motor vehicle liability insurance policy or the existence of some other means of satisfying financial responsibility requirements or of a person who, after certifying the existence of a motor vehicle liability insurance policy or other means of satisfying the requirements, allows the policy to lapse or be canceled or otherwise fails to remain in compliance with financial responsibility requirements.
+
+      (b) Notwithstanding paragraph (a) of this subsection, the department may suspend under this subsection only if proof of compliance with financial responsibility requirements as of the date specified by the department by rule under ORS 806.150 is not submitted within the time specified by the department by rule under this section.
+
+      (c) A suspension under this subsection shall continue until the person complies with future responsibility filings.
+
+      (3)(a) The department shall suspend the driving privileges of a person who fails to comply with future responsibility filings whenever required under the vehicle code or fails to provide new proof of compliance for future responsibility filings when requested by the department.
+
+      (b) A suspension under this subsection shall continue until the person complies with future responsibility filings.
+
+      (c) A person whose initial obligation to make future responsibility filings is not based upon a conviction or other action by a court is entitled to a hearing under ORS 809.440 prior to a suspension under this subsection. A person whose obligation to make future responsibility filings is based upon a conviction or other action by a court is entitled to administrative review under ORS 809.440 of a suspension under this subsection. A person whose suspension under this subsection is based on lapses in filing after the initial filing has been made is entitled to administrative review under ORS 809.440.
+
+      (4)(a) The department shall suspend driving privileges when provided under ORS 809.416. The suspension shall continue until the earlier of the following:
+
+      (A) The person establishes to the satisfaction of the department that the person has performed all acts necessary under ORS 809.416 to make the person not subject to suspension.
+
+      (B) Ten years from the date the traffic offense or violation of ORS 471.430 occurred if the suspension is imposed for a reason described in ORS 809.416 (1) or 20 years from the date the traffic offense occurred if the suspension is imposed for a reason described in ORS 809.416 (2).
+
+      (b) A person is entitled to administrative review under ORS 809.440 of a suspension under this subsection.
+
+      (5) Upon determination by the department that a person has committed an act that constitutes an offense described in ORS 809.310, the department may suspend any driving privileges or any identification card of the person determined to have committed the act. A suspension under this subsection shall continue for a period of one year.
+
+      (6) Upon determination by the department that a person has submitted false information to the department for the purpose of establishing or maintaining qualification to operate a commercial motor vehicle or hold commercial driving privileges, the department shall suspend the commercial driving privileges or the person’s right to apply for commercial driving privileges for a period of one year. [2003 c.402 §5; 2007 c.127 §1; 2011 c.470 §5; 2013 c.432 §§4,11; 2013 c.237 §20; 2018 c.76 §33; 2019 c.312 §11]
+
+ 
+
+      Note: The amendments to 809.415 by section 11, chapter 312, Oregon Laws 2019, become operative July 1, 2020. See section 37, chapter 312, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 33, chapter 76, Oregon Laws 2018, is set forth for the user’s convenience.
+
+      809.415. (1)(a) The Department of Transportation shall suspend the driving privileges of a person who has a judgment of the type described under ORS 806.040 rendered against the person if the person does not settle the judgment in the manner described under ORS 809.470 within 60 days after its entry.
 
       (b) A suspension under this subsection shall continue until the person does one of the following:
 
@@ -1135,17 +1197,43 @@ DRIVING PRIVILEGES
 
       (A) The person establishes to the satisfaction of the department that the person has performed all acts necessary under ORS 809.416 to make the person not subject to suspension.
 
-      (B) Ten years from the date the traffic offense or violation of ORS 471.430 occurred if the suspension is imposed for a reason described in ORS 809.416 (1), 20 years from the date the traffic offense occurred if the suspension is imposed for a reason described in ORS 809.416 (2) or five years from the date the suspension is imposed for a reason described in ORS 809.416 (4).
+      (B) Ten years from the date the traffic offense or violation of ORS 471.430 occurred if the suspension is imposed for a reason described in ORS 809.416 (1) or 20 years from the date the traffic offense occurred if the suspension is imposed for a reason described in ORS 809.416 (2).
 
       (b) A person is entitled to administrative review under ORS 809.440 of a suspension under this subsection.
 
       (5) Upon determination by the department that a person has committed an act that constitutes an offense described in ORS 809.310, the department may suspend any driving privileges or any identification card of the person determined to have committed the act. A suspension under this subsection shall continue for a period of one year.
 
-      (6) Upon determination by the department that a person has submitted false information to the department for the purpose of establishing or maintaining qualification to operate a commercial motor vehicle or hold commercial driving privileges, the department shall suspend the commercial driving privileges or the person’s right to apply for commercial driving privileges for a period of one year. [2003 c.402 §5; 2007 c.127 §1; 2011 c.470 §5; 2013 c.432 §§4,11; 2013 c.237 §20]
+      (6) Upon determination by the department that a person has submitted false information to the department for the purpose of establishing or maintaining qualification to operate a commercial motor vehicle or hold commercial driving privileges, the department shall suspend the commercial driving privileges or the person’s right to apply for commercial driving privileges for a period of one year.
+
+ 
+
+      Note: 806.160 was repealed by section 36, chapter 312, Oregon Laws 2019. The text of 809.415 that is operative until July 1, 2020, was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 809.415 for the repeal of 806.160 has not been made.
 
  
 
       809.416 When person subject to suspension under ORS 809.415; duration. This section establishes circumstances that will make a person subject to suspension under ORS 809.415 (4) and what a person is required to do to make the person no longer subject to suspension. The following apply as described:
+
+      (1) A person is subject to suspension under ORS 809.415 (4) if the Department of Transportation receives notice from a court to commence suspension under ORS 809.220. A person who is subject under this subsection remains subject until the person presents the department with notice issued by the court showing that the person is no longer subject to this section or until 10 years have elapsed from the date the traffic offense or violation of ORS 471.430 occurred, whichever is earlier. This subsection does not subject a person to ORS 809.415 (4) for any pedestrian offense, bicycling offense or parking offense. Upon receipt of notice from a court to commence suspension under ORS 809.220, the department shall notify the person, in a manner determined by the department by rule, that the suspension will commence 60 days from the date the department sent the notification unless the person presents the department with notice issued by the court showing that the person is no longer subject to this section.
+
+      (2) A person is subject to suspension under ORS 809.415 (4) if the department receives a notice of suspension from a court under ORS 809.210 indicating that the person has failed or refused to pay a fine or obey an order of the court. A person who is subject under this subsection remains subject until the earlier of the following:
+
+      (a) The person presents the department with a notice of reinstatement issued by the court showing that the person:
+
+      (A) Is making payments, has paid the fine or has obeyed the order of the court; or
+
+      (B) Has enrolled in a preapprenticeship program, as defined in ORS 660.010, or is a registered apprentice under ORS 660.020; or
+
+      (b) Twenty years have elapsed from the date the traffic offense occurred.
+
+      (3) Notwithstanding subsection (2) of this section, a person is not subject to suspension under ORS 809.415 (4) for failure or refusal to pay a fine relating to any pedestrian offense, bicycling offense or parking offense.
+
+      (4) Upon receipt of a notice of suspension from a court, the department shall notify the person, in the manner provided by the department by rule, that the suspension will commence 60 days from the date the department sent the notification unless the person presents the department with a notice of reinstatement as described in subsection (2)(a) of this section. [Formerly 809.290; 2007 c.127 §2; 2013 c.432 §§3,9; 2018 c.76 §34; 2019 c.312 §23]
+
+ 
+
+      Note: The amendments to 809.416 by section 23, chapter 312, Oregon Laws 2019, become operative July 1, 2020. See section 37, chapter 312, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 34, chapter 76, Oregon Laws 2018, is set forth for the user’s convenience.
+
+      809.416. This section establishes circumstances that will make a person subject to suspension under ORS 809.415 (4) and what a person is required to do to make the person no longer subject to suspension. The following apply as described:
 
       (1) A person is subject to suspension under ORS 809.415 (4) if the Department of Transportation receives notice from a court to apply this section under ORS 809.220. A person who is subject under this subsection remains subject until the person presents the department with notice issued by the court showing that the person is no longer subject to this section or until 10 years have elapsed from the date the traffic offense or violation of ORS 471.430 occurred, whichever is earlier. This subsection shall not subject a person to ORS 809.415 (4) for any pedestrian offense, bicycling offense or parking offense. Upon receipt of notice from a court, the department shall send a letter by first class mail advising the person that the suspension will commence 60 days from the date of the letter unless the person presents the department with the notice required by this subsection.
 
@@ -1160,8 +1248,6 @@ DRIVING PRIVILEGES
       (b) Twenty years have elapsed from the date the traffic offense occurred.
 
       (3) Subsection (2) of this section does not subject a person to ORS 809.415 (4) for failure or refusal to pay a fine relating to any pedestrian offense, bicycling offense or parking offense. Upon receipt of a notice of suspension from a court, the department shall send a letter by first class mail advising the person that the suspension will commence 60 days from the date of the letter unless the person presents the department with the notice of reinstatement required by this subsection.
-
-      (4) A person is subject to suspension under ORS 809.415 (4) if the person pays the department any fee or tax with a bank check and the check is returned to the department as uncollectible or the person tenders payment with a credit or debit card and the issuer of the card does not pay the department. A person who is subject under this subsection remains subject until the department receives the money for the fee or tax and any fee charged by the department under ORS 802.170 or until five years have elapsed, whichever is earlier. [Formerly 809.290; 2007 c.127 §2; 2013 c.432 §§3,9]
 
  
 
@@ -1207,32 +1293,6 @@ DRIVING PRIVILEGES
 
  
 
-      Note: The amendments to 809.419 by section 28, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      809.419. (1)(a) The Department of Transportation shall suspend the driving privileges of a person if the department requests the person to submit to examination under ORS 807.340 and the person fails to appear within a reasonable length of time after being notified to do so or fails to satisfactorily complete the required examination. A suspension under this subsection shall continue until the examination required by the department is successfully completed or until the person voluntarily surrenders the person’s driving privileges to the department based upon the person’s recognition that the person is no longer competent to drive.
-
-      (b) Upon suspension under this subsection, the department may issue an identification card to the person for identification purposes as described under ORS 807.400.
-
-      (2) The department shall suspend the driving privileges of a person if the department requests the person to obtain medical clearance under ORS 807.070 or 807.090 and the person fails to do so. The suspension under this subsection shall continue until the required medical clearance is received by the department or until the person voluntarily surrenders the person’s driving privileges to the department based upon the person’s recognition that the person is no longer competent to drive.
-
-      (3)(a) The department may suspend the driving privileges of a person who is incompetent to drive a motor vehicle because of a mental or physical condition or impairment that affects the person’s ability to safely operate a motor vehicle upon the highways.
-
-      (b) A suspension under this subsection shall be subject to any conditions the department determines to be necessary and shall continue for a period determined by the department or until the person voluntarily surrenders the person’s driving privileges to the department based upon the person’s recognition that the person is no longer competent to drive.
-
-      (c) The department may impose an immediate suspension of driving privileges of any person described in paragraph (a) of this subsection without hearing and without receiving a record of the conviction of the person of a crime if the department has reason to believe that the person may endanger people or property if the person’s driving privileges are not immediately suspended. A suspension under this paragraph is subject to a post-imposition hearing under ORS 809.440. A person who is denied eligibility under ORS 807.090 is entitled to a hearing under ORS 809.440.
-
-      (4)(a) Whenever the department has reason to believe an individual with a motorcycle endorsement under ORS 807.170 is incompetent to operate a motorcycle, the department may revoke the endorsement.
-
-      (b) Upon revocation under this subsection, the endorsed license shall be surrendered to the department.
-
-      (c) Upon surrender of the endorsed license, the department may issue a license without endorsement for the unexpired period of the license.
-
-      (5) Upon notification by the superintendent of a hospital under ORS 807.700 that a person should not drive, the department shall immediately suspend the driving privileges of the released person. A suspension under this subsection is subject to administrative review under ORS 809.440 and shall continue until such time as the person produces a judicial judgment of competency or a certificate from the superintendent of the hospital that the person is competent, or establishes eligibility under ORS 807.090.
-
-      (6) Upon notification by a court under ORS 810.375 that a person charged with a traffic offense has been found guilty except for insanity and committed to the jurisdiction of the Psychiatric Security Review Board or the Oregon Health Authority under ORS 161.315 to 161.351, the department shall immediately suspend the driving privileges of the person. A suspension under this subsection is subject to administrative review under ORS 809.440 and shall continue until such time as the person establishes eligibility under ORS 807.090.
-
- 
-
       809.420 [1983 c.338 §354; 1987 c.547 §1; 1989 c.401 §1; 2001 c.294 §7; 2003 c.402 §28; renumbered 809.428 in 2003]
 
  
@@ -1253,9 +1313,7 @@ DRIVING PRIVILEGES
 
  
 
-      809.423 Suspensions for nondriving-related actions by minors. (1) Upon request by a school superintendent or a school district board under ORS 339.254, the Department of Transportation shall suspend the driving privileges of a person. The suspension shall be for the amount of time stated in the request. A person is entitled to administrative review under ORS 809.440 of a suspension under this subsection.
-
-      (2) Upon receipt of a notice under ORS 339.257 that a person under 18 years of age has withdrawn from school, the department shall notify the person that driving privileges will be suspended on the 30th day following the date of the notice unless the person presents documentation that complies with ORS 807.066. A suspension under this subsection shall continue until the person reaches 18 years of age or until the person presents documentation that complies with ORS 807.066. Appeals of a suspension under this subsection shall be as provided by a school district or private school under a policy adopted in accordance with ORS 339.257. [2003 c.402 §9; 2017 c.701 §26]
+      809.423 [2003 c.402 §9; 2017 c.701 §26; repealed by 2018 c.76 §17]
 
  
 
@@ -1281,25 +1339,15 @@ This section establishes schedules of suspension or revocation periods. The sche
 
  
 
-      809.430 Notice of suspension, cancellation or revocation; contents; service. (1) When the Department of Transportation, as authorized or required, suspends, revokes or cancels driving privileges, commercial driving privileges or the right to apply for driving privileges or commercial driving privileges, the department shall give notice under this section of such action to the person whose driving privileges, commercial driving privileges or right to apply is affected.
+      809.430 Notice of suspension, cancellation or revocation; contents; service; rules. (1) When the Department of Transportation, as authorized or required, suspends, revokes or cancels driving privileges, commercial driving privileges or the right to apply for driving privileges or commercial driving privileges, the department shall give notice under this section of such action to the person whose driving privileges, commercial driving privileges or right to apply is affected.
 
       (2) Notice under this section shall state the nature and reason for the action and, in the case of a suspension, whether it was ordered by a court.
 
-      (3) If violation of a suspension or revocation would constitute the offense described in ORS 811.182, service of notice of the suspension or revocation under this section is accomplished by:
-
-      (a) Mailing the notice by certified mail, restricted delivery, return receipt requested, to the person’s address as shown by driver licensing records of the department; or
-
-      (b) Personal service in the same manner as a summons is served in an action at law.
-
-      (4) Service of notice under this section for all other actions is accomplished by:
-
-      (a) Mailing the notice by first class mail to the person’s address as shown by driver licensing records of the department; or
-
-      (b) Personal service in the same manner as a summons is served in an action at law. [1983 c.338 §355; 1989 c.636 §36; 1989 c.801 §1; 1991 c.695 §1; 1993 c.741 §83; 2013 c.237 §21]
+      (3) The department shall serve the notice in a manner determined by the department by rule. [1983 c.338 §355; 1989 c.636 §36; 1989 c.801 §1; 1991 c.695 §1; 1993 c.741 §83; 2013 c.237 §21; 2019 c.312 §24]
 
  
 
-      809.440 Hearing and administrative review procedures; rules. (1) When other procedures described under this section are not applicable to a suspension or revocation under ORS 809.409 to 809.423, the procedures described in this subsection shall be applicable. All of the following apply to this subsection:
+      809.440 Hearing and administrative review procedures; rules. (1) When other procedures described under this section are not applicable to a suspension or revocation under ORS 809.409 to 809.421, the procedures described in this subsection shall be applicable. All of the following apply to this subsection:
 
       (a) The hearing shall be given before the department imposes the suspension or revocation of driving privileges.
 
@@ -1361,6 +1409,34 @@ This section establishes schedules of suspension or revocation periods. The sche
 
       (a) That an error was committed by the department;
 
+      (b) That the person in fact was in compliance with financial responsibility requirements on the date specified by the department by rule under ORS 806.150;
+
+      (c) That an error was committed by an insurance company in notifying the department regarding the correctness of proof of compliance with financial responsibility requirements provided under ORS 806.150;
+
+      (d) That the person was not in compliance with financial responsibility requirements on the date specified by the department by rule under ORS 806.150 and the department also determines that the person reasonably and in good faith believed that the person was in compliance with financial responsibility requirements on the date the department sent the notice of verification and that the person currently is in compliance with financial responsibility requirements; or
+
+      (e) That at the time of the accident the person reasonably and in good faith believed that the person was in compliance with financial responsibility requirements and the person is currently in compliance with financial responsibility requirements.
+
+      (4) The hearing shall be held in the manner provided in ORS 809.440. [1985 c.714 §11; 1987 c.258 §10; 2003 c.402 §31; 2019 c.312 §12]
+
+ 
+
+      Note: The amendments to 809.450 by section 12, chapter 312, Oregon Laws 2019, become operative July 1, 2020. See section 37, chapter 312, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      809.450. (1) If a person whose driving privileges have been suspended for one of the reasons specified in subsection (2) of this section requests that the suspension be rescinded and specifies the reason for the request, the Department of Transportation may provide a hearing to determine the validity of the suspension. The department may rescind a suspension only as provided in subsection (3) of this section.
+
+      (2) This section applies to suspensions under:
+
+      (a) ORS 809.415 for failure to make a future responsibility filing;
+
+      (b) ORS 809.415 for false certification of financial responsibility requirements; and
+
+      (c) ORS 809.417 for involvement in a motor vehicle accident when the department has determined that the person has been operating a vehicle in violation of ORS 806.010.
+
+      (3) The granting of a hearing under this section shall not stay the suspension. However, the department shall rescind the suspension if the department determines:
+
+      (a) That an error was committed by the department;
+
       (b) That the person in fact was in compliance with financial responsibility requirements as of the date of the department’s letter of verification under ORS 806.150;
 
       (c) That an error was committed by an insurance company in notifying the department regarding the correctness of a certification under ORS 806.150;
@@ -1369,7 +1445,7 @@ This section establishes schedules of suspension or revocation periods. The sche
 
       (e) That at the time of the accident the person reasonably and in good faith believed that the person was in compliance with financial responsibility requirements and the person is currently in compliance with financial responsibility requirements.
 
-      (4) The hearing shall be held in the manner provided in ORS 809.440. [1985 c.714 §11; 1987 c.258 §10; 2003 c.402 §31]
+      (4) The hearing shall be held in the manner provided in ORS 809.440.
 
  
 
@@ -1639,7 +1715,9 @@ This section establishes schedules of suspension or revocation periods. The sche
 
       (a) Any violation of a traffic ordinance of a city, municipal or quasi-municipal corporation that substantially conforms to offenses described under this section.
 
-      (b) Any violation of offenses under any federal law or any law of another state, including subdivisions thereof, that substantially conform to offenses described in this section. [1983 c.338 §365; 1985 c.16 §179; 1987 c.730 §17; 1987 c.887 §7; 1989 c.592 §6; 1991 c.601 §5; 1991 c.728 §4; 1995 c.209 §3; 1999 c.1051 §283; 2001 c.494 §1; 2007 c.867 §11; 2009 c.783 §12]
+      (b) Any violation of offenses under any federal law or any law of another state, including subdivisions thereof, that substantially conform to offenses described in this section.
+
+      (5) A revocation under this section shall continue for a period of five years from the date of revocation. [1983 c.338 §365; 1985 c.16 §179; 1987 c.730 §17; 1987 c.887 §7; 1989 c.592 §6; 1991 c.601 §5; 1991 c.728 §4; 1995 c.209 §3; 1999 c.1051 §283; 2001 c.494 §1; 2007 c.867 §11; 2009 c.783 §12; 2018 c.76 §11]
 
  
 
@@ -1665,21 +1743,11 @@ This section establishes schedules of suspension or revocation periods. The sche
 
  
 
-      809.650 Effect of habitual offender revocation. (1) When the Department of Transportation revokes a person’s driving privileges as a habitual offender under ORS 809.640, the person has no driving privileges for motor vehicles in this state and cannot obtain any driving privileges for motor vehicles in this state, except as provided under a probationary driver permit described under ORS 807.270, until the person:
-
-      (a) Is again eligible under this section for the issuance of driving privileges; and
-
-      (b) The department restores the privilege of the person to operate a motor vehicle in this state under ORS 809.660.
-
-      (2) A person whose driving privileges are revoked as a habitual offender is not eligible for the issuance of driving privileges until the expiration of five years from the date the driving privileges of the person were revoked. [1983 c.338 §366; 1985 c.16 §186]
+      809.650 [1983 c.338 §366; 1985 c.16 §186; repealed by 2018 c.76 §1]
 
  
 
-      809.660 Restoration of privileges. When a person whose driving privileges have been revoked as a habitual offender becomes eligible for issuance of driving privileges under ORS 809.650, the person may apply to the Department of Transportation for restoration of the privilege to operate a motor vehicle in this state. Upon such petition, and for good cause shown, the department, in its discretion, may restore to the person the privilege to operate a motor vehicle in this state:
-
-      (1) Upon such terms and conditions as the department may prescribe; and
-
-      (2) Subject to other provisions of law relating to the issuance of driving privileges. [1985 c.16 §189]
+      809.660 [1985 c.16 §189; repealed by 2018 c.76 §1]
 
  
 

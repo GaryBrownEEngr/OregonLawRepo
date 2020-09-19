@@ -4,12 +4,6 @@ Chapter 822 — Regulation of Vehicle Related Businesses
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -99,6 +93,10 @@ VEHICLE DEALERS
 
  
 
+822.048     Remedy for failure to submit title
+
+ 
+
 822.050     Revocation, cancellation or suspension of certificate
 
  
@@ -107,7 +105,7 @@ VEHICLE DEALERS
 
  
 
-822.060     Illegal consignment practices; penalty; rules
+822.060     Illegal consignment practices; exception; penalty; rules
 
  
 
@@ -136,6 +134,10 @@ VEHICLE DEALERS
  
 
 822.084     Show license; fee; rules
+
+ 
+
+822.086     New recreational vehicle sales; warranty statement
 
  
 
@@ -423,7 +425,7 @@ VEHICLE DEALERS
 
       (e) Except as otherwise provided in this paragraph, a manufacturer who sells vehicles the manufacturer has manufactured in Oregon. Nothing in this paragraph prevents any manufacturer from obtaining a vehicle dealer certificate under ORS 822.020. This paragraph does not exempt a manufacturer who sells or trades campers or travel trailers.
 
-      (f) An insurance adjuster authorized to do business under ORS 744.505 or 744.515 who is disposing of vehicles for salvage.
+      (f) An insurance adjuster authorized to do business under ORS 744.515 or 744.521 who is disposing of vehicles for salvage.
 
       (g) Except as otherwise provided in this paragraph, a person who sells or trades or offers to sell or trade a vehicle that has been used in the operation of the person’s business. This paragraph does not exempt a person who is in the business of selling, trading, displaying, rebuilding, renting or leasing vehicles from any requirement to obtain a certificate for dealing in those vehicles.
 
@@ -453,7 +455,7 @@ VEHICLE DEALERS
 
       (b) Open only to certified or licensed vehicle dealers or their employees.
 
-      (4) The department shall adopt rules to carry out the provisions of this section, including but not limited to specifying which dealers may take vehicles on consignment from other jurisdictions. [1983 c.338 §791; 1985 c.16 §390; 1985 c.316 §8; 1985 c.598 §2; 1987 c.217 §10; 1987 c.261 §6; 1991 c.541 §8; 1995 c.57 §1; 1997 c.469 §3; 2001 c.172 §5; 2001 c.543 §2; 2003 c.341 §21; 2003 c.459 §1; 2003 c.655 §125; 2009 c.551 §3; 2015 c.111 §1; 2017 c.523 §7]
+      (4) The department shall adopt rules to carry out the provisions of this section, including but not limited to specifying which dealers may take vehicles on consignment from other jurisdictions. [1983 c.338 §791; 1985 c.16 §390; 1985 c.316 §8; 1985 c.598 §2; 1987 c.217 §10; 1987 c.261 §6; 1991 c.541 §8; 1995 c.57 §1; 1997 c.469 §3; 2001 c.172 §5; 2001 c.543 §2; 2003 c.341 §21; 2003 c.459 §1; 2003 c.655 §125; 2009 c.551 §3; 2015 c.111 §1; 2017 c.523 §7; 2019 c.151 §43]
 
  
 
@@ -965,6 +967,18 @@ VEHICLE DEALERS
 
  
 
+      822.048 Remedy for failure to submit title. If a vehicle dealer fails to comply with ORS 822.042 (1)(b) or (d) or 822.045 (1)(k), the retail customer of the subject vehicle may bring an individual action against the vehicle dealer in the appropriate court. The court may award reasonable attorney fees to a prevailing plaintiff who brings an action under this section if the court finds all of the following:
+
+      (1) A written demand was made on the defendant not less than 30 days before commencement of the action requesting compliance or other remedy.
+
+      (2) The defendant failed to comply or provide the remedy, including paying the plaintiff reasonable attorney fees and costs incurred by the plaintiff, within 30 days of the date of the written demand. [2019 c.543 §2]
+
+ 
+
+      Note: 822.048 was added to and made a part of the Oregon Vehicle Code by legislative action but was not added to ORS chapter 822 or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       822.050 Revocation, cancellation or suspension of certificate. (1) The Department of Transportation may revoke, suspend or place on probation a vehicle dealer if the department determines at any time for due cause that the dealer has done any of the following:
 
       (a) Violated any grounds for revocation, suspension or probation adopted by the department by rule under ORS 822.035.
@@ -997,7 +1011,7 @@ VEHICLE DEALERS
 
  
 
-      822.060 Illegal consignment practices; penalty; rules. (1) A person who holds a vehicle dealer certificate issued or renewed under ORS 822.020 or 822.040 commits the offense of illegal consignment practices if the person does any of the following:
+      822.060 Illegal consignment practices; exception; penalty; rules. (1) Except as provided in subsection (2) of this section, a person who holds a vehicle dealer certificate issued or renewed under ORS 822.020 or 822.040 commits the offense of illegal consignment practices if the person does any of the following:
 
       (a) Takes a vehicle on consignment from a person who does not hold a vehicle dealer certificate issued or renewed under ORS 822.020 or 822.040, or who is not licensed as a vehicle dealer in another jurisdiction, and who does not have proof that the consignor is the registered owner, a security interest holder or lessor of the vehicle.
 
@@ -1017,7 +1031,9 @@ VEHICLE DEALERS
 
       (i) Sells a vehicle that the dealer has taken on consignment without first giving the purchaser the following disclosure in writing:
 
-______________________________________________________________________________
+ 
+
+ 
 
 DISCLOSURE REGARDING
 
@@ -1025,7 +1041,7 @@ CONSIGNMENT SALE
 
  
 
-__________________ (Name of Dealer) is selling the following described vehicle: ______(Year) ______(Make) ______(Model) ______(Vehicle Identification Number) on consignment.
+__________________ (Name of Dealer) is selling the following described vehicle: ______ (Year) ______ (Make) ______ (Model) ______ (Vehicle Identification Number) on consignment.
 
  
 
@@ -1037,11 +1053,19 @@ __________________ (Name of Dealer) is selling the following described vehicle: 
 
 YOU SHOULD TAKE ACTION TO ENSURE THAT ANY SECURITY INTERESTS ARE RELEASED AND THAT THE TITLE TO THE VEHICLE IS TRANSFERRED TO YOU. OTHERWISE, YOU MAY TAKE TITLE SUBJECT TO ANY UNSATISFIED SECURITY INTERESTS.
 
-______________________________________________________________________________
+ 
 
-      (2) The offense described in this section, illegal consignment practices, is a Class A misdemeanor.
+ 
 
-      (3) The department shall adopt rules to carry out the provisions of this section, including but not limited to rules to specify which persons may take and sell vehicles on consignment and to regulate the taking and selling of vehicles on consignment from other jurisdictions. [1985 c.16 §398; 1991 c.873 §46; 1993 c.180 §3; 1993 c.233 §73; 1997 c.834 §2; 2007 c.371 §1; 2009 c.551 §4]
+      (2) The offense described in this section does not apply if the person takes a vehicle on consignment from an entity other than a retail customer and the person holds a vehicle dealer certificate issued or renewed under ORS 822.020 or 822.040 and operates a:
+
+      (a) Wholesale vehicle auction company; or
+
+      (b) National auction company whose primary activity in this state is the sale or disposition of totaled vehicles.
+
+      (3) The offense described in this section, illegal consignment practices, is a Class A misdemeanor.
+
+      (4) The department shall adopt rules to carry out the provisions of this section, including but not limited to rules to specify which persons may take and sell vehicles on consignment and to regulate the taking and selling of vehicles on consignment from other jurisdictions. [1985 c.16 §398; 1991 c.873 §46; 1993 c.180 §3; 1993 c.233 §73; 1997 c.834 §2; 2007 c.371 §1; 2009 c.551 §4; 2019 c.346 §1]
 
  
 
@@ -1059,7 +1083,7 @@ ______________________________________________________________________________
 
       (2) This section does not apply to the following persons or vehicles:
 
-      (a) An insurance adjuster authorized to do business under ORS 744.505 or 744.515 who is disposing of vehicles for salvage.
+      (a) An insurance adjuster authorized to do business under ORS 744.515 or 744.521 who is disposing of vehicles for salvage.
 
       (b) Vehicles or persons exempt from the vehicle dealer certificate requirements by ORS 822.015 (1)(a) or (i).
 
@@ -1067,7 +1091,7 @@ ______________________________________________________________________________
 
       (d) The holder of a dismantler certificate issued under ORS 822.110.
 
-      (3) The offense described in this section, conducting an illegal vehicle rebuilding business, is a Class A misdemeanor. [1985 c.16 §400; 1997 c.469 §9; 2003 c.655 §134; 2005 c.654 §18; 2009 c.551 §5; 2015 c.111 §2]
+      (3) The offense described in this section, conducting an illegal vehicle rebuilding business, is a Class A misdemeanor. [1985 c.16 §400; 1997 c.469 §9; 2003 c.655 §134; 2005 c.654 §18; 2009 c.551 §5; 2015 c.111 §2; 2019 c.151 §44]
 
  
 
@@ -1131,6 +1155,20 @@ ______________________________________________________________________________
 
  
 
+      822.086 New recreational vehicle sales; warranty statement. (1) As used in this section:
+
+      (a) “Living area components” means flooring, roofing, building envelope, plumbing systems, electrical systems and heating and air conditioning systems.
+
+      (b) “Recreational vehicle” has the meaning given that term in ORS 174.101.
+
+      (2) The seller of a new recreational vehicle shall provide the buyer with written information listing each living area component item or system mentioned in subsection (1)(a) of this section, stating whether the component item or system is covered by a warranty and, if so, the extent and length of the warranty. [2019 c.585 §5; 2019 c.585 §5a]
+
+ 
+
+      Note: 822.086 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 822 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
 SUBLEASING VEHICLES
 
  
@@ -1151,7 +1189,9 @@ SUBLEASING VEHICLES
 
  
 
-TRANSFER OF VEHICLES BY LIEN CLAIMANTS
+TRANSFER OF VEHICLES
+
+BY LIEN CLAIMANTS
 
  
 
@@ -1191,13 +1231,13 @@ DISMANTLERS
 
       822.105 Exemption from certificate requirement. In addition to exemptions from the vehicle code under ORS 801.026, ORS 822.100 does not apply to the following:
 
-      (1) An insurance adjuster authorized to do business under ORS 744.505 or 744.515 who is disposing of vehicles for salvage.
+      (1) An insurance adjuster authorized to do business under ORS 744.515 or 744.521 who is disposing of vehicles for salvage.
 
       (2) Road rollers, farm tractors, trolleys or traction engines.
 
       (3) Implements of husbandry, well-drilling machinery and wheelchairs.
 
-      (4) Golf carts. [1983 c.338 §801; 1985 c.598 §9; 1999 c.180 §1; 2003 c.655 §137; 2007 c.70 §351]
+      (4) Golf carts. [1983 c.338 §801; 1985 c.598 §9; 1999 c.180 §1; 2003 c.655 §137; 2007 c.70 §351; 2019 c.151 §45]
 
  
 
@@ -1239,11 +1279,35 @@ DISMANTLERS
 
       (5) The applicant’s National Motor Vehicle Title Information System identification number.
 
-      (6) Any other relevant information required by the department. [1983 c.338 §803; 1985 c.16 §402; 1987 c.261 §9; 1993 c.751 §85; 2005 c.654 §9; 2011 c.433 §1]
+      (6) A fire response plan that is approved by the department. If the plan is disapproved, the applicant may revise the plan to comply with requirements of the department and resubmit the plan.
+
+      (7) A description of any applicable permits that are required by the Department of Environmental Quality.
+
+      (8) Any other relevant information required by the Department of Transportation. [1983 c.338 §803; 1985 c.16 §402; 1987 c.261 §9; 1993 c.751 §85; 2005 c.654 §9; 2011 c.433 §1; 2019 c.630 §4]
 
  
 
       822.120 Bond or letter of credit requirements; action against certificate holder and surety. (1) A bond or letter of credit required to qualify for a dismantler certificate under ORS 822.110 or renewal of a certificate under ORS 822.125 must be:
+
+      (a) With a corporate surety licensed to transact business within this state, or as to a letter of credit, an irrevocable letter of credit issued by an insured institution, as defined in ORS 706.008;
+
+      (b) Executed to the State of Oregon;
+
+      (c) In the sum of $100,000;
+
+      (d) Approved as to form by the Attorney General;
+
+      (e) Conditioned that the person issued the dismantler certificate will conduct business without violation of this section, ORS 803.140, 819.010, 819.012, 819.016, 819.040, 822.140 or 822.150; and
+
+      (f) Conditioned that the bond or letter of credit is subject to an action under this section.
+
+      (2) Any person shall have a right of action against the holder of a dismantler certificate and the surety on the holder’s bond or the dismantler’s letter of credit issuer if the person suffers any loss or damage by reason of the certificate holder’s violation of this section, ORS 803.140, 819.010, 819.012, 819.016, 819.040, 822.140 or 822.150. [1983 c.338 §804; 1985 c.16 §403; 1985 c.176 §3; 1991 c.331 §140; 1991 c.820 §17; 1991 c.873 §48; 1997 c.631 §557; 2005 c.654 §10; 2019 c.630 §7]
+
+ 
+
+      Note: The amendments to 822.120 by section 7, chapter 630, Oregon Laws 2019, apply to dismantler certificates issued or renewed on or after May 1, 2020. See section 10, chapter 630, Oregon Laws 2019. The text that is applicable until May 1, 2020, is set forth for the user’s convenience.
+
+      822.120. (1) A bond or letter of credit required to qualify for a dismantler certificate under ORS 822.110 or renewal of a certificate under ORS 822.125 must be:
 
       (a) With a corporate surety licensed to transact business within this state, or as to a letter of credit, an irrevocable letter of credit issued by an insured institution, as defined in ORS 706.008;
 
@@ -1257,7 +1321,7 @@ DISMANTLERS
 
       (f) Conditioned that the bond or letter of credit is subject to an action under this section.
 
-      (2) Any person shall have a right of action against the holder of a dismantler certificate and the surety on the holder’s bond or the dismantler’s letter of credit issuer if the person suffers any loss or damage by reason of the certificate holder’s violation of this section, ORS 803.140, 819.010, 819.012, 819.016, 819.040, 822.140 or 822.150. [1983 c.338 §804; 1985 c.16 §403; 1985 c.176 §3; 1991 c.331 §140; 1991 c.820 §17; 1991 c.873 §48; 1997 c.631 §557; 2005 c.654 §10]
+      (2) Any person shall have a right of action against the holder of a dismantler certificate and the surety on the holder’s bond or the dismantler’s letter of credit issuer if the person suffers any loss or damage by reason of the certificate holder’s violation of this section, ORS 803.140, 819.010, 819.012, 819.016, 819.040, 822.140 or 822.150.
 
  
 
@@ -1271,7 +1335,7 @@ DISMANTLERS
 
       (c) A fee shall be charged for a supplemental dismantler certificate under ORS 822.700.
 
-      (3) A dismantler certificate is valid for a three-year period and may be renewed as provided by the department. The department shall only renew the certificate of any certificate holder who does all of the following:
+      (3) A dismantler certificate is valid for a one-year period and may be renewed as provided by the department. The department shall only renew the certificate of any certificate holder who does all of the following:
 
       (a) Pays the required fee for renewal under ORS 822.700.
 
@@ -1283,11 +1347,11 @@ DISMANTLERS
 
       (4) The department may provide the holder of a dismantler certificate with identification cards in the names of the owners of the business or in the names of authorized employees of the business.
 
-      (5) The department may adopt suitable rules for the issuance and renewal of dismantler certificates and identification cards. [1983 c.338 §805; 1985 c.16 §404; 1987 c.261 §9a; 2005 c.654 §11]
+      (5) The department may adopt suitable rules for the issuance and renewal of dismantler certificates and identification cards. [1983 c.338 §805; 1985 c.16 §404; 1987 c.261 §9a; 2005 c.654 §11; 2019 c.630 §1]
 
  
 
-      822.130 Inspection of books, records, inventory and premises. (1) The Department of Transportation may inspect the books, records and inventory of and the premises used by any business issued a certificate under ORS 822.110 for the purpose of determining compliance with any of the following:
+      822.130 Inspection of books, records, inventory and premises. (1) The Department of Transportation may inspect the books, records and inventory of any business issued a certificate under ORS 822.110 for the purpose of determining compliance with any of the following:
 
       (a) Those laws regulating the issuance of certificates to dismantlers.
 
@@ -1297,7 +1361,29 @@ DISMANTLERS
 
       (d) Rules adopted by the department concerning businesses issued certificates under ORS 822.110.
 
-      (2) Provisions for enforcing this section are established under ORS 822.135 and 822.145. [1985 c.16 §406; 1991 c.873 §49; 2005 c.654 §12]
+      (2) Except as provided in subsection (4) of this section, each year the department shall inspect the premises used by any business issued a certificate under ORS 822.110 for the purpose of determining whether the items listed in subsection (3) of this section are on the premises and determining compliance with any of the following:
+
+      (a) Those laws regulating the issuance of certificates to dismantlers.
+
+      (b) Requirements for records under ORS 822.135 and 822.137.
+
+      (c) ORS 802.200, 803.140, 819.010, 819.016, 819.030, 819.040 or 822.120.
+
+      (d) Rules adopted by the department concerning businesses issued certificates under ORS 822.110.
+
+      (3) If the Department of Transportation determines that any of the following items are on the premises used by a business issued a certificate under ORS 822.110, the Department of Transportation shall submit a report to the Department of Environmental Quality and include information about the following:
+
+      (a) The presence of piled waste tires, as defined in ORS 459.705, in an amount greater than 100 waste tires;
+
+      (b) If there is a metal shredder;
+
+      (c) If there are any open or unlabeled containers of automotive fluids; and
+
+      (d) If there is an underground injection control.
+
+      (4) The Department of Transportation may inspect a premises under subsection (2) of this section every two years if the three most recent, consecutive inspections show that the business is in compliance with subsection (2)(a) to (d) of this section.
+
+      (5) Provisions for enforcing this section are established under ORS 822.135 and 822.145. [1985 c.16 §406; 1991 c.873 §49; 2005 c.654 §12; 2019 c.630 §3]
 
  
 
@@ -1333,15 +1419,19 @@ DISMANTLERS
 
       (e) Must furnish a written report to the department, in a form established by the department by rule, after a wrecked vehicle is dismantled or destroyed.
 
+      (f) Must, every year, have the premises inspected by local fire inspectors and furnish a written report to the department, in a form established by the department by rule, on the findings of the inspection.
+
+      (g) Must be in compliance with any agreement with, order of or program or process authorized by the Department of Environmental Quality that governs the conduct of the dismantler.
+
       (3)(a) A dismantler using a mobile motor vehicle crusher shall:
 
       (A) Hold a current, valid dismantler certificate issued under ORS 822.110.
 
-      (B) Conspicuously display on the mobile motor vehicle crusher the name of the dismantler’s business as listed on the dismantler’s application submitted pursuant to ORS 822.110 and the dismantler certificate number issued by the department.
+      (B) Conspicuously display on the mobile motor vehicle crusher the name of the dismantler’s business as listed on the dismantler’s application submitted pursuant to ORS 822.110 and the dismantler certificate number issued by the Department of Transportation.
 
       (C) Comply with all of the applicable statutes and rules regulating dismantlers at each location where the dismantler uses the mobile motor vehicle crusher. If the dismantler is using a mobile motor vehicle crusher at a location approved under a dismantler certificate, the dismantler who holds the dismantler certificate for the location shall be responsible for complying with all statutes and rules regarding dismantlers.
 
-      (b) If a dismantler is using a mobile motor vehicle crusher at a temporary location for 15 consecutive business days or less, the dismantler is exempt from obtaining a supplemental dismantler certificate under ORS 822.125 for the temporary location. [2005 c.654 §6; 2011 c.433 §2]
+      (b) If a dismantler is using a mobile motor vehicle crusher at a temporary location for 15 consecutive business days or less, the dismantler is exempt from obtaining a supplemental dismantler certificate under ORS 822.125 for the temporary location. [2005 c.654 §6; 2011 c.433 §2; 2019 c.630 §6]
 
  
 
@@ -1479,7 +1569,9 @@ DISMANTLERS
 
       (f) May prescribe limitations on the dimensions of the premises on which motor vehicle dismantling businesses are conducted.
 
-      (4) Regulations of a city governing body that are adopted under this section apply to motor vehicle dismantling businesses located outside of and within six miles of the boundaries of the city unless the county governing body in which the area is located has adopted regulations under this section that are applicable in the area. [1983 c.338 §807; 1985 c.16 §408; 2005 c.654 §14]
+      (4) Regulations of a city governing body that are adopted under this section apply to motor vehicle dismantling businesses located outside of and within six miles of the boundaries of the city unless the county governing body in which the area is located has adopted regulations under this section that are applicable in the area.
+
+      (5) Before granting approval for a supplemental dismantler certificate, the governing body of a city or county shall notify all property owners that are or that will be adjacent to the motor vehicle dismantling business once the business moves, expands or opens an additional place of business. [1983 c.338 §807; 1985 c.16 §408; 2005 c.654 §14; 2019 c.630 §8]
 
  
 
@@ -1497,6 +1589,8 @@ DISMANTLERS
 
       (f) The person holding an identification card has unlawfully used or permitted unlawful use of the card.
 
+      (g) The person holding the certificate is convicted of an offense under ORS 468.922, 468.926, 468.929, 468.931, 468.936, 468.939, 468.943 or 468.946.
+
       (2) The department shall cancel or suspend any dismantler certificate immediately:
 
       (a) Upon receipt of legal notice that the bond described under ORS 822.120 is canceled; or
@@ -1507,7 +1601,7 @@ DISMANTLERS
 
       (4) If the department has reason to believe that a person has engaged in or is engaging in any activity prohibited under ORS 822.100, the department may issue an order directed at the person to cease the activity.
 
-      (5) The department shall adopt rules establishing sanctions authorized by subsection (1) of this section. [1983 c.338 §808; 1985 c.16 §409; 1985 c.176 §4; 1987 c.261 §9b; 1991 c.820 §19; 1991 c.873 §51; 2005 c.654 §15; 2007 c.683 §2; 2011 c.433 §3]
+      (5) The department shall adopt rules establishing sanctions authorized by subsection (1) of this section. [1983 c.338 §808; 1985 c.16 §409; 1985 c.176 §4; 1987 c.261 §9b; 1991 c.820 §19; 1991 c.873 §51; 2005 c.654 §15; 2007 c.683 §2; 2011 c.433 §3; 2019 c.630 §5]
 
  
 
@@ -1715,17 +1809,13 @@ TOWING BUSINESSES
 
       (2) A tower that accepts a transfer of interest in a vehicle from a person under this section may not assess fees against the person for storage of the totaled vehicle that occurs on and after the date of the transfer of interest.
 
-      (3) Notwithstanding the provisions for liens under ORS 98.812 and 98.835, if a person transfers their interest in a vehicle under this section to a tower within 14 days of the date the person receives notice under ORS 98.857, the tower may not bring an action against the person for, or otherwise take any affirmative steps to collect or permit an agency or assignee to collect, any amount as compensation for towing, caring for or storing the totaled vehicle.
+      (3) Notwithstanding the provisions for liens under ORS 98.812 and 98.830, if a person transfers their interest in a vehicle under this section to a tower within 14 days of the date the person receives notice under ORS 98.857, the tower may not bring an action against the person for, or otherwise take any affirmative steps to collect or permit an agency or assignee to collect, any amount as compensation for towing, caring for or storing the totaled vehicle.
 
-      (4) A tower that receives title under this section is responsible for any fees imposed by the Department of Transportation for transferring title. [2017 c.523 §5]
+      (4) A tower that receives title under this section is responsible for any fees imposed by the Department of Transportation for transferring title. [2017 c.523 §5; 2019 c.13 §70]
 
  
 
       Note: 822.235 was added to and made a part of the Oregon Vehicle Code by legislative action but was not added to ORS chapter 822 or any series therein. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
-      Note: 98.835 was repealed by section 3, chapter 480, Oregon Laws 2017. The text of 822.235 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 822.235 for the repeal of 98.835 has not been made.
 
  
 
@@ -1999,59 +2089,31 @@ FEES
 
  
 
-      822.700 Certification fees. (1) Fee for issuance of dismantler certificates:
+      822.700 Certification fees. (1) Fee for issuance or renewal of dismantler certificates covering a single place of business, or a supplemental certificate for each additional place of business to be covered by that certificate and operated under the same name, $500.
 
-      (a) $800, for an original dismantler certificate covering a single place of business issued under ORS 822.110;
+      (2) Fee for each duplicate dismantler certificate issued under ORS 822.110, $40.
 
-      (b) $800, for a supplemental certificate for each additional place of business to be covered by that certificate and operated under the same name; and
+      (3) Fee for original issuance of vehicle dealer certificate under ORS 822.020 or renewal under ORS 822.040 of a vehicle dealer certificate:
 
-      (c) $40, for each duplicate dismantler certificate issued under ORS 822.110.
-
-      (2) Fee for renewal of dismantler certificate under ORS 822.125:
-
-      (a) $800, for renewal of a dismantler certificate covering a single place of business; and
-
-      (b) $800, for renewal of each supplemental certificate for each additional place of business to be covered by the certificate and operated under the same name.
-
-      (3) If a dismantler fails to pay a fee required under this section on or before the date the fee is due, there shall be added as a late payment charge a fee of $150.
-
-      (4) Fee for original issuance of vehicle dealer certificate under ORS 822.020:
-
-      (a) $1,100, for a certificate covering a single place of business;
-
-      (b) $350, for each additional place of business to be covered by the certificate and operated under the same name; and
-
-      (c) $30, for each corrected vehicle dealer certificate issued under ORS 822.040.
-
-      (5) Fee for renewal of vehicle dealer certificate under ORS 822.040:
-
-      (a) $1,100, for renewal of a vehicle dealer certificate covering a single place of business; and
+      (a) $1,100, for a certificate covering a single place of business; and
 
       (b) $350, for each additional place of business to be covered by the certificate and operated under the same name.
 
-      (6) If a vehicle dealer fails to pay a fee required under this section on or before the date the fee is due, there shall be added as a late payment charge a fee of $150.
+      (4) Fee for each corrected vehicle dealer certificate issued under ORS 822.040, $30.
 
-      (7) Fee for show license issued under ORS 822.084, $50.
+      (5) If a vehicle dealer or dismantler fails to pay a fee required under this section on or before the date the fee is due, there shall be added as a late payment charge a fee of $150.
 
-      (8) Fee for issuance of towing business certificate under ORS 822.205, $17 for each vehicle used for towing or recovery purposes.
+      (6) Fee for show license issued under ORS 822.084, $50.
 
-      (9) Fee for renewal of towing business certificate under ORS 822.210, $17 for each vehicle used for towing or recovery purposes.
+      (7) Fee for issuance of towing business certificate under ORS 822.205 or renewal under ORS 822.210, $17 for each vehicle used for towing or recovery purposes.
 
-      (10) Fee for issuance of vehicle transporter certificate under ORS 822.310, $150.
+      (8) Fee for issuance or renewal of vehicle transporter certificate under ORS 822.310, $150.
 
-      (11) Fee for renewal of vehicle transporter certificate under ORS 822.310, $150.
+      (9) Fee for issuance or renewal of driver training instructor certificate under ORS 822.530, $100.
 
-      (12) Fee for issuance of driver training instructor certificate under ORS 822.530, $100.
+      (10) Fee for issuance or renewal of commercial driver training school certificate under ORS 822.515, $200.
 
-      (13) Fee for renewal of driver training instructor certificate under ORS 822.530, $100.
-
-      (14) Fee for issuance of commercial driver training school certificate under ORS 822.515, $200.
-
-      (15) Fee for renewal of commercial driver training school certificate under ORS 822.515, $200.
-
-      (16) Fee for issuance of vehicle appraiser certificate under ORS 819.480, $100.
-
-      (17) Fee for renewal of vehicle appraiser certificate under ORS 819.480, $100. [1983 c.338 §835; 1985 c.16 §421; 1985 c.459 §16; 1985 c.736 §6; 1987 c.261 §10; 1997 c.469 §10; 1999 c.593 §6; 2001 c.668 §5; 2003 c.655 §140; 2005 c.654 §16; 2007 c.630 §5; 2013 c.372 §2]
+      (11) Fee for issuance or renewal of vehicle appraiser certificate under ORS 819.480, $100. [1983 c.338 §835; 1985 c.16 §421; 1985 c.459 §16; 1985 c.736 §6; 1987 c.261 §10; 1997 c.469 §10; 1999 c.593 §6; 2001 c.668 §5; 2003 c.655 §140; 2005 c.654 §16; 2007 c.630 §5; 2013 c.372 §2; 2018 c.114 §2; 2019 c.630 §2]
 
  
 

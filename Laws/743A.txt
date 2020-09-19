@@ -4,22 +4,6 @@ Chapter 743A — Health Insurance: Reimbursement of Claims
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0031; 2018 Session Laws 0043
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0031; 2018 Session Laws 0043
-
- 
-
- 
-
 
  
 
@@ -49,6 +33,10 @@ INSURANCE
 
  
 
+743A.018  Services provided by osteopathic physician
+
+ 
+
 743A.020  Services provided by acupuncturist
 
  
@@ -69,7 +57,7 @@ INSURANCE
 
  
 
-743A.036  Services provided by certified nurse practitioner or licensed physician assistant
+743A.036  Services provided by licensed nurse practitioner or licensed physician assistant
 
  
 
@@ -133,6 +121,10 @@ INSURANCE
 
  
 
+743A.078  Newborn nurse home visiting services
+
+ 
+
 743A.080  Pregnancy and childbirth expenses
 
  
@@ -181,11 +173,15 @@ INSURANCE
 
  
 
+743A.130  Proton beam therapy
+
+ 
+
 743A.140  Bilateral cochlear implants
 
  
 
-743A.141  Hearing aids
+743A.141  Hearing aids and hearing assistive technology systems
 
  
 
@@ -241,7 +237,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-743A.252  Child abuse medical assessments
+743A.252  Child abuse assessments
 
  
 
@@ -253,13 +249,11 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-743A.264  Disease outbreaks; epidemics; conditions of public health importance
+743A.264  Disease outbreaks, epidemics and conditions of public health importance
 
  
 
 (Temporary provisions relating to coverage of applied behavior analysis are compiled as notes following ORS 743A.264)
-
- 
 
  
 
@@ -299,7 +293,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (B) A licensed psychologist;
 
-      (C) A certified nurse practitioner with a specialty in psychiatric mental health;
+      (C) A licensed nurse practitioner with a specialty in psychiatric mental health;
 
       (D) A licensed clinical social worker;
 
@@ -383,7 +377,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (5) An insurer offering a health benefit plan may not discourage appropriate use of 9-1-1 and may not deny coverage for emergency services solely because 9-1-1 was used.
 
-      (6) This section is exempt from ORS 743A.001. [Formerly 743.699; 2011 c.500 §38; 2017 c.273 §4]
+      (6) This section is exempt from ORS 743A.001. [Formerly 743.699; 2011 c.500 §38; 2017 c.273 §4; 2019 c.358 §41]
 
  
 
@@ -394,6 +388,26 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
  
 
       Note: See 743A.001.
+
+ 
+
+      743A.018 Services provided by osteopathic physician. (1) As used in this section:
+
+      (a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (b) “Osteopathic physician” means a person who holds a degree of Doctor of Osteopathic Medicine and is licensed under ORS 677.100 to 677.228.
+
+      (2) An insurer that offers a health benefit plan that reimburses the cost of an osteopathic manipulative treatment provided by an osteopathic physician shall reimburse the cost of the evaluation conducted by the osteopathic physician that resulted in the osteopathic manipulative treatment.
+
+      (3) An insurer may not deny reimbursement for an osteopathic manipulative treatment or an evaluation described in subsection (2) of this section on the basis that the evaluation is conducted on the same date that the osteopathic manipulative treatment is provided. [2018 c.31 §2]
+
+ 
+
+      Note: See 743A.001.
+
+ 
+
+      Note: 743A.018 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -441,11 +455,11 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-      743A.036 Services provided by certified nurse practitioner or licensed physician assistant. (1) Whenever any policy of health insurance provides for reimbursement for a primary care or mental health service provided by a licensed physician, the insured under the policy is entitled to reimbursement for such service if provided by a licensed physician assistant or a certified nurse practitioner if the service is within the lawful scope of practice of the physician assistant or nurse practitioner.
+      743A.036 Services provided by licensed nurse practitioner or licensed physician assistant. (1) Whenever any policy of health insurance provides for reimbursement for a primary care or mental health service provided by a licensed physician, the insured under the policy is entitled to reimbursement for such service if provided by a licensed physician assistant or a licensed nurse practitioner if the service is within the lawful scope of practice of the physician assistant or nurse practitioner.
 
-      (2)(a) The reimbursement of a service described in subsection (1) of this section that is provided by a licensed physician assistant or a certified nurse practitioner who is in an independent practice shall be in the same amount as the reimbursement paid under the policy to a licensed physician performing the service in the area served.
+      (2)(a) The reimbursement of a service described in subsection (1) of this section that is provided by a licensed physician assistant or a licensed nurse practitioner who is in an independent practice shall be in the same amount as the reimbursement paid under the policy to a licensed physician performing the service in the area served.
 
-      (b) As used in this subsection, “independent practice” means the licensed physician assistant or the certified nurse practitioner bills insurers for services provided by the physician assistant or nurse practitioner using the:
+      (b) As used in this subsection, “independent practice” means the licensed physician assistant or the licensed nurse practitioner bills insurers for services provided by the physician assistant or nurse practitioner using the:
 
       (A) Diagnosis and procedure codes applicable to the services;
 
@@ -457,9 +471,9 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (ii) If required by the insurer, the facility in which the physician assistant or nurse practitioner provides the services.
 
-      (3) This section does not apply to group practice health maintenance organizations that are federally qualified pursuant to Title XIII of the Health Maintenance Organization Act or other insurers that employ physicians, licensed physician assistants or certified nurse practitioners to provide primary care or mental health services and do not compensate such practitioners on a fee-for-service basis.
+      (3) This section does not apply to group practice health maintenance organizations that are federally qualified pursuant to Title XIII of the Health Maintenance Organization Act or other insurers that employ physicians, licensed physician assistants or licensed nurse practitioners to provide primary care or mental health services and do not compensate such practitioners on a fee-for-service basis.
 
-      (4) An insurer may not reduce the reimbursement paid to a licensed physician in order to comply with this section. [Formerly 743.712; 2013 c.430 §§1,4; 2015 c.377 §1; 2016 c.54 §1]
+      (4) An insurer may not reduce the reimbursement paid to a licensed physician in order to comply with this section. [Formerly 743.712; 2013 c.430 §§1,4; 2015 c.377 §1; 2016 c.54 §1; 2019 c.358 §42]
 
  
 
@@ -485,7 +499,15 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-      743A.051 Services provided by pharmacist. Notwithstanding any provisions of a health benefit plan as defined in ORS 743B.005, whenever the plan provides for payment or reimbursement for a service that is within the lawful scope of practice of a pharmacist, the insurer may provide payment or reimbursement for the service when the service is provided by a pharmacist. [2015 c.362 §8]
+      743A.051 Services provided by pharmacist. Notwithstanding any provisions of a health benefit plan as defined in ORS 743B.005, whenever the plan provides for payment or reimbursement for a service that is within the lawful scope of practice of a pharmacist, the insurer:
+
+      (1) May provide payment or reimbursement for the service when the service is provided by a pharmacist; and
+
+      (2) Shall provide payment or reimbursement for:
+
+      (a) The prescription of emergency refills of insulin and associated insulin-related devices and supplies as described in ORS 689.696; and
+
+      (b) The service provided by the pharmacist. [2015 c.362 §8; 2019 c.95 §5]
 
  
 
@@ -679,7 +701,11 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (c) “Health benefit plan” has the meaning given that term in ORS 743B.005, excluding Medicare Advantage Plans and including health benefit plans offering pharmacy benefits administered by a third party administrator or pharmacy benefit manager.
 
-      (d) “Religious employer” has the meaning given that term in ORS 743A.066.
+      (d) “Prior authorization” has the meaning given that term in ORS 743B.001.
+
+      (e) “Religious employer” has the meaning given that term in ORS 743A.066.
+
+      (f) “Utilization review” has the meaning given that term in ORS 743B.001.
 
       (2) A health benefit plan offered in this state must provide coverage for all of the following services, drugs, devices, products and procedures:
 
@@ -743,7 +769,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (C) A health benefit plan must pay pharmacy claims for reimbursement of all contraceptive drugs available for over-the-counter sale that are approved by the United States Food and Drug Administration.
 
-      (D) A health benefit plan may not infringe upon an enrollee’s choice of contraceptive drug, device or product and may not require prior authorization, step therapy or other utilization control techniques for medically appropriate covered contraceptive drugs, devices or other products approved by the United States Food and Drug Administration.
+      (D) A health benefit plan may not infringe upon an enrollee’s choice of contraceptive drug, device or product and may not require prior authorization, step therapy or other utilization review techniques for medically appropriate covered contraceptive drugs, devices or other products approved by the United States Food and Drug Administration.
 
       (k) Voluntary sterilization.
 
@@ -807,13 +833,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (a) Are consistent with the coverage requirements of subsection (2) of this section; and
 
-      (b) Do not result in the wholesale or indiscriminate denial of coverage for a service. [2017 c.721 §2]
-
- 
-
-      Note: Section 12, chapter 721, Oregon Laws 2017, provides:
-
-      Sec. 12. Section 2 of this 2017 Act [743A.067] applies to health benefit plan policies or certificates issued, renewed, modified or extended on or after January 1, 2019. [2017 c.721 §12]
+      (b) Do not result in the wholesale or indiscriminate denial of coverage for a service. [2017 c.721 §2; 2019 c.284 §5]
 
  
 
@@ -822,12 +842,6 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
  
 
       Note: 743A.067 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
-      Note: Section 3, chapter 721, Oregon Laws 2017, provides:
-
-      Sec. 3. No later than September 15, 2019, the Department of Consumer and Business Services shall report to the interim committees of the Legislative Assembly related to health on the degree of compliance by insurers with section 2 of this 2017 Act [743A.067] and of any actions taken by the department under ORS 731.988 to enforce compliance with section 2 of this 2017 Act. [2017 c.721 §3]
 
  
 
@@ -848,6 +862,42 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
       (2) The coverage required by subsection (1) of this section may be made subject to provisions of the policy that apply to other benefits under the policy including, but not limited to, provisions related to deductibles and coinsurance. Deductibles and coinsurance for elemental enteral formulas shall be no greater than those for any other treatment for the condition under the policy.
 
       (3) This section is exempt from ORS 743A.001. [Formerly 743.729; 2009 c.703 §1]
+
+ 
+
+      743A.078 Newborn nurse home visiting services. (1) As used in this section, “carrier,” “enrollee” and “health benefit plan” have the meanings given those terms in ORS 743B.005.
+
+      (2) A health benefit plan offered in this state must reimburse the cost of universal newborn nurse home visiting services as prescribed by the Oregon Health Authority by rule under ORS 433.301 (7).
+
+      (3) The coverage must be provided without any cost-sharing, coinsurance or deductible applicable to the services.
+
+      (4) Carriers must offer the services in their health benefit plans but enrollees are not required to receive the services as a condition of coverage and may not be penalized or in any way discouraged from declining the services.
+
+      (5) A carrier must notify an enrollee about the services whenever an enrollee adds a newborn to coverage.
+
+      (6) A carrier may use in-network providers or may contract with local public health authorities to provide the services.
+
+      (7) This section does not require a carrier to reimburse the cost of the services in any specific manner. The services may be reimbursed using:
+
+      (a) A value-based payment methodology;
+
+      (b) A claim invoicing process;
+
+      (c) Capitated payments;
+
+      (d) A payment methodology that takes into account the need for a community-based entity providing the services to expand its capacity to provide the services and address health disparities; or
+
+      (e) Any other methodology agreed to by the carrier and the provider of the services.
+
+      (8) Carriers shall report to the authority, in the form and manner prescribed by the authority, data regarding claims submitted for services covered under this section to monitor the provision of the services. [2019 c.552 §3]
+
+ 
+
+      Note: See 743A.001.
+
+ 
+
+      Note: 743A.078 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1033,13 +1083,29 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-      743A.140 Bilateral cochlear implants. (1) Whenever any policy of health insurance provides for reimbursement of a cochlear implant, the insured under the policy is entitled to coverage of bilateral cochlear implants.
+      743A.130 Proton beam therapy. (1) A health benefit plan, as defined in ORS 743B.005, that provides coverage of radiation therapy for the treatment of cancer must provide coverage for proton beam therapy for the treatment of cancer on a basis no less favorable than the coverage of radiation therapy.
+
+      (2) The coverage of proton beam therapy under subsection (1) of this section may be subject to prior authorization, as defined in ORS 743B.001, or other utilization review, as defined in ORS 743B.001.
+
+      (3) This section is exempt from ORS 743A.001. [2019 c.466 §2]
+
+ 
+
+      Note: 743A.130 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743A or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      743A.140 Bilateral cochlear implants. (1) A health benefit plan, as defined in ORS 743B.005, shall reimburse the cost of:
+
+      (a) Bilateral cochlear implants if medically appropriate for the treatment of hearing loss; and
+
+      (b) Programming and reprogramming cochlear implants.
 
       (2) For purposes of ORS 746.230, a reasonable investigation of a claim for bilateral cochlear implants must include a request to the treating surgeon for a written recommendation based on peer-reviewed medical literature and for the medical findings that support the recommendation.
 
-      (3) The provisions of this section apply to a health benefit plan as defined in ORS 743B.005.
+      (3) A health benefit plan shall reimburse the cost of repair and replacement parts for a cochlear implant if the repair or parts are not covered by a warranty and are necessary for the device to be functional for the user.
 
-      (4) The provisions of this section are exempt from ORS 743A.001. [2007 c.504 §2]
+      (4) The provisions of this section are exempt from ORS 743A.001. [2007 c.504 §2; 2018 c.9 §1]
 
  
 
@@ -1047,25 +1113,67 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-      743A.141 Hearing aids. (1) As used in this section, “hearing aid” means any nondisposable, wearable instrument or device designed to aid or compensate for impaired human hearing and any necessary ear mold, part, attachments or accessory for the instrument or device, except batteries and cords.
+      743A.141 Hearing aids and hearing assistive technology systems. (1) As used in this section:
 
-      (2) A health benefit plan, as defined in ORS 743B.005, shall provide payment, coverage or reimbursement for one hearing aid per hearing impaired ear if:
+      (a) “Hearing aid” means any nondisposable, wearable instrument or device designed to aid or compensate for impaired human hearing and any necessary ear mold, part, attachments or accessory for the instrument or device, except batteries and cords.
 
-      (a) Prescribed, fitted and dispensed by a licensed audiologist with the approval of a licensed physician; and
+      (b) “Hearing assistive technology systems” means devices used with or without hearing aids or cochlear implants to improve the ability of a user with hearing loss to hear in various listening situations, such as being located a distance from a speaker, in an environment with competing background noise or in a room with poor acoustics or reverberation.
 
-      (b) Medically necessary for the treatment of hearing loss in an enrollee in the plan who is:
+      (2) A health benefit plan, as defined in ORS 743B.005, shall provide payment, coverage or reimbursement for:
 
-      (A) 18 years of age or younger; or
+      (a) One hearing aid per hearing impaired ear if:
+
+      (A) Prescribed, fitted and dispensed by a licensed audiologist with the approval of a licensed physician; and
+
+      (B) Medically necessary for the treatment of hearing loss in an enrollee in the plan who is:
+
+      (i) 18 years of age or younger; or
+
+      (ii) 19 to 25 years of age and enrolled in a secondary school or an accredited educational institution.
+
+      (b) Ear molds and replacement ear molds:
+
+      (A) Up to four times per plan year for enrollees who are younger than eight years of age; and
+
+      (B) At least once per year for enrollees who are:
+
+      (i) Eight to 18 years of age; or
+
+      (ii) 19 to 25 years of age and enrolled in a secondary school or an accredited educational institution.
+
+      (c) One box of replacement batteries per year for each hearing aid.
+
+      (d) Necessary diagnostic and treatment services at least twice per year for enrollees who are younger than four years of age and at least once per year for enrollees who are four years of age or older, including:
+
+      (A) Hearing tests appropriate for an enrollee’s age or developmental need;
+
+      (B) Hearing aid checks; and
+
+      (C) Aided testing.
+
+      (e) Bone conduction sound processors, if necessary for appropriate amplification of the hearing loss.
+
+      (f) Hearing assistive technology systems for an enrollee who is younger than 19 years of age, if necessary for appropriate amplification of the hearing loss.
+
+      (3) An insurer may not impose any financial or contractual penalty upon an audiologist if an enrollee elects to purchase a hearing aid or other device priced higher than the benefit amount by paying the difference between the benefit amount and the price of the hearing aid or other device.
+
+      (4) A health benefit plan shall provide the benefits described in subsection (2)(a), (e) and (f) of this section:
+
+      (a) Every 36 months; or
+
+      (b) For hearing aids, more frequently than every 36 months if modifications to an existing hearing aid will not meet the needs of an enrollee who is:
+
+      (A) Under 19 years of age; or
 
       (B) 19 to 25 years of age and enrolled in a secondary school or an accredited educational institution.
 
-      (3)(a) The maximum benefit amount required by this section is $4,000 every 48 months, but a health benefit plan may offer a benefit that is more favorable to the enrollee. An insurer shall adjust the benefit amount on January 1 of each year to reflect the increase since January 1, 2010, in the U.S. City Average Consumer Price Index for All Urban Consumers for medical care as published by the Bureau of Labor Statistics of the United States Department of Labor.
+      (5) An insurer must contract with pediatric audiologists in sufficient numbers and geographic locations in this state to comply with ORS 743B.202 and 743B.505.
 
-      (b) An insurer may not impose any financial or contractual penalty upon an audiologist if an enrollee elects to purchase a hearing aid priced higher than the benefit amount by paying the difference between the benefit amount and the price of the hearing aid.
+      (6) Insurance producers shall ensure that enrollees have access to navigators or other assisters to facilitate the diagnosis of hearing loss and needed amplification and ensure that technologies are available to treat hearing loss in enrollees who are 19 years of age or younger. Upon receiving a claim for reimbursement for the diagnosis of hearing loss, an insurer shall provide notice of the coverage limits to the enrollee or to the parent or legal guardian of the enrollee. With respect to enrollees with hearing loss who are younger than 19 years of age, an insurer shall provide educational materials to the parent or legal guardian of the enrollee and shall have a process in place to ensure that appropriate technologies are available.
 
-      (4) The payment, coverage or reimbursement required under this section may be subject to provisions of the health benefit plan that apply to other durable medical equipment benefits covered by the plan, including but not limited to provisions relating to deductibles, coinsurance and prior authorization.
+      (7) The payment, coverage or reimbursement required under this section may be subject to provisions of the health benefit plan that apply to other durable medical equipment benefits covered by the plan, including but not limited to provisions relating to deductibles, coinsurance and prior authorization.
 
-      (5) This section is exempt from ORS 743A.001. [2009 c.553 §2; 2011 c.500 §42a; 2015 c.515 §26]
+      (8) This section is exempt from ORS 743A.001. [2009 c.553 §2; 2011 c.500 §42a; 2015 c.515 §26; 2018 c.9 §2]
 
  
 
@@ -1153,11 +1261,13 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (e) “Group health insurer” means an insurer, a health maintenance organization or a health care service contractor.
 
-      (f) “Program” means a particular type or level of service that is organizationally distinct within a facility.
+      (f) “Prior authorization” has the meaning given that term in ORS 743B.001.
 
-      (g) “Provider” means:
+      (g) “Program” means a particular type or level of service that is organizationally distinct within a facility.
 
-      (A) An individual who has met the credentialing requirement of a group health insurer, is otherwise eligible to receive reimbursement for coverage under the policy and is a behavioral health professional or a medical professional licensed or certified in this state;
+      (h) “Provider” means:
+
+      (A) An individual who has met the credentialing requirement of a group health insurer or an issuer of an individual health benefit plan that is not a grandfathered health plan as defined in ORS 743B.005, is otherwise eligible to receive reimbursement for coverage under the policy and is a behavioral health professional or a medical professional licensed or certified in this state;
 
       (B) A health care facility as defined in ORS 433.060;
 
@@ -1169,7 +1279,9 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (F) A provider organization certified by the Oregon Health Authority under subsection (7) of this section.
 
-      (2) A group health insurance policy providing coverage for hospital or medical expenses, other than limited benefit coverage, shall provide coverage for expenses arising from the diagnosis of and treatment for chemical dependency, including alcoholism, and for mental or nervous conditions at the same level as, and subject to limitations no more restrictive than, those imposed on coverage or reimbursement of expenses arising from treatment for other medical conditions. The following apply to coverage for chemical dependency and for mental or nervous conditions:
+      (i) “Utilization review” has the meaning given that term in ORS 743B.001.
+
+      (2) A group health insurance policy or an individual health benefit plan that is not a grandfathered health plan providing coverage for hospital or medical expenses, other than limited benefit coverage, shall provide coverage for expenses arising from the diagnosis of and treatment for chemical dependency, including alcoholism, and for mental or nervous conditions at the same level as, and subject to limitations no more restrictive than, those imposed on coverage or reimbursement of expenses arising from treatment for other medical conditions. The following apply to coverage for chemical dependency and for mental or nervous conditions:
 
       (a) The coverage may be made subject to provisions of the policy that apply to other benefits under the policy, including but not limited to provisions relating to deductibles and coinsurance. Deductibles and coinsurance for treatment in health care facilities or residential facilities may not be greater than those under the policy for expenses of hospitalization in the treatment of other medical conditions. Deductibles and coinsurance for outpatient treatment may not be greater than those under the policy for expenses of outpatient treatment of other medical conditions.
 
@@ -1199,23 +1311,23 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (e) If specified in the policy, outpatient coverage may include follow-up in-home service or outpatient services. The policy may limit coverage for in-home service to persons who are homebound under the care of a physician.
 
-      (f)(A) Subject to the patient or client confidentiality provisions of ORS 40.235 relating to physicians, ORS 40.240 relating to nurse practitioners, ORS 40.230 relating to psychologists, ORS 40.250 and 675.580 relating to licensed clinical social workers and ORS 40.262 relating to licensed professional counselors and licensed marriage and family therapists, a group health insurer may provide for review for level of treatment of admissions and continued stays for treatment in health facilities, residential facilities, day or partial hospitalization programs and outpatient services by either group health insurer staff or personnel under contract to the group health insurer, or by a utilization review contractor, who shall have the authority to certify for or deny level of payment.
+      (f)(A) Subject to the patient or client confidentiality provisions of ORS 40.235 relating to physicians, ORS 40.240 relating to nurse practitioners, ORS 40.230 relating to psychologists, ORS 40.250 and 675.580 relating to licensed clinical social workers and ORS 40.262 relating to licensed professional counselors and licensed marriage and family therapists, a group health insurer or issuer of an individual health benefit plan may provide for review for level of treatment of admissions and continued stays for treatment in health facilities, residential facilities, day or partial hospitalization programs and outpatient services by either staff of a group health insurer or issuer of an individual health benefit plan or personnel under contract to the group health insurer or issuer of an individual health benefit plan that is not a grandfathered health plan, or by a utilization review contractor, who shall have the authority to certify for or deny level of payment.
 
       (B) Review shall be made according to criteria made available to providers in advance upon request.
 
       (C) Review shall be performed by or under the direction of a physician licensed under ORS 677.100 to 677.228, a psychologist licensed by the Oregon Board of Psychology, a clinical social worker licensed by the State Board of Licensed Social Workers or a professional counselor or marriage and family therapist licensed by the Oregon Board of Licensed Professional Counselors and Therapists, in accordance with standards of the National Committee for Quality Assurance or Medicare review standards of the Centers for Medicare and Medicaid Services.
 
-      (D) Review may involve prior approval, concurrent review of the continuation of treatment, post-treatment review or any combination of these. However, if prior approval is required, provision shall be made to allow for payment of urgent or emergency admissions, subject to subsequent review. If prior approval is not required, group health insurers shall permit providers, policyholders or persons acting on their behalf to make advance inquiries regarding the appropriateness of a particular admission to a treatment program. Group health insurers shall provide a timely response to such inquiries. Noncontracting providers must cooperate with these procedures to the same extent as contracting providers to be eligible for reimbursement.
+      (D) Review may involve prior approval, concurrent review of the continuation of treatment, post-treatment review or any combination of these. However, if prior approval is required, provision shall be made to allow for payment of urgent or emergency admissions, subject to subsequent review. If prior approval is not required, group health insurers and issuers of individual health benefit plans that are not grandfathered health plans shall permit providers, policyholders or persons acting on their behalf to make advance inquiries regarding the appropriateness of a particular admission to a treatment program. Group health insurers and issuers of individual health benefit plans that are not grandfathered health plans shall provide a timely response to such inquiries. Noncontracting providers must cooperate with these procedures to the same extent as contracting providers to be eligible for reimbursement.
 
       (g) Health maintenance organizations may limit the receipt of covered services by enrollees to services provided by or upon referral by providers contracting with the health maintenance organization. Health maintenance organizations and health care service contractors may create substantive plan benefit and reimbursement differentials at the same level as, and subject to limitations no more restrictive than, those imposed on coverage or reimbursement of expenses arising out of other medical conditions and apply them to contracting and noncontracting providers.
 
-      (3) This section does not prohibit a group health insurer from managing the provision of benefits through common methods, including but not limited to selectively contracted panels, health plan benefit differential designs, preadmission screening, prior authorization of services, utilization review or other mechanisms designed to limit eligible expenses to those described in subsection (2)(b) of this section.
+      (3) This section does not prohibit a group health insurer or issuer of an individual health benefit plan that is not a grandfathered health plan from managing the provision of benefits through common methods, including but not limited to selectively contracted panels, health plan benefit differential designs, preadmission screening, prior authorization of services, utilization review or other mechanisms designed to limit eligible expenses to those described in subsection (2)(b) of this section.
 
       (4) The Legislative Assembly finds that health care cost containment is necessary and intends to encourage health insurance plans designed to achieve cost containment by ensuring that reimbursement is limited to appropriate utilization under criteria incorporated into the insurance, either directly or by reference.
 
-      (5) This section does not prevent a group health insurer from contracting with providers of health care services to furnish services to policyholders or certificate holders according to ORS 743B.460 or 750.005, subject to the following conditions:
+      (5) This section does not prevent a group health insurer or issuer of an individual health benefit plan that is not a grandfathered health plan from contracting with providers of health care services to furnish services to policyholders or certificate holders according to ORS 743B.460 or 750.005, subject to the following conditions:
 
-      (a) A group health insurer is not required to contract with all providers that are eligible for reimbursement under this section.
+      (a) A group health insurer or issuer of an individual health benefit plan that is not a grandfathered health plan is not required to contract with all providers that are eligible for reimbursement under this section.
 
       (b) An insurer or health care service contractor shall, subject to subsection (2) of this section, pay benefits toward the covered charges of noncontracting providers of services for the treatment of chemical dependency or mental or nervous conditions. The insured shall, subject to subsection (2) of this section, have the right to use the services of a noncontracting provider of services for the treatment of chemical dependency or mental or nervous conditions, whether or not the services for chemical dependency or mental or nervous conditions are provided by contracting or noncontracting providers.
 
@@ -1233,7 +1345,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (b) Notwithstanding paragraph (a)(A) of this subsection, an insured may receive covered outpatient services under the terms of the insured’s policy while the insured is living temporarily in a sheltered living situation.
 
-      (7) The Oregon Health Authority shall establish a process for the certification of an organization described in subsection (1)(g)(F) of this section that:
+      (7) The Oregon Health Authority shall establish a process for the certification of an organization described in subsection (1)(h)(F) of this section that:
 
       (a) Is not otherwise subject to licensing or certification by the authority; and
 
@@ -1245,7 +1357,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (10) The intent of the Legislative Assembly in adopting this section is to reserve benefits for different types of care to encourage cost effective care and to ensure continuing access to levels of care most appropriate for the insured’s condition and progress. This section does not prohibit an insurer from requiring a provider organization certified by the Oregon Health Authority under subsection (7) of this section to meet the insurer’s credentialing requirements as a condition of entering into a contract.
 
-      (11) The Director of the Department of Consumer and Business Services and the Oregon Health Authority, after notice and hearing, may adopt reasonable rules not inconsistent with this section that are considered necessary for the proper administration of this section. [Formerly 743.556; 2009 c.442 §47; 2009 c.549 §11; 2013 c.375 §1; 2013 c.581 §1; 2013 c.681 §62; 2016 c.11 §7; 2017 c.6 §29; 2017 c.17 §57; 2017 c.273 §5; 2017 c.409 §35]
+      (11) The Director of the Department of Consumer and Business Services and the Oregon Health Authority, after notice and hearing, may adopt reasonable rules not inconsistent with this section that are considered necessary for the proper administration of this section. [Formerly 743.556; 2009 c.442 §47; 2009 c.549 §11; 2013 c.375 §1; 2013 c.581 §1; 2013 c.681 §62; 2016 c.11 §7; 2017 c.6 §29; 2017 c.17 §57; 2017 c.273 §5; 2017 c.409 §35; 2019 c.284 §6; 2019 c.285 §5]
 
  
 
@@ -1457,27 +1569,29 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-      743A.252 Child abuse medical assessments. (1) As used in this section:
+      743A.252 Child abuse assessments. (1) As used in this section:
 
-      (a) “Child abuse medical assessment” has the meaning given that term in ORS 418.782.
+      (a) “Child abuse assessment” has the meaning given that term in ORS 418.782.
 
-      (b) “Community assessment center” has the meaning given that term in ORS 418.782.
+      (b) “Children’s advocacy center” has the meaning given that term in ORS 418.782.
 
-      (c) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+      (c) “Forensic interview” has the meaning given that term in ORS 418.782.
 
-      (2) A health benefit plan shall provide payment to or reimburse a community assessment center for the services provided by the center:
+      (d) “Health benefit plan” has the meaning given that term in ORS 743B.005.
 
-      (a) In conducting a child abuse medical assessment of a child enrolled in the plan; and
+      (2) A health benefit plan shall provide payment to or reimburse a children’s advocacy center for the services provided by the center:
 
-      (b) That are related to the child abuse medical assessment including, but not limited to:
+      (a) In conducting a child abuse assessment of a child enrolled in the plan; and
+
+      (b) That are related to the child abuse assessment including, but not limited to:
 
       (A) A forensic interview; and
 
       (B) Mental health treatment.
 
-      (3) The payment or reimbursement made in accordance with this section must be proportionate to the scope and intensity of the services provided by the community assessment center.
+      (3) The payment or reimbursement made in accordance with this section must be proportionate to the scope and intensity of the services provided by the children’s advocacy center.
 
-      (4) This section is exempt from ORS 743A.001. [2015 c.100 §4]
+      (4) This section is exempt from ORS 743A.001. [2015 c.100 §4; 2019 c.141 §28]
 
  
 
@@ -1557,7 +1671,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
  
 
-      743A.264 Disease outbreaks; epidemics; conditions of public health importance. (1) As used in this section:
+      743A.264 Disease outbreaks, epidemics and conditions of public health importance. (1) As used in this section:
 
       (a) “Condition of public health importance” has the meaning given that term in ORS 431A.005.
 
@@ -1575,6 +1689,8 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (f) “Insurer” means a person with a certificate of authority to transact insurance in this state.
 
+      (g) “Utilization review” has the meaning given that term in ORS 743B.001.
+
       (2) If the director determines that there exists a disease outbreak, epidemic or other condition of public health importance in a geographic area of this state or statewide, an insurer shall, for enrollees in a health benefit plan offered by the insurer, cover the cost of necessary antitoxins, serums, vaccines, immunizing agents, antibiotics, antidotes and other pharmaceutical agents, medical supplies or other prophylactic measures approved by the United States Food and Drug Administration that the director deems necessary to prevent the spread of the disease, epidemic or other condition of public health importance.
 
       (3) An insurer may not restrict coverage under subsection (2) of this section by:
@@ -1583,9 +1699,9 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (b) Imposing cost-sharing requirements that are greater than the cost-sharing requirements for similar covered services;
 
-      (c) Requiring prior authorization or other utilization control measures; or
+      (c) Requiring prior authorization or other utilization review measures; or
 
-      (d) Limiting coverage in any manner that prevents an enrollee from accessing the necessary health services. [2017 c.719 §2]
+      (d) Limiting coverage in any manner that prevents an enrollee from accessing the necessary health services. [2017 c.719 §2; 2019 c.284 §7]
 
  
 
@@ -1607,11 +1723,11 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (a)(A) “Applied behavior analysis” means the design, implementation and evaluation of environmental modifications, using behavioral stimuli and consequences, to produce significant improvement in human social behavior, including the use of direct observation, measurement and functional analysis of the relationship between environment and behavior, that is provided by:
 
-      (i) A licensed health care professional as defined in section 1 of this 2015 Act [676.802];
+      (i) A licensed health care professional as defined in ORS 676.802;
 
-      (ii) A behavior analyst or assistant behavior analyst licensed under section 3 of this 2015 Act [676.810]; or
+      (ii) A behavior analyst or assistant behavior analyst licensed under ORS 676.810; or
 
-      (iii) A behavior analysis interventionist registered under section 4 of this 2015 Act [676.815] who receives ongoing training and supervision by a licensed behavior analyst, by a licensed assistant behavior analyst or by a licensed health care professional.
+      (iii) A behavior analysis interventionist registered under ORS 676.815 who receives ongoing training and supervision by a licensed behavior analyst, by a licensed assistant behavior analyst or by a licensed health care professional.
 
       (B) “Applied behavior analysis” does not mean psychological testing, neuropsychology, psychotherapy, cognitive therapy, sex therapy, psychoanalysis, hypnotherapy and long-term counseling as treatment modalities.
 
@@ -1619,7 +1735,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (c) “Diagnosis” means medically necessary assessment, evaluation or testing.
 
-      (d) “Health benefit plan” has the meaning given that term in ORS 743.730 [renumbered 743B.005].
+      (d) “Health benefit plan” has the meaning given that term in ORS 743B.005.
 
       (e) “Medically necessary” means in accordance with the definition of medical necessity that is specified in the policy or certificate for the health benefit plan and that applies to all covered services under the plan.
 
@@ -1651,7 +1767,7 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (a) An autism spectrum disorder diagnosis by a professional described in subsection (2)(a) of this section if the original diagnosis was not made by a professional described in subsection (2)(a) of this section.
 
-      (b) Prior authorization for coverage of a maximum of 25 hours per week of applied behavior analysis recommended in an individualized treatment plan approved by a professional described in subsection (2)(a) of this section for an individual with autism spectrum disorder, as long as the insurer makes a prior authorization determination no later than 30 calendar days after receiving the request for prior authorization.
+      (b) Prior authorization for coverage of a maximum of 25 hours per week of applied behavior analysis recommended in an individualized treatment plan approved by a professional described in subsection (2)(a) of this section for an individual with autism spectrum disorder, as long as the insurer makes a prior authorization determination no later than 30 calendar days after receiving the request for prior authorization, notwithstanding ORS 743B.423.
 
       (6) If an individual is receiving applied behavior analysis, an insurer may require submission of an individualized treatment plan, which shall include all elements necessary for the insurer to appropriately determine coverage under the health benefit plan. The individualized treatment plan must be based on evidence-based screening criteria. An insurer may require an updated individualized treatment plan, not more than once every six months, that includes observed progress as of the date the updated plan was prepared, for the purpose of performing utilization review and medical management. The insurer may require the individualized treatment plan to be approved by a professional described in subsection (2)(a) of this section, and to include the:
 
@@ -1687,11 +1803,11 @@ Note          Application of ORS 743A.001 to ORS 743A.168 and 750.055--1987 c.41
 
       (c) Applied behavior analysis for an individual if the coverage is first requested when the individual is nine years of age or older.
 
-      (10) Coverage under this section includes treatment for autism spectrum disorder provided in the individual’s home or a licensed health care facility or, for treatment provided by a licensed health care professional as defined in section 1 of this 2015 Act or a behavior analyst or assistant behavior analyst licensed under section 3 of this 2015 Act, in a setting approved by the health care professional, behavior analyst or assistant behavior analyst.
+      (10) Coverage under this section includes treatment for autism spectrum disorder provided in the individual’s home or a licensed health care facility or, for treatment provided by a licensed health care professional as defined in ORS 676.802 or a behavior analyst or assistant behavior analyst licensed under ORS 676.810, in a setting approved by the health care professional, behavior analyst or assistant behavior analyst.
 
       (11) An insurer that provides coverage of applied behavior analysis in accordance with a decision of an independent review organization that was made prior to January 1, 2016, shall continue to provide coverage, subject to modifications made in accordance with subsection (7) of this section.
 
-      (12) ORS 743A.001 does not apply to this section. [2013 c.771 §2; 2015 c.674 §9]
+      (12) ORS 743A.001 does not apply to this section. [2013 c.771 §2; 2015 c.674 §9; 2019 c.284 §11]
 
       Sec. 22. Section 2 of this 2013 Act is repealed January 2, 2022. [2013 c.771 §22]
 

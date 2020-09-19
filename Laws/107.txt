@@ -97,6 +97,10 @@ DISSOLUTION, ANNULMENT AND SEPARATION
 
  
 
+107.103     Alternative dispute resolution conference procedure
+
+ 
+
 107.104     Policy regarding settlement; enforcement of settlement terms; remedies
 
  
@@ -138,6 +142,10 @@ DISSOLUTION, ANNULMENT AND SEPARATION
  
 
 107.131     Conveyance or release of contingent or expectant interests
+
+ 
+
+107.133     Remedy following conviction for attempted murder or conspiracy to commit murder
 
  
 
@@ -449,7 +457,7 @@ LIFE INSURANCE ON OBLIGOR
 
  
 
-107.825     Court-ordered beneficiary action against third-party beneficiary
+107.825     Court-ordered beneficiary action against third-party beneficiary after death of obligor
 
  
 
@@ -503,7 +511,7 @@ DISSOLUTION, ANNULMENT AND SEPARATION
 
       (b) When the consent of either party was obtained by force or fraud.
 
-      (2) A judgment for the annulment or dissolution of a marriage may not be rendered for a reason described in subsection (1) of this section if the marriage contract was afterward ratified. [1971 c.280 §8; 2003 c.576 §103; 2007 c.22 §2]
+      (2) A judgment for the annulment or dissolution of a marriage may not be rendered for a reason described in subsection (1) of this section if the marriage contract was afterward ratified. [1971 c.280 §8; 2003 c.576 §103; 2007 c.22 §2 ]
 
  
 
@@ -599,7 +607,7 @@ DISSOLUTION, ANNULMENT AND SEPARATION
 
       (A) Whether there is pending in this state or any other jurisdiction a domestic relations suit, as defined in ORS 107.510;
 
-      (B) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving dependents of the same marriage, including one brought under this section or ORS 108.110, 109.100, 125.025, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110;
+      (B) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving dependents of the same marriage, including one brought under this section or ORS 25.501 to 25.556, 108.110, 109.100, 125.025, 419B.400 or 419C.590 or ORS chapter 110;
 
       (C) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving dependents of the same marriage; and
 
@@ -861,13 +869,71 @@ ______________________________________________________________________________
 
       (i) Methods for resolving disputes.
 
-      (4)(a) The court shall develop a detailed parenting plan when:
+      (4) In addition to the provisions listed in subsection (3) of this section, a detailed parenting plan may include one or both of the following requirements:
+
+      (a) That the custodial parent notify the noncustodial parent regarding specified matters concerning the child.
+
+      (b) That the custodial parent provide the noncustodial parent with an opportunity to comment regarding specified matters concerning the child.
+
+      (5)(a) The court shall develop a detailed parenting plan when:
 
       (A) So requested by either parent; or
 
       (B) The parent or parents are unable to develop a parenting plan.
 
-      (b) In developing a parenting plan under this subsection, the court may consider only the best interests of the child and the safety of the parties. [1997 c.707 §2]
+      (b) In developing a parenting plan under this subsection, the court may consider only the best interests of the child and the safety of the parties.
+
+      (c) In developing a parenting plan under this subsection, the court may order equal parenting time. If a parent requests that the court order equal parenting time in the parenting plan, the court may deny the request if the court determines, by written findings, that equal parenting time is not in the best interests of the child or endangers the safety of the parties. [1997 c.707 §2; 2019 c.288 §1; 2019 c.289 §1]
+
+ 
+
+      Note: Section 2, chapter 288, Oregon Laws 2019, provides:
+
+      Sec. 2. The amendments to ORS 107.102 by section 1 of this 2019 Act [section 1, chapter 288, Oregon Laws 2019] apply to proceedings commenced on or after the effective date of this 2019 Act [January 1, 2020]. [2019 c.288 §2]
+
+ 
+
+      107.103 Alternative dispute resolution conference procedure. (1) The presiding judge of each judicial district may establish an alternative dispute resolution conference procedure for custody and parenting time modification and enforcement before a court hearing. The conference procedure must, at a minimum:
+
+      (a) Require that the parties be notified in advance that the conference will be conducted in an informal manner and will not use the rules of evidence;
+
+      (b) Provide each party with a full opportunity to present the party’s position;
+
+      (c) Accommodate safety concerns in conference procedures when safety concerns are identified;
+
+      (d) Allow a party’s attorney to be present; and
+
+      (e) Notify the parties that if an agreement is not reached the conference officer described in subsection (2) of this section may make a recommendation to the court, but that no party will lose the party’s right to a judicial hearing.
+
+      (2) The presiding judge shall appoint a conference officer to hold a conference under this section. The conference officer must have completed training in mediation, child development and domestic violence, as prescribed by the presiding judge or local rules adopted under ORS 3.220, and must be:
+
+      (a) An employee of the Judicial Department; or
+
+      (b) An attorney or trained mediator appointed by the court in accordance with local rules adopted under ORS 3.220.
+
+      (3)(a) If the parties reach an agreement on the contested issues during the conference, the conference officer shall prepare a stipulated order or judgment using forms approved by the State Court Administrator, and:
+
+      (A) If a party has an attorney, the party’s attorney shall have the opportunity to review the stipulated order or judgment;
+
+      (B) The parties shall sign the stipulated order or judgment; and
+
+      (C) The conference officer shall submit the stipulated order or judgment to the court that has authority over the underlying case.
+
+      (b) If the parties cannot reach an agreement on all of the contested issues during the conference, the conference officer may do one or both of the following:
+
+      (A) Assist the parties in developing a stipulated order or judgment on one or more of the resolved issues.
+
+      (B) Make recommendations to the court on the contested issues and, if requested, schedule a court hearing on those issues and notify the parties of the date and time of the hearing.
+
+      (4) At a hearing, the court may receive into evidence and consider the recommendation of the conference officer on contested issues but shall assign no specific evidentiary weight to that recommendation.
+
+      (5) If mediation has not been waived by the court, a conference under this section is in addition to and not in lieu of mediation.
+
+      (6) The conference procedure may not be used in proceedings under ORS 107.700 to 107.735. [2019 c.293 §2]
+
+ 
+
+      Note: 107.103 was added to and made a part of ORS chapter 107 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1071,9 +1137,9 @@ ______________________________________________________________________________
 
       (C) A high school equivalency course, including but not limited to a General Educational Development (GED) program, an educational program for grade 12 or below and home schooling.
 
-      (2) A support order entered or modified under this chapter or under ORS chapter 25, 108, 109, 110, 125, 416, 419B or 419C may require either parent, or both of them, to provide for the support or maintenance of a child attending school.
+      (2) A support order entered or modified under ORS 25.501 to 25.556 or this chapter or ORS chapter 25, 108, 109, 110, 125, 419B or 419C may require either parent, or both of them, to provide for the support or maintenance of a child attending school.
 
-      (3) Notwithstanding ORS 416.407, a child attending school is a party to any legal proceeding related to the support order. A child attending school may:
+      (3) Notwithstanding ORS 25.503, a child attending school is a party to any legal proceeding related to the support order. A child attending school may:
 
       (a) Apply for services under ORS 25.080:
 
@@ -1083,7 +1149,7 @@ ______________________________________________________________________________
 
       (b) Request a judicial or administrative modification of the child support amount or may receive notice of and participate in any modification proceeding; and
 
-      (c) Agree, in the same manner as an obligee under ORS 25.020 (12), that payments not made to the Department of Justice should be credited for amounts that would have been paid to the child attending school if the payments had been made to the department.
+      (c) Agree, in the manner provided under ORS 25.020 (12), that payments not made to the Department of Justice should be credited for amounts that would have been paid to the child attending school if the payments had been made to the department.
 
       (4) Regardless of whether the child is a child attending school, an unmarried child who is 18 years of age or older and under 21 years of age:
 
@@ -1167,7 +1233,7 @@ ______________________________________________________________________________
 
       (13) A support order that provides for the support or maintenance of a child attending school is subject to this section regardless of when the support order was entered.
 
-      (14) A support order that provides for the support or maintenance of a child attending school is intended to recognize the importance of continuing education for a child over 18 years of age who does not benefit from an intact family or who has been removed from the household. While support may serve to supplement the resources available to the child attending school, it is not intended to replace other resources or meet all of the financial needs of a child attending school. [1973 c.827 §12b; 1981 c.669 §1; 1989 c.518 §1; 1995 c.343 §21; 1997 c.704 §51; 2003 c.73 §50a; 2003 c.75 §84; 2003 c.576 §110; 2005 c.591 §1]
+      (14) A support order that provides for the support or maintenance of a child attending school is intended to recognize the importance of continuing education for a child over 18 years of age who does not benefit from an intact family or who has been removed from the household. While support may serve to supplement the resources available to the child attending school, it is not intended to replace other resources or meet all of the financial needs of a child attending school. [1973 c.827 §12b; 1981 c.669 §1; 1989 c.518 §1; 1995 c.343 §21; 1997 c.704 §51; 2003 c.73 §50a; 2003 c.75 §84; 2003 c.576 §110; 2005 c.591 §1; 2019 c.13 §26; 2019 c.291 §12]
 
  
 
@@ -1190,12 +1256,6 @@ ______________________________________________________________________________
       (3)(a) The Court of Appeals or Supreme Court shall continue to have jurisdiction of an appeal pending at the time of the death of either party. The appeal may be continued by the personal representative of the deceased party. The attorney of record on the appeal, for the deceased party, may be allowed a reasonable attorney fee, to be paid from the decedent’s estate. However, costs on appeal may not be awarded to either party.
 
       (b) The Court of Appeals or Supreme Court shall have the power to determine finally all matters presented on such appeal. Before making final disposition, the Court of Appeals or Supreme Court may refer the proceeding back to the trial court for such additional findings of fact as are required. [1971 c.280 §14; 1981 c.537 §2; 1987 c.586 §26; 1993 c.149 §1; 1999 c.569 §3; 2003 c.576 §111; 2011 c.212 §25]
-
- 
-
-      Note: Section 31, chapter 212, Oregon Laws 2011, provides:
-
-      Sec. 31. Sections 19 to 21 of this 2011 Act [93.981 to 93.985] and the amendments to ORS 86.740 [renumbered 86.764], 93.030, 93.040, 107.115, 112.465, 112.570 and 125.440 by sections 22 to 28 of this 2011 Act apply to a transfer on death deed made before, on or after the effective date of this 2011 Act [January 1, 2012] by a transferor dying on or after the effective date of this 2011 Act. [2011 c.212 §31]
 
  
 
@@ -1293,6 +1353,22 @@ ______________________________________________________________________________
 
  
 
+      107.133 Remedy following conviction for attempted murder or conspiracy to commit murder. (1) In addition to any other remedy authorized by law, when a party is convicted of the attempted murder or conspiracy to commit the murder of the other party, the court may, upon a petition for dissolution of marriage or the motion of the injured party, modify or terminate any duty of the injured party to provide spousal support or any insurance benefit, including through a beneficiary designation on a life insurance policy, to the other party under ORS 107.135.
+
+      (2) As used in this section, “injured party” means the party who was the subject of the attempted murder or the conspiracy to commit murder for which the other party was convicted. [2019 c.354 §1]
+
+ 
+
+      Note: 107.133 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 107 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      Note: Section 3, chapter 354, Oregon Laws 2019, provides:
+
+      Sec. 3. Section 1 of this 2019 Act [107.133] and the amendments to ORS 107.135 by section 2 of this 2019 Act apply to judgments or orders entered on or after the effective date of this 2019 Act [January 1, 2020]. [2019 c.354 §3]
+
+ 
+
       107.135 Vacation or modification of judgment; policy regarding settlement; enforcement of settlement terms; remedies. (1) The court may at any time after a judgment of annulment or dissolution of marriage or of separation is granted, upon the motion of either party and after service of notice on the other party in the manner provided by ORCP 7, and after notice to the Division of Child Support when required under subsection (9) of this section:
 
       (a) Set aside, alter or modify any portion of the judgment that provides for the appointment and duties of trustees, for the custody, parenting time, visitation, support and welfare of the minor children and the children attending school, as defined in ORS 107.108, including any health or life insurance provisions, for the support of a party or for life insurance under ORS 107.820 or 107.830;
@@ -1315,7 +1391,7 @@ ______________________________________________________________________________
 
       (a) The party shall state in the motion, to the extent known:
 
-      (A) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving children of the marriage, including one brought under ORS 25.287, 107.431, 109.100, 125.025, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110; and
+      (A) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving children of the marriage, including one brought under ORS 25.287, 25.501 to 25.556, 107.431, 109.100, 125.025, 419B.400 or 419C.590 or ORS chapter 110; and
 
       (B) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving children of the marriage, other than the judgment the party is moving to set aside, alter or modify.
 
@@ -1351,9 +1427,11 @@ ______________________________________________________________________________
 
       (ii) Were considered in an action initiated before May 12, 2003.
 
-      (b) If the motion for modification is one made by the obligor to reduce or terminate support, and if the obligee opposes the motion, the court shall not find a change in circumstances sufficient for reconsideration of support provisions, if the motion is based upon a reduction of the obligor’s financial status resulting from the obligor’s taking voluntary retirement, partial voluntary retirement or any other voluntary reduction of income or self-imposed curtailment of earning capacity, if it is shown that such action of the obligor was not taken in good faith but was for the primary purpose of avoiding the support obligation. In any subsequent motion for modification, the court shall deny the motion if the sole basis of the motion for modification is the termination of voluntarily taken retirement benefits and the obligor previously has been found not to have acted in good faith.
+      (b) An obligee’s conviction for the attempted murder or conspiracy to commit the murder of the obligor qualifies as a change in circumstances sufficient for reconsideration of support provisions.
 
-      (c) The court shall consider the following factors in deciding whether the actions of the obligor were not in “good faith”:
+      (c) If the motion for modification is one made by the obligor to reduce or terminate support, and if the obligee opposes the motion, the court shall not find a change in circumstances sufficient for reconsideration of support provisions, if the motion is based upon a reduction of the obligor’s financial status resulting from the obligor’s taking voluntary retirement, partial voluntary retirement or any other voluntary reduction of income or self-imposed curtailment of earning capacity, if it is shown that such action of the obligor was not taken in good faith but was for the primary purpose of avoiding the support obligation. In any subsequent motion for modification, the court shall deny the motion if the sole basis of the motion for modification is the termination of voluntarily taken retirement benefits and the obligor previously has been found not to have acted in good faith.
+
+      (d) The court shall consider the following factors in deciding whether the actions of the obligor were not in “good faith”:
 
       (A) Timing of the voluntary retirement or other reduction in financial status to coincide with court action in which the obligee seeks or is granted an increase in spousal support.
 
@@ -1369,7 +1447,7 @@ ______________________________________________________________________________
 
       (6) Any modification of child or spousal support granted because of a change of circumstances may be ordered effective retroactive to the date the motion for modification was served or to any date thereafter.
 
-      (7) The judgment is final as to any installment or payment of money that has accrued up to the time the nonmoving party, other than the state, is served with a motion to set aside, alter or modify the judgment. The court may not set aside, alter or modify any portion of the judgment that provides for any payment of money, either for minor children or for the support of a party, that has accrued before the motion is served. However:
+      (7) The judgment is final as to any installment or payment of money that has accrued up to the time the nonmoving party, other than the state, is served with a motion to modify the judgment. The court may not modify any portion of the judgment that provides for any payment of money, either for minor children or for the support of a party, that has accrued before the motion is served. However:
 
       (a) The court may allow a credit against child support arrearages for periods of time, excluding reasonable parenting time unless otherwise provided by order or judgment, during which the obligor, with the knowledge and consent of the obligee or pursuant to court order, has physical custody of the child; and
 
@@ -1407,7 +1485,11 @@ ______________________________________________________________________________
 
       (c) A party may seek to enforce an agreement and obtain remedies described in paragraph (b) of this subsection by filing a motion, serving notice on the other party in the manner provided by ORCP 7 and, if a remedy under paragraph (b)(B) of this subsection is sought, complying with the statutory requirements for that remedy. All claims for relief arising out of the same acts or omissions must be joined in the same proceeding.
 
-      (d) Nothing in paragraph (b) or (c) of this subsection limits a party’s ability, in a separate proceeding, to file a motion to modify an order or judgment under subsection (1) of this section or to seek enforcement of an ancillary agreement to the order or judgment. [1971 c.280 §16; 1973 c.502 §9; 1981 c.775 §2a; 1981 c.855 §1; 1983 c.728 §3; 1983 c.761 §9; 1987 c.795 §10; 1987 c.885 §3; 1989 c.545 §1; 1991 c.888 §2; 1993 c.315 §2; 1995 c.22 §2; 1997 c.91 §1; 1997 c.475 §6; 1997 c.704 §52; 1997 c.707 §9; 1999 c.80 §65; 1999 c.587 §2; 1999 c.1030 §2; 2001 c.104 §32; 2001 c.203 §4; 2001 c.334 §4; 2003 c.14 §41; 2003 c.116 §4; 2003 c.419 §1; 2003 c.572 §13a; 2003 c.576 §§112,112a,112b; 2005 c.708 §6; 2007 c.611 §11; 2009 c.80 §5; 2015 c.298 §90]
+      (d) Nothing in paragraph (b) or (c) of this subsection limits a party’s ability, in a separate proceeding, to file a motion to modify an order or judgment under subsection (1) of this section or to seek enforcement of an ancillary agreement to the order or judgment. [1971 c.280 §16; 1973 c.502 §9; 1981 c.775 §2a; 1981 c.855 §1; 1983 c.728 §3; 1983 c.761 §9; 1987 c.795 §10; 1987 c.885 §3; 1989 c.545 §1; 1991 c.888 §2; 1993 c.315 §2; 1995 c.22 §2; 1997 c.91 §1; 1997 c.475 §6; 1997 c.704 §52; 1997 c.707 §9; 1999 c.80 §65; 1999 c.587 §2; 1999 c.1030 §2; 2001 c.104 §32; 2001 c.203 §4; 2001 c.334 §4; 2003 c.14 §41; 2003 c.116 §4; 2003 c.419 §1; 2003 c.572 §13a; 2003 c.576 §§112,112a,112b; 2005 c.708 §6; 2007 c.611 §11; 2009 c.80 §5; 2015 c.298 §90; 2019 c.291 §13; 2019 c.354 §2]
+
+ 
+
+      Note: See second note under 107.133.
 
  
 
@@ -1601,11 +1683,11 @@ ______________________________________________________________________________
 
       (a) Any proceeding in a suit for marital annulment, dissolution or separation where a deployed parent or a parent whose deployment is imminent is a party;
 
-      (b) In any proceeding under ORS 107.135, 107.138 and 107.139 where a deployed parent or a parent whose deployment is imminent is a party; and
+      (b) Any proceeding under ORS 107.103, 107.135, 107.138 and 107.139 where a deployed parent or a parent whose deployment is imminent is a party; and
 
       (c) A proceeding under ORS 107.145 (4).
 
-      (2) In any proceeding listed under subsection (1) of this section, whether or not a motion to expedite a hearing has been filed, the court shall make reasonable accommodations to allow a deployed parent, or a parent whose deployment is imminent, to provide video, electronic or Internet testimony if the proceeding involves the custody, parenting time, visitation, support and welfare of the parent’s child and where the deployed parent or the parent whose deployment is imminent cannot personally appear. [2011 c.64 §3; 2017 c.534 §2]
+      (2) In any proceeding listed under subsection (1) of this section, whether or not a motion to expedite a hearing has been filed, the court shall make reasonable accommodations to allow a deployed parent, or a parent whose deployment is imminent, to provide video, electronic or Internet testimony if the proceeding involves the custody, parenting time, visitation, support and welfare of the parent’s child and where the deployed parent or the parent whose deployment is imminent cannot personally appear. [2011 c.64 §3; 2017 c.534 §2; 2019 c.293 §3]
 
  
 
@@ -1883,7 +1965,7 @@ ______________________________________________________________________________
 
       (a) The party shall state in the motion, to the extent known:
 
-      (A) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including a proceeding brought under ORS 25.287, 107.135, 109.100, 125.025, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110; and
+      (A) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including a proceeding brought under ORS 25.287, 25.501 to 25.556, 107.135, 109.100, 125.025, 419B.400 or 419C.590 or ORS chapter 110; and
 
       (B) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the child, other than the judgment the party is moving to set aside, alter or modify.
 
@@ -1895,7 +1977,7 @@ ______________________________________________________________________________
 
  
 
-      107.434 Expedited parenting time enforcement procedure; remedies. (1) The presiding judge of each judicial district shall establish an expedited parenting time enforcement procedure that may or may not include a requirement for mediation. The procedure must be easy to understand and initiate. Unless the parties otherwise agree, the court shall conduct a hearing no later than 45 days after the filing of a motion seeking enforcement of a parenting time order. The court shall provide forms for:
+      107.434 Expedited parenting time enforcement procedure; remedies. (1) The presiding judge of each judicial district shall establish an expedited parenting time enforcement procedure that may or may not include a requirement for mediation or participation in an alternative dispute resolution conference under ORS 107.103. The procedure must be easy to understand and initiate. Unless the parties otherwise agree or an alternative dispute resolution conference under ORS 107.103 is scheduled, the court shall conduct a hearing no later than 45 days after the filing of a motion seeking enforcement of a parenting time order. The court shall provide forms for:
 
       (a) A motion filed by either party alleging a violation of parenting time or substantial violations of the parenting plan. When a person files this form, the person must include a copy of the order establishing the parenting time.
 
@@ -1933,7 +2015,7 @@ ______________________________________________________________________________
 
       (f) Terminate, suspend or modify child support as provided in ORS 107.431; or
 
-      (g) Schedule a hearing for modification of custody as provided in ORS 107.135 (11). [1997 c.707 §3; 2003 c.116 §6; 2003 c.737 §§50,51; 2005 c.702 §§57,58,59; 2007 c.493 §14; 2011 c.595 §75; 2015 c.121 §7]
+      (g) Schedule a hearing for modification of custody as provided in ORS 107.135 (11). [1997 c.707 §3; 2003 c.116 §6; 2003 c.737 §§50,51; 2005 c.702 §§57,58,59; 2007 c.493 §14; 2011 c.595 §75; 2015 c.121 §7; 2019 c.293 §4]
 
  
 
@@ -2279,7 +2361,17 @@ FAMILY ABUSE PREVENTION ACT
 
       (c) When the court schedules a hearing under this subsection, the respondent may not request a hearing under ORS 107.718 (10).
 
-      (3) In a hearing held pursuant to subsection (1) or (2) of this section, the court may cancel or change any order issued under ORS 107.718 and may assess against either party a reasonable attorney fee and such costs as may be incurred in the proceeding.
+      (3) In a hearing held pursuant to subsection (1) or (2) of this section:
+
+      (a) The court may continue any order issued under ORS 107.718 if the court finds that:
+
+      (A) Abuse has occurred within the period specified in ORS 107.710 (1);
+
+      (B) The petitioner reasonably fears for the petitioner’s physical safety; and
+
+      (C) The respondent represents a credible threat to the physical safety of the petitioner or the petitioner’s child.
+
+      (b) The court may cancel or change any order issued under ORS 107.718 and may assess against either party a reasonable attorney fee and such costs as may be incurred in the proceeding.
 
       (4)(a) If service of a notice of hearing is inadequate to provide a party with sufficient notice of the hearing held pursuant to ORS 107.718 (2) or (10), the court may extend the date of the hearing for up to five days so that the party may seek representation.
 
@@ -2307,7 +2399,7 @@ ______________________________________________________________________________
 
       (8) No undertaking shall be required in any proceeding under ORS 107.700 to 107.735.
 
-      (9) Any proceeding under ORS 107.700 to 107.735 shall be in addition to any other available civil or criminal remedies. [1981 c.780 §6 (enacted in lieu of 107.715); 1985 c.629 §3; 1987 c.805 §3; 1995 c.637 §4; 1995 c.794 §2; 1997 c.707 §15; 1999 c.617 §5; 1999 c.1052 §14; 2005 c.536 §1; 2007 c.11 §6]
+      (9) Any proceeding under ORS 107.700 to 107.735 shall be in addition to any other available civil or criminal remedies. [1981 c.780 §6 (enacted in lieu of 107.715); 1985 c.629 §3; 1987 c.805 §3; 1995 c.637 §4; 1995 c.794 §2; 1997 c.707 §15; 1999 c.617 §5; 1999 c.1052 §14; 2005 c.536 §1; 2007 c.11 §6; 2019 c.144 §1]
 
  
 
@@ -2637,7 +2729,7 @@ LIFE INSURANCE ON OBLIGOR
 
  
 
-      107.825 Court-ordered beneficiary action against third-party beneficiary. (1) If an obligor is subject to a judgment that requires the obligor to maintain an existing, or obtain a new, insurance policy on the obligor’s life under ORS 107.820 and owns an insurance policy at the time of the obligor’s death but has named a third party who is not the court-ordered beneficiary designated in the judgment, the court may grant equitable relief in a proceeding brought by the court-ordered beneficiary against the third-party beneficiary as follows:
+      107.825 Court-ordered beneficiary action against third-party beneficiary after death of obligor. (1) If an obligor is subject to a judgment that requires the obligor to maintain an existing, or obtain a new, insurance policy on the obligor’s life under ORS 107.820 and owns an insurance policy at the time of the obligor’s death but has named a third party who is not the court-ordered beneficiary designated in the judgment, the court may grant equitable relief in a proceeding brought by the court-ordered beneficiary against the third-party beneficiary as follows:
 
       (a) The court-ordered beneficiary may file a separate civil action against the third-party beneficiary to recover the proceeds of the insurance policy to the extent specified in the judgment, or as otherwise determined by the court under paragraph (c) of this subsection, regardless of whether the third party had actual knowledge of the judgment provision that required the obligor to obtain life insurance in favor of the court-ordered beneficiary. For purposes of this section, the entry of a judgment requiring an obligor to obtain a life insurance policy naming the court-ordered beneficiary as the beneficiary under ORS 107.820 is prima facie evidence of the court-ordered beneficiary’s entitlement to the life insurance proceeds in the amount specified in the judgment. Entry of the judgment in accordance with ORS chapter 18 constitutes constructive notice to any named third-party beneficiary of the judgment provision regarding life insurance under ORS 107.820.
 
@@ -2671,7 +2763,7 @@ MISCELLANEOUS
 
  
 
-      107.835 Waiver of personal service in subsequent contempt proceeding. (1) When a court enters a judgment, order or modification of a judgment or order under ORS 163.760 to 163.777 or ORS chapter 25, 107, 108, 109, 110 or 416, the court shall allow any party to the judgment or order to include in the judgment or order a waiver of personal service in a subsequent contempt proceeding in order to maintain the confidentiality of the party’s residential address. In the waiver, the party shall give a contact address for service of process and select one of the following methods of substituted service:
+      107.835 Waiver of personal service in subsequent contempt proceeding. (1) When a court enters a judgment, order or modification of a judgment or order under ORS 25.501 to 25.556 or 163.760 to 163.777 or ORS chapter 25, 107, 108, 109 or 110, the court shall allow any party to the judgment or order to include in the judgment or order a waiver of personal service in a subsequent contempt proceeding in order to maintain the confidentiality of the party’s residential address. In the waiver, the party shall give a contact address for service of process and select one of the following methods of substituted service:
 
       (a) Mailing address;
 
@@ -2681,7 +2773,7 @@ MISCELLANEOUS
 
       (2) Any time after a party has waived personal service under subsection (1) of this section, the party may file an amended waiver designating a different method of substituted service or a different address for substituted service. The party shall give notice of the amendment to all other parties.
 
-      (3) The State Court Administrator shall prescribe the content and form of the waiver and amended waiver described in this section. [1993 c.448 §6; 1995 c.608 §35; 2003 c.576 §132; 2007 c.11 §8; 2013 c.687 §14]
+      (3) The State Court Administrator shall prescribe the content and form of the waiver and amended waiver described in this section. [1993 c.448 §6; 1995 c.608 §35; 2003 c.576 §132; 2007 c.11 §8; 2013 c.687 §14; 2019 c.13 §27]
 
  
 

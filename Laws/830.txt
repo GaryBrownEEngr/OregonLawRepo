@@ -85,11 +85,11 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-830.084     Requirements for mandatory boating safety education program; certificate; fee
+830.084     Requirements for mandatory boating safety education program; education card; rules; fee
 
  
 
-830.086     Boating safety certificate; requirements; fee
+830.086     Boating safety education card; requirements; fee
 
  
 
@@ -101,11 +101,11 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-830.092     Exemption from requirement to obtain boating safety certificate
+830.092     Exemption from requirement to obtain boating safety education card
 
  
 
-830.094     Boating safety certificate required to operate motorboat
+830.094     Boating safety education card required to operate motorboat
 
  
 
@@ -189,7 +189,7 @@ REGULATIONS FOR SPECIFIC AREAS
 
  
 
-830.180     Use of motors prohibited on certain lakes; exceptions
+830.180     Use of motors prohibited on certain lakes; exceptions; rules
 
  
 
@@ -269,15 +269,19 @@ BOATING OPERATIONS
 
  
 
+830.302     Draining water from boat; exceptions
+
+ 
+
 830.305     Unsafe operation
 
  
 
-830.315     Reckless operation; speed
+830.315     Reckless boating; speed
 
  
 
-830.325     Operating boat while under influence of intoxicating liquor, cannabis or controlled substance
+830.325     Operating boat while under influence of intoxicants
 
  
 
@@ -354,6 +358,10 @@ RENTAL, CHARTER OR LIVERY GENERALLY
  
 
 830.420     Minimum equipment requirements for rental or charter boats; rules; inspection; cancellation or revocation of certificate for failure to comply
+
+ 
+
+830.425     Minimum requirements for boat livery operation
 
  
 
@@ -453,6 +461,10 @@ BOATING UNDER INFLUENCE OF INTOXICANTS
 
  
 
+830.555     Additional penalties for failing to submit to testing for intoxicants
+
+ 
+
 AQUATIC INVASIVE SPECIES PREVENTION
 
  
@@ -477,15 +489,15 @@ AQUATIC INVASIVE SPECIES PREVENTION
 
  
 
-830.575     Fees for permit
+830.575     Annual fee for permit
 
  
 
-830.580     Rules; contracting services
+830.580     Rules
 
  
 
-830.585     Aquatic Invasive Species Prevention Fund
+830.585     Aquatic Invasive Species Prevention Fund; uses of fund
 
  
 
@@ -493,11 +505,15 @@ AQUATIC INVASIVE SPECIES PREVENTION
 
  
 
-830.587     Definitions for ORS 830.589, 830.594 and 830.999
+830.587     Definitions for ORS 830.589, 830.591, 830.594, 830.998 and 830.999
 
  
 
-830.589     Watercraft check stations; rules
+830.589     Watercraft check stations; rules; penalty
+
+ 
+
+830.591     Request to proceed to nearest station; penalty
 
  
 
@@ -514,6 +530,62 @@ SEAPLANES
  
 
 830.605     State Marine Board and Oregon Department of Aviation to distribute information on regulation of seaplanes
+
+ 
+
+WATERWAY ACCESS
+
+ 
+
+830.615     Waterway Access Fund
+
+ 
+
+830.618     Grants for nonmotorized boat waterway access; rules
+
+ 
+
+830.621     Grants for boating safety education, boating equipment and waterway access to underserved communities; rules
+
+ 
+
+830.624     Permit requirements for person 14 years of age or older; exceptions; rules
+
+ 
+
+830.627     Fees for issuance of permit
+
+ 
+
+830.630     Issuance of permits; agents
+
+ 
+
+TOWED WATERSPORTS PROGRAM
+
+ 
+
+830.640     Towed watersports program
+
+ 
+
+830.643     Towed watersports endorsement and certificate; issuance; fees; rules
+
+ 
+
+830.646     Fees; rules
+
+ 
+
+830.649     Newberg Pool Congested Zone
+
+ 
+
+830.652     Additional penalties for violations occurring within Newberg Pool Congested Zone
+
+ 
+
+830.655     Suspension
 
  
 
@@ -923,7 +995,7 @@ GENERAL PROVISIONS
 
       830.080 Boating Offense Compact. The Boating Offense Compact is enacted into law and entered into on behalf of this state with all other states legally joining therein in a form substantially as follows:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -939,15 +1011,11 @@ Findings and Declaration of Policy
 
       (2) It is the policy of each of the party states to promote compliance with the laws, ordinances and administrative rules and regulations relating to the operation of boats by their operators in each of the jurisdictions where such operators operate boats.
 
- 
-
 ARTICLE II
 
 Definition
 
       As used in this compact, “state” means a state that has entered into this compact.
-
- 
 
 ARTICLE III
 
@@ -961,8 +1029,6 @@ Concurrent Jurisdiction
 
       (b) A prohibited conduct by the party state.
 
- 
-
 ARTICLE IV
 
 Entry Into Force and Withdrawal
@@ -971,15 +1037,17 @@ Entry Into Force and Withdrawal
 
       (2) Any party state may withdraw from this compact by enacting a statute repealing the same.
 
- 
-
 ARTICLE V
 
 Construction and Severability
 
       This compact shall be liberally construed so as to effectuate the purposes thereof. The provisions of this compact shall be severable and if any phrase, clause, sentence or provision of this compact is declared to be contrary to the constitution of any party state or of the United States or the applicability thereof to any government, agency, person or circumstance is held invalid, the validity of the remainder of this compact and the applicability thereof to any government, agency, person or circumstance shall not be affected thereby. If this compact shall be held contrary to the constitution of any state party thereto, the compact shall remain in full force and effect as to the remaining states and in full force and effect as to the state affected as to all severable matters.
 
-______________________________________________________________________________ [1991 c.590 §5]
+ 
+
+ 
+
+[1991 c.590 §5]
 
  
 
@@ -999,25 +1067,23 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-      830.084 Requirements for mandatory boating safety education program; certificate; fee. In establishing the mandatory boating safety education program pursuant to ORS 830.082, the State Marine Board shall:
+      830.084 Requirements for mandatory boating safety education program; education card; rules; fee. In establishing the mandatory boating safety education program pursuant to ORS 830.082, the State Marine Board shall:
 
-      (1) Set a minimum standard of boating safety education competency. The standard shall be consistent with the applicable standard established by the National Association of State Boating Law Administrators. The board may update the minimum standard of competency as necessary.
+      (1) Set a minimum standard of boating safety education. The minimum standard shall be consistent with the applicable standard established or approved by the National Association of State Boating Law Administrators. The board by rule may update the minimum standard as necessary.
 
-      (2) Create a boating safety course of instruction and examination designed to educate and test for the minimum standard of safety established pursuant to subsection (1) of this section.
+      (2) Create a boating safety course and examination designed to educate and test for the minimum standard established pursuant to subsection (1) of this section.
 
       (3) Create an equivalency exam that may substitute for taking the boating safety course.
 
       (4) Incorporate volunteer boating safety education programs to the maximum extent possible.
 
-      (5) Allow use of commercially provided boating safety courses, provided they meet the standard adopted by the board.
+      (5) Allow use of commercially provided boating safety courses, provided the courses meet the standard adopted by the board.
 
       (6) Accept proof of prior completion of any approved boating safety course as meeting the requirement for a boating safety course.
 
-      (7) Establish a fee for the boating safety certificate issued under ORS 830.086 that may not exceed $10.
+      (7) Establish a fee for the boating safety education card issued under ORS 830.086 that may not exceed $20.
 
-      (8) Establish a temporary boating safety certificate that is valid for 60 days and issued in conjunction with a temporary certificate of number for newly acquired boats.
-
-      (9) Promote the fact that insurance discounts of 10 percent to 15 percent are widely available for taking a boating safety course that meets the minimum standard established pursuant to subsection (1) of this section. [1999 c.716 §3; 2001 c.104 §311]
+      (8) Promote the fact that insurance discounts of 10 percent to 15 percent are widely available for taking a boating safety course that meets the minimum standard established pursuant to subsection (1) of this section. [1999 c.716 §3; 2001 c.104 §311; 2019 c.156 §1; 2019 c.389 §1]
 
  
 
@@ -1025,13 +1091,13 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-      830.086 Boating safety certificate; requirements; fee. A person may obtain a boating safety certificate if the person:
+      830.086 Boating safety education card; requirements; fee. A person may obtain a boating safety education card if the person:
 
       (1) Is at least 12 years of age;
 
-      (2) Passes the boating safety course and examination, or the equivalency exam, as described in ORS 830.084, or submits proof to the satisfaction of the State Marine Board that the person has taken a course that is substantively equivalent to the course described in ORS 830.084; and
+      (2) Passes the boating safety course and examination described in ORS 830.084 (2), or the equivalency exam described in ORS 830.084 (3), or submits proof to the satisfaction of the State Marine Board that the person has taken a boating safety course that is substantively equivalent to the boating safety course described in ORS 830.084; and
 
-      (3) Pays the fee required by the board. [1999 c.716 §4; 2001 c.104 §312]
+      (3) Pays the fee required by the board. [1999 c.716 §4; 2001 c.104 §312; 2019 c.156 §3; 2019 c.431 §9]
 
  
 
@@ -1039,7 +1105,7 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-      830.088 Operation of motorboat by person 12 to 15 years of age. A person 12 to 15 years of age with a boating safety certificate may operate a motorboat with an engine of 10 horsepower or less. In addition, a person 12 to 15 years of age with a boating safety certificate may operate a motorboat with an engine greater than 10 horsepower if accompanied by and under the direct supervision of a parent, guardian or responsible person 16 years of age or older who possesses a boating safety certificate. [1999 c.716 §5]
+      830.088 Operation of motorboat by person 12 to 15 years of age. A person 12 to 15 years of age who has obtained a boating safety education card may operate a motorboat with an engine of 10 horsepower or less. In addition, a person 12 to 15 years of age who has obtained a boating safety education card may operate a motorboat with an engine greater than 10 horsepower if accompanied by and under the direct supervision of a parent, guardian or responsible person 16 years of age or older who has obtained a boating safety education card. [1999 c.716 §5; 2019 c.156 §4; 2019 c.431 §10]
 
  
 
@@ -1051,9 +1117,9 @@ MANDATORY BOATING SAFETY EDUCATION
 
       (1)(a) Is at least 16 years of age; and
 
-      (b) Obtains a boating safety certificate pursuant to ORS 830.086; or
+      (b) Obtains a boating safety education card pursuant to ORS 830.086; or
 
-      (2) Is accompanied by and under the direct supervision of a person 16 years of age or older who has obtained a boating safety certificate pursuant to ORS 830.086. [1999 c.716 §6]
+      (2) Is accompanied by and under the direct supervision of a person 16 years of age or older who has obtained a boating safety education card pursuant to ORS 830.086. [1999 c.716 §6; 2019 c.156 §5; 2019 c.431 §11]
 
  
 
@@ -1061,21 +1127,15 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-      830.092 Exemption from requirement to obtain boating safety certificate. A boating safety certificate is not required if a person:
+      830.092 Exemption from requirement to obtain boating safety education card. A boating safety education card is not required if a person:
 
       (1) Is at least 16 years of age and rents a motorboat with an engine greater than 10 horsepower and completes a required dockside safety checklist before operating the boat;
 
       (2) Possesses a current commercial fishing license as required by ORS 508.235;
 
-      (3) Possesses a valid United States Coast Guard commercial motorboat operator’s license;
+      (3) Possesses a valid United States Coast Guard commercial motorboat operator’s license; or
 
-      (4) Is not a resident of this state and does not operate a boat with an engine greater than 10 horsepower in Oregon waters for more than 60 consecutive days;
-
-      (5) Is not a resident of this state, holds a current out-of-state boating safety certificate and has the out-of-state certificate in the person’s possession;
-
-      (6) Holds a temporary certificate as described under ORS 830.084; or
-
-      (7) Is not yet required to have a certificate under the phase-in program developed by the State Marine Board pursuant to section 9, chapter 716, Oregon Laws 1999. [1999 c.716 §7; 2003 c.14 §499]
+      (4) Is not a resident of this state, holds a boating safety education card approved by the National Association of State Boating Law Administrators and has the card in the person’s possession. [1999 c.716 §7; 2003 c.14 §499; 2019 c.156 §2]
 
  
 
@@ -1083,7 +1143,7 @@ MANDATORY BOATING SAFETY EDUCATION
 
  
 
-      830.094 Boating safety certificate required to operate motorboat. A person shall carry a boating safety certificate on the boat while operating a motorboat, as required, and shall present the certificate to a peace officer upon request by the peace officer. [1999 c.716 §8; 2003 c.14 §500]
+      830.094 Boating safety education card required to operate motorboat. A person operating a motorboat shall carry the person’s boating safety education card on the boat and shall present the card to a peace officer upon request by the peace officer. [1999 c.716 §8; 2003 c.14 §500; 2019 c.156 §6]
 
  
 
@@ -1123,7 +1183,7 @@ STATE MARINE BOARD
 
       (3) Cooperate with state and federal agencies to promote uniformity of the laws relating to boating and their enforcement.
 
-      (4) Make contracts necessary to carry out the provisions of ORS 830.060 to 830.140, 830.700 to 830.715, 830.725, 830.730, 830.770, 830.780, 830.785, 830.795 to 830.820 and 830.830 to 830.870.
+      (4) Make contracts necessary to carry out the provisions of ORS 830.060 to 830.140, 830.565 to 830.575, 830.630, 830.640 to 830.649, 830.700 to 830.715, 830.725, 830.730, 830.770, 830.780, 830.785, 830.795 to 830.820 and 830.830 to 830.870.
 
       (5) Advise and assist county sheriffs and other peace officers in the enforcement of laws relating to boating.
 
@@ -1139,13 +1199,7 @@ STATE MARINE BOARD
 
       (b) The secretary of the department of the federal government under which the United States Coast Guard is operating has exempted from numbering the same boats or classes of boats.
 
-      (10) Appoint and require the bonding of agents to issue a temporary permit to operate a boat. In addition to the prescribed fees, the agents may charge the following for their services in issuing the temporary permit:
-
-      (a) $2.50 per transaction for calendar years 2008, 2009 and 2010;
-
-      (b) $3.75 per transaction for calendar years 2011, 2012 and 2013; and
-
-      (c) Beginning in 2014, and every three years thereafter, the board shall issue an order revising the fee specified in paragraph (b) of this subsection on January 1, based on changes in the Portland-Salem, OR-WA, Consumer Price Index for All Urban Consumers for All Items, as published by the Bureau of Labor Statistics of the United States Department of Labor. The board shall round the amount of the fee to the nearest half-dollar. The revised fee takes effect on January 1 and applies for the following three years.
+      (10) Appoint and require the bonding of agents to issue a temporary permit to operate a boat. In addition to the prescribed fees, the agents may charge a fee prescribed by the board for their services in issuing the temporary permit. Every three years the board shall issue an order revising the fee imposed under this subsection on January 1, based on changes in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor. The board shall round the amount of the fee to the nearest half-dollar. The revised fee takes effect on January 1 and applies for the following three years.
 
       (11) Publish and distribute to the interested public the boating laws of this state and resumes or explanations of those laws.
 
@@ -1167,7 +1221,7 @@ STATE MARINE BOARD
 
       (18) Adopt rules providing for establishment of a Safe Boating Education Course to be made available to courts and law enforcement agencies within this state for use as a sentencing option for those individuals convicted of boating offenses. The board shall specify the content of the Safe Boating Education Course and shall prescribe procedures for making the course available to local courts and law enforcement agencies, including procedures for promptly notifying such courts whether individuals required to enroll in the course have taken and successfully passed the course. Such rules may provide for administration of the course through nonprofit organizations, such as the United States Coast Guard Auxiliary, United States Power Squadrons or similar groups.
 
-      (19) For purposes of ORS 830.175, 830.180, 830.185, 830.187 and 830.195, in cooperation with the State Aviation Board, regulate boats that are seaplanes as provided in ORS 830.605 and 835.200. [Formerly 488.830; 1991 c.759 §6; 1991 c.931 §1; 1995 c.655 §9; 2001 c.104 §315; 2003 c.14 §501; 2007 c.147 §1; 2009 c.595 §1151; 2013 c.186 §5]
+      (19) For purposes of ORS 830.175, 830.180, 830.185, 830.187 and 830.195, in cooperation with the State Aviation Board, regulate boats that are seaplanes as provided in ORS 830.605 and 835.200. [Formerly 488.830; 1991 c.759 §6; 1991 c.931 §1; 1995 c.655 §9; 2001 c.104 §315; 2003 c.14 §501; 2007 c.147 §1; 2009 c.595 §1151; 2013 c.186 §5; 2019 c.57 §38; 2019 c.154 §7a; 2019 c.507 §10a; 2019 c.651 §6]
 
  
 
@@ -1289,81 +1343,99 @@ REGULATIONS FOR SPECIFIC AREAS
 
       (3) The board may make special regulations relating to the operation of boats, including the establishment of designated speeds and prohibition of the use of motorboats for the protection of game and game fish at the request of the State Fish and Wildlife Commission, or for carrying out the provisions of the federal Wild and Scenic Rivers Act, Public Law 90-542, and the Oregon Scenic Waterways Act, ORS 390.805 to 390.925. Action necessary to implement this section, including but not limited to the operation and manner of operation of boats, shall be by a permit system initiated by the board.
 
-      (4) The board may designate certain rivers or sections of rivers as hazardous. In making such designations, the board may consider recommendations of guide associations incorporated in this state.
+      (4)(a) The board may make special regulations relating to the operation of boats on the Willamette River within the Willamette River Greenway, including the establishment of designated speeds or other methods to manage boat wake energy, as may be needed for the protection of the shoreline, public and private property, fish and wildlife habitat and vegetation. When adopting regulations under this subsection, the board shall take into consideration the statewide land use planning goals and guidelines adopted by the Land Conservation and Development Commission to protect, conserve and maintain the natural, scenic, historical, agricultural, economic and recreational qualities of lands along the Willamette River Greenway.
 
-      (5) Regulations regarding operation of boats pursuant to this section shall be adopted in accordance with the provisions of ORS chapter 183.
+      (b) Paragraph (a) of this subsection does not apply to deep draft vessels, tugboats, towboats, barges, launch vessels and other commercial vessels, as those terms are defined by the board by rule, engaged in marine commerce or the transportation of cargo on the Willamette River beginning at river mile 0 and ending at river mile 26.
 
-      (6) Any speeds in excess of the speeds designated by the board, as provided in this section, shall be prima facie evidence of the violation of ORS 830.315. [Formerly 488.600]
+      (5) The board may designate certain rivers or sections of rivers as hazardous. In making such designations, the board may consider recommendations of guide associations incorporated in this state.
 
- 
+      (6) Regulations regarding operation of boats pursuant to this section shall be adopted in accordance with the provisions of ORS chapter 183.
 
-      830.180 Use of motors prohibited on certain lakes; exceptions. No person, other than the Department of State Police and governmental agencies of this state and the federal government having jurisdiction over the following described waters, shall use a motor for propelling a boat or for any purpose on the following named waters of this state located in the counties named:
-
-______________________________________________________________________________
+      (7) Any speeds in excess of the speeds designated by the board, as provided in this section, shall be prima facie evidence of the violation of ORS 830.315. [Formerly 488.600; 2019 c.192 §1]
 
  
 
-Counties                    Lakes, Reservoirs and Rivers
+      830.180 Use of motors prohibited on certain lakes; exceptions; rules. (1) Except as provided in subsections (2) and (3) of this section, a person may not use a motor for propelling a boat or for any purpose on the following named waters of this state:
 
  
 
-Clackamas                 Trillium Lake
+ 
+
+Counties                                            Lakes, Reservoirs and Rivers
 
  
 
-Deschutes                  Charlton, Devils, Irish, Lucky,
-
-                                   North and South Twin, Taylor,
-
-                                   Three Creek and Todd Lakes
+Clackamas                                         Trillium Lake
 
  
 
-Douglas                     Opal and Timpanagos Lakes
+Deschutes                                          Charlton, Devils, Irish, Lucky,
+
+North and South Twin, Taylor,
+
+Three Creek and Todd Lakes
 
  
 
-Hood River                Lost Lake
+Douglas                                             Opal and Timpanagos Lakes
 
  
 
-Jackson                      Squaw Lakes
+Hood River                                        Lost Lake
 
  
 
-Jefferson                    Horseshoe, Dark and Olallie
-
-                                   Lakes, and on that portion of
-
-                                   the Deschutes River between
-
-                                   Pelton Dam and the Wasco
-
-                                   County line
+Jackson                                              Squaw Lakes
 
  
 
-Lane                           Gold Lake
+Jefferson                                            Horseshoe, Dark and Olallie
+
+                                                           Lakes, and on that portion of
+
+                                                           the Deschutes River between
+
+                                                           Pelton Dam and the Wasco
+
+                                                           County line
 
  
 
-Linn                           Clear Lake
+Lane                                                   Gold Lake
 
  
 
-Marion                       Breitenbush Lake
+Linn                                                   Clear Lake
 
  
 
-Wasco                        Frog Lake, and on that portion
+Marion                                               Breitenbush Lake
 
-                                   of the Deschutes River
+ 
 
-                                   bordering the Warm Springs
+Wasco                                                Frog Lake, and on that portion
 
-                                   Indian Reservation
+                                                           of the Deschutes River
 
-______________________________________________________________________________ [Formerly 488.610]
+                                                           bordering the Warm Springs
+
+                                                           Indian Reservation
+
+ 
+
+ 
+
+      (2) The following may use a motor to propel a boat on the named waters described in this section:
+
+      (a) Public bodies, as defined in ORS 174.109, that have jurisdiction of the named waters described in this section; and
+
+      (b) The federal government.
+
+      (3) A person not otherwise described in subsection (2) of this section may use a motor to propel a boat on a specific named water described in this section if:
+
+      (a) The motor is an electric motor operated at a maximum of slow-no wake speed as defined by the State Marine Board by rule; and
+
+      (b) The board adopts a rule authorizing the use described in paragraph (a) of this subsection on a specific named water described in this section. [Formerly 488.610; 2019 c.214 §1]
 
  
 
@@ -1371,35 +1443,39 @@ ______________________________________________________________________________ [
 
       (2) A person may not operate a boat with an outboard or inboard motor at a speed in excess of 10 miles per hour on the following named waters of this state located in the counties named:
 
-______________________________________________________________________________
-
-Counties                   Lakes and Reservoirs
+ 
 
  
 
-Clackamas               On that portion of the waters of the reservoir known as North Fork Reservoir which lies upstream from a line drawn across the reservoir at right angles to the thread of the stream at a point 2.3 miles upstream from the North Fork Dam measured along the thread of the stream
+Counties          Lakes and Reservoirs
 
  
 
-Deschutes                Hosmer, Lava, Little Cultus, Little Lava, Sparks Lakes and Crane Prairie Reservoir
+Clackamas      On that portion of the waters of the reservoir known as North Fork Reservoir which lies upstream from a line drawn across the reservoir at right angles to the thread of the stream at a point 2.3 miles upstream from the North Fork Dam measured along the thread of the stream
 
  
 
-Jefferson                  On that portion of the waters behind Pelton Dam, known as Lake Simtustus, which lies upstream from a line drawn across the lake at right angles to the thread of the stream at a point 0.85 miles upstream from the Pelton Dam measured along the thread of the stream
+Deschutes       Hosmer, Lava, Little Cultus, Little Lava, Sparks Lakes and Crane Prairie Reservoir
 
  
 
-Klamath                   That portion of Upper Klamath Lake that lies west of a line beginning at a point on the north shore of Pelican Bay one-quarter mile east of Crystal Creek and extending due south to the opposite shore of the lake; any stream, creek or canal that leads into the portion of Upper Klamath Lake described above including Crystal Creek, Recreation Creek and Four-Mile Creek, also known as Harriman Creek
+Jefferson         On that portion of the waters behind Pelton Dam, known as Lake Simtustus, which lies upstream from a line drawn across the lake at right angles to the thread of the stream at a point 0.85 miles upstream from the Pelton Dam measured along the thread of the stream
 
  
 
-Linn                         Smith and Trailbridge Reservoirs
+Klamath          That portion of Upper Klamath Lake that lies west of a line beginning at a point on the north shore of Pelican Bay one-quarter mile east of Crystal Creek and extending due south to the opposite shore of the lake; any stream, creek or canal that leads into the portion of Upper Klamath Lake described above including Crystal Creek, Recreation Creek and Four-Mile Creek, also known as Harriman Creek
 
  
 
-Wasco                      Clear Lake
+Linn                Smith and Trailbridge Reservoirs
 
-______________________________________________________________________________
+ 
+
+Wasco             Clear Lake
+
+ 
+
+ 
 
       (3)(a) The State Marine Board shall establish an appropriate decibel rating and speed restriction on Diamond Lake in Douglas County to allow recreational boating that is not limited to fishing. Recreational boating does not include operating a jet ski or similar personal watercraft. The speed established by the board:
 
@@ -1523,21 +1599,41 @@ BOATING OPERATIONS
 
  
 
+      830.302 Draining water from boat; exceptions. (1) Except as provided in subsection (2) of this section, after leaving the waters of this state with a boat, a person shall remove or open all drain plugs, bailers, valves or other devices used to control the draining of water from ballast tanks, bilges, livewells and motorwells before transporting a boat within this state.
+
+      (2) Subsection (1) of this section does not apply to:
+
+      (a) Marine sanitation devices;
+
+      (b) A person who holds a permit issued pursuant to ORS 498.222 to transport live fish;
+
+      (c) A person participating in a fishing tournament authorized by the State Department of Fish and Wildlife, except that after weighing the fish the person shall return to the boat launch site and drain the boat as required under subsection (1) of this section;
+
+      (d) Boats operated by a peace officer; or
+
+      (e) Boats operated by an emergency responder, as defined by the State Marine Board by rule. [2019 c.154 §2]
+
+ 
+
+      Note: 830.302 was added to and made a part of ORS chapter 830 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       830.305 Unsafe operation. A person commits the crime of unsafe operation of a boat if the person operates a boat in a manner that endangers or would be likely to endanger any person or property. [Formerly 488.099]
 
  
 
-      830.315 Reckless operation; speed. (1) A person commits the crime of reckless operation of a boat who operates a boat carelessly and heedlessly in willful or wanton disregard of the rights, safety or property of others.
+      830.315 Reckless boating; speed. (1) A person commits the crime of reckless boating if the person recklessly operates a boat in a manner that endangers the safety of persons or property. As used in this subsection, “recklessly” has the meaning given that term in ORS 161.085.
 
-      (2) No person shall operate any boat at a rate of speed greater than will permit that person in the exercise of reasonable care to bring the boat to a stop within the assured clear distance ahead.
+      (2) A person may not operate any boat at a rate of speed greater than will permit that person in the exercise of reasonable care to bring the boat to a stop within the assured clear distance ahead.
 
-      (3) Nothing in ORS 830.005, 830.015 to 830.050, 830.175, 830.210 to 830.420 and 830.475 to 830.490 is intended to prevent the operator of a boat actually competing in an event which is authorized as provided in ORS 830.375 from attempting to attain high speeds on a marked racing course. [Formerly 488.100]
+      (3) Nothing in ORS 830.005, 830.015 to 830.050, 830.175, 830.210 to 830.420 and 830.475 to 830.490 is intended to prevent the operator of a boat actually competing in an event that is authorized as provided in ORS 830.375 from attempting to attain high speeds on a marked racing course. [Formerly 488.100; 2019 c.431 §1]
 
  
 
-      830.325 Operating boat while under influence of intoxicating liquor, cannabis or controlled substance. (1) No person under the influence of an intoxicating liquor, cannabis or a controlled substance shall operate, propel or be in actual physical control of any boat on any waters of this state.
+      830.325 Operating boat while under influence of intoxicants. (1) A person under the influence of an intoxicating liquor, cannabis, an inhalant or a controlled substance may not operate, propel or be in actual physical control of any boat on any waters of this state.
 
-      (2) No owner of a boat or person in charge or in control of a boat shall authorize or knowingly permit the boat to be propelled or operated on any waters of this state by any person who is under the influence of an intoxicating liquor, cannabis or a controlled substance. [Formerly 488.160; 1991 c.931 §4; 2017 c.21 §91]
+      (2) An owner of a boat or person in charge or in control of a boat may not authorize or knowingly permit the boat to be propelled or operated on any waters of this state by any person who is under the influence of an intoxicating liquor, cannabis, an inhalant or a controlled substance. [Formerly 488.160; 1991 c.931 §4; 2017 c.21 §91; 2019 c.431 §13]
 
  
 
@@ -1723,7 +1819,7 @@ RENTAL, CHARTER OR LIVERY GENERALLY
 
  
 
-      830.410 Operator of boat livery to provide properly equipped boats. No operator of a boat livery shall permit any boat the operator rents to depart from the livery premises unless the boat is equipped as provided under ORS 830.005, 830.015 to 830.050, 830.175, 830.210 to 830.420 and 830.475 to 830.490. [Formerly 488.025]
+      830.410 Operator of boat livery to provide properly equipped boats. An operator of a boat livery may not permit any boat the operator rents to depart from the livery premises unless the boat is equipped as provided under ORS 830.015 to 830.050, 830.175, 830.210 to 830.420 and 830.475 to 830.490. [Formerly 488.025; 2019 c.155 §3]
 
  
 
@@ -1746,6 +1842,26 @@ RENTAL, CHARTER OR LIVERY GENERALLY
       (2) Designated representatives of the board may annually inspect all rental or charter boats to check for the equipment required by the board. Any inspections conducted shall be coordinated with other state and federal agencies to minimize duplication of vessel inspections and boardings.
 
       (3) After a hearing upon 10 days’ notice to the owner of the boat, the board may cancel or revoke the certificate of number for any boat rented or chartered to the public if it does not equal or exceed the minimum equipment requirements provided by the board. [Formerly 488.026]
+
+ 
+
+      830.425 Minimum requirements for boat livery operation. (1) A person may not act as an operator of a boat livery without a boat livery registration issued by the State Marine Board.
+
+      (2) Application for a boat livery registration must be made in the form prescribed by the board and must contain the following:
+
+      (a) The applicant’s name.
+
+      (b) The applicant’s business address and telephone number.
+
+      (c) Proof of registration with the Secretary of State, if required.
+
+      (d) The number and types of boats provided by the livery at the time of registration.
+
+      (e) Any other information the board considers necessary.
+
+      (3) Every two years, each operator of a boat livery shall renew the boat livery registration by submitting a renewal application in the form prescribed by the board.
+
+      (4) An operator of a boat livery shall display proof of compliance with this section in the form and manner prescribed by the board. [2019 c.155 §2]
 
  
 
@@ -2005,15 +2121,23 @@ BOATING UNDER INFLUENCE OF INTOXICANTS
 
       830.505 Implied consent to chemical tests for intoxicants; refusal to submit; consequences. (1) Any person who operates a boat on any waters of this state shall be deemed to have given consent to submit to chemical tests of the person’s breath for the purpose of determining the alcoholic content of the person’s blood if the person is arrested for operating a boat while under the influence of intoxicants while in violation of ORS 830.325 or of a municipal ordinance. Tests shall be administered upon the request of a peace officer having reasonable grounds to believe that the person arrested was operating a boat while under the influence of intoxicants while in violation of ORS 830.325 or of a municipal ordinance. Before the test is administered, the person requested to take the test shall be informed of rights and consequences as described in ORS 830.545.
 
-      (2) No chemical test of the person’s breath shall be given under subsection (1) of this section, to a person under arrest for operating a boat while under the influence of intoxicants in violation of ORS 830.325 or of a municipal ordinance, if the person refuses the request of a peace officer to submit to the chemical test after the person has been informed of rights and consequences as described in ORS 830.545.
+      (2) Any person who operates a boat on any waters of this state shall be deemed to have given consent to submit to chemical tests of the person’s urine for the purpose of determining the presence of cannabis, a controlled substance or an inhalant in the person’s body if the person is arrested for operating a boat while under the influence of intoxicants while in violation of ORS 830.325 or of a municipal ordinance. Tests shall be administered upon the request of a peace officer having reasonable grounds to believe that the person arrested was operating a boat while under the influence of intoxicants while in violation of ORS 830.325 or of a municipal ordinance. Before the test is administered, the person requested to take the test shall be informed of rights and consequences as described in ORS 830.545.
 
-      (3) Within the time required by the State Marine Board by rule, the arresting officer shall report the following information to the board:
+      (3) A person asked to give a urine sample shall be given privacy and may not be observed by a peace officer when producing the sample.
 
-      (a) Whether the person refused to submit to a test.
+      (4)(a) At the trial of any civil or criminal action, suit or proceeding arising out of the acts committed by a person operating a boat while under the influence of intoxicants, a valid chemical analysis of a person’s urine is admissible as evidence and may be used with other evidence, if any, to determine whether the person was operating a boat while under the influence of intoxicants.
+
+      (b) A chemical analysis of a person’s urine is valid if analysis is performed in an accredited or licensed toxicology laboratory.
+
+      (5) Within the time required by the State Marine Board by rule, the arresting officer shall report the following information to the board:
+
+      (a) Whether the person refused to physically submit to a test.
 
       (b) Whether the person was informed of rights and consequences as described under ORS 830.545.
 
-      (4) A report required by this section may be made on one or more forms provided by the board. [1991 c.931 §7]
+      (6) A report required by this section may be made on one or more forms provided by the board.
+
+      (7) Nothing in this section precludes a peace officer from obtaining a chemical test through any lawful means for use as evidence in a criminal or civil proceeding including, but not limited to, obtaining a search warrant. [1991 c.931 §7; 2019 c.431 §14]
 
  
 
@@ -2027,23 +2151,23 @@ BOATING UNDER INFLUENCE OF INTOXICANTS
 
  
 
-      830.515 Evidence of refusal to submit to test in legal proceeding. If a person refuses or fails to submit to chemical tests of the breath, blood or urine as required by ORS 830.505 and 830.520, evidence of the person’s refusal or failure to submit is admissible in any criminal or civil action or proceeding arising out of acts alleged to have been committed while the person was operating a boat while under the influence of intoxicating liquor, cannabis or controlled substances. [1991 c.931 §8; 2017 c.21 §93]
+      830.515 Evidence of refusal to submit to test in legal proceeding. If a person refuses or fails to physically submit to chemical tests of the breath or urine as required by ORS 830.505, evidence of the person’s refusal or failure to physically submit is admissible in any criminal or civil action or proceeding arising out of acts alleged to have been committed while the person was operating a boat while under the influence of an intoxicating liquor, cannabis, an inhalant or a controlled substance. [1991 c.931 §8; 2017 c.21 §93; 2019 c.431 §15]
 
  
 
-      830.520 Circumstances under which chemical tests may be administered. Nothing in ORS 830.505 is intended to preclude the administration of chemical tests described in this section. A peace officer may obtain a chemical test of the blood to determine the amount of alcohol in any person’s blood or a test of the person’s blood or a test of the person’s blood or urine, or both, to determine the presence of cannabis or a controlled substance in the person as provided in the following:
+      830.520 Circumstances under which chemical tests may be administered. Nothing in ORS 830.505 is intended to preclude the administration of chemical tests described in this section. A peace officer may obtain a chemical test of the blood to determine the amount of alcohol in any person’s blood or a test of the person’s blood or a test of the person’s blood or urine, or both, to determine the presence of cannabis, an inhalant or a controlled substance in the person as provided in the following:
 
       (1) If, when requested by a peace officer, the person expressly consents to such a test.
 
       (2) Notwithstanding subsection (1) of this section, from a person without the person’s consent if:
 
-      (a) The peace officer has probable cause to believe that the person was operating a boat while under the influence of an intoxicating liquor, cannabis or a controlled substance and that evidence of the offense will be found in the person’s blood or urine; and
+      (a) The peace officer has probable cause to believe that the person was operating a boat while under the influence of an intoxicating liquor, cannabis, an inhalant or a controlled substance and that evidence of the offense will be found in the person’s blood or urine; and
 
-      (b) The person is unconscious or otherwise in a condition rendering the person incapable of expressly consenting to the test or tests requested. [1991 c.931 §9; 2017 c.21 §94]
+      (b) The person is unconscious or otherwise in a condition rendering the person incapable of expressly consenting to the test or tests requested. [1991 c.931 §9; 2017 c.21 §94; 2019 c.431 §16]
 
  
 
-      830.525 Chemical tests obtained by subject. In addition to chemical tests of the breath, blood or urine administered under ORS 830.505 and 830.520, upon the request of a peace officer, a person shall be permitted upon request, at the person’s own expense, reasonable opportunity to have any licensed physician, licensed professional nurse or qualified technician, chemist or other qualified person of the person’s own choosing administer a chemical test or tests of the person’s breath or blood for the purpose of determining the alcoholic content of the person’s blood or a chemical test or tests of the person’s blood or urine, or both, for the purpose of determining the presence of cannabis or a controlled substance in the person. The failure or inability to obtain such a test or tests by a person shall not preclude the admission of evidence relating to a test or tests taken upon the request of a peace officer. [1991 c.931 §10; 2017 c.21 §95]
+      830.525 Chemical tests obtained by subject. In addition to chemical tests of the breath, blood or urine administered under ORS 830.505 and 830.520, upon the request of a peace officer, a person shall be permitted upon request, at the person’s own expense, reasonable opportunity to have any licensed physician, licensed professional nurse or qualified technician, chemist or other qualified person of the person’s own choosing administer a chemical test or tests of the person’s breath or blood for the purpose of determining the alcoholic content of the person’s blood or a chemical test or tests of the person’s blood or urine, or both, for the purpose of determining the presence of cannabis, an inhalant or a controlled substance in the person. The failure or inability to obtain such a test or tests by a person shall not preclude the admission of evidence relating to a test or tests taken upon the request of a peace officer. [1991 c.931 §10; 2017 c.21 §95; 2019 c.431 §17]
 
  
 
@@ -2083,33 +2207,53 @@ BOATING UNDER INFLUENCE OF INTOXICANTS
 
       (1) The information about rights and consequences shall be substantially in the form prepared by the State Marine Board. The board may establish any form it determines appropriate and convenient.
 
-      (2) The information about rights and consequences shall be substantially as follows:
+      (2) Except as provided in subsection (3) of this section, the information about rights and consequences shall be substantially as follows:
 
-      (a) Operating a boat under the influence of intoxicants is a crime in Oregon and the person is subject to criminal penalties if the test shows that the person is under the influence of intoxicants. If the person refuses the test or fails, evidence of the refusal or failure may also be offered against the person.
+      (a) Operating a boat while under the influence of intoxicants is a crime in Oregon and the person is subject to criminal penalties if the test shows that the person is under the influence of intoxicants. If the person fails a test, evidence of the failure may also be offered against the person.
 
       (b) The person fails the test if the test shows the person is under the influence of intoxicants under Oregon law.
 
       (c) If the person is convicted of operating a boat while under the influence of intoxicants, the person may not operate a boat for a period of time following the conviction.
 
-      (d) If the person is convicted of operating a boat while under the influence of intoxicants, the person is not eligible to apply for any certificate of title, registration or numbering and all certificates of title, registration and numbering necessary to lawfully operate a boat on Oregon waters shall be canceled for at least a year. The ineligibility to apply for certificates or the cancellation of the certificates shall be substantially longer if the person refuses the test.
+      (d) If the person is convicted of operating a boat while under the influence of intoxicants, the following apply for one year:
+
+      (A) The person is not eligible to apply for any certificate of title, registration or numbering; and
+
+      (B) The person’s boating safety education card is suspended.
 
       (e) After taking the test, the person shall have a reasonable opportunity, upon request, for an additional chemical test for blood alcohol content to be performed at the person’s own expense by a qualified individual of the person’s choosing.
 
-      (3) Nothing in this section prohibits the board from providing additional information concerning rights and consequences that the board considers appropriate or convenient. [1991 c.931 §12]
+      (3) A person who refuses to submit to a chemical test after being informed of the rights and consequences in subsection (2) of this section shall be provided additional information, substantially as follows:
+
+      (a) If the person refuses to provide consent to a breath or urine test, and is thereafter requested to provide only physical cooperation to submit to a breath or urine test and the person refuses to physically submit to a test, evidence of that refusal may be offered against the person.
+
+      (b) If the person refuses to physically submit to the test, the following apply for three years:
+
+      (A) The person is not eligible to apply for any certificate of title, registration or numbering; and
+
+      (B) The person’s boating safety education card is suspended.
+
+      (4) Notwithstanding subsection (3) of this section, the board may not impose the penalties described in subsection (3)(b) of this section for refusal to provide a urine sample if the person provides documentation from a physician licensed by this state showing that the person has a medical condition that makes it impossible for the person to provide a sample.
+
+      (5) Nothing in this section prohibits the board from providing additional information concerning rights and consequences that the board considers appropriate or convenient. [1991 c.931 §12; 2019 c.431 §6]
 
  
 
-      830.550 Implied consent to field sobriety tests for intoxicants; refusal to submit; consequences. (1) Any person who operates a boat on any waters of this state shall be deemed to have given consent to submit to field sobriety tests upon the request of a peace officer for the purpose of determining if the person is under the influence of intoxicants if the peace officer reasonably suspects that the person has committed the offense of operating a boat while under the influence of intoxicants in violation of ORS 830.325 or a municipal ordinance. Before the tests are administered, the person requested to take the test shall be informed of the consequences of refusing to take or failing to submit to the tests under ORS 830.545.
+      830.550 Implied consent to field sobriety tests for intoxicants; refusal to submit; consequences. (1) Any person who operates a boat on any waters of this state shall be deemed to have given consent to submit to field sobriety tests upon the request of a peace officer for the purpose of determining if the person is under the influence of intoxicants if the peace officer reasonably suspects that the person has committed the offense of operating a boat while under the influence of intoxicants in violation of ORS 830.325 or a municipal ordinance. If the person refuses to consent to field sobriety tests, the person shall be asked to provide only physical cooperation to submit to nontestimonial field sobriety tests and the person shall be informed of the consequences of failing to physically submit to those tests under subsection (2) of this section.
 
-      (2) If a person refuses or fails to submit to field sobriety tests as required by subsection (1) of this section, evidence of the person’s refusal or failure to submit is admissible in any criminal or civil action or proceeding arising out of allegations that the person was operating a boat while under the influence of intoxicants.
+      (2) If a person refuses or fails to physically submit to nontestimonial field sobriety tests as required by subsection (1) of this section and after the person has been informed of the consequences of refusing or failing to physically submit, evidence of the person’s refusal or failure to physically submit is admissible in any criminal or civil action or proceeding arising out of allegations that the person was operating a boat while under the influence of intoxicants.
 
       (3) Within the time required by the State Marine Board by rule, the arresting officer shall report the following information to the board:
 
-      (a) Whether the person refused to submit to a test.
+      (a) Whether the person refused or failed to physically submit to a test.
 
       (b) Whether the person was informed of rights and consequences as described under ORS 830.545.
 
-      (4) A report required by this section may be made on one or more forms provided by the board. [1991 c.931 §13]
+      (4) A report required by this section may be made on one or more forms provided by the board. [1991 c.931 §13; 2019 c.431 §18]
+
+ 
+
+      830.555 Additional penalties for failing to submit to testing for intoxicants. In addition to any other penalty, the State Marine Board shall suspend a person’s boating safety education card issued under ORS 830.086 for three years from the date of conviction if the record of conviction under ORS 830.325 shows that the person willfully refused the request of a peace officer to physically submit to chemical testing of the breath or urine or a nontestimonial field sobriety test under ORS 830.505 and 830.550. [2019 c.431 §5]
 
  
 
@@ -2143,13 +2287,11 @@ AQUATIC INVASIVE SPECIES PREVENTION
 
  
 
-      830.565 Permit required. (1) A person may not operate a manually propelled boat that is 10 feet or more in length or a motorboat on the waters of this state without first obtaining an aquatic invasive species prevention permit from the State Marine Board under ORS 830.570.
-
-      (2) A person who obtains an aquatic invasive species prevention permit for a manually propelled boat may use the permit on any manually propelled boat the person operates on the waters of this state. [2009 c.764 §7]
+      830.565 Permit required. A person may not operate a sailboat that is at least 12 feet in length or a motorboat on the waters of this state without first obtaining an aquatic invasive species prevention permit from the State Marine Board under ORS 830.570. [2009 c.764 §7; 2019 c.507 §12]
 
  
 
-      830.570 Board to issue permit; fees. (1) The State Marine Board shall issue and renew an aquatic invasive species prevention permit to a person who pays the fee for the permit described in ORS 830.575.
+      830.570 Board to issue permit; fees. (1) The State Marine Board shall issue an aquatic invasive species prevention permit to, or renew the permit of, a person who pays the fee for the permit described in ORS 830.575.
 
       (2) The board may appoint agents to issue aquatic invasive species prevention permits.
 
@@ -2157,35 +2299,41 @@ AQUATIC INVASIVE SPECIES PREVENTION
 
       (4) The board may authorize an agent other than a board employee to charge a service fee of $2, in addition to the permit fee, for the issuance service performed by the agent.
 
-      (5) The board shall supply the agents with motorboat and manually propelled boat aquatic invasive species prevention permits. [2009 c.764 §8]
+      (5) The board may supply the agents with aquatic invasive species prevention permits. [2009 c.764 §8; 2019 c.154 §4; 2019 c.507 §13]
 
  
 
-      830.575 Fees for permit. Notwithstanding ORS 830.790 (3), fees for issuance and renewal of an aquatic invasive species prevention permit are as follows:
+      830.575 Annual fee for permit. (1) Notwithstanding ORS 830.790 (3), the annual fee for issuance and renewal of an aquatic invasive species prevention permit for a sailboat that is at least 12 feet in length and not registered in Oregon or a motorboat that is not registered in Oregon is $20.
 
-      (1) The biennial fee for a motorboat issued a certificate of number under ORS 830.795 is $5.
-
-      (2) The annual fee for a manually propelled boat 10 feet or more in length is $5.
-
-      (3) The annual fee for a motorboat operated by a nonresident is $20.
-
-      (4) The annual fee for an operator of a boat livery is:
-
-      (a) $30 for an operator who owns 6 to 10 manually propelled boats;
-
-      (b) $55 for an operator who owns 11 to 20 manually propelled boats; or
-
-      (c) $100 for an operator who owns 21 or more manually propelled boats. [2009 c.764 §9]
+      (2) All fees collected under this section shall be deposited into the Aquatic Invasive Species Prevention Fund established under ORS 830.585. [2009 c.764 §9; 2019 c.154 §5; 2019 c.389 §5; 2019 c.507 §14c]
 
  
 
-      830.580 Rules; contracting services. (1) The State Marine Board shall adopt rules for the implementation and administration of ORS 830.565 to 830.575, including but not limited to the exemption of certain boats from the requirements of ORS 830.565.
-
-      (2) Nothing in ORS 830.565 to 830.575 prevents the board from contracting any service provided under ORS 830.565 to 830.575 to any private person or entity or other unit of government. [2009 c.764 §10]
+      830.580 Rules. The State Marine Board shall adopt rules for the implementation and administration of ORS 830.565 to 830.575, including but not limited to the exemption of certain boats from the requirements of ORS 830.565 and the method for displaying an aquatic invasive species prevention permit. [2009 c.764 §10; 2019 c.154 §6]
 
  
 
-      830.585 Aquatic Invasive Species Prevention Fund. The Aquatic Invasive Species Prevention Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Aquatic Invasive Species Prevention Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the State Marine Board for the purpose of administering the aquatic invasive species prevention permit program under ORS 830.565 to 830.575 and preventing and controlling aquatic invasive species. [2009 c.764 §11]
+      830.585 Aquatic Invasive Species Prevention Fund; uses of fund. (1) The Aquatic Invasive Species Prevention Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Aquatic Invasive Species Prevention Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the State Marine Board.
+
+      (2)(a) The fund consists of:
+
+      (A) Moneys deposited into the fund under ORS 830.575;
+
+      (B) Moneys transferred to the fund from the federal government, other state agencies or local governments;
+
+      (C) Any other moneys appropriated to the fund by the Legislative Assembly; and
+
+      (D) Moneys deposited into the fund under paragraph (b) of this subsection.
+
+      (b) The board may receive gifts, grants or contributions from any source, whether public or private. Moneys received under this paragraph shall be deposited into the fund.
+
+      (3) The board may use the moneys in the fund:
+
+      (a) To pay the administrative costs of the aquatic invasive species prevention permit program;
+
+      (b) To award grants and enter into grant agreements to prevent and control aquatic invasive species; and
+
+      (c) For any other purpose of the board as described in ORS 830.565 to 830.575, 830.589 and 830.594. [2009 c.764 §11; 2019 c.154 §8]
 
  
 
@@ -2197,19 +2345,23 @@ AQUATIC INVASIVE SPECIES PREVENTION
 
  
 
-      830.587 Definitions for ORS 830.589, 830.594 and 830.999. As used in ORS 830.589, 830.594 and 830.999:
+      830.587 Definitions for ORS 830.589, 830.591, 830.594, 830.998 and 830.999. As used in ORS 830.589, 830.591, 830.594, 830.998 and 830.999.
 
-      (1) “Aquatic invasive species” means any aquatic species of wildlife or any freshwater or marine invertebrate, as specified by the State Fish and Wildlife Commission by rule, or any aquatic noxious weeds as specified by the State Department of Agriculture by rule.
+      (1) “Aquatic invasive species” means any aquatic species of wildlife or any freshwater or marine invertebrate the State Fish and Wildlife Commission identifies as a prohibited species by rule, or any aquatic noxious weeds as specified by the State Department of Agriculture by rule.
 
-      (2) “Recreational or commercial watercraft” means any boat, any equipment used to transport a boat and any auxiliary equipment for a boat, including but not limited to attached or detached outboard motors. [Formerly 570.850]
-
-Note: 830.587, 830.589 and 830.594 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 830 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      (2) “Recreational or commercial watercraft” means any boat, any equipment used to transport a boat and any auxiliary equipment for a boat, including but not limited to attached or detached outboard motors. [Formerly 570.850; 2019 c.154 §9]
 
  
 
-      830.589 Watercraft check stations; rules. (1) The State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture may require a person transporting a recreational or commercial watercraft to stop at a check station to inspect the watercraft for the presence of aquatic invasive species. The purpose of the administrative search authorized under this section is to prevent and limit the spread of aquatic invasive species within Oregon.
+      Note: 830.587, 830.589 and 830.594 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 830 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
-      (2) The State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture may decontaminate, or recommend decontamination of, any recreational or commercial watercraft that the agency inspects at a check station operated under authority of this section.
+ 
+
+      830.589 Watercraft check stations; rules; penalty. (1) The State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture may require a person transporting a recreational or commercial watercraft to stop at a check station to inspect the watercraft for the presence of aquatic invasive species. The purpose of the administrative search authorized under this section is to prevent and limit the spread of aquatic invasive species within Oregon.
+
+      (2)(a) The State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture may decontaminate, or order the decontamination of, any recreational or commercial watercraft that the agency inspects at a check station operated under authority of this section. If the State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture orders decontamination, the person transporting the watercraft shall cooperate with the agency to complete the decontamination.
+
+      (b) Failure to cooperate with the ordered decontamination process is subject to penalties under ORS 830.998.
 
       (3) All check stations operated under authority of this section must be plainly marked by signs that comply with all state and federal laws and must be staffed by at least one uniformed employee of the State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture trained in inspection and decontamination of recreational or commercial watercraft.
 
@@ -2217,11 +2369,23 @@ Note: 830.587, 830.589 and 830.594 were enacted into law by the Legislative Asse
 
       (5) Notwithstanding ORS 496.992, a person transporting a recreational or commercial watercraft who stops at a check station for inspection and who cooperates in the decontamination process is not subject to criminal sanctions for possessing or transporting aquatic invasive species.
 
-      (6) The State Department of Fish and Wildlife, the State Marine Board and the State Department of Agriculture may adopt rules to carry out the provisions of this section. [Formerly 570.855]
+      (6) The State Department of Fish and Wildlife, the State Marine Board and the State Department of Agriculture may adopt rules to carry out the provisions of this section. [Formerly 570.855; 2019 c.154 §10]
 
  
 
       Note: See note under 830.587.
+
+ 
+
+      830.591 Request to proceed to nearest station; penalty. (1) When a peace officer stops a person transporting a recreational or commercial watercraft for failing to stop at an aquatic invasive species check station as required under ORS 830.589, the peace officer may request that the person immediately drive to the nearest aquatic invasive species check station and have the watercraft inspected and, if needed, decontaminated, provided that:
+
+      (a) The peace officer has probable cause that the person violated ORS 830.589 by failing to stop at an aquatic invasive species check station; and
+
+      (b) An aquatic invasive species check station is open within five miles of the location of the stop.
+
+      (2) When it is necessary for the person to reverse direction in order to proceed to the nearest aquatic invasive species check station, the peace officer may assist the driver of the vehicle so that the turning movement can be made safely.
+
+      (3) Failure to comply with a peace officer’s request to proceed to the nearest aquatic invasive species check station under subsection (1) of this section is subject to criminal penalties under ORS 830.990. [2019 c.154 §12]
 
  
 
@@ -2239,13 +2403,325 @@ SEAPLANES
 
  
 
-      830.600 Applicability of boating laws to seaplanes. The provisions of ORS 830.172, 830.200, 830.210 to 830.240, 830.245, 830.250, 830.260, 830.270, 830.375, 830.410, 830.415, 830.420, 830.430 to 830.465, 830.700 to 830.870 and 830.880 to 830.895 do not apply to seaplanes as defined in ORS 835.200. [1995 c.655 §3; 1999 c.692 §11]
+      830.600 Applicability of boating laws to seaplanes. The provisions of ORS 830.172, 830.200, 830.210 to 830.240, 830.245, 830.250, 830.260, 830.270, 830.375, 830.410, 830.415, 830.420, 830.425, 830.430 to 830.465, 830.700 to 830.870 and 830.880 to 830.895 do not apply to seaplanes as defined in ORS 835.200. [1995 c.655 §3; 1999 c.692 §11; 2019 c.155 §5]
 
  
 
       830.605 State Marine Board and Oregon Department of Aviation to distribute information on regulation of seaplanes. (1) The State Marine Board and the Oregon Department of Aviation shall cooperate to publish and distribute information concerning laws, rules and regulations that govern seaplane safety and operations in Oregon.
 
       (2) As used in this section, “seaplane” has the meaning given that term in ORS 835.200. [1995 c.655 §5; 2001 c.104 §316; 2005 c.22 §518]
+
+ 
+
+WATERWAY ACCESS
+
+ 
+
+      830.615 Waterway Access Fund. (1) The Waterway Access Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Waterway Access Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the State Marine Board to carry out the provisions of ORS 830.615 to 830.630.
+
+      (2)(a) The fund consists of:
+
+      (A) Moneys deposited into the fund under ORS 830.627.
+
+      (B) Moneys received under paragraph (b) of this subsection.
+
+      (C) Any other moneys appropriated to the fund by the Legislative Assembly.
+
+      (b) The board may receive gifts, grants or contributions from any source, whether public or private. Moneys received under this paragraph shall be deposited into the fund.
+
+      (3) The board may use the moneys in the fund:
+
+      (a) To award grants as provided in ORS 830.618 and 830.621.
+
+      (b) For any other purpose described in ORS 830.615 to 830.630. [2019 c.507 §2]
+
+ 
+
+      830.618 Grants for nonmotorized boat waterway access; rules. (1) As used in this section, “public body” has the meaning given that term in ORS 174.109.
+
+      (2) The State Marine Board may award grants under this section to public bodies, federally recognized Indian tribes in Oregon and federal agencies for the purposes of assisting with:
+
+      (a) The purchase of real property, leases or easements in order to provide access to public waterways.
+
+      (b) The construction, renovation, expansion or development of public boating facilities, including but not limited to public access to waterways and public sanitation facilities.
+
+      (c) The construction, renovation, expansion or development of public play parks for nonmotorized boat use, such as whitewater parks and competition courses.
+
+      (3) For the purpose of awarding grants under this section, the board shall develop a priority list, giving highest priority to:
+
+      (a) Projects that serve nonmotorized boat users; and
+
+      (b) Public boating facilities that are determined by the board to have the greatest need for construction, renovation, expansion or development.
+
+      (4) The board shall adopt rules for implementing the grant program described in this section. [2019 c.507 §3]
+
+ 
+
+      830.621 Grants for boating safety education, boating equipment and waterway access to underserved communities; rules. (1) As used in this section:
+
+      (a) “Nonprofit organization” means an organization described in section 501(c)(3) or (4) of the Internal Revenue Code that is exempt from income tax under section 501(a) of the Internal Revenue Code.
+
+      (b) “Public body” has the meaning given that term in ORS 174.109.
+
+      (2) The State Marine Board may award, from moneys in the Waterway Access Fund established under ORS 830.615 and the Boating Safety, Law Enforcement and Facility Account established under ORS 830.140, grants to public bodies, federally recognized Indian tribes in Oregon, private entities and nonprofit organizations, for the purposes of:
+
+      (a) Improving boating safety education; and
+
+      (b) Providing waterway access to underserved communities, as described by the board by rule.
+
+      (3) Grants may be awarded under this section to assist in paying for costs incurred to:
+
+      (a) Provide boating safety education;
+
+      (b) Purchase boating equipment; or
+
+      (c) Provide waterway access to underserved communities.
+
+      (4) The board shall adopt rules to implement the grant program described in this section. [2019 c.507 §4]
+
+ 
+
+      830.624 Permit requirements for person 14 years of age or older; exceptions; rules. (1) Except as provided in subsections (3) and (4) of this section, a person 14 years of age or older shall carry a waterway access permit while operating a nonmotorized boat that is at least 10 feet in length or a sailboat that is at least 10 feet but less than 12 feet in length, in the manner provided by the State Marine Board by rule. The person shall present proof of a permit upon request by a peace officer.
+
+      (2) A waterway access permit under this section is transferrable to any nonmotorized boat that is at least 10 feet in length or a sailboat that is at least 10 feet but less than 12 feet in length.
+
+      (3) Subsection (1) of this section does not apply to:
+
+      (a) Days that the board designates, by rule, as free boating days and on which the board allows individuals to operate a boat described in subsection (1) of this section without holding an otherwise required waterway access permit.
+
+      (b) A person operating a boat owned by an operator of a boat livery if the operator of a boat livery displays proof of holding a waterway access permit according to rules adopted by the board.
+
+      (c) A person operating a boat on a federally designated wild and scenic river for which a separate fee system is in place.
+
+      (d) A person operating a boat if the person is engaged in law enforcement, public safety or official business of a federal, state or municipal agency, as defined by the board by rule.
+
+      (e) A resident of a bordering state who launches a boat from that bordering state into bordering waters, as defined by the board by rule.
+
+      (f) A person operating a boat if the person holds a nonmotorized boating permit, a registration or a similar authorization that is issued by another state and accepted by the board by rule.
+
+      (g) A person who is a member of a federally recognized Indian tribe in this state and who is engaged in tribal fishing or a tribal ceremony.
+
+      (4) The board may adopt rules that provide additional exemptions from the requirement to obtain a permit under subsection (1) of this section. [2019 c.507 §5]
+
+ 
+
+      Note: Sections 8 and 9, chapter 507, Oregon Laws 2019, provide:
+
+      Sec. 8. The State Marine Board shall collaborate with relevant recreation user groups and organizations and law enforcement agencies that enforce boating regulations for the purpose of educating nonmotorized boat users about the requirement to obtain a waterway access permit under section 5 of this 2019 Act [830.624]. [2019 c.507 §8]
+
+      Sec. 9. Section 8 of this 2019 Act is repealed on January 2, 2022. [2019 c.507 §9]
+
+ 
+
+      830.627 Fees for issuance of permit. (1) Notwithstanding ORS 830.790 (3), fees for issuance of a waterway access permit are as follows:
+
+      (a) $5 for a one-week permit.
+
+      (b) $17 for an annual permit.
+
+      (c) $30 for a biennial permit.
+
+      (d) The annual fee for an operator of a boat livery that offers nonmotorized boats at least 10 feet in length or sailboats at least 10 feet but less than 12 feet in length is:
+
+      (A) $90 for an operator who owns 6 to 10 nonmotorized boats or sailboats.
+
+      (B) $165 for an operator who owns 11 to 20 nonmotorized boats or sailboats.
+
+      (C) $300 for an operator who owns 21 or more nonmotorized boats or sailboats.
+
+      (2) The State Marine Board shall deposit fees received under this section into the Waterway Access Fund established under ORS 830.615 as follows:
+
+      (a) $4 for every one-week permit fee paid.
+
+      (b) $12 for every annual permit fee paid.
+
+      (c) $20 for every biennial permit fee paid.
+
+      (d) $60 for every permit fee paid by an operator of a boat livery who owns 6 to 10 nonmotorized boats or sailboats.
+
+      (e) $110 for every permit fee paid by an operator of a boat livery who owns 11 to 20 nonmotorized boats or sailboats.
+
+      (f) $200 for every permit fee paid by an operator of a boat livery who owns 21 or more nonmotorized boats or sailboats.
+
+      (3) The board shall deposit fees received under this section into the Aquatic Invasive Species Prevention Fund established under ORS 830.585 as follows:
+
+      (a) $1 for every one-week permit fee paid.
+
+      (b) $5 for every annual permit fee paid.
+
+      (c) $10 for every biennial permit fee paid.
+
+      (d) $30 for every permit fee paid by an operator of a boat livery who owns 6 to 10 nonmotorized boats or sailboats.
+
+      (e) $55 for every permit fee paid by an operator of a boat livery who owns 11 to 20 nonmotorized boats or sailboats.
+
+      (f) $100 for every permit fee paid by an operator of a boat livery who owns 21 or more nonmotorized boats or sailboats. [2019 c.507 §6]
+
+ 
+
+      830.630 Issuance of permits; agents. (1) The State Marine Board shall issue a waterway access permit to a person who pays the fee for the permit described in ORS 830.627.
+
+      (2) The board may appoint agents to issue waterway access permits.
+
+      (3) Agents shall issue waterway access permits in accordance with procedures prescribed by the board by rule and shall charge and collect the waterway access permit fees described in ORS 830.627.
+
+      (4) The board may authorize an agent who is not a board employee to charge a service fee of $2, in addition to the waterway access permit fee, for the issuance service performed by the agent.
+
+      (5) The board may supply the agents with waterway access permits, if applicable. [2019 c.507 §7]
+
+ 
+
+TOWED WATERSPORTS PROGRAM
+
+ 
+
+      830.640 Towed watersports program. (1) There is created within the State Marine Board a towed watersports program.
+
+      (2) The program shall:
+
+      (a) Provide towed watersports safety education;
+
+      (b) Issue and renew towed watersports endorsements;
+
+      (c) Issue and renew towed watersports motorboat certificates in the form of decals;
+
+      (d) Develop and promote towed watersports safety promotions, best practices and public education;
+
+      (e) Address wave energy management techniques and operator responsibilities for accident and property damage prevention; and
+
+      (f) Compile information regarding the make, model, length, dry gross weight and maximum factory ballast capacity specifications of motor boats for which the towed watersports motorboat decal was issued.
+
+      (3) In establishing towed watersports safety education as part of the towed watersports endorsement, the board shall:
+
+      (a) Set a minimum standard of competency. The board may review and update the minimum standard of competency as necessary.
+
+      (b) Create a towed watersports endorsement course and towed watersports endorsement examination designed to educate and test for the minimum standard of competency under paragraph (a) of this subsection.
+
+      (c) Create an equivalency examination that may substitute for taking the towed watersports endorsement course.
+
+      (d) Allow use of commercially provided towed watersports endorsement courses provided the courses meet the standard adopted by the board.
+
+      (e) Establish a fee under ORS 830.646 for the issuance and renewal of towed watersports endorsements. [2019 c.651 §2]
+
+ 
+
+      830.643 Towed watersports endorsement and certificate; issuance; fees; rules. (1) A person may obtain a towed watersports endorsement if:
+
+      (a)(A) The person is a resident of this state and the person holds a boating safety certificate issued under ORS 830.084; or
+
+      (B) The person is not a resident of this state and the person holds a current out-of-state boating certificate;
+
+      (b) The person passes the towed watersports endorsement examination, or the equivalency examination, as described in ORS 830.640;
+
+      (c) The person pays the fee established by the State Marine Board under ORS 830.646; and
+
+      (d) The person provides any other information required by the board by rule.
+
+      (2) A person may obtain a towed watersports motorboat certificate if the person is the owner of a registered motorboat and:
+
+      (a) The person holds a towed watersports endorsement issued under this section;
+
+      (b) The motorboat loading weight meets the requirements for maximum loading weight established by the board by rule;
+
+      (c) The person provides the board with information regarding the motorboat’s make, model, length, dry gross weight and maximum factory ballast capacity specifications as listed by the manufacturer; and
+
+      (d) The person provides any other information required by the board by rule.
+
+      (3) A towed watersports endorsement and towed watersports motorboat certificate issued under this section starts on the day the endorsement or certificate is issued and expires on December 31 of the last year in the two-year period.
+
+      (4) A person issued a towed watersports endorsement or towed watersports motorboat certificate under this section may renew the endorsement or certificate by:
+
+      (a) Paying the towed watersports endorsement renewal fee established under ORS 830.646; and
+
+      (b) Completing an application in the form and manner required by the board by rule.
+
+      (5) The board shall issue a towed watersports motorboat certificate in the form of a decal. The decal must be affixed to the motorboat in accordance with rules adopted by the board.
+
+      (6) The board may appoint agents to issue towed watersports endorsements and towed watersports motorboat certificates.
+
+      (7) Agents shall issue towed watersports endorsements and towed watersports motorboat certificates in accordance with procedures prescribed by the board by rule and shall charge and collect the endorsement fees prescribed by law.
+
+      (8) The board may authorize an agent other than a board employee to charge a service fee of $2, in addition to the towed watersports endorsement fee, for the issuance service performed by the agent.
+
+      (9) The board shall supply the agents with towed watersports endorsements and towed watersports motorboat certificates, if applicable. [2019 c.651 §3]
+
+ 
+
+      830.646 Fees; rules. (1) The State Marine Board, by rule, shall establish and collect issuance and renewal fees for towed watersports endorsements.
+
+      (2) The amount of the fees may not exceed the amount to register a motorboat that is 20 feet in length.
+
+      (3) The fees collected shall be used:
+
+      (a) To cover the costs of administering and implementing the towed watersports program; and
+
+      (b) To assist with paying the costs of law enforcement activities related to towed watersports on waters of this state described in ORS 830.649. The board shall determine the amount required for law enforcement activities and the intervals at which the moneys shall be deposited into the Boating Safety, Law Enforcement and Facility Account established under ORS 830.140. [2019 c.651 §4]
+
+ 
+
+      830.649 Newberg Pool Congested Zone. (1) As used in this section, “Newberg Pool Congested Zone” means the portion of the Willamette River beginning at river mile 30 and ending at river mile 50.
+
+      (2) A person shall carry a towed watersports endorsement if the person is:
+
+      (a) Engaged in wake surfing or wakeboarding as defined by the State Marine Board; and
+
+      (b) On waters within the Newberg Pool Congested Zone.
+
+      (3) The owner of a motorboat shall display a towed watersports motorboat certificate decal if the motorboat is engaged in towed watersports within the Newberg Pool Congested Zone.
+
+      (4) The person shall present proof of a towed watersports endorsement and towed watersports motorboat certificate upon request by a peace officer. [2019 c.651 §5]
+
+ 
+
+      830.652 Additional penalties for violations occurring within Newberg Pool Congested Zone. (1) As used in this section, “Newberg Pool Congested Zone” means the portion of the Willamette River beginning at river mile 30 and ending at river mile 50.
+
+      (2) Subject to subsection (3) of this section, the court shall, in addition to the penalties imposed under ORS 830.990 for the offenses listed in subsection (3) of this section:
+
+      (a) Order the person not to operate a boat for a period of one year after the date of conviction; and
+
+      (b) Order the person to complete a boating safety course approved by the State Marine Board.
+
+      (3) Subsection (2) of this section applies when:
+
+      (a) The peace officer who issued the citation notes on the citation that the offense occurred within the Newberg Pool Congested Zone; and
+
+      (b) The person has at least one prior conviction for violating any of the following statutes within a three-year period preceding the date of the person’s current conviction and the prior offense also occurred within the Newberg Pool Congested Zone:
+
+      (A) ORS 830.305.
+
+      (B) ORS 830.315.
+
+      (C) ORS 830.335.
+
+      (D) ORS 830.340.
+
+      (E) ORS 830.345.
+
+      (F) ORS 830.355.
+
+      (G) ORS 830.360.
+
+      (H) ORS 830.362.
+
+      (I) ORS 830.365. [2019 c.651 §8]
+
+ 
+
+      Note: 830.652 and 830.655 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 830 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      830.655 Suspension. (1) Upon conviction for an offense listed in ORS 830.652, a court shall issue a notice of suspension to the State Marine Board.
+
+      (2) After receiving the notice of suspension, the board shall suspend for a period of one year from the date of conviction the person’s:
+
+      (a) Towed watersports endorsement; and
+
+      (b) Towed watersports motorboat certificate. [2019 c.651 §9]
+
+ 
+
+      Note: See note under 830.652.
 
  
 
@@ -2359,7 +2835,7 @@ NUMBERING, TITLES AND LICENSES
 
  
 
-      830.770 Certificate of number required on boat; exceptions. (1) No person shall operate a boat on the waters of this state and no owner of a boat shall knowingly allow another to operate the owner’s boat on the waters of this state unless:
+      830.770 Certificate of number required on boat; exceptions. (1) A person may not operate a boat on the waters of this state, and an owner of a boat may not knowingly allow another person to operate the owner’s boat on the waters of this state, unless:
 
       (a) The owner of the boat holds a valid, effective certificate of number issued in the owner’s name as owner:
 
@@ -2371,13 +2847,13 @@ NUMBERING, TITLES AND LICENSES
 
       (b) The certificate of number is carried on the boat, except as provided in subsection (2) of this section.
 
-      (2) Persons renting a boat from a livery are not required to carry the certificate of number on the boat, provided:
+      (2) Persons renting a boat from an operator of a boat livery are not required to carry the certificate of number on the boat, provided:
 
-      (a) The livery owner retains the certificate of number at the livery office for immediate inspection by a peace officer;
+      (a) The operator of the boat livery retains the certificate of number at the livery office for immediate inspection by a peace officer;
 
       (b) The boat is clearly marked and identified as a livery boat; and
 
-      (c) The boat operator has a signed rental or lease agreement containing the boat’s identifying number and the period of time for which the boat is rented or leased. [Formerly 488.720; 2003 c.14 §502]
+      (c) The boat operator has a signed rental or lease agreement containing the boat’s identifying number and the period of time for which the boat is rented or leased. [Formerly 488.720; 2003 c.14 §502; 2019 c.155 §4]
 
  
 
@@ -2417,9 +2893,9 @@ NUMBERING, TITLES AND LICENSES
 
       830.790 Certificate or registration fees. (1) The biennial fee for the original or renewal certificate of number or registration is:
 
-      (a) $4.50 per foot, or portion thereof, for all sailboats 12 feet in length or more and for all motorboats.
+      (a) $5 plus $5.95 per foot, or portion thereof, for all sailboats 12 feet in length or more and for all motorboats.
 
-      (b) $6, for boats that are assessed by the Department of Revenue under ORS 308.505 to 308.681.
+      (b) $6, for boats that are assessed by the Department of Revenue under ORS 308.505 to 308.674.
 
       (c) $6, for amphibious vehicles that are licensed by the Department of Transportation.
 
@@ -2427,7 +2903,9 @@ NUMBERING, TITLES AND LICENSES
 
       (3) Except for the assessment referred to in subsection (1)(b) of this section, the fees provided by this section are in lieu of any other tax or license fee.
 
-      (4) The operator of a boat livery holding five or more boats ready for hire may pay a biennial certificate of number fee of $90 plus $10 for each boat instead of the fee otherwise provided in this section. [Formerly 488.732; 1997 c.432 §1; 2003 c.455 §1; 2015 c.627 §1]
+      (4) The operator of a boat livery holding five or more boats ready for hire may pay a biennial certificate of number fee of $90 plus $10 for each boat instead of the fee otherwise provided in this section.
+
+      (5) For each original or renewal certificate fee collected under subsection (1)(a) of this section, the State Marine Board shall deposit $5 of the amount collected into the Aquatic Invasive Species Prevention Fund established under ORS 830.585. [Formerly 488.732; 1997 c.432 §1; 2003 c.455 §1; 2015 c.627 §1; 2019 c.389 §2]
 
  
 
@@ -2461,7 +2939,7 @@ NUMBERING, TITLES AND LICENSES
 
       (3) The board may assess the following application fees:
 
-      (a) Original title or title transfer, $50.
+      (a) Original title or title transfer, $75.
 
       (b) Duplicate title, $25.
 
@@ -2471,7 +2949,7 @@ NUMBERING, TITLES AND LICENSES
 
       (4) The board shall establish, by rule, penalty fees for late application for certificates required by this section or ORS 830.710. A penalty fee may not exceed $50.
 
-      (5) Rules adopted pursuant to this section shall be in accordance with the provisions of ORS chapter 183. [Formerly 488.762; 2003 c.455 §2; 2015 c.627 §2]
+      (5) Rules adopted pursuant to this section shall be in accordance with the provisions of ORS chapter 183. [Formerly 488.762; 2003 c.455 §2; 2015 c.627 §2; 2019 c.389 §3]
 
  
 
@@ -2481,7 +2959,7 @@ NUMBERING, TITLES AND LICENSES
 
       (b) Otherwise failed to comply with the applicable provisions under ORS 830.060 to 830.140 and 830.700 to 830.870 pertaining to application for certificates; or
 
-      (c) Been convicted of operating a boat while under the influence of an intoxicating liquor, cannabis or a controlled substance within one year of the date of application or within three years of the date of application if the record of conviction shows that the person willfully refused the request of a peace officer to submit to chemical testing of the breath or a field sobriety test pursuant to ORS 830.505 and 830.550.
+      (c) Been convicted of operating a boat while under the influence of an intoxicating liquor, cannabis, an inhalant or a controlled substance within one year of the date of application or within three years of the date of application if the record of conviction shows that the person willfully refused the request of a peace officer to physically submit to chemical testing of the breath or urine or a nontestimonial field sobriety test pursuant to ORS 830.505 and 830.550.
 
       (2) After a hearing upon 10 days’ notice, the board may cancel a certificate of title or certificate of number or registration if the board determines at any time that an owner, boat manufacturer or dealer named in the certificate:
 
@@ -2499,11 +2977,11 @@ NUMBERING, TITLES AND LICENSES
 
       (c) Upon suspending any certificate of number under this subsection, the board may charge the owner a reinstatement fee sufficient to cover the actual expenses of the board in processing the transactions described in this section. The board shall reinstate any certificate of number suspended under this subsection upon receiving payment of any reinstatement fee and notice from the court that the owner has appeared and fully satisfied the judgment of the court.
 
-      (5) Conviction of operating a boat while under the influence of an intoxicating liquor, cannabis or a controlled substance under ORS 830.325 constitutes grounds for suspension of a person’s certificate of number or registration for all boats owned by the person. The following provisions apply to such suspension:
+      (5) Conviction of operating a boat while under the influence of an intoxicating liquor, cannabis, an inhalant or a controlled substance under ORS 830.325 constitutes grounds for suspension of a person’s certificate of number or registration for all boats owned by the person. The following provisions apply to such suspension:
 
       (a) Upon receipt of a record of conviction for a violation of ORS 830.325, the board shall notify the convicted person that all certificates of number or registration issued in the person’s name are suspended. The notice shall include a statement that a hearing may be requested in writing within 10 days of the notice. Any hearing requested under this subsection shall be limited to the issue of whether the person is the person convicted.
 
-      (b) The suspension shall be for three years from the date of conviction if the record of conviction shows that the person willfully refused the request of a peace officer to submit to chemical testing of the breath or a field sobriety test under ORS 830.505 and 830.550. Otherwise the period of suspension shall be for one year from the date of conviction. [Formerly 488.780; 1991 c.931 §3; 1997 c.48 §1; 1999 c.1051 §94; 2017 c.21 §96]
+      (b) The suspension shall be for three years from the date of conviction if the record of conviction shows that the person willfully refused the request of a peace officer to physically submit to chemical testing of the breath or urine or a nontestimonial field sobriety test under ORS 830.505 and 830.550. Otherwise the period of suspension shall be for one year from the date of conviction. [Formerly 488.780; 1991 c.931 §3; 1997 c.48 §1; 1999 c.1051 §94; 2017 c.21 §96; 2019 c.431 §19]
 
  
 
@@ -2967,25 +3445,63 @@ PENALTIES
 
  
 
-      830.990 Penalties. (1)(a) Violation of ORS 830.565 by a person operating a manually propelled boat is a Class D violation. Notwithstanding ORS 153.019, the presumptive fine for a violation of ORS 830.565 by a person operating a manually propelled boat is $30.
+      830.990 Penalties. (1)(a) Violation of ORS 830.302 or 830.565 by a person operating a nonmotorized boat is a Class D violation. Notwithstanding ORS 153.019, the presumptive fine for a violation of ORS 830.565 by a person operating a nonmotorized boat is $30.
 
-      (b) Violation of ORS 830.565 by a person operating a motorboat is a Class D violation. Notwithstanding ORS 153.019, the presumptive fine for a violation of ORS 830.565 by a person operating a motorboat is $50.
+      (b) Violation of ORS 830.302 or 830.565 by a person operating a motorboat is a Class D violation. Notwithstanding ORS 153.019, the presumptive fine for a violation of ORS 830.565 by a person operating a motorboat is $50.
 
-      (2) A person who violates ORS 830.050, 830.088, 830.090, 830.092, 830.094, 830.230, 830.415, 830.710, 830.720, 830.770, 830.780, 830.810, 830.850 or 830.855, or rules adopted to carry out the purposes of those statutes, commits a Class D violation.
+      (2) A person who violates ORS 830.050, 830.088, 830.090, 830.092, 830.094, 830.215, 830.230, 830.415, 830.710, 830.720, 830.770, 830.780, 830.810, 830.850 or 830.855, or rules adopted to carry out the purposes of those statutes, commits a Class D violation.
 
       (3) A person who violates ORS 830.220, 830.240, 830.245, 830.250, 830.375, 830.475 (4), 830.480, 830.785, 830.805 or 830.825, or rules adopted to carry out the purposes of those statutes, commits a Class C violation.
 
-      (4) A person who violates ORS 830.110, 830.175, 830.180, 830.185, 830.187, 830.195, 830.210, 830.215, 830.225, 830.235, 830.260, 830.300, 830.315 (2) and (3), 830.335, 830.340, 830.345, 830.350, 830.355, 830.360, 830.362, 830.365, 830.370, 830.410, 830.420, 830.495, 830.560, 830.775, 830.795 or 830.830, or rules adopted to carry out the purposes of those statutes, commits a Class B violation.
+      (4) A person who violates ORS 830.110, 830.175, 830.180, 830.185, 830.187, 830.195, 830.210, 830.225, 830.235, 830.260, 830.300, 830.315 (2) and (3), 830.335, 830.340, 830.345, 830.350, 830.355, 830.360, 830.362, 830.365, 830.370, 830.410, 830.420, 830.425, 830.495, 830.560, 830.649, 830.775, 830.795 or 830.830, or rules adopted to carry out the purposes of those statutes, commits a Class B violation.
 
-      (5) A person who violates ORS 830.305 or 830.390, or rules adopted to carry out the purposes of those statutes, commits a Class A violation.
+      (5) A person who violates ORS 830.305, 830.390 or 830.944, or rules adopted to carry out the purposes of those statutes, commits a Class A violation.
 
-      (6) A person who violates ORS 830.383 commits a Class B misdemeanor.
+      (6)(a) Notwithstanding subsection (4) of this section, a person who violates ORS 830.649 and has one or more prior convictions for violation of ORS 830.649 within a three-year period preceding the date of the person’s current conviction, commits a Class A violation.
 
-      (7) A person who violates ORS 830.035 (2), 830.053, 830.315 (1), 830.325, 830.475 (1), 830.730 or 830.955 (1) commits a Class A misdemeanor.
+      (b) In addition to the penalty imposed under this subsection, the court shall:
 
-      (8) A person who violates ORS 830.475 (2) commits a Class C felony.
+      (A) Order the person not to operate a boat for a period of one year; and
 
-      (9) A person who violates ORS 830.944 commits a Class A violation. [Formerly 488.991; 1991 c.759 §7; 1997 c.74 §2; 1997 c.568 §5; 1997 c.737 §6; 1999 c.550 §4; 1999 c.692 §12; 1999 c.716 §13a; 1999 c.1051 §95; 2003 c.157 §1; 2005 c.299 §3; 2009 c.303 §3; 2009 c.764 §12; 2011 c.381 §1; 2011 c.597 §329; 2013 c.1 §97; 2013 c.186 §4; 2013 c.680 §17; 2015 c.27 §63]
+      (B) Order the person to complete a boating safety course approved by the State Marine Board.
+
+      (7) A person who violates ORS 830.591 commits a Class C misdemeanor.
+
+      (8) A person who violates ORS 830.383 commits a Class B misdemeanor.
+
+      (9) A person who violates ORS 830.035 (2), 830.053, 830.315 (1), 830.325, 830.475 (1), 830.730 or 830.955 (1) commits a Class A misdemeanor.
+
+      (10) A person who violates ORS 830.475 (2) commits a Class C felony. [Formerly 488.991; 1991 c.759 §7; 1997 c.74 §2; 1997 c.568 §5; 1997 c.737 §6; 1999 c.550 §4; 1999 c.692 §12; 1999 c.716 §13a; 1999 c.1051 §95; 2003 c.157 §1; 2005 c.299 §3; 2009 c.303 §3; 2009 c.764 §12; 2011 c.381 §1; 2011 c.597 §329; 2013 c.1 §97; 2013 c.186 §4; 2013 c.680 §17; 2015 c.27 §63; 2019 c.154 §13; 2019 c.155 §6; 2019 c.431 §2; 2019 c.651 §7]
+
+ 
+
+      Note: The amendments to 830.990 by section 11a, chapter 507, Oregon Laws 2019, become operative August 1, 2020. See section 18, chapter 507, Oregon Laws 2019. The text that is operative on and after August 1, 2020, is set forth for the user’s convenience.
+
+      830.990. (1) Violation of ORS 830.302 by a person operating a motorboat or violation of ORS 830.565 by a person operating a sailboat that is at least 12 feet in length or a motorboat is a Class D violation. Notwithstanding ORS 153.019, the presumptive fine for a violation of ORS 830.302 or 830.565 by a person operating a motorboat is $50.
+
+      (2) A person who violates ORS 830.050, 830.088, 830.090, 830.092, 830.094, 830.215, 830.230, 830.415, 830.624, 830.710, 830.720, 830.770, 830.780, 830.810, 830.850 or 830.855, or rules adopted to carry out the purposes of those statutes, commits a Class D violation.
+
+      (3) A person who violates ORS 830.220, 830.240, 830.245, 830.250, 830.375, 830.475 (4), 830.480, 830.785, 830.805 or 830.825, or rules adopted to carry out the purposes of those statutes, commits a Class C violation.
+
+      (4) A person who violates ORS 830.110, 830.175, 830.180, 830.185, 830.187, 830.195, 830.210, 830.225, 830.235, 830.260, 830.300, 830.315 (2) and (3), 830.335, 830.340, 830.345, 830.350, 830.355, 830.360, 830.362, 830.365, 830.370, 830.410, 830.420, 830.425, 830.495, 830.560, 830.649, 830.775, 830.795 or 830.830, or rules adopted to carry out the purposes of those statutes, commits a Class B violation.
+
+      (5) A person who violates ORS 830.305, 830.390 or 830.944, or rules adopted to carry out the purposes of those statutes, commits a Class A violation.
+
+      (6)(a) Notwithstanding subsection (4) of this section, a person who violates ORS 830.649 and has one or more prior convictions for violation of ORS 830.649 within a three-year period preceding the date of the person’s current conviction, commits a Class A violation.
+
+      (b) In addition to the penalty imposed under this subsection, the court shall:
+
+      (A) Order the person not to operate a boat for a period of one year; and
+
+      (B) Order the person to complete a boating safety course approved by the State Marine Board.
+
+      (7) A person who violates ORS 830.591 commits a Class C misdemeanor.
+
+      (8) A person who violates ORS 830.383 commits a Class B misdemeanor.
+
+      (9) A person who violates ORS 830.035 (2), 830.053, 830.315 (1), 830.325, 830.475 (1), 830.730 or 830.955 (1) commits a Class A misdemeanor.
+
+      (10) A person who violates ORS 830.475 (2) commits a Class C felony.
 
  
 
@@ -2993,17 +3509,19 @@ PENALTIES
 
  
 
-      830.994 Additional penalties for violation of ORS 830.325. (1) When a person is convicted of a violation of any provision of ORS 830.325, the court shall comply with the following in addition to any other penalty imposed upon the person under ORS 830.990:
+      830.994 Additional penalties for violation of ORS 830.325. (1) When a person is convicted of a violation of any provision of ORS 830.315 or 830.325, the court shall comply with the following in addition to any other penalty imposed upon the person under ORS 830.990:
 
       (a) Order the person not to operate a boat for a period of one year;
 
-      (b) Order the person to complete a boating safety course approved by the State Marine Board; and
+      (b) Order the person to complete a boating safety course conducted in a classroom and approved by the State Marine Board; and
 
-      (c) Include in the record of conviction a finding whether the person willfully refused the request of a peace officer to submit to chemical testing of the breath or a field sobriety test pursuant to ORS 830.505 and 830.550. For purposes of this subsection, a person shall be found to have willfully refused the request if the person was informed about rights and consequences concerning the test under ORS 830.505 and 830.545 and refused to submit to the test.
+      (c) Order the board to suspend the person’s boating safety education card issued under ORS 830.086 for one year.
 
-      (2) The record of conviction of each person convicted of violating ORS 830.325 shall be sent by the court to the board within 14 days of the entry of the judgment of conviction in the court register.
+      (2) When a person is convicted of a violation of any provision of ORS 830.325, the court shall, in addition to any other penalty imposed upon the person under ORS 830.990 or subsection (1) of this section, include in the record of conviction a finding whether the person willfully refused the request of a peace officer to physically submit to chemical testing of the breath or urine or a nontestimonial field sobriety test under ORS 830.505 and 830.550. For purposes of this subsection, a person shall be found to have willfully refused the request if the person was informed about rights and consequences concerning the test under ORS 830.505 and 830.545 and refused to physically submit to the test.
 
-      (3) A person who knowingly operates a boat in violation of a court order under subsection (1)(a) of this section commits a Class A misdemeanor. [1991 c.931 §14; 1997 c.568 §6]
+      (3) The record of conviction of each person convicted of violating ORS 830.315 or 830.325 shall be sent by the court to the board within 14 days of the entry of the judgment of conviction in the court register.
+
+      (4) A person who knowingly operates a boat in violation of a court order under subsection (1)(a) of this section commits a Class A misdemeanor. [1991 c.931 §14; 1997 c.568 §6; 2019 c.431 §3]
 
  
 
@@ -3017,9 +3535,9 @@ PENALTIES
 
  
 
-      830.998 Penalty for failing to stop at an aquatic invasive species check station. (1) A person who is transporting a recreational or commercial watercraft and fails to stop and submit to an inspection at an aquatic invasive species check station operated by the State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture as provided under ORS 830.589 commits a Class D violation.
+      830.998 Penalty for failing to stop at an aquatic invasive species check station. (1) A person who is transporting a recreational or commercial watercraft and fails to stop and submit to an inspection or complete the ordered decontamination at an aquatic invasive species check station operated by the State Department of Fish and Wildlife, the State Marine Board or the State Department of Agriculture as provided under ORS 830.589 commits a Class D violation.
 
-      (2) Notwithstanding ORS 153.042, an enforcement officer may issue a citation under subsection (1) of this section when the conduct alleged to constitute a violation has not taken place in the presence of the enforcement officer, if the enforcement officer has reasonable grounds to believe that the conduct constitutes a violation on the basis of information received from an employee of an agency authorized to operate an aquatic invasive species check station who observed the violation. [Subsections (1) and (2) of 2011 Edition formerly 570.990(2) and (3)]
+      (2) Notwithstanding ORS 153.042, a peace officer may issue a citation under subsection (1) of this section when the conduct alleged to constitute a violation has not taken place in the presence of the peace officer, if the peace officer has reasonable grounds to believe that the conduct constitutes a violation on the basis of information received from an employee of an agency authorized to operate an aquatic invasive species check station who observed the violation. [Subsections (1) and (2) of 2011 Edition formerly 570.990(2) and (3); 2019 c.154 §14]
 
  
 
@@ -3027,19 +3545,17 @@ PENALTIES
 
  
 
-      830.999 Penalty for transporting aquatic invasive species; exceptions; use of penalty moneys; rules.
-
-(1) A person is subject to a civil penalty in an amount to be determined by the State Fish and Wildlife Director of not more than $6,250 if the person knowingly transports aquatic invasive species on or in a recreational or commercial watercraft. A second or subsequent violation of this subsection within a five-year period shall result in a civil penalty in an amount not less than $5,000 and not more than $15,000.
+      830.999 Penalty for transporting aquatic invasive species; exceptions; use of penalty moneys; rules. (1) A person is subject to a civil penalty in an amount to be determined by the State Fish and Wildlife Director of not more than $6,250 if the person knowingly transports aquatic invasive species on or in a recreational or commercial watercraft. A second or subsequent violation of this subsection within a five-year period shall result in a civil penalty in an amount not less than $5,000 and not more than $15,000.
 
       (2) Subsection (1) of this section does not apply to:
 
-      (a) A person who transports aquatic invasive species in ballast water.
+      (a) A person who transports aquatic invasive species in ballast water, as defined in ORS 783.625.
 
       (b) A person who complies with all instructions for the proper decontamination of the recreational or commercial watercraft given by an employee authorized under ORS 830.589 (1) to inspect recreational or commercial watercraft.
 
       (c) A person who transports aquatic invasive species to the State Department of Fish and Wildlife or the State Department of Agriculture, or to another destination designated by the State Fish and Wildlife Commission by rule, in a manner designated by the commission for purposes of identifying or reporting an aquatic invasive species.
 
-      (3) The civil penalties authorized in this section shall be imposed as provided in ORS 183.745. Any civil penalty recovered under this section shall be deposited in the State Wildlife Fund. The commission by rule shall adopt the formula the State Fish and Wildlife Director shall use in determining the amount of civil penalties under this section. [Formerly 570.865]
+      (3) The civil penalties authorized in this section shall be imposed as provided in ORS 183.745. Any civil penalty recovered under this section shall be deposited in the State Wildlife Fund. The commission by rule shall adopt the formula the State Fish and Wildlife Director shall use in determining the amount of civil penalties under this section. [Formerly 570.865; 2019 c.154 §15]
 
  
 
@@ -3047,7 +3563,9 @@ PENALTIES
 
  
 
-CHAPTERS 831 TO 834 [Reserved for expansion]
+CHAPTERS 831 TO 834
+
+[Reserved for expansion]
 
 _______________
 

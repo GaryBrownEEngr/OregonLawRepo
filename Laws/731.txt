@@ -631,19 +631,23 @@ LIMIT OF RISK; REINSURANCE
 
  
 
-731.509     Legislative intent; criteria for allowing credit for reinsurance
+731.509     Legislative intent; criteria for allowing credit for reinsurance; rules
 
  
 
-731.510     Criteria for allowing reduction from liability for reinsurance
+731.510     Criteria for allowing reduction from liability for reinsurance; rules
 
  
 
-731.511     Criteria to be met by assuming insurer in order to be accredited as reinsurer
+731.511     Criteria to be met by assuming insurer in order to be accredited as reinsurer; rules
 
  
 
 731.512     Withdrawal of insurer; reinsurance
+
+ 
+
+731.514     Ceding insurer’s management of reinsurance recoverables; requirement to diversify reinsurance program
 
  
 
@@ -851,6 +855,16 @@ ASSESSMENTS, FEES AND TAXES
 
  
 
+731.830     Premium tax on gross amount of premiums insurer receives for wet marine and transportation insurance
+
+ 
+
+731.833     Record keeping requirements for wet marine and transportation insurance contracts
+
+ 
+
+731.834     Insurance producer’s collection of taxes on wet marine and transportation insurance; report to director; rules
+
 731.836     Limitation on enforcement of insurer’s tax obligations
 
  
@@ -900,8 +914,6 @@ PENALTIES
  
 
 731.992     Criminal penalty
-
- 
 
  
 
@@ -1355,7 +1367,11 @@ DEFINITIONS GENERALLY
 
       (3) “Solicit” means to attempt to sell a policy of insurance or to ask or urge a person to apply for a particular kind of insurance from a particular insurer. [Formerly 731.062]
 
+ 
+
       731.106 “Insurer.” “Insurer” includes every person engaged in the business of entering into policies of insurance. [1967 c.359 §22]
+
+ 
 
       731.110 [Repealed by 1965 c.241 §3]
 
@@ -1463,13 +1479,19 @@ DEFINITIONS GENERALLY
 
       (C) With respect to a policy of blanket health insurance, the policy was approved by the director of such state.
 
-      (c) Investigating, settling, or litigating claims under policies lawfully written within a state, or liquidating assets and liabilities, all resulting from the insurer’s former authorized operations within such state.
+      (c) Except as provided in ORS 743.015, doing or proposing to do any insurance business arising out of a policy of group health insurance, if the master policy was validly issued to cover an employer group other than an association, trust or multiple employer welfare arrangement and was delivered in and pursuant to the laws of another state in which:
 
-      (d) Transactions within a state under a policy subsequent to its issuance if the policy was lawfully solicited, written and delivered outside the state and did not cover a subject of insurance resident, located or to be performed in the state when issued.
+      (A) The insurer was authorized to do an insurance business; and
 
-      (e) The continuation and servicing of life or health insurance policies remaining in force on residents of a state if the insurer has withdrawn from such state and is not transacting new insurance therein.
+      (B) The policyholder is domiciled or otherwise has a bona fide situs.
 
-      (3) If mail is used, an act shall be deemed to take place at the point where the matter transmitted by mail is delivered and takes effect. [1967 c.359 §30; 1971 c.231 §10; 1989 c.784 §4; 2003 c.364 §64; 2007 c.752 §§1,6; 2013 c.681 §9; 2015 c.515 §4]
+      (d) Investigating, settling, or litigating claims under policies lawfully written within a state, or liquidating assets and liabilities, all resulting from the insurer’s former authorized operations within such state.
+
+      (e) Transactions within a state under a policy subsequent to its issuance if the policy was lawfully solicited, written and delivered outside the state and did not cover a subject of insurance resident, located or to be performed in the state when issued.
+
+      (f) The continuation and servicing of life or health insurance policies remaining in force on residents of a state if the insurer has withdrawn from such state and is not transacting new insurance therein.
+
+      (3) If mail is used, an act shall be deemed to take place at the point where the matter transmitted by mail is delivered and takes effect. [1967 c.359 §30; 1971 c.231 §10; 1989 c.784 §4; 2003 c.364 §64; 2007 c.752 §§1,6; 2013 c.681 §9; 2015 c.515 §4; 2019 c.285 §3]
 
  
 
@@ -2159,7 +2181,7 @@ AUTHORIZATION OF INSURERS AND GENERAL REQUIREMENTS
 
       (c) Due filing by the insurer of each annual statement supplement; and
 
-      (d) Payment by the insurer of premium taxes with respect to the preceding calendar year as required by ORS 731.808 to 731.828.
+      (d) Payment by the insurer of premium taxes with respect to the preceding calendar year as required by ORS 731.808 to 731.834.
 
       (2) A certificate of authority that is not continued by the insurer under subsection (1) of this section expires on the 60th day after the date on which the payment or filing is due.
 
@@ -2561,159 +2583,189 @@ LIMIT OF RISK; REINSURANCE
 
  
 
-      731.509 Legislative intent; criteria for allowing credit for reinsurance. (1) The purpose of ORS 731.509, 731.510, 731.511, 731.512 and 731.516 is to protect the interests of insureds, claimants, ceding insurers, assuming insurers and the public generally. The Legislative Assembly declares that its intent is to ensure adequate regulation of insurers and reinsurers and adequate protection for those to whom they owe obligations. In furtherance of that state interest, the Legislative Assembly mandates that upon the insolvency of an alien insurer or reinsurer that provides security to fund its United States obligations in accordance with ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the assets representing the security shall be maintained in the United States and claims shall be filed with and valued by the state insurance commissioner with regulatory oversight, and the assets shall be distributed in accordance with the insurance laws of the state in which the trust is domiciled that are applicable to the liquidation of domestic United States insurers. The Legislative Assembly declares that the laws contained in ORS 731.509, 731.510, 731.511, 731.512 and 731.516 are fundamental to the business of insurance in accordance with 15 U.S.C. 1011 and 1012.
+      731.509 Legislative intent; criteria for allowing credit for reinsurance; rules. (1) The purpose of ORS 731.509, 731.510, 731.511, 731.512 and 731.516 is to protect the interests of insureds, claimants, ceding insurers, assuming insurers and the public generally. The Legislative Assembly declares that the intent of the Legislative Assembly is to ensure adequate regulation of insurers and reinsurers and adequate protection for those to whom insurers and reinsurers owe obligations. In furtherance of that state interest, the Legislative Assembly mandates that upon the insolvency of an alien insurer or reinsurer that provides security to fund the alien insurer’s or reinsurer’s United States obligations in accordance with ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the assets representing the security must be maintained in the United States and claims must be filed with and valued by the state insurance commissioner with regulatory oversight, and the assets must be distributed in accordance with the insurance laws of the state in which the trust is domiciled that are applicable to the liquidation of domestic United States insurers. The Legislative Assembly declares that the laws contained in ORS 731.509, 731.510, 731.511, 731.512 and 731.516 are fundamental to the business of insurance in accordance with 15 U.S.C. 1011 and 1012.
 
-      (2) The Director of the Department of Consumer and Business Services shall not allow credit for reinsurance to a domestic ceding insurer as either an asset or a reduction from liability on account of reinsurance ceded unless credit is allowed as provided under ORS 731.508 and unless the reinsurer meets the requirements of:
+      (2) The Director of the Department of Consumer and Business Services may not allow credit for reinsurance to a domestic ceding insurer as either an asset or a reduction from liability on account of reinsurance ceded unless credit is allowed as provided under ORS 731.508 and unless the reinsurer meets the requirements of:
 
-      (a) Subsection (3) of this section;
+      (a) Subsection (4) of this section;
 
-      (b) Subsection (4) of this section;
+      (b) Subsection (5) of this section and ORS 731.511 (1);
 
-      (c) Subsections (5) and (8) of this section;
+      (c) Subsection (6) of this section;
 
-      (d) Subsections (6) and (8) of this section;
+      (d) Subsections (7) and (8) of this section;
 
-      (e) Subsection (7) of this section; or
+      (e) ORS 731.511; or
 
-      (f) Subsection (9) of this section.
+      (f)(A) Subsection (9) of this section; and
 
-      (3) Credit shall be allowed when the reinsurance is ceded to an authorized assuming insurer that accepts reinsurance of risks, and retains risk thereon within such limits, as the assuming insurer is otherwise authorized to insure in this state as provided in ORS 731.508.
+      (B) Additional requirements that the director specifies by rule, which may include:
 
-      (4) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that is accredited as a reinsurer in this state as provided in ORS 731.511. The director shall not allow credit to a domestic ceding insurer if the accreditation of the assuming insurer has been revoked by the director after notice and opportunity for hearing.
+      (i) The valuation of assets or reserve credits;
 
-      (5) Credit shall be allowed when the reinsurance is ceded to a foreign assuming insurer or a United States branch of an alien assuming insurer meeting all of the following requirements:
+      (ii) The amount and forms of security that support reinsurance arrangements; and
 
-      (a) The foreign assuming insurer must be domiciled in a state employing standards regarding credit for reinsurance that equal or exceed the standards applicable under this section. The United States branch of an alien assuming insurer must be entered through a state employing such standards.
+      (iii) The circumstances under which the director will reduce or eliminate credit.
 
-      (b) The foreign assuming insurer or United States branch of an alien assuming insurer must maintain a combined capital and surplus in an amount not less than $20,000,000. The requirement of this paragraph does not apply to reinsurance ceded and assumed pursuant to pooling arrangements among insurers in the same holding company system.
+      (3) The director shall allow credit under subsection (4), (5) or (6) of this section or under ORS 731.511 only with respect to cessions of the kinds or classes of business that the assuming insurer is licensed or otherwise permitted to write or assume in the state in which the assuming insurer is domiciled or, if the assuming insurer is an alien insurer, the state in which the assuming insurer is entered and is licensed or authorized to transact insurance or reinsurance. The director may allow credit under subsection (6) or (7) of this section only if the assuming insurer satisfies applicable requirements under subsection (10) of this section.
 
-      (c) The foreign assuming insurer or United States branch of an alien assuming insurer must submit to the authority of the director to examine its books and records.
+      (4) The director shall allow credit if the reinsurance is ceded to an authorized assuming insurer that accepts reinsurance of risks and retains the risk of the reinsurance within such limits as the assuming insurer is otherwise authorized to insure in this state, as provided in ORS 731.508.
 
-      (6) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that maintains a trust fund meeting the requirements of this subsection and additionally complies with other requirements of this subsection. The trust fund must be maintained in a qualified United States financial institution, as defined in ORS 731.510 (1), for the payment of the valid claims of its United States policyholders and ceding insurers and their assigns and successors in interest. The assuming insurer must report annually to the director information substantially the same as that required to be reported on the annual statement form by ORS 731.574 by authorized insurers, in order to enable the director to determine the sufficiency of the trust fund. The following requirements apply to such a trust fund:
+      (5) The director shall allow credit if the reinsurance is ceded to an assuming insurer that is accredited as a reinsurer in this state, as provided in ORS 731.511. The director may not allow credit to a domestic ceding insurer if the director has revoked accreditation of the assuming insurer after notice and opportunity for hearing.
 
-      (a) In the case of a single assuming insurer, the trust fund must consist of funds in trust in an amount not less than the assuming insurer’s liabilities attributable to reinsurance ceded by United States ceding insurers. In addition, the assuming insurer must maintain a trusteed surplus of not less than $20,000,000.
-
-      (b) In the case of a group including incorporated and individual unincorporated underwriters:
-
-      (A) For reinsurance ceded under reinsurance agreements with an inception, amendment or renewal date on or after August 1, 1995, the trust shall consist of a trusteed account in an amount not less than the group’s several liabilities attributable to business ceded by United States domiciled ceding insurers to any member of the group.
-
-      (B) For reinsurance ceded under reinsurance agreements with an inception date on or before July 31, 1995, and not amended or renewed after that date, notwithstanding the other provisions of ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the trust shall consist of a trusteed account in an amount not less than the group’s several insurance and reinsurance liabilities attributable to business written in the United States.
-
-      (C) In addition to the trusts described in subparagraphs (A) and (B) of this paragraph, the group shall maintain in trust a trusteed surplus of which $100,000,000 shall be held jointly for the benefit of the United States domiciled ceding insurers of any member of the group for all years of account.
-
-      (D) The incorporated members of the group shall not be engaged in any business other than underwriting as a member of the group and shall be subject to the same level of regulation and solvency control by the group’s domiciliary regulator as are the unincorporated members.
-
-      (E) Within 90 days after the group’s financial statements are due to be filed with the group’s domiciliary regulator, the group shall provide to the director an annual certification by the group’s domiciliary regulator of the solvency of each underwriter member or, if certification is unavailable, financial statements of each underwriter member of the group prepared by independent certified public accountants.
-
-      (c) In the case of a group of incorporated insurers described in this paragraph, the trust must be in an amount equal to the group’s several liabilities attributable to business ceded by United States ceding insurers to any member of the group pursuant to reinsurance contracts issued in the name of the group. This paragraph applies to a group of incorporated insurers under common administration that complies with the annual reporting requirements contained in this subsection and that has continuously transacted an insurance business outside the United States for at least three years immediately prior to making application for accreditation. Such a group must have an aggregate policyholders’ surplus of $10,000,000,000 and must submit to the authority of this state to examine its books and records and bear the expense of the examination. The group shall also maintain a joint trusteed surplus of which $100,000,000 must be held jointly for the benefit of United States ceding insurers of any member of the group as additional security for any such liabilities. Each member of the group shall make available to the director an annual certification of the member’s solvency by the member’s domiciliary regulator and its independent certified public accountant.
-
-      (d) The form of the trust and any amendment to the trust shall have been approved by the insurance commissioner of the state in which the trust is domiciled or by the insurance commissioner of another state who, pursuant to the terms of the trust instrument, has accepted principal regulatory oversight of the trust.
-
-      (e) The form of the trust and any trust amendments also shall be filed with the insurance commissioner of every state in which the ceding insurer beneficiaries of the trust are domiciled. The trust instrument must provide that contested claims shall be valid and enforceable upon the final order of any court of competent jurisdiction in the United States. The trust must vest legal title to its assets in its trustees for the benefit of the assuming insurer’s United States ceding insurers and their assigns and successors in interest. The trust and the assuming insurer are subject to examination as determined by the director. The trust must remain in effect for as long as the assuming insurer has outstanding obligations due under the reinsurance agreements subject to the trust.
-
-      (f) Not later than March 1 of each year, the trustees of each trust shall report to the director in writing the balance of the trust and listing the trust’s investments at the preceding year end, and shall certify the date of termination of the trust, if so planned, or certify that the trust will not expire prior to the following December 31.
-
-      (7) Credit shall be allowed when the reinsurance is ceded to an assuming insurer not meeting the requirements of subsection (3), (4), (5) or (6) of this section, but only as to the insurance of risks located in jurisdictions in which the reinsurance is required by applicable law or regulation of that jurisdiction.
-
-      (8) If the assuming insurer is not authorized to transact insurance in this state or accredited as a reinsurer in this state, the director shall not allow the credit permitted by subsections (5) and (6) of this section unless the assuming insurer agrees in the reinsurance agreement to the provisions stated in this subsection. This subsection is not intended to conflict with or override the obligation of the parties to a reinsurance agreement to arbitrate their disputes, if such an obligation is created in the agreement. The assuming insurer must agree in the reinsurance agreement:
-
-      (a) That in the event of the failure of the assuming insurer to perform its obligations under the terms of the reinsurance agreement, the assuming insurer, at the request of the ceding insurer, shall submit to the jurisdiction of any court of competent jurisdiction in any state of the United States, will comply with all requirements necessary to give the court jurisdiction and will abide by the final decision of the court or of any appellate court in the event of an appeal; and
-
-      (b) To designate the director or a designated attorney as its true and lawful attorney upon whom any lawful process in any action, suit or proceeding instituted by or on behalf of the ceding company may be served.
-
-      (9) Credit shall be allowed when the reinsurance is ceded to the Oregon Reinsurance Program established in section 18, chapter 538, Oregon Laws 2017.
-
-      (10) If the assuming insurer does not meet the requirements of subsection (3), (4) or (5) of this section, the credit permitted by subsection (6) of this section shall not be allowed unless the assuming insurer agrees in the trust agreements to the following conditions:
-
-      (a) Notwithstanding any other provisions in the trust instrument, if the trust fund is inadequate because it contains an amount less than the applicable amount required by subsection (6)(a), (b) or (c) of this section, or if the grantor of the trust has been declared insolvent or placed into receivership, rehabilitation, liquidation or similar proceedings under the laws of the grantor’s state or country of domicile, the trustee shall comply with an order of the insurance commissioner with regulatory oversight over the trust or with an order of a court of competent jurisdiction directing the trustee to transfer to the insurance commissioner with regulatory oversight all the assets of the trust fund.
-
-      (b) The assets shall be distributed by and claims shall be filed with and valued by the insurance commissioner with regulatory oversight in accordance with the laws of the state in which the trust is domiciled that are applicable to the liquidation of domestic insurance companies.
-
-      (c) If the insurance commissioner with regulatory oversight determines that the assets of the trust fund or any part thereof are not necessary to satisfy the claims of the United States ceding insurers of the grantor of the trust, the assets or part thereof shall be returned by the insurance commissioner according to the laws of that state and according to the terms of the trust agreement not inconsistent with the laws of that state.
-
-      (d) The grantor shall waive any right otherwise available to it under United States law that is inconsistent with this subsection. [1993 c.447 §65; 1995 c.99 §1; 2001 c.318 §15; 2013 c.698 §§5,35; 2017 c.538 §23]
-
- 
-
-      Note: The amendments to 731.509 by section 25, chapter 538, Oregon Laws 2017, become operative January 2, 2024. See section 46, chapter 538, Oregon Laws 2017. The text that is operative on and after January 2, 2024, is set forth for the user’s convenience.
-
-      731.509. (1) The purpose of ORS 731.509, 731.510, 731.511, 731.512 and 731.516 is to protect the interests of insureds, claimants, ceding insurers, assuming insurers and the public generally. The Legislative Assembly declares that its intent is to ensure adequate regulation of insurers and reinsurers and adequate protection for those to whom they owe obligations. In furtherance of that state interest, the Legislative Assembly mandates that upon the insolvency of an alien insurer or reinsurer that provides security to fund its United States obligations in accordance with ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the assets representing the security shall be maintained in the United States and claims shall be filed with and valued by the state insurance commissioner with regulatory oversight, and the assets shall be distributed in accordance with the insurance laws of the state in which the trust is domiciled that are applicable to the liquidation of domestic United States insurers. The Legislative Assembly declares that the laws contained in ORS 731.509, 731.510, 731.511, 731.512 and 731.516 are fundamental to the business of insurance in accordance with 15 U.S.C. 1011 and 1012.
-
-      (2) The Director of the Department of Consumer and Business Services shall not allow credit for reinsurance to a domestic ceding insurer as either an asset or a reduction from liability on account of reinsurance ceded unless credit is allowed as provided under ORS 731.508 and unless the reinsurer meets the requirements of:
-
-      (a) Subsection (3) of this section;
-
-      (b) Subsection (4) of this section;
-
-      (c) Subsections (5) and (8) of this section;
-
-      (d) Subsections (6) and (8) of this section; or
-
-      (e) Subsection (7) of this section.
-
-      (3) Credit shall be allowed when the reinsurance is ceded to an authorized assuming insurer that accepts reinsurance of risks, and retains risk thereon within such limits, as the assuming insurer is otherwise authorized to insure in this state as provided in ORS 731.508.
-
-      (4) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that is accredited as a reinsurer in this state as provided in ORS 731.511. The director shall not allow credit to a domestic ceding insurer if the accreditation of the assuming insurer has been revoked by the director after notice and opportunity for hearing.
-
-      (5) Credit shall be allowed when the reinsurance is ceded to a foreign assuming insurer or a United States branch of an alien assuming insurer meeting all of the following requirements:
+      (6) The director shall allow credit if the reinsurance is ceded to a foreign assuming insurer or a United States branch of an alien assuming insurer meeting all of the following requirements:
 
       (a) The foreign assuming insurer must be domiciled in a state employing standards regarding credit for reinsurance that equal or exceed the standards applicable under this section. The United States branch of an alien assuming insurer must be entered through a state employing such standards.
 
       (b) The foreign assuming insurer or United States branch of an alien assuming insurer must maintain a combined capital and surplus in an amount not less than $20,000,000. The requirement of this paragraph does not apply to reinsurance ceded and assumed pursuant to pooling arrangements among insurers in the same holding company system.
 
-      (c) The foreign assuming insurer or United States branch of an alien assuming insurer must submit to the authority of the director to examine its books and records.
+      (c) The foreign assuming insurer or United States branch of an alien assuming insurer must submit to the authority of the director to examine the foreign assuming insurer’s or alien assuming insurer’s books and records.
 
-      (6) Credit shall be allowed when the reinsurance is ceded to an assuming insurer that maintains a trust fund meeting the requirements of this subsection and additionally complies with other requirements of this subsection. The trust fund must be maintained in a qualified United States financial institution, as defined in ORS 731.510 (1), for the payment of the valid claims of its United States policyholders and ceding insurers and their assigns and successors in interest. The assuming insurer must report annually to the director information substantially the same as that required to be reported on the annual statement form by ORS 731.574 by authorized insurers, in order to enable the director to determine the sufficiency of the trust fund. The following requirements apply to such a trust fund:
+      (7) The director shall allow credit if the reinsurance is ceded to an assuming insurer that maintains a trust fund meeting the requirements of this subsection and subsection (8) of this section and that also complies with other requirements of this subsection and subsection (8) of this section. The trust fund must be maintained in a qualified United States financial institution, as defined in ORS 731.510 (1), for the payment of the valid claims of the assuming insurer’s United States policyholders and ceding insurers and the assigns and successors in interest of the policyholders and ceding insurers. The assuming insurer must report annually to the director information that is substantially the same as information authorized insurers must report on the annual statement form under ORS 731.574, in order to enable the director to determine the sufficiency of the trust fund. The assuming insurer shall submit to the director’s examination of the assuming insurer’s books and records and shall pay to the director the expenses of the examination.
 
-      (a) In the case of a single assuming insurer, the trust fund must consist of funds in trust in an amount not less than the assuming insurer’s liabilities attributable to reinsurance ceded by United States ceding insurers. In addition, the assuming insurer must maintain a trusteed surplus of not less than $20,000,000.
+      (8) The following requirements apply to the following categories of assuming insurers:
 
-      (b) In the case of a group including incorporated and individual unincorporated underwriters:
+      (a)(A) For a single assuming insurer, the trust fund must consist of funds in trust in an amount not less than the assuming insurer’s liabilities attributable to reinsurance ceded by United States ceding insurers. In addition, except as provided in subparagraph (B) of this paragraph, the assuming insurer must maintain a trusteed surplus of not less than $20,000,000.
 
-      (A) For reinsurance ceded under reinsurance agreements with an inception, amendment or renewal date on or after August 1, 1995, the trust shall consist of a trusteed account in an amount not less than the group’s several liabilities attributable to business ceded by United States domiciled ceding insurers to any member of the group.
+      (B) At any time after the assuming insurer permanently discontinues underwriting, for at least three full years, new business that the trust secures, the commissioner that has principal regulatory oversight over the trust may authorize a reduction in the required trusteed surplus, but only after finding based on an assessment of the risk that the new required surplus level is adequate to protect United States ceding insurers, policyholders and claimants in light of reasonably foreseeable adverse loss development. The risk assessment may involve an actuarial review, including an independent analysis of reserves and cash flows, and must consider all material risk factors, including, if applicable, the lines of business involved, the stability of the incurred loss estimates and the effect of the surplus requirements on the assuming insurer’s liquidity or solvency. The commissioner may not reduce the amount of the minimum required trusteed surplus below 30 percent of the assuming insurer’s liabilities that are attributable to reinsurance that United States ceding insurers covered by the trust have ceded.
 
-      (B) For reinsurance ceded under reinsurance agreements with an inception date on or before July 31, 1995, and not amended or renewed after that date, notwithstanding the other provisions of ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the trust shall consist of a trusteed account in an amount not less than the group’s several insurance and reinsurance liabilities attributable to business written in the United States.
+      (b) For a group that includes incorporated and individual unincorporated underwriters:
 
-      (C) In addition to the trusts described in subparagraphs (A) and (B) of this paragraph, the group shall maintain in trust a trusteed surplus of which $100,000,000 shall be held jointly for the benefit of the United States domiciled ceding insurers of any member of the group for all years of account.
+      (A) For reinsurance ceded under reinsurance agreements with an inception, amendment or renewal date on or after August 1, 1995, the trust must consist of a trusteed account in an amount not less than the group’s several liabilities attributable to business United States domiciled ceding insurers have ceded to any member of the group.
 
-      (D) The incorporated members of the group shall not be engaged in any business other than underwriting as a member of the group and shall be subject to the same level of regulation and solvency control by the group’s domiciliary regulator as are the unincorporated members.
+      (B) For reinsurance ceded under reinsurance agreements with an inception date on or before July 31, 1995, and not amended or renewed after that date, notwithstanding the other provisions of ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the trust must consist of a trusteed account in an amount not less than the group’s several insurance and reinsurance liabilities attributable to business written in the United States.
+
+      (C) In addition to the trusts described in subparagraphs (A) and (B) of this paragraph, the group shall maintain in trust a trusteed surplus of which $100,000,000 must be held jointly for the benefit of the United States domiciled ceding insurers of any member of the group for all years of account.
+
+      (D) The incorporated members of the group may not engage in any business other than underwriting as a member of the group and are subject to the same level of regulation and solvency control by the group’s domiciliary regulator as are the unincorporated members.
 
       (E) Within 90 days after the group’s financial statements are due to be filed with the group’s domiciliary regulator, the group shall provide to the director an annual certification by the group’s domiciliary regulator of the solvency of each underwriter member or, if certification is unavailable, financial statements of each underwriter member of the group prepared by independent certified public accountants.
 
-      (c) In the case of a group of incorporated insurers described in this paragraph, the trust must be in an amount equal to the group’s several liabilities attributable to business ceded by United States ceding insurers to any member of the group pursuant to reinsurance contracts issued in the name of the group. This paragraph applies to a group of incorporated insurers under common administration that complies with the annual reporting requirements contained in this subsection and that has continuously transacted an insurance business outside the United States for at least three years immediately prior to making application for accreditation. Such a group must have an aggregate policyholders’ surplus of $10,000,000,000 and must submit to the authority of this state to examine its books and records and bear the expense of the examination. The group shall also maintain a joint trusteed surplus of which $100,000,000 must be held jointly for the benefit of United States ceding insurers of any member of the group as additional security for any such liabilities. Each member of the group shall make available to the director an annual certification of the member’s solvency by the member’s domiciliary regulator and its independent certified public accountant.
+      (c) For the group of incorporated insurers described in this paragraph, the trust must be in an amount equal to the group’s several liabilities attributable to business ceded by United States ceding insurers to any member of the group pursuant to reinsurance contracts issued in the name of the group. This paragraph applies to a group of incorporated insurers under common administration that complies with the annual reporting requirements contained in subsection (7) of this section and that has continuously transacted an insurance business outside the United States for at least three years immediately before applying for accreditation. Such a group must have an aggregate policyholders’ surplus of $10,000,000,000 and must submit to the authority of this state to examine the group’s books and records and bear the expense of the examination. The group shall also maintain a joint trusteed surplus of which $100,000,000 must be held jointly for the benefit of United States ceding insurers of any member of the group as additional security for any such liabilities. Each member of the group shall make available to the director an annual certification of the member’s solvency by the member’s domiciliary regulator and the member’s independent certified public accountant.
 
-      (d) The form of the trust and any amendment to the trust shall have been approved by the insurance commissioner of the state in which the trust is domiciled or by the insurance commissioner of another state who, pursuant to the terms of the trust instrument, has accepted principal regulatory oversight of the trust.
+      (d) The form of the trust and any amendment to the trust must be approved by the insurance commissioner of the state in which the trust is domiciled or by the insurance commissioner of another state who, pursuant to the terms of the trust instrument, has accepted principal regulatory oversight of the trust.
 
-      (e) The form of the trust and any trust amendments also shall be filed with the insurance commissioner of every state in which the ceding insurer beneficiaries of the trust are domiciled. The trust instrument must provide that contested claims shall be valid and enforceable upon the final order of any court of competent jurisdiction in the United States. The trust must vest legal title to its assets in its trustees for the benefit of the assuming insurer’s United States ceding insurers and their assigns and successors in interest. The trust and the assuming insurer are subject to examination as determined by the director. The trust must remain in effect for as long as the assuming insurer has outstanding obligations due under the reinsurance agreements subject to the trust.
+      (e) The form of the trust and any trust amendments also must be filed with the insurance commissioner of every state in which the ceding insurer beneficiaries of the trust are domiciled. The trust instrument must provide that contested claims are valid and enforceable upon the final order of any court of competent jurisdiction in the United States. The trust must vest legal title to the trust’s assets in the trust’s trustees for the benefit of the assuming insurer’s United States ceding insurers and the assigns and successors in interest of the ceding insurers. The trust and the assuming insurer are subject to examination as determined by the director. The trust must remain in effect for as long as the assuming insurer has outstanding obligations due under the reinsurance agreements subject to the trust.
 
-      (f) Not later than March 1 of each year, the trustees of each trust shall report to the director in writing the balance of the trust and listing the trust’s investments at the preceding year end, and shall certify the date of termination of the trust, if so planned, or certify that the trust will not expire prior to the following December 31.
+      (f) Not later than March 1 of each year, the trustees of each trust shall report to the director in writing the balance of the trust, list the trust’s investments at the preceding year end and certify the date of termination of the trust, if a termination is planned, or certify that the trust will not expire prior to the following December 31.
 
-      (7) Credit shall be allowed when the reinsurance is ceded to an assuming insurer not meeting the requirements of subsection (3), (4), (5) or (6) of this section, but only as to the insurance of risks located in jurisdictions in which the reinsurance is required by applicable law or regulation of that jurisdiction.
+      (9) The director shall allow credit if the reinsurance is ceded to an assuming insurer that does not meet the requirements of subsection (4), (5), (6) or (7) of this section or ORS 731.511 (1) or (4), but only as to the insurance of risks located in jurisdictions in which the reinsurance is required by applicable law or regulation of that jurisdiction.
 
-      (8) If the assuming insurer is not authorized to transact insurance in this state or accredited as a reinsurer in this state, the director shall not allow the credit permitted by subsections (5) and (6) of this section unless the assuming insurer agrees in the reinsurance agreement to the provisions stated in this subsection. This subsection is not intended to conflict with or override the obligation of the parties to a reinsurance agreement to arbitrate their disputes, if such an obligation is created in the agreement. The assuming insurer must agree in the reinsurance agreement:
+      (10) If the assuming insurer is not licensed, accredited or certified to transact insurance or reinsurance in this state, the director may not allow the credit permitted by subsections (6) and (7) of this section unless the assuming insurer agrees in the reinsurance agreement to the provisions stated in this subsection. This subsection does not conflict with or override the obligation of the parties to a reinsurance agreement to arbitrate the parties’ disputes, if such an obligation is created in the agreement. The assuming insurer must agree in the reinsurance agreement:
 
-      (a) That in the event of the failure of the assuming insurer to perform its obligations under the terms of the reinsurance agreement, the assuming insurer, at the request of the ceding insurer, shall submit to the jurisdiction of any court of competent jurisdiction in any state of the United States, will comply with all requirements necessary to give the court jurisdiction and will abide by the final decision of the court or of any appellate court in the event of an appeal; and
+      (a) That if the assuming insurer fails to perform the assuming insurer’s obligations under the terms of the reinsurance agreement, the assuming insurer, at the request of the ceding insurer, shall submit to the jurisdiction of any court of competent jurisdiction in any state of the United States, will comply with all requirements necessary to give the court jurisdiction and will abide by the final decision of the court or of any appellate court in the event of an appeal; and
 
-      (b) To designate the director or a designated attorney as its true and lawful attorney upon whom any lawful process in any action, suit or proceeding instituted by or on behalf of the ceding company may be served.
+      (b) To designate the director or a designated attorney as the assuming insurer’s true and lawful attorney upon whom any lawful process in any action, suit or proceeding instituted by or on behalf of the ceding company may be served.
 
-      (9) If the assuming insurer does not meet the requirements of subsection (3), (4) or (5) of this section, the credit permitted by subsection (6) of this section shall not be allowed unless the assuming insurer agrees in the trust agreements to the following conditions:
+      (11) The director shall allow credit if the reinsurance is ceded to the Oregon Reinsurance Program established in section 18, chapter 538, Oregon Laws 2017.
 
-      (a) Notwithstanding any other provisions in the trust instrument, if the trust fund is inadequate because it contains an amount less than the applicable amount required by subsection (6)(a), (b) or (c) of this section, or if the grantor of the trust has been declared insolvent or placed into receivership, rehabilitation, liquidation or similar proceedings under the laws of the grantor’s state or country of domicile, the trustee shall comply with an order of the insurance commissioner with regulatory oversight over the trust or with an order of a court of competent jurisdiction directing the trustee to transfer to the insurance commissioner with regulatory oversight all the assets of the trust fund.
+      (12) If the assuming insurer does not meet the requirements of subsection (4), (5) or (6) of this section or ORS 731.511 (1) or (4), the director may not allow the credit permitted by subsection (7) of this section unless the assuming insurer agrees in the trust agreements to the following conditions:
 
-      (b) The assets shall be distributed by and claims shall be filed with and valued by the insurance commissioner with regulatory oversight in accordance with the laws of the state in which the trust is domiciled that are applicable to the liquidation of domestic insurance companies.
+      (a) Notwithstanding any other provisions in the trust instrument, if the trust fund is inadequate because the trust fund contains an amount less than the applicable amount required by subsection (8)(a), (b) or (c) of this section, or if the grantor of the trust has been declared insolvent or placed into receivership, rehabilitation, liquidation or similar proceedings under the laws of the grantor’s state or country of domicile, the trustee shall comply with an order of the insurance commissioner with regulatory oversight over the trust or with an order of a court of competent jurisdiction directing the trustee to transfer to the insurance commissioner with regulatory oversight all the assets of the trust fund.
 
-      (c) If the insurance commissioner with regulatory oversight determines that the assets of the trust fund or any part thereof are not necessary to satisfy the claims of the United States ceding insurers of the grantor of the trust, the assets or part thereof shall be returned by the insurance commissioner according to the laws of that state and according to the terms of the trust agreement not inconsistent with the laws of that state.
+      (b) The assets must be distributed by and claims must be filed with and valued by the insurance commissioner with regulatory oversight in accordance with the laws of the state in which the trust is domiciled that apply to the liquidation of domestic insurance companies.
 
-      (d) The grantor shall waive any right otherwise available to it under United States law that is inconsistent with this subsection.
+      (c) If the insurance commissioner with regulatory oversight determines that the assets of the trust fund or any part of the assets is not necessary to satisfy the claims of the United States ceding insurers of the grantor of the trust, the insurance commissioner of the state in which the trust is domiciled shall return the assets or part of the assets in accordance with the laws of the state and the terms of the trust agreement that are consistent with the laws of the state.
+
+      (d) The grantor shall waive any right otherwise available to the grantor under United States law that is inconsistent with this subsection. [1993 c.447 §65; 1995 c.99 §1; 2001 c.318 §15; 2013 c.698 §§5,35; 2017 c.538 §23; 2019 c.151 §20]
 
  
 
-      731.510 Criteria for allowing reduction from liability for reinsurance. (1) Subject to the provisions of ORS 731.508 relating to allowance of credit for reinsurance, the Director of the Department of Consumer and Business Services shall allow a reduction from liability for the reinsurance ceded by a domestic insurer to a reinsurer not meeting the requirements of ORS 731.509 in an amount not exceeding the liabilities carried by the ceding insurer, as provided in this section. The reduction shall be in the amount of funds held by or on behalf of the ceding insurer, including funds held in trust for the ceding insurer, under a reinsurance contract with the reinsurer as security for the payment of obligations thereunder, if the security:
+      Note: The amendments to 731.509 by section 25, chapter 538, Oregon Laws 2017, become operative January 2, 2024. See section 46, chapter 538, Oregon Laws 2017. The text that is operative on and after January 2, 2024, including amendments by section 21, chapter 151, Oregon Laws 2019, is set forth for the user’s convenience.
+
+      731.509. (1) The purpose of ORS 731.509, 731.510, 731.511, 731.512 and 731.516 is to protect the interests of insureds, claimants, ceding insurers, assuming insurers and the public generally. The Legislative Assembly declares that the intent of the Legislative Assembly is to ensure adequate regulation of insurers and reinsurers and adequate protection for those to whom insurers and reinsurers owe obligations. In furtherance of that state interest, the Legislative Assembly mandates that upon the insolvency of an alien insurer or reinsurer that provides security to fund the alien insurer’s or reinsurer’s United States obligations in accordance with ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the assets representing the security must be maintained in the United States and claims must be filed with and valued by the state insurance commissioner with regulatory oversight, and the assets must be distributed in accordance with the insurance laws of the state in which the trust is domiciled that are applicable to the liquidation of domestic United States insurers. The Legislative Assembly declares that the laws contained in ORS 731.509, 731.510, 731.511, 731.512 and 731.516 are fundamental to the business of insurance in accordance with 15 U.S.C. 1011 and 1012.
+
+      (2) The Director of the Department of Consumer and Business Services may not allow credit for reinsurance to a domestic ceding insurer as either an asset or a reduction from liability on account of reinsurance ceded unless credit is allowed as provided under ORS 731.508 and unless the reinsurer meets the requirements of:
+
+      (a) Subsection (4) of this section;
+
+      (b) Subsection (5) of this section and ORS 731.511 (1);
+
+      (c) Subsection (6) of this section;
+
+      (d) Subsections (7) and (8) of this section;
+
+      (e) ORS 731.511; or
+
+      (f)(A) Subsection (9) of this section; and
+
+      (B) Additional requirements that the director specifies by rule, which may include:
+
+      (i) The valuation of assets or reserve credits;
+
+      (ii) The amount and forms of security that support reinsurance arrangements; and
+
+      (iii) The circumstances under which the director will reduce or eliminate credit.
+
+      (3) The director shall allow credit under subsection (4), (5) or (6) of this section or under ORS 731.511 only with respect to cessions of the kinds or classes of business that the assuming insurer is licensed or otherwise permitted to write or assume in the state in which the assuming insurer is domiciled or, if the assuming insurer is an alien insurer, the state in which the assuming insurer is entered and is licensed or authorized to transact insurance or reinsurance. The director may allow credit under subsection (6) or (7) of this section only if the assuming insurer satisfies applicable requirements under subsection (10) of this section.
+
+      (4) The director shall allow credit if the reinsurance is ceded to an authorized assuming insurer that accepts reinsurance of risks and retains the risk of the reinsurance within such limits as the assuming insurer is otherwise authorized to insure in this state, as provided in ORS 731.508.
+
+      (5) The director shall allow credit if the reinsurance is ceded to an assuming insurer that is accredited as a reinsurer in this state as provided in ORS 731.511. The director may not allow credit to a domestic ceding insurer if the director has revoked accreditation of the assuming insurer after notice and opportunity for hearing.
+
+      (6) The director shall allow credit if the reinsurance is ceded to a foreign assuming insurer or a United States branch of an alien assuming insurer meeting all of the following requirements:
+
+      (a) The foreign assuming insurer must be domiciled in a state employing standards regarding credit for reinsurance that equal or exceed the standards applicable under this section. The United States branch of an alien assuming insurer must be entered through a state employing such standards.
+
+      (b) The foreign assuming insurer or United States branch of an alien assuming insurer must maintain a combined capital and surplus in an amount not less than $20,000,000. The requirement of this paragraph does not apply to reinsurance ceded and assumed pursuant to pooling arrangements among insurers in the same holding company system.
+
+      (c) The foreign assuming insurer or United States branch of an alien assuming insurer must submit to the authority of the director to examine the foreign assuming insurer’s or the alien assuming insurer’s books and records.
+
+      (7) The director shall allow credit if the reinsurance is ceded to an assuming insurer that maintains a trust fund meeting the requirements of this subsection and subsection (8) of this section and that also complies with other requirements of this subsection and subsection (8) of this section. The trust fund must be maintained in a qualified United States financial institution, as defined in ORS 731.510 (1), for the payment of the valid claims of the assuming insurer’s United States policyholders and ceding insurers and the assigns and successors in interest of the policyholders and ceding insurers. The assuming insurer must report annually to the director information that is substantially the same as information authorized insurers must report on the annual statement form under ORS 731.574, in order to enable the director to determine the sufficiency of the trust fund. The assuming insurer shall submit to the director’s examination of the assuming insurer’s books and records and shall pay to the director the expenses of the examination.
+
+      (8) The following requirements apply to the following categories of assuming insurers:
+
+      (a)(A) For a single assuming insurer, the trust fund must consist of funds in trust in an amount not less than the assuming insurer’s liabilities attributable to reinsurance ceded by United States ceding insurers. In addition, except as provided in subparagraph (B) of this paragraph, the assuming insurer must maintain a trusteed surplus of not less than $20,000,000.
+
+      (B) At any time after the assuming insurer permanently discontinues underwriting, for at least three full years, new business that the trust secures, the commissioner that has principal regulatory oversight over the trust may authorize a reduction in the required trusteed surplus, but only after finding based on an assessment of the risk that the new required surplus level is adequate to protect United States ceding insurers, policyholders and claimants in light of reasonably foreseeable adverse loss development. The risk assessment may involve an actuarial review, including an independent analysis of reserves and cash flows, and must consider all material risk factors including, if applicable, the lines of business involved, the stability of the incurred loss estimates and the effect of the surplus requirements on the assuming insurer’s liquidity or solvency. The commissioner may not reduce the amount of the minimum required trusteed surplus below 30 percent of the assuming insurer’s liabilities that are attributable to reinsurance that United States ceding insurers covered by the trust have ceded.
+
+      (b) For a group that includes incorporated and individual unincorporated underwriters:
+
+      (A) For reinsurance ceded under reinsurance agreements with an inception, amendment or renewal date on or after August 1, 1995, the trust must consist of a trusteed account in an amount not less than the group’s several liabilities attributable to business United States domiciled ceding insurers have ceded to any member of the group.
+
+      (B) For reinsurance ceded under reinsurance agreements with an inception date on or before July 31, 1995, and not amended or renewed after that date, notwithstanding the other provisions of ORS 731.509, 731.510, 731.511, 731.512 and 731.516, the trust must consist of a trusteed account in an amount not less than the group’s several insurance and reinsurance liabilities attributable to business written in the United States.
+
+      (C) In addition to the trusts described in subparagraphs (A) and (B) of this paragraph, the group shall maintain in trust a trusteed surplus of which $100,000,000 must be held jointly for the benefit of the United States domiciled ceding insurers of any member of the group for all years of account.
+
+      (D) The incorporated members of the group may not engage in any business other than underwriting as a member of the group and are subject to the same level of regulation and solvency control by the group’s domiciliary regulator as are the unincorporated members.
+
+      (E) Within 90 days after the group’s financial statements are due to be filed with the group’s domiciliary regulator, the group shall provide to the director an annual certification by the group’s domiciliary regulator of the solvency of each underwriter member or, if certification is unavailable, financial statements of each underwriter member of the group prepared by independent certified public accountants.
+
+      (c) For the group of incorporated insurers described in this paragraph, the trust must be in an amount equal to the group’s several liabilities attributable to business ceded by United States ceding insurers to any member of the group pursuant to reinsurance contracts issued in the name of the group. This paragraph applies to a group of incorporated insurers under common administration that complies with the annual reporting requirements contained in subsection (7) of this section and that has continuously transacted an insurance business outside the United States for at least three years immediately before applying for accreditation. Such a group must have an aggregate policyholders’ surplus of $10,000,000,000 and must submit to the authority of this state to examine the group’s books and records and bear the expense of the examination. The group shall also maintain a joint trusteed surplus of which $100,000,000 must be held jointly for the benefit of United States ceding insurers of any member of the group as additional security for any such liabilities. Each member of the group shall make available to the director an annual certification of the member’s solvency by the member’s domiciliary regulator and the member’s independent certified public accountant.
+
+      (d) The form of the trust and any amendment to the trust must be approved by the insurance commissioner of the state in which the trust is domiciled or by the insurance commissioner of another state who, pursuant to the terms of the trust instrument, has accepted principal regulatory oversight of the trust.
+
+      (e) The form of the trust and any trust amendments also must be filed with the insurance commissioner of every state in which the ceding insurer beneficiaries of the trust are domiciled. The trust instrument must provide that contested claims are valid and enforceable upon the final order of any court of competent jurisdiction in the United States. The trust must vest legal title to the trust’s assets in the trust’s trustees for the benefit of the assuming insurer’s United States ceding insurers and the assigns and successors in interest of the ceding insurers. The trust and the assuming insurer are subject to examination as determined by the director. The trust must remain in effect for as long as the assuming insurer has outstanding obligations due under the reinsurance agreements subject to the trust.
+
+      (f) Not later than March 1 of each year, the trustees of each trust shall report to the director in writing the balance of the trust, list the trust’s investments at the preceding year end and certify the date of termination of the trust, if a termination is planned, or certify that the trust will not expire prior to the following December 31.
+
+      (9) The director shall allow credit if the reinsurance is ceded to an assuming insurer that does not meet the requirements of subsection (4), (5), (6) or (7) of this section or ORS 731.511 (1) or (4), but only as to the insurance of risks located in jurisdictions in which the reinsurance is required by applicable law or regulation of that jurisdiction.
+
+      (10) If the assuming insurer is not licensed, accredited or certified to transact insurance or reinsurance in this state, the director may not allow the credit permitted by subsections (6) and (7) of this section unless the assuming insurer agrees in the reinsurance agreement to the provisions stated in this subsection. This subsection does not conflict with or override the obligation of the parties to a reinsurance agreement to arbitrate the parties’ disputes, if such an obligation is created in the agreement. The assuming insurer must agree in the reinsurance agreement:
+
+      (a) That if the assuming insurer fails to perform the assuming insurer’s obligations under the terms of the reinsurance agreement, the assuming insurer, at the request of the ceding insurer, shall submit to the jurisdiction of any court of competent jurisdiction in any state of the United States, will comply with all requirements necessary to give the court jurisdiction and will abide by the final decision of the court or of any appellate court in the event of an appeal; and
+
+      (b) To designate the director or a designated attorney as the assuming insurer’s true and lawful attorney upon whom any lawful process in any action, suit or proceeding instituted by or on behalf of the ceding company may be served.
+
+      (11) If the assuming insurer does not meet the requirements of subsection (4), (5) or (6) of this section or ORS 731.511 (1) or (4), the director may not allow the credit permitted by subsection (7) of this section unless the assuming insurer agrees in the trust agreements to the following conditions:
+
+      (a) Notwithstanding any other provisions in the trust instrument, if the trust fund is inadequate because the trust fund contains an amount less than the applicable amount required by subsection (8)(a), (b) or (c) of this section, or if the grantor of the trust has been declared insolvent or placed into receivership, rehabilitation, liquidation or similar proceedings under the laws of the grantor’s state or country of domicile, the trustee shall comply with an order of the insurance commissioner with regulatory oversight over the trust or with an order of a court of competent jurisdiction directing the trustee to transfer to the insurance commissioner with regulatory oversight all the assets of the trust fund.
+
+      (b) The assets must be distributed by and claims must be filed with and valued by the insurance commissioner with regulatory oversight in accordance with the laws of the state in which the trust is domiciled that apply to the liquidation of domestic insurance companies.
+
+      (c) If the insurance commissioner with regulatory oversight determines that the assets of the trust fund or any part of the assets is not necessary to satisfy the claims of the United States ceding insurers of the grantor of the trust, the insurance commissioner of the state in which the trust is domiciled shall return the assets or part of the assets in accordance with the laws of the state and the terms of the trust agreement that are consistent with the laws of the state.
+
+      (d) The grantor shall waive any right otherwise available to the grantor under United States law that is inconsistent with this subsection.
+
+ 
+
+      731.510 Criteria for allowing reduction from liability for reinsurance; rules. (1) Subject to the provisions of ORS 731.508 relating to allowance of credit for reinsurance, the Director of the Department of Consumer and Business Services shall allow a reduction from liability for the reinsurance a domestic insurer cedes to a reinsurer that does not meet the requirements of ORS 731.509 in an amount that does not exceed the liabilities the ceding insurer carries, as provided in this section. The reduction must be in the amount of funds held by or on behalf of the ceding insurer, including funds a reinsurer holds in trust for the ceding insurer as security for payment of obligations under a reinsurance contract with the reinsurer, if the security:
 
       (a) Is held in the United States subject to withdrawal solely by and under the exclusive control of the ceding insurer; or
 
       (b) In the case of a trust, is held in a qualified United States financial institution. For purposes of this paragraph, a qualified United States financial institution is an institution that:
 
-      (A) Is organized, or, in the case of a United States branch or agency office of a foreign banking organization, is licensed, under the laws of the United States or any state thereof and has been granted authority to operate with fiduciary powers; and
+      (A) Is organized, or, in the case of a United States branch or agency office of a foreign banking organization, is licensed, under the laws of the United States or any state and has been granted authority to operate with fiduciary powers; and
 
       (B) Is regulated, supervised and examined by federal or state authorities having regulatory authority over banks and trust companies.
 
@@ -2723,37 +2775,123 @@ LIMIT OF RISK; REINSURANCE
 
       (b) Securities listed by the Securities Valuation Office of the National Association of Insurance Commissioners and qualifying as allowed assets.
 
-      (c) Clean, irrevocable, unconditional letters of credit, issued or confirmed by a qualified United States financial institution, effective not later than December 31 of the year for which filing is being made, and in the possession of, or in trust for, the ceding company on or before the filing date of its annual statement. Letters of credit issued or confirmed by an institution meeting applicable standards of issuer acceptability as of the dates of their issuance or confirmation shall continue to be acceptable as security, notwithstanding the subsequent failure of the issuing or confirming institution to meet applicable standards of issuer acceptability, until their expiration, extension, renewal, modification or amendment, whichever occurs first. For purposes of this paragraph, a qualified United States financial institution is an institution that:
+      (c) Clean, irrevocable, unconditional letters of credit, issued or confirmed by a qualified United States financial institution, effective not later than December 31 of the year for which filing is being made, and in the possession of, or in trust for, the ceding company on or before the filing date of the ceding company’s annual statement. Letters of credit issued or confirmed by an institution meeting applicable standards of issuer acceptability as of the dates of issuance or confirmation of the letters of credit are acceptable as security, notwithstanding the subsequent failure of the issuing or confirming institution to meet applicable standards of issuer acceptability, until the letters of credit expire or are extended, renewed, modified or amended, whichever occurs first. For purposes of this paragraph, a qualified United States financial institution is an institution that:
 
-      (A) Is organized or, in the case of a United States office of a foreign banking organization, is licensed, under the laws of the United States or any state thereof;
+      (A) Is organized or, in the case of a United States office of a foreign banking organization, is licensed, under the laws of the United States or any state;
 
       (B) Is regulated, supervised and examined by United States federal or state authorities having regulatory authority over banks and trust companies; and
 
-      (C) Has been determined by the director to meet such standards of financial condition and standing as are considered necessary and appropriate to regulate the quality of financial institutions whose letters of credit will be acceptable to the director. For the purpose of making a determination under this subparagraph, the director shall consider and may accept determinations made by the Securities Valuation Office of the National Association of Insurance Commissioners as to whether a financial institution meets its standards of financial conditions and standing.
+      (C) Has been determined by the director to meet such standards of financial condition and standing as are considered necessary and appropriate to regulate the quality of financial institutions whose letters of credit will be acceptable to the director. For the purpose of making a determination under this subparagraph, the director shall consider and may accept determinations made by the Securities Valuation Office of the National Association of Insurance Commissioners as to whether a financial institution meets the office’s standards of financial conditions and standing.
 
-      (d) Any other form of security acceptable to the director. [1993 c.447 §66; 2001 c.318 §16]
+      (d) Any other form of security acceptable to the director.
+
+      (3) The director by rule may specify additional requirements for:
+
+      (a) Valuing assets or reserve credits;
+
+      (b) Setting the amount and forms of security to support reinsurance arrangements; and
+
+      (c) The circumstances under which the director will reduce or eliminate credit.
+
+      (4) In addition to the authority of the director described in subsection (3) of this section, the director by rule may adopt guidelines, rules, regulations or interpretive letters from the National Association of Insurance Commissioners that apply to reinsurance collateral requirements for alien reinsurers. [1993 c.447 §66; 2001 c.318 §16; 2019 c.151 §22]
 
  
 
-      731.511 Criteria to be met by assuming insurer in order to be accredited as reinsurer. (1) For purposes of allowing credit to a ceding domestic insurer under ORS 731.509 when the reinsurance is ceded to an assuming insurer that is accredited as a reinsurer in this state, an insurer may be accredited as a reinsurer in this state if the insurer:
+      731.511 Criteria to be met by assuming insurer in order to be accredited as reinsurer; rules. (1) For purposes of allowing credit to a ceding domestic insurer under ORS 731.509 if the reinsurance is ceded to an assuming insurer that is accredited as a reinsurer in this state, an insurer may be accredited as a reinsurer in this state if the insurer:
 
-      (a) Files and maintains with the Director of the Department of Consumer and Business Services evidence of its submission to the jurisdiction of this state;
+      (a) Files and maintains with the Director of the Department of Consumer and Business Services evidence of the insurer’s submission to the jurisdiction of this state;
 
-      (b) Submits to the authority of the director to examine its books and records;
+      (b) Submits to the authority of the director to examine the insurer’s books and records;
 
       (c) Is authorized or licensed to transact insurance or reinsurance in at least one state or, in the case of a United States branch of an alien assuming insurer, is entered through and authorized or licensed to transact insurance or reinsurance in at least one state;
 
-      (d) Files annually with the director a copy of its annual statement filed with the insurance department of its state of domicile and a copy of its most recent audited financial statement; and
+      (d) Files annually with the director a copy of the insurer’s annual statement filed with the insurance department of the insurer’s state of domicile and a copy of the insurer’s most recent audited financial statement; and
 
       (e) Satisfies either of the following requirements:
 
-      (A) Maintains combined capital and surplus in an amount that is not less than $20,000,000. An application for accreditation by an insurer who maintains the amount of combined capital and surplus specified in this subparagraph is considered to be approved if the application is not disapproved on or before the 90th day after the application is complete and is filed with the director.
+      (A) Maintains combined capital and surplus in an amount that is not less than $20,000,000. An application for accreditation by an insurer who maintains the amount of combined capital and surplus specified in this subparagraph is approved if the application is not disapproved on or before the 90th day after the application is complete and is filed with the director.
 
       (B) Maintains combined capital and surplus in an amount less than $20,000,000. An insurer applying for accreditation who maintains the amount of combined capital and surplus specified in this subparagraph is not accredited until the application for accreditation is approved by the director.
 
-      (2) An insurer that is accredited as a reinsurer in this state may accept reinsurance only of those risks and retain the risk thereon within such limits as the accredited reinsurer is otherwise authorized to insure directly in a state in which the accredited reinsurer is authorized or licensed to transact insurance.
+      (2) An insurer that is accredited as a reinsurer in this state may accept reinsurance only of those risks and retain the risk of the reinsurance within such limits as the accredited reinsurer is otherwise authorized to insure directly in a state in which the accredited reinsurer is authorized or licensed to transact insurance.
 
-      (3) The director may revoke the accreditation of an assuming insurer if the director determines that the assuming insurer has failed to continue to meet any of the requirements of subsection (1) of this section. [1993 c.447 §67]
+      (3) The director may revoke the accreditation of an assuming insurer if the director determines that the assuming insurer has failed to continue to meet any of the requirements of subsection (1) of this section.
+
+      (4)(a) The director shall allow credit if the reinsurance is ceded to an assuming insurer that the director certifies has:
+
+      (A) Maintained a minimum amount of capital and a surplus, or the equivalent, in an amount the director specifies by rule;
+
+      (B) Maintained a financial strength rating from two or more rating agencies that the director by rule deems acceptable for this purpose;
+
+      (C) Agreed to submit to the jurisdiction of the state, to appoint the director as the assuming insurer’s agent for the service of process in this state and to provide security for 100 percent of the assuming insurer’s liabilities that are attributable to reinsurance that ceding insurers have ceded, if the assuming insurer resists enforcement of a United States judgment;
+
+      (D) Agreed to meet applicable information filing requirements that the director specifies by rule;
+
+      (E) Included a covenant in the language of any trust the assuming insurer maintains to secure the assuming insurer’s obligations under ORS 731.509 (8), and in the language of an agreement between the assuming insurer and the commissioner with principal regulatory authority over the assuming insurer, that requires the assuming insurer to fund out of the remaining surplus of the trust any deficiency in a trust account that terminates; and
+
+      (F) Satisfied any other requirements that the director specifies for certification.
+
+      (b) The director may accredit an association as a reinsurer, including an incorporated underwriter or individual unincorporated underwriters, if the association, the incorporated underwriter or the individual unincorporated underwriter, as appropriate, meets the requirements set forth in paragraph (a) of this subsection and, in addition:
+
+      (A) Satisfies minimum capital and surplus requirements by means of the capital and surplus equivalents, net of liabilities, of the association and the association’s members, which must include a joint central fund with an amount that the director determines is adequate to satisfy any unsatisfied obligation of the association or a member of the association;
+
+      (B) Does not engage, as an incorporated member of the association, in any business other than underwriting and is subject to the same level of regulation and solvency control as the association’s unincorporated members are under the association’s domiciliary regulator; and
+
+      (C) Provides to the director each year, within 90 days after the association must file financial statements with the association’s domiciliary regulator, a certification from the association’s domiciliary regulator as to the solvency of each underwriting member of the association or, if a certification is not available, financial statements of each underwriting member of the association that certified public accounts have prepared.
+
+      (5)(a) The director shall publish a list of jurisdictions that the director considers qualified for the purpose of accrediting as a reinsurer an assuming insurer that is licensed and domiciled in the jurisdiction.
+
+      (b) To determine whether a domiciliary jurisdiction outside the United States is qualified for the purpose described in paragraph (a) of this subsection, the director shall:
+
+      (A) Evaluate and monitor how appropriate and effective the jurisdiction’s insurance supervisory system is and the extent to which the jurisdiction affords reinsurers that are licensed and domiciled in the United States rights, benefits and reciprocal recognition;
+
+      (B) Require that the jurisdiction share information and cooperate with the director in any matter that concerns a reinsurer that the director accredits and that is domiciled within the jurisdiction;
+
+      (C) Refuse to accredit a jurisdiction if the jurisdiction does not promptly and adequately enforce final United States judgments and arbitration awards; and
+
+      (D) Consider other criteria the director deems appropriate.
+
+      (c) To determine whether a domiciliary jurisdiction inside the United States is qualified for the purpose described in paragraph (a) of this subsection, the director shall:
+
+      (A) Consider the list of qualified jurisdictions that the National Association of Insurance Commissioners publishes and, if the director accredits a jurisdiction that does not appear on the National Association of Insurance Commissioners’ list, justify the director’s accreditation with appropriate documentation in accordance with rules the director adopts for this purpose; and
+
+      (B) Accredit United States jurisdictions that meet the requirements of the National Association of Insurance Commissioners’ financial standards and accreditation program.
+
+      (d) If an assuming insurer’s domiciliary jurisdiction ceases to qualify under paragraph (b) or (c) of this subsection, the director may suspend indefinitely the assuming insurer’s accreditation as a reinsurer.
+
+      (6)(a) The director by rule shall designate rating agencies upon which the director will rely for financial strength ratings for accredited reinsurers and shall give appropriate consideration to the rating agencies’ financial strength ratings in assigning ratings to each accredited reinsurer. The director shall publish a list of the accredited reinsurers together with the director’s corresponding rating for each.
+
+      (b) An accredited reinsurer shall secure obligations the accredited reinsurer assumes from ceding insurers at a level that is consistent with the rating the director assigns and in accordance with rules the director adopts.
+
+      (7)(a) In order for a ceding domestic insurer to qualify for full financial statement credit for reinsurance that the ceding domestic insurer cedes to an accredited reinsurer, the accredited reinsurer must maintain security in a form that is acceptable to the director and that is consistent with the requirements of ORS 731.510 or maintain security in a trust fund in accordance with ORS 731.509 (8), except as otherwise provided in this section.
+
+      (b) If an accredited reinsurer maintains a trust fund to fully secure the accredited reinsurer’s obligations under ORS 731.509 (8) and the trust fund is a multibeneficiary trust, the accredited reinsurer shall maintain separate trust accounts for the obligations the accredited reinsurer incurs under reinsurance agreements the accredited reinsurer issued or renewed as an accredited reinsurer with reduced security, as provided under this section or under comparable laws of other United States jurisdictions, and for obligations the accredited reinsurer incurs that are subject to ORS 731.509 (8).
+
+      (c) The minimum trusteed surplus requirements under ORS 731.509 (8) do not apply to an accredited reinsurer that maintains a multibeneficiary trust for the purpose of securing obligations under this subsection, except that the trust must maintain a minimum trusteed surplus of $100,000,000.
+
+      (8) The director shall reduce the allowable credit for ceding insurers by an amount that is proportionate to any deficiency in the security required for an accredited reinsurer under this section. The director may also reduce the allowable credit further if the director finds that a material risk exists that the accredited reinsurer will not pay the accredited reinsurer’s obligations in full when due.
+
+      (9)(a) Except as provided in paragraph (b) of this subsection, the director shall require an accredited reinsurer that has become inactive or has voluntarily surrendered accreditation as an accredited reinsurer, or for which the director has revoked or suspended accreditation, to secure 100 percent of the reinsurer’s obligations.
+
+      (b) The security requirement described in paragraph (a) of this subsection does not apply to an accredited reinsurer that is inactive, or for which the director has suspended accreditation, if the director maintains a high rating for the reinsurer under subsection (6) of this section.
+
+      (10) The director may accredit an assuming insurer as a reinsurer in this state if a jurisdiction that the National Association of Insurance Commissioners has qualified as meeting the association’s financial standards and accreditation has certified the assuming insurer as a reinsurer. The director may also assign to the accredited reinsurer the rating that the qualifying jurisdiction assigned to the accredited reinsurer.
+
+      (11) An accredited reinsurer that ceases to assume new business in this state may apply to the director to become inactive and to qualify for a reduction in security for the business the accredited reinsurer maintains. An inactive accredited reinsurer shall comply with all other applicable requirements of this section and the director shall assign a rating to the accredited reinsurer that accounts for the reasons that the accredited reinsurer is not assuming new business, if the reasons are relevant to the rating.
+
+      (12)(a) The director may suspend or revoke an assuming insurer’s accreditation as a reinsurer in this state if the assuming insurer fails to meet applicable requirements for accreditation.
+
+      (b) The director shall give an accredited reinsurer notice and an opportunity for a hearing before taking action under paragraph (a) of this subsection and a suspension or revocation is not effective until after the director’s final order unless:
+
+      (A) The accredited reinsurer waives the opportunity for a hearing;
+
+      (B) The director bases the final order on regulatory action by the accredited reinsurer’s domiciliary jurisdiction or on the accredited reinsurer’s having voluntarily surrendered or terminated the accredited reinsurer’s authorization to transact insurance or reinsurance in the domiciliary jurisdiction or in a jurisdiction whose certification of the reinsurer formed the basis upon which the director accredited the reinsurer in this state under subsection (10) of this section; or
+
+      (C) The director finds that an emergency requires immediate action and a court does not stay the director’s action.
+
+      (13) A reinsurance contract issued or renewed after the director suspends an accredited reinsurer’s certification does not qualify for credit unless the reinsurer secures the reinsurer’s obligations in accordance with ORS 731.510. The director may not grant credit for reinsurance after the effective date of the director’s revocation of accreditation unless the reinsurer secures the reinsurer’s obligations in accordance with subsections (6), (7) and (9) of this section or ORS 731.510.
+
+      (14) The director may adopt rules to implement the provisions of this section including, but not limited to, rules that adopt guidelines, rules, regulations or interpretive letters from the National Association of Insurance Commissioners that apply to reinsurance collateral requirements for alien reinsurers. [1993 c.447 §67; 2019 c.151 §23]
 
  
 
@@ -2764,6 +2902,12 @@ LIMIT OF RISK; REINSURANCE
       (3) The assuming insurer within a reasonable time shall replace the assumed insurance policies with its own, or by indorsement thereon acknowledge its liability thereunder.
 
       (4) This section is in addition to the requirements of ORS 732.517 to 732.546 and 742.150 to 742.162. [1967 c.359 §105; 1995 c.30 §10]
+
+ 
+
+      731.514 Ceding insurer’s management of reinsurance recoverables; requirement to diversify reinsurance program. (1) A ceding insurer shall manage the ceding insurer’s reinsurance recoverables in proportion to the ceding insurer’s book of business. A domestic ceding insurer shall notify the Director of the Department of Consumer and Business Services within 30 days after reinsurance recoverables from any single assuming insurer or group of affiliated assuming insurers exceeds or is likely to exceed 50 percent of the domestic ceding insurer’s surplus, as last reported to the ceding insurer’s policyholders. In the notification, the domestic ceding insurer shall demonstrate that the domestic ceding insurer is safely managing the exposure.
+
+      (2) A ceding insurer shall diversify the ceding insurer’s reinsurance program. A domestic ceding insurer shall notify the director within 30 days after ceding to any single assuming insurer or group of affiliated assuming insurers more than 20 percent of the ceding insurer’s gross written premium in the previous calendar year or after determining that the ceded reinsurance will likely exceed this percentage. In the notification, the domestic ceding insurer shall demonstrate that the domestic ceding insurer is safely managing the exposure. [2019 c.151 §2]
 
  
 
@@ -3341,25 +3485,33 @@ ASSESSMENTS, FEES AND TAXES
 
       (2) The director may collect fees for specific services provided by the department under the Insurance Code according to a schedule of fees established by the director by rule. The director may collect such fees in advance. In establishing the schedule for fees, the director shall take into consideration the cost of each service for which a fee is imposed.
 
-      (3) Establishment and amendment of the schedule of fees under subsection (2) of this section are subject to prior approval of the Oregon Department of Administrative Services and a report to the Emergency Board prior to adopting the fees and shall be within the budget authorized by the Legislative Assembly as that budget may be modified by the Emergency Board.
+      (3)(a) Notwithstanding the provisions of ORS 743A.067 (7)(e) and 743A.067 (9), for the purpose of mitigating inequity in the health insurance market, the director may assess a fee on any insurer that offers a health benefit plan, as defined in ORS 743B.005, that is exempt from a provision of ORS chapter 743A or other provision of the Insurance Code that requires specified coverage by health benefit plans.
 
-      (4) The director may not collect an assessment under subsection (1) of this section from any of the following persons:
+      (b) Any fees collected under paragraph (a) of this subsection must be the actuarial equivalent of costs attributed to the provision and administration of the required coverage by an insurer that is not exempt.
+
+      (c) Nothing in this section limits the authority of the director to enforce the provisions of ORS chapter 743A if an insurer unlawfully fails to comply.
+
+      (d) Notwithstanding ORS 646A.628, fees paid in accordance with paragraph (a) of this subsection shall be deposited in the General Fund to become available for general governmental expenses.
+
+      (4) Establishment and amendment of the schedule of fees under subsection (2) of this section are subject to prior approval of the Oregon Department of Administrative Services and a report to the Emergency Board prior to adopting the fees and shall be within the budget authorized by the Legislative Assembly as that budget may be modified by the Emergency Board.
+
+      (5) The director may not collect an assessment under subsection (1) of this section from any of the following persons:
 
       (a) A fraternal benefit society complying with ORS chapter 748.
 
       (b) Any person or class of persons designated by the director by rule.
 
-      (5) The director may not collect an assessment under subsection (1) of this section with respect to premiums received from any of the following policies:
+      (6) The director may not collect an assessment under subsection (1) of this section with respect to premiums received from any of the following policies:
 
       (a) Workers’ compensation insurance policies.
 
       (b) Wet marine and transportation insurance policies.
 
-      (c) Any category of policies designated by the director by rule. [1967 c.359 §131; 1971 c.231 §14; 1971 c.425 §7; 1983 c.94 §1; 1985 c.697 §17; 1987 c.373 §81; 1989 c.331 §24; 1989 c.413 §1; 1991 c.371 §1; 1991 c.703 §40; 1991 c.958 §5; 1993 c.265 §5; 2003 c.364 §75; 2005 c.31 §7; 2007 c.560 §1]
+      (c) Any category of policies designated by the director by rule. [1967 c.359 §131; 1971 c.231 §14; 1971 c.425 §7; 1983 c.94 §1; 1985 c.697 §17; 1987 c.373 §81; 1989 c.331 §24; 1989 c.413 §1; 1991 c.371 §1; 1991 c.703 §40; 1991 c.958 §5; 1993 c.265 §5; 2003 c.364 §75; 2005 c.31 §7; 2007 c.560 §1; 2019 c.285 §4]
 
  
 
-      731.808 “Gross amount of premiums” defined. As used in ORS 731.804, 731.812 and 731.820, “gross amount of premiums” means the consideration paid by insureds to an insurer for policies of insurance, and includes all premiums, assessments, dues and fees received or derived, or obligations taken therefor, by whatever term known. [1967 c.359 §132; 1989 c.413 §5]
+      731.808 “Gross amount of premiums” defined. As used in ORS 731.804, 731.812, 731.820, 731.830 and 731.834, “gross amount of premiums” means the consideration paid by insureds to an insurer for policies of insurance, and includes all premiums, assessments, dues and fees received or derived, or obligations taken therefor, by whatever term known. [1967 c.359 §132; 1989 c.413 §5; 2019 c.493 §4]
 
  
 
@@ -3411,57 +3563,87 @@ ASSESSMENTS, FEES AND TAXES
 
  
 
-      731.824 Tax on underwriting profits of wet marine and transportation insurers. (1) Wet marine and transportation insurance written by foreign or alien insurers within this state shall be taxed only on that proportion of the total underwriting profit of such insurer from such insurance written within the United States that the gross premiums of the insurer from such insurance written within this state bear to the gross premiums of such insurer from such insurance written within the United States.
+      731.824 Tax on underwriting profits of wet marine and transportation insurers. (1) Wet marine and transportation insurance written by authorized foreign or alien insurers within this state shall be taxed only on that proportion of the total underwriting profit of the authorized insurer from wet marine and transportation insurance written within the United States that the gross premiums of the authorized insurer from wet marine and transportation insurance written within this state bear to the gross premiums of the authorized insurer from wet marine and transportation insurance written within the United States.
 
-      (2) The “underwriting profit,” for purposes of this section, is arrived at by deducting from the net earned premiums on such insurance policies written within the United States during the calendar year:
+      (2) The “underwriting profit,” for purposes of this section, is arrived at by deducting from the net earned premiums on wet marine and transportation insurance policies written within the United States during the calendar year:
 
-      (a) The losses incurred, and
+      (a) The losses incurred; and
 
-      (b) Expenses incurred, including all taxes, state and federal, in connection with such net earned premiums.
+      (b) Expenses incurred, including all taxes, state and federal, in connection with net earned premiums.
 
-      (3) The amount of “net earned premiums” on such insurance policies written during the calendar year is the sum of paragraphs (a) and (b) less paragraph (c) of this subsection.
+      (3) The amount of “net earned premiums” on wet marine and transportation insurance policies written during the calendar year is the sum of paragraphs (a) and (b) of this subsection less paragraph (c) of this subsection:
 
-      (a) Gross premiums on such insurance policies written during the calendar year, less any and all return premiums, any and all premiums on policies not taken and any and all premiums paid for such reinsurance.
+      (a) Gross premiums on wet marine and transportation insurance policies written during the calendar year, less any and all return premiums, any and all premiums on policies not taken and any and all premiums paid for reinsurance.
 
-      (b) Unearned premiums on such outstanding marine business at the end of the preceding calendar year.
+      (b) Unearned premiums on outstanding marine business at the end of the preceding calendar year.
 
-      (c) Unearned premiums on such outstanding marine business at the end of the current calendar year.
+      (c) Unearned premiums on outstanding marine business at the end of the current calendar year.
 
-      (4) “Losses incurred,” as used in this section, means gross losses incurred during the calendar year under such policies written within the United States, less reinsurance claims collected or collectible and salvages or recoveries collectible from any source applicable to the such losses.
+      (4) “Losses incurred,” as used in this section, means gross losses incurred during the calendar year under policies written within the United States, less reinsurance claims collected or collectible and salvages or recoveries collectible from any source applicable to the losses.
 
       (5) “Expenses incurred” includes:
 
-      (a) Specific expenses incurred on such earned wet marine and transportation insurance premiums, consisting of all commissions, agency expenses, taxes, licenses, fees, loss-adjustment expenses, and all other expenses incurred directly and specifically in connection with such premiums, less recoveries or reimbursements on account of or in connection with such commissions or other expenses collected or collectible because of reinsurance or from any other source.
+      (a) Specific expenses incurred on earned wet marine and transportation insurance premiums, consisting of all commissions, agency expenses, taxes, licenses, fees, loss-adjustment expenses, and all other expenses incurred directly and specifically in connection with the premiums, less recoveries or reimbursements on account of or in connection with commissions or other expenses collected or collectible because of reinsurance or from any other source.
 
-      (b) General expenses incurred on such earned premiums, consisting of that proportion of general or overhead expenses, such as salaries of officers and employees, printing and stationery, all taxes of this state and of the United States, except as otherwise provided herein, and all other expenses not chargeable specifically to a particular class of insurance, which the net premiums of such insurance written bear to the total net premiums written by such insurer from all classes of insurance written by it during the current calendar year. However, in arriving at the “underwriting profit” for purposes of taxation under this section there shall not be deducted in respect to expenses incurred, as defined and specified in paragraphs (a) and (b) of this subsection, amounts which, in the aggregate, exceed 40 percent of the gross premiums on such insurance policies. [Formerly 745.145]
+      (b) General expenses incurred on earned premiums, consisting of that proportion of general or overhead expenses, such as salaries of officers and employees, printing and stationery, all taxes of this state and of the United States, except as otherwise provided in this section, and all other expenses not chargeable specifically to a particular class of insurance, that the net premiums of insurance written bear to the total net premiums written by an authorized insurer from all classes of insurance written by the authorized insurer during the current calendar year. However, in arriving at the “underwriting profit” for purposes of taxation under this section there may not be deducted in respect to expenses incurred, as defined and specified in this subsection, amounts that, in the aggregate, exceed 40 percent of the gross premiums on the insurance policies. [Formerly 745.145; 2019 c. 493 §1]
 
  
 
-      731.828 Computation of wet marine and transportation insurance tax. (1) Each insurer transacting wet marine and transportation insurance in this state shall file annually on or before June 15 with the Director of the Department of Consumer and Business Services and in the form prescribed by the director, a report of all the items pertaining to its insurance business as enumerated and prescribed in ORS 731.824.
+      731.828 Computation of wet marine and transportation insurance tax. (1) Each authorized insurer transacting wet marine and transportation insurance in this state shall file annually on or before June 15 with the Director of the Department of Consumer and Business Services and in the form prescribed by the director, a report of all the items pertaining to the authorized insurer’s insurance business as enumerated and prescribed in ORS 731.824.
 
-      (2) Each insurer that has been writing such insurance in this state for three years shall furnish the director a statement of all of the items referred to in subsection (1) of this section, in the form prescribed by the director, for each of the preceding three calendar years. An insurer that has not been writing such insurance for three years shall furnish to the director a statement of all such items for each of the calendar years during which it has written such insurance.
+      (2) Each authorized insurer that has written wet marine and transportation insurance in this state for three years shall furnish to the director a statement of all of the items referred to in subsection (1) of this section, in the form prescribed by the director, for each of the preceding three calendar years. An authorized insurer that has not written wet marine and transportation insurance for three years shall furnish to the director a statement of all items for each of the calendar years during which the authorized insurer has written wet marine and transportation insurance.
 
-      (3) On or before June 15 of each year, if the insurer has transacted such insurance for three years, the insurer shall:
+      (3) On or before June 15 of each year, if the authorized insurer has transacted wet marine and transportation insurance for three years, the authorized insurer shall:
 
-      (a) Ascertain the average annual underwriting profit, as provided in ORS 731.824, derived by the insurer from such insurance business written within the United States during the last preceding three calendar years.
+      (a) Ascertain the average annual underwriting profit, as provided in ORS 731.824, derived by the authorized insurer from wet marine and transportation insurance business written within the United States during the last preceding three calendar years.
 
-      (b) Ascertain the proportion which the average annual premiums of the insurer from such insurance written by it in this state during the last preceding three calendar years bears to the average total of such wet marine and transportation insurance premiums of the insurer during the same three years.
+      (b) Ascertain the proportion that the average annual premiums of the authorized insurer from wet marine and transportation insurance written by the authorized insurer in this state during the last preceding three calendar years bears to the average total of wet marine and transportation insurance premiums of the authorized insurer during the same three years.
 
-      (c) Pay five percent on this proportion of the average annual underwriting profit of the insurer from such insurance to the director as a tax upon such insurance written by it in this state during the current calendar year.
+      (c) Pay five percent on this proportion of the average annual underwriting profit of the authorized insurer from wet marine and transportation insurance to the director as a tax upon the insurance written by the authorized insurer in this state during the current calendar year.
 
-      (4) The insurer each year shall compute the tax, according to the method described in this section, upon the average annual underwriting profit of such insurer from such insurance during the preceding three years, including the current calendar year. At the expiration of each current calendar year, the profit or loss on such insurance business of that year is to be added or deducted, and the profit or loss upon such insurance business of the first calendar year of the preceding three-year period is to be dropped so that the computation of underwriting profit for purposes of taxation under this section will always be on a three-year average.
+      (4) The authorized insurer each year shall compute the tax, according to the method described in this section, upon the authorized insurer’s average annual underwriting profit from wet marine and transportation insurance during the preceding three years, including the current calendar year. At the expiration of each current calendar year, the profit or loss on wet marine and transportation insurance business of that year is to be added or deducted, and the profit or loss upon the insurance business of the first calendar year of the preceding three-year period is to be dropped so that the computation of underwriting profit for purposes of taxation under this section will always be on a three-year average.
 
-      (5) An insurer that has not been writing wet marine and transportation insurance in this state for three years shall, until it has transacted such business in this state for that number of years, be taxed on the basis of its annual underwriting profit on such insurance written within the United States for the current calendar year, subject, however, to an adjustment in the tax as soon as the insurer, in accordance with the provisions of this section, is enabled to compute the tax on the three-year basis.
+      (5) An authorized insurer that has not written wet marine and transportation insurance in this state for three years shall, until the authorized insurer has transacted wet marine and transportation insurance in this state for three years, be taxed on the basis of the authorized insurer’s annual underwriting profit on wet marine and transportation insurance written within the United States for the current calendar year, subject, however, to an adjustment in the tax as soon as the authorized insurer, in accordance with the provisions of this section, is enabled to compute the tax on the three-year basis.
 
-      (6) In the case of mutual insurers the insurer shall not include in the underwriting profit, when computing the tax prescribed by this section, the amounts refunded by such insurers on account of premiums previously paid by their policyholders.
+      (6) In the case of authorized mutual insurers, the authorized insurer may not include in the underwriting profit, when computing the tax prescribed by this section, the amounts refunded by the mutual insurers on account of premiums previously paid by the policyholders of the mutual insurers.
 
-      (7) If the director, during the period in which the director under ORS 731.836 may collect taxes owing under this section, finds the amount of such taxes paid by an insurer to have been incorrect, the director shall charge or credit the insurer with the difference between the correct amount of tax and the amount actually paid.
+      (7) If the director, during the period in which the director under ORS 731.836 may collect taxes owing under this section, finds the amount of taxes paid by an authorized insurer to have been incorrect, the director shall charge or credit the authorized insurer with the difference between the correct amount of tax and the amount actually paid.
 
-      (8) If an insurer ceases to transact wet marine and transportation insurance in the state, it shall thereupon make report to the director of the items pertaining to such insurance business, as enumerated and described in this section, to the date of its ceasing to transact such insurance and not theretofore reported, and forthwith pay to the director the taxes computed according to this section and the annual authorization fees thereon. [Formerly 745.150; 1969 c.158 §1; 1975 c.250 §1; 1989 c.700 §7]
+      (8) If an authorized insurer ceases to transact wet marine and transportation insurance in this state, the authorized insurer shall report to the director the items the authorized insurer has not previously reported pertaining to the insurance business, as enumerated and described in this section, to the date on which the authorized insurer ceased to transact wet marine and transportation insurance, and shall forthwith pay to the director the taxes computed according to this section and the annual authorization fees thereon. [Formerly 745.150; 1969 c.158 §1; 1975 c.250 §1; 1989 c.700 §7; 2019 c.493 §2]
+
+ 
+
+      731.830 Premium tax on gross amount of premiums insurer receives for wet marine and transportation insurance. An insurance producer shall pay to the Director of the Department of Consumer and Business Services a premium tax that is equal to three-fourths of one percent of the gross amount of premiums the insurance producer receives for wet marine and transportation insurance that the insurance producer places with unauthorized or nonadmitted insurers if the insured’s home state is Oregon. [2019 c.493 §6]
 
  
 
       731.832 [Formerly 736.175; 1987 c.373 §82; repealed by 1995 c.786 §4]
+
+ 
+
+      731.833 Record keeping requirements for wet marine and transportation insurance contracts. (1) Each producer of nonadmitted wet marine and transportation insurance shall keep a full and true record of each nonadmitted wet marine and transportation insurance contract placed on an Oregon home state risk. The record must include a copy of the policy, certificate, cover note or other evidence of insurance that the Director of the Department of Consumer and Business Services specifies by rule.
+
+      (2) A producer shall keep the record described in subsection (1) of this section open at all reasonable times to the director’s examination, without notice, for a period of not less than five years after termination of the nonadmitted wet marine and transportation insurance contract. [2019 c.493 §7]
+
+ 
+
+      731.834 Insurance producer’s collection of taxes on wet marine and transportation insurance; report to director; rules. (1) An insurance producer that places wet marine and transportation insurance with a nonadmitted insurer shall collect taxes on the insurance in addition to the gross amount of premiums the insurance producer and other intermediaries charge. If an insurance producer collects taxes under this subsection, the insurance producer shall return directly to the policyholder the taxes that the state credited to the licensee on any portion of the premium that is unearned at the termination of the insurance. The insurance producer may not absorb the taxes or rebate any part of the taxes for any reason.
+
+      (2) Each producer of nonadmitted wet marine and transportation insurance shall file with the Director of the Department of Consumer and Business Services, in accordance with the director’s prescription, a verified report of any Oregon home state risk nonadmitted wet marine and transportation insurance the producer transacted during the previous 90 days and shall accompany the report with payment of the tax due on each transaction. The report need not show transacted insurance that the producer filed in an earlier report. The report must show:
+
+      (a) Gross amount of premiums or return premium; and
+
+      (b) The amount of the tax.
+
+      (3) The director may require insurance producers to file the report described in subsection (2) of this section on a form the director specifies or on a form that the Surplus Line Association of Oregon prescribes. If the director specifies that a producer must file the report on a Surplus Line Association of Oregon form, the association shall file the report with the director. The director may also permit electronic filing and may exempt a licensee from the requirement to file for good cause shown.
+
+      (4) Notwithstanding subsection (2) of this section, if an insurance producer’s license is terminated or not renewed for any reason, the taxes described in this section are due on the 30th day after the termination or nonrenewal.
+
+      (5) The director by rule may establish requirements for filing reports on nonadmitted wet marine and transportation insurance transacted outside this state on Oregon home state risks for the purpose of collecting taxes on insurance that covers Oregon home state risks that is placed outside this state.
+
+      (6) The director may collect taxes on 100 percent of the gross amount of premiums on Oregon home state risks for the purposes of carrying out the Nonadmitted and Reinsurance Reform Act of 2010 (P.L. 111-203, Title V, Subtitle B). If the director enters into a compact or otherwise establishes procedures with other states under ORS 735.418, the director by rule shall establish procedures to facilitate reporting, collecting, paying, allocating and disbursing premium taxes on Oregon home state risks that also include risks that are allocable to other states.
+
+      (7) If an insurance producer does not pay within the prescribed time a tax the producer must collect under this section, the director may bring an action against the insurance producer to recover the amount of the unpaid tax. [2019 c.493 §8]
 
  
 
@@ -3491,7 +3673,7 @@ ASSESSMENTS, FEES AND TAXES
 
  
 
-      731.842 Adjustment of amount to be prepaid for taxes; extension of time for payment; interest; penalty for late payment. (1) The Director of the Department of Consumer and Business Services may grant, for good cause shown, a request for an adjustment of the amount of the prepayment due under ORS 731.822 or an extension of time for payment of taxes under ORS 731.808 to 731.828 and 731.859. The extension shall be requested no later than the due date and may not exceed 30 days or one month, whichever is longer, except that an extension of time for payments under ORS 731.822 may not exceed 10 days.
+      731.842 Adjustment of amount to be prepaid for taxes; extension of time for payment; interest; penalty for late payment. (1) The Director of the Department of Consumer and Business Services may grant, for good cause shown, a request for an adjustment of the amount of the prepayment due under ORS 731.822 or an extension of time for payment of taxes under ORS 731.808 to 731.834 and 731.859. The extension shall be requested no later than the due date and may not exceed 30 days or one month, whichever is longer, except that an extension of time for payments under ORS 731.822 may not exceed 10 days.
 
       (2) Interest at the rate of two-thirds of one percent per month or fraction of a month shall accrue on any such tax payment not made by the due date (determined without regard to extensions).
 
@@ -3600,8 +3782,6 @@ PENALTIES
       (3) An officer, director or employee of an insurance holding company system who willfully and knowingly makes, causes to be made, or subscribes to, a false statement, report or filing with the intent to deceive the Director of the Department of Consumer and Business Services in the performance of the director’s duties under ORS 732.517 to 732.596 is guilty of a Class C misdemeanor. The officer, director or employee shall pay any fines imposed under this subsection in the officer’s, director’s or employee’s individual capacity.
 
       (4) A violation of any provision of the Insurance Code for which the Insurance Code or other applicable laws of this state do not provide a greater penalty, in addition to any applicable prescribed denial, suspension or revocation of any certificate or license or any civil forfeiture, is a Class A misdemeanor. [1967 c.359 §145; 1987 c.158 §154a; 2011 c.597 §297; 2013 c.370 §16]
-
- 
 
 _______________
 

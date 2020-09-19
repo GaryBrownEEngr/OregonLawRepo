@@ -4,14 +4,6 @@ Chapter 417 — Interstate Compacts on Juveniles and Children; Children and Fami
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0121
-
- 
-
  
 
 
@@ -283,6 +275,18 @@ SERVICES TO CHILDREN AND FAMILIES
 
  
 
+417.781     Early Childhood Equity Fund
+
+ 
+
+417.782     Early childhood support grant program; rules
+
+ 
+
+417.784     Infant and toddler care program
+
+ 
+
 417.786     Definitions for ORS 417.788
 
  
@@ -291,7 +295,7 @@ SERVICES TO CHILDREN AND FAMILIES
 
  
 
-417.790     Grants for services and initiatives and Great Start
+417.790     Grants for services, initiatives and other programs
 
  
 
@@ -303,7 +307,7 @@ SERVICES TO CHILDREN AND FAMILIES
 
  
 
-417.796     State advisory council for federal Head Start Act purposes; duties; public hearings and comment; annual statewide strategic report
+417.796     Early childhood education and development programs and services; public hearings and comment; annual statewide strategic report
 
  
 
@@ -363,7 +367,11 @@ YOUTH DEVELOPMENT COUNCIL
 
  
 
-417.850     Additional duties of council
+417.850     Additional duties of council; rules
+
+ 
+
+417.851     Juvenile detention data; rules
 
  
 
@@ -384,6 +392,10 @@ YOUTH DEVELOPMENT COUNCIL
  
 
 417.857     Deschutes County; waiver; early intervention
+
+ 
+
+417.859     Statewide youth reengagement system; rules
 
  
 
@@ -417,7 +429,7 @@ THE INTERSTATE COMPACT FOR JUVENILES
 
       (b) The cooperation of this state with other states is necessary to provide for the welfare and protection of juveniles and of the people of this state.
 
-      (2) It is therefore the policy of this state, in adopting the Interstate Compact on Juveniles, to cooperate fully with other states in returning juveniles to such other states whenever their return is sought, to accept the return of juveniles whenever a juvenile residing in this state is found or apprehended in another state and to take all measures to initiate proceedings for the return of such juveniles. [1959 c.434 §1]
+      (2) It is therefore the policy of this state, in adopting the Interstate Compact for Juveniles, to cooperate fully with other states in returning juveniles to such other states whenever their return is sought, to accept the return of juveniles whenever a juvenile residing in this state is found or apprehended in another state and to take all measures to initiate proceedings for the return of such juveniles. [1959 c.434 §1; 2019 c.382 §22]
 
  
 
@@ -819,9 +831,7 @@ BINDING EFFECT OF COMPACT AND OTHER LAWS
 
       5. The State of Oregon is bound by the bylaws and rules promulgated under this compact only to the extent that the operation of the bylaws and rules does not impose an obligation exceeding any limitation on state power or authority contained in the Oregon Constitution as interpreted by the state courts of Oregon.
 
-______________________________________________________________________________
-
-[1959 c.434 §2; 1979 c.288 §4; 2009 c.891 §1]
+______________________________________________________________________________ [1959 c.434 §2; 1979 c.288 §4; 2009 c.891 §1]
 
  
 
@@ -1051,9 +1061,7 @@ CONSTRUCTION AND SEVERABILITY
 
       The provisions of this compact shall be liberally construed to effectuate the purposes thereof. The provisions of this compact shall be severable and if any phrase, clause, sentence or provision of this compact is declared to be contrary to the constitution of any party state or of the United States or the applicability thereof to any government, agency, person or circumstance is held invalid, the validity of the remainder of this compact and the applicability thereof to any government, agency, person or circumstance shall not be affected thereby. If this compact shall be held contrary to the constitution of any state party thereto, the compact shall remain in full force and effect as to the remaining states and in full force and effect as to the state affected as to all severable matters.
 
-______________________________________________________________________________
-
-[1975 c.482 §1]
+______________________________________________________________________________ [1975 c.482 §1]
 
  
 
@@ -1991,11 +1999,121 @@ SERVICES TO CHILDREN AND FAMILIES
 
  
 
-      417.785 [1993 c.676 §16; 1999 c.1053 §16; 2012 c.37 §48; 2012 c.97 §27; repealed by 2012 c.37 §103 and 2013 c.728 §12]
+(Programs and Services)
 
  
 
-(Programs and Services)
+      417.781 Early Childhood Equity Fund. (1) The Early Childhood Equity Fund is established in the State Treasury, separate and distinct from the General Fund. Moneys in the Early Childhood Equity Fund are continuously appropriated to the Department of Education for the Early Learning Division to make grants under ORS 417.782 to culturally specific early learning, early childhood and parent support programs and to promote the capacity of culturally specific organizations to deliver these programs.
+
+      (2) The fund shall consist of:
+
+      (a) Moneys appropriated or otherwise transferred to the fund from the Legislative Assembly;
+
+      (b) Earnings received on moneys in the fund; and
+
+      (c) Other amounts deposited into the fund from any source. [2019 c.122 §53]
+
+ 
+
+      Note: 417.781 and 417.782 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 417 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      417.782 Early childhood support grant program; rules. (1) The Early Learning Division may make grants from the Early Childhood Equity Fund established under ORS 417.781 to culturally specific early learning, early childhood and parent support programs in this state that build capacity in communities, ensure children start kindergarten ready to succeed and support families to be stable, healthy and attached. For purposes of this subsection, a program is in this state if the program serves communities within the geographic boundaries of this state, including communities within Indian country of a federally recognized Oregon Indian tribe that is within the geographic boundaries of this state.
+
+      (2) To receive a grant under this section, a program must:
+
+      (a) Provide outreach, support and resources to children and families who are at risk because of any combination of two or more factors, including their race, ethnicity, English language proficiency, socioeconomic status and geographic location; and
+
+      (b) Demonstrate a proven ability to provide outreach, support and resources to children and families described in paragraph (a) of this subsection.
+
+      (3) The division shall monitor capacity needs and provide technical assistance to grantees.
+
+      (4) The division shall conduct a biennial evaluation of programs that receive grants under this section. The evaluation shall include measurement of outcomes that align with:
+
+      (a) Current research regarding positive child and family indicators, including family stability and early childhood school readiness; and
+
+      (b) Culturally specific approaches.
+
+      (5) The Early Learning Council, in consultation with the division, shall adopt rules necessary to carry out the provisions of this section. The rules shall include requirements for grant eligibility under this section.
+
+      (6) On or before September 15 of each odd-numbered year, the division shall submit to the interim committees of the Legislative Assembly related to early childhood and child welfare a report on the status and impact of grants made to programs under this section. The report shall include changes in the capacity of culturally specific organizations and the results of any biennial evaluations conducted in accordance with subsection (4) of this section. [2019 c.122 §54]
+
+ 
+
+      Note: See note under 417.781.
+
+ 
+
+      417.784 Infant and toddler care program. (1) As used in this section:
+
+      (a) “Local entity” includes:
+
+      (A) An Early Learning Hub designated under ORS 417.827;
+
+      (B) A resource and referral entity;
+
+      (C) An education service district;
+
+      (D) A federal Head Start program;
+
+      (E) A community-based organization; or
+
+      (F) Any entity identified by the Early Learning Division.
+
+      (b) “Provider” means a provider of infant and toddler care.
+
+      (c) “Resource and referral entity” means a resource and referral entity established under ORS 329A.100 to 329A.135.
+
+      (2) The Early Learning Division shall administer an infant and toddler care program to improve access to high quality infant and toddler care for families whose incomes, at the time of enrollment, are at or below 200 percent of the federal poverty guidelines.
+
+      (3)(a) Each biennium, each Early Learning Hub, in consultation with resource and referral entities, shall complete a community plan. The plan must include the following for the region served by the Early Learning Hub:
+
+      (A) Identification of priority populations of children and families to enroll in the program;
+
+      (B) Assessment of the availability of high-quality infant and toddler care;
+
+      (C) Identification of existing providers and opportunities to increase the number and enrollment capacity of providers;
+
+      (D) Prioritization of local entities to serve as providers based on community need and enrollment capacity;
+
+      (E) Identification of local entities to serve as fiscal agents for multiple providers;
+
+      (F) Identification of methods for increasing the enrollment capacity of providers and for providing professional development to providers; and
+
+      (G) Identification of other services related to infant and toddler care.
+
+      (b) After completing a community plan described in paragraph (a) of this subsection, an Early Learning Hub shall submit the plan to the Early Learning Division for approval based on rules adopted by the Early Learning Council.
+
+      (4)(a) The Early Learning Division shall contract with resource and referral entities to recruit eligible providers to participate in the infant and toddler care program established under this section.
+
+      (b) To be eligible to participate in the program, a provider must demonstrate a commitment and ability to:
+
+      (A) Address the needs identified in the community plan approved by the Early Learning Division under subsection (3) of this section;
+
+      (B) Provide care to infants and toddlers;
+
+      (C) Serve families whose incomes, at the time of enrollment, are at or below 200 percent of the federal poverty guidelines; and
+
+      (D) Serve families who otherwise meet criteria established by the Early Learning Council by rule.
+
+      (5)(a) The Early Learning Division shall identify a local entity within each Early Learning Hub region that shall be responsible for awarding grants and contracts to providers who meet the eligibility criteria established under subsection (4) of this section.
+
+      (b) Before a provider may be awarded a grant or contract under this section, the provider must agree to participate in any quality improvement and professional development activities necessary to meet the standards established by the Early Learning Division.
+
+      (6) Resource and referral entities shall:
+
+      (a) In consultation with each provider awarded a grant or contract under this section, develop a quality improvement and professional development plan for the provider; and
+
+      (b) Provide coaching and other professional development services necessary to execute the plan developed under this subsection. [2019 c.573 §1]
+
+ 
+
+      Note: 417.784 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 417 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      417.785 [1993 c.676 §16; 1999 c.1053 §16; 2012 c.37 §48; 2012 c.97 §27; repealed by 2012 c.37 §103 and 2013 c.728 §12]
 
  
 
@@ -2055,25 +2173,27 @@ SERVICES TO CHILDREN AND FAMILIES
 
       (g) Transportation vehicles.
 
-      (2) The division may encourage communities to establish Relief Nursery programs for young children who are at risk and their families. Communities may choose to establish regional Relief Nursery programs. The Relief Nursery programs shall be consistent with the voluntary early learning system overseen by the Early Learning Council.
+      (2) The division may encourage communities to establish Relief Nursery programs for young children who are at risk and their families. Communities may choose to establish regional Relief Nursery programs. The Relief Nursery programs shall be consistent with the voluntary early learning system coordinated by the Early Learning Council.
 
       (3) Relief Nursery programs shall participate in a statewide independent evaluation conducted by the Oregon Association of Relief Nurseries to document improved child safety, reduction in foster care placements, progress in healthy child development and improvement in family functioning and support.
 
       (4) Each Relief Nursery program that receives state funding shall have financial support from the community that, excluding any amounts distributed to the Relief Nursery program pursuant to ORS 131A.360 (4)(d) and 131A.365 (3)(d), is at least equal to 25 percent of any state allocation.
 
-      (5) The division shall adopt rules necessary for the administration of this section, including rules requiring that any public funds received by Relief Nursery programs be used to achieve the outcomes identified in subsection (3) of this section. [1999 c.1053 §22; 2001 c.831 §12; 2012 c.37 §§50,92; 2013 c.624 §27; 2017 c.645 §2]
+      (5) The division shall adopt rules necessary for the administration of this section, including rules requiring that any public funds received by Relief Nursery programs be used to achieve the outcomes identified in subsection (3) of this section. [1999 c.1053 §22; 2001 c.831 §12; 2012 c.37 §§50,92; 2013 c.624 §27; 2017 c.645 §2; 2019 c.395 §6]
 
  
 
-      417.790 Grants for services and initiatives and Great Start. The Early Learning Division shall:
+      417.790 Grants for services, initiatives and other programs. The Early Learning Division shall:
 
       (1) Make grants to fund research-based services and initiatives to improve outcomes for children, youth or families.
 
-      (2) Make Great Start grants to fund community-based programs for children zero through six years of age. A recipient shall use Great Start grant funds to provide research-based early childhood programs in community settings and to provide services that have proven to be successful and that meet the needs of the community. These services shall be provided in accordance with ORS 417.728. [1993 c.676 §31; 2001 c.976 §1; 2012 c.37 §§51,93; 2013 c.624 §§29,30; 2013 c.728 §25]
+      (2) Make Great Start grants to fund community-based programs for children zero through six years of age. A recipient shall use Great Start grant funds to provide research-based early childhood programs in community settings and to provide services that have proven to be successful and that meet the needs of the community. These services shall be provided in accordance with ORS 417.728.
+
+      (3) Make grants under ORS 417.782 to fund culturally specific early learning, early childhood and parent support programs that build capacity in communities to provide culturally appropriate services to ensure children start kindergarten ready to succeed and to support family stability. [1993 c.676 §31; 2001 c.976 §1; 2012 c.37 §§51,93; 2013 c.624 §§29,30; 2013 c.728 §25; 2019 c.122 §55]
 
  
 
-      417.793 Parents-as-teachers programs. The Early Learning Division shall support parents-as-teachers programs statewide as funding becomes available. If a program is offered, the program shall be part of a comprehensive, research-based approach to parent education and support. The program shall be consistent with the voluntary early learning system plan overseen by the Early Learning Council. [2001 c.831 §12b; 2012 c.37 §§52,94; 2013 c.624 §§31,32]
+      417.793 Parents-as-teachers programs. The Early Learning Division shall support parents-as-teachers programs statewide as funding becomes available. If a program is offered, the program shall be part of a comprehensive, research-based approach to parent education and support. The program shall be consistent with the voluntary early learning system plan coordinated by the Early Learning Council. [2001 c.831 §12b; 2012 c.37 §§52,94; 2013 c.624 §§31,32; 2019 c.395 §7]
 
  
 
@@ -2145,33 +2265,7 @@ SERVICES TO CHILDREN AND FAMILIES
 
  
 
-      417.796 State advisory council for federal Head Start Act purposes; duties; public hearings and comment; annual statewide strategic report. (1) As the state advisory council for purposes of the federal Head Start Act, the Early Learning Council shall:
-
-      (a) Conduct a periodic statewide needs assessment concerning the quality and availability of early childhood education and development programs and services for children from birth to school age, including an assessment of the availability of high-quality prekindergarten services for low-income children in this state.
-
-      (b) Identify opportunities for, and barriers to, collaboration and coordination among federally funded and state-funded child care and early childhood education and development programs and services, including collaboration and coordination among state agencies responsible for administering those programs and services.
-
-      (c) Develop recommendations for increasing the overall participation of children in existing federal, state and local early childhood education and development programs and services, including outreach to underrepresented and special populations.
-
-      (d) Develop recommendations for establishing a unified data collection system for public early childhood education and development programs and services throughout this state.
-
-      (e) Develop recommendations regarding statewide professional development and career advancement plans for providers of early childhood education and development programs and services in this state.
-
-      (f) Assess the capacity and effectiveness of two-year and four-year public and private institutions of higher education in this state in supporting the development of early childhood educators, including the extent to which the institutions have articulation agreements, professional development and career advancement plans, and internships or other training opportunities that allow students to spend time with children enrolled in the federal Head Start program or another prekindergarten program. The assessment conducted under this paragraph must be conducted in coordination with appropriate higher education governance bodies, as identified by the Chief Education Office.
-
-      (g) Make recommendations for improvements in state early learning standards and undertake efforts to develop high-quality comprehensive early learning standards when appropriate.
-
-      (2) The council shall hold public hearings and provide an opportunity for public comment in relation to the actions described in subsection (1) of this section.
-
-      (3)(a) The council shall submit an annual statewide strategic report addressing the activities described in subsection (1) of this section to the State Director of Head Start Collaboration, the Chief Education Office, the Legislative Assembly and the Governor.
-
-      (b) Following submission of a statewide strategic report described in paragraph (a) of this subsection, the council may meet periodically to review the implementation of the recommendations in the report and to review any changes in state or local needs. [2012 c.37 §§7,8; 2015 c.774 §32]
-
- 
-
-      Note: The amendments to 417.796 by section 62, chapter 774, Oregon Laws 2015, become operative June 30, 2019. See section 72, chapter 774, Oregon Laws 2015, as amended by section 14, chapter 682, Oregon Laws 2015, section 20, chapter 763, Oregon Laws 2015, and section 27, chapter 639, Oregon Laws 2017. The text that is operative on and after June 30, 2019, is set forth for the user’s convenience.
-
-      417.796. (1) As the state advisory council for purposes of the federal Head Start Act, the Early Learning Council shall:
+      417.796 Early childhood education and development programs and services; public hearings and comment; annual statewide strategic report. (1) The Early Learning Council shall:
 
       (a) Conduct a periodic statewide needs assessment concerning the quality and availability of early childhood education and development programs and services for children from birth to school age, including an assessment of the availability of high-quality prekindergarten services for low-income children in this state.
 
@@ -2191,7 +2285,7 @@ SERVICES TO CHILDREN AND FAMILIES
 
       (3)(a) The council shall submit an annual statewide strategic report addressing the activities described in subsection (1) of this section to the State Director of Head Start Collaboration, the Legislative Assembly and the Governor.
 
-      (b) Following submission of a statewide strategic report described in paragraph (a) of this subsection, the council may meet periodically to review the implementation of the recommendations in the report and to review any changes in state or local needs.
+      (b) Following submission of a statewide strategic report described in paragraph (a) of this subsection, the council may meet periodically to review the implementation of the recommendations in the report and to review any changes in state or local needs. [2012 c.37 §§7,8; 2015 c.774 §§32,62; 2019 c.395 §§8,9]
 
  
 
@@ -2207,7 +2301,7 @@ SERVICES TO CHILDREN AND FAMILIES
 
  
 
-      Note: See second note under 417.796.
+      Note: See note under 417.796.
 
  
 
@@ -2323,9 +2417,9 @@ EARLY LEARNING HUBS
 
       (b) “Regional partners” includes counties, cities, school districts, education service districts, community colleges, public universities, private educational institutions, faith-based organizations, nonprofit service providers and tribes.
 
-      (2) The council shall implement and oversee a system that coordinates the delivery of early learning services to the communities of this state through the direction of Early Learning Hubs. The system may not include more than 16 Early Learning Hubs.
+      (2) The council shall implement and coordinate a system that coordinates the delivery of early learning services to the communities of this state through the direction of Early Learning Hubs. The system may not include more than 16 Early Learning Hubs.
 
-      (3) The system implemented and overseen by the council must ensure that:
+      (3) The system implemented and coordinated by the council must ensure that:
 
       (a) Providers of early learning services are accountable for outcomes;
 
@@ -2383,13 +2477,13 @@ EARLY LEARNING HUBS
 
       (8) The council may require that, as a condition of receiving funding as a designated Early Learning Hub under this section, the Early Learning Hub provide matching funding. The percentage of matching funding shall be determined by the council and may vary for each fiscal year. Any moneys received by an Early Learning Hub are subject to the restrictions of this section.
 
-      (9) For any community in this state that is not served by an Early Learning Hub, the council shall oversee and administer the delivery of early learning services for that community and, to the extent practicable, shall regionalize service administration.
+      (9) For any community in this state that is not served by an Early Learning Hub, the council shall coordinate and administer the delivery of early learning services for that community and, to the extent practicable, shall regionalize service administration.
 
       (10) The council may alter the lines of the territory served by an Early Learning Hub only to ensure that all children of this state are served by an Early Learning Hub.
 
       (11) An entity designated as part of an Early Learning Hub may not use more than 15 percent of the moneys received by the entity from the council to pay administrative costs of the entity.
 
-      (12) The Department of Human Services or the Oregon Health Authority may not transfer any authority for determining eligibility for a state or federal program to an Early Learning Hub. [2012 c.37 §77; 2013 c.728 §19; 2015 c.736 §61; 2015 c.773 §1; 2017 c.399 §3]
+      (12) The Department of Human Services or the Oregon Health Authority may not transfer any authority for determining eligibility for a state or federal program to an Early Learning Hub. [2012 c.37 §77; 2013 c.728 §19; 2015 c.736 §61; 2015 c.773 §1; 2017 c.399 §3; 2019 c.395 §10]
 
  
 
@@ -2447,7 +2541,7 @@ YOUTH DEVELOPMENT COUNCIL
 
       417.847 Youth Development Council; purpose; members; duties and authority; rules. (1) The Youth Development Council is established.
 
-      (2) The council is established for the purpose of overseeing a unified system that provides services to school-age children through youth 24 years of age in a manner that supports educational success, focuses on crime prevention, reduces high risk behaviors and is integrated, measurable and accountable. The council shall provide direction to the Youth Development Division.
+      (2) The council is established for the purpose of coordinating a unified and aligned system that provides services to school-age children through youth 24 years of age in a manner that supports educational success, focuses on crime prevention, reduces high risk behaviors and is integrated, measurable and accountable. The council shall provide direction to the Youth Development Division.
 
       (3) The council consists of no fewer than 15 members who are appointed by the Governor. The Governor shall ensure that membership of the council satisfies any federal requirements for membership of a state advisory committee on juvenile justice, and shall include tribal representation in the membership of the council.
 
@@ -2461,19 +2555,23 @@ YOUTH DEVELOPMENT COUNCIL
 
       (B) The prevention of and intervention in gang violence and gang involvement.
 
+      (c) Administer and coordinate the statewide youth reengagement system described in ORS 417.859.
+
       (5) The council may:
 
-      (a) Enter into performance-based intergovernmental agreements with regional and county entities, and tribal governments, to contract for the provision of youth development programs, services and initiatives that will achieve demonstrated outcomes and strategic objectives established by the council by rule.
+      (a) Enter into intergovernmental agreements with county and municipal governments, tribal governments, educational institutions and other governmental entities identified by rule of the council for the provision of youth development programs, services and initiatives.
 
-      (b) Determine the means by which services to children and youth may be provided effectively and efficiently across multiple programs to improve the academic and social outcomes of children and youth.
+      (b) Enter into grant agreements and contracts with community-based organizations, educational institutions, regional entities and other entities identified by rule of the council for the provision of youth development programs, services and initiatives.
 
-      (c) Assess state programs and services related to youth development and training, and identify methods by which programs and services may be coordinated or consolidated.
+      (c) Determine the means by which services to children and youth may be provided effectively and efficiently across multiple programs to improve the academic and social outcomes of children and youth.
 
-      (d) Establish common academic and social indicators to support attainment of goals established by the council.
+      (d) Assess state programs and services related to youth development and training, and identify methods by which programs and services may be coordinated or consolidated.
 
-      (e) Establish common program outcome measurements and coordinate data collection across multiple programs and services.
+      (e) Establish common academic and social indicators to support attainment of goals established by the council.
 
-      (f) Ensure implementation of best practices that:
+      (f) Establish common program outcome measurements and coordinate data collection across multiple programs and services.
+
+      (g) Ensure implementation of best practices that:
 
       (A) Are evidence based;
 
@@ -2487,17 +2585,15 @@ YOUTH DEVELOPMENT COUNCIL
 
       (6) The Governor may designate one member of the council to serve as the chairperson or, if the Governor chooses not to designate a chairperson, the council may elect one of its members to serve as chairperson.
 
-      (7) In accordance with applicable provisions of ORS chapter 183, the council may adopt rules necessary for the administration of the laws that the council is charged with administering.
-
-      (8) The council shall coordinate and collaborate with the Chief Education Office as provided by section 1, chapter 519, Oregon Laws 2011. [2012 c.37 §21; 2012 c.37 §23; 2013 c.623 §§4,5; 2015 c.774 §33; 2015 c.788 §§1,2; 2017 c.17 §35]
+      (7) In accordance with applicable provisions of ORS chapter 183, the council may adopt rules necessary for the administration of the laws that the council is charged with administering. [2012 c.37 §21; 2012 c.37 §23; 2013 c.623 §§4,5; 2015 c.774 §§33,63; 2015 c.788 §§1,2; 2017 c.17 §§35,36; 2019 c.122 §34; 2019 c.395 §§12,13]
 
  
 
-      Note: The amendments to 417.847 by section 63, chapter 774, Oregon Laws 2015, become operative June 30, 2019. See section 72, chapter 774, Oregon Laws 2015, as amended by section 14, chapter 682, Oregon Laws 2015, section 20, chapter 763, Oregon Laws 2015, and section 27, chapter 639, Oregon Laws 2017. The text that is operative on and after June 30, 2019, including amendments by section 36, chapter 17, Oregon Laws 2017, is set forth for the user’s convenience.
+      Note: The amendments to 417.847 by section 34, chapter 122, Oregon Laws 2019, become operative July 1, 2020. See section 35, chapter 122, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 13, chapter 395, Oregon Laws 2019, is set forth for the user’s convenience.
 
       417.847. (1) The Youth Development Council is established.
 
-      (2) The council is established for the purpose of overseeing a unified system that provides services to school-age children through youth 24 years of age in a manner that supports educational success, focuses on crime prevention, reduces high risk behaviors and is integrated, measurable and accountable. The council shall provide direction to the Youth Development Division.
+      (2) The council is established for the purpose of coordinating a unified and aligned system that provides services to school-age children through youth 24 years of age in a manner that supports educational success, focuses on crime prevention, reduces high risk behaviors and is integrated, measurable and accountable. The council shall provide direction to the Youth Development Division.
 
       (3) The council consists of no fewer than 15 members who are appointed by the Governor. The Governor shall ensure that membership of the council satisfies any federal requirements for membership of a state advisory committee on juvenile justice, and shall include tribal representation in the membership of the council.
 
@@ -2513,17 +2609,19 @@ YOUTH DEVELOPMENT COUNCIL
 
       (5) The council may:
 
-      (a) Enter into performance-based intergovernmental agreements with regional and county entities, and tribal governments, to contract for the provision of youth development programs, services and initiatives that will achieve demonstrated outcomes and strategic objectives established by the council by rule.
+      (a) Enter into intergovernmental agreements with county and municipal governments, tribal governments, educational institutions and other governmental entities identified by rule of the council for the provision of youth development programs, services and initiatives.
 
-      (b) Determine the means by which services to children and youth may be provided effectively and efficiently across multiple programs to improve the academic and social outcomes of children and youth.
+      (b) Enter into grant agreements and contracts with community-based organizations, educational institutions, regional entities and other entities identified by rule of the council for the provision of youth development programs, services and initiatives.
 
-      (c) Assess state programs and services related to youth development and training, and identify methods by which programs and services may be coordinated or consolidated.
+      (c) Determine the means by which services to children and youth may be provided effectively and efficiently across multiple programs to improve the academic and social outcomes of children and youth.
 
-      (d) Establish common academic and social indicators to support attainment of goals established by the council.
+      (d) Assess state programs and services related to youth development and training, and identify methods by which programs and services may be coordinated or consolidated.
 
-      (e) Establish common program outcome measurements and coordinate data collection across multiple programs and services.
+      (e) Establish common academic and social indicators to support attainment of goals established by the council.
 
-      (f) Ensure implementation of best practices that:
+      (f) Establish common program outcome measurements and coordinate data collection across multiple programs and services.
+
+      (g) Ensure implementation of best practices that:
 
       (A) Are evidence based;
 
@@ -2541,7 +2639,7 @@ YOUTH DEVELOPMENT COUNCIL
 
  
 
-      417.850 Additional duties of council. The Youth Development Council established by ORS 417.847 shall:
+      417.850 Additional duties of council; rules. The Youth Development Council established by ORS 417.847 shall:
 
       (1) Review the budget and allocation formula for appropriations for the purpose of juvenile crime prevention;
 
@@ -2573,23 +2671,19 @@ YOUTH DEVELOPMENT COUNCIL
 
       (11) Periodically report to the Governor and the Legislative Assembly on the progress of the council;
 
-      (12) Oversee and approve funding and policy recommendations of the state advisory group as required by the federal Juvenile Justice and Delinquency Prevention Act of 1974, 42 U.S.C. 5601 et seq.; and
+      (12) As required by the federal Juvenile Justice and Delinquency Prevention Act of 1974, 34 U.S.C. 11133 et seq., approve funding and policy recommendations of the state advisory group and adopt rules for overseeing approved funding and policy recommendations; and
 
-      (13) Work with tribal governments to develop tribal high-risk juvenile crime prevention plans. [1999 c.1053 §38; 2012 c.37 §§95a,110]
+      (13) Work with tribal governments to develop tribal high-risk juvenile crime prevention plans. [1999 c.1053 §38; 2012 c.37 §§95a,110; 2019 c.256 §2]
+
+ 
+
+      417.851 Juvenile detention data; rules. To perform its duties as required by ORS 417.850 (12), the Youth Development Division may collect data and inspect any facility, as identified by the Youth Development Council by rule, in which juveniles are detained. [2019 c.256 §1]
 
  
 
       417.852 Youth Development Division; purpose; direction and control; administrative officer. (1) The Youth Development Division is established in the Department of Education. The purpose of the division is to ensure that services are provided to school-age children through youth 24 years of age in a manner that supports educational success, focuses on crime prevention, reduces high risk behaviors and is integrated, measurable and accountable.
 
-      (2) The division shall function under the direction and control of the Youth Development Council with the Youth Development Director serving as the administrative officer. The director shall coordinate with the Chief Education Officer as provided by section 2, chapter 519, Oregon Laws 2011. [2013 c.623 §1; 2015 c.774 §34; 2015 c.788 §3]
-
- 
-
-      Note: The amendments to 417.852 by section 64, chapter 774, Oregon Laws 2015, become operative June 30, 2019. See section 72, chapter 774, Oregon Laws 2015, as amended by section 14, chapter 682, Oregon Laws 2015, section 20, chapter 763, Oregon Laws 2015, and section 27, chapter 639, Oregon Laws 2017. The text that is operative on and after June 30, 2019, is set forth for the user’s convenience.
-
-      417.852. (1) The Youth Development Division is established in the Department of Education. The purpose of the division is to ensure that services are provided to school-age children through youth 24 years of age in a manner that supports educational success, focuses on crime prevention, reduces high risk behaviors and is integrated, measurable and accountable.
-
-      (2) The division shall function under the direction and control of the Youth Development Council with the Youth Development Director serving as the administrative officer.
+      (2) The division shall function under the direction and control of the Youth Development Council with the Youth Development Director serving as the administrative officer. [2013 c.623 §1; 2015 c.774 §§34,64; 2015 c.788 §3]
 
  
 
@@ -2677,6 +2771,82 @@ YOUTH DEVELOPMENT COUNCIL
 
  
 
+      417.859 Statewide youth reengagement system; rules. (1) As used in this section, “eligible youth” means a person who:
+
+      (a) Is at least 14 years of age but younger than 21 years of age at the beginning of the school year; and
+
+      (b)(A) Is a school dropout, as defined in ORS 339.505;
+
+      (B) Is not exempt from attending public full-time schools under ORS 339.030; or
+
+      (C) Is recommended to participate in a youth reengagement program by the Department of Human Services, a juvenile court, the Oregon Youth Authority or any other entity identified by the Youth Development Council by rule.
+
+      (2) The Youth Development Division shall develop and administer a statewide youth reengagement system to provide appropriate educational opportunities and access to services for eligible youths.
+
+      (3) Under the statewide youth reengagement system, a school district or other entity identified by the Youth Development Council by rule may choose to provide a youth reengagement program. A youth reengagement program must:
+
+      (a) Be offered in collaboration with the Youth Development Division; and
+
+      (b) Include a partnership with an education service district, a community college district, a federally recognized Indian tribe, a community-based organization or any other entity identified by the Youth Development Council by rule.
+
+      (4) A youth reengagement program must offer, at a minimum, the following:
+
+      (a) Academic instruction that enables an eligible youth to receive credit that can be:
+
+      (A) Applied toward a high school diploma, a modified diploma or an extended diploma; or
+
+      (B) Used to improve college or career readiness, including courses that assist the eligible youth in preparing for an approved high school equivalency test such as the General Educational Development (GED) test; or
+
+      (b) Services for monitoring and supporting eligible youths, including:
+
+      (A) Academic counseling, career coaching and workforce readiness services; or
+
+      (B) Assistance with accessing services and resources that support at-risk youth and reduce barriers to educational success.
+
+      (5) If a school district or other entity chooses to provide a youth reengagement program, the school district or other entity may enter into an agreement to provide academic instruction or services as described in subsection (4) of this section. The agreement:
+
+      (a) May be with an education service district, a community college district or another public entity or with a community-based organization; and
+
+      (b) Must comply with any other requirements prescribed by the State Board of Education or the Youth Development Council by rule.
+
+      (6)(a) The State Board of Education, in collaboration with the Youth Development Council, shall establish by rule criteria for a school district or other entity to receive funding for eligible youths participating in a youth reengagement program. Funding may be in the form of grants.
+
+      (b) The criteria to receive funding may prescribe:
+
+      (A) Enrollment and attendance standards for eligible youths.
+
+      (B) Performance measures that establish targets that must be met for purposes of accountability. The performance measure targets shall be based on standards adopted by the Youth Development Council and may take into account the specific purpose of the program offered by the school district or other entity, the population served by the program and any other factors identified by the council.
+
+      (c) The criteria to receive funding must require a school district or other entity to provide to the Youth Development Division information that, at a minimum, describes:
+
+      (A) How the school district or other entity will identify, refer and enroll eligible youths;
+
+      (B) How academic instruction and services will be provided through the youth reengagement program and what academic instruction and services will be provided;
+
+      (C) How student records will be maintained and how data will be collected and reported;
+
+      (D) How any applicable assessments under ORS 329.485 or 329.488 will be administered;
+
+      (E) How the school district or other entity will provide special education and related services for eligible youths with disabilities who have an individualized education program or will provide necessary accommodations and plans for eligible youths who qualify under section 504 of the Rehabilitation Act of 1978 (29 U.S.C. 794);
+
+      (F) How the school district or other entity will ensure that eligible youths receive appropriate in-person guidance or support; and
+
+      (G) How the school district or other entity will record and report performance measures for purposes of accountability, including longitudinal monitoring of student progress and post-secondary education and employment readiness.
+
+      (7) The Department of Education and Youth Development Division shall provide technical assistance to school districts and other eligible entities choosing to provide youth reengagement programs.
+
+      (8)(a) The Youth Development Council shall coordinate with the State Board of Education to adopt rules under this section.
+
+      (b) When adopting rules under this section, the board and the council shall consult with post-secondary institutions of education and community-based organizations that have previously offered youth reengagement programs, providers of online courses and programs and education service districts.
+
+      (9) Nothing in this section affects the authority of a school district or other entity to directly offer youth reengagement programs or other educational services for eligible youths. [2019 c.122 §33]
+
+ 
+
+      Note: 417.859 becomes operative July 1, 2020. See section 35, chapter 122, Oregon Laws 2019.
+
+ 
+
 MISCELLANEOUS
 
  
@@ -2685,7 +2855,75 @@ MISCELLANEOUS
 
       (a) “Coach” means a person who volunteers for, or is paid to instruct or train members of, a nonschool athletic team.
 
-      (b) “Health care professional” means a physician licensed under ORS 677.100 to 677.228, psychologist, physician assistant or nurse practitioner licensed or certified under the laws of this state.
+      (b) “League governing body” means a governing body that:
+
+      (A) Oversees an association of nonschool athletic teams that provide instruction or training for team members and that may compete with each other; and
+
+      (B) Is affiliated with, or otherwise sponsored or organized by, a nonprofit corporation established as provided by ORS chapter 65.
+
+      (c) “Nonschool athletic team” means an athletic team that includes members who are under 18 years of age and that is not affiliated with a public school in this state.
+
+      (d) “Qualified health care professional” means:
+
+      (A) A physician licensed pursuant to ORS 677.100 to 677.228; or
+
+      (B) A health care professional who meets the requirements described in ORS 336.490 to provide a medical release for a member of a nonschool athletic team who is suspected of having a concussion.
+
+      (e) “Referee” means a person who volunteers or is paid to act as a referee, as an umpire or in a similar supervisory position for events involving nonschool athletic teams.
+
+      (f) “Referee governing body” means a governing body that:
+
+      (A) Trains and certifies individuals to serve as referees for nonschool athletic team events; and
+
+      (B) Is affiliated with, or otherwise sponsored or organized by, a nonprofit corporation established as provided by ORS chapter 65.
+
+      (2)(a) Each league governing body and each referee governing body shall ensure that the coaches and the referees, respectively, receive annual training to learn how to recognize the symptoms of a concussion and how to seek proper medical treatment for a person who is suspected of having a concussion.
+
+      (b) Each league governing body and each referee governing body shall adopt a policy that establishes:
+
+      (A) The requirements of the training described in paragraph (a) of this subsection; and
+
+      (B) Procedures that ensure that every coach and referee receives the training described in paragraph (a) of this subsection.
+
+      (3) Except as provided in subsection (4) of this section:
+
+      (a) A coach may not allow a member of a nonschool athletic team to participate in any athletic event or training on the same day that the member:
+
+      (A) Exhibits signs, symptoms or behaviors consistent with a concussion following an observed or suspected blow to the head or body; or
+
+      (B) Has been diagnosed with a concussion.
+
+      (b) A coach may allow a member of a nonschool athletic team who is prohibited from participating in an athletic event or training, as described in paragraph (a) of this subsection, to participate in an athletic event or training no sooner than the day after the member experienced a blow to the head or body and only after the member:
+
+      (A) No longer exhibits signs, symptoms or behaviors consistent with a concussion; and
+
+      (B) Receives a medical release from a qualified health care professional.
+
+      (4) A coach may allow a member of a nonschool athletic team to participate in any athletic event or training at any time after an athletic trainer licensed by the Board of Athletic Trainers, or a physician licensed pursuant to ORS 677.100 to 677.228, determines that the member of a nonschool athletic team has not suffered a concussion. The athletic trainer or physician may, but is not required to, consult with a qualified health care professional in making the determination that the member of a nonschool athletic team has not suffered a concussion.
+
+      (5) The league governing body shall develop or use existing guidelines and other relevant materials, and shall make available those guidelines and materials, to inform and educate persons under 18 years of age desiring to be a member of a nonschool athletic team, the parents and legal guardians of the persons and the coaches about the symptoms and warning signs of a concussion.
+
+      (6) For each year of participation, and prior to a person under 18 years of age participating as a member of a nonschool athletic team, at least one parent or legal guardian of the person must acknowledge the receipt of the guidelines and materials described in subsection (5) of this section and the review of those guidelines and materials by:
+
+      (a) The parent or legal guardian of the person; and
+
+      (b) If the person is 12 years of age or older, the person.
+
+      (7) A league governing body may hold an informational meeting prior to the start of any season for each nonschool athletic team regarding the symptoms and warning signs of a concussion.
+
+      (8)(a) Any person who regularly serves as a coach or as a referee and who complies with the provisions of this section is immune from civil or criminal liability related to a head injury unless the person acted or failed to act because of gross negligence or willful or wanton misconduct.
+
+      (b) Nothing in this section shall be construed to affect the civil or criminal liability related to a head injury of a person who does not regularly serve as a coach or a referee. [2013 c.489 §1; 2015 c.392 §2; 2017 c.409 §11; 2018 c.121 §2; 2019 c.358 §§9,10; 2019 c.378 §§10,11]
+
+ 
+
+      Note: The amendments to 417.875 by section 10, chapter 358, Oregon Laws 2019, become operative July 1, 2020. See section 4, chapter 121, Oregon Laws 2018, as amended by section 50, chapter 358, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 2, chapter 121, Oregon Laws 2018, section 9, chapter 358, Oregon Laws 2019, and section 11, chapter 378, Oregon Laws 2019, is set forth for the user’s convenience.
+
+      417.875. (1) As used in this section:
+
+      (a) “Coach” means a person who volunteers for, or is paid to instruct or train members of, a nonschool athletic team.
+
+      (b) “Health care professional” means a physician licensed under ORS 677.100 to 677.228, psychologist, physician assistant or nurse practitioner licensed under the laws of this state.
 
       (c) “League governing body” means a governing body that:
 
@@ -2725,7 +2963,7 @@ MISCELLANEOUS
 
       (B) Receives a medical release form from a health care professional.
 
-      (4) A coach may allow a member of a nonschool athletic team to participate in any athletic event or training at any time after an athletic trainer registered by the Board of Athletic Trainers determines that the member has not suffered a concussion. The athletic trainer may, but is not required to, consult with a health care professional in making the determination that the member has not suffered a concussion.
+      (4) A coach may allow a member of a nonschool athletic team to participate in any athletic event or training at any time after an athletic trainer licensed by the Board of Athletic Trainers determines that the member has not suffered a concussion. The athletic trainer may, but is not required to, consult with a health care professional in making the determination that the member has not suffered a concussion.
 
       (5) The league governing body shall develop or use existing guidelines and other relevant materials, and shall make available those guidelines and materials, to inform and educate persons under 18 years of age desiring to be a member on a nonschool athletic team, the parents and legal guardians of the persons and the coaches about the symptoms and warning signs of a concussion.
 
@@ -2739,7 +2977,13 @@ MISCELLANEOUS
 
       (8)(a) Any person who regularly serves as a coach or as a referee and who complies with the provisions of this section is immune from civil or criminal liability related to a head injury unless the person acted or failed to act because of gross negligence or willful or wanton misconduct.
 
-      (b) Nothing in this section shall be construed to affect the civil or criminal liability related to a head injury of a person who does not regularly serve as a coach or a referee. [2013 c.489 §1; 2015 c.392 §2; 2017 c.409 §11]
+      (b) Nothing in this section shall be construed to affect the civil or criminal liability related to a head injury of a person who does not regularly serve as a coach or a referee.
+
+ 
+
+      Note: Section 4 (3), chapter 121, Oregon Laws 2018, provides:
+
+      Sec. 4. (3) Notwithstanding the operative date specified in subsection (1) of this section [July 1, 2020], a psychologist, a physician assistant or a nurse practitioner licensed under the laws of this state may provide a medical release for a person to participate in an athletic event or training as provided by ORS 336.485 or 417.875 without a certificate issued under section 3, chapter 121, Oregon Laws 2018 [336.490], if the medical release is provided prior to July 1, 2021. [2018 c.121 §4(3); 2019 c.358 §50(3)]
 
  
 

@@ -471,19 +471,13 @@ DELINQUENT TAXES; COLLECTION
 
 (Electronic Filing of Warrants for Delinquent Business Personal Property Taxes)
 
- 
-
 311.636     Filing of electronic notice of warrant for delinquent business personal property taxes with Secretary of State; electronic notice of release or cancellation; fees
 
  
 
 311.637     Expiration and extension of electronic notice of warrant
 
- 
-
 311.638     Public access to electronic notices
-
- 
 
 311.639     Seller of business personal property to provide purchaser with property tax disclosure notice
 
@@ -526,8 +520,6 @@ DELINQUENT TAXES; COLLECTION
  
 
 COLLECTION OF ANY STATE PROPERTY TAX APPORTIONED TO COUNTIES
-
- 
 
 311.657     Transcript of apportionment to counties; notice of levy
 
@@ -615,8 +607,6 @@ DEFERRED COLLECTION OF HOMESTEAD PROPERTY TAXES
 
 311.689     Certification of continuing eligibility
 
- 
-
 311.690     Voluntary payment of deferred tax and interest
 
  
@@ -641,7 +631,7 @@ DEFERRED COLLECTION OF HOMESTEAD PROPERTY TAXES
 
  
 
-311.700     Deed or contract clauses prohibiting application for deferral are void; reverse mortgage prohibition
+311.700     Deed or contract clauses prohibiting application for deferral are void; reverse mortgage prohibition; exceptions
 
  
 
@@ -722,8 +712,6 @@ DEFERRAL OF SPECIAL ASSESSMENTS FOR LOCAL IMPROVEMENT
  
 
 DISASTER AREA TAX DEFERRAL
-
- 
 
 311.740     Definitions for ORS 311.740 to 311.780
 
@@ -865,6 +853,10 @@ GENERAL PROVISIONS
 
  
 
+      Note: The definition of “manufactured structure” provided in 307.021 applies to ORS chapter 311.
+
+ 
+
       311.015 Recovery for false return or fraudulent act of tax collector. If a person is injured by the false return or fraudulent act of a tax collector, such person shall recover upon suit, brought on the bond of the tax collector and sureties of the tax collector, double damages and costs of suit. [Amended by 1965 c.344 §9]
 
  
@@ -919,7 +911,7 @@ PREPARING TAX ROLLS; RESTORATION AFTER DAMAGE
 
       (e) The total amount of loss in each category identified in ORS 310.150 by district due to proration of taxes on property, which is the total amount of taxes to be levied or charged, less the amount actually imposed.
 
-      (f) The amount to be imposed by the tax collector against real property, against personal property, and against property assessed pursuant to ORS 308.505 to 308.681.
+      (f) The amount to be imposed by the tax collector against real property, against personal property, and against property assessed pursuant to ORS 308.505 to 308.674.
 
       (2) The assessor shall include on the roll only taxes on property certified under ORS 310.060 that are imposed on property subject to ad valorem taxation and other amounts specifically authorized by law to be included on the roll.
 
@@ -933,7 +925,7 @@ PREPARING TAX ROLLS; RESTORATION AFTER DAMAGE
 
  
 
-      311.115 Delivery of assessment roll to tax collector; tax roll. The assessor shall deliver the roll to the tax collector each year at such time as the assessor and the tax collector agree is necessary to enable the mailing of tax statements on or before October 25. The assessment roll shall be delivered in counties in which the assessor does not prepare a separate assessment roll and a separate tax roll. The assessment roll thereafter shall be a tax roll. The tax roll shall be delivered in counties where a separate assessment roll and tax roll is prepared. At the same time, the assessor shall deliver to the tax collector the second copy of the certificate prepared under ORS 311.105, and the warrant issued under ORS 311.110, and the tax collector shall file them in the office. The tax collector shall give a receipt, in duplicate, for the roll. One copy of the receipt shall be filed with the assessor and the other with the county clerk. All certificates, warrants, assessment and tax rolls shall be preserved as public records. [Amended by 1963 c.238 §8; 1965 c.344 §13; 1991 c.459 §229a]
+      311.115 Delivery of assessment roll to tax collector; tax roll. The assessor shall deliver the roll to the tax collector each year at such time as the assessor and the tax collector agree is necessary to enable the mailing or other delivery of tax statements on or before October 25. The assessment roll shall be delivered in counties in which the assessor does not prepare a separate assessment roll and a separate tax roll. The assessment roll thereafter shall be a tax roll. The tax roll shall be delivered in counties where a separate assessment roll and tax roll is prepared. At the same time, the assessor shall deliver to the tax collector the second copy of the certificate prepared under ORS 311.105, and the warrant issued under ORS 311.110, and the tax collector shall file them in the office. The tax collector shall give a receipt, in duplicate, for the roll. One copy of the receipt shall be filed with the assessor and the other with the county clerk. All certificates, warrants, assessment and tax rolls shall be preserved as public records. [Amended by 1963 c.238 §8; 1965 c.344 §13; 1991 c.459 §229a; 2019 c.360 §2]
 
  
 
@@ -972,8 +964,6 @@ PREPARING TAX ROLLS; RESTORATION AFTER DAMAGE
  
 
       311.145 Supplying materials and clerical help to restore rolls. The county court shall supply and furnish the tax collector and assessor with the books and other materials and clerical help necessary to carry out ORS 311.135 and 311.140.
-
- 
 
       311.150 Adding to, changing or correcting rolls by vouchers; preservation of vouchers. (1) In lieu of the procedures for additions, changes or corrections to the assessment and tax rolls authorized by ORS 309.120, 311.205, 311.370 (5), 311.645, 312.140 (2) and 358.495, the officer in possession of the roll may prepare a voucher for each correcting entry. The voucher shall state what change is to be made, identify the tax account or accounts affected, provide sufficient evidence to indicate the propriety of the transaction and the date the voucher is approved by the officer in charge of the roll or an authorized deputy. The date the voucher is completed and approved is the date the change shall become effective and the voucher shall become a public record. The vouchers shall be numbered and the voucher number shall appear on the assessment or tax roll adjacent to the entry changing the roll.
 
@@ -1079,7 +1069,7 @@ CORRECTING ERRORS OR OMISSIONS IN ROLLS
 
       (b)(A) The officer may correct an error in valuation judgment at any time in any account when an appeal has been filed in the tax court alleging that the value on the roll is incorrect, if the correction results in a reduction of the tax owed on the account.
 
-      (B) The officer may not make corrections under this paragraph to accounts appraised by the department pursuant to ORS 306.126 and 308.505 to 308.681 without the approval of the department.
+      (B) The officer may not make corrections under this paragraph to accounts appraised by the department pursuant to ORS 306.126 and 308.505 to 308.674 without the approval of the department.
 
       (C) The officer may correct any other error or omission of any kind. Corrections that are not corrections of errors in valuation judgment include, but are not limited to:
 
@@ -1093,7 +1083,7 @@ CORRECTING ERRORS OR OMISSIONS IN ROLLS
 
       (D) For purposes of this paragraph, an error in valuation judgment is one in which the assessor or the department would arrive at a different opinion of value.
 
-      (c) The officer shall make any change requested by the department that relates to an assessment of property made by the department under ORS 308.505 to 308.681.
+      (c) The officer shall make any change requested by the department that relates to an assessment of property made by the department under ORS 308.505 to 308.674.
 
       (d) The officer shall make any change ordered by the tax court or the department under ORS 305.288 or 306.115.
 
@@ -1307,11 +1297,11 @@ TIME AND MANNER OF COLLECTION
 
  
 
-      311.252 Copy of tax statement to be sent to mortgagee paying taxes; procedure when information otherwise transmitted. (1) If a mortgagee is required or authorized to pay the ad valorem taxes on a manufactured structure or a floating home or on real property that is subject to the mortgage by a provision contained in the mortgage instrument, upon written request sent to the tax collector, the tax collector shall send a copy of the statement required to be mailed to the taxpayer under ORS 311.250 to the mortgagee. The request by the mortgagee for the sending of the copy shall be made to the tax collector on or before October 1 of each year and shall state that the mortgagee has the duty or is authorized to pay the taxes for the owner of the property.
+      311.252 Copy of tax statement to be sent to mortgagee paying taxes; procedure when information otherwise transmitted. (1) If a mortgagee is required or authorized to pay the ad valorem taxes on a manufactured structure or a floating home or on real property that is subject to the mortgage by a provision contained in the mortgage instrument, upon written request sent to the tax collector, the tax collector shall send a copy of the statement required to be mailed or otherwise delivered to the taxpayer under ORS 311.250 to the mortgagee. The request by the mortgagee for the sending of the copy shall be made to the tax collector on or before October 1 of each year and shall state that the mortgagee has the duty or is authorized to pay the taxes for the owner of the property.
 
       (2) The tax collector and any mortgagee referred to in subsection (1) of this section may agree that a computer record containing the information required by the Department of Revenue may be delivered to the mortgagee instead of a copy of the tax statement required by subsection (1) of this section.
 
-      (3) For the purposes of this section, the holder of a perfected security interest in a manufactured structure or a floating home is considered a “mortgagee” and the perfected security interest is considered a “mortgage.” [1967 c.568 §4; 1971 c.379 §1; 1971 c.529 §35; 1971 c.752 §1; 1973 c.82 §1; 1981 c.804 §87; 1983 s.s. c.5 §21; 1987 c.313 §2; 1991 c.459 §239; 1993 c.313 §1; 1997 c.541 §287; 2003 c.108 §3; 2015 c.31 §4]
+      (3) For the purposes of this section, the holder of a perfected security interest in a manufactured structure or a floating home is considered a “mortgagee” and the perfected security interest is considered a “mortgage.” [1967 c.568 §4; 1971 c.379 §1; 1971 c.529 §35; 1971 c.752 §1; 1973 c.82 §1; 1981 c.804 §87; 1983 s.s. c.5 §21; 1987 c.313 §2; 1991 c.459 §239; 1993 c.313 §1; 1997 c.541 §287; 2003 c.108 §3; 2015 c.31 §4; 2019 c.360 §3]
 
  
 
@@ -1594,8 +1584,6 @@ TAX DISTRIBUTION PROCEDURE
       (6) The county treasurer shall credit the total amount of moneys set out in the statements prepared under subsections (1) and (2) of this section, except for the amount deposited into the property tax bankruptcy account under ORS 311.484, to the several funds for which the moneys were respectively received in accordance with the schedule provided in ORS 311.390. The county treasurer shall keep the moneys and warrants received from the tax collector in their respective funds.
 
       (7) Within five business days of receiving a statement required by subsection (1) or (2) of this section, the county treasurer shall distribute the amount of money set out in the statement, except for the amount deposited into the property tax bankruptcy account under ORS 311.484, to the several taxing units according to the ratios provided in ORS 311.390. The county treasurer shall distribute interest earned on moneys in the unsegregated tax collections account at least as often as the treasurer receives a statement from the tax collector under subsection (1)(b) or (d) of this section. When statements are received under subsection (1)(a) of this section, the county treasurer shall distribute interest at least once a calendar month. [1963 c.606 §8; 1969 c.595 §9; 1971 c.355 §1; 1985 c.162 §3; 1987 c.220 §1; 1991 c.459 §248; 1993 c.270 §58; 1997 c.631 §450; 2003 c.190 §§12,13; 2007 c.537 §5]
-
- 
 
 TAX LIENS; SUMMARY COLLECTIONS
 
@@ -1899,15 +1887,15 @@ DELINQUENT TAXES; COLLECTION
 
       311.507 Discount allowed for certain late payments. (1) Notwithstanding the requirement in ORS 311.505 (3) that to receive a discount upon payment of taxes, the taxes must be paid on or before November 15, the discount provided by ORS 311.505 (3) shall be allowed:
 
-      (a) If the taxes are paid within 15 business days after the date the tax statement is mailed by the tax collector, or by November 15, whichever is the later;
+      (a) If the taxes are paid within 15 business days after the date the tax statement is mailed or otherwise delivered by the tax collector, or by November 15, whichever is the later;
 
       (b) If under ORS 311.252 (2) or 311.253, the mortgagee or other person has received from the county a defective or inaccurate computer record, and the taxes are paid within 15 business days after the corrected computer record is delivered to the mortgagee or person, or by November 15, whichever is later;
 
-      (c) If the reason for nonpayment by November 15 is on account of the county not providing a computer record pursuant to a mutual agreement as provided under ORS 311.253 and tax statements are substituted by the county for the computer record. To receive a discount pursuant to this paragraph, the taxes must be paid within 20 business days after the tax collector mails the tax statements, or the taxpayer has been notified in writing by the tax collector that the computer record will not be provided, whichever date is later; or
+      (c) If the reason for nonpayment by November 15 is on account of the county not providing a computer record pursuant to a mutual agreement as provided under ORS 311.253 and tax statements are substituted by the county for the computer record. To receive a discount pursuant to this paragraph, the taxes must be paid within 20 business days after the tax collector mails or otherwise delivers the tax statements, or the taxpayer has been notified in writing by the tax collector that the computer record will not be provided, whichever date is later; or
 
       (d) Except under conditions described in ORS 311.229 (2), if property or value is added to the tax roll under ORS 311.208 and the taxes becoming due as a result of the addition are paid in the period prior to the 16th day of the month next following the month of their extension.
 
-      (2) Nothing in this section shall affect the due dates of the installment payments or the computation of interest upon failure to pay the installment on the date due. As used in this section, business days mean days other than Saturdays and legal holidays. [1979 c.703 §14; 1985 c.613 §27; 1987 c.313 §1; 1991 c.459 §254; 1993 c.23 §1; 1997 c.114 §1; 2001 c.303 §11; 2003 c.108 §4]
+      (2) Nothing in this section shall affect the due dates of the installment payments or the computation of interest upon failure to pay the installment on the date due. As used in this section, business days mean days other than Saturdays and legal holidays. [1979 c.703 §14; 1985 c.613 §27; 1987 c.313 §1; 1991 c.459 §254; 1993 c.23 §1; 1997 c.114 §1; 2001 c.303 §11; 2003 c.108 §4; 2019 c.360 §4]
 
  
 
@@ -1973,11 +1961,11 @@ DELINQUENT TAXES; COLLECTION
 
       311.531 Tax collector to file annual statement compiled from tax rolls. (1) On or before August 1 of each year the tax collector shall file with the county clerk a statement, on forms supplied by the Department of Revenue, compiled from the tax rolls, showing separately for each tax year for the prior seven years the following information as to transactions during the past fiscal year ending June 30:
 
-      (a) The total amounts certified under ORS 311.105 (1) to be collected by the tax collector, broken down among real property, personal property and property assessed pursuant to ORS 308.505 to 308.681.
+      (a) The total amounts certified under ORS 311.105 (1) to be collected by the tax collector, broken down among real property, personal property and property assessed pursuant to ORS 308.505 to 308.674.
 
       (b) The total amount of all adjustments made by the tax collector, in dollars, increasing the total amount to be collected, and a like figure for the decreases.
 
-      (c) The total amount collected, exclusive of interest and penalties, the total amount remaining uncollected, broken down among real property, personal property and property assessed pursuant to ORS 308.505 to 308.681.
+      (c) The total amount collected, exclusive of interest and penalties, the total amount remaining uncollected, broken down among real property, personal property and property assessed pursuant to ORS 308.505 to 308.674.
 
       (d) The total amount of interest and penalties collected, and the total amount of discounts or rebates allowed.
 
@@ -2128,8 +2116,6 @@ DELINQUENT TAXES; COLLECTION
  
 
 (Electronic Filing of Warrants for Delinquent Business Personal Property Taxes)
-
- 
 
       311.636 Filing of electronic notice of warrant for delinquent business personal property taxes with Secretary of State; electronic notice of release or cancellation; fees. (1) As used in ORS 311.636 to 311.642:
 
@@ -2489,9 +2475,7 @@ DEFERRED COLLECTION OF HOMESTEAD PROPERTY TAXES
 
  
 
-      Note: Section 24 (3), chapter 723, Oregon Laws 2011, provides:
-
-      Sec. 24. (3) A claim for an initial year of deferral, or for continued deferral, under ORS 311.666 to 311.701 may not be filed on or after April 16, 2021, and deferral may not be granted for a property tax year beginning after July 1, 2021. [2011 c.723 §24(3); 2011 c.723 §31(3)]
+      Note: Section 24 (3), chapter 723, Oregon Laws 2011, provides: Sec. 24. (3) A claim for an initial year of deferral, or for continued deferral, under ORS 311.666 to 311.701 may not be filed on or after April 16, 2021, and deferral may not be granted for a property tax year beginning after July 1, 2021. [2011 c.723 §24(3); 2011 c.723 §31(3)]
 
  
 
@@ -2941,7 +2925,13 @@ DEFERRED COLLECTION OF HOMESTEAD PROPERTY TAXES
 
  
 
-      311.695 Joint and several liability of transferees for deferral amounts. (1) A transferee of a homestead who is ineligible to claim, or does not claim, deferral under ORS 311.666 to 311.701, or that is not an individual, is jointly and severally liable for amounts payable under ORS 311.686 to the extent of the positive amount, if any, remaining after subtracting the amount of all liens prior to the Department of Revenue’s liens for deferred taxes arising under ORS 311.673 or 311.679 from the real market value of the homestead entered on the last certified assessment and tax roll prior to the date of the transfer.
+      311.695 Joint and several liability of transferees for deferral amounts. (1) A transferee of a homestead who is ineligible to claim, or does not claim, deferral under ORS 311.666 to 311.701, or that is not an individual, is jointly and severally liable for amounts payable under ORS 311.686 to the extent of the positive amount, if any, remaining after subtracting the amount of all liens prior to the Department of Revenue’s liens for deferred taxes arising under ORS 311.673 or 311.679 from the real market value of the homestead entered on the last certified assessment and tax roll prior to the date of the transfer if the transferee:
+
+      (a) Is occupying, leasing out or otherwise using the tax-deferred property more than 90 days following the taxpayer’s date of death and is a potential recipient of the property under intestate succession or by devise;
+
+      (b) Received the tax-deferred property from the estate of a deceased taxpayer; or
+
+      (c) Received a right to the tax-deferred property by gift or assignment from an insolvent taxpayer.
 
       (2) The department shall issue by mail a notice of liability to a transferee after deferred amounts for which the transferee is liable under this section become payable under ORS 311.686.
 
@@ -2971,7 +2961,17 @@ DEFERRED COLLECTION OF HOMESTEAD PROPERTY TAXES
 
       (C) If any person required to appear before the court under this subsection fails or refuses to appear or bring such information in part or in whole, or is outside the jurisdiction of the tax court, the court shall make its determination on the basis of all the evidence introduced. All such evidence shall constitute a public record and shall be available to the parties and the court. The determination of the tax court shall be binding on all persons made parties to the action under this subsection.
 
-      (d) Nothing in this section shall be construed to preclude a determination by the department or the Oregon Tax Court that more than one transferee is jointly and severally liable for deferred amounts. [1983 c.550 §7; 2011 c.723 §14; 2013 c.31 §5; 2015 c.309 §8]
+      (d) Nothing in this section shall be construed to preclude a determination by the department or the Oregon Tax Court that more than one transferee is jointly and severally liable for deferred amounts. [1983 c.550 §7; 2011 c.723 §14; 2013 c.31 §5; 2015 c.309 §8; 2019 c.488 §1]
+
+ 
+
+      Note: Section 2, chapter 488, Oregon Laws 2019, provides:
+
+      Sec. 2. The amendments to ORS 311.695 by section 1 of this 2019 Act apply to:
+
+      (1) A transfer occurring on or after the effective date of this 2019 Act [September 29, 2019].
+
+      (2) A transfer occurring before the effective date of this 2019 Act if the circumstances described in ORS 311.695 (1)(a), (b) and (c) do not apply to the transferee and the amounts payable under ORS 311.686 with respect to the transfer have not been paid as of the effective date of this 2019 Act. Any remaining outstanding balance that has been charged to a transferee with respect to a transfer described in this subsection shall be canceled. [2019 c.488 §2]
 
  
 
@@ -2985,9 +2985,15 @@ DEFERRED COLLECTION OF HOMESTEAD PROPERTY TAXES
 
  
 
-      311.700 Deed or contract clauses prohibiting application for deferral are void; reverse mortgage prohibition. (1) A clause or statement in a mortgage trust deed or land sale contract executed after September 9, 1971, that prohibits the owner from applying for deferral of homestead property taxes provided in ORS 311.666 to 311.701 is void.
+      311.700 Deed or contract clauses prohibiting application for deferral are void; reverse mortgage prohibition; exceptions. (1) A clause or statement in a mortgage trust deed or land sale contract executed after September 9, 1971, that prohibits the owner from applying for deferral of homestead property taxes provided in ORS 311.666 to 311.701 is void.
 
-      (2) A homestead on which amounts deferred under ORS 311.666 to 311.701 remain outstanding may not be pledged as security for a reverse mortgage by any person. [1971 c.572 §7; 1977 c.160 §8; 2011 c.723 §16]
+      (2) Notwithstanding ORS 311.670, a homestead that is pledged as security for a reverse mortgage is not eligible for tax deferral under ORS 311.666 to 311.701.
+
+      (3) Subsection (2) of this section does not apply to a homestead that is:
+
+      (a) Eligible for tax deferral under section 7, chapter 13, Oregon Laws 2012, section 1, chapter 31, Oregon Laws 2013, or section 1, chapter 494, Oregon Laws 2013; or
+
+      (b) Pledged as security for a reverse mortgage pursuant to a contract executed on or after July 1, 2011, and before January 1, 2017, provided the taxpayer seeking the tax deferral has an equity interest in the homestead that equals or exceeds 40 percent at the time of filing a claim under ORS 311.672. [1971 c.572 §7; 1977 c.160 §8; 2011 c.723 §16; 2019 c.591 §1]
 
  
 
@@ -3525,7 +3531,7 @@ REFUNDS
 
  
 
-      311.814 Appeal of large amounts of value; reserve account for refunds. (1) Whenever any property value or claim for exemption or cancellation of a property tax assessment is appealed to the Oregon Tax Court after taxes on the property have been imposed, the Department of Revenue shall notify the county treasurer of the appeal not later than the following October 15, if the appeal is not finally resolved before the end of the tax year to which the appeal relates and the dollar difference between the total value asserted by the taxpayer and the total value asserted by the opposing party exceeds one-fourth of one percent (0.0025) of the total assessed value in the county, or if the appeal relates to property assessed under ORS 308.505 to 308.681, and the value of such property asserted by the opposing party and attributable to the county exceeds one-fourth of one percent (0.0025) of the total assessed value in the county. After notification, the county treasurer shall set aside, if so ordered by the county governing body, from taxes collected in the current tax year, an interest bearing reserve account as provided in this section.
+      311.814 Appeal of large amounts of value; reserve account for refunds. (1) Whenever any property value or claim for exemption or cancellation of a property tax assessment is appealed to the Oregon Tax Court after taxes on the property have been imposed, the Department of Revenue shall notify the county treasurer of the appeal not later than the following October 15, if the appeal is not finally resolved before the end of the tax year to which the appeal relates and the dollar difference between the total value asserted by the taxpayer and the total value asserted by the opposing party exceeds one-fourth of one percent (0.0025) of the total assessed value in the county, or if the appeal relates to property assessed under ORS 308.505 to 308.674, and the value of such property asserted by the opposing party and attributable to the county exceeds one-fourth of one percent (0.0025) of the total assessed value in the county. After notification, the county treasurer shall set aside, if so ordered by the county governing body, from taxes collected in the current tax year, an interest bearing reserve account as provided in this section.
 
       (2) The reserve shall consist of an amount representing that portion of taxes paid by the petitioner attributable to the amount of value in dispute for each tax year that the appeal remains unresolved. Upon termination of the controversy, the principal amount in the account necessary to pay any refund, and any interest provided for under ORS 311.812, shall be paid to the petitioner. Any excess remaining in the reserve after termination of the controversy and payment of a refund, if any, shall be deposited in the unsegregated tax collections account in full satisfaction of the tax due on the property.
 
@@ -3632,8 +3638,6 @@ PENALTIES
       (6) If a tax collector or sheriff neglects or refuses to pay over all moneys collected by the tax collector or sheriff for taxes to the county treasurer, or neglects or refuses to make a return of delinquent taxes of the county, or any other return or statement, as required by the laws relating to the collection of property taxes, the tax collector or sheriff commits a Class C felony.
 
       (7) A person who knowingly makes a false oath under ORS 311.666 to 311.701 commits perjury and shall be punished as provided by ORS 162.085. [Subsection (7) enacted as 1963 c.569 §23; 1971 c.743 §354; 1971 c.747 §19; 1979 c.689 §26; 1999 c.1051 §175; 2011 c.597 §84]
-
- 
 
 _______________
 

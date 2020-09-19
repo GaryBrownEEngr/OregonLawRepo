@@ -4,16 +4,6 @@ Chapter 743 — Health and Life Insurance
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0007
-
- 
-
- 
-
 
  
 
@@ -67,7 +57,7 @@ GENERAL PROVISIONS
 
  
 
-743.019     Procedure for review of proposed rates for health insurance; rules
+743.019     Procedure for review of proposed rates for health benefit plans; rules
 
  
 
@@ -80,6 +70,10 @@ GENERAL PROVISIONS
  
 
 743.023     Electronic administration; discounted rates; requirements
+
+ 
+
+743.025     Rate filing to include prescription drug cost information; reports to Legislative Assembly
 
  
 
@@ -899,8 +893,6 @@ GROUP HEALTH INSURANCE
 
  
 
- 
-
       743.003 [1967 c.359 §335; renumbered 742.001 in 1989]
 
  
@@ -1037,12 +1029,6 @@ GENERAL PROVISIONS
 
  
 
-      Note: Section 18, chapter 489, Oregon Laws 2017, provides:
-
-      Sec. 18. The amendments to ORS 743.010 by section 5 of this 2017 Act apply to rates filed with the Department of Consumer and Business Services for approval on or after the effective date of this 2017 Act [January 1, 2018]. [2017 c.489 §18]
-
- 
-
       Note: The amendments to 743.010 by section 15, chapter 489, Oregon Laws 2017, become operative January 1, 2023. See section 20, chapter 489, Oregon Laws 2017. The text that is operative on and after January 1, 2023, is set forth for the user’s convenience.
 
       743.010. (1) In addition to all other powers of the Director of the Department of Consumer and Business Services with respect thereto, the director may issue rules with respect to policy forms and health benefit plan forms described in ORS 742.005 (6)(a) and (b):
@@ -1083,7 +1069,7 @@ GENERAL PROVISIONS
 
  
 
-      743.018 Filing of rates for life and health insurance; rules. (1) Except for group life and health insurance, and except as provided in ORS 743.015, every insurer shall file with the Director of the Department of Consumer and Business Services all schedules and tables of premium rates for life and health insurance to be used on risks in this state, and shall file any amendments to or corrections of such schedules and tables. Premium rates are subject to approval, disapproval or withdrawal of approval by the director as provided in ORS 742.003, 742.005, 742.007 and 743.019.
+      743.018 Filing of rates for life and health insurance; rules. (1) Except for group life and health insurance, and except as provided in ORS 743.015, every insurer shall file with the Director of the Department of Consumer and Business Services all schedules and tables of premium rates for life and health insurance to be used on risks in this state, and shall file any amendments to or corrections of such schedules and tables. Premium rates are subject to approval, disapproval or withdrawal of approval by the director as provided in ORS 742.003, 742.005, 742.007 and, for health benefit plans as defined in ORS 743B.005, ORS 743.019.
 
       (2) Except as provided in ORS 743B.013 and subsection (3) of this section, a rate filing by a carrier for any of the following health benefit plans subject to ORS 743.004, 743.022, 743.535 and 743B.003 to 743B.127 shall be available for public inspection immediately upon submission of the filing to the director:
 
@@ -1109,7 +1095,7 @@ GENERAL PROVISIONS
 
       (a) The insurer’s financial position, including but not limited to profitability, surplus, reserves and investment savings.
 
-      (b) Historical and projected administrative costs and medical and hospital expenses.
+      (b) Historical and projected administrative costs and medical and hospital expenses, including expenses for drugs reported under ORS 743.025.
 
       (c) Historical and projected loss ratio between the amounts spent on medical services and earned premiums.
 
@@ -1123,17 +1109,17 @@ GENERAL PROVISIONS
 
       (h) Any public comments received under ORS 743.019 pertaining to the standards set forth in subsection (4) of this section and this subsection.
 
-      (6) The requirements of this section do not supersede other provisions of law that require insurers, health care service contractors or multiple employer welfare arrangements providing health insurance to file schedules or tables of premium rates or proposed premium rates with the director or to seek the director’s approval of rates or changes to rates. [1967 c.359 §340; 2007 c.391 §1; 2009 c.595 §31; 2013 c.681 §11; 2015 c.88 §2]
+      (6) The requirements of this section do not supersede other provisions of law that require insurers, health care service contractors or multiple employer welfare arrangements providing health insurance to file schedules or tables of premium rates or proposed premium rates with the director or to seek the director’s approval of rates or changes to rates. [1967 c.359 §340; 2007 c.391 §1; 2009 c.595 §31; 2013 c.681 §11; 2015 c.88 §2; 2018 c.7 §8; 2019 c.441 §2]
 
  
 
-      743.019 Procedure for review of proposed rates for health insurance; rules. (1) When an insurer files a schedule or table of premium rates for individual or small employer health insurance under ORS 743.018, the Department of Consumer and Business Services shall open a 30-day public comment period on the rate filing that begins on the date the insurer files the schedule or table of premium rates. The department shall post all of the comments received to the department’s website without delay.
+      743.019 Procedure for review of proposed rates for health benefit plans; rules. (1) When an insurer files a schedule or table of premium rates for individual or small employer health benefit plans under ORS 743.018, the Department of Consumer and Business Services shall open a 30-day public comment period on the rate filing that begins on the date the insurer files the schedule or table of premium rates. The department shall post all of the comments received to the department’s website without delay.
 
-      (2) The department shall make a preliminary decision to approve, disapprove or modify a rate filing. The department shall notify the insurer of, and make available to the public, the preliminary decision, including:
+      (2) After the close of the public comment period described in subsection (1) of this section, the department shall issue a preliminary decision to approve, disapprove or modify a rate filing. The department shall notify the insurer of, and make available to the public, the preliminary decision, including:
 
-      (a) An explanation of the findings and rationale that are the basis for the decision; and
+      (a) An explanation of the findings and rationale that are the basis for the preliminary decision; and
 
-      (b) Any actuarial or other analyses, calculations or evaluations relied upon by the department in arriving at the decision.
+      (b) Any actuarial or other analyses, calculations or evaluations relied upon by the department in arriving at the preliminary decision.
 
       (3) The department shall provide the insurer or any person adversely affected or aggrieved by the preliminary decision the opportunity to meet with the department to discuss and respond to the preliminary decision. However, an insurer or other person may not substitute new facts or data for the facts or data submitted by the insurer in the filing. The meeting shall:
 
@@ -1141,47 +1127,53 @@ GENERAL PROVISIONS
 
       (b) Comply with the requirements of ORS 192.610 to 192.690.
 
-      (4)(a) The department may approve a modified rate filing only with the written consent of the insurer. An insurer’s consent to the modified rate filing does not preclude the insurer from contesting the modified rate filing by requesting a reconsideration under subsection (6) of this section or by requesting a contested case hearing.
+      (4)(a) The department shall issue a proposed order, no later than 30 days after the department issues a preliminary decision under subsection (2) of this section, to approve, disapprove or modify the rate filing based on the information submitted during the public comment period.
 
-      (b) If the modified rate filing is reversed as a result of a reconsideration or contested case hearing, the rate filing, as approved in the reconsideration or final order in a contested case, may take effect on or after the date of the reconsideration or final order, in accordance with rules adopted by the department.
+      (b) In issuing the proposed order, the department may not consider new facts or data that are offered as a substitute for the facts or data submitted by the insurer in the filing.
 
-      (5)(a) The department shall issue an order, no later than 30 days after the close of the public comment period described in subsection (1) of this section, approving, disapproving or modifying the rate filing based on the information submitted during the public comment period. However, the department may not consider new facts or data that are offered as a substitute for the facts or data submitted by the insurer in the filing. The order shall be mailed to the insurer and posted to the department’s website.
+      (c) The department shall mail the proposed order to the insurer and post the proposed order to the department’s website.
 
-      (b) The order must include:
+      (d) The proposed order must include:
 
-      (A) An explanation of the findings and rationale that are the basis for the order, including any actuarial or other analyses, calculations or evaluations relied upon by the department in its findings or rationale; and
+      (A) An explanation of the findings and rationale that are the basis for the proposed order, including any actuarial or other analyses, calculations or evaluations relied upon by the department in its findings or rationale; and
 
-      (B) Notice of the right of the insurer or any person adversely affected or aggrieved by the order to contest the order by requesting:
+      (B) Notice of the right of the insurer or any person adversely affected or aggrieved by the proposed order to request a review by the Director of the Department of Consumer and Business Services, in accordance with subsection (6) of this section, no later than 10 days after the date that the proposed order was issued.
 
-      (i) An expedited reconsideration in accordance with subsection (6) of this section; or
+      (5) If the insurer or person adversely affected or aggrieved by the proposed order does not timely request a review of the proposed order by the director, the director shall issue a final order as described in subsection (6)(d) of this section.
 
-      (ii) A contested case hearing in accordance with ORS chapter 183.
-
-      (6) If an insurer or a person adversely affected or aggrieved by an order approving, disapproving or modifying a rate filing submits to the department a request for reconsideration no later than 10 days after the date the order is issued under subsection (5) of this section:
+      (6) If the insurer or a person adversely affected or aggrieved by the proposed order timely requests a review by the director of the proposed order:
 
       (a) The requester may not substitute new facts or data for the facts and data that were submitted by the insurer in the filing, but may provide a brief, memorandum or analysis based on the evidence contained in the filing or received and considered by the department during the public comment period;
 
-      (b) The Director of the Department of Consumer and Business Services may not delegate the decision-making authority for the reconsideration request to any other individual;
+      (b) The director may not delegate the decision-making authority for the request for review to any other individual;
 
-      (c) The director shall issue a decision on the request for reconsideration no later than 30 days after the request is received by the department; and
+      (c) The director shall issue a final order no later than 30 days after the request for review is received by the director; and
 
-      (d) The decision shall include:
+      (d) The final order shall include:
 
-      (A) An explanation of the findings and rationale that are the basis for the decision; and
+      (A) An explanation of the findings and rationale that are the basis for the final order; and
 
       (B) Notice of the right to a contested case hearing in accordance with ORS chapter 183.
 
-      (7) Subsections (2) and (5) of this section do not require the department to perform any actuarial or other analyses, calculations or evaluations.
+      (7)(a) If, following the issuance of a final order under subsection (6)(c) of this section but before the effective date of the premium rates approved by the final order, an event occurs that materially affects the director’s decision to approve the rates, the director may open a new public comment period for a period of time that the director determines is necessary to receive comments concerning the event. Based upon the event and the public comments received, the director shall affirm the final order by providing a written explanation of the basis for affirming the final order or issue a new proposed order, as described in subsection (4) of this section.
 
-      (8) The department may adopt rules modifying the procedures described in subsections (2) to (6) of this section, but only to the extent necessary to comply with 42 U.S.C. 300gg-94. [2009 c.595 §28; 2013 c.681 §36; 2015 c.88 §3]
+      (b) In the consideration of public comments or the event described in paragraph (a) of this subsection or in issuing any new proposed order, the director:
+
+      (A) May not consider new facts or data that are offered as a substitute for the facts or data submitted by the insurer in the original filing.
+
+      (B) May consider supplemental facts or data reasonably related to the event described in paragraph (a) of this subsection.
+
+      (8) Subsections (2) to (7) of this section do not require the department to perform any actuarial or other analyses, calculations or evaluations.
+
+      (9) The department may adopt rules modifying the procedures described in subsections (2) to (7) of this section, but only to the extent necessary to comply with 42 U.S.C. 300gg-94. [2009 c.595 §28; 2013 c.681 §36; 2015 c.88 §3; 2019 c.441 §1]
 
  
 
-      743.020 Rate filing to include statement of administrative expenses; rules. An insurer licensed by the Department of Consumer and Business Services shall include in any rate filing under ORS 743.018 with respect to individual and small employer health insurance policies a statement of administrative expenses in the form and manner prescribed by the department by rule. The statement must include, but is not limited to:
+      743.020 Rate filing to include statement of administrative expenses; rules. An insurer licensed by the Department of Consumer and Business Services shall include in any rate filing under ORS 743.018 with respect to individual and small employer health benefit plans, as defined in ORS 743B.005, a statement of administrative expenses in the form and manner prescribed by the department by rule. The statement must include, but is not limited to:
 
       (1) A statement of administrative expenses on a per member per month basis; and
 
-      (2) An explanation of the basis for any proposed premium rate increases or decreases. [2009 c.595 §29]
+      (2) An explanation of the basis for any proposed premium rate increases or decreases. [2009 c.595 §29; 2019 c.441 §3]
 
  
 
@@ -1273,7 +1265,31 @@ GENERAL PROVISIONS
 
  
 
+      743.025 Rate filing to include prescription drug cost information; reports to Legislative Assembly. (1) An insurer shall include with any filing under ORS 743.018 the following information regarding drugs reimbursed by the insurer under policies or certificates issued in this state:
+
+      (a) The 25 most frequently prescribed drugs;
+
+      (b) The 25 most costly drugs as a portion of total annual spending;
+
+      (c) The 25 drugs that have caused the greatest increase in total plan spending from one year to the next; and
+
+      (d) The impact of the costs of prescription drugs on premium rates.
+
+      (2) The Department of Consumer and Business Services shall conduct a public hearing annually on prescription drug prices, information reported to the department under ORS 646A.689 and information described in subsection (1) of this section.
+
+      (3) The department shall regularly update the interim committees of the Legislative Assembly related to health on the information described in subsection (1) of this section.
+
+      (4) Subsection (1) of this section applies to an insurer that issues policies or certificates of health insurance for sale in this state that include a prescription drug benefit. [2018 c.7 §5]
+
+ 
+
+      Note: 743.025 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743 or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       743.027 [1967 c.359 §342a; 1991 c.182 §2; 2009 c.331 §1; 2015 c.629 §60; renumbered 743.038 in 2015]
+
+ 
 
  
 
@@ -1827,7 +1843,7 @@ INDIVIDUAL LIFE INSURANCE AND ANNUITIES
 
       (C) End-stage renal failure; or
 
-      (D) Acquired Immune Deficiency Syndrome.
+      (D) Human immunodeficiency virus or acquired immune deficiency syndrome.
 
       (e) Any other event determined by the Director of the Department of Consumer and Business Services to be life-threatening.
 
@@ -1839,7 +1855,7 @@ INDIVIDUAL LIFE INSURANCE AND ANNUITIES
 
       (4) A policy or rider that provides for the acceleration of death benefits under this section shall not be described or marketed by an insurer as long term care insurance or as providing long term care benefits.
 
-      (5) The director shall adopt rules establishing minimum benefits, criteria for the payment of accelerated benefits, disclosure requirements and actuarial standards. [1991 c.571 §2; 1993 c.17 §1]
+      (5) The director shall adopt rules establishing minimum benefits, criteria for the payment of accelerated benefits, disclosure requirements and actuarial standards. [1991 c.571 §2; 1993 c.17 §1; 2019 c.280 §15]
 
  
 
@@ -1987,40 +2003,6 @@ INDIVIDUAL LIFE INSURANCE AND ANNUITIES
 
  
 
-      Note: The amendments to 743.204 by section 26, chapter 547, Oregon Laws 2015, apply for a limited period. See section 28, chapter 547, Oregon Laws 2015 (note below). The text that is applicable for the limited period is set forth for the user’s convenience.
-
-      743.204. (1) ORS 743.204 to 743.222 may be cited as the Standard Nonforfeiture Law for Life Insurance.
-
-      (2) The operative date of the Standard Nonforfeiture Law for Life Insurance as to any policy is the earlier of:
-
-      (a) January 1, 1948; or
-
-      (b) The date specified in a written notice that the insurer files with the Director of the Department of Consumer and Business Services, in which the insurer elects to comply with the Standard Nonforfeiture Law for Life Insurance as to the policy and as of the specified date.
-
-      (3) The operative date of the valuation manual, as defined in ORS 733.325, is January 1 of the first calendar year in which the valuation manual is effective.
-
-      (4) The Standard Nonforfeiture Law for Life Insurance does not apply to:
-
-      (a) Any reinsurance, group insurance, pure endowment, annuity or reversionary annuity policy.
-
-      (b) Any term policy or renewal of a term policy, of uniform amount, that does not provide guaranteed nonforfeiture or endowment benefits, of 20 years or less expiring before age 71 and for which uniform premiums are payable during the entire term of the policy. For this purpose, the age at death for a joint term life insurance policy is the age at death of the oldest life.
-
-      (c) Any term policy of decreasing amount that does not provide guaranteed nonforfeiture or endowment benefits, if each adjusted premium, calculated as specified in ORS 743.215 and 743.216, is less than the adjusted premium so calculated on a term policy or renewal of a term policy of uniform amount that does not provide guaranteed nonforfeiture benefits or endowment benefits, that is issued at the same age, for the same initial amount of insurance and for a term of 20 years or less that expires before age 71 and for which uniform premiums are payable during the entire term of the policy. For this purpose, the age at death for a joint term life insurance policy is the age at death of the oldest life.
-
-      (d) Any policy that does not provide guaranteed nonforfeiture or endowment benefits, and for which policy the cash surrender value or present value of paid-up nonforfeiture benefit calculated for the beginning of any policy year as specified in ORS 743.210, 743.213, 743.215 and 743.216 does not exceed two and one-half percent of the amount of insurance at the beginning of the policy year.
-
- 
-
-      Note: Section 28, chapter 547, Oregon Laws 2015, provides:
-
-      Sec. 28. (1) Section 14 of this 2015 Act and the amendments to ORS 732.586, 733.302, 733.304, 733.316, 733.318, 743.204 and 743.215 by sections 21 to 27 of this 2015 Act apply to all policies and contracts, as appropriate, that are issued on or after the operative date for the Standard Nonforfeiture Law for Life Insurance under ORS 743.204 and before the operative date of the valuation manual.
-
-      (2) Sections 15 to 17 of this 2015 Act do not apply to policies and contracts described in subsection (1) of this section.
-
-      (3) The minimum standard for the valuation of policies and contracts that were issued before the operative date for the Standard Nonforfeiture Law for Life Insurance under ORS 743.204 is the minimum standard set forth in the laws that were in effect immediately before the operative date for the Standard Nonforfeiture Law for Life Insurance under ORS 743.204. [2015 c.547 §28]
-
- 
-
       743.207 Required provisions relating to nonforfeiture. (1) A life insurance policy shall contain in substance the following provisions, or corresponding provisions which in the opinion of the Director of the Department of Consumer and Business Services are at least as favorable to the defaulting or surrendering policyholder as are the minimum requirements specified in this section, and which are essentially in compliance with ORS 743.221:
 
       (a) That in the event of default in any premium payment the insurer will grant, upon proper request not later than 60 days after the due date of the premium in default, a paid-up nonforfeiture benefit on a plan stipulated in the policy, effective as of such due date, of the amount required by ORS 743.213. In lieu of this stipulated benefit the insurer may substitute, upon proper request made not later than 60 days after the due date of the premium in default, another paid-up nonforfeiture benefit which is actuarially equivalent and provides a greater amount or longer period of death benefit or, if applicable, a greater amount or earlier payment of endowment benefit.
@@ -2138,88 +2120,6 @@ INDIVIDUAL LIFE INSURANCE AND ANNUITIES
       (11) The nonforfeiture interest rate for any policy issued in a particular calendar year shall equal 125 percent of the calendar year statutory valuation interest rate for such policy as defined in the Standard Valuation Law, rounded to the nearer one-quarter of one percent.
 
       (12) Notwithstanding any other provision in this chapter or ORS chapter 743A, for any previously approved policy form, any refiling of nonforfeiture values or their methods of computation which involves only a change in the interest rate or mortality table used to compute nonforfeiture values shall not of itself require refiling of any other provisions of that policy form. [1981 c.609 §17; 1983 c.282 §1]
-
- 
-
-      Note: The amendments to 743.215 by section 27, chapter 547, Oregon Laws 2015, apply for a limited period. See section 28, chapter 547, Oregon Laws 2015 (second note under 743.204). The text that is applicable for the limited period is set forth for the user’s convenience.
-
-      743.215. (1) This section applies to all life insurance policies issued on or after the operative date defined in this subsection for the issuing insurer. After January 1, 1982, any insurer may file with the Director of the Department of Consumer and Business Services a written notice of the insurer’s election to comply with the provisions of this section with regard to any number of plans of insurance after a specified date before January 1, 1989. The specified date is the operative date of this subsection for the plan or plans, but if an insurer elects to make this subsection operative before January 1, 1989, for fewer than all plans, the insurer must comply with rules the director adopts. There is no limit to the number of times that an insurer may make the election. If an insurer does not make the election, the operative date of this section for the insurer is January 1, 1989.
-
-      (2) Except as provided in subsection (8) of this section, the adjusted premiums referred to in ORS 743.210 for any life insurance policy to which this section applies must be calculated as provided in this subsection, on an annual basis, as a uniform percentage of the respective premiums specified in the policy for each policy year, excluding amounts payable as extra premiums to cover impairments or special hazards and excluding any uniform annual contract charge or policy fee specified in the policy statement of the method to be used in calculating the cash surrender values and paid-up nonforfeiture benefits. This percentage must be such that the present value, at the date of issue of the policy, of all such adjusted premiums equals the sum of:
-
-      (a) The present value at the policy issue date of the future guaranteed benefits provided for by the policy;
-
-      (b) One percent of either the amount of insurance, if the insurance is uniform in amount, or the average of the amounts of insurance at the beginning of each of the first 10 policy years; and
-
-      (c) One hundred twenty-five percent of the nonforfeiture net level premium as defined in subsection (3) of this section. For this purpose, any excess of the nonforfeiture net level premium over four percent of the uniform or average amount of insurance must be disregarded.
-
-      (3) The nonforfeiture net level premium referred to in subsection (2) of this section must equal the present value, at the date of issue of the policy, of the guaranteed benefits the policy provides, divided by the present value, at the date of issue of the policy, of an annuity of one per annum payable on the date of issue and on each anniversary of the policy on which a premium falls due.
-
-      (4) In the case of policies that provide, on a basis guaranteed in the policy, for unscheduled changes in benefits or premiums, or that provide an option for changes in benefits or premiums other than by change to a new policy, the adjusted premiums and present values must initially be calculated on the assumption that future benefits and premiums do not change from the future benefits and premiums that the policy stipulates at the date of issue. At the time of any such change in the benefits or premiums the future adjusted premiums, nonforfeiture net level premiums and present values must be recalculated as provided in subsection (5) of this section on the assumption that future benefits and premiums do not change from the future benefits and premiums that the policy stipulates immediately after the change.
-
-      (5) Except as otherwise provided in subsection (8) of this section, the recalculated future adjusted premiums referred to in subsection (4) of this section must be calculated as provided in this subsection, on an annual basis, as a uniform percentage of the respective future premiums specified in the policy for each policy year, excluding amounts payable as extra premiums to cover impairments and special hazards and excluding any uniform annual contract charge or policy fee specified in the policy statement of the method to be used in calculating the cash surrender values and paid-up nonforfeiture benefits. This percentage must be such that the present value, at the date of change to the newly defined benefits or premiums, of all such future adjusted premiums equals A plus B minus C, where these amounts are defined as follows:
-
-      (a) “A” equals the present value, as of the date of change, of the future guaranteed benefits provided for by the policy.
-
-      (b) “B” equals the additional expense allowance, if any, for the policy, as defined in subsection (6) of this section.
-
-      (c) “C” equals the cash surrender value under the policy, if any, or present value of any paid-up nonforfeiture benefit under the policy, as of the date of change.
-
-      (6) The additional expense allowance at the date of the change to the newly defined benefits or premiums, as referred to in subsection (5) of this section, must equal the sum of:
-
-      (a) One percent of the excess, if positive, of the average of the amounts of insurance at the beginning of each of the first 10 policy years subsequent to the change, over the average of the amounts of insurance, as defined before the change, at the beginning of each of the first 10 policy years subsequent to the last previous change or the policy issue date if there has been no change.
-
-      (b) One hundred twenty-five percent of the change, if positive, in the amount of the nonforfeiture net level premium from the amount applicable prior to the change in policy benefits or premiums to the amount of the recalculated nonforfeiture net level premium determined from subsection (7) of this section as of the date of the change in policy benefits or premiums.
-
-      (7) The recalculated nonforfeiture net level premium referred to in subsection (6) of this section must equal Y divided by Z, where these amounts are defined as follows:
-
-      (a) “Y” equals the sum of:
-
-      (A) The nonforfeiture net level premium applicable prior to the change times the present value at the date of change of an annuity of one per annum payable on each anniversary of the policy, on or subsequent to the date of the change, on which a premium would have fallen due had the change not occurred; and
-
-      (B) The present value at the date of change of the increase in future guaranteed benefits provided for by the policy.
-
-      (b) “Z” equals the present value at the date of change of an annuity of one per annum payable on each anniversary of the policy, on or subsequent to the date of change, on which a premium falls due.
-
-      (8) Notwithstanding any other provisions of this section, the provisions of this subsection apply to a policy issued on a substandard basis that provides reduced graded amounts of insurance determined so that, in each policy year, the policy has the same tabular mortality cost as for an otherwise similar policy of a higher nongraded amount or amounts of insurance issued on the standard basis. Adjusted premiums and present values for a policy on such a substandard basis may be calculated as if the policy were issued to provide such a higher nongraded amount or amounts of insurance on the standard basis.
-
-      (9) Except as provided in subsection (10) of this section, all adjusted premiums and present values referred to in the Standard Nonforfeiture Law for Life Insurance must, for all policies of life insurance to which this section applies, be calculated on the mortality and interest bases as follows:
-
-      (a) For ordinary life insurance mortality:
-
-      (A) The Commissioners 1980 Standard Ordinary Mortality Table must be used; or
-
-      (B) At the option of the insurer for any one or more specified plans of life insurance, the Commissioners 1980 Standard Ordinary Mortality Table with Ten-Year Select Mortality Factors may be used instead of such table without Ten-Year Select Mortality Factors.
-
-      (b) For industrial life insurance mortality, the Commissioners 1961 Standard Industrial Mortality Table must be used.
-
-      (c) For all policies issued in a particular calendar year, an interest rate must be used that does not exceed the nonforfeiture interest rate, as defined in subsection (11) of this section, for policies issued in that year.
-
-      (10) The following provisions also apply, for policies to which this section applies, to the calculation of premiums and values referred to in the Standard Nonforfeiture Law for Life Insurance:
-
-      (a) At the option of the insurer, such calculations for all policies issued in a particular calendar year may be made on the basis of an interest rate that does not exceed the nonforfeiture interest rate, as defined in subsection (11) of this section, for policies issued in the last preceding calendar year.
-
-      (b) Under any paid-up nonforfeiture benefit, including any paid-up dividend additions, any cash surrender value available, whether or not required by ORS 743.207, must be calculated on the basis of the mortality table and interest rate used in determining the amount of such paid-up nonforfeiture benefit and paid-up dividend additions.
-
-      (c) An insurer shall calculate the amount of any guaranteed paid-up nonforfeiture benefit, including any paid-up additions, on the basis of an interest rate no lower than the interest rate specified in the policy for calculating cash surrender values.
-
-      (d) In calculating the present value of any paid-up term insurance with accompanying pure endowment, if any, offered as a nonforfeiture benefit, the rates of mortality assumed may be not more than those shown in the Commissioners 1980 Extended Term Insurance Table for policies of ordinary life insurance, and not more than those shown in the Commissioners 1961 Industrial Extended Term Insurance Table for policies of industrial life insurance.
-
-      (e) For insurance issued on a substandard basis, the calculation of premiums and values may be based on appropriate modifications of the mortality tables referred to in subsection (9) of this section and in this subsection.
-
-      (f)(A) For policies issued before the operative date of the valuation manual, any Commissioners Standard ordinary life mortality tables that the National Association of Insurance Commissioners adopted after 1980 and that are approved under rules the director adopted for use in determining the minimum nonforfeiture standard may be substituted for the Commissioners 1980 Standard Ordinary Mortality Table with or without Ten-Year Select Mortality Factors, or for the Commissioners 1980 Extended Term Insurance Table.
-
-      (B) For policies issued on or after the operative date of the valuation manual, the valuation manual must provide the Commissioners Standard ordinary mortality table for use in determining the minimum nonforfeiture standard that may be substituted for the Commissioners 1980 Standard Ordinary Mortality Table with or without Ten-Year Select Mortality Factors or for the Commissioners 1980 Extended Term Insurance Table. If the director approves by rule any Commissioners Standard ordinary mortality table that the National Association of Insurance Commissioners adopted for use in determining the minimum nonforfeiture standard for policies issued on or after the operative date of the valuation manual, the minimum nonforfeiture standard that the director approved by rule supersedes the minimum nonforfeiture standard provided by the valuation manual.
-
-      (g)(A) For policies issued before the operative date of the valuation manual, any Commissioners Standard industrial life mortality tables that the National Association of Insurance Commissioners adopted after 1980 and that are approved under rules the director adopted for use in determining the minimum nonforfeiture standard may be substituted for the Commissioners 1961 Standard Industrial Mortality Table or the Commissioners 1961 Industrial Extended Term Insurance Table.
-
-      (B) For policies issued on or after the operative date of the valuation manual, the valuation manual must provide the Commissioners Standard mortality table for use in determining the minimum nonforfeiture standard that may be substituted for the Commissioners 1961 Standard Industrial Mortality Table or the Commissioners 1961 Industrial Extended Term Insurance Table. If the director approves by rule any Commissioners Standard industrial mortality table that the National Association of Insurance Commissioners adopted for use in determining the minimum nonforfeiture standard for policies issued on or after the operative date of the valuation manual, the minimum nonforfeiture standard that the director approved by rule supersedes the minimum nonforfeiture standard provided by the valuation manual.
-
-      (11)(a) For policies issued before the operative date of the valuation manual, the nonforfeiture interest rate for any policy issued in a particular calendar year must equal 125 percent of the calendar year statutory valuation interest rate for such policy as defined in the Standard Valuation Law, rounded to the nearest one-quarter of one percent, except that the nonforfeiture interest rate under this paragraph may not be less than four percent.
-
-      (b) For policies issued on or after the operative date of the valuation manual, the nonforfeiture annual interest rate for any policy issued in a particular calendar year must be as provided in the valuation manual.
-
-      (12) Notwithstanding any other provision in this chapter or ORS chapter 743A or 743B, for any previously approved policy form, any refiling of nonforfeiture values or methods of computation for nonforfeiture values that involves only a change in the interest rate or mortality table used to compute nonforfeiture values does not alone require refiling any other provisions of that approved policy form.
 
  
 
@@ -3185,9 +3085,9 @@ HEALTH INSURANCE POLICY PROVISIONS
 
       743.498 Statement in policy of cancelability or renewability. (1) A health insurance policy which is noncancelable or guaranteed renewable as those terms are used in ORS 743.495, except that the insured’s right is for a limited period of more than one year rather than for life, shall contain the applicable one of the following statements, or such other statement which, in the opinion of the Director of the Department of Consumer and Business Services, is equally clear or more definite as to the subject matter:
 
-      (a) “THIS POLICY IS NONCANCELABLE______” (designating the applicable period such as, for example, “to age ___ (specify),” or “for the period of ___ (specify) years from date of issuance”) if the policy is noncancelable for such period.
+      (a) “THIS POLICY IS NONCANCELABLE ______” (designating the applicable period such as, for example, “to age ___ (specify),” or “for the period of ___ (specify) years from date of issuance”) if the policy is noncancelable for such period.
 
-      (b) “THIS POLICY IS GUARANTEED RENEWABLE______” (designating the applicable period such as, for example, “to age ___ (specify),” or “for the period of ___ (specify) years from date of issuance”) if the policy is guaranteed renewable for such period.
+      (b) “THIS POLICY IS GUARANTEED RENEWABLE ______” (designating the applicable period such as, for example, “to age ___ (specify),” or “for the period of ___ (specify) years from date of issuance”) if the policy is guaranteed renewable for such period.
 
       (2) Except for policies meeting the conditions specified in ORS 743.495 or subsection (1) of this section, and except as provided in subsection (3) of this section, a health insurance policy shall contain the applicable one of the following statements, or such other statement which, in the opinion of the director, is equally clear or more definite as to the subject matter:
 
@@ -3899,13 +3799,9 @@ GROUP HEALTH INSURANCE
 
 ______________________________________________________________________________
 
- 
-
       I understand that I have a right to designate at least one other person other than myself to receive notice of lapse or termination of this insurance policy for failing to pay a premium. I understand that the insurer will not send a notice until 30 days after a premium is due and remains unpaid. I elect NOT to designate a person other than myself to receive this notice.
 
 ______________________________________________________________________________
-
- 
 
       (b) At least once every two years an insurer shall notify a policy owner of the policy owner’s right to change the person the policy owner designates to receive the notice described in paragraph (a)(A) of this subsection.
 

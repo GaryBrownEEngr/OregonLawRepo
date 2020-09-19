@@ -4,20 +4,6 @@ Chapter 431A — Public Health Programs and Activities
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0045
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0045
-
- 
-
- 
-
 
  
 
@@ -35,7 +21,7 @@ EMERGENCY PLAN AND INCIDENT MANAGEMENT SYSTEM
 
  
 
-431A.005  Definitions                        
+431A.005  Definitions
 
  
 
@@ -147,7 +133,7 @@ REGULATION OF TOBACCO AND INHALANT DELIVERY SYSTEM SALES
 
  
 
-431A.183  Random inspections of sellers of tobacco and inhalant delivery systems; rules
+431A.183  Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules
 
  
 
@@ -292,6 +278,22 @@ AUTOMATED EXTERNAL DEFIBRILLATORS
  
 
 431A.455  Automated external defibrillators required at places of public assembly; exceptions
+
+ 
+
+TREATMENT OF SUBSTANCE USE DISORDERS
+
+ 
+
+431A.460  Legislative findings
+
+ 
+
+431A.463  Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules
+
+ 
+
+(Temporary provisions relating to treatment of substance use disorders are compiled as notes following ORS 431A.463)
 
  
 
@@ -491,7 +493,11 @@ PRESCRIPTION MONITORING PROGRAM
 
  
 
-431A.880  Fees
+431A.877  Duty to register; rules
+
+ 
+
+431A.880  Licensing information; fees; rules
 
  
 
@@ -515,7 +521,7 @@ PRESCRIPTION MONITORING PROGRAM
 
  
 
-431A.898  Practitioner training
+431A.898  Practitioner training; rules
 
  
 
@@ -669,11 +675,7 @@ AND TRAUMA SYSTEMS
 
       (b) At least two physicians who are trauma surgeons from each trauma center designated by the authority as a Level I trauma center.
 
-      (c) From trauma centers designated by the authority as Level I or Level II trauma centers:
-
-      (A) At least one physician who is a neurosurgeon; and
-
-      (B) At least one physician who is an orthopedic surgeon.
+      (c) From trauma centers designated by the authority as Level I or Level II trauma centers, at least one physician who is a neurosurgeon or orthopedic surgeon.
 
       (d) From trauma centers designated by the authority as Level I trauma centers:
 
@@ -708,6 +710,8 @@ AND TRAUMA SYSTEMS
       (B) At least one emergency medical services provider.
 
       (j) At least two public members.
+
+      (k) At least one representative from a public safety answering point.
 
       (3) In appointing members under subsection (2)(j) of this section, the director may not appoint a member who has an economic interest in the provision of emergency medical services or trauma care.
 
@@ -745,7 +749,7 @@ AND TRAUMA SYSTEMS
 
       (11) The term of office of each voting member of the board is four years, but a voting member serves at the pleasure of the director. Before the expiration of the term of a voting member, the director shall appoint a successor whose term begins January 1 next following. A voting member is eligible for reappointment. If there is a vacancy for any cause, the director shall make an appointment to become immediately effective for the unexpired term.
 
-      (12) Members of the board are not entitled to compensation, but may be reimbursed from funds available to the Oregon Health Authority, for actual and necessary travel and other expenses incurred by them in the performance of their official duties in the manner and amounts provided for in ORS 292.495. [Formerly 431.580; 2017 c.101 §28]
+      (12) Members of the board are not entitled to compensation, but may be reimbursed from funds available to the Oregon Health Authority, for actual and necessary travel and other expenses incurred by them in the performance of their official duties in the manner and amounts provided for in ORS 292.495. [Formerly 431.580; 2017 c.101 §28; 2019 c.456 §25]
 
  
 
@@ -793,9 +797,9 @@ AND TRAUMA SYSTEMS
 
       (b) The authority, acting with the advice of the State Trauma Advisory Board established under ORS 431A.055, has the authority to implement plans and changes proposed under paragraph (a) of this subsection.
 
-      (2) In concurrence with the Governor, the authority shall select members for each trauma area from lists submitted by local associations of emergency medical services providers, emergency nurses, emergency physicians, surgeons, hospital administrators, emergency medical services agencies and citizens at large. The members of an area trauma advisory board must be broadly representative of the trauma area as a whole. An area trauma advisory board must consist of at least 15 members and must include:
+      (2) In concurrence with the Governor, the authority shall select members for each trauma area from lists submitted by local associations of emergency medical services providers, emergency nurses, emergency physicians, surgeons, hospital administrators, emergency medical services agencies and citizens at large. The members of an area trauma advisory board must be broadly representative of the trauma area as a whole. An area trauma advisory board must consist of at least 16 members and must include:
 
-      (a) Three surgeons;
+      (a) Two surgeons;
 
       (b) Two physicians serving as emergency physicians;
 
@@ -809,11 +813,13 @@ AND TRAUMA SYSTEMS
 
       (g) Two representatives of the public at large selected from among those submitting letters of application in response to public notice by the authority;
 
-      (h) One representative of any bordering state that is included within the patient referral area; and
+      (h) One representative of any bordering state that is included within the patient referral area;
 
-      (i) One ambulance service owner or operator or both.
+      (i) One ambulance service owner or operator or both; and
 
-      (3) Members of an area trauma advisory board described in subsection (2)(g) of this section may not have an economic interest in health care services provided in the trauma area for which the area trauma advisory board makes proposals under subsection (1)(a)(B) of this section. [Formerly 431.613; 2017 c.101 §29]
+      (j) One representative from a public safety answering point.
+
+      (3) Members of an area trauma advisory board described in subsection (2)(g) of this section may not have an economic interest in health care services provided in the trauma area for which the area trauma advisory board makes proposals under subsection (1)(a)(B) of this section. [Formerly 431.613; 2017 c.101 §29; 2019 c.456 §26]
 
  
 
@@ -841,7 +847,7 @@ AND TRAUMA SYSTEMS
 
       (3) The program shall be administered by a director.
 
-      (4) The director of the program shall apply moneys transferred to the program under ORS 442.625 to:
+      (4) The director of the program shall apply moneys transferred to the program under ORS 442.870 to:
 
       (a) Developing state and regional standards of care;
 
@@ -1107,7 +1113,9 @@ REGULATION OF TOBACCO AND INHALANT DELIVERY SYSTEM SALES
 
       (3) The notice required by subsection (2)(b) of this section must be substantially as follows:
 
-______________________________________________________________________________
+ 
+
+ 
 
 NOTICE
 
@@ -1115,29 +1123,73 @@ NOTICE
 
       The sale of tobacco in any form to persons under 21 years of age is prohibited by law. Any person who sells, or allows to be sold, tobacco to a person under 21 years of age is in violation of Oregon law.
 
-______________________________________________________________________________
+ 
+
+ 
 
       (4) Rules adopted under subsection (2)(d), (e) and (f) of this section must be consistent with any regulation adopted by the United States Food and Drug Administration related to labeling or packaging requirements for inhalant delivery systems. [Formerly 431.840; 2017 c.701 §10]
 
  
 
-      Note: Sections 29 and 31, chapter 158, Oregon Laws 2015, provide:
+      Note: The amendments to 431A.175 by section 16, chapter 525, Oregon Laws 2019, were referred to the people for their approval or rejection at the regular general election to be held throughout this state on November 3, 2020. See section 22, chapter 525, Oregon Laws 2019. 431A.175, as amended by section 16, chapter 525, Oregon Laws 2019, is set forth for the user’s convenience.
 
-      Sec. 29. (1) After July 1, 2018, the Oregon Health Authority shall make a report on the laws and rules of this state related to the regulation of inhalant delivery systems, as defined in ORS 431.840 [renumbered 431A.175], and inhalants, as defined in ORS 433.835, that are used with inhalant delivery systems. The authority shall include in the report:
+      431A.175. (1) As used in this section and ORS 431A.183:
 
-      (a) A review of medical research conducted on inhalant delivery systems and of health impacts associated with the use of inhalant delivery systems; and
+      (a)(A) “Inhalant delivery system” means:
 
-      (b) A review of any federal law or regulation related to regulating inhalant delivery systems, including any applicable regulations related to the labeling and packaging of inhalant delivery systems adopted by the United States Food and Drug Administration.
+      (i) A device that can be used to deliver nicotine or cannabinoids in the form of a vapor or aerosol to a person inhaling from the device; or
 
-      (2) The authority shall review the consistency of the laws and rules of this state with respect to those federal laws and regulations and determine where the laws and rules of this state are inconsistent or duplicative.
+      (ii) A component of a device described in this subparagraph or a substance in any form sold for the purpose of being vaporized or aerosolized by a device described in this subparagraph, whether the component or substance is sold separately or is not sold separately.
 
-      (3) For the purpose of facilitating review by the Legislative Assembly of the laws and rules of this state related to the regulation of inhalant delivery systems and inhalants that are used with inhalant delivery systems, the authority shall report the authority’s findings:
+      (B) “Inhalant delivery system” does not include:
 
-      (a) To the Legislative Assembly in the manner required by ORS 192.245 on or before February 1, 2019; and
+      (i) Any product that has been approved by the United States Food and Drug Administration for sale as a tobacco cessation product or for any other therapeutic purpose, if the product is marketed and sold solely for the approved purpose; and
 
-      (b) To the committees of the Legislative Assembly related to health during the 2019 regular session of the Legislative Assembly. [2015 c.158 §29]
+      (ii) Tobacco products.
 
-      Sec. 31. Section 29 of this 2015 Act is repealed on January 2, 2020. [2015 c.158 §31]
+      (b) “Tobacco products” means:
+
+      (A) Bidis, cigars, cheroots, stogies, periques, granulated, plug cut, crimp cut, ready rubbed and other smoking tobacco, snuff, snuff flour, cavendish, plug and twist tobacco, fine-cut and other chewing tobaccos, shorts, refuse scraps, clippings, cuttings and sweepings of tobacco and other forms of tobacco, prepared in a manner that makes the tobacco suitable for chewing or smoking in a pipe or otherwise, or for both chewing and smoking;
+
+      (B) Cigarettes as defined in ORS 323.010 (1); or
+
+      (C) A device that:
+
+      (i) Can be used to deliver tobacco products to a person using the device; and
+
+      (ii) Has not been approved by the United States Food and Drug Administration for sale as a tobacco cessation product or for any other therapeutic purpose, if the product is marketed and sold solely for the approved purpose.
+
+      (2) It is unlawful:
+
+      (a) To violate ORS 167.750.
+
+      (b) To fail as a retailer of tobacco products to post a notice substantially similar to the notice described in subsection (3) of this section in a location that is clearly visible to the seller and the purchaser of the tobacco products.
+
+      (c) To fail as a retailer of inhalant delivery systems to post a notice in a location that is clearly visible to the seller and the purchaser of the inhalant delivery systems that it is unlawful to sell inhalant delivery systems to persons under 21 years of age. The Oregon Health Authority shall adopt by rule the content of the notice required under this paragraph.
+
+      (d) To distribute, sell or allow to be sold an inhalant delivery system if the inhalant delivery system is not labeled in accordance with rules adopted by the authority.
+
+      (e) To distribute, sell or allow to be sold an inhalant delivery system if the inhalant delivery system is not packaged in child-resistant safety packaging, as required by the authority by rule.
+
+      (f) To distribute, sell or allow to be sold an inhalant delivery system if the inhalant delivery system is packaged in a manner that is attractive to minors, as determined by the authority by rule.
+
+      (g) To distribute, sell or allow to be sold cigarettes in any form other than a sealed package that contains at least 20 cigarettes.
+
+      (3) The notice required by subsection (2)(b) of this section must be substantially as follows:
+
+ 
+
+ 
+
+NOTICE
+
+      The sale of tobacco in any form to persons under 21 years of age is prohibited by law. Any person who sells, or allows to be sold, tobacco to a person under 21 years of age is in violation of Oregon law.
+
+ 
+
+ 
+
+      (4) Rules adopted under subsection (2)(d), (e) and (f) of this section must be consistent with any regulation adopted by the United States Food and Drug Administration related to labeling or packaging requirements for inhalant delivery systems.
 
  
 
@@ -1151,27 +1203,39 @@ ______________________________________________________________________________
 
       431A.180 Procedure applicable to imposition of civil penalty. Any civil penalty under ORS 431A.178 shall be imposed as provided by ORS 183.745. [Formerly 431.850]
 
-      431A.183 Random inspections of sellers of tobacco and inhalant delivery systems; rules. (1) The Oregon Health Authority shall:
+      431A.183 Agreements to enforce regulation of tobacco products and inhalant delivery systems; report; rules. (1)(a) The Oregon Health Authority may enter into an agreement with federal agencies to assist the authority in monitoring and enforcing federal laws and regulations related to tobacco products or inhalant delivery systems.
 
-      (a) Coordinate with law enforcement agencies to conduct random, unannounced inspections of wholesalers and retailers of tobacco products or inhalant delivery systems to ensure compliance with the laws of this state designed to discourage the use of tobacco products and inhalant delivery systems by persons under 21 years of age, including ORS 167.750, 167.755, 167.760, 167.765, 167.775, 167.780 and 431A.175; and
+      (b) The authority may commission employees of the authority as federal officers for the purpose of carrying out the duties prescribed under an agreement entered into under paragraph (a) of this subsection.
 
-      (b) Submit a report describing:
+      (c) The authority may adopt rules and take any action necessary to carry out the authority’s duties as established under an agreement entered into under paragraph (a) of this subsection.
 
-      (A) The activities carried out to enforce the laws listed in paragraph (a) of this subsection during the previous fiscal year;
+      (2) The authority may enter into an agreement with federal, state and local government agencies, including federal, state and local law enforcement agencies, to assist the authority in carrying out the authority’s duties under ORS 431A.175 and to conduct random, unannounced inspections of wholesalers and retailers of tobacco products or inhalant delivery systems to ensure compliance with the laws of this state designed to discourage the use of tobacco products and inhalant delivery systems by persons under 21 years of age, including ORS 167.750, 167.755, 167.760, 167.765, 167.775, 167.780 and 431A.175.
+
+      (3)(a) If the authority enters into an agreement with the Department of State Police under subsection (2) of this section, the department may employ retired state police officers who are active reserve officers. Service by a retired state police officer under this paragraph is subject to ORS 238.082.
+
+      (b) The department may not use the services of a retired state police officer to displace an active state police member.
+
+      (4)(a) The authority may apply for and accept moneys from the federal government or other public or private sources and, in accordance with any federal restrictions or other funding source restrictions, use those moneys to carry out the duties and functions related to preventing the use of tobacco products or inhalant delivery systems by persons who are not of the minimum age to purchase tobacco products or inhalant delivery systems.
+
+      (b) Moneys received by the authority under paragraph (a) of this subsection shall be deposited in the Oregon Health Authority Fund established under ORS 413.101. Moneys subject to a federal restriction or other funding source restriction must be accounted for separately from other fund moneys.
+
+      (5)(a) The authority shall submit a written report each biennium to the Governor and to the appropriate committee or interim committee of the Legislative Assembly to which matters of public health are assigned.
+
+      (b) The report submitted under this subsection must contain information describing:
+
+      (A) The activities carried out to enforce the laws listed in subsection (2) of this section during the previous biennium;
 
       (B) The extent of success achieved in reducing the availability of tobacco products and inhalant delivery systems to persons under 21 years of age; and
 
-      (C) The strategies to be utilized for enforcing the laws listed in paragraph (a) of this subsection during the year following the report.
+      (C) The strategies to be utilized for enforcing the laws listed in subsection (2) of this section during the biennium following the report.
 
-      (2) The authority shall adopt rules for conducting random inspections of establishments that distribute or sell tobacco products or inhalant delivery systems. The rules shall provide that inspections may take place:
+      (6) The authority shall adopt rules for conducting random inspections of establishments that distribute or sell tobacco products or inhalant delivery systems. The rules shall provide that inspections may take place:
 
       (a) Only in areas open to the public;
 
       (b) Only during the hours that tobacco products or inhalant delivery systems are distributed or sold; and
 
-      (c) No more frequently than once a month in any single establishment unless a compliance problem exists or is suspected.
-
-      (3) The Oregon Liquor Control Commission, pursuant to an agreement or otherwise, may assist the authority with the authority’s duties under subsection (1)(a) of this section and the enforcement of ORS 431A.175. [Formerly 431.853; 2017 c.701 §11]
+      (c) No more frequently than once a month in any single establishment unless a compliance problem exists or is suspected. [Formerly 431.853; 2017 c.701 §11; 2019 c.456 §8]
 
  
 
@@ -1527,14 +1591,6 @@ TOXIC HOUSEHOLD PRODUCTS
 
  
 
-      Note: Section 7, chapter 915, Oregon Laws 1991, provides:
-
-      Sec. 7. (1) A manufacturer shall apply to the Poison Prevention Task Force on or before April 1, 1993, for an exemption from the requirements of this Act [431A.300 to 431A.325] for a toxic household product that contains chemicals in which any aversive agent would be nonsoluble, nondispersible, unstable or would interfere with the safety or function of the product.
-
-      (2) The task force may grant an exemption if the manufacturer demonstrates to the task force, and the task force finds, that the toxic household product meets the exemption criteria described in subsection (1) of this section. [1991 c.915 §7]
-
- 
-
       431A.310 Limitation on liability; application. (1) A manufacturer, distributor or seller of a toxic household product that is required to contain an aversive agent under the provisions of ORS 431A.305 is not liable to any person for any personal injury, death or property damage that results from the inclusion of the aversive agent in the toxic household product.
 
       (2) The limitation on liability provided by this section is only applicable if the aversive agent is included in the toxic household product in concentrations approved by the Poison Prevention Task Force.
@@ -1586,10 +1642,6 @@ TOXIC HOUSEHOLD PRODUCTS
       (2) The prohibition contained in subsection (1) of this section does not apply to a person engaged in the business of wholesale or retail distribution of a toxic household product, unless the person is engaged in the manufacture of the product, or has knowledge that a toxic household product which the person is distributing or selling is in violation of ORS 431A.300 to 431A.325.
 
       (3) A distributor of a house brand shall not be considered a manufacturer for purposes of filing an application for an extension pursuant to section 6, chapter 915, Oregon Laws 1991, or for an exemption pursuant to section 7, chapter 915, Oregon Laws 1991. Nothing in this subsection is intended to exempt a distributor of a house brand from any other provisions of ORS 431A.300 to 431A.325. [Formerly 431.910]
-
- 
-
-      Note: See note under 431A.308.
 
  
 
@@ -1767,6 +1819,72 @@ AUTOMATED EXTERNAL DEFIBRILLATORS
 
  
 
+TREATMENT OF SUBSTANCE USE DISORDERS
+
+ 
+
+      431A.460 Legislative findings. The Legislative Assembly recognizes that substance use disorders, including opioid and opiate addiction, negatively impact the residents of this state. Therefore, it is the intent of the Legislative Assembly that substance use disorders be considered as chronic illnesses for which commensurate treatment is available and provided. [2019 c.583 §1]
+
+ 
+
+      431A.463 Prohibition on requiring prior authorization of payment for substance use disorder treatment; rules. (1) The Oregon Health Authority shall prohibit coordinated care organizations and public payers of health insurance, when reimbursing the cost of medication-assisted treatment for treating substance use disorders, including opioid and opiate addiction, from requiring prior authorization of payment during the first 30 days of medication-assisted treatment.
+
+      (2) The authority may adopt rules to carry out this section. [2019 c.583 §7]
+
+ 
+
+(Temporary provisions relating to treatment of substance use disorders)
+
+ 
+
+      Note: Sections 4 to 6, chapter 583, Oregon Laws 2019, provide:
+
+      Sec. 4. (1) The Oregon Health Authority shall convene an advisory group to advise the authority on the authority’s establishment of accreditation requirements for treatment programs for substance use disorders, including opioid and opiate addiction. The advisory group shall consist of members appointed by the authority who have experience and knowledge of treatment programs for substance use disorders.
+
+      (2) When considering requirements under this section, the advisory group shall:
+
+      (a) Solicit input from stakeholders, including state agencies, unions representing substance use disorder treatment providers and others; and
+
+      (b) Consider relevant factors, including but not limited to the geographic accessibility of treatment, culturally appropriate treatment options, the language needs of potential treatment patients and the needs of substance use disorder treatment providers.
+
+      (3) The advisory group shall research and determine how to maximize all sources of federal funding that are available for treatment programs described in this section.
+
+      (4) The advisory group may adopt rules to carry out this section.
+
+      (5) Not later than June 30, 2020, the advisory group shall provide recommendations for the requirements described in subsection (1) of this section to the authority. [2019 c.583 §4]
+
+      Sec. 5. Section 4 of this 2019 Act is repealed on January 2, 2022. [2019 c.583 §5]
+
+      Sec. 6. Not later than January 2, 2021, the Oregon Health Authority shall implement the accreditation requirements recommended by the advisory group under section 4 of this 2019 Act. [2019 c.583 §6]
+
+ 
+
+      Note: Sections 9 and 11, chapter 583, Oregon Laws 2019, provide:
+
+      Sec. 9. (1) The Oregon Health Authority shall establish a pilot project for the purpose of offering treatment, including medication-assisted treatment, for substance use disorders, including opioid and opiate addiction, to pregnant persons. The pilot project may include:
+
+      (a) The use of any of the following to work with the persons described in this subsection:
+
+      (A) Peer mentors who are doulas, as that term is defined in ORS 414.667;
+
+      (B) Peer mentors; and
+
+      (C) Doulas; and
+
+      (b) Any substance use disorder treatment for a person described in this subsection that is necessary for the person’s health during the first year after the infant’s birth.
+
+      (2) The authority shall implement the pilot project described in this section in up to four counties in this state.
+
+      (3) At least twice each year, the counties in which the authority implements the pilot project shall report to each other and to the authority regarding the pilot project. The counties and the authority may jointly determine the form and content of the reporting required under this subsection.
+
+      (4) Not later than December 31 of each year, the authority shall submit, in the manner provided in ORS 192.245, a report on the efficacy and implementation of the pilot project described in this section, and may include any recommendations for legislation, to an interim committee of the Legislative Assembly related to public health.
+
+      (5) The authority may adopt rules to carry out this section. [2019 c.583 §9]
+
+      Sec. 11. Section 9 of this 2019 Act is repealed on January 2, 2022. [2019 c.583 §11]
+
+ 
+
 BONE MARROW DONOR PROGRAM
 
  
@@ -1926,6 +2044,8 @@ STROKE CARE
       (D) Is nondiscoverable and inadmissible in a judicial, administrative, arbitration or mediation proceeding.
 
       (b) Individually identifiable information and information that identifies a hospital described in subsection (1)(a) of this section may not be disclosed by the authority without the approval of the hospital that submitted the information. Only deidentified information may be disclosed by the authority under this section. [Formerly 431.675]
+
+ 
 
 DENSE BREAST TISSUE
 
@@ -2157,7 +2277,7 @@ DENTAL SEALANT PROGRAMS
 
       (b) Assist the school or schools in making the transition.
 
-      (6) Ensure that all dental sealant data collected by the authority or a local dental sealant program is integrated with data sets included as part of the comprehensive health care information system described in ORS 442.466. [2015 c.791 §1]
+      (6) Ensure that all dental sealant data collected by the authority or a local dental sealant program is integrated with data sets included as part of the comprehensive health care information system described in ORS 442.373. [2015 c.791 §1]
 
  
 
@@ -2211,31 +2331,33 @@ PRESCRIPTION MONITORING PROGRAM
 
       431A.850 Definitions. As used in ORS 431A.855 to 431A.900:
 
-      (1) “Dispense” and “dispensing” have the meanings given those terms in ORS 689.005.
+      (1) “Dental director” means a dentist, as defined in ORS 679.010, employed by a coordinated care organization, dental clinic or office, or a system of dental clinics or offices, for the purpose of overseeing the operations of the dental clinic or office, or the system of dental clinics or offices, and ensuring the delivery of quality dental care within the clinic, office or system.
 
-      (2) “Drug outlet” has the meaning given that term in ORS 689.005.
+      (2) “Dispense” and “dispensing” have the meanings given those terms in ORS 689.005.
 
-      (3) “Health professional regulatory board” means a health professional regulatory board, as defined in ORS 676.160, the Nursing Home Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board.
+      (3) “Drug outlet” has the meaning given that term in ORS 689.005.
 
-      (4) “Medical director” means a physician employed by a hospital, health care clinic or system of hospitals or health care clinics for the purposes of overseeing the operations of the hospital, clinic or system and ensuring the delivery of quality health care within the hospital, clinic or system.
+      (4) “Health professional regulatory board” means a health professional regulatory board, as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board.
 
-      (5) “Pharmacist” means:
+      (5) “Medical director” means a physician employed by a coordinated care organization, hospital, health care clinic or system of hospitals or health care clinics for the purposes of overseeing the operations of the coordinated care organization, hospital, clinic or system and ensuring the delivery of quality health care within the coordinated care organization, hospital, clinic or system.
+
+      (6) “Pharmacist” means:
 
       (a) A pharmacist as defined in ORS 689.005; or
 
       (b) An individual licensed to practice pharmacy in another state, if the requirements for licensure are similar, as determined by the Oregon Health Authority, to the requirements for being licensed as a pharmacist as defined in ORS 689.005.
 
-      (6) “Pharmacy director” means a pharmacist employed by a pharmacy or system of pharmacies for the purposes of overseeing the operations of the pharmacy or system and ensuring the delivery of quality pharmaceutical care within the pharmacy or system.
+      (7) “Pharmacy director” means a pharmacist employed by a coordinated care organization, pharmacy or system of pharmacies for the purposes of overseeing the operations of the coordinated care organization, pharmacy or system and ensuring the delivery of quality pharmaceutical care within the coordinated care organization, pharmacy or system.
 
-      (7) “Practitioner” means:
+      (8) “Practitioner” means:
 
       (a) A practitioner as defined in ORS 689.005; or
 
       (b) An individual licensed to practice a profession in another state, if the requirements for licensure are similar, as determined by the authority, to the requirements for being licensed as a practitioner as defined in ORS 689.005.
 
-      (8) “Prescription” has the meaning given that term in ORS 475.005.
+      (9) “Prescription” has the meaning given that term in ORS 475.005.
 
-      (9) “Prescription drug” has the meaning given that term in ORS 689.005. [Formerly 431.960; 2017 c.101 §11; 2017 c.683 §11]
+      (10) “Prescription drug” has the meaning given that term in ORS 689.005. [Formerly 431.960; 2017 c.101 §11; 2017 c.683 §11; 2018 c.61 §14; 2019 c.53 §1; 2019 c.583 §15]
 
  
 
@@ -2245,13 +2367,19 @@ PRESCRIPTION MONITORING PROGRAM
 
       431A.855 Establishment of program; rules; report to commission. (1)(a) The Oregon Health Authority, in consultation with the Prescription Monitoring Program Advisory Commission, shall establish and maintain a prescription monitoring program for monitoring and reporting:
 
-      (A) Prescription drugs dispensed by pharmacies licensed by the State Board of Pharmacy that are classified in schedules II through IV under the federal Controlled Substances Act, 21 U.S.C. 811 and 812, as modified by the board by rule under ORS 475.035; and
+      (A) Prescription drugs dispensed by pharmacies licensed by the State Board of Pharmacy that are classified in schedules II through IV under the federal Controlled Substances Act, 21 U.S.C. 811 and 812, as modified by the board by rule under ORS 475.035;
 
-      (B) Prescribed naloxone dispensed by pharmacies.
+      (B) Prescribed gabapentin and naloxone dispensed by pharmacies; and
+
+      (C) Other drugs identified by rules adopted by the authority.
 
       (b)(A) To fulfill the requirements of this subsection, the authority shall establish, maintain and operate an electronic system to monitor and report drugs described in paragraph (a) of this subsection that are dispensed by prescription.
 
-      (B) The electronic system must operate and be accessible by practitioners and pharmacies 24 hours a day, seven days a week.
+      (B) The electronic system must:
+
+      (i) Operate and be accessible by practitioners and pharmacies 24 hours a day, seven days a week; and
+
+      (ii) Allow practitioners to register as required under ORS 431A.877 and to apply for access to the electronic system in accordance with rules adopted by the authority under subsection (2) of this section.
 
       (C) The authority may contract with a state agency or private entity to ensure the effective operation of the electronic system.
 
@@ -2267,17 +2395,19 @@ PRESCRIPTION MONITORING PROGRAM
 
       (e) Ensuring accurate identification of persons or entities requesting information from the database;
 
-      (f) Accepting printed or nonelectronic reports from pharmacies that do not have the capability to provide electronic reports; and
+      (f) Accepting printed or nonelectronic reports from pharmacies that do not have the capability to provide electronic reports;
 
-      (g) Notifying a patient, before or when a drug classified in schedules II through IV is dispensed to the patient, about the prescription monitoring program and the entry of the prescription in the electronic system.
+      (g) Notifying a patient, before or when a drug classified in schedules II through IV is dispensed to the patient, about the prescription monitoring program and the entry of the prescription in the electronic system; and
 
-      (3) The authority shall submit an annual report to the commission regarding the prescription monitoring program established under this section. [Formerly 431.962; 2017 c.683 §12]
+      (h) Registering practitioners with the electronic system.
+
+      (3) The authority shall submit an annual report to the commission regarding the prescription monitoring program established under this section. [Formerly 431.962; 2017 c.683 §12; 2018 c.45 §8; 2019 c.470 §5; 2019 c.583 §16]
 
  
 
       431A.860 Duty of pharmacy to report to program; exceptions. (1) Not later than 72 hours after dispensing a prescription drug that is subject to the prescription monitoring program established under ORS 431A.855, a pharmacy shall electronically report to the Oregon Health Authority:
 
-      (a) If the prescription drug is classified in schedules II through IV under the federal Controlled Substances Act, 21 U.S.C. 811 and 812, as modified by the State Board of Pharmacy by rule under ORS 475.035, the name, address, phone number, date of birth and sex of the patient for whom the prescription drug was prescribed;
+      (a) For prescription drugs described in ORS 431A.855 (1)(a)(A) and other drugs identified by the authority by rule, the name, address, phone number, date of birth and sex of the patient for whom the prescription drug was prescribed;
 
       (b) The identity of the pharmacy that dispensed the prescription drug and the date on which the prescription drug was dispensed;
 
@@ -2289,19 +2419,17 @@ PRESCRIPTION MONITORING PROGRAM
 
       (f) The quantity of the prescription drug dispensed;
 
-      (g) The number of days for which the prescription drug was dispensed; and
+      (g) The number of days for which the prescription drug was dispensed;
 
-      (h) The number of refills of the prescription authorized by the practitioner and the number of the refill that the pharmacy dispensed.
+      (h) The number of refills of the prescription authorized by the practitioner and the number of the refill that the pharmacy dispensed; and
 
-      (2)(a) Notwithstanding subsection (1) of this section, the authority may not:
+      (i) The diagnosis code used by the practitioner and the reason for the prescription.
 
-      (A) Require the reporting of prescription drugs administered directly to a patient or dispensed pursuant to ORS 127.800 to 127.897;
+      (2) Notwithstanding subsection (1) of this section, the authority may not:
 
-      (B) Collect or use Social Security numbers in the prescription monitoring program; or
+      (a) Require the reporting of prescription drugs administered directly to a patient or dispensed pursuant to ORS 127.800 to 127.897; or
 
-      (C) Disclose under ORS 431A.865 (2)(a) the sex of the patient for whom a drug was prescribed.
-
-      (b) The sex of the patient for whom a drug was prescribed may be disclosed only for the purpose of research or epidemiological study under ORS 431A.865 (2)(b).
+      (b) Collect or use Social Security numbers in the prescription monitoring program.
 
       (3) Upon receipt of the data reported pursuant to subsection (1) of this section, the authority shall record the data in the electronic system established under ORS 431A.855.
 
@@ -2309,29 +2437,31 @@ PRESCRIPTION MONITORING PROGRAM
 
       (b) As used in this subsection, “good cause” includes financial hardship.
 
-      (5) This section does not apply to pharmacies in institutions as defined in ORS 179.010. [Formerly 431.964; 2017 c.683 §13]
+      (5) This section does not apply to pharmacies in institutions as defined in ORS 179.010. [Formerly 431.964; 2017 c.683 §13; 2019 c.470 §6; 2019 c.583 §17]
 
  
 
-      Note: Section 26, chapter 683, Oregon Laws 2017, provides:
-
-      Sec. 26. Notwithstanding the operative date specified in section 27 of this 2017 Act [January 1, 2018], a pharmacy is not required to electronically report the phone number of the patient for whom a prescription drug was prescribed, as described in ORS 431A.860 (1), for prescription drugs dispensed before July 1, 2018. [2017 c.683 §26]
-
- 
-
-      431A.865 Disclosure of information; corrections; records; immunity from liability. (1)(a) Except as provided under subsection (2) of this section, prescription monitoring information submitted under ORS 431A.860 to the prescription monitoring program established in ORS 431A.855:
+      431A.865 Disclosure of information; corrections; records; immunity from liability. (1)(a) Except as provided under subsections (2) and (3) of this section, prescription monitoring information submitted under ORS 431A.860 to the prescription monitoring program established in ORS 431A.855:
 
       (A) Is protected health information under ORS 192.553 to 192.581.
 
       (B) Is confidential and not subject to disclosure under ORS 192.311 to 192.478.
 
-      (b) Except as provided under subsection (2)(a)(H) of this section, prescription monitoring information submitted under ORS 431A.860 to the prescription monitoring program may not be used to evaluate a practitioner’s professional practice.
+      (b) Except as provided under subsection (3)(a)(H) of this section, prescription monitoring information submitted under ORS 431A.860 to the prescription monitoring program may not be used to evaluate a practitioner’s professional practice.
 
-      (2)(a) To the extent that the law or regulation is applicable to the prescription monitoring program, if a disclosure of prescription monitoring information, other than the sex of a patient for whom a drug was prescribed, complies with the federal Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191) and regulations adopted under that law, including 45 C.F.R. parts 160 and 164, federal alcohol and drug treatment confidentiality laws and regulations, including 42 C.F.R. part 2, and state health and mental health confidentiality laws, including ORS 179.505, 192.517 and 192.553 to 192.581, the Oregon Health Authority shall disclose the information:
+      (2) The Oregon Health Authority may review the prescription monitoring information of an individual who dies from a drug overdose.
+
+      (3)(a) Except as provided in paragraph (c) of this subsection, the Oregon Health Authority shall disclose prescription monitoring information reported to the authority under ORS 431A.860:
 
       (A) To a practitioner or pharmacist, or, if a practitioner or pharmacist authorizes the authority to disclose the information to a member of the practitioner’s or pharmacist’s staff, to a member of the practitioner’s or pharmacist’s staff. If a practitioner or pharmacist authorizes disclosing the information to a member of the practitioner’s or pharmacist’s staff under this subparagraph, the practitioner or pharmacist remains responsible for the use or misuse of the information by the staff member. To receive information under this subparagraph, or to authorize the receipt of information by a staff member under this subparagraph, a practitioner or pharmacist must certify that the requested information is for the purpose of evaluating the need for or providing medical or pharmaceutical treatment for a patient to whom the practitioner or pharmacist anticipates providing, is providing or has provided care.
 
-      (B) To a medical director or pharmacy director, or, if a medical director or pharmacy director authorizes the authority to disclose the information to a member of the medical director’s or pharmacy director’s staff, to a member of the medical director’s or pharmacy director’s staff. If a medical director or pharmacy director authorizes disclosing the information to a member of the medical director’s or pharmacy director’s staff under this subparagraph, the medical director or pharmacy director remains responsible for the use or misuse of the information by the staff member. To receive information under this subparagraph, or to authorize the receipt of information by a staff member under this subparagraph, a medical director must certify that the requested information is for the purposes of overseeing the operations of a hospital, health care clinic or system of hospitals or health care clinics and ensuring the delivery of quality health care within the hospital, clinic or system. To receive information under this subparagraph, or to authorize the receipt of information by a staff member under this subparagraph, a pharmacy director must certify that the requested information is for the purposes of overseeing the operations of a pharmacy or system of pharmacies and ensuring the delivery of quality pharmaceutical care within the pharmacy or system.
+      (B) To a dental director, medical director or pharmacy director, or, if a dental director, medical director or pharmacy director authorizes the authority to disclose the information to a member of the dental director’s, medical director’s or pharmacy director’s staff, to a member of the dental director’s, medical director’s or pharmacy director’s staff. If a dental director, medical director or pharmacy director authorizes disclosing the information to a member of the dental director’s, medical director’s or pharmacy director’s staff under this subparagraph, the dental director, medical director or pharmacy director remains responsible for the use or misuse of the information by the staff member. To receive information under this subparagraph, or to authorize the receipt of information by a staff member under this subparagraph:
+
+      (i) A dental director must certify that the requested information is for the purposes of overseeing the operations of a coordinated care organization, dental clinic or office, or a system of dental clinics or offices, and ensuring the delivery of quality dental care within the coordinated care organization, clinic, office or system.
+
+      (ii) A medical director must certify that the requested information is for the purposes of overseeing the operations of a coordinated care organization, hospital, health care clinic or system of hospitals or health care clinics and ensuring the delivery of quality health care within the coordinated care organization, hospital, clinic or system.
+
+      (iii) A pharmacy director must certify that the requested information is for the purposes of overseeing the operations of a coordinated care organization, pharmacy or system of pharmacies and ensuring the delivery of quality pharmaceutical care within the coordinated care organization, pharmacy or system.
 
       (C) In accordance with subparagraphs (A) and (B) of this paragraph, to an individual described in subparagraphs (A) and (B) of this paragraph through a health information technology system that is used by the individual to access information about patients if:
 
@@ -2365,17 +2495,25 @@ PRESCRIPTION MONITORING PROGRAM
 
       (E) To officials of the authority who are conducting special epidemiologic morbidity and mortality studies in accordance with ORS 413.196 and rules adopted under ORS 431.001 to 431.550 and 431.990.
 
-      (c) The authority shall disclose information relating to a patient maintained in the electronic system established under ORS 431A.855 to that patient at no cost to the patient within 10 business days after the authority receives a request from the patient for the information.
+      (c) The authority may not disclose, except as provided in paragraph (b) of this subsection:
 
-      (d)(A) A patient may request the authority to correct any information related to the patient that is maintained in the electronic system established under ORS 431A.855 that is erroneous. The authority shall grant or deny a request to correct information within 10 business days after the authority receives the request. If a request to correct information cannot be granted because the error occurred at the pharmacy where the information was inputted, the authority shall inform the patient that the information cannot be corrected because the error occurred at the pharmacy.
+      (A) Prescription drug monitoring information to the extent that the disclosure fails to comply with applicable provisions of the federal Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191) and regulations adopted under that law, including 45 C.F.R. parts 160 and 164, federal alcohol and drug treatment confidentiality laws and regulations, including 42 C.F.R. part 2, and state health and mental health confidentiality laws, including ORS 179.505, 192.517 and 192.553 to 192.581.
+
+      (B) The sex of a patient for whom a drug was prescribed.
+
+      (C) The identity of a patient for whom naloxone was prescribed.
+
+      (d) The authority shall disclose information relating to a patient maintained in the electronic system established under ORS 431A.855 to that patient at no cost to the patient within 10 business days after the authority receives a request from the patient for the information.
+
+      (e)(A) A patient may request the authority to correct any information related to the patient that is maintained in the electronic system established under ORS 431A.855 that is erroneous. The authority shall grant or deny a request to correct information within 10 business days after the authority receives the request. If a request to correct information cannot be granted because the error occurred at the pharmacy where the information was inputted, the authority shall inform the patient that the information cannot be corrected because the error occurred at the pharmacy.
 
       (B) If the authority denies a patient’s request to correct information under this paragraph, or fails to grant a patient’s request to correct information under this paragraph within 10 business days after the authority receives the request, the patient may appeal the denial or failure to grant the request. Upon receiving notice of an appeal under this subparagraph, the authority shall conduct a contested case hearing as provided in ORS chapter 183. Notwithstanding ORS 183.450, the authority has the burden in the contested case hearing of establishing that the information is correct.
 
-      (e) The information in the prescription monitoring program may not be used for any commercial purpose.
+      (f) The information in the prescription monitoring program may not be used for any commercial purpose.
 
-      (f) In accordance with ORS 192.553 to 192.581 and federal laws and regulations related to privacy, any person authorized to prescribe or dispense a prescription drug who is entitled to access a patient’s prescription monitoring information may discuss the information with or release the information to other health care providers involved with the patient’s care for the purpose of providing safe and appropriate care coordination.
+      (g) In accordance with ORS 192.553 to 192.581 and federal laws and regulations related to privacy, any person authorized to prescribe or dispense a prescription drug who is entitled to access a patient’s prescription monitoring information may discuss the information with or release the information to other health care providers involved with the patient’s care for the purpose of providing safe and appropriate care coordination.
 
-      (3)(a) The authority shall maintain records of the information disclosed through the prescription monitoring program including:
+      (4)(a) The authority shall maintain records of the information disclosed through the prescription monitoring program including:
 
       (A) The identity of each person who requests or receives information from the program and any organization the person represents;
 
@@ -2385,17 +2523,17 @@ PRESCRIPTION MONITORING PROGRAM
 
       (b) Records maintained as required by this subsection may be reviewed by the Prescription Monitoring Program Advisory Commission.
 
-      (4) Information in the prescription monitoring program that identifies an individual patient must be removed no later than three years from the date the information is entered into the program.
+      (5) Information in the prescription monitoring program that identifies an individual patient must be removed no later than three years from the date the information is entered into the program.
 
-      (5) The authority shall notify the Attorney General and each individual affected by an improper disclosure of information from the prescription monitoring program of the disclosure.
+      (6) The authority shall notify the Attorney General and each individual affected by an improper disclosure of information from the prescription monitoring program of the disclosure.
 
-      (6)(a) If the authority or a person or entity required to report or authorized to receive or release prescription information under this section violates this section or ORS 431A.860 or 431A.870, a person injured by the violation may bring a civil action against the authority, person or entity and may recover damages in the amount of $1,000 or actual damages, whichever is greater.
+      (7)(a) If the authority or a person or entity required to report or authorized to receive or release prescription information under this section violates this section or ORS 431A.860 or 431A.870, a person injured by the violation may bring a civil action against the authority, person or entity and may recover damages in the amount of $1,000 or actual damages, whichever is greater.
 
       (b) Notwithstanding paragraph (a) of this subsection, the authority and a person or entity required to report or authorized to receive or release prescription information under this section are immune from civil liability for violations of this section or ORS 431A.860 or 431A.870 unless the authority, person or entity acts with malice, criminal intent, gross negligence, recklessness or willful intent.
 
-      (7) Nothing in ORS 431A.855 to 431A.900 requires a practitioner or pharmacist who prescribes or dispenses a prescription drug to obtain information about a patient from the prescription monitoring program. A practitioner or pharmacist who prescribes or dispenses a prescription drug may not be held liable for damages in any civil action on the basis that the practitioner or pharmacist did or did not request or obtain information from the prescription monitoring program.
+      (8) Nothing in ORS 431A.855 to 431A.900 requires a practitioner or pharmacist who prescribes or dispenses a prescription drug to obtain information about a patient from the prescription monitoring program. A practitioner or pharmacist who prescribes or dispenses a prescription drug may not be held liable for damages in any civil action on the basis that the practitioner or pharmacist did or did not request or obtain information from the prescription monitoring program.
 
-      (8) The authority shall, at regular intervals, ensure compliance of a health information technology system described in subsection (2) of this section with the privacy and security requirements and other criteria established by the authority under subsection (2) of this section. [Formerly 431.966; 2016 c.100 §1; 2017 c.151 §24; 2017 c.683 §14]
+      (9) The authority shall, at regular intervals, ensure compliance of a health information technology system described in subsection (3) of this section with the privacy and security requirements and other criteria established by the authority under subsection (3) of this section. [Formerly 431.966; 2016 c.100 §1; 2017 c.151 §24; 2017 c.683 §14; 2019 c.53 §2; 2019 c.470 §7; 2019 c.583 §18]
 
  
 
@@ -2403,7 +2541,7 @@ PRESCRIPTION MONITORING PROGRAM
 
  
 
-      431A.867 Agreement for use of program information. (1) The Oregon Health Authority may require a person requesting prescription monitoring program information under ORS 431A.865 (2)(b) to enter into a data use agreement under which the person:
+      431A.867 Agreement for use of program information. (1) The Oregon Health Authority may require a person requesting prescription monitoring program information under ORS 431A.865 (3)(b) to enter into a data use agreement under which the person:
 
       (a) Describes the proposed use for the information;
 
@@ -2417,7 +2555,7 @@ PRESCRIPTION MONITORING PROGRAM
 
       (2) In determining whether to enter into an agreement under this section, the authority shall:
 
-      (a) Evaluate the merits of the request for information;
+      (a) Ensure that the agreement will benefit the health and safety of Oregonians;
 
       (b) Determine whether the person making the request has the technical competence needed to meet any terms, conditions or limitations imposed under subsection (1) of this section and the ability to complete the proposed use for the information;
 
@@ -2425,15 +2563,15 @@ PRESCRIPTION MONITORING PROGRAM
 
       (d) Consider any other factor that the authority determines is relevant.
 
-      (3) Using the factors described in subsection (2) of this section, the authority shall evaluate any agreement entered into under this section at least once per year for the purpose of determining whether to renew the agreement. [2017 c.683 §18]
+      (3) Using the factors described in subsection (2) of this section, the authority shall evaluate any agreement entered into under this section at least once per year for the purpose of determining whether to renew the agreement. [2017 c.683 §18; 2019 c.470 §11; 2019 c.583 §19]
 
  
 
-      431A.869 Sharing and use of program information with other states. The Oregon Health Authority may enter into agreements governing the sharing and use of information described in ORS 431A.860 (1) with the authorities of other states that administer prescription monitoring programs. An agreement entered into under this section must adhere to the disclosure limitations listed under ORS 431A.865 (2). An agreement entered into under this section may:
+      431A.869 Sharing and use of program information with other states. The Oregon Health Authority may enter into agreements governing the sharing and use of information described in ORS 431A.860 (1) with the authorities of other states that administer prescription monitoring programs. An agreement entered into under this section must adhere to the disclosure limitations listed under ORS 431A.865 (3). An agreement entered into under this section may:
 
       (1) Provide for the transmission of information between electronic systems, provided that any electronic system to which the Oregon Health Authority transmits information meets the confidentiality, security and privacy standards adopted by the authority under ORS 431A.855; or
 
-      (2) Provide for the transmission of information to practitioners or pharmacists licensed to practice in another state. [2017 c.683 §22]
+      (2) Provide for the transmission of information to practitioners or pharmacists licensed to practice in another state. [2017 c.683 §22; 2019 c.470 §12]
 
  
 
@@ -2445,7 +2583,13 @@ PRESCRIPTION MONITORING PROGRAM
 
  
 
-      431A.880 Fees. (1) As used in this section, “board” means:
+      431A.877 Duty to register; rules. (1) In order to ensure the development, administration and evaluation of best practices for prescribing opioids and opiates, a practitioner shall register with the electronic system established under ORS 431A.855.
+
+      (2) The Oregon Health Authority may adopt rules to administer this section. [2018 c.45 §7]
+
+ 
+
+      431A.880 Licensing information; fees; rules. (1) As used in this section, “board” means:
 
       (a) The Oregon Medical Board;
 
@@ -2551,7 +2695,7 @@ PRESCRIPTION MONITORING PROGRAM
 
  
 
-      431A.898 Practitioner training. (1) Not less than once per year, the Oregon Health Authority, in consultation with the Prescription Monitoring Program Advisory Commission created under ORS 431A.890 and the Prescription Monitoring Program Prescribing Practices Review Subcommittee established under ORS 431A.896, shall develop, through the use of prescription monitoring information, criteria by which a practitioner may be required to receive education or training on the prescribing of opioids or opiates.
+      431A.898 Practitioner training; rules. (1) Not less than once per year, the Oregon Health Authority, in consultation with the Prescription Monitoring Program Advisory Commission created under ORS 431A.890 and the Prescription Monitoring Program Prescribing Practices Review Subcommittee established under ORS 431A.896, shall develop, through the use of prescription monitoring information, criteria by which a practitioner may be required to receive education or training on the prescribing of opioids or opiates.
 
       (2) Criteria developed under subsection (1) of this section must include:
 
@@ -2567,11 +2711,15 @@ PRESCRIPTION MONITORING PROGRAM
 
       (5) After performing the review described in subsection (4) of this section, the subcommittee may direct the authority to provide to a practitioner who meets the criteria developed under subsection (1) of this section educational information about prescribing opioids and opiates, as determined appropriate by the authority.
 
-      (6) Prescription monitoring information used for purposes of this section and the data created through the use of prescription monitoring information pursuant to this section:
+      (6)(a) For the purposes of evaluating prescriptions made by practitioners of opioids and opiates and other controlled substances, the subcommittee may direct the authority to compare the prescriptions described in this paragraph between similarly situated practitioners and to provide the comparative information to practitioners who meet criteria established by the subcommittee.
+
+      (b) The subcommittee may adopt rules to carry out this subsection, including rules to establish criteria to determine to which practitioners to provide the information described in this subsection.
+
+      (7) Prescription monitoring information used for purposes of this section and the data created through the use of prescription monitoring information pursuant to this section:
 
       (a) Are confidential and not subject to public disclosure under ORS 192.311 to 192.478; and
 
-      (b) Are not admissible as evidence in a civil or criminal proceeding. [2017 c.683 §19]
+      (b) Are not admissible as evidence in a civil or criminal proceeding. [2017 c.683 §19; 2019 c.583 §20]
 
  
 
@@ -2586,6 +2734,8 @@ PRESCRIPTION MONITORING PROGRAM
       (3) The Department of Justice may adopt rules as required to carry out the provisions of this section.
 
       (4) Penalties recovered under this section shall be paid into the State Treasury and credited to the General Fund. [Formerly 431.992]
+
+ 
 
 _______________
 

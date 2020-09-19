@@ -22,20 +22,6 @@ Chapter 171 — State Legislature
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0086
-
- 
-
- 
-
 
  
 
@@ -213,7 +199,7 @@ PUBLICATIONS
 
  
 
-171.270     Legislative materials furnished public officers without charge are public property
+171.270     Legislative materials furnished to public officers without charge are public property
 
  
 
@@ -345,7 +331,11 @@ STATE BUDGET POLICY
 
  
 
-171.557     State budget policy; confidentiality of certain information
+171.557     State budget policy
+
+ 
+
+171.558     Furnishing budget information to Oregon Department of Administrative Services; confidentiality; exception
 
  
 
@@ -446,6 +436,10 @@ LOBBYING REGULATION
  
 
 171.740     Lobbyist registration; contents of statement; limitations on statement withdrawal; statement changes
+
+ 
+
+171.742     Annual training; rules
 
  
 
@@ -563,6 +557,8 @@ PENALTIES
 
  
 
+ 
+
 Note    The following lists of appointments and recommendations by presiding officers and appointments requiring Senate confirmation are provided for the user’s convenience.
 
  
@@ -571,15 +567,15 @@ Appointments and Recommendations by Presiding Officers
 
  
 
+Access to Quality Affordable Child Care, Task Force on (sunsets January 1, 2021), 2019 c.586 §1
+
+ 
+
 Administrative Hearings Oversight Committee, Office of, 183.690
 
  
 
-Alcohol and Drug Policy Commission, 430.241
-
- 
-
-Anonymous Text Message Services, Task Force on (sunsets December 31, 2019), 2017 c.670 §1
+Alcohol and Drug Policy Commission, 430.221
 
  
 
@@ -587,11 +583,15 @@ Asian and Pacific Islander Affairs, Commission on, 185.610
 
  
 
-Assessments of Children Who Are Deaf or Hard of Hearing, Task Force on (sunsets June 30, 2019), 2017 c.722 §1
+Asset Forfeiture Oversight Advisory Committee, 131A.455
 
  
 
-Asset Forfeiture Oversight Advisory Committee, 131A.455
+Autonomous Vehicles, Task Force on (sunsets January 2, 2021), 2018 c.94 §2
+
+ 
+
+Ballot measures and explanatory statements, joint legislative committee on, 2019 c.674 §7
 
  
 
@@ -599,7 +599,7 @@ Black Affairs, Commission on, 185.420
 
  
 
-Broadband Advisory Council, Oregon (sunsets January 2, 2020), 2009 c.782 §1
+Broadband Advisory Council, Oregon, 285A.154
 
  
 
@@ -631,7 +631,7 @@ Criminal Justice Commission, Oregon, 137.654
 
  
 
-Critical Incident Response Team, 419B.024
+Critical Incident Review Team, 418.811
 
  
 
@@ -647,7 +647,7 @@ Education Commission of the States, 348.950
 
  
 
-Educational Opportunity for Military Children, State Council for (sunsets December 31, 2019), 2014 c.110 §§1,3
+Educational Opportunity for Military Children, State Council for, 326.552 and 326.555
 
  
 
@@ -656,6 +656,10 @@ Electronic Government Portal Advisory Board, 276A.273
  
 
 Emergency Board, 291.330 and 291.332
+
+ 
+
+Fair Pricing of Prescription Drugs, Task Force on the (sunsets December 31, 2020), 2018 c.7 §11
 
  
 
@@ -683,10 +687,6 @@ Hanford Cleanup Board, Oregon, 469.571
 
  
 
-Health Care Cost Review, Task Force on (sunsets December 31, 2018), 2017 c.648 §1
-
- 
-
 Hispanic Affairs, Commission on, 185.320
 
  
@@ -695,15 +695,11 @@ Homeland Security Council, Oregon, 401.109
 
  
 
-Hospital Advisory Board, Oregon State, 179.560
-
- 
-
-Hospital performance metrics advisory committee (sunsets July 1, 2018), 2003 c.736 §1
-
- 
-
 Hunger Task Force, 458.532
+
+ 
+
+Improving People’s Access to Community-based Treatment, Supports and Services Grant Review Committee, 430.234
 
  
 
@@ -732,6 +728,10 @@ Interstate Adult Offender Supervision, Oregon State Council for, 144.600
  
 
 Interstate Juvenile Supervision, Oregon State Council for, 417.030
+
+ 
+
+Invasive Species Council, 570.770
 
  
 
@@ -771,10 +771,6 @@ Legislative Revenue Officer, 173.800
 
  
 
-Maritime Sector Workforce Development, Task Force on (sunsets December 31, 2018), 2017 c.738 §3
-
- 
-
 Medicaid Long Term Care Quality and Reimbursement Advisory Council, 410.550
 
  
@@ -795,6 +791,10 @@ Oregon Growth Board, 284.883
 
  
 
+Oregon State Hospital Advisory Board, 179.560
+
+ 
+
 Pacific Ocean Resources Compact, representatives of the State of Oregon to the, 196.185
 
  
@@ -811,7 +811,7 @@ Public Employees’ Benefit Board, 243.061
 
  
 
-Public Records Advisory Council (sunsets January 1, 2021), 2017 c.728 §8
+Public Records Advisory Council, 192.481
 
  
 
@@ -835,11 +835,11 @@ Retirement Savings Board, Oregon, 178.200
 
  
 
-Road User Fee Task Force, 184.843
+Road User Fee Task Force,184.843
 
  
 
-School Safety, Task Force on (sunsets December 31, 2019), 2014 c.93 §1
+School Safety, Task Force on (sunsets December 31, 2021), 2014 c.93 §1
 
  
 
@@ -851,11 +851,11 @@ Sensitive review committee, 409.194
 
  
 
-Shipping Transport of Aquatic Invasive Species Task Force (sunsets January 2, 2019), 2013 c.594 §1
+Sister State Committee, 285A.143
 
  
 
-Sister State Committee, 285A.143
+Small Business Rules Advisory Committee, 183.407
 
  
 
@@ -875,7 +875,11 @@ Sunshine Committee, Oregon, 192.511
 
  
 
-Testing of Sexual Assault Forensic Evidence Kits, Task Force on the (sunsets June 30, 2019), 2016 c.89 §7
+Supporting Businesses in Reducing Diesel Emissions Task Force (sunsets December 31, 2020), 2019 c.645 §19
+
+ 
+
+Testing of Sexual Assault Forensic Evidence Kits, Task Force on the (sunsets June 30, 2021), 2016 c.89 §7
 
  
 
@@ -887,11 +891,11 @@ Transportation, Joint Committee on, 171.858
 
  
 
-Transportation Projects, Task Force on Mega (sunsets December 31, 2018), 2017 c.750 §121
+Trust for Cultural Development Board, 359.410
 
  
 
-Trust for Cultural Development Board, 359.410
+Universal Health Care, Task Force on (sunsets January 2, 2022), 2019 c.629 §2
 
  
 
@@ -915,7 +919,7 @@ Workforce and Talent Development Board, State, 660.321
 
  
 
-Youth Conservation Corps Advisory Committee, Oregon, 418.653
+Youth Corps Advisory Board, Oregon, 418.653
 
  
 
@@ -939,7 +943,7 @@ Agriculture, Director of, 561.010
 
  
 
-Alcohol and Drug Policy Commission, 430.241
+Alcohol and Drug Policy Commission, 430.221
 
  
 
@@ -1095,11 +1099,19 @@ Governor’s Child Foster Care Advisory Commission, 418.041
 
  
 
+Growth Board, Oregon, 284.883
+
+ 
+
 Health Evidence Review Commission, 414.688
 
  
 
 Health Insurance Exchange Advisory Committee, 741.004
+
+ 
+
+Health Policy Board, Oregon, 413.006
 
  
 
@@ -1115,11 +1127,11 @@ Home Care Commission, 410.602
 
  
 
-Hospital Advisory Board, Oregon State, 179.560
+Housing Stability Council, Oregon, 456.567
 
  
 
-Housing Stability Council, Oregon, 456.567
+Human Rights Commission, Oregon, 427.401
 
  
 
@@ -1156,6 +1168,14 @@ Licensed Professional Counselors and Therapists, Oregon Board of, 675.775
  
 
 Licensed Social Workers, State Board of, 675.590
+
+ 
+
+Liquor Control Commission, Oregon, 471.705
+
+ 
+
+Long Term Care Administrators Board, 678.800
 
  
 
@@ -1207,10 +1227,6 @@ Naturopathic Medicine, Oregon Board of, 685.160
 
  
 
-Nursing Home Administrators Board, 678.800
-
- 
-
 Nursing, Oregon State Board of, 678.140
 
  
@@ -1231,10 +1247,6 @@ Oregon Community Power board of directors, 757.834
 
  
 
-Oregon Growth Board, 284.883
-
- 
-
 Oregon Health and Science University Board of Directors, 353.040
 
  
@@ -1243,15 +1255,7 @@ Oregon Health Authority, Director of the, 413.033
 
  
 
-Oregon Health Policy Board, 413.006
-
- 
-
 Oregon Institute of Technology, Board of Trustees of the, 352.076
-
- 
-
-Oregon Liquor Control Commission, 471.705
 
  
 
@@ -1279,7 +1283,7 @@ Pharmacy, State Board of, 689.115
 
  
 
-Physical Therapist Licensing Board, 688.160
+Physical Therapy, Oregon Board of, 688.160
 
  
 
@@ -1323,7 +1327,7 @@ Public Instruction, Deputy Superintendent of, 326.300
 
  
 
-Public Records Advisory Council, 2017 c.728 §8
+Public Records Advisory Council, 192.481
 
  
 
@@ -1391,6 +1395,10 @@ State Accident Insurance Fund Corporation, board of directors of the, 656.751
 
  
 
+State Hospital Advisory Board, Oregon, 179.560
+
+ 
+
 State Police, Superintendent of, 181A.030
 
  
@@ -1415,11 +1423,15 @@ Transportation Commission, Oregon, 184.612
 
  
 
-Transportation, Director of, 184.620
+Transportation, Director of, 184.620, 184.623
 
  
 
 Trust for Cultural Development Board, 359.410
+
+ 
+
+Universal Health Care, Task Force on, 2019 c.629 §2
 
  
 
@@ -1435,7 +1447,7 @@ Veterinary Medical Examining Board, Oregon State, 686.210
 
  
 
-Voluntary Action and Service, Oregon Volunteers Commission for, 458.555
+Volunteers Commission for Voluntary Action and Service, Oregon, 458.555
 
  
 
@@ -1487,7 +1499,11 @@ GENERAL PROVISIONS
 
  
 
-      171.010 Time and place of holding regular legislative sessions. The regular sessions of the Legislative Assembly shall be held at the capital of the state and shall commence on the first day of February of each year, except that if the first day of February is a Thursday, Friday, Saturday or Sunday, the regular session shall commence on the following Monday. [Amended by 2010 c.98 §1]
+      171.010 Time and place of holding regular legislative sessions. The regular sessions of the Legislative Assembly shall be held at the capital of the state and shall commence:
+
+      (1) In the case of an odd-numbered year regular session, on the Tuesday after the holiday for Martin Luther King, Jr.’s Birthday.
+
+      (2) In the case of an even-numbered year regular session, on the first day of February, except that if the first day of February is a Thursday, Friday, Saturday or Sunday, the regular session shall commence on the following Monday. [Amended by 2010 c.98 §1; 2018 c.78 §1]
 
       171.015 Emergency legislative sessions; procedure for determining legislators’ request for or refusal of emergency sessions; time and manner of convening sessions. (1) When a majority of the members of each house of the Legislative Assembly has cause to believe that an emergency exists and so notifies the presiding officers of each house in the manner described in this section, the presiding officers shall invoke section 10a, Article IV of the Oregon Constitution.
 
@@ -1607,13 +1623,13 @@ GENERAL PROVISIONS
 
       (4) Notwithstanding any appointment under the provisions of subsection (1)(c) of this section, when a vacancy occurs in the office of a state Senator before the 61st day before the first general election to be held during that term of office, the remaining two years of the term of office shall be filled by the electors of the affected legislative district at the first general election.
 
-      (5) Candidates for the remaining two years of the term of office of a state Senator under subsection (4) of this section shall be nominated as provided in ORS chapter 249 except as follows:
+      (5) Candidates for the remaining two years of the term of office of a state Senator under subsection (4) of this section shall be nominated as provided in ORS chapter 249, with major political parties following the procedure set forth in ORS 249.200, except as follows:
 
-      (a) A major political party, minor political party, assembly of electors or individual electors may select a nominee for any vacancy occurring before the 61st day before the first general election; and
+      (a) A minor political party, assembly of electors or individual electors may select a nominee for any vacancy occurring before the 61st day before the first general election; and
 
-      (b) The Secretary of State shall accept certificates of nomination and notifications of nominees selected by party rule and filed with the secretary pursuant to a schedule for filing set by the Secretary of State but in any case not later than the 62nd day before the first general election.
+      (b) The Secretary of State shall accept certificates of nomination and notifications of nominees selected at a primary election or by party rule and filed with the secretary pursuant to a schedule for filing set by the Secretary of State but in any case not later than the 62nd day before the first general election.
 
-      (6) The remaining two years of the term of office of a state Senator under subsection (4) of this section will commence on the second Monday in January following the general election. Any appointment under the provisions of subsection (1)(c) of this section shall expire when a successor to the office is elected and qualified. [1981 c.517 §3 (enacted in lieu of 171.050); 1985 c.771 §1; 1987 c.380 §1; 1989 c.207 §1; 1995 c.607 §59]
+      (6) The remaining two years of the term of office of a state Senator under subsection (4) of this section will commence on the second Monday in January following the general election. Any appointment under the provisions of subsection (1)(c) of this section shall expire when a successor to the office is elected and qualified. [1981 c.517 §3 (enacted in lieu of 171.050); 1985 c.771 §1; 1987 c.380 §1; 1989 c.207 §1; 1995 c.607 §59; 2018 c.86 §1]
 
  
 
@@ -1625,9 +1641,9 @@ GENERAL PROVISIONS
 
  
 
-      171.062 Filling vacancies in multicounty legislative districts. (1) When a legislative district in which a vacancy occurs encompasses two or more counties, each county shall be entitled to one vote for each 1,000 of its electors or major fraction thereof residing within the legislative district at the time the vacancy occurs. However, any county having electors in the district shall be entitled to at least one vote.
+      171.062 Filling vacancies in multicounty legislative districts. (1) When a legislative district in which a vacancy occurs encompasses two or more counties, each county shall be entitled to one vote for each 1,000 of its electors or major fraction thereof residing within the legislative district at the time when either the office becomes vacant, or a resignation becomes binding under ORS 236.325, whichever occurs first. However, any county having electors in the district shall be entitled to at least one vote.
 
-      (2) A major fraction of electors shall be a number greater than 500 but less than 1,000. [Formerly 248.175]
+      (2) A major fraction of electors shall be a number greater than 500 but less than 1,000. [Formerly 248.175; 2019 c.675 §9]
 
  
 
@@ -1655,11 +1671,7 @@ GENERAL PROVISIONS
 
  
 
-      171.072 Salary of members and presiding officers; per diem allowance; expenses; tax status. (1) A member of the Legislative Assembly shall receive for services an annual salary of the greater of:
-
-      (a) One step below the maximum of Salary Range 1 in the Management Service Compensation Plan in the executive department as defined in ORS 174.112; or
-
-      (b) Seventeen percent of the salary of a Circuit Court Judge.
+      171.072 Salary of members and presiding officers; per diem allowance; expenses; tax status. (1) A member of the Legislative Assembly shall receive for services an annual salary that equals one step below the maximum step of Salary Range 1 in the Management Service Compensation Plan in the executive department as defined in ORS 174.112.
 
       (2) The President of the Senate and the Speaker of the House of Representatives each shall receive for services, as additional salary, an amount equal to the salary allowed each of them as a member under subsection (1) of this section.
 
@@ -1673,31 +1685,9 @@ GENERAL PROVISIONS
 
       (7) Amounts received under subsections (3) to (5) of this section are excluded from gross income and expenditures of the amounts are excluded in computing deductions for purposes of ORS chapter 316. If there is attached to the personal income return a schedule of all ordinary and necessary business expenses paid during the tax year as a member of the Legislative Assembly, a deduction may be claimed on the return for legislative expenses paid in excess of the amounts received under subsections (3) to (5) of this section. Expenses of members of the Legislative Assembly who are reimbursed by the state for actual expenses for meals and lodging associated with state travel for the same period during which a legislator receives per diem are subject to state income tax.
 
-      (8) For periods when the Legislative Assembly is not in session, the Legislative Administration Committee shall provide for a telephone and an expense allowance for members of the Legislative Assembly that is in addition to the amount allowed under subsection (4) of this section. In determining the amount of allowance for members, the committee shall consider the geographic area of the member’s district. The additional allowance shall reflect travel expenses necessary to communicate in districts of varying sizes.
+      (8) For periods when the Legislative Assembly is not in session, a member of the Legislative Assembly shall receive an expense allowance that is in addition to the amount allowed under subsection (4) of this section. The amount allocated to a member under this subsection must be adjusted based on the geographic area of the member’s district to reflect travel expenses necessary to communicate in the district.
 
-      (9) The per diem allowance referred to in subsections (3) and (4) of this section shall be the amount fixed for per diem allowance that is authorized by the United States Internal Revenue Service to be excluded from gross income without itemization. [1963 c.1 §1; 1967 c.66 §1; 1967 c.246 §1; 1971 c.465 §1; 1973 c.250 §1; 1975 c.530 §1; 1977 c.896 §1; 1979 c.557 §1; 1979 c.635 §7; 1981 c.517 §13; 1985 c.782 §3; 1987 c.879 §1; 1989 c.977 §7; 1995 c.658 §86; 1999 c.181 §1; 2003 c.516 §§1,2; 2007 c.912 §§5,5b; 2009 c.899 §6]
-
- 
-
-      Note: The amendments to 171.072 by section 1, chapter 578, Oregon Laws 2013, apply to salaries established for biennia beginning on or after July 1, 2019. See section 4, chapter 578, Oregon Laws 2013, as amended by section 5, chapter 840, Oregon Laws 2015, and section 15, chapter 725, Oregon Laws 2017. The text that applies to salaries established for biennia beginning on or after July 1, 2019, is set forth for the user’s convenience.
-
-      171.072. (1) A member of the Legislative Assembly shall receive for services an annual salary determined as provided under ORS 292.930.
-
-      (2) The President of the Senate and the Speaker of the House of Representatives each shall receive for services, as additional salary, an amount equal to the salary allowed each of them as a member under subsection (1) of this section.
-
-      (3) A member of the Legislative Assembly shall receive, as an allowance for expenses not otherwise provided for, a per diem determined as provided in subsection (9) of this section for each day within the period that the Legislative Assembly is in session, to be paid with the salary provided for in subsection (1) of this section. Pursuant to procedures determined by the Legislative Administration Committee, a member may draw from an accrued allowance.
-
-      (4) A member of the Legislative Assembly shall receive, as an allowance for expenses incurred in the performance of official duties during periods when the legislature is not in session, $400 for each calendar month or part of a calendar month during those periods, to be paid monthly, and subject to approval of the President of the Senate or Speaker of the House of Representatives, mileage expenses and a per diem determined as provided in subsection (9) of this section for each day a member is engaged in the business of legislative interim and statutory committees, including advisory committees and subcommittees of advisory committees, and task forces and for each day a member serves on interstate bodies, advisory committees and other entities on which the member serves ex officio, whether or not the entity is a legislative one.
-
-      (5) In addition to the mileage and per diem expense payments provided by this section, a member of the Legislative Assembly may receive reimbursement for actual and necessary expenses, subject to approval by the President of the Senate or Speaker of the House of Representatives, for legislative business outside of the state.
-
-      (6) The President of the Senate and the Speaker of the House of Representatives may delegate to the chairpersons of interim and statutory committees and task forces the approval authority granted to the President and the Speaker by subsection (4) of this section, with respect to expenses incurred in attending any meeting of a particular committee or task force.
-
-      (7) Amounts received under subsections (3) to (5) of this section are excluded from gross income and expenditures of the amounts are excluded in computing deductions for purposes of ORS chapter 316. If there is attached to the personal income return a schedule of all ordinary and necessary business expenses paid during the tax year as a member of the Legislative Assembly, a deduction may be claimed on the return for legislative expenses paid in excess of the amounts received under subsections (3) to (5) of this section. Expenses of members of the Legislative Assembly who are reimbursed by the state for actual expenses for meals and lodging associated with state travel for the same period during which a legislator receives per diem are subject to state income tax.
-
-      (8) For periods when the Legislative Assembly is not in session, the Legislative Administration Committee shall provide for a telephone and an expense allowance for members of the Legislative Assembly that is in addition to the amount allowed under subsection (4) of this section. In determining the amount of allowance for members, the committee shall consider the geographic area of the member’s district. The additional allowance shall reflect travel expenses necessary to communicate in districts of varying sizes.
-
-      (9) The per diem allowance referred to in subsections (3) and (4) of this section shall be the amount fixed for per diem allowance that is authorized by the United States Internal Revenue Service to be excluded from gross income without itemization.
+      (9) The per diem allowance referred to in subsections (3) and (4) of this section shall be the amount fixed for per diem allowance that is authorized by the United States Internal Revenue Service to be excluded from gross income without itemization. [1963 c.1 §1; 1967 c.66 §1; 1967 c.246 §1; 1971 c.465 §1; 1973 c.250 §1; 1975 c.530 §1; 1977 c.896 §1; 1979 c.557 §1; 1979 c.635 §7; 1981 c.517 §13; 1985 c.782 §3; 1987 c.879 §1; 1989 c.977 §7; 1995 c.658 §86; 1999 c.181 §1; 2003 c.516 §§1,2; 2007 c.912 §§5,5b; 2009 c.899 §6; 2013 c.578 §1; 2018 c.98 §17; 2019 c.643 §19]
 
  
 
@@ -2033,7 +2023,7 @@ PUBLICATIONS
 
  
 
-      171.270 Legislative materials furnished public officers without charge are public property. Except as otherwise provided by or pursuant to law, the copies of the legislative materials referred to in ORS 171.236 furnished free of charge to the public officers of this state pursuant to law are public property and shall be delivered over by them to their successors in office. [Amended by 1969 c.174 §3; 1981 c.517 §18]
+      171.270 Legislative materials furnished to public officers without charge are public property. Except as otherwise provided by or pursuant to law, the copies of the legislative materials referred to in ORS 171.236 furnished free of charge to the public officers of this state pursuant to law are public property and shall be delivered over by them to their successors in office. [Amended by 1969 c.174 §3; 1981 c.517 §18]
 
  
 
@@ -2129,7 +2119,7 @@ RECORDS
 
       (2) The chairperson, member or employee of a legislative interim committee responsible for maintaining the legislative records of that committee shall, within 10 days after the committee ceases to function or before January 1 next preceding the beginning of an odd-numbered year regular session of the Legislative Assembly, whichever is earlier, deliver all such legislative records to the Legislative Administration Committee.
 
-      (3) This section does not apply to the records of the Emergency Board, the Legislative Administration Committee, the Legislative Counsel Committee, the Legislative Policy and Research Committee or the Joint Committee on Ways and Means. [1961 c.150 §2; 1969 c.620 §10; 1973 c.555 §4; 1981 c.517 §20; 2011 c.545 §4; 2016 c.88 §7]
+      (3) This section does not apply to the records of the Emergency Board, the Legislative Administration Committee, the Legislative Counsel Committee, the Legislative Policy and Research Committee, the Joint Committee on Conduct and the Legislative Equity Officer or the Joint Committee on Ways and Means. [1961 c.150 §2; 1969 c.620 §10; 1973 c.555 §4; 1981 c.517 §20; 2011 c.545 §4; 2016 c.88 §7; 2019 c.604 §20]
 
  
 
@@ -2275,7 +2265,7 @@ STATE BUDGET POLICY
 
  
 
-      171.557 State budget policy; confidentiality of certain information. (1) The Legislative Assembly finds that there is a need for a comprehensive, specific budget format available to all members of the Legislative Assembly so that:
+      171.557 State budget policy. (1) The Legislative Assembly finds that there is a need for a comprehensive, specific budget format available to all members of the Legislative Assembly so that:
 
       (a) Effective policy decisions can be made;
 
@@ -2301,9 +2291,11 @@ STATE BUDGET POLICY
 
       (c) Funding options and priorities are defined in terms of policies; and
 
-      (d) Legislative budgeting identifies programs which are necessary in terms of policies and state responsibilities, as opposed to the need to maintain existing program activities.
+      (d) Legislative budgeting identifies programs which are necessary in terms of policies and state responsibilities, as opposed to the need to maintain existing program activities. [1989 c.652 §1; 2016 c.117 §37; subsection (4) renumbered 171.558 in 2019]
 
-      (4) The Legislative Fiscal Officer may provide information related to the preparation and adoption of the legislatively adopted budget, or to measures considered by the Joint Committee on Ways and Means during any session of the Legislative Assembly, to the Oregon Department of Administrative Services. Staff of the Oregon Department of Administrative Services may not reveal to any other person the contents or nature of the information provided under this subsection, except with the written consent of the Legislative Fiscal Officer. [1989 c.652 §1; 2016 c.117 §37]
+ 
+
+      171.558 Furnishing budget information to Oregon Department of Administrative Services; confidentiality; exception. The Legislative Fiscal Officer may provide information related to the preparation and adoption of the legislatively adopted budget, or to measures considered by the Joint Committee on Ways and Means during any session of the Legislative Assembly, to the Oregon Department of Administrative Services. Staff of the Oregon Department of Administrative Services may not reveal to any other person the contents or nature of the information provided under this section, except with the written consent of the Legislative Fiscal Officer. [Formerly subsection (4) of 171.557]
 
  
 
@@ -2375,27 +2367,37 @@ AUDIT COMMITTEE
 
  
 
-      171.585 Duties of committee. The Joint Legislative Audit Committee shall:
+      171.585 Duties of committee. (1) The Joint Legislative Audit Committee shall:
 
-      (1) Review all audits and make recommendations for change or remediation by the agency or other organization under review to the Emergency Board or to the Joint Interim Committee on Ways and Means, the Joint Committee on Ways and Means and other persons receiving the audit report under ORS 192.245.
+      (a) Select audit reports for review and make recommendations for change or remediation by the audited entity to the Emergency Board, the Joint Interim Committee on Ways and Means, the Joint Committee on Ways and Means or other appropriate legislative committees and to other persons receiving the audit report under ORS 192.245.
 
-      (2) Accept requests for performance and program audits from individual legislators, legislative committees, the Division of Audits, the Budget and Management Division and the Legislative Fiscal Office.
+      (b) Review requests for performance audits and proposed legislation relating to audits.
 
-      (3) In conjunction with the Director of the Division of Audits, set priorities on the basis of risk assessment for performance and program audits and program evaluations.
+      (c) Recommend audits and audit follow-up reviews to be conducted by the Division of Audits.
 
-      (4) With the advice and assistance of the Legislative Fiscal Officer, the Administrator of the Budget and Management Division and the Director of the Division of Audits, determine the type of audit, evaluation or review utilizing criteria to include but not be limited to the nature and scope of the task, the time frame involved, necessary professional guidelines, economy, efficiency, cost and cost responsibility.
+      (d)(A) Review audit follow-up reviews completed by legislative staff.
 
-      (5) Not later than 12 months after the issuance of an audit report, review the actions of an agency or other government organization for compliance with the recommendations of the audit report.
+      (B) Select audit follow-up reviews completed by the Division of Audits for review.
 
-      (6) Assign tasks to the Legislative Fiscal Office, the Budget and Management Division, the Division of Audits or a special task force.
+      (e) Assign tasks related to the duties of the Joint Legislative Audit Committee to the Legislative Fiscal Office, including directing staff to conduct performance assessments of state agency programs and management, reviews of agency or statewide processes, sunset reviews, change of director reviews, reviews of audits conducted by the Secretary of State or contract auditors and audit follow-up reviews. The Legislative Fiscal Officer shall notify the Division of Audits before conducting a review directed by the committee.
 
-      (7) Review state agency performance measures and make recommendations for change. [1989 c.128 §2; 1997 c.847 §3; 2005 c.837 §19; 2012 c.107 §5]
+      (f) At the request of the standing or interim Joint Committee on Ways and Means, review state agency performance measures and make recommendations for change.
+
+      (2) As used in this section, “audit follow-up review” means a review to determine:
+
+      (a) Whether an audited entity has appropriately acted upon audit findings; and
+
+      (b) Whether implementation of audit recommendations achieved the anticipated benefits identified in an audit report or in an audited entity’s response to an audit report. [1989 c.128 §2; 1997 c.847 §3; 2005 c.837 §19; 2012 c.107 §5; 2019 c.567 §1]
 
  
 
-      171.590 Cooperation of state agencies. (1) In carrying out specific program evaluations and reviews, the Legislative Fiscal Office may utilize the services of the Division of Audits, the Budget and Management Division, other statutory agencies of the Legislative Assembly and staff of the substantive committees as necessary. The Division of Audits shall undertake a performance audit at the direction of the Joint Legislative Audit Committee and report to the committee.
+      171.590 Cooperation of state agencies. (1) In carrying out specific evaluations and reviews, the Legislative Fiscal Office may request the services of the Division of Audits, the Oregon Department of Administrative Services and other statutory agencies of the Legislative Assembly.
 
-      (2) The Emergency Board shall make funds available to the Division of Audits to reimburse it for expenses incurred under this section for a performance audit. [1989 c.128 §3]
+      (2) The Division of Audits shall, for each audit recommended by the Joint Legislative Audit Committee and included in the audit plan described in ORS 297.076:
+
+      (a) Verify with the committee that the identified scope of the audit meets the goals of the committee; and
+
+      (b) Provide periodic updates to the committee on the status of the audit. [1989 c.128 §3; 2019 c.567 §2]
 
  
 
@@ -2629,6 +2631,64 @@ LOBBYING REGULATION
 
  
 
+      Note: The amendments to 171.740 by section 25, chapter 604, Oregon Laws 2019, become operative January 1, 2021. See section 27, chapter 604, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      171.740. (1) Within three business days after exceeding the limit of time or expenditure specified in ORS 171.735 (4), or within three business days after agreeing to provide personal services for money or any other consideration for the purpose of lobbying, a lobbyist shall register with the Oregon Government Ethics Commission by filing with the commission a statement containing the following information:
+
+      (a) The name, address, electronic mail address and telephone number of the lobbyist.
+
+      (b) The name, address, electronic mail address and telephone number of each person that employs the lobbyist or in whose interest the lobbyist appears or works.
+
+      (c) A general description of the trade, business, profession or area of endeavor of any person designated under paragraph (b) of this subsection, and a statement by the person that the lobbyist is officially authorized to lobby for the person.
+
+      (d) The name of any member of the Legislative Assembly employed, retained or otherwise compensated by:
+
+      (A) The lobbyist designated under paragraph (a) of this subsection; or
+
+      (B) A person designated under paragraph (b) of this subsection.
+
+      (e) The general subject or subjects of the legislative action of interest to the person for whom the lobbyist is registered.
+
+      (f) A commitment by the lobbyist to comply with the training requirements of ORS 171.742.
+
+      (2)(a) Not later than 10 calendar days after a lobbyist files a registration statement under this section, the designation of official authorization to lobby shall be signed by an official of each person that employs the lobbyist or in whose interest the lobbyist appears or works.
+
+      (b) A lobbyist may unilaterally withdraw a registration statement filed under this section not more than one time per calendar year for each person designated under subsection (1)(b) of this section if the withdrawal is made:
+
+      (A) Before the designation of official authorization to lobby has been signed in the manner required under paragraph (a) of this subsection; and
+
+      (B) No more than 10 calendar days after the lobbyist filed the registration statement.
+
+      (3) A lobbyist must file a separate registration statement under subsection (1) of this section for each person that employs the lobbyist or in whose interest the lobbyist appears or works. If a lobbyist appears or works for a person for whom the lobbyist has not registered, the lobbyist shall register with the commission not later than three business days after the day the lobbyist first appears or works for the person.
+
+      (4)(a) Except as provided in paragraph (b) of this subsection, if any of the information submitted by a lobbyist in the statement required under subsection (1) of this section changes, the lobbyist shall revise the statement within 30 days of the change.
+
+      (b) A lobbyist shall notify the commission within three business days if the lobbyist ceases to represent a person for whom the lobbyist is registered. Notification must be made by updating the registration statement required under subsection (1) of this section.
+
+      (5) A lobbyist registration expires December 31 of each odd-numbered year. If a lobbyist renews the registration before January 31 of the following even-numbered year, the commission shall consider the registration to have been effective as of December 31 of the odd-numbered year on which the registration expired.
+
+      (6) For the statement required by subsection (1) of this section, an entity composed of more than one lobbyist may file one statement for the lobbyists who compose the entity. The statement the entity files must include the names of the individuals authorized to lobby on behalf of the client listed in the statement.
+
+ 
+
+      171.742 Annual training; rules. (1) A lobbyist registered with the Oregon Government Ethics Commission or required to register with the commission shall annually attend at least two hours of training described in ORS 173.915.
+
+      (2) A lobbyist registered with the commission or required to register with the commission shall certify attendance at two hours of training described in ORS 173.915, including attendance at online training authorized under ORS 173.915, on statements the lobbyist files under ORS 171.745.
+
+      (3) On or before February 1 of each year, the commission shall submit a report to the Legislative Equity Officer that lists for each lobbyist the date the lobbyist registered under ORS 171.740 and the dates and duration of training that the lobbyist attended or completed for the prior calendar year.
+
+      (4) The commission may adopt rules to implement lobbyist training reporting requirements. [2019 c.604 §23]
+
+ 
+
+      Note: 171.742 becomes operative January 1, 2021. See section 27, chapter 604, Oregon Laws 2019.
+
+ 
+
+      Note: 171.742 was added to and made a part of 171.725 to 171.785 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       171.743 [1993 c.714 §3; repealed by 2001 c.751 §9]
 
  
@@ -2644,6 +2704,24 @@ LOBBYING REGULATION
       (3) If the amount of any expenditure required to be included in a statement is not accurately known at the time the statement is required to be filed, an estimate of the expenditure shall be submitted in the statement and designated as an estimate. The exact amount expended for which a previous estimate was made shall be submitted in a subsequent report when the information is available.
 
       (4) A statement required by this section shall include a copy of any notice provided to a public official or candidate under ORS 244.100. [1973 c.802 §5; 1974 c.72 §29; 1975 c.747 §4; 1979 c.666 §2; 1987 c.158 §32; 1987 c.566 §4; 1991 c.354 §1; 1991 c.677 §2; 1993 c.743 §4; 2001 c.751 §5; 2007 c.865 §39; 2007 c.877 §6d; 2009 c.68 §17; 2013 c.262 §3; 2013 c.701 §§1,2]
+
+ 
+
+      Note: The amendments to 171.745 by section 26, chapter 604, Oregon Laws 2019, become operative January 1, 2021. See section 27, chapter 604, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      171.745. (1) A lobbyist registered with the Oregon Government Ethics Commission or required to register with the commission shall, according to the schedule described in ORS 171.752, file with the commission a statement showing for the applicable reporting period:
+
+      (a) The total amount of all moneys expended for food, refreshments and entertainment by the lobbyist for the purpose of lobbying.
+
+      (b) The name of any legislative official or executive official to whom or for whose benefit, on any one occasion, an expenditure is made for the purposes of lobbying, and the date, name of payee, purpose and amount of that expenditure. This paragraph applies if the total amount expended on the occasion by one or more persons exceeds $50.
+
+      (c) Certification of the date, location and duration of any training described in ORS 171.742 that the lobbyist attended or completed.
+
+      (2) Statements required by this section need not include amounts expended by the lobbyist for personal living and travel expenses and office overhead, including salaries and wages paid for staff and secretarial assistance, and maintenance expenses.
+
+      (3) If the amount of any expenditure required to be included in a statement is not accurately known at the time the statement is required to be filed, an estimate of the expenditure shall be submitted in the statement and designated as an estimate. The exact amount expended for which a previous estimate was made shall be submitted in a subsequent report when the information is available.
+
+      (4) A statement required by this section shall include a copy of any notice provided to a public official or candidate under ORS 244.100.
 
  
 

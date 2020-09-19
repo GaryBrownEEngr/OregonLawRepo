@@ -4,16 +4,6 @@ Chapter 314 — Taxes Imposed Upon or Measured by Net Income
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0073; 2018 Session Laws 0101
-
- 
-
- 
-
 
  
 
@@ -191,15 +181,11 @@ CONVEYANCE OF REAL ESTATE
 
  
 
-REMICS AND FASITS
+REMICS
 
  
 
 314.260     Taxation of real estate mortgage investment conduits
-
- 
-
-314.265     Taxation of financial asset securitization investment trusts
 
  
 
@@ -405,8 +391,6 @@ ESTIMATED TAX PROCEDURE
 
 DIVISION OF INCOME FOR TAX PURPOSES
 
- 
-
 (General Provisions)
 
  
@@ -559,6 +543,14 @@ DIVISION OF INCOME FOR TAX PURPOSES
 
  
 
+(Controlled Foreign Corporations)
+
+ 
+
+314.698     Treatment of global intangible low-taxed income
+
+ 
+
 TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
  
@@ -591,10 +583,6 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
  
 
-314.723     Electing large partnerships subject to tax; rules
-
- 
-
 314.724     Information return; penalty; rules
 
  
@@ -611,55 +599,79 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
  
 
+(Centralized Partnership Audit Regime)
+
+ 
+
+314.731     Definitions
+
+ 
+
+314.733     Requirement to report adjustments from partnership-level audit or administrative adjustment request
+
+ 
+
+314.735     Time limit for notice of deficiency
+
+ 
+
+314.737     Time limit for claim for refund or credit
+
+ 
+
+314.739     Obligation or right of partner to report changes in taxable income or tax liability
+
+ 
+
 (S Corporations)
 
  
 
-314.730     “C corporation” and “S corporation” defined for this chapter and ORS chapters 316, 317 and 318
+314.761     “C corporation” and “S corporation” defined for this chapter and ORS chapters 316, 317 and 318
 
  
 
-314.732     Taxation of S corporation; application of Internal Revenue Code; carryforward and carryback
+314.762     Taxation of S corporation; application of Internal Revenue Code; carryforward and carryback
 
  
 
-314.734     Taxation of shareholder’s income; computation; character of income, gain, loss or deduction
+314.763     Taxation of shareholder’s income; computation; character of income, gain, loss or deduction
 
  
 
-314.736     Treatment of distributions by S corporation
+314.764     Treatment of distributions by S corporation
 
  
 
-314.738     Employee fringe benefits; foreign income
+314.765     Employee fringe benefits; foreign income
 
  
 
-314.740     Tax on built-in gain
+314.766     Tax on built-in gain
 
  
 
-314.742     Tax on excess net passive income
+314.767     Tax on excess net passive income
 
  
 
-314.744     S corporation or shareholder elections; rules
+314.768     S corporation or shareholder elections; rules
 
  
 
-314.746     Application of sections 1377 and 1379 of Internal Revenue Code
+314.769     Application of sections 1377 and 1379 of Internal Revenue Code
 
  
 
-314.749     Disclosure of S corporation items to shareholder
+314.770     Disclosure of S corporation items to shareholder
 
  
 
-314.750     Recapture of LIFO benefits
+314.771     Recapture of LIFO benefits
 
  
 
-314.752     Business tax credits; allowance to shareholders
+314.772     Business tax credits; allowance to shareholders
 
  
 
@@ -739,7 +751,7 @@ PENALTIES
 
  
 
-      314.002 [Repealed by 1953 c.310 §3]
+314.002 [Repealed by 1953 c.310 §3]
 
  
 
@@ -771,11 +783,11 @@ GENERAL PROVISIONS
 
       (b) Except where the Legislative Assembly has provided otherwise, a reference to the laws of the United States or to the Internal Revenue Code refers to the laws of the United States or to the Internal Revenue Code as they are amended and in effect:
 
-      (A) On December 31, 2016; or
+      (A) On December 31, 2018; or
 
       (B) If related to the definition of taxable income, as applicable to the tax year of the taxpayer.
 
-      (c) With respect to ORS 314.105, 314.256 (relating to proxy tax on lobbying expenditures), 314.260 (1)(b), 314.265 (1)(b), 314.302, 314.306, 314.330, 314.360, 314.362, 314.385, 314.402, 314.410, 314.412, 314.525, 314.742 (7), 314.750 and 314.752 and other provisions of this chapter, except those described in paragraph (b) of this subsection, any reference to the laws of the United States or to the Internal Revenue Code means the laws of the United States relating to income taxes or the Internal Revenue Code as they are amended on or before December 31, 2016, even when the amendments take effect or become operative after that date, except where the Legislative Assembly has specifically provided otherwise.
+      (c) With respect to ORS 314.105, 314.256 (relating to proxy tax on lobbying expenditures), 314.260 (1)(b), 314.302, 314.306, 314.330, 314.360, 314.362, 314.385, 314.402, 314.410, 314.412, 314.525, 314.767 (7), 314.771 and 314.772 and other provisions of this chapter, except those described in paragraph (b) of this subsection, any reference to the laws of the United States or to the Internal Revenue Code means the laws of the United States relating to income taxes or the Internal Revenue Code as they are amended on or before December 31, 2018, even when the amendments take effect or become operative after that date, except where the Legislative Assembly has specifically provided otherwise.
 
       (3) Insofar as is practicable in the administration of this chapter, the department shall apply and follow the administrative and judicial interpretations of the federal income tax law. When a provision of the federal income tax law is the subject of conflicting opinions by two or more federal courts, the department shall follow the rule observed by the United States Commissioner of Internal Revenue until the conflict is resolved. Nothing contained in this section limits the right or duty of the department to audit the return of any taxpayer or to determine any fact relating to the tax liability of any taxpayer.
 
@@ -783,7 +795,7 @@ GENERAL PROVISIONS
 
       (5)(a) When portions of the Internal Revenue Code incorporated by reference as provided in subsection (2) of this section are later corrected by an Act or a Title within an Act of the United States Congress designated as an Act or Title making technical corrections, then notwithstanding the date that the Act or Title becomes law, those portions of the Internal Revenue Code, as so corrected, shall be the portions of the Internal Revenue Code incorporated by reference as provided in subsection (2) of this section and shall take effect, unless otherwise indicated by the Act or Title (in which case the provisions shall take effect as indicated in the Act or Title), as if originally included in the provisions of the Act being technically corrected. If, on account of this subsection, any adjustment is required to an Oregon return that would otherwise be prevented by operation of law or rule, the adjustment shall be made, notwithstanding any law or rule to the contrary, in the manner provided under ORS 314.135.
 
-      (b) As used in this subsection, “Act or Title” includes any subtitle, division or other part of an Act or Title. [1957 c.632 §40; 1965 c.152 §24; 1971 c.215 §8; 1977 c.870 §39; 1987 c.293 §50; 1989 c.625 §25; 1991 c.457 §16; 1993 c.726 §10; 1995 c.556 §20; 1997 c.325 §32; 1997 c.839 §48; 1999 c.90 §1; 1999 c.224 §9; 2001 c.660 §32; 2003 c.77 §10; 2005 c.94 §74; 2005 c.519 §8; 2005 c.832 §23; 2007 c.614 §10; 2008 c.45 §11; 2009 c.5 §21; 2009 c.909 §§21,22; 2010 c.82 §§21,22; 2011 c.7 §21; 2012 c.31 §20; 2013 c.377 §20; 2014 c.52 §22; 2015 c.442 §14; 2016 c.33 §17; 2017 c.527 §18]
+      (b) As used in this subsection, “Act or Title” includes any subtitle, division or other part of an Act or Title. [1957 c.632 §40; 1965 c.152 §24; 1971 c.215 §8; 1977 c.870 §39; 1987 c.293 §50; 1989 c.625 §25; 1991 c.457 §16; 1993 c.726 §10; 1995 c.556 §20; 1997 c.325 §32; 1997 c.839 §48; 1999 c.90 §1; 1999 c.224 §9; 2001 c.660 §32; 2003 c.77 §10; 2005 c.94 §74; 2005 c.519 §8; 2005 c.832 §23; 2007 c.614 §10; 2008 c.45 §11; 2009 c.5 §21; 2009 c.909 §§21,22; 2010 c.82 §§21,22; 2011 c.7 §21; 2012 c.31 §20; 2013 c.377 §20; 2014 c.52 §22; 2015 c.442 §14; 2016 c.33 §17; 2017 c.527 §18; 2018 c.101 §17; 2019 c.319 §17; 2019 c.320 §3]
 
  
 
@@ -953,7 +965,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 293, Oregon Laws 1987,” for the words “this Act” in sections 71, 72 and 73, chapter 293, Oregon Laws 1987, compiled as 316.023 and renumbered 314.033 in 1993. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1987 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 293, Oregon Laws 1987,” for the words “this Act” in sections 71, 72 and 73, chapter 293, Oregon Laws 1987, compiled as 316.023 and renumbered 314.033 in 1993. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1987 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -983,7 +995,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 625, Oregon Laws 1989,” for the words “this Act” in section 82, chapter 625, Oregon Laws 1989, compiled as 314.035. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1989 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 625, Oregon Laws 1989,” for the words “this Act” in section 82, chapter 625, Oregon Laws 1989, compiled as 314.035. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1989 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1009,7 +1021,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 457, Oregon Laws 1991,” for the words “this Act” in section 25, chapter 457, Oregon Laws 1991, compiled as 314.037. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1991 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 457, Oregon Laws 1991,” for the words “this Act” in section 25, chapter 457, Oregon Laws 1991, compiled as 314.037. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1991 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1035,7 +1047,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 726, Oregon Laws 1993,” for the words “this Act” in section 53, chapter 726, Oregon Laws 1993, compiled as 314.039. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 726, Oregon Laws 1993,” for the words “this Act” in section 53, chapter 726, Oregon Laws 1993, compiled as 314.039. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1061,7 +1073,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 556, Oregon Laws 1995,” for the words “this Act” in section 39, chapter 556, Oregon Laws 1995, compiled as 314.041. Specific ORS references have not been substituted pursuant to 173.160. These sections may be determined by referring to the 1995 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 556, Oregon Laws 1995,” for the words “this Act” in section 39, chapter 556, Oregon Laws 1995, compiled as 314.041. Specific ORS references have not been substituted pursuant to 173.160. These sections may be determined by referring to the 1995 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1087,7 +1099,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 839, Oregon Laws 1997,” for the words “this Act” in section 70, chapter 839, Oregon Laws 1997, compiled as 314.043. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 1997 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 839, Oregon Laws 1997,” for the words “this Act” in section 70, chapter 839, Oregon Laws 1997, compiled as 314.043. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 1997 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1113,7 +1125,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 90, Oregon Laws 1999,” for the words “this 1999 Act” in section 37, chapter 90, Oregon Laws 1999, compiled as 314.045. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 1999 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 90, Oregon Laws 1999,” for the words “this 1999 Act” in section 37, chapter 90, Oregon Laws 1999, compiled as 314.045. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 1999 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1139,7 +1151,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 660, Oregon Laws 2001,” for the words “of this 2001 Act” in section 53, chapter 660, Oregon Laws 2001, compiled as 314.047. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2001 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 660, Oregon Laws 2001,” for the words “of this 2001 Act” in section 53, chapter 660, Oregon Laws 2001, compiled as 314.047. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2001 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1165,7 +1177,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 77, Oregon Laws 2003,” for the words “this 2003 Act” in section 23, chapter 77, Oregon Laws 2003, compiled as 314.049. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2003 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 77, Oregon Laws 2003,” for the words “this 2003 Act” in section 23, chapter 77, Oregon Laws 2003, compiled as 314.049. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2003 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1191,7 +1203,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 832, Oregon Laws 2005,” for the words “this 2005 Act” in section 32, chapter 832, Oregon Laws 2005, compiled as 314.051. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2005 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 832, Oregon Laws 2005,” for the words “this 2005 Act” in section 32, chapter 832, Oregon Laws 2005, compiled as 314.051. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2005 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1217,7 +1229,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 614, Oregon Laws 2007,” for the words “this 2007 Act” in section 15, chapter 614, Oregon Laws 2007, compiled as 314.053. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2007 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 614, Oregon Laws 2007,” for the words “this 2007 Act” in section 15, chapter 614, Oregon Laws 2007, compiled as 314.053. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2007 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1243,7 +1255,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 45, Oregon Laws 2008,” for the words “this 2008 Act” in section 18, chapter 45, Oregon Laws 2008, compiled as 314.055. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2008 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 45, Oregon Laws 2008,” for the words “this 2008 Act” in section 18, chapter 45, Oregon Laws 2008, compiled as 314.055. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2008 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1269,7 +1281,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 5, Oregon Laws 2009,” for the words “this 2009 Act” in section 28, chapter 5, Oregon Laws 2009, compiled as 314.057. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2009 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 5, Oregon Laws 2009,” for the words “this 2009 Act” in section 28, chapter 5, Oregon Laws 2009, compiled as 314.057. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2009 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1295,7 +1307,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 909, Oregon Laws 2009,” for the words “this 2009 Act” in section 35, chapter 909, Oregon Laws 2009, compiled as 314.059. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2009 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 909, Oregon Laws 2009,” for the words “this 2009 Act” in section 35, chapter 909, Oregon Laws 2009, compiled as 314.059. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2009 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1321,7 +1333,7 @@ GENERAL PROVISIONS
 
  
 
-      Note: Legislative Counsel has substituted “chapter 82, Oregon Laws 2010,” for the words “this 2010 Act” in section 33, chapter 82, Oregon Laws 2010, compiled as 314.061. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2011 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 82, Oregon Laws 2010,” for the words “this 2010 Act” in section 33, chapter 82, Oregon Laws 2010, compiled as 314.061. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2011 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1347,41 +1359,11 @@ GENERAL PROVISIONS
 
  
 
-      Note: Section 28, chapter 31, Oregon Laws 2012, provides:
-
-      Sec. 28. Application of Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpayments Act of 2011 (P.L. 112-9), Trade Adjustment Assistance Extension Act of 2011 (P.L. 112-40), United States-Korea Free Trade Agreement Implementation Act (P.L. 112-41), United States-Colombia Trade Promotion Agreement Implementation Act (P.L. 112-42), United States-Panama Trade Promotion Agreement Implementation Act (P.L. 112-43), 3% Withholding Repeal and Job Creation Act (P.L. 112-56) and Temporary Payroll Tax Cut Continuation Act of 2011 (P.L. 112-78). (1) Except as provided in subsections (2) and (3) of this section, the amendments to statutes by sections 1 to 27 of this 2012 Act apply to transactions or activities occurring on or after January 1, 2012, in tax years beginning on or after January 1, 2012.
-
-      (2) The effective and applicable dates, and the exceptions, special rules and coordination with the Internal Revenue Code, as amended, relative to those dates, contained in the Comprehensive 1099 Taxpayer Protection and Repayment of Exchange Subsidy Overpayments Act of 2011 (P.L. 112-9), the Trade Adjustment Assistance Extension Act of 2011 (P.L. 112-40), the United States-Korea Free Trade Agreement Implementation Act (P.L. 112-41), the United States-Colombia Trade Promotion Agreement Implementation Act (P.L. 112-42), the United States-Panama Trade Promotion Agreement Implementation Act (P.L. 112-43), the 3% Withholding Repeal and Job Creation Act (P.L. 112-56), the Temporary Payroll Tax Cut Continuation Act of 2011 (P.L. 112-78) and other federal law amending the Internal Revenue Code and enacted before January 1, 2012, apply for Oregon personal income and corporate excise and income tax purposes, to the extent they can be made applicable, in the same manner as they are applied under the Internal Revenue Code and related federal law.
-
-      (3)(a) If a deficiency is assessed against any taxpayer for a tax year beginning before January 1, 2012, and the deficiency or any portion thereof is attributable to any retroactive treatment under the amendments to ORS 305.230, 305.494, 305.690, 307.130, 307.147, 308A.450, 310.140, 310.630, 310.800, 314.011, 315.004, 316.012, 317.010, 317.097 and 348.841 [renumbered 178.300] by sections 11 to 25 of this 2012 Act, then any interest or penalty assessed under ORS chapter 305, 314, 315, 316, 317 or 318 with respect to the deficiency or portion thereof shall be canceled.
-
-      (b) If a refund is due any taxpayer for a tax year beginning before January 1, 2012, and the refund or any portion thereof is due the taxpayer on account of any retroactive treatment under the amendments to ORS 305.230, 305.494, 305.690, 307.130, 307.147, 308A.450, 310.140, 310.630, 310.800, 314.011, 315.004, 316.012, 317.010, 317.097 and 348.841 by sections 11 to 25 of this 2012 Act, then notwithstanding ORS 305.270 or 314.415 or other law, the refund or portion thereof shall be paid without interest.
-
-      (c) Any changes required because of the amendments to ORS 305.230, 305.494, 305.690, 307.130, 307.147, 308A.450, 310.140, 310.630, 310.800, 314.011, 315.004, 316.012, 317.010, 317.097 and 348.841 by sections 11 to 25 of this 2012 Act for a tax year beginning before January 1, 2012, shall be made by filing an amended return within the time prescribed by law.
-
-      (d) If a taxpayer fails to file an amended return under paragraph (c) of this subsection, the Department of Revenue shall make any changes under paragraph (c) of this subsection on the return to which the changes relate within the period specified for issuing a notice of deficiency or claiming a refund as otherwise provided by law with respect to that return, or within one year after a return for a tax year beginning on or after January 1, 2012, and before January 1, 2013, is filed, whichever period expires later. [2012 c.31 §28]
+      Note: Legislative Counsel has codified applicability sections for annual reconnect bills, which update statutory references to federal tax law, for bills enacted in years prior to 2012. Beginning with the 2012 regular session, Legislative Counsel has printed the applicability sections as uncodified session law sections. Legislative Counsel will retain these applicability sections in printed form for six subsequent years before omitting them. All applicability sections for reconnect bills continue to be in full force and effect.
 
  
 
-      Note: Section 29, chapter 377, Oregon Laws 2013, provides:
-
-      Sec. 29. Application of Middle Class Tax Relief and Job Creation Act of 2012 (P.L. 112-96) and American Taxpayer Relief Act of 2012 (P.L. 112-240). (1) Except as provided in subsections (2) and (3) of this section, the amendments to statutes by sections 1 to 27, chapter 377, Oregon Laws 2013, apply to transactions or activities occurring on or after January 1, 2013, in tax years beginning on or after January 1, 2013.
-
-      (2) The effective and applicable dates, and the exceptions, special rules and coordination with the Internal Revenue Code, as amended, relative to those dates, contained in the Middle Class Tax Relief and Job Creation Act of 2012 (P.L. 112-96), the American Taxpayer Relief Act of 2012 (P.L. 112-240) and other federal law amending the Internal Revenue Code and enacted before January 3, 2013, apply for Oregon personal income and corporate excise and income tax purposes, to the extent they can be made applicable, in the same manner as they are applied under the Internal Revenue Code and related federal law.
-
-      (3)(a) If a deficiency is assessed against any taxpayer for a tax year beginning before January 1, 2013, and the deficiency or any portion thereof is attributable to any retroactive treatment under the amendments to ORS 305.230, 305.494, 305.690, 307.130, 307.147, 308A.450, 310.140, 310.630, 310.800, 314.011, 315.004, 316.012, 317.010, 317.097 and 348.841 [renumbered 178.300] by sections 11 to 25, chapter 377, Oregon Laws 2013, then any interest or penalty assessed under ORS chapter 305, 314, 315, 316, 317 or 318 with respect to the deficiency or portion thereof shall be canceled.
-
-      (b) If a refund is due any taxpayer for a tax year beginning before January 1, 2013, and the refund or any portion thereof is due the taxpayer on account of any retroactive treatment under the amendments to ORS 305.230, 305.494, 305.690, 307.130, 307.147, 308A.450, 310.140, 310.630, 310.800, 314.011, 315.004, 316.012, 317.010, 317.097 and 348.841 by sections 11 to 25, chapter 377, Oregon Laws 2013, then notwithstanding ORS 305.270 or 314.415 or other law, the refund or portion thereof shall be paid without interest.
-
-      (c) Any changes required because of the amendments to ORS 305.230, 305.494, 305.690, 307.130, 307.147, 308A.450, 310.140, 310.630, 310.800, 314.011, 315.004, 316.012, 317.010, 317.097 and 348.841 by sections 11 to 25, chapter 377, Oregon Laws 2013, for a tax year beginning before January 1, 2013, shall be made by filing an amended return within the time prescribed by law.
-
-      (d) If a taxpayer fails to file an amended return under paragraph (c) of this subsection, the Department of Revenue shall make any changes under paragraph (c) of this subsection on the return to which the changes relate within the period specified for issuing a notice of deficiency or claiming a refund as otherwise provided by law with respect to that return, or within one year after a return for a tax year beginning on or after January 1, 2013, and before January 1, 2014, is filed, whichever period expires later. [2013 c.377 §29; 2013 c.750 §3]
-
- 
-
-      Note: Section 30, chapter 52, Oregon Laws 2014, provides:
-
-      Sec. 30. Application of federal law amending the Internal Revenue Code. (1) Except as provided in subsections (2) and (3) of this section, section 15 of this 2014 Act [305.842] and the amendments to statutes by sections 1 to 13 and 16 to 29 of this 2014 Act apply to transactions or activities occurring on or after January 1, 2014, in tax years beginning on or after January 1, 2014.
+      Note: Section 30, chapter 52, Oregon Laws 2014, provides: Sec. 30. Application of federal law amending the Internal Revenue Code. (1) Except as provided in subsections (2) and (3) of this section, section 15 of this 2014 Act [305.842] and the amendments to statutes by sections 1 to 13 and 16 to 29 of this 2014 Act apply to transactions or activities occurring on or after January 1, 2014, in tax years beginning on or after January 1, 2014.
 
       (2) The effective and applicable dates, and the exceptions, special rules and coordination with the Internal Revenue Code, as amended, relative to those dates, contained in federal law amending the Internal Revenue Code and enacted before January 1, 2014, apply for Oregon personal income and corporate excise and income tax purposes, to the extent they can be made applicable, in the same manner as they are applied under the Internal Revenue Code and related federal law.
 
@@ -1443,6 +1425,38 @@ GENERAL PROVISIONS
 
  
 
+      Note: Section 27, chapter 101, Oregon Laws 2018, provides:
+
+      Sec. 27. Application of Disaster Tax Relief and Airport and Airway Extension Act of 2017 (P.L. 115-63) and An Act to Provide for Reconciliation Pursuant to Titles II and V of the Concurrent Resolution on the Budget for Fiscal Year 2018 (P.L. 115-97). (1) Except as provided in subsections (2) and (3) of this section, the amendments to statutes by sections 1 to 26 of this 2018 Act apply to transactions or activities occurring on or after January 1, 2018, in tax years beginning on or after January 1, 2018.
+
+      (2) The effective and applicable dates, and the exceptions, special rules and coordination with the Internal Revenue Code, as amended, relative to those dates, contained in the Disaster Tax Relief and Airport and Airway Extension Act of 2017 (P.L. 115-63), and An Act to Provide for Reconciliation Pursuant to Titles II and V of the Concurrent Resolution on the Budget for Fiscal Year 2018 (P.L. 115-97) and other federal law amending the Internal Revenue Code and enacted before January 1, 2018, apply for Oregon personal income and corporate excise and income tax purposes, to the extent they can be made applicable, in the same manner as they are applied under the Internal Revenue Code and related federal law.
+
+      (3)(a) If a deficiency is assessed against any taxpayer for a tax year beginning before January 1, 2018, and the deficiency or any portion thereof is attributable to any retroactive treatment under the amendments to ORS 178.300, 305.230, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010 and 317.097 by sections 1 and 13 to 24 of this 2018 Act, then any interest or penalty assessed under ORS chapter 305, 314, 315, 316, 317 or 318 with respect to the deficiency or portion thereof shall be canceled.
+
+      (b) If a refund is due any taxpayer for a tax year beginning before January 1, 2018, and the refund or any portion thereof is due the taxpayer on account of any retroactive treatment under the amendments to ORS 178.300, 305.230, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010 and 317.097 by sections 1 and 13 to 24 of this 2018 Act, for a tax year beginning before January 1, 2018, then notwithstanding ORS 305.270 or 314.415 or any other law, the refund or portion thereof shall be paid without interest.
+
+      (c) Any changes required because of the amendments to ORS 178.300, 305.230, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010 and 317.097 by sections 1 and 13 to 24 of this 2018 Act, for a tax year beginning before January 1, 2018, shall be made by filing an amended return within the time prescribed by law.
+
+      (d) If a taxpayer fails to file an amended return under paragraph (c) of this subsection, the Department of Revenue shall make any changes under paragraph (c) of this subsection on the return to which the changes relate within the period specified for issuing a notice of deficiency or claiming a refund as otherwise provided by law with respect to that return, or within one year after a return for a tax year beginning on or after January 1, 2018, and before January 1, 2019, is filed, whichever period expires later. [2018 c.101 §27]
+
+ 
+
+      Note: Section 29, chapter 319, Oregon Laws 2019, provides:
+
+      Sec. 29. Application of Making Further Continuing Appropriations for the Fiscal Year Ending September 30, 2018 (P.L. 115-120), and the Bipartisan Budget Act of 2018 (P.L. 115-123). (1) Except as provided in subsections (2) and (3) of this section, the amendments to statutes by sections 1 to 28 of this 2019 Act apply to transactions or activities occurring on or after January 1, 2019, in tax years beginning on or after January 1, 2019.
+
+      (2) The effective and applicable dates, and the exceptions, special rules and coordination with the Internal Revenue Code, as amended, relative to those dates, contained in Making Further Continuing Appropriations for the Fiscal Year Ending September 30, 2018 (P.L. 115-120), the Bipartisan Budget Act of 2018 (P.L. 115-123) and other federal law amending the Internal Revenue Code and enacted before January 1, 2019, apply for Oregon personal income and corporate excise and income tax purposes, to the extent they can be made applicable, in the same manner as they are applied under the Internal Revenue Code and related federal law.
+
+      (3)(a) If a deficiency is assessed against any taxpayer for a tax year beginning before January 1, 2019, and the deficiency or any portion thereof is attributable to any retroactive treatment under the amendments to ORS 178.300, 305.230, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010 and 317.097 by sections 1 and 13 to 26 of this 2019 Act, then any interest or penalty assessed under ORS chapter 305, 314, 315, 316, 317 or 318 with respect to the deficiency or portion thereof shall be canceled.
+
+      (b) If a refund is due any taxpayer for a tax year beginning before January 1, 2019, and the refund or any portion thereof is due the taxpayer on account of any retroactive treatment under the amendments to ORS 178.300, 305.230, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010 and 317.097 by sections 1 and 13 to 26 of this 2019 Act, for a tax year beginning before January 1, 2019, then notwithstanding ORS 305.270 or 314.415 or any other law, the refund or portion thereof shall be paid without interest.
+
+      (c) Any changes required because of the amendments to ORS 178.300, 305.230, 305.494, 305.690, 305.842, 314.011, 314.306, 315.004, 316.012, 316.147, 316.157, 317.010 and 317.097 by sections 1 and 13 to 26 of this 2019 Act, for a tax year beginning before January 1, 2019, shall be made by filing an amended return within the time prescribed by law.
+
+      (d) If a taxpayer fails to file an amended return under paragraph (c) of this subsection, the Department of Revenue shall make any changes under paragraph (c) of this subsection on the return to which the changes relate within the period specified for issuing a notice of deficiency or claiming a refund as otherwise provided by law with respect to that return, or within one year after a return for a tax year beginning on or after January 1, 2019, and before January 1, 2020, is filed, whichever period expires later. [2019 c.319 §29]
+
+ 
+
       314.064 [Repealed by 1953 c.310 §3]
 
  
@@ -1485,11 +1499,11 @@ GENERAL PROVISIONS
 
  
 
-      314.085 Taxable year; rules. (1) The taxable year of a partnership, REMIC (real estate mortgage investment conduit), FASIT (financial asset securitization investment trust) or taxpayer shall be the same as its taxable year for federal income tax purposes.
+      314.085 Taxable year; rules. (1) The taxable year of a partnership, REMIC (real estate mortgage investment conduit) or taxpayer shall be the same as its taxable year for federal income tax purposes.
 
-      (2) If the taxable year of a partnership, REMIC, FASIT or taxpayer is changed for federal income tax purposes, that change in taxable year shall also apply for purposes of state taxation. If a change in taxable year results in a taxable period of less than 12 months, the personal deductions and the personal exemption credits allowed by ORS chapter 316 shall be prorated under rules adopted by the Department of Revenue.
+      (2) If the taxable year of a partnership, REMIC or taxpayer is changed for federal income tax purposes, that change in taxable year shall also apply for purposes of state taxation. If a change in taxable year results in a taxable period of less than 12 months, the personal deductions and the personal exemption credits allowed by ORS chapter 316 shall be prorated under rules adopted by the Department of Revenue.
 
-      (3) Notwithstanding subsections (1) and (2) of this section, if the department terminates the taxable year of a taxpayer under ORS 314.440, the tax shall be computed for the period determined by such action. [1987 c.293 §55; 1997 c.839 §52]
+      (3) Notwithstanding subsections (1) and (2) of this section, if the department terminates the taxable year of a taxpayer under ORS 314.440, the tax shall be computed for the period determined by such action. [1987 c.293 §55; 1997 c.839 §52; 2019 c.320 §4]
 
  
 
@@ -1765,7 +1779,7 @@ CONVEYANCE OF REAL ESTATE
 
  
 
-REMICS AND FASITS
+REMICS
 
  
 
@@ -1781,15 +1795,7 @@ REMICS AND FASITS
 
  
 
-      314.265 Taxation of financial asset securitization investment trusts. (1)(a) An entity described in section 860L of the Internal Revenue Code (a financial asset securitization investment trust, or FASIT) shall not be subject to a tax under ORS chapter 316, 317 or 318 (and shall not be treated as a corporation, partnership, trust or mortgage pool for purposes of ORS chapter 316, 317 or 318).
-
-      (b) If a FASIT engages in a prohibited transaction as defined in section 860L(e)(2) of the Internal Revenue Code, the FASIT shall be subject to a tax equal to 6.6 percent of the net income derived from the prohibited transaction. The tax shall be paid by the holder of the ownership interest in the FASIT. The tax imposed under this paragraph shall be assessed and collected under the applicable provisions of this chapter and ORS chapter 305 and shall be credited to the General Fund to be made available for general governmental expenses.
-
-      (2) The income of any FASIT shall be taxable to the holders of the ownership interests in the FASIT under ORS chapter 316, 317 or 318, whichever is applicable.
-
-      (3) Taxable income or loss, with respect to income received as the holder of any interest in a FASIT, shall be determined under sections 860H to 860L of the Internal Revenue Code, as defined in ORS 316.012 or 317.010 and 317.018, and section 1621(e) of the Small Business Job Protection Act of 1996 (P.L. 104-188), as otherwise determined and modified under ORS chapter 316, 317 or 318, whichever is applicable, to the FASIT interest holder.
-
-      (4) To determine the portion of the income of a FASIT that is taxable to a nonresident holder of an interest in the FASIT, there shall be included only that part derived from or connected with sources in this state. [1997 c.839 §51]
+      314.265 [1997 c.839 §51; repealed by 2019 c.320 §5]
 
  
 
@@ -1801,13 +1807,13 @@ METHODS OF ACCOUNTING AND REPORTING INCOME
 
  
 
-      314.276 Method of accounting. (1) The method of accounting of a partnership, REMIC (real estate mortgage investment conduit), FASIT (financial asset securitization investment trust) or taxpayer shall be the same as the method of accounting which the partnership, REMIC, FASIT or taxpayer uses for federal income tax purposes for the taxable year.
+      314.276 Method of accounting. (1) The method of accounting of a partnership, REMIC (real estate mortgage investment conduit) or taxpayer shall be the same as the method of accounting which the partnership, REMIC or taxpayer uses for federal income tax purposes for the taxable year.
 
-      (2) Notwithstanding subsection (1) of this section, if the method of accounting used by the partnership, REMIC, FASIT or taxpayer does not clearly reflect income, the computation of taxable income shall be made under such method as the Department of Revenue may prescribe.
+      (2) Notwithstanding subsection (1) of this section, if the method of accounting used by the partnership, REMIC or taxpayer does not clearly reflect income, the computation of taxable income shall be made under such method as the Department of Revenue may prescribe.
 
-      (3) If the method of accounting is changed for federal income tax purposes, the partnership, REMIC, FASIT or taxpayer shall adopt the same method of accounting for purposes of ORS chapter 316, 317 or 318 and shall use that method beginning with the return filed which corresponds to the first federal return filed which is required to use the new method. Any adjustments required to prevent amounts from being duplicated or omitted shall be taken into account for state tax purposes in the same manner as for federal tax purposes.
+      (3) If the method of accounting is changed for federal income tax purposes, the partnership, REMIC or taxpayer shall adopt the same method of accounting for purposes of ORS chapter 316, 317 or 318 and shall use that method beginning with the return filed which corresponds to the first federal return filed which is required to use the new method. Any adjustments required to prevent amounts from being duplicated or omitted shall be taken into account for state tax purposes in the same manner as for federal tax purposes.
 
-      (4) Subsections (1) and (3) of this section shall not apply with respect to methods of accounting which are disallowed for purposes of ORS chapter 316, 317 or 318. [1987 c.293 §57; 1997 c.839 §53]
+      (4) Subsections (1) and (3) of this section shall not apply with respect to methods of accounting which are disallowed for purposes of ORS chapter 316, 317 or 318. [1987 c.293 §57; 1997 c.839 §53; 2019 c.320 §6]
 
  
 
@@ -1931,7 +1937,7 @@ METHODS OF ACCOUNTING AND REPORTING INCOME
 
  
 
-      314.306 Income from discharge of indebtedness; bankruptcy; insolvency. (1) If a taxpayer excludes an amount from federal gross income by reason of the discharge of indebtedness of the taxpayer under section 108(a)(1)(A) of the Internal Revenue Code (relating to discharge of indebtedness in a bankruptcy declared under U.S.C. Title 11), then, with respect to that portion of the excluded amount that is apportioned to Oregon, the taxpayer shall apply the rules in 11 U.S.C. 346(j), as amended and in effect on December 31, 2016.
+      314.306 Income from discharge of indebtedness; bankruptcy; insolvency. (1) If a taxpayer excludes an amount from federal gross income by reason of the discharge of indebtedness of the taxpayer under section 108(a)(1)(A) of the Internal Revenue Code (relating to discharge of indebtedness in a bankruptcy declared under U.S.C. Title 11), then, with respect to that portion of the excluded amount that is apportioned to Oregon, the taxpayer shall apply the rules in 11 U.S.C. 346(j), as amended and in effect on December 31, 2018.
 
       (2) If a taxpayer excludes an amount from federal gross income by reason of the discharge of indebtedness of the taxpayer under section 108(a)(1)(B) or (C) of the Internal Revenue Code (relating to discharge of indebtedness in insolvency or discharge of qualified farm indebtedness), then, with respect to that portion of the excluded amount that is apportioned to Oregon, the following paragraphs shall apply, in the following order:
 
@@ -1955,7 +1961,7 @@ METHODS OF ACCOUNTING AND REPORTING INCOME
 
       (C) The basis of the property of the taxpayer shall be reduced by the amount of discharged indebtedness minus the total amount taken into account under subparagraphs (A) and (B) of this paragraph.
 
-      (D) The passive activity loss carryover under section 469(b) of the Internal Revenue Code from the taxable year of the discharge shall be reduced by the amount of discharged indebtedness minus the total amount taken into account under subparagraphs (A), (B) and (C) of this paragraph. [1995 c.556 §19; 2017 c.304 §1]
+      (D) The passive activity loss carryover under section 469(b) of the Internal Revenue Code from the taxable year of the discharge shall be reduced by the amount of discharged indebtedness minus the total amount taken into account under subparagraphs (A), (B) and (C) of this paragraph. [1995 c.556 §19; 2017 c.304 §1; 2018 c.101 §18; 2019 c.319 §18]
 
  
 
@@ -2375,7 +2381,7 @@ COLLECTING DELINQUENT TAXES; LIENS; INTEREST AND ADDITIONS TO TAX; REFUNDS
 
       (2)(a) The department may not allow or make a refund after three years from the time the return was filed, or two years from the time the tax (or a portion of the tax) was paid, whichever period expires later, unless before the expiration of this period a claim for refund is filed by the taxpayer in compliance with ORS 305.270. In any case, if the original return is not filed within three years of the due date, excluding extensions, of the return, the department may allow or make a refund only of amounts paid within two years from the date of the filing of the claim for refund. If a refund is disallowed for the tax year during which excess tax was paid for any reason set forth in this subsection, the department may not allow the excess as a credit against any tax occurring on a return filed for a subsequent year.
 
-      (b) The department may not make a refund if the tax owed after offsets for all amounts owed the state, or a county pursuant to a judgment obtained under ORS 169.151, is less than $1.
+      (b) The department may not make a refund if the tax owed, after offsets, is less than $1.
 
       (c) If a taxpayer would qualify under section 6511(h) of the Internal Revenue Code for a suspension of the running of the periods specified for filing a claim for refund of federal income tax, the period specified in paragraph (a) of this subsection shall also be suspended.
 
@@ -2413,7 +2419,7 @@ COLLECTING DELINQUENT TAXES; LIENS; INTEREST AND ADDITIONS TO TAX; REFUNDS
 
       (7) If a joint return is filed, the department may make separate refunds at the request of either spouse. The separate refunds shall bear the same proportion to the total refund as the adjusted gross income of each spouse bears to the adjusted gross income of both spouses, or as otherwise determined by the department.
 
-      (8) If a taxpayer entitled to a refund under subsection (1) of this section dies, the department may issue a draft for payment of such refund under the terms and conditions set out in ORS 293.490 to 293.500 exercising the same powers and subject to the same restrictions pursuant to which the State Treasurer is authorized to pay the amounts of warrants, checks or orders under those statutes. [1957 c.632 §15 (enacted in lieu of 316.615 and 317.415); 1969 c.166 §4; 1969 c.405 §2; 1971 c.354 §5; 1971 c.507 §2; 1975 c.593 §16; 1977 c.870 §44; 1982 s.s.1 c.16 §8; 1983 c.162 §54; 1985 c.61 §3; 1985 c.602 §6; 1985 c.603 §1; 1985 c.802 §19; 1987 c.293 §60; 1987 c.647 §1; 1989 c.626 §4; 1991 c.457 §17b; 1993 c.726 §16; 1995 c.650 §32; 1999 c.73 §4; 1999 c.90 §1a; 2001 c.641 §3; 2005 c.48 §1; 2005 c.210 §2; 2007 c.568 §20; 2011 c.526 §25; 2017 c.278 §9]
+      (8) If a taxpayer entitled to a refund under subsection (1) of this section dies, the department may issue a draft for payment of such refund under the terms and conditions set out in ORS 293.490 to 293.500 exercising the same powers and subject to the same restrictions pursuant to which the State Treasurer is authorized to pay the amounts of warrants, checks or orders under those statutes. [1957 c.632 §15 (enacted in lieu of 316.615 and 317.415); 1969 c.166 §4; 1969 c.405 §2; 1971 c.354 §5; 1971 c.507 §2; 1975 c.593 §16; 1977 c.870 §44; 1982 s.s.1 c.16 §8; 1983 c.162 §54; 1985 c.61 §3; 1985 c.602 §6; 1985 c.603 §1; 1985 c.802 §19; 1987 c.293 §60; 1987 c.647 §1; 1989 c.626 §4; 1991 c.457 §17b; 1993 c.726 §16; 1995 c.650 §32; 1999 c.73 §4; 1999 c.90 §1a; 2001 c.641 §3; 2005 c.48 §1; 2005 c.210 §2; 2007 c.568 §20; 2011 c.526 §25; 2017 c.278 §9; 2019 c.359 §2]
 
  
 
@@ -3041,6 +3047,14 @@ DIVISION OF INCOME FOR TAX PURPOSES
 
  
 
+(Controlled Foreign Corporations)
+
+ 
+
+      314.698 Treatment of global intangible low-taxed income. For purposes of ORS 317.267, amounts of global intangible low-taxed income described in section 951A of the Internal Revenue Code and included in gross income shall be treated in the same manner as a dividend. [2019 c.556 §4]
+
+ 
+
       314.705 [1967 c.242 §2; repealed by 2015 c.480 §6]
 
  
@@ -3057,11 +3071,13 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
  
 
-      314.712 Partnerships not subject to income tax; exceptions. (1) Except as provided in ORS 314.722 or 314.723, a partnership as such is not subject to the tax imposed by ORS chapter 316, 317 or 318. Partnership income shall be computed pursuant to section 703 of the Internal Revenue Code, with the modifications, additions and subtractions provided in this chapter and ORS chapter 316. Persons carrying on business as partners are liable for the tax imposed by ORS chapter 316, 317 or 318 on their distributive shares of partnership income only in their separate or individual capacities.
+      314.712 Partnerships not subject to income tax; exceptions. (1) Except as provided in ORS 314.722 or 314.731 to 314.737, a partnership as such is not subject to the tax imposed by ORS chapter 316, 317 or 318. Partnership income shall be computed pursuant to section 703 of the Internal Revenue Code, with the modifications, additions and subtractions provided in this chapter and ORS chapter 316. Persons carrying on business as partners are liable for the tax imposed by ORS chapter 316, 317 or 318 on their distributive shares of partnership income only in their separate or individual capacities.
 
-      (2) If a partner engages in a transaction with a partnership other than in the partner’s capacity as a member of the partnership, the transaction shall be treated in the manner described in section 707 of the Internal Revenue Code.
+      (2) If a partner engages in a transaction with a partnership other than in the partner’s capacity as a member of the partnership, the transaction shall be treated in the manner described in section 707 of the Internal Revenue Code. [1989 c.625 §28 (enacted in lieu of 316.342); 1999 c.90 §5; 2019 c.132 §7]
 
-      (3) If a partnership is an electing large partnership under section 775 of the Internal Revenue Code, the modifications of law applicable to an electing large partnership for federal tax purposes are applicable to the electing large partnership for purposes of the tax imposed by this chapter or ORS chapter 316, 317 or 318. [1989 c.625 §28 (enacted in lieu of 316.342); 1999 c.90 §5]
+ 
+
+      Note: See note under 314.731.
 
  
 
@@ -3069,7 +3085,11 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
       (2) A partner’s distributive share of an item of partnership income, gain, loss or deduction (or item thereof) shall be that partner’s distributive share of partnership income, gain, loss or deduction (or item thereof) for federal income tax purposes as determined under section 704 of the Internal Revenue Code and adjusted for the modifications, additions and subtractions provided in this chapter and ORS chapters 316, 317 and 318.
 
-      (3) A partner shall, on the partner’s return, treat a partnership item in a manner that is consistent with the treatment of the partnership item on the partnership return, unless the partner notifies the Department of Revenue of the inconsistency. The department shall prescribe by rule the method for notification of an inconsistency. A partner of an electing large partnership under section 775 of the Internal Revenue Code must treat a partnership item in a manner that is consistent with the treatment of the partnership item on the partnership return. [1989 c.625 §30 (enacted in lieu of 316.347); 1993 c.726 §22; 1999 c.90 §6]
+      (3) A partner shall, on the partner’s return, treat a partnership item in a manner that is consistent with the treatment of the partnership item on the partnership return, unless the partner notifies the Department of Revenue of the inconsistency. The department shall prescribe by rule the method for notification of an inconsistency. [1989 c.625 §30 (enacted in lieu of 316.347); 1993 c.726 §22; 1999 c.90 §6; 2019 c.132 §8]
+
+ 
+
+      Note: See note under 314.731.
 
  
 
@@ -3113,11 +3133,7 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
  
 
-      314.723 Electing large partnerships subject to tax; rules. (1) If a partnership is an electing large partnership under section 775 of the Internal Revenue Code and an adjustment is made with respect to a partnership item for federal tax purposes that results in partnership liability to the United States Internal Revenue Service for payment of the federal tax under section 6242 of the Internal Revenue Code, the amount subject to federal tax at the partnership level shall also be subject to a state tax, to the extent the amount is allocated or apportioned to the State of Oregon.
-
-      (2) The rate of tax shall be the highest marginal rate of tax applicable to personal income taxpayers under ORS 316.037 for the tax year for which the adjustment is taken into account for federal tax purposes under section 6242 of the Internal Revenue Code.
-
-      (3) The Department of Revenue may determine by rule the method by which the amount described in this section is allocated and apportioned to the State of Oregon. [1999 c.90 §3]
+      314.723 [1999 c.90 §3; repealed by 2019 c.132 §11]
 
  
 
@@ -3145,69 +3161,315 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
  
 
+      314.730 [1989 c.625 §41; renumbered 314.761 in 2019]
+
+ 
+
+(Centralized Partnership Audit Regime)
+
+ 
+
+      314.731 Definitions. As used in ORS 314.731 to 314.737:
+
+      (1) “Adjustment” means a partnership adjustment, as defined in section 6241 of the Internal Revenue Code, whether that adjustment arises from action by the Internal Revenue Service or from the taxpayer’s filing of an amended federal return, a federal refund claim or similar report, including any report made under section 6225(c) of the Internal Revenue Code, or an administrative adjustment request.
+
+      (2) “Adjustments report” means a report used by a taxpayer to state adjustments to any partnership-related items.
+
+      (3) “Administrative adjustment request” means a request filed by a partnership under section 6227 of the Internal Revenue Code.
+
+      (4) “Audited partnership” means a partnership subject to a partnership-level audit from which an adjustment arises.
+
+      (5) “Corporate partner” means a partner that is subject to the tax imposed under ORS chapter 317 or 318.
+
+      (6) “Direct partner” means a partner that holds an interest directly in a partnership or pass-through entity.
+
+      (7) “Federal partnership representative” means the person that a partnership designates for the tax year as the partnership’s representative, or the person the Internal Revenue Service has appointed to act as the federal partnership representative, pursuant to section 6223(a) of the Internal Revenue Code.
+
+      (8) “Indirect partner” means a partner in a partnership or pass-through entity that holds an interest directly, or through another indirect partner, in a partnership or pass-through entity.
+
+      (9) “Nonresident partner” means a partner that is not a resident partner and is an individual, a trust or an estate.
+
+      (10) “Partnership-level audit” means an examination by the Internal Revenue Service at the partnership level pursuant to sections 6221 to 6241 of the Internal Revenue Code from which an adjustment arises.
+
+      (11) “Resident partner” means a partner that is an individual who is a resident of this state as defined in ORS 316.027 for the tax year or is a resident trust or a resident estate as defined in ORS 316.282.
+
+      (12) “Reviewed year” means the tax year of a partnership that is required to be or elects to be subject to a partnership-level audit from which adjustments arise.
+
+      (13) “Taxpayer” means:
+
+      (a) A partner that is subject to the tax imposed under ORS chapter 316, 317 or 318;
+
+      (b) A partnership that is subject to a partnership-level audit or that has made an administrative adjustment request; or
+
+      (c) A tiered partner of a partnership.
+
+      (14) “Tiered partner” means a partner that is a partnership or pass-through entity. [2019 c.132 §2]
+
+ 
+
+      Note: Section 12, chapter 132, Oregon Laws 2019, provides:
+
+      Sec. 12. (1) Sections 2 to 5 of this 2019 Act [314.731 to 314.737], the amendments to ORS 305.242, 314.712 and 314.714 by sections 6 to 8 of this 2019 Act and the repeal of ORS 314.723 by section 11 of this 2019 Act apply to partnership adjustments for partnership tax years beginning on or after January 1, 2018.
+
+      (2) The amendments to ORS 314.778 by section 9 of this 2019 Act apply to tax years beginning on or after January 1, 2019. [2019 c.132 §12]
+
+ 
+
+      314.732 [1989 c.625 §42; 1991 c.457 §21; renumbered 314.762 in 2019]
+
+ 
+
+      314.733 Requirement to report adjustments from partnership-level audit or administrative adjustment request. (1) Notwithstanding ORS 314.380, and except for adjustments required to be reported for federal purposes pursuant to section 6225(a)(2) of the Internal Revenue Code, partnerships and partners shall report the adjustments arising from a partnership-level audit or an administrative adjustment request and make payments as required under this section.
+
+      (2)(a) A partnership’s federal partnership representative shall act as the partnership’s Oregon partnership representative for the reviewed year, unless the partnership designates, in the time and manner prescribed by the Department of Revenue by rule or through forms and instructions, another Oregon partnership representative. If the partnership representative is an entity, the entity representative shall act through a designated individual in the manner provided by the department by rule or through forms and instructions.
+
+      (b) The Oregon partnership representative for the reviewed year is responsible for any action required or permitted to be taken under this section, including providing the adjustments report to the Department of Revenue and making any election outlined under this section. With respect to an action required or permitted to be taken by the partnership under this section, the Oregon partnership representative for the reviewed year has the sole authority to act on behalf of the partnership, and the direct partners and indirect partners of the partnership are bound by those actions.
+
+      (c) With respect to representation in any conference before the department or before the Oregon Tax Court, if the designated partnership representative qualifies as a tax matters partner under ORS 305.242 (2), the partnership representative shall serve as the tax matters partner, unless the partnership representative designates another person who qualifies as a tax matters partner under ORS 305.242 (2). If the designated partnership representative does not qualify to be the tax matters partner under ORS 305.242 (2), the partnership representative shall designate a person that qualifies to be a tax matters partner under ORS 305.242 (2). For purposes of any conference before the department or proceeding before the tax court, the partnership and all partners of the partnership shall be bound by the actions of the designated partnership representative or other person designated to act as the tax matters partner under this paragraph.
+
+      (3) Adjustments subject to the requirements of this section, except for those subject to an election under subsection (4) of this section, shall be reported as follows:
+
+      (a) Not later than 180 days after the date of the federal notice of final partnership adjustment or 90 days after the date on which the amended federal return, federal refund claim or other similar report, including any report made under section 6225(c) of the Internal Revenue Code, or administrative adjustment request was filed, whichever is later, the partnership shall:
+
+      (A) File with the department a completed adjustments report in the form and manner prescribed by the department that is sufficiently detailed to allow computation of the tax change resulting from the adjustment;
+
+      (B) Concede the accuracy of the determination of the Internal Revenue Service or state wherein the taxpayer believes the determination to be erroneous;
+
+      (C) Submit with the adjustments report any other information required by the department;
+
+      (D) Notify the partnership’s direct partners of their distributive share of adjustments, including information as required by the department;
+
+      (E) File an amended composite return for direct partners that are nonresident partners as required under ORS 314.778; and
+
+      (F) Pay any additional personal income tax and corporate income or excise tax that would have been due had the adjustments been reported properly as required on the composite return.
+
+      (b) Not later than 270 days after the date of the federal notice of final partnership adjustment or 180 days after the date on which the amended federal return, federal refund claim or other similar report, including any report made under section 6225(c) of the Internal Revenue Code, or administrative adjustment request was filed, whichever is later, each direct partner that is subject to the tax imposed under ORS chapter 316, 317 or 318 shall:
+
+      (A) File with the department an adjustments report or an original or amended Oregon tax return reporting the direct partner’s distributive share of the adjustments reported to them under this subsection; and
+
+      (B) Pay any additional amount of tax that would have been due had the adjustments been reported properly, plus any interest and penalty due under ORS 305.220 or 314.400.
+
+      (4) An audited partnership may make an election to pay at the partnership level. Subject to the limitations in subsection (5) of this section, an audited partnership making an election under this subsection shall:
+
+      (a) Not later than 180 days after the date of the federal notice of final partnership adjustment, file with the department a completed adjustments report, including partner information and any other information required by the department, and notify the department that it is making the election under this subsection; and
+
+      (b) Not later than 270 days after the date of the federal notice of final partnership adjustment, pay an amount, in lieu of taxes owed by the direct and indirect partners of the partnership, to be determined as follows:
+
+      (A) For the total distributive shares of adjustments made to direct partners that are corporate partners, apportion and allocate any adjustments as provided under this chapter and multiply the resulting amount by the highest marginal tax rate applicable to taxpayers subject to the tax imposed under ORS chapter 317 or 318 for the reviewed year;
+
+      (B) For the total distributive shares of adjustments made to direct partners that are nonresident partners subject to tax under ORS chapter 316, determine the amount of any adjustment that is income from Oregon sources under ORS chapter 316 and multiply the resulting amount by the highest marginal tax rate applicable to taxpayers for the tax year under ORS chapter 316;
+
+      (C) For the total distributive shares of adjustments made to tiered partners:
+
+      (i) Determine the amount of any adjustment that is of a type that would be subject to sourcing to Oregon by a nonresident partner under ORS chapter 316 and determine the portion of this amount that would be sourced to Oregon;
+
+      (ii) Determine the amount of any adjustment that is of a type that would not be subject to sourcing to Oregon by a nonresident partner under ORS chapter 316;
+
+      (iii) Determine the portion of the amount in sub-subparagraph (ii) of this subparagraph that can be established, as prescribed by the department by rule, to be properly allocable to indirect partners that are nonresident partners or other partners not subject to tax on the adjustments; and
+
+      (iv) Multiply the total of the amounts in sub-subparagraphs (i) and (ii) of this subparagraph, reduced by the amount determined in sub-subparagraph (iii) of this subparagraph, by the highest marginal tax rate under ORS chapter 316;
+
+      (D) For the total distributive shares of adjustments made to direct partners that are resident partners, multiply the amount of the adjustments by the highest marginal tax rate under ORS chapter 316; and
+
+      (E) Add the amounts determined in subparagraphs (A) to (D) of this paragraph and any interest and penalty as provided in ORS 305.220 or 314.400.
+
+      (5) Adjustments subject to the election in subsection (4) of this section do not include:
+
+      (a) The distributive share of adjustments that under this chapter or ORS chapter 317 or 318 must be included in the apportionable income of any direct partner that is a corporate partner unless the corporate partner states in writing to the partnership representative that its distributive share of the adjustments is not required to be included in its apportionable income;
+
+      (b) The distributive share of adjustments that under this chapter or ORS chapter 317 or 318 must be included in the apportionable income of any indirect partner that is a corporate partner, provided that the audited partnership can reasonably determine this;
+
+      (c) The distributive share of adjustments made to a direct partner that is exempt from tax under ORS 316.277 or 317.080, other than any distributive share that is unrelated business taxable income of the partner; or
+
+      (d) Any adjustments arising from an administrative adjustment request.
+
+      (6) For purposes of subsection (5) of this section, a corporate partner’s distributive share is presumed to be included in the partner’s own apportionable income unless the partner provides the statement described in subsection (5)(a) of this section to the partnership representative.
+
+      (7)(a) An audited partnership that makes an election under subsection (4) of this section consents to be subject to the administrative provisions of this chapter and ORS chapter 305.
+
+      (b) The department may adopt rules to prevent double taxation or double deduction of any amount included in the computation of income under this section.
+
+      (8) The direct and indirect partners of an audited partnership that are tiered partners and all partners of those tiered partners that are subject to tax imposed under ORS chapter 316, 317 or 318 are subject to the reporting and payment requirements of subsection (3) of this section. The tiered partners are entitled to make the elections provided in subsection (4) of this section. The tiered partners or their partners shall make the required reports and payments not later than 90 days after the time for filing and furnishing statements to tiered partners and their partners as established under section 6226 of the Internal Revenue Code and the regulations thereunder. The department may adopt rules to establish procedures and interim time periods for the reports and payments required by tiered partners and their partners and for making the elections under subsection (4) of this section.
+
+      (9)(a) The department may adopt rules allowing an extension of time for an audited partnership and its tiered partners or direct partners to file reports of adjustments required under this section.
+
+      (b) Notwithstanding paragraph (a) of this subsection, the tax shall be paid to the department on the date fixed by this section without regard to extensions.
+
+      (c) Any extension granted under this section extends the final date prescribed by law for assessing any additional tax arising from the adjustments.
+
+      (10)(a) An election made pursuant to subsection (4) of this section is irrevocable.
+
+      (b) If reported properly and paid by the audited partnership or tiered partner, the amount determined in subsection (4)(b) of this section shall be treated as paid in lieu of taxes owed by its direct and indirect partners, to the extent applicable, on the same adjustments. Direct partners or indirect partners may not take any deduction or credit for the amount or claim a refund of the amount.
+
+      (c) Nothing in this subsection precludes a direct partner that is a resident partner or nonresident partner from claiming a credit for any amounts paid by the audited partnership or tiered partner on the direct partner’s behalf to another state or local tax jurisdiction in accordance with the provisions of ORS 316.082 or 316.131.
+
+      (11) Nothing in this section prevents the department from assessing direct partners or indirect partners for taxes owed, using the best information available, in the event that a partnership or tiered partner fails to timely make any report or payment required by this section for any reason, or from collecting from direct partners or indirect partners. [2019 c.132 §3]
+
+ 
+
+      Note: See note under 314.731.
+
+ 
+
+      314.734 [1989 c.625 §43; 1991 c.457 §22; 1997 c.839 §60; renumbered 314.763 in 2019]
+
+ 
+
+      314.735 Time limit for notice of deficiency. The Department of Revenue shall assess additional tax, interest and penalties for adjustments arising from an audit by the Internal Revenue Service, including a partnership-level audit, or reported by the taxpayer on an amended federal return, federal refund claim or other similar report, including a report required under section 6225(c) of the Internal Revenue Code, or as part of an administrative adjustment request, by the following dates:
+
+      (1) If a taxpayer files with the department an adjustments report or an amended Oregon tax return as required within the period specified in ORS 314.733, the department may assess any amounts, including in-lieu-of amounts, taxes, interest or penalties arising from the adjustments. The department shall issue a notice of deficiency to the taxpayer on or before the later of:
+
+      (a) The expiration of the applicable limitations period specified in ORS 314.410; or
+
+      (b) Two years following the earlier of the date the department is notified by the Internal Revenue Service or the date the taxpayer files the adjustments report or amended Oregon tax return with the department.
+
+      (2) If the taxpayer fails to file an adjustments report within the period specified in ORS 314.733 or if the adjustments report filed by the taxpayer omits adjustments or understates the correct amount of tax owed, the department may assess any amounts, including in-lieu-of amounts, taxes, interest or penalties arising from the adjustments. The department shall issue a notice of deficiency to the taxpayer on or before the later of:
+
+      (a) The expiration of the applicable limitations period specified in ORS 314.410; or
+
+      (b) Two years following the earlier of the date the department is notified by the Internal Revenue Service or the date the taxpayer files the adjustments report with the department. [2019 c.132 §4]
+
+ 
+
+      Note: See note under 314.731.
+
+ 
+
+      314.736 [1989 c.625 §44; renumbered 314.764 in 2019]
+
+ 
+
+      314.737 Time limit for claim for refund or credit. Except for adjustments required to be reported for federal purposes under section 6225(a)(2) of the Internal Revenue Code, a taxpayer shall file a claim for refund or credit of tax arising from adjustments made by the Internal Revenue Service on or before the later of:
+
+      (1) The expiration of the last date for filing a claim for refund pursuant to ORS 314.415; or
+
+      (2) Two years following the date of the federal notice of final partnership adjustment. [2019 c.132 §5]
+
+ 
+
+      Note: See note under 314.731.
+
+ 
+
+      314.738 [1989 c.625 §45; renumbered 314.765 in 2019]
+
+ 
+
+      314.739 Obligation or right of partner to report changes in taxable income or tax liability. Nothing in ORS 314.731 to 314.737 or the amendments to ORS 305.242, 314.712, 314.714 or 314.778 by sections 6 to 9, chapter 132, Oregon Laws 2019, is intended to affect the obligation or right of a partner subject to the tax imposed under ORS chapter 316, 317 or 318 to report changes in the partner’s taxable income subject to taxation by this state or changes in a taxpayer’s tax liability paid to or owing to this state because of changes or corrections by, or as a result of original or amended returns accepted by:
+
+      (1) The Internal Revenue Service, in the case of a partner in a partnership that elects the application of section 6221(b) of the Internal Revenue Code; or
+
+      (2) The taxing authority of another state, in the case of any partner or partnership. [2019 c.132 §10]
+
+ 
+
+      Note: 314.739 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 314 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      Note: See note under 314.731.
+
+ 
+
+      314.740 [1989 c.625 §46; 1997 c.839 §61; renumbered 314.766 in 2019]
+
+ 
+
+      314.742 [1989 c.625 §47; 1997 c.839 §62; renumbered 314.767 in 2019]
+
+ 
+
+      314.744 [1989 c.625 §48; renumbered 314.768 in 2019]
+
+ 
+
+      314.746 [1989 c.625 §49; renumbered 314.769 in 2019]
+
+ 
+
+      314.748 [1989 c.625 §50; repealed by 1997 c.839 §69]
+
+ 
+
+      314.749 [1997 c.100 §6; renumbered 314.770 in 2019]
+
+ 
+
+      314.750 [1989 c.625 §58; 2007 c.322 §2; renumbered 314.771 in 2019]
+
+ 
+
+      314.752 [1991 c.877 §36; 1993 c.730 §5; 1997 c.170 §34; 1997 c.534 §2; 1999 c.21 §36; 2001 c.674 §11; 2001 c.868 §9; 2001 c.932 §10; 2001 c.957 §18; 2005 c.80 §1; 2005 c.94 §80; 2007 c.625 §13; 2007 c.739 §7; 2007 c.883 §3; 2009 c.33 §§14,15,16; 2010 c.76 §26; 2011 c.83 §11; 2011 c.474 §32; 2011 c.730 §19; 2011 c.732 §9; 2013 c.750 §25; 2015 c.701 §35; 2017 c.610 §21; 2017 c.638 §1; 2018 c.108 §7; 2019 c.579 §15; renumbered 314.772 in 2019]
+
+ 
+
+      314.760 [1989 c.625 §54; repealed by 2005 c.387 §8]
+
+ 
+
 (S Corporations)
 
  
 
-      314.730 “C corporation” and “S corporation” defined for this chapter and ORS chapters 316, 317 and 318. For purposes of this chapter and ORS chapters 316, 317 and 318:
+      314.761 “C corporation” and “S corporation” defined for this chapter and ORS chapters 316, 317 and 318. For purposes of this chapter and ORS chapters 316, 317 and 318:
 
       (1) “C corporation” means, with respect to any taxable year, a corporation which is not an S corporation for such year.
 
-      (2) “S corporation” means, with respect to any taxable year, a corporation for which an election under section 1362(a) of the Internal Revenue Code is in effect for such year. [1989 c.625 §41]
+      (2) “S corporation” means, with respect to any taxable year, a corporation for which an election under section 1362(a) of the Internal Revenue Code is in effect for such year. [Formerly 314.730]
 
  
 
-      314.732 Taxation of S corporation; application of Internal Revenue Code; carryforward and carryback. (1) Except as otherwise provided in ORS 314.740, 314.742 and 317.090, an S corporation shall not be subject to the taxes imposed by ORS chapter 316, 317 or 318.
+      314.762 Taxation of S corporation; application of Internal Revenue Code; carryforward and carryback. (1) Except as otherwise provided in ORS 314.766, 314.767 and 317.090, an S corporation shall not be subject to the taxes imposed by ORS chapter 316, 317 or 318.
 
       (2)(a) Subject to paragraphs (b) to (d) of this subsection, the taxable income of an S corporation shall be computed pursuant to section 1363(b) of the Internal Revenue Code, with the modifications, additions and subtractions provided in this chapter and ORS chapter 316.
 
-      (b) Except as otherwise provided under this chapter and ORS chapter 316, 317 or 318, and except as inconsistent with ORS 314.730 to 314.752, subchapter C, chapter 1, Internal Revenue Code, shall apply to an S corporation and its shareholders for Oregon tax purposes. For Oregon tax purposes, the provisions of section 1371 of the Internal Revenue Code shall apply, subject to the modifications, additions and subtractions under this chapter or ORS chapter 316, 317 or 318 and any provisions to the contrary in this chapter or ORS chapter 316, 317 or 318.
+      (b) Except as otherwise provided under this chapter and ORS chapter 316, 317 or 318, and except as inconsistent with ORS 314.761 to 314.772, subchapter C, chapter 1, Internal Revenue Code, shall apply to an S corporation and its shareholders for Oregon tax purposes. For Oregon tax purposes, the provisions of section 1371 of the Internal Revenue Code shall apply, subject to the modifications, additions and subtractions under this chapter or ORS chapter 316, 317 or 318 and any provisions to the contrary in this chapter or ORS chapter 316, 317 or 318.
 
       (c) Notwithstanding ORS 317.476, 317.478 or 317.479, no carryforward, arising for a taxable year for which a corporation is a C corporation, may be carried to a taxable year for which such corporation is an S corporation.
 
-      (d) Notwithstanding ORS 317.476 or other law, no carryforward, and no carryback, shall arise at the corporate level for a taxable year for which a corporation is an S corporation. [1989 c.625 §42; 1991 c.457 §21]
+      (d) Notwithstanding ORS 317.476 or other law, no carryforward, and no carryback, shall arise at the corporate level for a taxable year for which a corporation is an S corporation. [Formerly 314.732]
 
  
 
-      314.734 Taxation of shareholder’s income; computation; character of income, gain, loss or deduction. (1) The shareholder’s pro rata share of the income of an S corporation is subject to tax under ORS chapter 316. In determining the tax imposed under ORS chapter 316 of a shareholder for the shareholder’s taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate that terminates, before the end of the corporation’s taxable year), there shall be taken into account the shareholder’s pro rata share of the corporation’s separately stated items of income, loss or deduction and nonseparately computed income or loss, as determined under or for purposes of section 1366 of the Internal Revenue Code (including but not limited to section 1366(d) and (e) of the Internal Revenue Code), with the modifications, additions and subtractions provided under this chapter and ORS chapter 316.
+      314.763 Taxation of shareholder’s income; computation; character of income, gain, loss or deduction. (1) The shareholder’s pro rata share of the income of an S corporation is subject to tax under ORS chapter 316. In determining the tax imposed under ORS chapter 316 of a shareholder for the shareholder’s taxable year in which the taxable year of the S corporation ends (or for the final taxable year of a shareholder who dies, or of a trust or estate that terminates, before the end of the corporation’s taxable year), there shall be taken into account the shareholder’s pro rata share of the corporation’s separately stated items of income, loss or deduction and nonseparately computed income or loss, as determined under or for purposes of section 1366 of the Internal Revenue Code (including but not limited to section 1366(d) and (e) of the Internal Revenue Code), with the modifications, additions and subtractions provided under this chapter and ORS chapter 316.
 
       (2) Each item of shareholder income, gain, loss or deduction has the same character for a shareholder under this chapter and ORS chapter 316 as it has for federal income tax purposes. If an item is not characterized for federal income tax purposes, it has the same character for a shareholder as if realized directly from the source from which realized by the S corporation or incurred in the same manner as incurred by the S corporation.
 
       (3) In any case where it is necessary to determine the gross income of a shareholder for purposes of ORS chapter 316, such gross income shall include the shareholder’s pro rata share of the gross income of the S corporation.
 
-      (4) If any tax is imposed under ORS 314.740 for any taxable year on an S corporation, for purposes of subsection (1) of this section, the amount of each recognized built-in gain for such taxable year shall be reduced by its proportionate share of such tax.
+      (4) If any tax is imposed under ORS 314.766 for any taxable year on an S corporation, for purposes of subsection (1) of this section, the amount of each recognized built-in gain for such taxable year shall be reduced by its proportionate share of such tax.
 
-      (5) If any tax is imposed under ORS 314.742 on an S corporation, for purposes of subsection (1) of this section, each item of passive investment income shall be reduced by an amount which bears the same ratio to the amount of such tax as the amount of such item bears to the total passive investment income for the taxable year. [1989 c.625 §43; 1991 c.457 §22; 1997 c.839 §60]
-
- 
-
-      314.736 Treatment of distributions by S corporation. A distribution of property made by an S corporation with respect to its stock shall be treated in the manner provided under section 1368 of the Internal Revenue Code, subject to modifications, additions and subtractions under ORS chapter 316, 317 or 318. [1989 c.625 §44]
+      (5) If any tax is imposed under ORS 314.767 on an S corporation, for purposes of subsection (1) of this section, each item of passive investment income shall be reduced by an amount which bears the same ratio to the amount of such tax as the amount of such item bears to the total passive investment income for the taxable year. [Formerly 314.734]
 
  
 
-      314.738 Employee fringe benefits; foreign income. (1) For purposes of employee fringe benefits, and subject to this chapter and ORS chapters 305, 316, 317 and 318 and ORS 314.712 to 314.722, 314.726 and 316.124, section 1372 of the Internal Revenue Code shall apply to an S corporation and its shareholders.
-
-      (2) For purposes of foreign income, and subject to this chapter and ORS chapters 305, 316, 317 and 318 and ORS 314.712 to 314.722, 314.726 and 316.124, section 1373 of the Internal Revenue Code shall apply to an S corporation and its shareholders. [1989 c.625 §45]
+      314.764 Treatment of distributions by S corporation. A distribution of property made by an S corporation with respect to its stock shall be treated in the manner provided under section 1368 of the Internal Revenue Code, subject to modifications, additions and subtractions under ORS chapter 316, 317 or 318. [Formerly 314.736]
 
  
 
-      314.740 Tax on built-in gain. (1) If, for any taxable year beginning in the recognition period, an S corporation has a net recognized built-in gain, there is hereby imposed a tax on the income of such corporation for such taxable year.
+      314.765 Employee fringe benefits; foreign income. (1) For purposes of employee fringe benefits, and subject to this chapter and ORS chapters 305, 316, 317 and 318 and ORS 314.712 to 314.722, 314.726 and 316.124, section 1372 of the Internal Revenue Code shall apply to an S corporation and its shareholders.
+
+      (2) For purposes of foreign income, and subject to this chapter and ORS chapters 305, 316, 317 and 318 and ORS 314.712 to 314.722, 314.726 and 316.124, section 1373 of the Internal Revenue Code shall apply to an S corporation and its shareholders. [Formerly 314.738]
+
+ 
+
+      314.766 Tax on built-in gain. (1) If, for any taxable year beginning in the recognition period, an S corporation has a net recognized built-in gain, there is hereby imposed a tax on the income of such corporation for such taxable year.
 
       (2) The amount of the tax imposed under subsection (1) of this section shall be computed by applying the rate of tax specified in ORS 317.061 to the net recognized built-in gain of the S corporation for the taxable year.
 
       (3) The tax imposed under subsection (1) shall be considered a tax imposed under ORS chapter 317 or 318, whichever is applicable, and shall be returned, estimated, assessed and collected and otherwise treated in the same manner as the tax imposed under ORS chapter 317 or 318. The allocation and apportionment rules of this chapter and ORS chapter 305 apply to the income subject to the tax imposed under this section. The proceeds from the tax shall be distributed in the same manner as the tax imposed under ORS chapter 317 or 318, whichever is applicable.
 
-      (4) ORS 317.476, 317.478 and 317.479 shall not apply to the tax imposed under this section. Notwithstanding ORS 314.732 (2)(c), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of the tax imposed under this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to any of the 15 subsequent taxable years, the amount of the net recognized built-in gain shall be treated as taxable income.
+      (4) ORS 317.476, 317.478 and 317.479 shall not apply to the tax imposed under this section. Notwithstanding ORS 314.762 (2)(c), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed for purposes of the tax imposed under this section as a deduction against the net recognized built-in gain of the S corporation for the taxable year. For purposes of determining the amount of any such loss which may be carried to any of the 15 subsequent taxable years, the amount of the net recognized built-in gain shall be treated as taxable income.
 
       (5)(a) Except for estimated and other advance tax payments and except as provided under paragraph (b) of this subsection, no credits shall be allowed against the tax imposed under this section.
 
-      (b) Notwithstanding ORS 314.732 (2)(c), any credit carryforward under ORS chapter 317 or 318 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed under this section in the same manner as if it were the tax imposed under ORS chapter 317 or 318.
+      (b) Notwithstanding ORS 314.762 (2)(c), any credit carryforward under ORS chapter 317 or 318 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed under this section in the same manner as if it were the tax imposed under ORS chapter 317 or 318.
 
-      (6) To the extent applicable, the definitions, special rules and interpretations and other provisions of section 1374 of the Internal Revenue Code that relate to the measurement of built-in gain shall apply to the tax imposed under this section. [1989 c.625 §46; 1997 c.839 §61]
+      (6) To the extent applicable, the definitions, special rules and interpretations and other provisions of section 1374 of the Internal Revenue Code that relate to the measurement of built-in gain shall apply to the tax imposed under this section. [Formerly 314.740]
 
  
 
-      314.742 Tax on excess net passive income. (1) If for the taxable year an S corporation has the following, then there is hereby imposed a tax on the income of such corporation for the taxable year:
+      314.767 Tax on excess net passive income. (1) If for the taxable year an S corporation has the following, then there is hereby imposed a tax on the income of such corporation for the taxable year:
 
       (a) Accumulated earnings and profits at the close of the taxable year; and
 
@@ -3217,39 +3479,35 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
       (3) The tax imposed under subsection (1) shall be considered a tax imposed under ORS chapter 317 or 318, whichever is applicable, and shall be returned, estimated, assessed and collected and otherwise treated in the same manner as the tax imposed under ORS chapter 317 or 318. The allocation and apportionment of income rules of this chapter and ORS chapter 305 apply to the income subject to the tax imposed under this section. The proceeds from the tax shall be distributed in the same manner as the tax imposed under ORS chapter 317 or 318, whichever is applicable.
 
-      (4) Notwithstanding subsection (6) of this section, the amount of passive investment income shall be determined by not taking into account any recognized built-in gain or loss of the S corporation for any taxable year in the recognition period. Terms used in the preceding sentence shall have the same respective meanings as when used in ORS 314.738.
+      (4) Notwithstanding subsection (6) of this section, the amount of passive investment income shall be determined by not taking into account any recognized built-in gain or loss of the S corporation for any taxable year in the recognition period. Terms used in the preceding sentence shall have the same respective meanings as when used in ORS 314.765.
 
       (5) Except for estimated and other advance tax payments, no credits shall be allowed against the tax imposed under this section.
 
       (6) To the extent applicable, the definitions, special rules and interpretations and other provisions of section 1375 of the Internal Revenue Code that relate to the measurement of excess net passive income shall apply to the tax imposed under this section.
 
-      (7) Section 1375(d) shall apply to the tax imposed under this section, except that “department” shall be substituted for the word “secretary” wherever that word appears. [1989 c.625 §47; 1997 c.839 §62]
+      (7) Section 1375(d) shall apply to the tax imposed under this section, except that “department” shall be substituted for the word “secretary” wherever that word appears. [Formerly 314.742]
 
  
 
-      314.744 S corporation or shareholder elections; rules. (1) Subject to subsection (2) of this section, if the Internal Revenue Code requires or permits an election or revocation to be made by an S corporation, then that election or revocation shall apply for Oregon tax purposes. If the Internal Revenue Code requires or permits an election or revocation to be made by a shareholder or shareholders of an S corporation, then that election or revocation shall apply for Oregon tax purposes.
+      314.768 S corporation or shareholder elections; rules. (1) Subject to subsection (2) of this section, if the Internal Revenue Code requires or permits an election or revocation to be made by an S corporation, then that election or revocation shall apply for Oregon tax purposes. If the Internal Revenue Code requires or permits an election or revocation to be made by a shareholder or shareholders of an S corporation, then that election or revocation shall apply for Oregon tax purposes.
 
-      (2) The Department of Revenue may adopt rules that contravene subsection (1) of this section if the election or revocation does not carry out the purposes of this chapter and ORS chapter 305, 316, 317 or 318. [1989 c.625 §48]
-
- 
-
-      314.746 Application of sections 1377 and 1379 of Internal Revenue Code. The definitions and special and transitional rules of sections 1377 and 1379 of the Internal Revenue Code apply for Oregon tax purposes. [1989 c.625 §49]
+      (2) The Department of Revenue may adopt rules that contravene subsection (1) of this section if the election or revocation does not carry out the purposes of this chapter and ORS chapter 305, 316, 317 or 318. [Formerly 314.744]
 
  
 
-      314.748 [1989 c.625 §50; repealed by 1997 c.839 §69]
+      314.769 Application of sections 1377 and 1379 of Internal Revenue Code. The definitions and special and transitional rules of sections 1377 and 1379 of the Internal Revenue Code apply for Oregon tax purposes. [Formerly 314.746]
 
  
 
-      314.749 Disclosure of S corporation items to shareholder. The Department of Revenue may disclose to the shareholder of an S corporation those items of S corporation gain, loss or other particulars relating to the S corporation that are necessary to administer the tax imposed by ORS chapter 316, 317 or 318 if the department considers the disclosure necessary to facilitate the audit of the shareholder’s income tax return. [1997 c.100 §6]
+      314.770 Disclosure of S corporation items to shareholder. The Department of Revenue may disclose to the shareholder of an S corporation those items of S corporation gain, loss or other particulars relating to the S corporation that are necessary to administer the tax imposed by ORS chapter 316, 317 or 318 if the department considers the disclosure necessary to facilitate the audit of the shareholder’s income tax return. [Formerly 314.749]
 
  
 
-      Note: 314.749 was added to and made a part of ORS chapter 314 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 314.770 was added to and made a part of ORS chapter 314 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
-      314.750 Recapture of LIFO benefits. (1) Any increase in tax by reason of a recapture of LIFO benefits under section 1363(d) of the Internal Revenue Code shall be payable in four equal installments.
+      314.771 Recapture of LIFO benefits. (1) Any increase in tax by reason of a recapture of LIFO benefits under section 1363(d) of the Internal Revenue Code shall be payable in four equal installments.
 
       (2)(a) The first installment shall be paid on or before the due date for the return of the tax for the last taxable year for which the corporation was a C corporation and the three succeeding installments shall be paid on or before the due date for the corporation’s return for the three succeeding taxable years.
 
@@ -3257,23 +3515,19 @@ TAXATION OF PARTNERSHIPS AND S CORPORATIONS
 
       (3) Notwithstanding ORS 314.400 (7), for purposes of ORS 314.400 (7), interest on each installment that is not paid on or before the date prescribed under subsection (2) of this section for payment of that installment shall accrue only from the due date for that installment.
 
-      (4) This section applies in the case of S corporation elections made after December 17, 1987. No refund or interest shall accrue to any taxpayer on account of the retroactive application under this subsection. [1989 c.625 §58; 2007 c.322 §2]
+      (4) This section applies in the case of S corporation elections made after December 17, 1987. No refund or interest shall accrue to any taxpayer on account of the retroactive application under this subsection. [Formerly 314.750]
 
  
 
-      314.752 Business tax credits; allowance to shareholders. (1) Except as provided in ORS 314.740 (5)(b), the tax credits allowed or allowable to a C corporation for purposes of ORS chapter 317 or 318 shall not be allowed to an S corporation. The business tax credits allowed or allowable for purposes of ORS chapter 316 shall be allowed or are allowable to the shareholders of the S corporation.
+      314.772 Business tax credits; allowance to shareholders. (1) Except as provided in ORS 314.766 (5)(b), the tax credits allowed or allowable to a C corporation for purposes of ORS chapter 317 or 318 shall not be allowed to an S corporation. The business tax credits allowed or allowable for purposes of ORS chapter 316 shall be allowed or are allowable to the shareholders of the S corporation.
 
-      (2) In determining the tax imposed under ORS chapter 316, as provided under ORS 314.734, on income of the shareholder of an S corporation, there shall be taken into account the shareholder’s pro rata share of business tax credit (or item thereof) that would be allowed to the corporation (but for subsection (1) of this section) or recapture or recovery thereof. The credit (or item thereof), recapture or recovery shall be passed through to shareholders in pro rata shares as determined in the manner prescribed under section 1377(a) of the Internal Revenue Code.
+      (2) In determining the tax imposed under ORS chapter 316, as provided under ORS 314.763, on income of the shareholder of an S corporation, there shall be taken into account the shareholder’s pro rata share of business tax credit (or item thereof) that would be allowed to the corporation (but for subsection (1) of this section) or recapture or recovery thereof. The credit (or item thereof), recapture or recovery shall be passed through to shareholders in pro rata shares as determined in the manner prescribed under section 1377(a) of the Internal Revenue Code.
 
       (3) The character of any item included in a shareholder’s pro rata share under subsection (2) of this section shall be determined as if such item were realized directly from the source from which realized by the corporation, or incurred in the same manner as incurred by the corporation.
 
       (4) If the shareholder is a nonresident and there is a requirement applicable for the business tax credit that in the case of a nonresident the credit be allowed in the proportion provided in ORS 316.117, then that provision shall apply to the nonresident shareholder.
 
-      (5) As used in this section, “business tax credit” means the following credits: ORS 315.104 (forestation and reforestation), ORS 315.138 (fish screening, by-pass devices, fishways), ORS 315.141 (biomass production for biofuel), ORS 315.156 (crop gleaning), ORS 315.164 and 315.169 (agriculture workforce housing), ORS 315.176 (bovine manure), ORS 315.204 (dependent care assistance), ORS 315.208 (dependent care facilities), ORS 315.213 (contributions for child care), ORS 315.237 (employee and dependent scholarships), ORS 315.271 (individual development accounts), ORS 315.304 (pollution control facility), ORS 315.326 (renewable energy development contributions), ORS 315.331 (energy conservation projects), ORS 315.336 (transportation projects), ORS 315.341 (renewable energy resource equipment manufacturing facilities), ORS 315.354 and 469B.151 (energy conservation facilities), ORS 315.506 (tribal taxes on reservation enterprise zones and reservation partnership zones), ORS 315.507 (electronic commerce), ORS 315.514 (film production development contributions), ORS 315.521 (university venture development funds), ORS 315.523 (employee training programs), ORS 315.533 (low income community jobs initiative), ORS 315.675 (Trust for Cultural Development Account contributions), ORS 317.097 (loans for affordable housing), ORS 317.124 (long term enterprise zone facilities), ORS 317.147 (loans for agriculture workforce housing), ORS 317.152 (qualified research expenses) and ORS 317.154 (alternative qualified research expenses) and section 9, chapter 774, Oregon Laws 2013 (alternative fuel vehicle contributions). [1991 c.877 §36; 1993 c.730 §5; 1997 c.170 §34; 1997 c.534 §2; 1999 c.21 §36; 2001 c.674 §11; 2001 c.868 §9; 2001 c.932 §10; 2001 c.957 §18; 2005 c.80 §1; 2005 c.94 §80; 2007 c.625 §13; 2007 c.739 §7; 2007 c.883 §3; 2009 c.33 §§14,15,16; 2010 c.76 §26; 2011 c.83 §11; 2011 c.474 §32; 2011 c.730 §19; 2011 c.732 §9; 2013 c.750 §25; 2015 c.701 §35; 2017 c.610 §21; 2017 c.638 §1]
-
- 
-
-      314.760 [1989 c.625 §54; repealed by 2005 c.387 §8]
+      (5) As used in this section, “business tax credit” means the following credits: ORS 315.104 (forestation and reforestation), ORS 315.138 (fish screening, by-pass devices, fishways), ORS 315.141 (biomass production for biofuel), ORS 315.156 (crop gleaning), ORS 315.164 and 315.169 (agriculture workforce housing), ORS 315.176 (bovine manure), ORS 315.204 (dependent care assistance), ORS 315.208 (dependent care facilities), ORS 315.213 (contributions for child care), ORS 315.237 (employee and dependent scholarships), ORS 315.271 (individual development accounts), ORS 315.304 (pollution control facility), ORS 315.326 (renewable energy development contributions), ORS 315.331 (energy conservation projects), ORS 315.336 (transportation projects), ORS 315.341 (renewable energy resource equipment manufacturing facilities), ORS 315.354 and 469B.151 (energy conservation facilities), ORS 315.506 (tribal taxes on reservation enterprise zones and reservation partnership zones), ORS 315.507 (electronic commerce), ORS 315.514 (film production development contributions), ORS 315.523 (employee training programs), ORS 315.533 (low income community jobs initiative), ORS 315.593 (short line railroads), ORS 315.640 (university venture development funds), ORS 315.643 (Opportunity Grant Fund contributions), ORS 315.675 (Trust for Cultural Development Account contributions), ORS 317.097 (loans for affordable housing), ORS 317.124 (long term enterprise zone facilities), ORS 317.147 (loans for agriculture workforce housing), ORS 317.152 (qualified research expenses) and ORS 317.154 (alternative qualified research expenses) and section 9, chapter 774, Oregon Laws 2013 (alternative fuel vehicle contributions). [Formerly 314.752]
 
  
 
@@ -3303,17 +3557,27 @@ PASS-THROUGH ENTITIES
 
  
 
-      314.778 Composite returns of pass-through entities; election; effect of election on nonresident owners. (1) A pass-through entity having distributive income attributable to Oregon sources shall file a composite return of personal income and corporate income and excise tax on behalf of owners that elect to be included in the composite return filed by the entity.
+      314.778 Composite returns of pass-through entities; election; effect of election on nonresident owners. (1)(a) A pass-through entity having distributive income attributable to Oregon sources shall file a composite return of personal income and corporate income and excise tax on behalf of owners that elect to be included in the composite return filed by the entity. Distributive income subject to this election does not include the distributive share that under this chapter or ORS chapter 317 or 318 must be included in the apportionable income of any direct partner that is a corporate partner, as defined in ORS 314.731, unless the corporate partner states in writing to the partnership that its distributive share of the partnership’s income and expenses is not required to be included in the corporate partner’s apportionable income. For purposes of this paragraph, a corporate partner’s distributive share is presumed to be included in the partner’s own apportionable income unless the partner provides the statement to the partnership representative.
+
+      (b) Distributive income subject to this election does not include the distributive share that under this chapter or ORS chapter 317 or 318 must be included in the apportionable income of an indirect partner that is a corporate partner, as defined in ORS 314.731, provided that the partnership can reasonably determine this.
 
       (2) A pass-through entity shall file a composite return under this section only if one or more owners that are nonresidents make an election under this section.
 
-      (3) The election shall be made by owners in the time, form and manner prescribed by the Department of Revenue.
+      (3) The election is irrevocable and shall be made by owners in the time, form and manner prescribed by the Department of Revenue.
 
-      (4) The composite return shall report the share of distributive income of each electing owner, the share of distributive income from Oregon sources of each electing owner, the amount of tax withheld under ORS 314.781 on behalf of each electing owner and any other information required by the department. The composite return shall be filed with the department in the time, form and manner prescribed by the department.
+      (4) The composite return shall report the share of distributive income of each electing owner, the share of distributive income from Oregon sources of each electing owner and any other information required by the department. The composite return shall be filed with the department in the time, form and manner prescribed by the department. The pass-through entity shall file an amended composite return to report adjustments arising from an audit or other action by the Internal Revenue Service or to correct any item reported on the original composite return.
 
       (5)(a) An electing owner may file a nonresident personal income tax return or a corporate excise or income tax return for the tax year of the electing owner in which the electing owner’s share of distributive income reported on the composite return is properly reportable.
 
-      (b) An electing owner that files a return under this subsection shall receive credit for any tax paid on behalf of the owner by the pass-through entity. [2005 c.387 §2]
+      (b) An electing owner that files a return under this subsection shall be allowed a subtraction under ORS chapter 316, 317 or 318 for its share of distributive income reported on the composite return.
+
+      (6)(a) A pass-through entity that files a composite return under this section is subject to the administrative provisions of this chapter and ORS chapter 305.
+
+      (b) The department may adopt rules to prevent double taxation or double deduction of any amount included in the computation of income under this section. [2005 c.387 §2; 2019 c.132 §9]
+
+ 
+
+      Note: See note under 314.731.
 
  
 
@@ -3489,6 +3753,12 @@ ADMINISTRATIVE PROVISIONS
 
       (w) The Secretary of State for the purpose of initiating or supporting a recommendation under ORS 60.032 (3) or 63.032 (3) to administratively dissolve a corporation or limited liability company that the Director of the Department of Revenue determines has failed to comply with applicable tax laws of the state.
 
+      (x)(A) A multijurisdictional information sharing organization formed with oversight by the Internal Revenue Service to combat identity theft and fraud, if the Department of Revenue is a member of the organization; and
+
+      (B) Tax preparation software vendors that are members of an organization described in subparagraph (A) of this paragraph, if information described in ORS 314.835 is shared for the purpose of investigating industry leads of potential identity theft or fraud.
+
+      (y) The State Treasurer, for the purpose of providing employer responses, as indicated on annual withholding reports submitted to the Department of Revenue, about whether an employer offers a qualified retirement savings plan as listed in ORS 178.215.
+
       (3)(a) Each officer or employee of the department and each person described or referred to in subsection (2)(a), (b), (f) to (L), (n) to (q) or (w) of this section to whom disclosure or access to the tax information is given under subsection (2) of this section or any other provision of state law, prior to beginning employment or the performance of duties involving such disclosure or access, shall be advised in writing of the provisions of ORS 314.835 and 314.991, relating to penalties for the violation of ORS 314.835, and shall as a condition of employment or performance of duties execute a certificate for the department, in a form prescribed by the department, stating in substance that the person has read these provisions of law, that the person has had them explained and that the person is aware of the penalties for the violation of ORS 314.835.
 
       (b) The disclosure authorized in subsection (2)(r) of this section shall be made only after a written agreement has been entered into between the Department of Revenue and the person described in subsection (2)(r) of this section to whom disclosure or access to the tax information is given, providing that:
@@ -3499,11 +3769,255 @@ ADMINISTRATIVE PROVISIONS
 
       (C) The United States Postal Inspection Service or the federal law enforcement agency shall give notice to the Department of Revenue of any request received under the federal Freedom of Information Act, 5 U.S.C. 552, or other federal law relating to the disclosure of information.
 
-      (4) The Department of Revenue may recover the costs of furnishing the information described in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies. [1957 c.632 §35 (enacted in lieu of 316.745 and 317.540); 1959 c.114 §1; 1971 c.682 §2; 1973 c.106 §1; 1975 c.368 §9; 1975 c.789 §19; 1977 c.430 §3; 1979 c.690 §2; 1981 c.827 §1; 1985 c.605 §20; 1987 c.94 §102; 1987 c.647 §9; 1987 c.884 §1; 1989 c.348 §15; 1989 c.901 §6; 1991 c.362 §3; 1991 c.374 §1; 1991 c.882 §14; 1993 c.18 §76; 1993 c.694 §42; 1993 c.726 §26; 1997 c.170 §43; 1999 c.224 §3; 1999 c.580 §2; 1999 c.656 §1; 2001 c.3 §1; 2001 c.28 §4; 2003 c.541 §5; 2007 c.321 §1; 2009 c.595 §203; 2009 c.640 §2; 2011 c.476 §2; 2011 c.653 §10; 2012 c.107 §11; 2013 c.36 §66; 2013 c.53 §17; 2015 c.318 §13; 2015 c.348 §16; 2017 c.705 §32]
+      (4) The Department of Revenue may recover the costs of furnishing the information described in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies. [1957 c.632 §35 (enacted in lieu of 316.745 and 317.540); 1959 c.114 §1; 1971 c.682 §2; 1973 c.106 §1; 1975 c.368 §9; 1975 c.789 §19; 1977 c.430 §3; 1979 c.690 §2; 1981 c.827 §1; 1985 c.605 §20; 1987 c.94 §102; 1987 c.647 §9; 1987 c.884 §1; 1989 c.348 §15; 1989 c.901 §6; 1991 c.362 §3; 1991 c.374 §1; 1991 c.882 §14; 1993 c.18 §76; 1993 c.694 §42; 1993 c.726 §26; 1997 c.170 §43; 1999 c.224 §3; 1999 c.580 §2; 1999 c.656 §1; 2001 c.3 §1; 2001 c.28 §4; 2003 c.541 §5; 2007 c.321 §1; 2009 c.595 §203; 2009 c.640 §2; 2011 c.476 §2; 2011 c.653 §10; 2012 c.107 §11; 2013 c.36 §66; 2013 c.53 §17; 2015 c.318 §13; 2015 c.348 §16; 2017 c.705 §32; 2019 c.133 §1; 2019 c.317 §2]
 
  
 
-      Note: Legislative Counsel has substituted “chapter 694, Oregon Laws 1993,” for the words “this 1993 Act” in section 42, chapter 694, Oregon Laws 1993, which amended 314.840. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 20 of ORS.
+Note 1: The amendments to 314.840 by section 3, chapter 316, Oregon Laws 2019, apply to tax returns filed on or after January 1, 2021. See section 4, chapter 316, Oregon Laws 2019. The text that applies to tax returns filed on or after January 1, 2021, is set forth for the user’s convenience.
+
+      314.840. (1) The Department of Revenue may:
+
+      (a) Furnish any taxpayer, representative authorized to represent the taxpayer under ORS 305.230 or person designated by the taxpayer under ORS 305.193, upon request of the taxpayer, representative or designee, with a copy of the taxpayer’s income tax return filed with the department for any year, or with a copy of any report filed by the taxpayer in connection with the return, or with any other information the department considers necessary.
+
+      (b) Publish lists of taxpayers who are entitled to unclaimed tax refunds.
+
+      (c) Publish statistics so classified as to prevent the identification of income or any particulars contained in any report or return.
+
+      (d) Disclose a taxpayer’s name, address, telephone number, refund amount, amount due, Social Security number, employer identification number or other taxpayer identification number to the extent necessary in connection with collection activities or the processing and mailing of correspondence or of forms for any report or return required in the administration of any local tax under ORS 305.620 or any law imposing a tax upon or measured by net income.
+
+      (2) The department also may disclose and give access to information described in ORS 314.835 to:
+
+      (a) The Governor of the State of Oregon or the authorized representative of the Governor with respect to an individual who is designated as being under consideration for appointment or reappointment to an office or for employment in the office of the Governor. The information disclosed shall be confined to whether the individual:
+
+      (A) Has filed returns with respect to the taxes imposed by ORS chapter 316 for those of not more than the three immediately preceding years for which the individual was required to file an Oregon individual income tax return.
+
+      (B) Has failed to pay any tax within 30 days from the date of mailing of a deficiency notice or otherwise respond to a deficiency notice within 30 days of its mailing.
+
+      (C) Has been assessed any penalty under the Oregon personal income tax laws and the nature of the penalty.
+
+      (D) Has been or is under investigation for possible criminal offenses under the Oregon personal income tax laws. Information disclosed pursuant to this paragraph shall be used only for the purpose of making the appointment, reappointment or decision to employ or not to employ the individual in the office of the Governor.
+
+      (b) An officer or employee of the Oregon Department of Administrative Services duly authorized or employed to prepare revenue estimates, or a person contracting with the Oregon Department of Administrative Services to prepare revenue estimates, in the preparation of revenue estimates required for the Governor’s budget under ORS 291.201 to 291.224, or required for submission to the Emergency Board or the Joint Interim Committee on Ways and Means, or if the Legislative Assembly is in session, to the Joint Committee on Ways and Means, and to the Legislative Revenue Officer or Legislative Fiscal Officer under ORS 291.342, 291.348 and 291.445. The Department of Revenue shall disclose and give access to the information described in ORS 314.835 for the purposes of this paragraph only if:
+
+      (A) The request for information is made in writing, specifies the purposes for which the request is made and is signed by an authorized representative of the Oregon Department of Administrative Services. The form for request for information shall be prescribed by the Oregon Department of Administrative Services and approved by the Director of the Department of Revenue.
+
+      (B) The officer, employee or person receiving the information does not remove from the premises of the Department of Revenue any materials that would reveal the identity of a personal or corporate taxpayer.
+
+      (c) The Commissioner of Internal Revenue or authorized representative, for tax administration and compliance purposes only.
+
+      (d) For tax administration and compliance purposes, the proper officer or authorized representative of any of the following entities that has or is governed by a provision of law that meets the requirements of any applicable provision of the Internal Revenue Code as to confidentiality:
+
+      (A) A state;
+
+      (B) A city, county or other political subdivision of a state;
+
+      (C) The District of Columbia; or
+
+      (D) An association established exclusively to provide services to federal, state or local taxing authorities.
+
+      (e) The Multistate Tax Commission or its authorized representatives, for tax administration and compliance purposes only. The Multistate Tax Commission may make the information available to the Commissioner of Internal Revenue or the proper officer or authorized representative of any governmental entity described in and meeting the qualifications of paragraph (d) of this subsection.
+
+      (f) The Attorney General, assistants and employees in the Department of Justice, or other legal representative of the State of Oregon, to the extent the department deems disclosure or access necessary for the performance of the duties of advising or representing the department pursuant to ORS 180.010 to 180.240 and the tax laws of the state.
+
+      (g) Employees of the State of Oregon, other than of the Department of Revenue or Department of Justice, to the extent the department deems disclosure or access necessary for such employees to perform their duties under contracts or agreements between the department and any other department, agency or subdivision of the State of Oregon, in the department’s administration of the tax laws.
+
+      (h) Other persons, partnerships, corporations and other legal entities, and their employees, to the extent the department deems disclosure or access necessary for the performance of such others’ duties under contracts or agreements between the department and such legal entities, in the department’s administration of the tax laws.
+
+      (i) The Legislative Revenue Officer or authorized representatives upon compliance with ORS 173.850. Such officer or representative shall not remove from the premises of the department any materials that would reveal the identity of any taxpayer or any other person.
+
+      (j) The Department of Consumer and Business Services, to the extent the department requires such information to determine whether it is appropriate to adjust those workers’ compensation benefits the amount of which is based pursuant to ORS chapter 656 on the amount of wages or earned income received by an individual.
+
+      (k) Any agency of the State of Oregon, or any person, or any officer or employee of such agency or person to whom disclosure or access is given by state law and not otherwise referred to in this section, including but not limited to the Secretary of State as Auditor of Public Accounts under Article VI, section 2, of the Oregon Constitution; the Department of Human Services pursuant to ORS 412.094; the Division of Child Support of the Department of Justice and district attorney regarding cases for which they are providing support enforcement services under ORS 25.080; the State Board of Tax Practitioners, pursuant to ORS 673.710; and the Oregon Board of Accountancy, pursuant to ORS 673.415.
+
+      (L) The Director of the Department of Consumer and Business Services to determine that a person complies with ORS chapter 656 and the Director of the Employment Department to determine that a person complies with ORS chapter 657, the following employer information:
+
+      (A) Identification numbers.
+
+      (B) Names and addresses.
+
+      (C) Inception date as employer.
+
+      (D) Nature of business.
+
+      (E) Entity changes.
+
+      (F) Date of last payroll.
+
+      (m) The Director of the Oregon Health Authority to determine that a person has the ability to pay for care that includes services provided by the Oregon State Hospital, or the Oregon Health Authority to collect any unpaid cost of care as provided by ORS chapter 179.
+
+      (n) Employees of the Employment Department to the extent the Department of Revenue deems disclosure or access to information on a combined tax report filed under ORS 316.168 is necessary to performance of their duties in administering the tax imposed by ORS chapter 657.
+
+      (o) The State Fire Marshal to assist the State Fire Marshal in carrying out duties, functions and powers under ORS 453.307 to 453.414, the employer or agent name, address, telephone number and standard industrial classification, if available.
+
+      (p) Employees of the Department of State Lands for the purposes of identifying, locating and publishing lists of taxpayers entitled to unclaimed refunds as required by the provisions of chapter 694, Oregon Laws 1993. The information shall be limited to the taxpayer’s name, address and the refund amount.
+
+      (q) In addition to the disclosure allowed under ORS 305.225, state or local law enforcement agencies to assist in the investigation or prosecution of the following criminal activities:
+
+      (A) Mail theft of a check, in which case the information that may be disclosed shall be limited to the stolen document, the name, address and taxpayer identification number of the payee, the amount of the check and the date printed on the check.
+
+      (B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Department of Revenue or issued by the Department of Revenue to a taxpayer, in which case the information that may be disclosed shall be limited to the counterfeit, forged or altered document, the name, address and taxpayer identification number of the payee, the amount of the check, the date printed on the check and the altered name and address.
+
+      (r) The United States Postal Inspection Service or a federal law enforcement agency, including but not limited to the United States Department of Justice, to assist in the investigation of the following criminal activities:
+
+      (A) Mail theft of a check, in which case the information that may be disclosed shall be limited to the stolen document, the name, address and taxpayer identification number of the payee, the amount of the check and the date printed on the check.
+
+      (B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Department of Revenue or issued by the Department of Revenue to a taxpayer, in which case the information that may be disclosed shall be limited to the counterfeit, forged or altered document, the name, address and taxpayer identification number of the payee, the amount of the check, the date printed on the check and the altered name and address.
+
+      (s) The United States Financial Management Service, for purposes of facilitating the offsets described in ORS 305.612.
+
+      (t) A municipal corporation of this state for purposes of assisting the municipal corporation in the administration of a tax of the municipal corporation that is imposed on or measured by income, wages or net earnings from self-employment. Any disclosure under this paragraph may be made only pursuant to a written agreement between the Department of Revenue and the municipal corporation that ensures the confidentiality of the information disclosed.
+
+      (u) A consumer reporting agency, to the extent necessary to carry out the purposes of ORS 314.843.
+
+      (v) The Public Employees Retirement Board, to the extent necessary to carry out the purposes of ORS 238.372 to 238.384, and to any public employer, to the extent necessary to carry out the purposes of ORS 237.635 (3) and 237.637 (2).
+
+      (w) The Secretary of State for the purpose of initiating or supporting a recommendation under ORS 60.032 (3) or 63.032 (3) to administratively dissolve a corporation or limited liability company that the Director of the Department of Revenue determines has failed to comply with applicable tax laws of the state.
+
+      (x)(A) A multijurisdictional information sharing organization formed with oversight by the Internal Revenue Service to combat identity theft and fraud, if the Department of Revenue is a member of the organization; and
+
+      (B) Tax preparation software vendors that are members of an organization described in subparagraph (A) of this paragraph, if information described in ORS 314.835 is shared for the purpose of investigating industry leads of potential identity theft or fraud.
+
+      (y) The State Treasurer, for the purpose of providing employer responses, as indicated on annual withholding reports submitted to the Department of Revenue, about whether an employer offers a qualified retirement savings plan as listed in ORS 178.215.
+
+      (z) The Oregon 529 Savings Board, for the purpose of facilitating the establishment of accounts by personal income taxpayers under ORS 178.335 within the Oregon 529 Savings Network through the use of income tax return forms.
+
+      (3)(a) Each officer or employee of the department and each person described or referred to in subsection (2)(a), (b), (f) to (L), (n) to (q) or (w) of this section to whom disclosure or access to the tax information is given under subsection (2) of this section or any other provision of state law, prior to beginning employment or the performance of duties involving such disclosure or access, shall be advised in writing of the provisions of ORS 314.835 and 314.991, relating to penalties for the violation of ORS 314.835, and shall as a condition of employment or performance of duties execute a certificate for the department, in a form prescribed by the department, stating in substance that the person has read these provisions of law, that the person has had them explained and that the person is aware of the penalties for the violation of ORS 314.835.
+
+      (b) The disclosure authorized in subsection (2)(r) of this section shall be made only after a written agreement has been entered into between the Department of Revenue and the person described in subsection (2)(r) of this section to whom disclosure or access to the tax information is given, providing that:
+
+      (A) Any information described in ORS 314.835 that is received by the person pursuant to subsection (2)(r) of this section is confidential information that may not be disclosed, except to the extent necessary to investigate or prosecute the criminal activities described in subsection (2)(r) of this section;
+
+      (B) The information shall be protected as confidential under applicable federal and state laws; and
+
+      (C) The United States Postal Inspection Service or the federal law enforcement agency shall give notice to the Department of Revenue of any request received under the federal Freedom of Information Act, 5 U.S.C. 552, or other federal law relating to the disclosure of information.
+
+      (4) The Department of Revenue may recover the costs of furnishing the information described in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies.
+
+ 
+
+Note 2: The amendments to 314.840 by section 65, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      314.840. (1) The Department of Revenue may:
+
+      (a) Furnish any taxpayer, representative authorized to represent the taxpayer under ORS 305.230 or person designated by the taxpayer under ORS 305.193, upon request of the taxpayer, representative or designee, with a copy of the taxpayer’s income tax return filed with the department for any year, or with a copy of any report filed by the taxpayer in connection with the return, or with any other information the department considers necessary.
+
+      (b) Publish lists of taxpayers who are entitled to unclaimed tax refunds.
+
+      (c) Publish statistics so classified as to prevent the identification of income or any particulars contained in any report or return.
+
+      (d) Disclose a taxpayer’s name, address, telephone number, refund amount, amount due, Social Security number, employer identification number or other taxpayer identification number to the extent necessary in connection with collection activities or the processing and mailing of correspondence or of forms for any report or return required in the administration of any local tax under ORS 305.620 or any law imposing a tax upon or measured by net income.
+
+      (2) The department also may disclose and give access to information described in ORS 314.835 to:
+
+      (a) The Governor of the State of Oregon or the authorized representative of the Governor with respect to an individual who is designated as being under consideration for appointment or reappointment to an office or for employment in the office of the Governor. The information disclosed shall be confined to whether the individual:
+
+      (A) Has filed returns with respect to the taxes imposed by ORS chapter 316 for those of not more than the three immediately preceding years for which the individual was required to file an Oregon individual income tax return.
+
+      (B) Has failed to pay any tax within 30 days from the date of mailing of a deficiency notice or otherwise respond to a deficiency notice within 30 days of its mailing.
+
+      (C) Has been assessed any penalty under the Oregon personal income tax laws and the nature of the penalty.
+
+      (D) Has been or is under investigation for possible criminal offenses under the Oregon personal income tax laws. Information disclosed pursuant to this paragraph shall be used only for the purpose of making the appointment, reappointment or decision to employ or not to employ the individual in the office of the Governor.
+
+      (b) An officer or employee of the Oregon Department of Administrative Services duly authorized or employed to prepare revenue estimates, or a person contracting with the Oregon Department of Administrative Services to prepare revenue estimates, in the preparation of revenue estimates required for the Governor’s budget under ORS 291.201 to 291.224, or required for submission to the Emergency Board or the Joint Interim Committee on Ways and Means, or if the Legislative Assembly is in session, to the Joint Committee on Ways and Means, and to the Legislative Revenue Officer or Legislative Fiscal Officer under ORS 291.342, 291.348 and 291.445. The Department of Revenue shall disclose and give access to the information described in ORS 314.835 for the purposes of this paragraph only if:
+
+      (A) The request for information is made in writing, specifies the purposes for which the request is made and is signed by an authorized representative of the Oregon Department of Administrative Services. The form for request for information shall be prescribed by the Oregon Department of Administrative Services and approved by the Director of the Department of Revenue.
+
+      (B) The officer, employee or person receiving the information does not remove from the premises of the Department of Revenue any materials that would reveal the identity of a personal or corporate taxpayer.
+
+      (c) The Commissioner of Internal Revenue or authorized representative, for tax administration and compliance purposes only.
+
+      (d) For tax administration and compliance purposes, the proper officer or authorized representative of any of the following entities that has or is governed by a provision of law that meets the requirements of any applicable provision of the Internal Revenue Code as to confidentiality:
+
+      (A) A state;
+
+      (B) A city, county or other political subdivision of a state;
+
+      (C) The District of Columbia; or
+
+      (D) An association established exclusively to provide services to federal, state or local taxing authorities.
+
+      (e) The Multistate Tax Commission or its authorized representatives, for tax administration and compliance purposes only. The Multistate Tax Commission may make the information available to the Commissioner of Internal Revenue or the proper officer or authorized representative of any governmental entity described in and meeting the qualifications of paragraph (d) of this subsection.
+
+      (f) The Attorney General, assistants and employees in the Department of Justice, or other legal representative of the State of Oregon, to the extent the department deems disclosure or access necessary for the performance of the duties of advising or representing the department pursuant to ORS 180.010 to 180.240 and the tax laws of the state.
+
+      (g) Employees of the State of Oregon, other than of the Department of Revenue or Department of Justice, to the extent the department deems disclosure or access necessary for such employees to perform their duties under contracts or agreements between the department and any other department, agency or subdivision of the State of Oregon, in the department’s administration of the tax laws.
+
+      (h) Other persons, partnerships, corporations and other legal entities, and their employees, to the extent the department deems disclosure or access necessary for the performance of such others’ duties under contracts or agreements between the department and such legal entities, in the department’s administration of the tax laws.
+
+      (i) The Legislative Revenue Officer or authorized representatives upon compliance with ORS 173.850. Such officer or representative shall not remove from the premises of the department any materials that would reveal the identity of any taxpayer or any other person.
+
+      (j) The Department of Consumer and Business Services, to the extent the department requires such information to determine whether it is appropriate to adjust those workers’ compensation benefits the amount of which is based pursuant to ORS chapter 656 on the amount of wages or earned income received by an individual.
+
+      (k) Any agency of the State of Oregon, or any person, or any officer or employee of such agency or person to whom disclosure or access is given by state law and not otherwise referred to in this section, including but not limited to the Secretary of State as Auditor of Public Accounts under Article VI, section 2, of the Oregon Constitution; the Department of Human Services pursuant to ORS 412.094; the Division of Child Support of the Department of Justice and district attorney regarding cases for which they are providing support enforcement services under ORS 25.080; the State Board of Tax Practitioners, pursuant to ORS 673.710; and the Oregon Board of Accountancy, pursuant to ORS 673.415.
+
+      (L) The Director of the Department of Consumer and Business Services to determine that a person complies with ORS chapter 656 and the Director of the Employment Department to determine that a person complies with ORS chapter 657, the following employer information:
+
+      (A) Identification numbers.
+
+      (B) Names and addresses.
+
+      (C) Inception date as employer.
+
+      (D) Nature of business.
+
+      (E) Entity changes.
+
+      (F) Date of last payroll.
+
+      (m) The Director of the Oregon Health Authority to determine that a person has the ability to pay for care that includes services provided by the Oregon State Hospital, or the Oregon Health Authority to collect any unpaid cost of care as provided by ORS chapter 179.
+
+      (n) Employees of the Employment Department to the extent the Department of Revenue deems disclosure or access to information on a combined tax report filed under ORS 316.168 is necessary to performance of their duties in administering the tax imposed by ORS chapter 657.
+
+      (o) The State Fire Marshal to assist the State Fire Marshal in carrying out duties, functions and powers under ORS 453.307 to 453.414, the employer or agent name, address, telephone number and standard industrial classification, if available.
+
+      (p) Employees of the Department of State Lands or State Treasurer for the purposes of returning unclaimed property and identifying, locating and publishing lists of taxpayers entitled to unclaimed refunds under ORS 98.302 to 98.436.
+
+      (q) In addition to the disclosure allowed under ORS 305.225, state or local law enforcement agencies to assist in the investigation or prosecution of the following criminal activities:
+
+      (A) Mail theft of a check, in which case the information that may be disclosed shall be limited to the stolen document, the name, address and taxpayer identification number of the payee, the amount of the check and the date printed on the check.
+
+      (B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Department of Revenue or issued by the Department of Revenue to a taxpayer, in which case the information that may be disclosed shall be limited to the counterfeit, forged or altered document, the name, address and taxpayer identification number of the payee, the amount of the check, the date printed on the check and the altered name and address.
+
+      (r) The United States Postal Inspection Service or a federal law enforcement agency, including but not limited to the United States Department of Justice, to assist in the investigation of the following criminal activities:
+
+      (A) Mail theft of a check, in which case the information that may be disclosed shall be limited to the stolen document, the name, address and taxpayer identification number of the payee, the amount of the check and the date printed on the check.
+
+      (B) The counterfeiting, forging or altering of a check submitted by a taxpayer to the Department of Revenue or issued by the Department of Revenue to a taxpayer, in which case the information that may be disclosed shall be limited to the counterfeit, forged or altered document, the name, address and taxpayer identification number of the payee, the amount of the check, the date printed on the check and the altered name and address.
+
+      (s) The United States Financial Management Service, for purposes of facilitating the offsets described in ORS 305.612.
+
+      (t) A municipal corporation of this state for purposes of assisting the municipal corporation in the administration of a tax of the municipal corporation that is imposed on or measured by income, wages or net earnings from self-employment. Any disclosure under this paragraph may be made only pursuant to a written agreement between the Department of Revenue and the municipal corporation that ensures the confidentiality of the information disclosed.
+
+      (u) A consumer reporting agency, to the extent necessary to carry out the purposes of ORS 314.843.
+
+      (v) The Public Employees Retirement Board, to the extent necessary to carry out the purposes of ORS 238.372 to 238.384, and to any public employer, to the extent necessary to carry out the purposes of ORS 237.635 (3) and 237.637 (2).
+
+      (w) The Secretary of State for the purpose of initiating or supporting a recommendation under ORS 60.032 (3) or 63.032 (3) to administratively dissolve a corporation or limited liability company that the Director of the Department of Revenue determines has failed to comply with applicable tax laws of the state.
+
+      (x)(A) A multijurisdictional information sharing organization formed with oversight by the Internal Revenue Service to combat identity theft and fraud, if the Department of Revenue is a member of the organization; and
+
+      (B) Tax preparation software vendors that are members of an organization described in subparagraph (A) of this paragraph, if information described in ORS 314.835 is shared for the purpose of investigating industry leads of potential identity theft or fraud.
+
+      (y) The State Treasurer, for the purpose of providing employer responses, as indicated on annual withholding reports submitted to the Department of Revenue, about whether an employer offers a qualified retirement savings plan as listed in ORS 178.215.
+
+      (z) The Oregon 529 Savings Board, for the purpose of facilitating the establishment of accounts by personal income taxpayers under ORS 178.335 within the Oregon 529 Savings Network through the use of income tax return forms.
+
+      (3)(a) Each officer or employee of the department and each person described or referred to in subsection (2)(a), (b), (f) to (L), (n) to (q) or (w) of this section to whom disclosure or access to the tax information is given under subsection (2) of this section or any other provision of state law, prior to beginning employment or the performance of duties involving such disclosure or access, shall be advised in writing of the provisions of ORS 314.835 and 314.991, relating to penalties for the violation of ORS 314.835, and shall as a condition of employment or performance of duties execute a certificate for the department, in a form prescribed by the department, stating in substance that the person has read these provisions of law, that the person has had them explained and that the person is aware of the penalties for the violation of ORS 314.835.
+
+      (b) The disclosure authorized in subsection (2)(r) of this section shall be made only after a written agreement has been entered into between the Department of Revenue and the person described in subsection (2)(r) of this section to whom disclosure or access to the tax information is given, providing that:
+
+      (A) Any information described in ORS 314.835 that is received by the person pursuant to subsection (2)(r) of this section is confidential information that may not be disclosed, except to the extent necessary to investigate or prosecute the criminal activities described in subsection (2)(r) of this section;
+
+      (B) The information shall be protected as confidential under applicable federal and state laws; and
+
+      (C) The United States Postal Inspection Service or the federal law enforcement agency shall give notice to the Department of Revenue of any request received under the federal Freedom of Information Act, 5 U.S.C. 552, or other federal law relating to the disclosure of information.
+
+      (4) The Department of Revenue may recover the costs of furnishing the information described in subsection (2)(L), (m) and (o) to (q) of this section from the respective agencies.
+
+ 
+
+      Note: Legislative Counsel has substituted “chapter 694, Oregon Laws 1993,” for the words “this 1993 Act” in section 42, chapter 694, Oregon Laws 1993, which amended 314.840. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 22 of ORS.
 
  
 

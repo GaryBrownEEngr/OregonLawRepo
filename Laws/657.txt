@@ -4,16 +4,6 @@ Chapter 657 — Unemployment Insurance
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0075
-
- 
-
- 
-
 
  
 
@@ -323,7 +313,7 @@ BENEFITS AND CLAIMS
 
  
 
-657.221     Ineligibility for benefits of certain educational institution personnel
+657.221     Ineligibility for benefits of certain educational institution employees; exceptions
 
  
 
@@ -332,6 +322,10 @@ BENEFITS AND CLAIMS
  
 
 657.260     Filing claims for benefits; employer to post statements concerning claim regulations; rules
+
+ 
+
+657.262     Information provided by public employer to employees
 
  
 
@@ -436,8 +430,6 @@ BENEFITS AND CLAIMS
  
 
 657.328     Eligibility period adopted by rule
-
- 
 
 657.329     Applicability of ORS 657.321 to 657.329
 
@@ -1091,7 +1083,7 @@ DEFINITIONS
 
       (d) Is a public or other nonprofit institution.
 
-      (10) “Internal Revenue Code” means the federal Internal Revenue Code, as amended and in effect on December 31, 2016.
+      (10) “Internal Revenue Code” means the federal Internal Revenue Code, as amended and in effect on December 31, 2018.
 
       (11) “Nonprofit employing unit” means an organization, or group of organizations, described in section 501(c)(3) of the Internal Revenue Code that is exempt from income tax under section 501(a) of the Internal Revenue Code.
 
@@ -1101,7 +1093,7 @@ DEFINITIONS
 
       (14) “Valid claim” means any claim for benefits made in accordance with ORS 657.260 if the individual meets the wages-paid-for-employment requirements of ORS 657.150.
 
-      (15) “Week” means any period of seven consecutive calendar days ending at midnight, as the director may, by regulation, prescribe. The director may by regulation prescribe that a “week” shall be “in,” “within,” or “during” the calendar quarter that includes the greater part of such week. [Amended by 1959 c.642 §1; 1961 c.252 §1; 1963 c.13 §1; 1969 c.597 §174; 1971 c.463 §1; 1977 c.241 §1; 1983 c.528 §1; 1993 c.344 §3; 2005 c.218 §3; 2007 c.614 §16; 2008 c.45 §17; 2009 c.5 §27; 2009 c.595 §1042; 2009 c.909 §30; 2010 c.82 §32; 2011 c.7 §27; 2012 c.31 §27; 2013 c.377 §27; 2014 c.52 §29; 2015 c.442 §21; 2016 c.33 §25; 2017 c.527 §26]
+      (15) “Week” means any period of seven consecutive calendar days ending at midnight, as the director may, by regulation, prescribe. The director may by regulation prescribe that a “week” shall be “in,” “within,” or “during” the calendar quarter that includes the greater part of such week. [Amended by 1959 c.642 §1; 1961 c.252 §1; 1963 c.13 §1; 1969 c.597 §174; 1971 c.463 §1; 1977 c.241 §1; 1983 c.528 §1; 1993 c.344 §3; 2005 c.218 §3; 2007 c.614 §16; 2008 c.45 §17; 2009 c.5 §27; 2009 c.595 §1042; 2009 c.909 §30; 2010 c.82 §32; 2011 c.7 §27; 2012 c.31 §27; 2013 c.377 §27; 2014 c.52 §29; 2015 c.442 §21; 2016 c.33 §25; 2017 c.527 §26; 2018 c.101 §26; 2019 c.319 §28]
 
  
 
@@ -1225,7 +1217,7 @@ DEFINITIONS
 
  
 
-      657.042 [1981 c.895 §3; 1983 c.579 §1; repealed by 1989 c.762 §8 and 1989 c.870 §14]
+657.042 [1981 c.895 §3; 1983 c.579 §1; repealed by 1989 c.762 §8 and 1989 c.870 §14]
 
  
 
@@ -1449,7 +1441,7 @@ DEFINITIONS
 
  
 
-      657.055 [Amended by 1959 c.405 §4; repealed by 1961 c.349 §3]
+657.055 [Amended by 1959 c.405 §4; repealed by 1961 c.349 §3]
 
  
 
@@ -1489,13 +1481,13 @@ DEFINITIONS
 
       (d) As a member of a legislative body or a member of the judiciary.
 
-      (e) By an inmate of a custodial or penal institution when such services are performed for the custodial or penal institution in which the inmate is confined.
+      (e) By an adult in custody in a custodial or penal institution when such services are performed for the custodial or penal institution in which the adult in custody is confined.
 
       (f) As a member of the Oregon Army National Guard or Oregon Air National Guard.
 
       (3) The provisions of ORS 657.425 permitting election of coverage for services that do not constitute “employment” do not apply to services performed as an elected public or tribal official.
 
-      (4) Notwithstanding the provisions of ORS 657.025, “employer” means any state government, political subdivision or Indian tribe employing unit. [Amended by 1955 c.655 §4; 1957 c.682 §2; subsection (2) enacted as 1957 c.682 §4; 1959 c.398 §2; 1959 c.665 §1; 1961 c.452 §1; 1969 c.275 §1; 1971 c.463 §9; 1973 c.715 §2; 1975 c.156 §2; 1977 c.446 §3; 2001 c.572 §7]
+      (4) Notwithstanding the provisions of ORS 657.025, “employer” means any state government, political subdivision or Indian tribe employing unit. [Amended by 1955 c.655 §4; 1957 c.682 §2; subsection (2) enacted as 1957 c.682 §4; 1959 c.398 §2; 1959 c.665 §1; 1961 c.452 §1; 1969 c.275 §1; 1971 c.463 §9; 1973 c.715 §2; 1975 c.156 §2; 1977 c.446 §3; 2001 c.572 §7; 2019 c.213 §114]
 
  
 
@@ -1513,7 +1505,7 @@ DEFINITIONS
 
  
 
-      657.070 [Repealed by 1971 c.463 §20]
+657.070 [Repealed by 1971 c.463 §20]
 
  
 
@@ -1623,13 +1615,25 @@ DEFINITIONS
 
  
 
+      Note: The amendments to 657.100 by section 54, chapter 700, Oregon Laws 2019, become operative January 1, 2023. See section 63, chapter 700, Oregon Laws 2019. The text that is operative on and after January 1, 2023, is set forth for the user’s convenience.
+
+657.100. (1) An individual is deemed “unemployed” in any week during which the individual performs no services and with respect to which no remuneration for services performed is paid or payable to the individual, or in any week of less than full-time work if the remuneration paid or payable to the individual for services performed during the week is less than the individual’s weekly benefit amount.
+
+      (2) For the purposes of ORS 657.155 (1), an individual who performs full-time services in any week for an employing unit is not unemployed even though remuneration is neither paid nor payable to the individual for the services performed; however, nothing in this subsection shall prevent an individual from meeting the definition of “unemployed” as used in this section solely by reason of the individual’s performance of volunteer services without remuneration for a charitable institution or a governmental entity.
+
+      (3) An individual may not be deemed “unemployed” under this section for any week in which the individual is receiving family and medical leave insurance benefits under ORS chapter 657B.
+
+      (4) The Director of the Employment Department shall prescribe rules as the director deems necessary with respect to the various types of unemployment.
+
+ 
+
       657.105 Wages; generally. (1) As used in this chapter, unless the context requires otherwise, and subject to ORS 657.115 to 657.140, “wages” means all remuneration for employment, including the cash value, as determined by the Director of the Employment Department under the regulations of the director, of all remuneration paid in any medium other than cash.
 
       (2) Notwithstanding the provisions of subsection (1) of this section, noncash remuneration paid for services performed in agricultural labor or domestic service shall not be considered remuneration or wages for any purpose under this chapter. [Amended by 1975 c.257 §4; 1977 c.446 §6]
 
  
 
-      657.110 [Repealed by 1973 c.300 §15]
+657.110 [Repealed by 1973 c.300 §15]
 
  
 
@@ -1717,7 +1721,7 @@ BENEFITS AND CLAIMS
 
  
 
-      657.145 [1977 c.447 §2; repealed by 1983 c.508 §14]
+657.145 [1977 c.447 §2; repealed by 1983 c.508 §14]
 
  
 
@@ -1847,7 +1851,7 @@ BENEFITS AND CLAIMS
 
  
 
-      657.157 [1989 c.897 §3; repealed by 1995 c.104 §2]
+657.157 [1989 c.897 §3; repealed by 1995 c.104 §2]
 
  
 
@@ -1911,7 +1915,7 @@ BENEFITS AND CLAIMS
 
  
 
-      657.160 [Amended by 1959 c.643 §1; 1961 c.209 §1; 1965 c.213 §1; 1967 c.230 §1; 1969 c.75 §1; repealed by 1973 c.398 §3]
+657.160 [Amended by 1959 c.643 §1; 1961 c.209 §1; 1965 c.213 §1; 1967 c.230 §1; 1969 c.75 §1; repealed by 1973 c.398 §3]
 
  
 
@@ -1977,11 +1981,13 @@ BENEFITS AND CLAIMS
 
  
 
-      657.175 [Repealed by 1955 c.655 §8 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185)]
+657.175 [Repealed by 1955 c.655 §8 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185)]
 
  
 
-      657.176 Grounds and procedure for disqualification; exceptions; rules. (1) An authorized representative designated by the Director of the Employment Department shall promptly examine each claim to determine whether an individual is subject to disqualification as a result of a separation, termination, leaving, resignation, or disciplinary suspension from work or as a result of failure to apply for or accept work and shall promptly enter a director’s decision if required by ORS 657.267. The authorized representative may address issues raised by information before the authorized representative, including but not limited to the nature of the separation, notwithstanding the way the parties characterize those issues.
+      657.176 Grounds and procedure for disqualification; exceptions; rules.
+
+(1) An authorized representative designated by the Director of the Employment Department shall promptly examine each claim to determine whether an individual is subject to disqualification as a result of a separation, termination, leaving, resignation, or disciplinary suspension from work or as a result of failure to apply for or accept work and shall promptly enter a director’s decision if required by ORS 657.267. The authorized representative may address issues raised by information before the authorized representative, including but not limited to the nature of the separation, notwithstanding the way the parties characterize those issues.
 
       (2) An individual shall be disqualified from the receipt of benefits until the individual has performed service in employment subject to this chapter or the equivalent law of another state or Canada or as defined in ORS 657.030 (2) or as an employee of the federal government, for which remuneration is received that equals or exceeds four times the individual’s weekly benefit amount subsequent to the week in which the act causing the disqualification occurred, if the authorized representative designated by the director finds that the individual:
 
@@ -2103,9 +2109,9 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
       (12) An individual may not be disqualified from receiving benefits under subsection (2)(c), (d) or (e) of this section or be considered unavailable for purposes of ORS 657.155 if:
 
-      (a) The individual or a member of the individual’s immediate family is a victim of domestic violence, stalking or sexual assault, or the individual believes that the individual or a member of the individual’s immediate family could become a victim of domestic violence, stalking or sexual assault; and
+      (a) The individual or a member of the individual’s immediate family is a victim of domestic violence, stalking, sexual assault or intimidation, or the individual believes that the individual or a member of the individual’s immediate family could become a victim of domestic violence, stalking, sexual assault or intimidation; and
 
-      (b) The individual leaves work, fails to apply for available suitable work or fails to accept suitable work when offered in order to protect the individual or a member of the individual’s immediate family from domestic violence, stalking or sexual assault that the individual reasonably believes will occur as a result of the individual’s continued employment or acceptance of work.
+      (b) The individual leaves work, fails to apply for available suitable work or fails to accept suitable work when offered in order to protect the individual or a member of the individual’s immediate family from domestic violence, stalking, sexual assault or intimidation that the individual reasonably believes will occur as a result of the individual’s continued employment or acceptance of work.
 
       (13) For purposes of this section:
 
@@ -2113,7 +2119,13 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
       (b) “Drug” means a controlled substance as defined in ORS 475.005.
 
-      (c) “Last chance agreement” means a reasonable agreement:
+      (c) “Intimidation” means:
+
+      (A) Conduct that, in the determination of the director, more likely than not constitutes the crime of intimidation in the first degree described in ORS 166.165 (2017 Edition) or the crime of intimidation in the second degree described in ORS 166.155 (2017 Edition); or
+
+      (B) Similar conduct, as defined by the director by rule.
+
+      (d) “Last chance agreement” means a reasonable agreement:
 
       (A) Between an employer and an employee who has violated the employer’s reasonable written policy, has engaged in drug, cannabis or alcohol use connected with work or has admitted to alcohol abuse, cannabis abuse or unlawful drug use; and
 
@@ -2123,11 +2135,15 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
       (ii) Attend and comply with the requirements of a rehabilitation or education program acceptable to the employer.
 
-      (d) An individual is “under the influence of intoxicants” when the level of alcohol, cannabis or unlawful drugs present in the individual’s body exceeds the amount prescribed in a collective bargaining agreement, or the amount prescribed in the employer’s reasonable written policy if there is no applicable collective bargaining agreement provision. [1955 c.655 §9 (enacted in lieu of 657.175, 657.180 and 657.185); 1957 c.699 §2; 1959 c.643 §2; 1973 c.398 §2; 1977 c.295 §4; 1979 c.267 §2; 1981 c.5 §2; 1981 c.751 §2; 1982 s.s.1 c.2 §6; 1983 c.190 §1; 1983 c.409 §1; 1983 c.508 §6; 1993 c.778 §12; 1995 c.105 §6; 1995 c.178 §1; 1997 c.249 §201; 1997 c.740 §1; 1999 c.256 §1; 1999 c.1067 §1; 2001 c.144 §1; 2003 c.792 §2; 2005 c.278 §1; 2007 c.324 §1; 2009 c.115 §3; 2017 c.21 §65]
+      (e) “Under the influence of intoxicants” means the level of alcohol, cannabis or unlawful drugs present in an individual’s body exceeds the amount prescribed in a collective bargaining agreement or the amount prescribed in the employer’s reasonable written policy if there is no applicable collective bargaining agreement provision. [1955 c.655 §9 (enacted in lieu of 657.175, 657.180 and 657.185); 1957 c.699 §2; 1959 c.643 §2; 1973 c.398 §2; 1977 c.295 §4; 1979 c.267 §2; 1981 c.5 §2; 1981 c.751 §2; 1982 s.s.1 c.2 §6; 1983 c.190 §1; 1983 c.409 §1; 1983 c.508 §6; 1993 c.778 §12; 1995 c.105 §6; 1995 c.178 §1; 1997 c.249 §201; 1997 c.740 §1; 1999 c.256 §1; 1999 c.1067 §1; 2001 c.144 §1; 2003 c.792 §2; 2005 c.278 §1; 2007 c.324 §1; 2009 c.115 §3; 2017 c.21 §65; 2019 c.168 §1]
 
  
 
-      657.178 [1959 c.643 §4; repealed by 1973 c.398 §3]
+      Note: “(2017 Edition)” was added editorially to 657.176 (13)(c)(A) because the crime of intimidation in the second degree described in 166.155, and the crime of intimidation in the first degree described in 166.165, were renamed, and the elements of the crimes amended, by sections 1 and 2, chapter 553, Oregon Laws 2019 (Senate Bill 577).
+
+ 
+
+657.178 [1959 c.643 §4; repealed by 1973 c.398 §3]
 
  
 
@@ -2137,15 +2153,15 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
  
 
-      657.180 [Repealed by 1955 c.655 §8 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185)]
+657.180 [Repealed by 1955 c.655 §8 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185)]
 
  
 
-      657.181 [1955 c.655 §10 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185); 1957 c.699 §3; repealed by 1959 c.643 §5]
+657.181 [1955 c.655 §10 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185); 1957 c.699 §3; repealed by 1959 c.643 §5]
 
  
 
-      657.182 [1961 c.207 §1; 1971 c.743 §404; repealed by 1973 c.398 §3]
+657.182 [1961 c.207 §1; 1971 c.743 §404; repealed by 1973 c.398 §3]
 
  
 
@@ -2153,7 +2169,7 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
  
 
-      657.185 [Repealed by 1955 c.655 §8 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185)]
+657.185 [Repealed by 1955 c.655 §8 (657.176 and 657.181 enacted in lieu of 657.175, 657.180 and 657.185)]
 
  
 
@@ -2221,13 +2237,7 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
  
 
-      Note: Sections 3 and 4, chapter 27, Oregon Laws 2016, provide:
-
-      Sec. 3. (1) Section 2 of this 2016 Act [657.202] applies to weeks that begin on or after the effective date of this 2016 Act [March 8, 2016].
-
-      (2)(a) Notwithstanding subsection (1) of this section, with respect to individuals who are unemployed due to a lockout on the effective date of this 2016 Act and who are otherwise eligible to receive temporary lockout benefits, section 2 of this 2016 Act applies to weeks that begin before, on or after the effective date of this 2016 Act.
-
-      (b) Temporary lockout benefits that are retroactively payable by operation of this subsection must be claimed by the eligible individual, in the manner prescribed in this chapter [ORS chapter 657] for claiming regular benefits, within 60 days after the effective date of this 2016 Act. [2016 c.27 §3]
+      Note: Section 4, chapter 27, Oregon Laws 2016, provides:
 
       Sec. 4. (1) If the United States Secretary of Labor serves notice that the provisions of section 2 of this 2016 Act [657.202] fail to meet the requirements of the Social Security Act or the Federal Unemployment Tax Act, section 2 of this 2016 Act shall no longer be of any force or effect.
 
@@ -2275,63 +2285,73 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
  
 
-      657.220 [Repealed by 1955 c.655 §25]
+657.220 [Repealed by 1955 c.655 §25]
 
  
 
-      657.221 Ineligibility for benefits of certain educational institution personnel. (1) Benefits based on services performed in other than an instructional, research or principal administrative capacity for an educational institution or institution of higher education shall be payable to an individual in the same amount, on the same terms and subject to the same conditions as benefits payable on the basis of other service subject to this chapter. However:
+      657.221 Ineligibility for benefits of certain educational institution employees; exceptions. (1)(a) Benefits based on services performed in other than an instructional, research or principal administrative capacity for an educational institution or institution of higher education shall be payable to an individual in the same amount, on the same terms and subject to the same conditions as benefits payable on the basis of other service subject to this chapter.
 
-      (a) Benefits shall not be paid on the basis of such services for any week of unemployment that commences during a period between two successive academic years or terms if the individual performs such services in the first academic year or term and there is a reasonable assurance that the individual will perform any such services in the second academic year or term for any institution; except that
+      (b) Notwithstanding paragraph (a) of this subsection, benefits shall not be paid on the basis of such services for any week of unemployment that commences during a period between two successive academic years or terms if the individual performs such services in the first academic year or term and there is a reasonable assurance that the individual will perform any such services in the second academic year or term for any institution.
 
-      (b) If benefits are denied to an individual for any week under paragraph (a) of this subsection and such individual was not offered an opportunity to perform such services for the institution for the second of such academic years or terms, such individual shall be entitled, if otherwise eligible, to payment of benefits for each week for which the individual filed a timely claim for benefits and for which benefits were denied solely by reason of paragraph (a) of this subsection.
+      (c) Notwithstanding paragraph (b) of this subsection, if benefits are denied to an individual for any week under paragraph (b) of this subsection and such individual was not offered an opportunity to perform such services for the institution for the second of such academic years or terms, such individual shall be entitled, if otherwise eligible, to payment of benefits for each week for which the individual filed a timely claim for benefits and for which benefits were denied solely by reason of paragraph (b) of this subsection.
 
       (2) With respect to the application of this section, the following shall apply:
 
-      (a) An employee who terminates an employee-employer relationship by electing not to accept an offer of work for a subsequent academic year or term, other than by reason of labor negotiations or a labor dispute in progress, shall be deemed to have voluntarily left work. The effective date of such leaving shall be the date the individual notifies the institution of the election not to accept the offer of work for the subsequent period, except that if such individual continues to work under the terms of a previously existing contract or agreement, the effective date of leaving shall be the last day worked for the institution.
+      (a) An employee who terminates an employee-employer relationship by electing not to accept an offer of work for a subsequent academic year or term, other than by reason of labor negotiations or a labor dispute in progress, shall be deemed to have voluntarily left work. The effective date of such leaving shall be the date on which the individual notifies the institution of the election not to accept the offer of work for the subsequent period, except that if such individual continues to work under the terms of a previously existing contract or agreement, the effective date of leaving shall be the last day worked for the institution.
 
-      (b) In the event the institution does not extend to the individual an offer of work or provide a reasonable assurance the individual is expected to return to work for the institution following the period between the academic years or terms, the separation from work shall be considered an involuntary leaving or layoff.
+      (b) If the institution does not extend to the individual an offer of work or provide a reasonable assurance the individual is expected to return to work for the institution following the period between the academic years or terms, the separation from work shall be considered an involuntary leaving or layoff.
 
-      (3) With respect to any services described in subsection (1) of this section, compensation payable on the basis of such services shall be denied to any individual for any week that commences during an established and customary vacation period or holiday recess if such individual performs such services in the period immediately before such vacation period or holiday recess, and there is reasonable assurance that such individual will perform such services or any services described in ORS 657.167 (1) in the period immediately following such vacation period or holiday recess.
+      (3) With respect to any services described in subsection (1)(a) of this section, compensation payable on the basis of such services shall be denied to any individual for any week that commences during an established and customary vacation period or holiday recess if such individual performs such services in the period immediately before such vacation period or holiday recess, and there is reasonable assurance that such individual will perform such services or any services described in ORS 657.167 (1) in the period immediately following such vacation period or holiday recess.
 
-      (4) With respect to any services described in subsection (1) of this section, benefits based on such services shall be denied as specified in subsections (1) and (3) of this section to any individual who performed such services in an institution while in the employ of an education service district established by ORS chapter 334, providing 50 percent or more of the individual’s time is in the performance of services in such institution.
+      (4) With respect to any services described in subsection (1)(a) of this section, benefits based on such services shall be denied as specified in subsections (1) and (3) of this section to any individual who performed such services in an institution while in the employ of an education service district established by ORS chapter 334, providing 50 percent or more of the individual’s time is in the performance of services in such institution.
 
-      (5) The provisions of subsections (1), (3) and (4) of this section shall only apply to service performed for an educational institution or institution of higher education operated by:
+      (5) Subsections (1)(b), (3) and (4) of this section do not apply to benefits that are otherwise payable based on services consisting of the operation or maintenance of facilities or janitorial services.
+
+      (6) Subsections (1), (3) and (4) of this section apply only to service performed for an educational institution or institution of higher education operated by:
 
       (a) A nonprofit employing unit;
 
       (b) This state;
 
-      (c) A political subdivision; or
+      (c) A political subdivision of this state; or
 
-      (d) An Indian tribe. [1973 c.715 §6; 1975 c.284 §2; 1977 c.241 §3; 1981 c.60 §2; 1983 c.343 §1; 1983 c.528 §3; 1983 c.538 §1; 1985 c.226 §3; 1985 c.748 §2; 2001 c.572 §9; 2005 c.218 §13; 2016 c.15 §1; 2017 c.308 §1]
-
- 
-
-      657.222 [1983 c.528 §8; repealed by 2009 c.11 §83]
+      (d) An Indian tribe. [1973 c.715 §6; 1975 c.284 §2; 1977 c.241 §3; 1981 c.60 §2; 1983 c.343 §1; 1983 c.528 §3; 1983 c.538 §1; 1985 c.226 §3; 1985 c.748 §2; 2001 c.572 §9; 2005 c.218 §13; 2016 c.15 §1; 2017 c.308 §1; 2019 c.407 §1]
 
  
 
-      657.225 [Repealed by 1955 c.655 §25]
+      Note: Section 5, chapter 407, Oregon Laws 2019, provides:
+
+      Sec. 5. (1) If the United States Secretary of Labor serves notice that any provisions of ORS 657.221, as amended by section 1 of this 2019 Act, or rules adopted under ORS 657.221, as amended by section 1 of this 2019 Act, fail to meet the requirements of the Social Security Act or the Federal Unemployment Tax Act, the nonconforming provisions or rules shall no longer be of any force or effect.
+
+      (2) The Director of the Employment Department shall notify the Legislative Counsel as soon as practicable after receipt of the notice described in subsection (1) of this section. [2019 c.407 §5]
 
  
 
-      657.230 [Repealed by 1955 c.655 §25]
+657.222 [1983 c.528 §8; repealed by 2009 c.11 §83]
 
  
 
-      657.235 [Repealed by 1955 c.655 §25]
+657.225 [Repealed by 1955 c.655 §25]
 
  
 
-      657.240 [Repealed by 1955 c.655 §25]
+657.230 [Repealed by 1955 c.655 §25]
 
  
 
-      657.245 [Repealed by 1955 c.655 §25]
+657.235 [Repealed by 1955 c.655 §25]
 
  
 
-      657.250 [Repealed by 1957 c.699 §12]
+657.240 [Repealed by 1955 c.655 §25]
+
+ 
+
+657.245 [Repealed by 1955 c.655 §25]
+
+ 
+
+657.250 [Repealed by 1957 c.699 §12]
 
  
 
@@ -2354,6 +2374,22 @@ then the separation from work shall be adjudicated as if the discharge had not o
       (3) The director shall make available to claimants, a printed statement that it is an unlawful employment practice for an employer to discharge, demote, suspend or in any manner discriminate or retaliate against an employee with regard to promotion, compensation or other terms, conditions or privileges of employment for the reason that the employee has testified at an unemployment compensation hearing or other hearing conducted pursuant to this chapter.
 
       (4) Every person making a claim shall certify that the person has not, during the week with respect to which benefits are claimed, received or earned wages or compensation for any employment, whether subject to this chapter or not, otherwise than as specified in the claim. [Amended by 1973 c.300 §7; 1983 c.409 §2; 1985 c.404 §4]
+
+ 
+
+      657.262 Information provided by public employer to employees. (1) An employer listed in subsection (2) of this section:
+
+      (a) May not inform an employee of the employer that the employee is ineligible for benefits unless the Director of the Employment Department has reviewed the employee’s claim for benefits and determined that the employee is ineligible for benefits.
+
+      (b) Shall provide employees with any information about eligibility for benefits that is provided to the employer by the director.
+
+      (c) May provide employees with any other information about eligibility for benefits that is approved by the director.
+
+      (2) This section applies to an employer that is:
+
+      (a) This state; or
+
+      (b) A political subdivision of this state. [2019 c.407 §3]
 
  
 
@@ -2477,7 +2513,7 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
  
 
-      657.285 [Amended by 1959 c.583 §19; repealed by 1971 c.734 §21]
+657.285 [Amended by 1959 c.583 §19; repealed by 1971 c.734 §21]
 
  
 
@@ -2775,7 +2811,7 @@ then the separation from work shall be adjudicated as if the discharge had not o
 
  
 
-      657.330 [1969 c.156 §2; 1971 c.82 §1; renumbered 657.337 in 1989]
+657.330 [1969 c.156 §2; 1971 c.82 §1; renumbered 657.337 in 1989]
 
  
 
@@ -2843,7 +2879,7 @@ DISLOCATED WORKER PROGRAM
 
  
 
-      657.337 [Formerly 657.330; 1991 c.685 §5; 1993 c.624 §2; 1993 c.765 §12; 1995 c.495 §1; 1997 c.61 §9; 2001 c.684 §29; 2001 c.866 §1; 2003 c.536 §2; 2005 c.174 §1; 2009 c.94 §24; repealed by 2009 c.115 §11]
+657.337 [Formerly 657.330; 1991 c.685 §5; 1993 c.624 §2; 1993 c.765 §12; 1995 c.495 §1; 1997 c.61 §9; 2001 c.684 §29; 2001 c.866 §1; 2003 c.536 §2; 2005 c.174 §1; 2009 c.94 §24; repealed by 2009 c.115 §11]
 
  
 
@@ -2861,7 +2897,7 @@ DISLOCATED WORKER PROGRAM
 
  
 
-      657.342 [1991 c.685 §12; repealed by 2009 c.115 §11]
+657.342 [1991 c.685 §12; repealed by 2009 c.115 §11]
 
  
 
@@ -2875,7 +2911,7 @@ DISLOCATED WORKER PROGRAM
 
  
 
-      657.350 Rules for administering training program. The Director of the Employment Department, in consultation with the Office of Community Colleges and Workforce Development, shall promulgate rules as necessary for the administration of ORS 657.335 to 657.360, including but not limited to procedures for approval, undertaking periodic reviews for continued approval, or for disapproval of career and technical training for an individual. [1969 c.156 §8; 1971 c.82 §5; 1991 c.685 §8; 1997 c.61 §11; 2001 c.684 §31; 2009 c.94 §27; 2015 c.366 §96]
+      657.350 Rules for administering training program. The Higher Education Coordinating Commission shall promulgate rules as necessary for the administration of ORS 657.335 to 657.360, including but not limited to procedures for approval, undertaking periodic reviews for continued approval, or for disapproval of career and technical training for an individual. [1969 c.156 §8; 1971 c.82 §5; 1991 c.685 §8; 1997 c.61 §11; 2001 c.684 §31; 2009 c.94 §27; 2015 c.366 §96; 2019 c.384 §6]
 
  
 
@@ -3073,11 +3109,11 @@ CONTRIBUTIONS BY EMPLOYERS; COVERAGE; RATE
 
  
 
-      657.419 [2001 c.185 §2; repealed by 2007 c.48 §1]
+657.419 [2001 c.185 §2; repealed by 2007 c.48 §1]
 
  
 
-      657.420 [Repealed by 1981 c.5 §3]
+657.420 [Repealed by 1981 c.5 §3]
 
  
 
@@ -3113,21 +3149,21 @@ ______________________________________________________________________________
 
  
 
-      I                           2.0%
+      I     2.0%
 
-      II                          2.1%
+      II   2.1%
 
-      III                        2.4%
+      III  2.4%
 
-      IV                        2.6%
+      IV  2.6%
 
-      V                         2.9%
+      V   2.9%
 
-      VI                        3.1%
+      VI  3.1%
 
-      VII                       3.2%
+      VII 3.2%
 
-      VIII                      3.3%
+      VIII           3.3%
 
  
 
@@ -3149,87 +3185,89 @@ ______________________________________________________________________________
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.38%              0.00% but less than 10.00%
+0.38%  0.00% but less than 10.00%
 
-0.48%              10.00% but less than 15.00%
+0.48%  10.00% but less than 15.00%
 
-0.58%              15.00% but less than 20.00%
+0.58%  15.00% but less than 20.00%
 
-0.68%              20.00% but less than 25.00%
+0.68%  20.00% but less than 25.00%
 
-0.78%              25.00% but less than 30.00%
+0.78%  25.00% but less than 30.00%
 
-0.88%              30.00% but less than 35.00%
+0.88%  30.00% but less than 35.00%
 
-0.98%              35.00% but less than 40.00%
+0.98%  35.00% but less than 40.00%
 
-1.08%              40.00% but less than 45.00%
+      1.08%        40.00% but less than 45.00%
 
-1.18%              45.00% but less than 50.00%
+      1.18%        45.00% but less than 50.00%
 
-1.28%              50.00% but less than 55.00%
+      1.28%        50.00% but less than 55.00%
 
-1.38%              55.00% but less than 60.00%
+      1.38%        55.00% but less than 60.00%
 
-1.48%              60.00% but less than 65.00%
+      1.48%        60.00% but less than 65.00%
 
-1.58%              65.00% but less than 69.00%
+      1.58%        65.00% but less than 69.00%
 
-1.68%              69.00% but less than 73.00%
+      1.68%        69.00% but less than 73.00%
 
-1.78%              73.00% but less than 77.00%
+      1.78%        73.00% but less than 77.00%
 
-1.88%              77.00% but less than 80.00%
+      1.88%        77.00% but less than 80.00%
 
-1.98%              80.00% but less than 83.00%
+      1.98%        80.00% but less than 83.00%
 
-2.08%              83.00% but less than 86.00%
+2.08%  83.00% but less than 86.00%
 
-2.18%              86.00% but less than 89.00%
+2.18%  86.00% but less than 89.00%
 
-2.28%              89.00% but less than 91.00%
+2.28%  89.00% but less than 91.00%
 
-2.38%              91.00% but less than 93.00%
+2.38%  91.00% but less than 93.00%
 
-2.48%              93.00% but less than 95.00%
+2.48%  93.00% but less than 95.00%
 
-2.58%              95.00% but less than 96.00%
+2.58%  95.00% but less than 96.00%
 
-2.68%              96.00% but less than 96.90%
+2.68%  96.00% but less than 96.90%
 
-2.78%              96.90% but less than 97.70%
+2.78%  96.90% but less than 97.70%
 
-2.88%              97.70% but less than 98.40%
+2.88%  97.70% but less than 98.40%
 
-2.98%              98.40% but less than 98.90%
+2.98%  98.40% but less than 98.90%
 
-3.08%              98.90% but less than 99.30%
+3.08%  98.90% but less than 99.30%
 
-3.28%              99.30% but less than 99.54%
+3.28%  99.30% but less than 99.54%
 
-3.48%              99.54% but less than 99.63%
+3.48%  99.54% but less than 99.63%
 
-3.68%              99.63% but less than 99.71%
+3.68%  99.63% but less than 99.71%
 
-3.88%              99.71% but less than 99.78%
+3.88%  99.71% but less than 99.78%
 
-4.08%              99.78% but less than 99.84%
+4.08%  99.78% but less than 99.84%
 
-4.28%              99.84% but less than 99.89%
+4.28%  99.84% but less than 99.89%
 
-4.48%              99.89% but less than 99.93%
+4.48%  99.89% but less than 99.93%
 
-4.68%              99.93% but less than 99.96%
+4.68%  99.93% but less than 99.96%
 
-4.88%              99.96% but less than 99.98%
+4.88%  99.96% but less than 99.98%
 
-5.08%              99.98% but less than 99.99%
+5.08%  99.98% but less than 99.99%
 
-5.40%                          99.99% to 100%
+ 
+
+5.40%  99.99% to 100%
 
 ______________________________________________________________________________
 
@@ -3237,91 +3275,93 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio II C
+      Fund Adequacy Percentage Ratio II C
 
-                        190.00% but less than 200%
+      190.00% but less than 200%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.58%              0.00% but less than 10.00%
+0.58%  0.00% but less than 10.00%
 
-0.68%              10.00% but less than 15.00%
+0.68%  10.00% but less than 15.00%
 
-0.78%              15.00% but less than 20.00%
+0.78%  15.00% but less than 20.00%
 
-0.88%              20.00% but less than 25.00%
+0.88%  20.00% but less than 25.00%
 
-0.98%              25.00% but less than 30.00%
+0.98%  25.00% but less than 30.00%
 
-1.08%              30.00% but less than 35.00%
+      1.08%        30.00% but less than 35.00%
 
-1.18%              35.00% but less than 40.00%
+      1.18%        35.00% but less than 40.00%
 
-1.28%              40.00% but less than 44.00%
+      1.28%        40.00% but less than 44.00%
 
-1.38%              44.00% but less than 48.00%
+      1.38%        44.00% but less than 48.00%
 
-1.48%              48.00% but less than 52.00%
+      1.48%        48.00% but less than 52.00%
 
-1.58%              52.00% but less than 56.00%
+      1.58%        52.00% but less than 56.00%
 
-1.68%              56.00% but less than 60.00%
+      1.68%        56.00% but less than 60.00%
 
-1.78%              60.00% but less than 64.00%
+      1.78%        60.00% but less than 64.00%
 
-1.88%              64.00% but less than 68.00%
+      1.88%        64.00% but less than 68.00%
 
-1.98%              68.00% but less than 72.00%
+      1.98%        68.00% but less than 72.00%
 
-2.08%              72.00% but less than 76.00%
+2.08%  72.00% but less than 76.00%
 
-2.18%              76.00% but less than 79.00%
+2.18%  76.00% but less than 79.00%
 
-2.28%              79.00% but less than 82.00%
+2.28%  79.00% but less than 82.00%
 
-2.38%              82.00% but less than 85.00%
+2.38%  82.00% but less than 85.00%
 
-2.48%              85.00% but less than 88.00%
+2.48%  85.00% but less than 88.00%
 
-2.58%              88.00% but less than 90.00%
+2.58%  88.00% but less than 90.00%
 
-2.68%              90.00% but less than 92.00%
+2.68%  90.00% but less than 92.00%
 
-2.78%              92.00% but less than 93.50%
+2.78%  92.00% but less than 93.50%
 
-2.88%              93.50% but less than 94.90%
+2.88%  93.50% but less than 94.90%
 
-2.98%              94.90% but less than 96.20%
+2.98%  94.90% but less than 96.20%
 
-3.08%              96.20% but less than 97.40%
+3.08%  96.20% but less than 97.40%
 
-3.28%              97.40% but less than 98.54%
+3.28%  97.40% but less than 98.54%
 
-3.48%              98.54% but less than 99.54%
+3.48%  98.54% but less than 99.54%
 
-3.68%              99.54% but less than 99.63%
+3.68%  99.54% but less than 99.63%
 
-3.88%              99.63% but less than 99.71%
+3.88%  99.63% but less than 99.71%
 
-4.08%              99.71% but less than 99.78%
+4.08%  99.71% but less than 99.78%
 
-4.28%              99.78% but less than 99.84%
+4.28%  99.78% but less than 99.84%
 
-4.48%              99.84% but less than 99.89%
+4.48%  99.84% but less than 99.89%
 
-4.68%              99.89% but less than 99.93%
+4.68%  99.89% but less than 99.93%
 
-4.88%              99.93% but less than 99.96%
+4.88%  99.93% but less than 99.96%
 
-5.08%              99.96% but less than 99.98%
+5.08%  99.96% but less than 99.98%
 
-5.40%                          99.98% to 100%
+ 
+
+5.40%  99.98% to 100%
 
 ______________________________________________________________________________
 
@@ -3329,87 +3369,89 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio III C
+      Fund Adequacy Percentage Ratio III C
 
-                        170.00% but less than 190%
+      170.00% but less than 190%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.78%              0.00% but less than 10.00%
+0.78%  0.00% but less than 10.00%
 
-0.88%              10.00% but less than 15.00%
+0.88%  10.00% but less than 15.00%
 
-0.98%              15.00% but less than 20.00%
+0.98%  15.00% but less than 20.00%
 
-1.08%              20.00% but less than 24.00%
+      1.08%        20.00% but less than 24.00%
 
-1.18%              24.00% but less than 28.00%
+      1.18%        24.00% but less than 28.00%
 
-1.28%              28.00% but less than 32.00%
+      1.28%        28.00% but less than 32.00%
 
-1.38%              32.00% but less than 36.00%
+      1.38%        32.00% but less than 36.00%
 
-1.48%              36.00% but less than 40.00%
+      1.48%        36.00% but less than 40.00%
 
-1.58%              40.00% but less than 44.00%
+      1.58%        40.00% but less than 44.00%
 
-1.68%              44.00% but less than 48.00%
+      1.68%        44.00% but less than 48.00%
 
-1.78%              48.00% but less than 52.00%
+      1.78%        48.00% but less than 52.00%
 
-1.88%              52.00% but less than 56.00%
+      1.88%        52.00% but less than 56.00%
 
-1.98%              56.00% but less than 60.00%
+      1.98%        56.00% but less than 60.00%
 
-2.08%              60.00% but less than 64.00%
+2.08%  60.00% but less than 64.00%
 
-2.18%              64.00% but less than 68.00%
+2.18%  64.00% but less than 68.00%
 
-2.28%              68.00% but less than 72.00%
+2.28%  68.00% but less than 72.00%
 
-2.38%              72.00% but less than 76.00%
+2.38%  72.00% but less than 76.00%
 
-2.48%              76.00% but less than 80.00%
+2.48%  76.00% but less than 80.00%
 
-2.58%              80.00% but less than 84.00%
+2.58%  80.00% but less than 84.00%
 
-2.68%              84.00% but less than 87.00%
+2.68%  84.00% but less than 87.00%
 
-2.78%              87.00% but less than 90.00%
+2.78%  87.00% but less than 90.00%
 
-2.88%              90.00% but less than 93.00%
+2.88%  90.00% but less than 93.00%
 
-2.98%              93.00% but less than 95.00%
+2.98%  93.00% but less than 95.00%
 
-3.08%              95.00% but less than 97.00%
+3.08%  95.00% but less than 97.00%
 
-3.28%              97.00% but less than 98.20%
+3.28%  97.00% but less than 98.20%
 
-3.48%              98.20% but less than 99.00%
+3.48%  98.20% but less than 99.00%
 
-3.68%              99.00% but less than 99.43%
+3.68%  99.00% but less than 99.43%
 
-3.88%              99.43% but less than 99.63%
+3.88%  99.43% but less than 99.63%
 
-4.08%              99.63% but less than 99.72%
+4.08%  99.63% but less than 99.72%
 
-4.28%              99.72% but less than 99.79%
+4.28%  99.72% but less than 99.79%
 
-4.48%              99.79% but less than 99.85%
+4.48%  99.79% but less than 99.85%
 
-4.68%              99.85% but less than 99.90%
+4.68%  99.85% but less than 99.90%
 
-4.88%              99.90% but less than 99.94%
+4.88%  99.90% but less than 99.94%
 
-5.08%              99.94% but less than 99.97%
+5.08%  99.94% but less than 99.97%
 
-5.40%                          99.97% to 100%
+ 
+
+5.40%  99.97% to 100%
 
 ______________________________________________________________________________
 
@@ -3417,83 +3459,85 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio IV C
+      Fund Adequacy Percentage Ratio IV C
 
-                        145.00% but less than 170%
+      145.00% but less than 170%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.08%              0.00% but less than 10.00%
+      1.08%        0.00% but less than 10.00%
 
-1.18%              10.00% but less than 15.00%
+      1.18%        10.00% but less than 15.00%
 
-1.28%              15.00% but less than 20.00%
+      1.28%        15.00% but less than 20.00%
 
-1.38%              20.00% but less than 24.00%
+      1.38%        20.00% but less than 24.00%
 
-1.48%              24.00% but less than 28.00%
+      1.48%        24.00% but less than 28.00%
 
-1.58%              28.00% but less than 32.00%
+      1.58%        28.00% but less than 32.00%
 
-1.68%              32.00% but less than 36.00%
+      1.68%        32.00% but less than 36.00%
 
-1.78%              36.00% but less than 40.00%
+      1.78%        36.00% but less than 40.00%
 
-1.88%              40.00% but less than 44.00%
+      1.88%        40.00% but less than 44.00%
 
-1.98%              44.00% but less than 48.00%
+      1.98%        44.00% but less than 48.00%
 
-2.08%              48.00% but less than 52.00%
+2.08%  48.00% but less than 52.00%
 
-2.18%              52.00% but less than 56.00%
+2.18%  52.00% but less than 56.00%
 
-2.28%              56.00% but less than 60.00%
+2.28%  56.00% but less than 60.00%
 
-2.38%              60.00% but less than 64.00%
+2.38%  60.00% but less than 64.00%
 
-2.48%              64.00% but less than 68.00%
+2.48%  64.00% but less than 68.00%
 
-2.58%              68.00% but less than 72.00%
+2.58%  68.00% but less than 72.00%
 
-2.68%              72.00% but less than 76.00%
+2.68%  72.00% but less than 76.00%
 
-2.78%              76.00% but less than 80.00%
+2.78%  76.00% but less than 80.00%
 
-2.88%              80.00% but less than 84.00%
+2.88%  80.00% but less than 84.00%
 
-2.98%              84.00% but less than 88.00%
+2.98%  84.00% but less than 88.00%
 
-3.08%              88.00% but less than 92.00%
+3.08%  88.00% but less than 92.00%
 
-3.18%              92.00% but less than 95.00%
+3.18%  92.00% but less than 95.00%
 
-3.28%              95.00% but less than 97.00%
+3.28%  95.00% but less than 97.00%
 
-3.48%              97.00% but less than 98.20%
+3.48%  97.00% but less than 98.20%
 
-3.68%              98.20% but less than 99.00%
+3.68%  98.20% but less than 99.00%
 
-3.88%              99.00% but less than 99.40%
+3.88%  99.00% but less than 99.40%
 
-4.08%              99.40% but less than 99.60%
+4.08%  99.40% but less than 99.60%
 
-4.28%              99.60% but less than 99.70%
+4.28%  99.60% but less than 99.70%
 
-4.48%              99.70% but less than 99.78%
+4.48%  99.70% but less than 99.78%
 
-4.68%              99.78% but less than 99.85%
+4.68%  99.78% but less than 99.85%
 
-4.88%              99.85% but less than 99.91%
+4.88%  99.85% but less than 99.91%
 
-5.08%              99.91% but less than 99.96%
+5.08%  99.91% but less than 99.96%
 
-5.40%                          99.96% to 100.00%
+ 
+
+5.40%  99.96% to 100.00%
 
 ______________________________________________________________________________
 
@@ -3501,83 +3545,85 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio V C
+      Fund Adequacy Percentage Ratio V C
 
-                        125.00% but less than 145%
+      125.00% but less than 145%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.38%              0.00% but less than 10.00%
+      1.38%        0.00% but less than 10.00%
 
-1.48%              10.00% but less than 15.00%
+      1.48%        10.00% but less than 15.00%
 
-1.58%              15.00% but less than 20.00%
+      1.58%        15.00% but less than 20.00%
 
-1.68%              20.00% but less than 24.00%
+      1.68%        20.00% but less than 24.00%
 
-1.78%              24.00% but less than 28.00%
+      1.78%        24.00% but less than 28.00%
 
-1.88%              28.00% but less than 32.00%
+      1.88%        28.00% but less than 32.00%
 
-1.98%              32.00% but less than 36.00%
+      1.98%        32.00% but less than 36.00%
 
-2.08%              36.00% but less than 40.00%
+2.08%  36.00% but less than 40.00%
 
-2.18%              40.00% but less than 44.00%
+2.18%  40.00% but less than 44.00%
 
-2.28%              44.00% but less than 48.00%
+2.28%  44.00% but less than 48.00%
 
-2.38%              48.00% but less than 52.00%
+2.38%  48.00% but less than 52.00%
 
-2.48%              52.00% but less than 56.00%
+2.48%  52.00% but less than 56.00%
 
-2.58%              56.00% but less than 60.00%
+2.58%  56.00% but less than 60.00%
 
-2.68%              60.00% but less than 64.00%
+2.68%  60.00% but less than 64.00%
 
-2.78%              64.00% but less than 68.00%
+2.78%  64.00% but less than 68.00%
 
-2.88%              68.00% but less than 72.00%
+2.88%  68.00% but less than 72.00%
 
-2.98%              72.00% but less than 76.00%
+2.98%  72.00% but less than 76.00%
 
-3.08%              76.00% but less than 80.00%
+3.08%  76.00% but less than 80.00%
 
-3.18%              80.00% but less than 84.00%
+3.18%  80.00% but less than 84.00%
 
-3.28%              84.00% but less than 88.00%
+3.28%  84.00% but less than 88.00%
 
-3.38%              88.00% but less than 92.00%
+3.38%  88.00% but less than 92.00%
 
-3.48%              92.00% but less than 95.00%
+3.48%  92.00% but less than 95.00%
 
-3.58%              95.00% but less than 97.00%
+3.58%  95.00% but less than 97.00%
 
-3.68%              97.00% but less than 98.20%
+3.68%  97.00% but less than 98.20%
 
-3.78%              98.20% but less than 99.00%
+3.78%  98.20% but less than 99.00%
 
-3.88%              99.00% but less than 99.40%
+3.88%  99.00% but less than 99.40%
 
-4.08%              99.40% but less than 99.60%
+4.08%  99.40% but less than 99.60%
 
-4.28%              99.60% but less than 99.70%
+4.28%  99.60% but less than 99.70%
 
-4.48%              99.70% but less than 99.78%
+4.48%  99.70% but less than 99.78%
 
-4.68%              99.78% but less than 99.85%
+4.68%  99.78% but less than 99.85%
 
-4.88%              99.85% but less than 99.91%
+4.88%  99.85% but less than 99.91%
 
-5.08%              99.91% but less than 99.96%
+5.08%  99.91% but less than 99.96%
 
-5.40%                          99.96% to 100.00%
+ 
+
+5.40%  99.96% to 100.00%
 
 ______________________________________________________________________________
 
@@ -3585,77 +3631,79 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VI C
+      Fund Adequacy Percentage Ratio VI C
 
-                        110.00% but less than 125%
+      110.00% but less than 125%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.68%              0.00% but less than 10.00%
+      1.68%        0.00% but less than 10.00%
 
-1.78%              10.00% but less than 15.00%
+      1.78%        10.00% but less than 15.00%
 
-1.88%              15.00% but less than 20.00%
+      1.88%        15.00% but less than 20.00%
 
-1.98%              20.00% but less than 25.00%
+      1.98%        20.00% but less than 25.00%
 
-2.08%              25.00% but less than 30.00%
+2.08%  25.00% but less than 30.00%
 
-2.18%              30.00% but less than 35.00%
+2.18%  30.00% but less than 35.00%
 
-2.28%              35.00% but less than 40.00%
+2.28%  35.00% but less than 40.00%
 
-2.38%              40.00% but less than 44.00%
+2.38%  40.00% but less than 44.00%
 
-2.48%              44.00% but less than 48.00%
+2.48%  44.00% but less than 48.00%
 
-2.58%              48.00% but less than 52.00%
+2.58%  48.00% but less than 52.00%
 
-2.68%              52.00% but less than 56.00%
+2.68%  52.00% but less than 56.00%
 
-2.78%              56.00% but less than 60.00%
+2.78%  56.00% but less than 60.00%
 
-2.88%              60.00% but less than 64.00%
+2.88%  60.00% but less than 64.00%
 
-2.98%              64.00% but less than 68.00%
+2.98%  64.00% but less than 68.00%
 
-3.08%              68.00% but less than 72.00%
+3.08%  68.00% but less than 72.00%
 
-3.18%              72.00% but less than 76.00%
+3.18%  72.00% but less than 76.00%
 
-3.28%              76.00% but less than 80.00%
+3.28%  76.00% but less than 80.00%
 
-3.38%              80.00% but less than 84.00%
+3.38%  80.00% but less than 84.00%
 
-3.48%              84.00% but less than 88.00%
+3.48%  84.00% but less than 88.00%
 
-3.58%              88.00% but less than 92.00%
+3.58%  88.00% but less than 92.00%
 
-3.68%              92.00% but less than 95.00%
+3.68%  92.00% but less than 95.00%
 
-3.78%              95.00% but less than 97.00%
+3.78%  95.00% but less than 97.00%
 
-3.88%              97.00% but less than 98.20%
+3.88%  97.00% but less than 98.20%
 
-4.08%              98.20% but less than 99.00%
+4.08%  98.20% but less than 99.00%
 
-4.28%              99.00% but less than 99.50%
+4.28%  99.00% but less than 99.50%
 
-4.48%              99.50% but less than 99.70%
+4.48%  99.50% but less than 99.70%
 
-4.68%              99.70% but less than 99.79%
+4.68%  99.70% but less than 99.79%
 
-4.88%              99.79% but less than 99.87%
+4.88%  99.79% but less than 99.87%
 
-5.08%              99.87% but less than 99.94%
+5.08%  99.87% but less than 99.94%
 
-5.40%                          99.94% to 100.00%
+ 
+
+5.40%  99.94% to 100.00%
 
 ______________________________________________________________________________
 
@@ -3663,73 +3711,75 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VII C
+      Fund Adequacy Percentage Ratio VII C
 
-                        100.00% but less than 110%
+      100.00% but less than 110%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.88%            0.00% but less than 10.00%
+      1.88%        0.00% but less than 10.00%
 
-1.98%              10.00% but less than 15.00%
+      1.98%        10.00% but less than 15.00%
 
-2.08%              15.00% but less than 20.00%
+2.08%  15.00% but less than 20.00%
 
-2.18%              20.00% but less than 25.00%
+2.18%  20.00% but less than 25.00%
 
-2.28%              25.00% but less than 30.00%
+2.28%  25.00% but less than 30.00%
 
-2.38%              30.00% but less than 35.00%
+2.38%  30.00% but less than 35.00%
 
-2.48%              35.00% but less than 40.00%
+2.48%  35.00% but less than 40.00%
 
-2.58%              40.00% but less than 45.00%
+2.58%  40.00% but less than 45.00%
 
-2.68%              45.00% but less than 50.00%
+2.68%  45.00% but less than 50.00%
 
-2.78%              50.00% but less than 55.00%
+2.78%  50.00% but less than 55.00%
 
-2.88%              55.00% but less than 60.00%
+2.88%  55.00% but less than 60.00%
 
-2.98%              60.00% but less than 64.00%
+2.98%  60.00% but less than 64.00%
 
-3.08%              64.00% but less than 68.00%
+3.08%  64.00% but less than 68.00%
 
-3.18%              68.00% but less than 72.00%
+3.18%  68.00% but less than 72.00%
 
-3.28%              72.00% but less than 76.00%
+3.28%  72.00% but less than 76.00%
 
-3.38%              76.00% but less than 80.00%
+3.38%  76.00% but less than 80.00%
 
-3.48%              80.00% but less than 84.00%
+3.48%  80.00% but less than 84.00%
 
-3.58%              84.00% but less than 88.00%
+3.58%  84.00% but less than 88.00%
 
-3.68%              88.00% but less than 92.00%
+3.68%  88.00% but less than 92.00%
 
-3.78%              92.00% but less than 95.00%
+3.78%  92.00% but less than 95.00%
 
-3.88%              95.00% but less than 97.00%
+3.88%  95.00% but less than 97.00%
 
-4.08%              97.00% but less than 98.20%
+4.08%  97.00% but less than 98.20%
 
-4.28%              98.20% but less than 99.00%
+4.28%  98.20% but less than 99.00%
 
-4.48%              99.00% but less than 99.50%
+4.48%  99.00% but less than 99.50%
 
-4.68%              99.50% but less than 99.70%
+4.68%  99.50% but less than 99.70%
 
-4.88%              99.70% but less than 99.84%
+4.88%  99.70% but less than 99.84%
 
-5.08%              99.84% but less than 99.93%
+5.08%  99.84% but less than 99.93%
 
-5.40%              99.93% to 100.00%
+ 
+
+5.40%  99.93% to 100.00%
 
 ______________________________________________________________________________
 
@@ -3737,69 +3787,71 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VIII C
+      Fund Adequacy Percentage Ratio VIII C
 
-                        Under 100%
+      Under 100%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-2.08%            0.00% but less than 10.00%
+2.08%  0.00% but less than 10.00%
 
-2.18%              10.00% but less than 15.00%
+2.18%  10.00% but less than 15.00%
 
-2.28%              15.00% but less than 20.00%
+2.28%  15.00% but less than 20.00%
 
-2.38%              20.00% but less than 25.00%
+2.38%  20.00% but less than 25.00%
 
-2.48%              25.00% but less than 30.00%
+2.48%  25.00% but less than 30.00%
 
-2.58%              30.00% but less than 35.00%
+2.58%  30.00% but less than 35.00%
 
-2.68%              35.00% but less than 40.00%
+2.68%  35.00% but less than 40.00%
 
-2.78%              40.00% but less than 45.00%
+2.78%  40.00% but less than 45.00%
 
-2.88%              45.00% but less than 50.00%
+2.88%  45.00% but less than 50.00%
 
-2.98%              50.00% but less than 55.00%
+2.98%  50.00% but less than 55.00%
 
-3.08%              55.00% but less than 60.00%
+3.08%  55.00% but less than 60.00%
 
-3.18%              60.00% but less than 65.00%
+3.18%  60.00% but less than 65.00%
 
-3.28%              65.00% but less than 70.00%
+3.28%  65.00% but less than 70.00%
 
-3.38%              70.00% but less than 75.00%
+3.38%  70.00% but less than 75.00%
 
-3.48%              75.00% but less than 80.00%
+3.48%  75.00% but less than 80.00%
 
-3.58%              80.00% but less than 84.00%
+3.58%  80.00% but less than 84.00%
 
-3.68%              84.00% but less than 88.00%
+3.68%  84.00% but less than 88.00%
 
-3.78%              88.00% but less than 92.00%
+3.78%  88.00% but less than 92.00%
 
-3.88%              92.00% but less than 95.00%
+3.88%  92.00% but less than 95.00%
 
-4.08%              95.00% but less than 97.00%
+4.08%  95.00% but less than 97.00%
 
-4.28%              97.00% but less than 98.20%
+4.28%  97.00% but less than 98.20%
 
-4.48%              98.20% but less than 99.00%
+4.48%  98.20% but less than 99.00%
 
-4.68%              99.00% but less than 99.50%
+4.68%  99.00% but less than 99.50%
 
-4.88%              99.50% but less than 99.80%
+4.88%  99.50% but less than 99.80%
 
-5.08%              99.80% but less than 99.92%
+5.08%  99.80% but less than 99.92%
 
-5.40%              99.92% to 100.00%
+ 
+
+5.40%  99.92% to 100.00%
 
 ______________________________________________________________________________
 
@@ -3817,23 +3869,23 @@ ______________________________________________________________________________
 
  
 
-      657.440 [Repealed by 1957 c.699 §12]
+657.440 [Repealed by 1957 c.699 §12]
 
  
 
-      657.445 [Repealed by 1957 c.699 §12]
+657.445 [Repealed by 1957 c.699 §12]
 
  
 
-      657.450 [Repealed by 1957 c.699 §12]
+657.450 [Repealed by 1957 c.699 §12]
 
  
 
-      657.451 [1955 c.655 §20; 1957 c.699 §6; 1959 c.606 §2; repealed by 1967 c.434 §2]
+657.451 [1955 c.655 §20; 1957 c.699 §6; 1959 c.606 §2; repealed by 1967 c.434 §2]
 
  
 
-      657.455 [Amended by 1955 c.655 §21; 1959 c.606 §3; repealed by 1963 c.302 §4]
+657.455 [Amended by 1955 c.655 §21; 1959 c.606 §3; repealed by 1963 c.302 §4]
 
  
 
@@ -3889,11 +3941,11 @@ ______________________________________________________________________________
 
  
 
-      657.460 [Repealed by 1959 c.606 §4]
+657.460 [Repealed by 1959 c.606 §4]
 
  
 
-      657.461 [1967 c.434 §5 (enacted in lieu of 657.464) repealed by 1969 c.157 §1 (657.458 and 657.459 enacted in lieu of 657.461)]
+657.461 [1967 c.434 §5 (enacted in lieu of 657.464) repealed by 1969 c.157 §1 (657.458 and 657.459 enacted in lieu of 657.461)]
 
  
 
@@ -3919,187 +3971,97 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio I
+      Fund Adequacy Percentage Ratio I
 
-                        200% and Over
-
- 
-
-Tax Rate         Cumulative Taxable Payroll Limits
-
-                        (Percentage of Total Taxable Payroll)
-
- 
-
-0.5%                0.00% but less than 10.00%
-
-0.6%                10.00% but less than 15.00%
-
-0.7%                15.00% but less than 20.00%
-
-0.8%                20.00% but less than 25.00%
-
-0.9%                25.00% but less than 30.00%
-
-1.0%                30.00% but less than 35.00%
-
-1.1%                35.00% but less than 40.00%
-
-1.2%                40.00% but less than 45.00%
-
-1.3%                45.00% but less than 50.00%
-
-1.4%                50.00% but less than 55.00%
-
-1.5%                55.00% but less than 60.00%
-
-1.6%                60.00% but less than 65.00%
-
-1.7%                65.00% but less than 69.00%
-
-1.8%                69.00% but less than 73.00%
-
-1.9%                73.00% but less than 77.00%
-
-2.0%                77.00% but less than 80.00%
-
-2.1%                80.00% but less than 83.00%
-
-2.2%                83.00% but less than 86.00%
-
-2.3%                86.00% but less than 89.00%
-
-2.4%                89.00% but less than 91.00%
-
-2.5%                91.00% but less than 93.00%
-
-2.6%                93.00% but less than 95.00%
-
-2.7%                95.00% but less than 96.00%
-
-2.8%                96.00% but less than 96.90%
-
-2.9%                96.90% but less than 97.70%
-
-3.0%                97.70% but less than 98.40%
-
-3.1%                98.40% but less than 98.90%
-
-3.2%                98.90% but less than 99.30%
-
-3.4%                99.30% but less than 99.54%
-
-3.6%                99.54% but less than 99.63%
-
-3.8%                99.63% but less than 99.71%
-
-4.0%                99.71% but less than 99.78%
-
-4.2%                99.78% but less than 99.84%
-
-4.4%                99.84% but less than 99.89%
-
-4.6%                99.89% but less than 99.93%
-
-4.8%                99.93% but less than 99.96%
-
-5.0%                99.96% but less than 99.98%
-
-5.2%                99.98% but less than 99.99%
-
-5.4%                            99.99% to 100.00%
-
-______________________________________________________________________________
-
-______________________________________________________________________________
-
- 
-
-                        Fund Adequacy Percentage Ratio II
-
-                        190.00% but less than 200%
+      200% and Over
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.7%                0.00% but less than 10.00%
+0.5%    0.00% but less than 10.00%
 
-0.8%                10.00% but less than 15.00%
+0.6%    10.00% but less than 15.00%
 
-0.9%                15.00% but less than 20.00%
+0.7%    15.00% but less than 20.00%
 
-1.0%                20.00% but less than 25.00%
+0.8%    20.00% but less than 25.00%
 
-1.1%                25.00% but less than 30.00%
+0.9%    25.00% but less than 30.00%
 
-1.2%                30.00% but less than 35.00%
+      1.0%          30.00% but less than 35.00%
 
-1.3%                35.00% but less than 40.00%
+      1.1%          35.00% but less than 40.00%
 
-1.4%                40.00% but less than 44.00%
+      1.2%          40.00% but less than 45.00%
 
-1.5%                44.00% but less than 48.00%
+      1.3%          45.00% but less than 50.00%
 
-1.6%                48.00% but less than 52.00%
+      1.4%          50.00% but less than 55.00%
 
-1.7%                52.00% but less than 56.00%
+      1.5%          55.00% but less than 60.00%
 
-1.8%                56.00% but less than 60.00%
+      1.6%          60.00% but less than 65.00%
 
-1.9%                60.00% but less than 64.00%
+      1.7%          65.00% but less than 69.00%
 
-2.0%                64.00% but less than 68.00%
+      1.8%          69.00% but less than 73.00%
 
-2.1%                68.00% but less than 72.00%
+      1.9%          73.00% but less than 77.00%
 
-2.2%                72.00% but less than 76.00%
+2.0%    77.00% but less than 80.00%
 
-2.3%                76.00% but less than 79.00%
+2.1%    80.00% but less than 83.00%
 
-2.4%                79.00% but less than 82.00%
+2.2%    83.00% but less than 86.00%
 
-2.5%                82.00% but less than 85.00%
+2.3%    86.00% but less than 89.00%
 
-2.6%                85.00% but less than 88.00%
+2.4%    89.00% but less than 91.00%
 
-2.7%                88.00% but less than 90.00%
+2.5%    91.00% but less than 93.00%
 
-2.8%                90.00% but less than 92.00%
+2.6%    93.00% but less than 95.00%
 
-2.9%                92.00% but less than 93.50%
+2.7%    95.00% but less than 96.00%
 
-3.0%                93.50% but less than 94.90%
+2.8%    96.00% but less than 96.90%
 
-3.1%                94.90% but less than 96.20%
+2.9%    96.90% but less than 97.70%
 
-3.2%                96.20% but less than 97.40%
+3.0%    97.70% but less than 98.40%
 
-3.4%                97.40% but less than 98.54%
+3.1%    98.40% but less than 98.90%
 
-3.6%                98.54% but less than 99.54%
+3.2%    98.90% but less than 99.30%
 
-3.8%                99.54% but less than 99.63%
+3.4%    99.30% but less than 99.54%
 
-4.0%                99.63% but less than 99.71%
+3.6%    99.54% but less than 99.63%
 
-4.2%                99.71% but less than 99.78%
+3.8%    99.63% but less than 99.71%
 
-4.4%                99.78% but less than 99.84%
+4.0%    99.71% but less than 99.78%
 
-4.6%                99.84% but less than 99.89%
+4.2%    99.78% but less than 99.84%
 
-4.8%                99.89% but less than 99.93%
+4.4%    99.84% but less than 99.89%
 
-5.0%                99.93% but less than 99.96%
+4.6%    99.89% but less than 99.93%
 
-5.2%                99.96% but less than 99.98%
+4.8%    99.93% but less than 99.96%
 
-5.4%                            99.98% to 100.00%
+5.0%    99.96% but less than 99.98%
+
+5.2%    99.98% but less than 99.99%
+
+ 
+
+5.4%    99.99% to 100.00%
 
 ______________________________________________________________________________
 
@@ -4107,87 +4069,91 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio III
+      Fund Adequacy Percentage Ratio II
 
-                        170.00% but less than 190%
+      190.00% but less than 200%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.9%                0.00% but less than 10.00%
+0.7%    0.00% but less than 10.00%
 
-1.0%                10.00% but less than 15.00%
+0.8%    10.00% but less than 15.00%
 
-1.1%                15.00% but less than 20.00%
+0.9%    15.00% but less than 20.00%
 
-1.2%                20.00% but less than 24.00%
+      1.0%          20.00% but less than 25.00%
 
-1.3%                24.00% but less than 28.00%
+      1.1%          25.00% but less than 30.00%
 
-1.4%                28.00% but less than 32.00%
+      1.2%          30.00% but less than 35.00%
 
-1.5%                32.00% but less than 36.00%
+      1.3%          35.00% but less than 40.00%
 
-1.6%                36.00% but less than 40.00%
+      1.4%          40.00% but less than 44.00%
 
-1.7%                40.00% but less than 44.00%
+      1.5%          44.00% but less than 48.00%
 
-1.8%                44.00% but less than 48.00%
+      1.6%          48.00% but less than 52.00%
 
-1.9%                48.00% but less than 52.00%
+      1.7%          52.00% but less than 56.00%
 
-2.0%                52.00% but less than 56.00%
+      1.8%          56.00% but less than 60.00%
 
-2.1%                56.00% but less than 60.00%
+      1.9%          60.00% but less than 64.00%
 
-2.2%                60.00% but less than 64.00%
+2.0%    64.00% but less than 68.00%
 
-2.3%                64.00% but less than 68.00%
+2.1%    68.00% but less than 72.00%
 
-2.4%                68.00% but less than 72.00%
+2.2%    72.00% but less than 76.00%
 
-2.5%                72.00% but less than 76.00%
+2.3%    76.00% but less than 79.00%
 
-2.6%                76.00% but less than 80.00%
+2.4%    79.00% but less than 82.00%
 
-2.7%                80.00% but less than 84.00%
+2.5%    82.00% but less than 85.00%
 
-2.8%                84.00% but less than 87.00%
+2.6%    85.00% but less than 88.00%
 
-2.9%                87.00% but less than 90.00%
+2.7%    88.00% but less than 90.00%
 
-3.0%                90.00% but less than 93.00%
+2.8%    90.00% but less than 92.00%
 
-3.1%                93.00% but less than 95.00%
+2.9%    92.00% but less than 93.50%
 
-3.2%                95.00% but less than 97.00%
+3.0%    93.50% but less than 94.90%
 
-3.4%                97.00% but less than 98.20%
+3.1%    94.90% but less than 96.20%
 
-3.6%                98.20% but less than 99.00%
+3.2%    96.20% but less than 97.40%
 
-3.8%                99.00% but less than 99.43%
+3.4%    97.40% but less than 98.54%
 
-4.0%                99.43% but less than 99.63%
+3.6%    98.54% but less than 99.54%
 
-4.2%                99.63% but less than 99.72%
+3.8%    99.54% but less than 99.63%
 
-4.4%                99.72% but less than 99.79%
+4.0%    99.63% but less than 99.71%
 
-4.6%                99.79% but less than 99.85%
+4.2%    99.71% but less than 99.78%
 
-4.8%                99.85% but less than 99.90%
+4.4%    99.78% but less than 99.84%
 
-5.0%                99.90% but less than 99.94%
+4.6%    99.84% but less than 99.89%
 
-5.2%                99.94% but less than 99.97%
+4.8%    99.89% but less than 99.93%
 
-5.4%                            99.97% to 100.00%
+5.0%    99.93% but less than 99.96%
+
+5.2%   99.96% but less than 99.98%
+
+5.4%    99.98% to 100.00%
 
 ______________________________________________________________________________
 
@@ -4195,83 +4161,87 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio IV
+      Fund Adequacy Percentage Ratio III
 
-                        145.00% but less than 170%
+      170.00% but less than 190%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.2%              0.00% but less than 10.00%
+0.9%    0.00% but less than 10.00%
 
-1.3%                10.00% but less than 15.00%
+      1.0%          10.00% but less than 15.00%
 
-1.4%                15.00% but less than 20.00%
+      1.1%          15.00% but less than 20.00%
 
-1.5%                20.00% but less than 24.00%
+      1.2%          20.00% but less than 24.00%
 
-1.6%                24.00% but less than 28.00%
+      1.3%          24.00% but less than 28.00%
 
-1.7%                28.00% but less than 32.00%
+      1.4%          28.00% but less than 32.00%
 
-1.8%                32.00% but less than 36.00%
+      1.5%          32.00% but less than 36.00%
 
-1.9%                36.00% but less than 40.00%
+      1.6%          36.00% but less than 40.00%
 
-2.0%                40.00% but less than 44.00%
+      1.7%          40.00% but less than 44.00%
 
-2.1%                44.00% but less than 48.00%
+      1.8%          44.00% but less than 48.00%
 
-2.2%                48.00% but less than 52.00%
+      1.9%          48.00% but less than 52.00%
 
-2.3%                52.00% but less than 56.00%
+2.0%    52.00% but less than 56.00%
 
-2.4%                56.00% but less than 60.00%
+2.1%    56.00% but less than 60.00%
 
-2.5%                60.00% but less than 64.00%
+2.2%    60.00% but less than 64.00%
 
-2.6%                64.00% but less than 68.00%
+2.3%    64.00% but less than 68.00%
 
-2.7%                68.00% but less than 72.00%
+2.4%    68.00% but less than 72.00%
 
-2.8%                72.00% but less than 76.00%
+2.5%    72.00% but less than 76.00%
 
-2.9%                76.00% but less than 80.00%
+2.6%    76.00% but less than 80.00%
 
-3.0%                80.00% but less than 84.00%
+2.7%    80.00% but less than 84.00%
 
-3.1%                84.00% but less than 88.00%
+2.8%    84.00% but less than 87.00%
 
-3.2%                88.00% but less than 92.00%
+2.9%    87.00% but less than 90.00%
 
-3.3%                92.00% but less than 95.00%
+3.0%    90.00% but less than 93.00%
 
-3.4%                95.00% but less than 97.00%
+3.1%    93.00% but less than 95.00%
 
-3.6%                97.00% but less than 98.20%
+3.2%    95.00% but less than 97.00%
 
-3.8%                98.20% but less than 99.00%
+3.4%    97.00% but less than 98.20%
 
-4.0%                99.00% but less than 99.40%
+3.6%    98.20% but less than 99.00%
 
-4.2%                99.40% but less than 99.60%
+3.8%    99.00% but less than 99.43%
 
-4.4%                99.60% but less than 99.70%
+4.0%    99.43% but less than 99.63%
 
-4.6%                99.70% but less than 99.78%
+4.2%    99.63% but less than 99.72%
 
-4.8%                99.78% but less than 99.85%
+4.4%    99.72% but less than 99.79%
 
-5.0%                99.85% but less than 99.91%
+4.6%    99.79% but less than 99.85%
 
-5.2%                99.91% but less than 99.96%
+4.8%    99.85% but less than 99.90%
 
-5.4%                99.96% to 100.00%
+5.0%    99.90% but less than 99.94%
+
+5.2%    99.94% but less than 99.97%
+
+5.4%    99.97% to 100.00%
 
 ______________________________________________________________________________
 
@@ -4279,83 +4249,83 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio V
+      Fund Adequacy Percentage Ratio IV
 
-                        125.00% but less than 145%
+      145.00% but less than 170%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.5%                0.00% but less than 10.00%
+      1.2%          0.00% but less than 10.00%
 
-1.6%                10.00% but less than 15.00%
+      1.3%          10.00% but less than 15.00%
 
-1.7%                15.00% but less than 20.00%
+      1.4%          15.00% but less than 20.00%
 
-1.8%                20.00% but less than 24.00%
+      1.5%          20.00% but less than 24.00%
 
-1.9%                24.00% but less than 28.00%
+      1.6%          24.00% but less than 28.00%
 
-2.0%                28.00% but less than 32.00%
+      1.7%          28.00% but less than 32.00%
 
-2.1%                32.00% but less than 36.00%
+      1.8%          32.00% but less than 36.00%
 
-2.2%                36.00% but less than 40.00%
+      1.9%          36.00% but less than 40.00%
 
-2.3%                40.00% but less than 44.00%
+2.0%    40.00% but less than 44.00%
 
-2.4%                44.00% but less than 48.00%
+2.1%    44.00% but less than 48.00%
 
-2.5%                48.00% but less than 52.00%
+2.2%    48.00% but less than 52.00%
 
-2.6%                52.00% but less than 56.00%
+2.3%    52.00% but less than 56.00%
 
-2.7%                56.00% but less than 60.00%
+2.4%    56.00% but less than 60.00%
 
-2.8%                60.00% but less than 64.00%
+2.5%    60.00% but less than 64.00%
 
-2.9%                64.00% but less than 68.00%
+2.6%    64.00% but less than 68.00%
 
-3.0%                68.00% but less than 72.00%
+2.7%    68.00% but less than 72.00%
 
-3.1%                72.00% but less than 76.00%
+2.8%    72.00% but less than 76.00%
 
-3.2%                76.00% but less than 80.00%
+2.9%    76.00% but less than 80.00%
 
-3.3%                80.00% but less than 84.00%
+3.0%    80.00% but less than 84.00%
 
-3.4%                84.00% but less than 88.00%
+3.1%    84.00% but less than 88.00%
 
-3.5%                88.00% but less than 92.00%
+3.2%    88.00% but less than 92.00%
 
-3.6%                92.00% but less than 95.00%
+3.3%    92.00% but less than 95.00%
 
-3.7%                95.00% but less than 97.00%
+3.4%    95.00% but less than 97.00%
 
-3.8%                97.00% but less than 98.20%
+3.6%    97.00% but less than 98.20%
 
-3.9%                98.20% but less than 99.00%
+3.8%    98.20% but less than 99.00%
 
-4.0%                99.00% but less than 99.40%
+4.0%    99.00% but less than 99.40%
 
-4.2%                99.40% but less than 99.60%
+4.2%    99.40% but less than 99.60%
 
-4.4%                99.60% but less than 99.70%
+4.4%    99.60% but less than 99.70%
 
-4.6%                99.70% but less than 99.78%
+4.6%    99.70% but less than 99.78%
 
-4.8%                99.78% but less than 99.85%
+4.8%    99.78% but less than 99.85%
 
-5.0%                99.85% but less than 99.91%
+5.0%    99.85% but less than 99.91%
 
-5.2%                99.91% but less than 99.96%
+5.2%    99.91% but less than 99.96%
 
-5.4%                99.96% to 100.00%
+5.4%    99.96% to 100.00%
 
 ______________________________________________________________________________
 
@@ -4363,77 +4333,83 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VI
+      Fund Adequacy Percentage Ratio V
 
-                        110.00% but less than 125%
+      125.00% but less than 145%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.8%              0.00% but less than 10.00%
+      1.5%          0.00% but less than 10.00%
 
-1.9%                10.00% but less than 15.00%
+      1.6%          10.00% but less than 15.00%
 
-2.0%                15.00% but less than 20.00%
+      1.7%          15.00% but less than 20.00%
 
-2.1%                20.00% but less than 25.00%
+      1.8%          20.00% but less than 24.00%
 
-2.2%                25.00% but less than 30.00%
+      1.9%          24.00% but less than 28.00%
 
-2.3%                30.00% but less than 35.00%
+2.0%    28.00% but less than 32.00%
 
-2.4%                35.00% but less than 40.00%
+2.1%    32.00% but less than 36.00%
 
-2.5%                40.00% but less than 44.00%
+2.2%    36.00% but less than 40.00%
 
-2.6%                44.00% but less than 48.00%
+2.3%    40.00% but less than 44.00%
 
-2.7%                48.00% but less than 52.00%
+2.4%    44.00% but less than 48.00%
 
-2.8%                52.00% but less than 56.00%
+2.5%    48.00% but less than 52.00%
 
-2.9%                56.00% but less than 60.00%
+2.6%    52.00% but less than 56.00%
 
-3.0%                60.00% but less than 64.00%
+2.7%    56.00% but less than 60.00%
 
-3.1%                64.00% but less than 68.00%
+2.8%    60.00% but less than 64.00%
 
-3.2%                68.00% but less than 72.00%
+2.9%    64.00% but less than 68.00%
 
-3.3%                72.00% but less than 76.00%
+3.0%    68.00% but less than 72.00%
 
-3.4%                76.00% but less than 80.00%
+3.1%    72.00% but less than 76.00%
 
-3.5%                80.00% but less than 84.00%
+3.2%    76.00% but less than 80.00%
 
-3.6%                84.00% but less than 88.00%
+3.3%    80.00% but less than 84.00%
 
-3.7%                88.00% but less than 92.00%
+3.4%    84.00% but less than 88.00%
 
-3.8%                92.00% but less than 95.00%
+3.5%    88.00% but less than 92.00%
 
-3.9%                95.00% but less than 97.00%
+3.6%    92.00% but less than 95.00%
 
-4.0%                97.00% but less than 98.20%
+3.7%    95.00% but less than 97.00%
 
-4.2%                98.20% but less than 99.00%
+3.8%    97.00% but less than 98.20%
 
-4.4%                99.00% but less than 99.50%
+3.9%    98.20% but less than 99.00%
 
-4.6%                99.50% but less than 99.70%
+4.0%    99.00% but less than 99.40%
 
-4.8%                99.70% but less than 99.79%
+4.2%    99.40% but less than 99.60%
 
-5.0%                99.79% but less than 99.87%
+4.4%    99.60% but less than 99.70%
 
-5.2%                99.87% but less than 99.94%
+4.6%    99.70% but less than 99.78%
 
-5.4%                            99.94% to 100.00%
+4.8%    99.78% but less than 99.85%
+
+5.0%    99.85% but less than 99.91%
+
+5.2%    99.91% but less than 99.96%
+
+5.4%    99.96% to 100.00%
 
 ______________________________________________________________________________
 
@@ -4441,73 +4417,77 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VII
+      Fund Adequacy Percentage Ratio VI
 
-                        100.00% but less than 110%
+      110.00% but less than 125%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-2.0%              0.00% but less than 10.00%
+      1.8%          0.00% but less than 10.00%
 
-2.1%                10.00% but less than 15.00%
+      1.9%          10.00% but less than 15.00%
 
-2.2%                15.00% but less than 20.00%
+2.0%    15.00% but less than 20.00%
 
-2.3%                20.00% but less than 25.00%
+2.1%    20.00% but less than 25.00%
 
-2.4%                25.00% but less than 30.00%
+2.2%    25.00% but less than 30.00%
 
-2.5%                30.00% but less than 35.00%
+2.3%    30.00% but less than 35.00%
 
-2.6%                35.00% but less than 40.00%
+2.4%    35.00% but less than 40.00%
 
-2.7%                40.00% but less than 45.00%
+2.5%    40.00% but less than 44.00%
 
-2.8%                45.00% but less than 50.00%
+2.6%    44.00% but less than 48.00%
 
-2.9%                50.00% but less than 55.00%
+2.7%    48.00% but less than 52.00%
 
-3.0%                55.00% but less than 60.00%
+2.8%    52.00% but less than 56.00%
 
-3.1%                60.00% but less than 64.00%
+2.9%    56.00% but less than 60.00%
 
-3.2%                64.00% but less than 68.00%
+3.0%    60.00% but less than 64.00%
 
-3.3%                68.00% but less than 72.00%
+3.1%    64.00% but less than 68.00%
 
-3.4%                72.00% but less than 76.00%
+3.2%    68.00% but less than 72.00%
 
-3.5%                76.00% but less than 80.00%
+3.3%    72.00% but less than 76.00%
 
-3.6%                80.00% but less than 84.00%
+3.4%    76.00% but less than 80.00%
 
-3.7%                84.00% but less than 88.00%
+3.5%    80.00% but less than 84.00%
 
-3.8%                88.00% but less than 92.00%
+3.6%    84.00% but less than 88.00%
 
-3.9%                92.00% but less than 95.00%
+3.7%    88.00% but less than 92.00%
 
-4.0%                95.00% but less than 97.00%
+3.8%    92.00% but less than 95.00%
 
-4.2%                97.00% but less than 98.20%
+3.9%    95.00% but less than 97.00%
 
-4.4%                98.20% but less than 99.00%
+4.0%    97.00% but less than 98.20%
 
-4.6%                99.00% but less than 99.50%
+4.2%    98.20% but less than 99.00%
 
-4.8%                99.50% but less than 99.70%
+4.4%    99.00% but less than 99.50%
 
-5.0%                99.70% but less than 99.84%
+4.6%    99.50% but less than 99.70%
 
-5.2%                99.84% but less than 99.93%
+4.8%    99.70% but less than 99.79%
 
-5.4%                            99.93% to 100.00%
+5.0%    99.79% but less than 99.87%
+
+5.2%    99.87% but less than 99.94%
+
+5.4%    99.94% to 100.00%
 
 ______________________________________________________________________________
 
@@ -4515,69 +4495,143 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VIII
+      Fund Adequacy Percentage Ratio VII
 
-                        Under 100%
+      100.00% but less than 110%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-2.2%              0.00% but less than 10.00%
+2.0%    0.00% but less than 10.00%
 
-2.3%                10.00% but less than 15.00%
+2.1%    10.00% but less than 15.00%
 
-2.4%                15.00% but less than 20.00%
+2.2%    15.00% but less than 20.00%
 
-2.5%                20.00% but less than 25.00%
+2.3%    20.00% but less than 25.00%
 
-2.6%                25.00% but less than 30.00%
+2.4%    25.00% but less than 30.00%
 
-2.7%                30.00% but less than 35.00%
+2.5%    30.00% but less than 35.00%
 
-2.8%                35.00% but less than 40.00%
+2.6%    35.00% but less than 40.00%
 
-2.9%                40.00% but less than 45.00%
+2.7%    40.00% but less than 45.00%
 
-3.0%                45.00% but less than 50.00%
+2.8%    45.00% but less than 50.00%
 
-3.1%                50.00% but less than 55.00%
+2.9%    50.00% but less than 55.00%
 
-3.2%                55.00% but less than 60.00%
+3.0%    55.00% but less than 60.00%
 
-3.3%                60.00% but less than 65.00%
+3.1%    60.00% but less than 64.00%
 
-3.4%                65.00% but less than 70.00%
+3.2%    64.00% but less than 68.00%
 
-3.5%                70.00% but less than 75.00%
+3.3%    68.00% but less than 72.00%
 
-3.6%                75.00% but less than 80.00%
+3.4%    72.00% but less than 76.00%
 
-3.7%                80.00% but less than 84.00%
+3.5%    76.00% but less than 80.00%
 
-3.8%                84.00% but less than 88.00%
+3.6%    80.00% but less than 84.00%
 
-3.9%                88.00% but less than 92.00%
+3.7%    84.00% but less than 88.00%
 
-4.0%                92.00% but less than 95.00%
+3.8%    88.00% but less than 92.00%
 
-4.2%                95.00% but less than 97.00%
+3.9%    92.00% but less than 95.00%
 
-4.4%                97.00% but less than 98.20%
+4.0%    95.00% but less than 97.00%
 
-4.6%                98.20% but less than 99.00%
+4.2%    97.00% but less than 98.20%
 
-4.8%                99.00% but less than 99.50%
+4.4%    98.20% but less than 99.00%
 
-5.0%                99.50% but less than 99.80%
+4.6%    99.00% but less than 99.50%
 
-5.2%                99.80% but less than 99.92%
+4.8%    99.50% but less than 99.70%
 
-5.4%                            99.92% to 100.00%
+5.0%    99.70% but less than 99.84%
+
+5.2%    99.84% but less than 99.93%
+
+5.4%    99.93% to 100.00%
+
+______________________________________________________________________________
+
+______________________________________________________________________________
+
+ 
+
+      Fund Adequacy Percentage Ratio VIII
+
+      Under 100%
+
+ 
+
+Tax Rate         Cumulative Taxable Payroll Limits
+
+      (Percentage of Total Taxable Payroll)
+
+ 
+
+2.2%    0.00% but less than 10.00%
+
+2.3%    10.00% but less than 15.00%
+
+2.4%    15.00% but less than 20.00%
+
+2.5%    20.00% but less than 25.00%
+
+2.6%    25.00% but less than 30.00%
+
+2.7%    30.00% but less than 35.00%
+
+2.8%    35.00% but less than 40.00%
+
+2.9%    40.00% but less than 45.00%
+
+3.0%    45.00% but less than 50.00%
+
+3.1%    50.00% but less than 55.00%
+
+3.2%    55.00% but less than 60.00%
+
+3.3%    60.00% but less than 65.00%
+
+3.4%    65.00% but less than 70.00%
+
+3.5%    70.00% but less than 75.00%
+
+3.6%    75.00% but less than 80.00%
+
+3.7%    80.00% but less than 84.00%
+
+3.8%    84.00% but less than 88.00%
+
+3.9%    88.00% but less than 92.00%
+
+4.0%    92.00% but less than 95.00%
+
+4.2%    95.00% but less than 97.00%
+
+4.4%    97.00% but less than 98.20%
+
+4.6%    98.20% but less than 99.00%
+
+4.8%    99.00% but less than 99.50%
+
+5.0%    99.50% but less than 99.80%
+
+5.2%    99.80% but less than 99.92%
+
+5.4%    99.92% to 100.00%
 
  
 
@@ -4591,187 +4645,97 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio I B
+      Fund Adequacy Percentage Ratio I B
 
-                        200% and Over
-
- 
-
-Tax Rate         Cumulative Taxable Payroll Limits
-
-                        (Percentage of Total Taxable Payroll)
-
- 
-
-0.41%              0.00% but less than 10.00%
-
-0.51%              10.00% but less than 15.00%
-
-0.61%              15.00% but less than 20.00%
-
-0.71%              20.00% but less than 25.00%
-
-0.81%              25.00% but less than 30.00%
-
-0.91%              30.00% but less than 35.00%
-
-1.01%              35.00% but less than 40.00%
-
-1.11%              40.00% but less than 45.00%
-
-1.21%              45.00% but less than 50.00%
-
-1.31%              50.00% but less than 55.00%
-
-1.41%              55.00% but less than 60.00%
-
-1.51%              60.00% but less than 65.00%
-
-1.61%              65.00% but less than 69.00%
-
-1.71%              69.00% but less than 73.00%
-
-1.81%              73.00% but less than 77.00%
-
-1.91%              77.00% but less than 80.00%
-
-2.01%              80.00% but less than 83.00%
-
-2.11%              83.00% but less than 86.00%
-
-2.21%              86.00% but less than 89.00%
-
-2.31%              89.00% but less than 91.00%
-
-2.41%              91.00% but less than 93.00%
-
-2.51%              93.00% but less than 95.00%
-
-2.61%              95.00% but less than 96.00%
-
-2.71%              96.00% but less than 96.90%
-
-2.81%              96.90% but less than 97.70%
-
-2.91%              97.70% but less than 98.40%
-
-3.01%              98.40% but less than 98.90%
-
-3.11%              98.90% but less than 99.30%
-
-3.31%              99.30% but less than 99.54%
-
-3.51%              99.54% but less than 99.63%
-
-3.71%              99.63% but less than 99.71%
-
-3.91%              99.71% but less than 99.78%
-
-4.11%              99.78% but less than 99.84%
-
-4.31%              99.84% but less than 99.89%
-
-4.51%              99.89% but less than 99.93%
-
-4.71%              99.93% but less than 99.96%
-
-4.91%              99.96% but less than 99.98%
-
-5.11%              99.98% but less than 99.99%
-
-5.40%                          99.99% to 100%
-
-______________________________________________________________________________
-
-______________________________________________________________________________
-
- 
-
-                        Fund Adequacy Percentage Ratio II B
-
-                        190.00% but less than 200%
+      200% and Over
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.61%              0.00% but less than 10.00%
+0.41%  0.00% but less than 10.00%
 
-0.71%              10.00% but less than 15.00%
+0.51%  10.00% but less than 15.00%
 
-0.81%              15.00% but less than 20.00%
+0.61%  15.00% but less than 20.00%
 
-0.91%              20.00% but less than 25.00%
+0.71%  20.00% but less than 25.00%
 
-1.01%              25.00% but less than 30.00%
+0.81%  25.00% but less than 30.00%
 
-1.11%              30.00% but less than 35.00%
+0.91%  30.00% but less than 35.00%
 
-1.21%              35.00% but less than 40.00%
+      1.01%        35.00% but less than 40.00%
 
-1.31%              40.00% but less than 44.00%
+      1.11%        40.00% but less than 45.00%
 
-1.41%              44.00% but less than 48.00%
+      1.21%        45.00% but less than 50.00%
 
-1.51%              48.00% but less than 52.00%
+      1.31%        50.00% but less than 55.00%
 
-1.61%              52.00% but less than 56.00%
+      1.41%        55.00% but less than 60.00%
 
-1.71%              56.00% but less than 60.00%
+      1.51%        60.00% but less than 65.00%
 
-1.81%              60.00% but less than 64.00%
+      1.61%        65.00% but less than 69.00%
 
-1.91%              64.00% but less than 68.00%
+      1.71%        69.00% but less than 73.00%
 
-2.01%              68.00% but less than 72.00%
+      1.81%        73.00% but less than 77.00%
 
-2.11%              72.00% but less than 76.00%
+      1.91%        77.00% but less than 80.00%
 
-2.21%              76.00% but less than 79.00%
+2.01%  80.00% but less than 83.00%
 
-2.31%              79.00% but less than 82.00%
+2.11%  83.00% but less than 86.00%
 
-2.41%              82.00% but less than 85.00%
+2.21%  86.00% but less than 89.00%
 
-2.51%              85.00% but less than 88.00%
+2.31%  89.00% but less than 91.00%
 
-2.61%              88.00% but less than 90.00%
+2.41%  91.00% but less than 93.00%
 
-2.71%              90.00% but less than 92.00%
+2.51%  93.00% but less than 95.00%
 
-2.81%              92.00% but less than 93.50%
+2.61%  95.00% but less than 96.00%
 
-2.91%              93.50% but less than 94.90%
+2.71%  96.00% but less than 96.90%
 
-3.01%              94.90% but less than 96.20%
+2.81%  96.90% but less than 97.70%
 
-3.11%              96.20% but less than 97.40%
+2.91%  97.70% but less than 98.40%
 
-3.31%              97.40% but less than 98.54%
+3.01%  98.40% but less than 98.90%
 
-3.51%              98.54% but less than 99.54%
+3.11%  98.90% but less than 99.30%
 
-3.71%              99.54% but less than 99.63%
+3.31%  99.30% but less than 99.54%
 
-3.91%              99.63% but less than 99.71%
+3.51%  99.54% but less than 99.63%
 
-4.11%              99.71% but less than 99.78%
+3.71%  99.63% but less than 99.71%
 
-4.31%              99.78% but less than 99.84%
+3.91%  99.71% but less than 99.78%
 
-4.51%              99.84% but less than 99.89%
+4.11%  99.78% but less than 99.84%
 
-4.71%              99.89% but less than 99.93%
+4.31%  99.84% but less than 99.89%
 
-4.91%              99.93% but less than 99.96%
+4.51%  99.89% but less than 99.93%
 
-5.11%              99.96% but less than 99.98%
+4.71%  99.93% but less than 99.96%
 
-5.40%                          99.98% to 100%
+4.91%  99.96% but less than 99.98%
+
+5.11%  99.98% but less than 99.99%
+
+ 
+
+5.40%  99.99% to 100%
 
 ______________________________________________________________________________
 
@@ -4779,87 +4743,93 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio III B
+      Fund Adequacy Percentage Ratio II B
 
-                        170.00% but less than 190%
+      190.00% but less than 200%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-0.81%              0.00% but less than 10.00%
+0.61%  0.00% but less than 10.00%
 
-0.91%              10.00% but less than 15.00%
+0.71%  10.00% but less than 15.00%
 
-1.01%              15.00% but less than 20.00%
+0.81%  15.00% but less than 20.00%
 
-1.11%              20.00% but less than 24.00%
+0.91%  20.00% but less than 25.00%
 
-1.21%              24.00% but less than 28.00%
+      1.01%        25.00% but less than 30.00%
 
-1.31%              28.00% but less than 32.00%
+      1.11%        30.00% but less than 35.00%
 
-1.41%              32.00% but less than 36.00%
+      1.21%        35.00% but less than 40.00%
 
-1.51%              36.00% but less than 40.00%
+      1.31%        40.00% but less than 44.00%
 
-1.61%              40.00% but less than 44.00%
+      1.41%        44.00% but less than 48.00%
 
-1.71%              44.00% but less than 48.00%
+      1.51%        48.00% but less than 52.00%
 
-1.81%              48.00% but less than 52.00%
+      1.61%        52.00% but less than 56.00%
 
-1.91%              52.00% but less than 56.00%
+      1.71%        56.00% but less than 60.00%
 
-2.01%              56.00% but less than 60.00%
+      1.81%        60.00% but less than 64.00%
 
-2.11%              60.00% but less than 64.00%
+      1.91%        64.00% but less than 68.00%
 
-2.21%              64.00% but less than 68.00%
+2.01%  68.00% but less than 72.00%
 
-2.31%              68.00% but less than 72.00%
+2.11%  72.00% but less than 76.00%
 
-2.41%              72.00% but less than 76.00%
+2.21%  76.00% but less than 79.00%
 
-2.51%              76.00% but less than 80.00%
+2.31%  79.00% but less than 82.00%
 
-2.61%              80.00% but less than 84.00%
+2.41%  82.00% but less than 85.00%
 
-2.71%              84.00% but less than 87.00%
+2.51%  85.00% but less than 88.00%
 
-2.81%              87.00% but less than 90.00%
+2.61%  88.00% but less than 90.00%
 
-2.91%              90.00% but less than 93.00%
+2.71%  90.00% but less than 92.00%
 
-3.01%              93.00% but less than 95.00%
+2.81%  92.00% but less than 93.50%
 
-3.11%              95.00% but less than 97.00%
+2.91%  93.50% but less than 94.90%
 
-3.31%              97.00% but less than 98.20%
+3.01%  94.90% but less than 96.20%
 
-3.51%              98.20% but less than 99.00%
+3.11%  96.20% but less than 97.40%
 
-3.71%              99.00% but less than 99.43%
+3.31%  97.40% but less than 98.54%
 
-3.91%              99.43% but less than 99.63%
+3.51%  98.54% but less than 99.54%
 
-4.11%              99.63% but less than 99.72%
+3.71%  99.54% but less than 99.63%
 
-4.31%              99.72% but less than 99.79%
+3.91%  99.63% but less than 99.71%
 
-4.51%              99.79% but less than 99.85%
+4.11%  99.71% but less than 99.78%
 
-4.71%              99.85% but less than 99.90%
+4.31%  99.78% but less than 99.84%
 
-4.91%              99.90% but less than 99.94%
+4.51%  99.84% but less than 99.89%
 
-5.11%              99.94% but less than 99.97%
+4.71%  99.89% but less than 99.93%
 
-5.40%                          99.97% to 100%
+4.91%  99.93% but less than 99.96%
+
+5.11%  99.96% but less than 99.98%
+
+ 
+
+5.40%  99.98% to 100%
 
 ______________________________________________________________________________
 
@@ -4867,83 +4837,89 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio IV B
+      Fund Adequacy Percentage Ratio III B
 
-                        145.00% but less than 170%
+      170.00% but less than 190%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.11%              0.00% but less than 10.00%
+0.81%  0.00% but less than 10.00%
 
-1.21%              10.00% but less than 15.00%
+0.91%  10.00% but less than 15.00%
 
-1.31%              15.00% but less than 20.00%
+      1.01%        15.00% but less than 20.00%
 
-1.41%              20.00% but less than 24.00%
+      1.11%        20.00% but less than 24.00%
 
-1.51%              24.00% but less than 28.00%
+      1.21%        24.00% but less than 28.00%
 
-1.61%              28.00% but less than 32.00%
+      1.31%        28.00% but less than 32.00%
 
-1.71%              32.00% but less than 36.00%
+      1.41%        32.00% but less than 36.00%
 
-1.81%              36.00% but less than 40.00%
+      1.51%        36.00% but less than 40.00%
 
-1.91%              40.00% but less than 44.00%
+      1.61%        40.00% but less than 44.00%
 
-2.01%              44.00% but less than 48.00%
+      1.71%        44.00% but less than 48.00%
 
-2.11%              48.00% but less than 52.00%
+      1.81%        48.00% but less than 52.00%
 
-2.21%              52.00% but less than 56.00%
+      1.91%        52.00% but less than 56.00%
 
-2.31%              56.00% but less than 60.00%
+2.01%  56.00% but less than 60.00%
 
-2.41%              60.00% but less than 64.00%
+2.11%  60.00% but less than 64.00%
 
-2.51%              64.00% but less than 68.00%
+2.21%  64.00% but less than 68.00%
 
-2.61%              68.00% but less than 72.00%
+2.31%  68.00% but less than 72.00%
 
-2.71%              72.00% but less than 76.00%
+2.41%  72.00% but less than 76.00%
 
-2.81%              76.00% but less than 80.00%
+2.51%  76.00% but less than 80.00%
 
-2.91%              80.00% but less than 84.00%
+2.61%  80.00% but less than 84.00%
 
-3.01%              84.00% but less than 88.00%
+2.71%  84.00% but less than 87.00%
 
-3.11%              88.00% but less than 92.00%
+2.81%  87.00% but less than 90.00%
 
-3.21%              92.00% but less than 95.00%
+2.91%  90.00% but less than 93.00%
 
-3.31%              95.00% but less than 97.00%
+3.01%  93.00% but less than 95.00%
 
-3.51%              97.00% but less than 98.20%
+3.11%  95.00% but less than 97.00%
 
-3.71%              98.20% but less than 99.00%
+3.31%  97.00% but less than 98.20%
 
-3.91%              99.00% but less than 99.40%
+3.51%  98.20% but less than 99.00%
 
-4.11%              99.40% but less than 99.60%
+3.71%  99.00% but less than 99.43%
 
-4.31%              99.60% but less than 99.70%
+3.91%  99.43% but less than 99.63%
 
-4.51%              99.70% but less than 99.78%
+4.11%  99.63% but less than 99.72%
 
-4.71%              99.78% but less than 99.85%
+4.31%  99.72% but less than 99.79%
 
-4.91%              99.85% but less than 99.91%
+4.51%  99.79% but less than 99.85%
 
-5.11%              99.91% but less than 99.96%
+4.71%  99.85% but less than 99.90%
 
-5.40%                          99.96% to 100.00%
+4.91%  99.90% but less than 99.94%
+
+5.11%  99.94% but less than 99.97%
+
+ 
+
+5.40%  99.97% to 100%
 
 ______________________________________________________________________________
 
@@ -4951,83 +4927,85 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio V B
+      Fund Adequacy Percentage Ratio IV B
 
-                        125.00% but less than 145%
+      145.00% but less than 170%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.41%              0.00% but less than 10.00%
+      1.11%        0.00% but less than 10.00%
 
-1.51%              10.00% but less than 15.00%
+      1.21%        10.00% but less than 15.00%
 
-1.61%              15.00% but less than 20.00%
+      1.31%        15.00% but less than 20.00%
 
-1.71%              20.00% but less than 24.00%
+      1.41%        20.00% but less than 24.00%
 
-1.81%              24.00% but less than 28.00%
+      1.51%        24.00% but less than 28.00%
 
-1.91%              28.00% but less than 32.00%
+      1.61%        28.00% but less than 32.00%
 
-2.01%              32.00% but less than 36.00%
+      1.71%        32.00% but less than 36.00%
 
-2.11%              36.00% but less than 40.00%
+      1.81%        36.00% but less than 40.00%
 
-2.21%              40.00% but less than 44.00%
+      1.91%        40.00% but less than 44.00%
 
-2.31%              44.00% but less than 48.00%
+2.01%  44.00% but less than 48.00%
 
-2.41%              48.00% but less than 52.00%
+2.11%  48.00% but less than 52.00%
 
-2.51%              52.00% but less than 56.00%
+2.21%  52.00% but less than 56.00%
 
-2.61%              56.00% but less than 60.00%
+2.31%  56.00% but less than 60.00%
 
-2.71%              60.00% but less than 64.00%
+2.41%  60.00% but less than 64.00%
 
-2.81%              64.00% but less than 68.00%
+2.51%  64.00% but less than 68.00%
 
-2.91%              68.00% but less than 72.00%
+2.61%  68.00% but less than 72.00%
 
-3.01%              72.00% but less than 76.00%
+2.71%  72.00% but less than 76.00%
 
-3.11%              76.00% but less than 80.00%
+2.81%  76.00% but less than 80.00%
 
-3.21%              80.00% but less than 84.00%
+2.91%  80.00% but less than 84.00%
 
-3.31%              84.00% but less than 88.00%
+3.01%  84.00% but less than 88.00%
 
-3.41%              88.00% but less than 92.00%
+3.11%  88.00% but less than 92.00%
 
-3.51%              92.00% but less than 95.00%
+3.21%  92.00% but less than 95.00%
 
-3.61%              95.00% but less than 97.00%
+3.31%  95.00% but less than 97.00%
 
-3.71%              97.00% but less than 98.20%
+3.51%  97.00% but less than 98.20%
 
-3.81%              98.20% but less than 99.00%
+3.71%  98.20% but less than 99.00%
 
-3.91%              99.00% but less than 99.40%
+3.91%  99.00% but less than 99.40%
 
-4.11%              99.40% but less than 99.60%
+4.11%  99.40% but less than 99.60%
 
-4.31%              99.60% but less than 99.70%
+4.31%  99.60% but less than 99.70%
 
-4.51%              99.70% but less than 99.78%
+4.51%  99.70% but less than 99.78%
 
-4.71%              99.78% but less than 99.85%
+4.71%  99.78% but less than 99.85%
 
-4.91%              99.85% but less than 99.91%
+4.91%  99.85% but less than 99.91%
 
-5.11%              99.91% but less than 99.96%
+5.11%  99.91% but less than 99.96%
 
-5.40%              99.96% to 100.00%
+ 
+
+5.40%  99.96% to 100.00%
 
 ______________________________________________________________________________
 
@@ -5035,77 +5013,85 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VI B
+      Fund Adequacy Percentage Ratio V B
 
-                        110.00% but less than 125%
+      125.00% but less than 145%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.71%              0.00% but less than 10.00%
+      1.41%        0.00% but less than 10.00%
 
-1.81%              10.00% but less than 15.00%
+      1.51%        10.00% but less than 15.00%
 
-1.91%              15.00% but less than 20.00%
+      1.61%        15.00% but less than 20.00%
 
-2.01%              20.00% but less than 25.00%
+      1.71%        20.00% but less than 24.00%
 
-2.11%              25.00% but less than 30.00%
+      1.81%        24.00% but less than 28.00%
 
-2.21%              30.00% but less than 35.00%
+      1.91%        28.00% but less than 32.00%
 
-2.31%              35.00% but less than 40.00%
+2.01%  32.00% but less than 36.00%
 
-2.41%              40.00% but less than 44.00%
+2.11%  36.00% but less than 40.00%
 
-2.51%              44.00% but less than 48.00%
+2.21%  40.00% but less than 44.00%
 
-2.61%              48.00% but less than 52.00%
+2.31%  44.00% but less than 48.00%
 
-2.71%              52.00% but less than 56.00%
+2.41%  48.00% but less than 52.00%
 
-2.81%              56.00% but less than 60.00%
+2.51%  52.00% but less than 56.00%
 
-2.91%              60.00% but less than 64.00%
+2.61%  56.00% but less than 60.00%
 
-3.01%              64.00% but less than 68.00%
+2.71%  60.00% but less than 64.00%
 
-3.11%              68.00% but less than 72.00%
+2.81%  64.00% but less than 68.00%
 
-3.21%              72.00% but less than 76.00%
+2.91%  68.00% but less than 72.00%
 
-3.31%              76.00% but less than 80.00%
+3.01%  72.00% but less than 76.00%
 
-3.41%              80.00% but less than 84.00%
+3.11%  76.00% but less than 80.00%
 
-3.51%              84.00% but less than 88.00%
+3.21%  80.00% but less than 84.00%
 
-3.61%              88.00% but less than 92.00%
+3.31%  84.00% but less than 88.00%
 
-3.71%              92.00% but less than 95.00%
+3.41%  88.00% but less than 92.00%
 
-3.81%              95.00% but less than 97.00%
+3.51%  92.00% but less than 95.00%
 
-3.91%              97.00% but less than 98.20%
+3.61%  95.00% but less than 97.00%
 
-4.11%              98.20% but less than 99.00%
+3.71%  97.00% but less than 98.20%
 
-4.31%              99.00% but less than 99.50%
+3.81%  98.20% but less than 99.00%
 
-4.51%              99.50% but less than 99.70%
+3.91%  99.00% but less than 99.40%
 
-4.71%              99.70% but less than 99.79%
+4.11%  99.40% but less than 99.60%
 
-4.91%              99.79% but less than 99.87%
+4.31%  99.60% but less than 99.70%
 
-5.11%              99.87% but less than 99.94%
+4.51%  99.70% but less than 99.78%
 
-5.40%                          99.94% to 100.00%
+4.71%  99.78% but less than 99.85%
+
+4.91%  99.85% but less than 99.91%
+
+5.11%  99.91% but less than 99.96%
+
+ 
+
+5.40%  99.96% to 100.00%
 
 ______________________________________________________________________________
 
@@ -5113,73 +5099,79 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VII B
+      Fund Adequacy Percentage Ratio VI B
 
-                        100.00% but less than 110%
+      110.00% but less than 125%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-1.91%            0.00% but less than 10.00%
+      1.71%        0.00% but less than 10.00%
 
-2.01%              10.00% but less than 15.00%
+      1.81%        10.00% but less than 15.00%
 
-2.11%              15.00% but less than 20.00%
+      1.91%        15.00% but less than 20.00%
 
-2.21%              20.00% but less than 25.00%
+2.01%  20.00% but less than 25.00%
 
-2.31%              25.00% but less than 30.00%
+2.11%  25.00% but less than 30.00%
 
-2.41%              30.00% but less than 35.00%
+2.21%  30.00% but less than 35.00%
 
-2.51%              35.00% but less than 40.00%
+2.31%  35.00% but less than 40.00%
 
-2.61%              40.00% but less than 45.00%
+2.41%  40.00% but less than 44.00%
 
-2.71%              45.00% but less than 50.00%
+2.51%  44.00% but less than 48.00%
 
-2.81%              50.00% but less than 55.00%
+2.61%  48.00% but less than 52.00%
 
-2.91%              55.00% but less than 60.00%
+2.71%  52.00% but less than 56.00%
 
-3.01%              60.00% but less than 64.00%
+2.81%  56.00% but less than 60.00%
 
-3.11%              64.00% but less than 68.00%
+2.91%  60.00% but less than 64.00%
 
-3.21%              68.00% but less than 72.00%
+3.01%  64.00% but less than 68.00%
 
-3.31%              72.00% but less than 76.00%
+3.11%  68.00% but less than 72.00%
 
-3.41%              76.00% but less than 80.00%
+3.21%  72.00% but less than 76.00%
 
-3.51%              80.00% but less than 84.00%
+3.31%  76.00% but less than 80.00%
 
-3.61%              84.00% but less than 88.00%
+3.41%  80.00% but less than 84.00%
 
-3.71%              88.00% but less than 92.00%
+3.51%  84.00% but less than 88.00%
 
-3.81%              92.00% but less than 95.00%
+3.61%  88.00% but less than 92.00%
 
-3.91%              95.00% but less than 97.00%
+3.71%  92.00% but less than 95.00%
 
-4.11%              97.00% but less than 98.20%
+3.81%  95.00% but less than 97.00%
 
-4.31%              98.20% but less than 99.00%
+3.91%  97.00% but less than 98.20%
 
-4.51%              99.00% but less than 99.50%
+4.11%  98.20% but less than 99.00%
 
-4.71%              99.50% but less than 99.70%
+4.31%  99.00% but less than 99.50%
 
-4.91%              99.70% but less than 99.84%
+4.51%  99.50% but less than 99.70%
 
-5.11%              99.84% but less than 99.93%
+4.71%  99.70% but less than 99.79%
 
-5.40%              99.93% to 100.00%
+4.91%  99.79% but less than 99.87%
+
+5.11%  99.87% but less than 99.94%
+
+ 
+
+5.40%  99.94% to 100.00%
 
 ______________________________________________________________________________
 
@@ -5187,69 +5179,147 @@ ______________________________________________________________________________
 
  
 
-                        Fund Adequacy Percentage Ratio VIII B
+      Fund Adequacy Percentage Ratio VII B
 
-                        Under 100%
+      100.00% but less than 110%
 
  
 
 Tax Rate         Cumulative Taxable Payroll Limits
 
-                        (Percentage of Total Taxable Payroll)
+      (Percentage of Total Taxable Payroll)
 
  
 
-2.11%            0.00% but less than 10.00%
+      1.91%        0.00% but less than 10.00%
 
-2.21%              10.00% but less than 15.00%
+      2.01%        10.00% but less than 15.00%
 
-2.31%              15.00% but less than 20.00%
+      2.11%        15.00% but less than 20.00%
 
-2.41%              20.00% but less than 25.00%
+      2.21%        20.00% but less than 25.00%
 
-2.51%              25.00% but less than 30.00%
+      2.31%        25.00% but less than 30.00%
 
-2.61%              30.00% but less than 35.00%
+      2.41%        30.00% but less than 35.00%
 
-2.71%              35.00% but less than 40.00%
+      2.51%        35.00% but less than 40.00%
 
-2.81%              40.00% but less than 45.00%
+      2.61%        40.00% but less than 45.00%
 
-2.91%              45.00% but less than 50.00%
+      2.71%        45.00% but less than 50.00%
 
-3.01%              50.00% but less than 55.00%
+      2.81%        50.00% but less than 55.00%
 
-3.11%              55.00% but less than 60.00%
+      2.91%        55.00% but less than 60.00%
 
-3.21%              60.00% but less than 65.00%
+3.01%  60.00% but less than 64.00%
 
-3.31%              65.00% but less than 70.00%
+3.11%  64.00% but less than 68.00%
 
-3.41%              70.00% but less than 75.00%
+3.21%  68.00% but less than 72.00%
 
-3.51%              75.00% but less than 80.00%
+3.31%  72.00% but less than 76.00%
 
-3.61%              80.00% but less than 84.00%
+3.41%  76.00% but less than 80.00%
 
-3.71%              84.00% but less than 88.00%
+3.51%  80.00% but less than 84.00%
 
-3.81%              88.00% but less than 92.00%
+3.61%  84.00% but less than 88.00%
 
-3.91%              92.00% but less than 95.00%
+3.71%  88.00% but less than 92.00%
 
-4.11%              95.00% but less than 97.00%
+3.81%  92.00% but less than 95.00%
 
-4.31%              97.00% but less than 98.20%
+3.91%  95.00% but less than 97.00%
 
-4.51%              98.20% but less than 99.00%
+4.11%  97.00% but less than 98.20%
 
-4.71%              99.00% but less than 99.50%
+4.31%  98.20% but less than 99.00%
 
-4.91%              99.50% but less than 99.80%
+4.51%  99.00% but less than 99.50%
 
-5.11%              99.80% but less than 99.92%
+4.71%  99.50% but less than 99.70%
 
-5.40%                          99.92% to 100.00%
+4.91%  99.70% but less than 99.84%
+
+5.11%  99.84% but less than 99.93%
+
+ 
+
+5.40%  99.93% to 100.00%
+
+______________________________________________________________________________
+
+______________________________________________________________________________
+
+ 
+
+      Fund Adequacy Percentage Ratio VIII B
+
+      Under 100%
+
+ 
+
+Tax Rate         Cumulative Taxable Payroll Limits
+
+      (Percentage of Total Taxable Payroll)
+
+ 
+
+      2.11%        0.00% but less than 10.00%
+
+      2.21%        10.00% but less than 15.00%
+
+      2.31%        15.00% but less than 20.00%
+
+      2.41%        20.00% but less than 25.00%
+
+      2.51%        25.00% but less than 30.00%
+
+      2.61%        30.00% but less than 35.00%
+
+      2.71%        35.00% but less than 40.00%
+
+      2.81%        40.00% but less than 45.00%
+
+      2.91%        45.00% but less than 50.00%
+
+      3.01%        50.00% but less than 55.00%
+
+      3.11%        55.00% but less than 60.00%
+
+      3.21%        60.00% but less than 65.00%
+
+      3.31%        65.00% but less than 70.00%
+
+      3.41%        70.00% but less than 75.00%
+
+      3.51%        75.00% but less than 80.00%
+
+      3.61%        80.00% but less than 84.00%
+
+      3.71%        84.00% but less than 88.00%
+
+      3.81%        88.00% but less than 92.00%
+
+      3.91%        92.00% but less than 95.00%
+
+      4.11%        95.00% but less than 97.00%
+
+      4.31%        97.00% but less than 98.20%
+
+      4.51%        98.20% but less than 99.00%
+
+      4.71%        99.00% but less than 99.50%
+
+      4.91%        99.50% but less than 99.80%
+
+      5.11%        99.80% but less than 99.92%
+
+ 
+
+      5.40%        99.92% to 100.00%
 
 ______________________________________________________________________________
 
@@ -5259,21 +5329,29 @@ ______________________________________________________________________________
 
  
 
-      657.464 [1963 c.302 §3; repealed by 1967 c.434 §4 (657.461 enacted in lieu of 657.464)]
+      657.464 [1963 c.302 §3; repealed by 1967 c.434
+
+§4 (657.461 enacted in lieu of 657.464)]
 
  
 
-      657.465 [Repealed by 1955 c.655 §22 (657.466 enacted in lieu of 657.465)]
+      657.465 [Repealed by 1955 c.655 §22 (657.466
+
+enacted in lieu of 657.465)]
 
  
 
-      657.466 [1955 c.655 §23 (enacted in lieu of 657.465); 1957 c.699 §9; renumbered 657.471]
+      657.466 [1955 c.655 §23 (enacted in lieu of
+
+      657.465); 1957 c.699 §9; renumbered 657.471]
 
  
 
       657.467 Amounts included in fund adequacy percentage ratio computations. Notwithstanding the payment of regular and extended unemployment insurance benefits to employees of employing units which reimburse the fund in lieu of taxes from moneys in the Unemployment Compensation Trust Fund, such moneys shall be included with the balance in the Unemployment Compensation Trust Fund in any computation of a fund adequacy percentage ratio under this chapter as though said moneys had been reimbursed to the fund as provided in ORS 657.505. Should advance payments made by reimbursing employers exceed the amount of benefit payments, the excess amount shall be excluded from the fund balance. [1965 c.359 §3; subsection (2) enacted
 
-as 1967 c.435 §12; 1971 c.463 §17; 1977 c.538 §5]
+as 1967
+
+c.435 §12; 1971 c.463 §17; 1977 c.538 §5]
 
  
 
@@ -5281,7 +5359,9 @@ as 1967 c.435 §12; 1971 c.463 §17; 1977 c.538 §5]
 
  
 
-      657.470 [Repealed by 1963 c.302 §4]
+      657.470 [Repealed by 1963 c.302
+
+§4]
 
  
 
@@ -5350,6 +5430,78 @@ as 1967 c.435 §12; 1971 c.463 §17; 1977 c.538 §5]
       (b) The failure to respond causes an overpayment of benefits to the claimant; and
 
       (c) The employer or the employer’s agent has a pattern of failing to respond timely or adequately to requests from the department for information relating to claims for benefits. [Formerly 657.466; 1967 c.435 §5; 1973 c.300 §12; 1975 c.257 §10; 1977 c.294 §6; 1983 c.518 §1; 1993 c.778 §22; 1995 c.79 §332; 1995 c.683 §1; 1997 c.59 §2; 1999 c.416 §1; 1999 c.849 §130; 1999 c.970 §1; 2003 c.75 §102; 2003 c.792 §3; 2013 c.704 §1]
+
+ 
+
+      Note: The amendments to 657.471 by section 55, chapter 700, Oregon Laws 2019, become operative January 1, 2023. See section 63, chapter 700, Oregon Laws 2019. The text that is operative on and after January 1, 2023, is set forth for the user’s convenience.
+
+      657.471. (1) Except as otherwise provided in this section, benefits paid to an eligible individual shall be charged to each of the individual’s employers during the base year in the same proportion that the wages paid by each employer to the individual during the base year bear to the wages paid by all employers to that individual during that year.
+
+      (2) The account of an employer, other than a political subdivision electing to pay taxes under ORS 657.509, may not be charged with benefits paid an unemployed individual in excess of one-third of the base year wages paid that individual while in the employ of the employer.
+
+      (3) Benefits paid to an individual for unemployment immediately after the expiration of a period of disqualification for having left the employment of an employer voluntarily without good cause may not be charged to the employer.
+
+      (4) Benefits paid to an individual for unemployment immediately after the expiration of a period of disqualification for having been discharged by an employer for misconduct may not be charged to the employer.
+
+      (5) Benefits paid without any disqualification to an individual may not be charged to an employer of the individual for the immediate period of unemployment if:
+
+      (a) The individual left the employment of the employer voluntarily for good cause not attributable to the employer; or
+
+      (b) The employer discharged the individual because the individual was unable to satisfy a job prerequisite required by law or administrative rule.
+
+      (6) If it is determined under the provisions of subsection (3), (4) or (5) of this section that benefits paid to an individual may not be charged to an employer, the employer’s account may not be charged for any benefits paid for any subsequent period or periods of unemployment during the individual’s affected benefit year or during any benefit year beginning within 52 weeks subsequent to the affected benefit year.
+
+      (7)(a) A base-year employer that is not otherwise eligible for relief of charges for benefits under this section and that receives notification of an initial valid determination of a claim may request relief of charges if the claim is made by an individual who:
+
+      (A) Left the employment of the employer voluntarily and not for reasons attributable to the employer;
+
+      (B) Was disqualified for the individual’s most recent separation from the employer by a determination of the Director of the Employment Department that the individual has been discharged for misconduct connected with the employment for the employer; or
+
+      (C) Was discharged for reasons that would be disqualifying under ORS 657.176 (2)(a), (b), (f), (g) or (h).
+
+      (b)(A) A request under paragraph (a)(A) of this subsection:
+
+      (i) Must advise the director in writing of the date on which the individual left employment, state that the individual left voluntarily and not for reasons attributable to the employer and give the reason for which the individual left employment.
+
+      (ii) May not be granted if the individual was reemployed by the employer prior to the filing of the initial valid claim.
+
+      (B) A request under paragraph (a)(C) of this subsection must specify the date of the discharge and the reasons why the employer believes the discharge was for reasons that would be disqualifying under ORS 657.176 (2)(a), (b), (f), (g) or (h).
+
+      (c) A request for relief under this subsection must be sent to the department within 30 days after the date on which the notice provided for under ORS 657.266 is mailed or delivered to the employer.
+
+      (d) Upon receipt of the request from the employer, the director shall review the information provided by the employer and determine whether the employer is entitled to relief of charges for benefits paid to the individual during the benefit year. If the director determines that the employer is entitled to relief of charges, the director shall grant the relief.
+
+      (e)(A) The determination of the director under paragraph (a)(A) and (C) of this subsection is final in all cases unless an application for hearing is filed within 20 days after delivery of the determination, or, if mailed, within 20 days after the determination was mailed to the employer’s last-known address.
+
+      (B) When a request for hearing has been timely filed, an administrative law judge shall be assigned to conduct a hearing.
+
+      (C) After the administrative law judge has afforded all parties an opportunity for a fair hearing, the administrative law judge shall affirm or reverse the determination and promptly notify all parties entitled to notice of the decision and the reasons for the decision.
+
+      (D) Decisions of the administrative law judge under this subsection are final and may be judicially reviewed as provided in ORS 657.684 to the extent applicable.
+
+      (8)(a) If the director finds that an employer or the employer’s agent, in submitting facts under subsection (7) of this section, willfully makes a false statement or representation or willfully fails to report a material fact concerning the termination of an individual’s employment, the director shall make a determination charging the employer’s reserve account not less than two nor more than 10 times the weekly benefit amount of the claimant or claimants.
+
+      (b) The director shall give notice to the employer of the determination under this subsection and the determination of the director is final unless an application for hearing is filed in the manner provided for in subsection (7)(e) of this section.
+
+      (9) Benefits paid to an individual may not be charged to a base-year employer if:
+
+      (a) The employer furnished part-time work to the individual during the base year;
+
+      (b) The individual has become eligible for benefits because of loss of employment with one or more other employers;
+
+      (c) The employer has continued to furnish part-time work to the individual in substantially the same amount as during the individual’s base year; and
+
+      (d) The employer requests relief of charges within 30 days of the date the notice provided for in ORS 657.266 is mailed or delivered to the employer.
+
+      (10) Benefits paid to an individual for unemployment due to the return of a covered individual, as defined in ORS 657B.010, who was temporarily replaced by the individual for a period of family leave, medical leave or safe leave under ORS chapter 657B may not be charged to the employer of the covered individual.
+
+      (11) Notwithstanding any other provision of this section, benefits paid to an individual shall be charged to an employer’s account if:
+
+      (a) The employer or the employer’s agent fails to respond timely or adequately to a request from the Employment Department for information relating to the claim for benefits;
+
+      (b) The failure to respond causes an overpayment of benefits to the claimant; and
+
+      (c) The employer or the employer’s agent has a pattern of failing to respond timely or adequately to requests from the department for information relating to claims for benefits.
 
  
 
@@ -5529,13 +5681,11 @@ COLLECTION OF TAXES
 
  
 
-      Note: Pursuant to 173.160, Legislative Counsel has not substituted specific ORS references for the words “this 1965 Act” in 657.510. The sections for which substitution otherwise would be made may be determined by referring to the 1965 Comparative Section Table located in Volume 20 of ORS.
+      Note: Pursuant to 173.160, Legislative Counsel has not substituted specific ORS references for the words “this 1965 Act” in 657.510. The sections for which substitution otherwise would be made may be determined by referring to the 1965 Comparative Section Table located in Volume 22 of ORS.
 
  
 
       657.511 [1973 c.810 §5; repealed by 1977 c.538 §14]
-
- 
 
       657.512 [1959 c.598 §4; repealed by 1963 c.354 §1 (657.552, 657.652, 657.679, 657.681 and 657.683 enacted in lieu of 657.472, 657.512, 657.550 and 657.672)]
 
@@ -5973,7 +6123,7 @@ EMPLOYMENT DEPARTMENT; ADMINISTRATION GENERALLY
 
       (e) Disclose the names and addresses of employing units to the Bureau of Labor and Industries for the purpose of disseminating information to employing units. The names and addresses disclosed are confidential and may not be used for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the bureau.
 
-      (f) Disclose information to the Commissioner of the Bureau of Labor and Industries for the purpose of performing duties under ORS 279C.800 to 279C.870, 658.005 to 658.245 or 658.405 to 658.503 or ORS chapter 652, 653 or 659A. The information disclosed may include the names and addresses of employers and employees and payroll data of employers and employees. The information disclosed is confidential and may not be used for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the bureau.
+      (f) Disclose information to the Commissioner of the Bureau of Labor and Industries for the purpose of performing duties under ORS 279C.800 to 279C.870, 658.005 to 658.245 or 658.405 to 658.511 or ORS chapter 652, 653 or 659A. The information disclosed may include the names and addresses of employers and employees and payroll data of employers and employees. The information disclosed is confidential and may not be used for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the bureau.
 
       (g) Disclose information required under ORS 657.660 (3) and (4) to the Public Employees Retirement System for the purpose of determining the eligibility of members of the retirement system for disability under ORS chapters 238 and 238A. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the Public Employees Retirement System.
 
@@ -5993,7 +6143,7 @@ EMPLOYMENT DEPARTMENT; ADMINISTRATION GENERALLY
 
       (o) Disclose information to the Department of Human Services and the Oregon Health Authority to assist the Department of Human Services and the Oregon Health Authority in the collection of debts that the Department of Human Services and the Oregon Health Authority are authorized by law to collect. The information disclosed may include the names, addresses and payroll data of employers and employees. The information disclosed is confidential and may not be disclosed by the Department of Human Services or the Oregon Health Authority in a manner that would identify an employing unit or employee except to the extent necessary for the collection of debts as described in this paragraph. The Department of Human Services and the Oregon Health Authority may not disclose information received under this paragraph to a private collection agency or use the information for a purpose other than the collection of debts as described in this paragraph. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the Department of Human Services or the Oregon Health Authority.
 
-      (p) Disclose to the Alcohol and Drug Policy Commission information required by the commission in evaluating and measuring the performance of alcohol and drug prevention and treatment programs under ORS 430.242 or the impact of the programs on employment. The information disclosed to the commission may include total subject wages payroll and whole hours worked. The information disclosed under this paragraph is confidential and may not be used for any other purpose. The commission may not disclose the information in any manner that would identify an employing unit or employee except to the extent necessary to carry out the commission’s duties under ORS 430.242. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the commission.
+      (p) Disclose to the Alcohol and Drug Policy Commission information required by the commission in evaluating and measuring the performance of alcohol and drug prevention and treatment programs under ORS 430.223 or the impact of the programs on employment. The information disclosed to the commission may include total subject wages payroll and whole hours worked. The information disclosed under this paragraph is confidential and may not be used for any other purpose. The commission may not disclose the information in any manner that would identify an employing unit or employee except to the extent necessary to carry out the commission’s duties under ORS 430.223. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the commission.
 
       (q) Disclose to any person establishment level information secured pursuant to this chapter from federal, state and local government agencies, public universities listed in ORS 352.002 or the Oregon Health and Science University established under ORS 353.020. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the person requesting the information.
 
@@ -6004,6 +6154,96 @@ EMPLOYMENT DEPARTMENT; ADMINISTRATION GENERALLY
       (6) Any officer appointed by or any employee of the Director of the Employment Department who discloses confidential information, except with the authority of the director, pursuant to rules or as otherwise required by law, may be disqualified from holding any appointment or employment with the Employment Department.
 
       (7) Any person or any officer or employee of an entity to whom information is disclosed by the Employment Department under this section who divulges or uses the information for any purpose other than that specified in the provision of law or agreement authorizing the use or disclosure may be disqualified from performing any service under contract or disqualified from holding any appointment or employment with the state agency that engaged or employed that person, officer or employee. The Employment Department may immediately cancel or modify any information sharing agreement with an entity when a person or an officer or employee of that entity discloses confidential information, other than as specified in law or agreement. [Amended by 1969 c.450 §1; 1977 c.162 §1; 1977 c.797 §9; 1979 c.145 §1; 1979 c.267 §5a; 1981 c.705 §7; 1985 c.565 §89; 1985 c.661 §1; 1985 c.761 §24; 1989 c.519 §2; 1989 c.818 §5; 1989 c.870 §8; 1991 c.374 §2; 1993 c.18 §142; 1997 c.200 §1; 1997 c.249 §202; 1999 c.401 §3; 1999 c.849 §146; 2001 c.104 §251; 2003 c.75 §104; 2003 c.773 §§54,54a; 2003 c.794 §311; 2007 c.89 §1; 2007 c.576 §2; 2009 c.599 §24; 2009 c.830 §150; 2011 c.38 §1; 2011 c.637 §278; 2011 c.673 §40; 2013 c.747 §168; 2014 c.26 §§1,2; 2017 c.185 §18; 2017 c.297 §39; 2017 c.307 §2; 2017 c.561 §5]
+
+ 
+
+      Note: The amendments to 657.665 by section 68, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      657.665. (1) Except as provided in subsections (2) to (5) of this section, all information in the records of the Employment Department pertaining to the administration of the unemployment insurance, employment service and workforce and labor market information programs:
+
+      (a) Is confidential and for the exclusive use and information of the Director of the Employment Department in administering the unemployment insurance, employment service and workforce and labor market information programs in Oregon.
+
+      (b) May not be used in any court action or in any proceeding pending in the court unless the director or the state is a party to the action or proceeding or unless the proceeding concerns the establishment, enforcement or modification of a support obligation and support services are being provided by the Division of Child Support or the district attorney pursuant to ORS 25.080.
+
+      (c) Is exempt from disclosure under ORS 192.311 to 192.478.
+
+      (2) The Employment Department shall disclose information:
+
+      (a) To any claimant or legal representative, at a hearing before an administrative law judge, to the extent necessary for the proper presentation of an unemployment insurance claim.
+
+      (b) Upon request to the United States Secretary of Labor. The Employment Department shall disclose the information in a form and containing the information that the United States Secretary of Labor may require. The information disclosed is confidential and may not be used for any other purpose.
+
+      (c) Pursuant to section 303(a)(7) of the Social Security Act, upon request to any agency of the United States charged with the administration of public works or assistance through public employment. Under this paragraph, the Employment Department shall disclose the name, address, ordinary occupation and employment status of each recipient of unemployment insurance benefits and a statement of the recipient’s right to further benefits under this chapter. The information disclosed is confidential and may not be used for any other purpose.
+
+      (d) Pursuant to section 303(c)(1) of the Social Security Act, to the Railroad Retirement Board. Under this paragraph, the Employment Department shall disclose unemployment insurance records. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the board.
+
+      (e) Pursuant to section 303(d) of the Social Security Act, upon request to officers and employees of the United States Department of Agriculture and to officers or employees of any state Supplemental Nutrition Assistance Program agency for the purpose of determining an individual’s eligibility for or the amount of supplemental nutrition assistance. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the United States Department of Agriculture.
+
+      (f) Pursuant to section 303(e)(1) and (2)(A)(ii) of the Social Security Act, to state or local child support enforcement agencies enforcing child support obligations under Title IV-D of the Social Security Act for the purposes of establishing child support obligations, locating individuals owing child support obligations and collecting child support obligations from those individuals. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the child support enforcement agency.
+
+      (g) Pursuant to sections 303(f) and 1137 of the Social Security Act, to agencies participating in the income and eligibility verification system for the purpose of verifying an individual’s eligibility for benefits, or the amount of benefits, under unemployment insurance, temporary assistance for needy families, Medicaid, the Supplemental Nutrition Assistance Program, Supplemental Security Income, child support enforcement or Social Security programs. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the requesting agency.
+
+      (h) Pursuant to section 303(h) of the Social Security Act and section 3304(a)(16)(B) of the Federal Unemployment Tax Act, to the United States Department of Health and Human Services National Directory of New Hires. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the United States Department of Health and Human Services.
+
+      (i) Pursuant to section 303(i) of the Social Security Act, to officers and employees of the United States Department of Housing and Urban Development and to representatives of a public housing agency for the purpose of determining an individual’s eligibility for benefits, or the amount of benefits, under a housing assistance program of the United States Department of Housing and Urban Development. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the United States Department of Housing and Urban Development or the public housing agency.
+
+      (j) Pursuant to regulations of the United States Secretary of Health and Human Services issued under section 3304(a)(16)(A) of the Federal Unemployment Tax Act, and except as required by section 303 of the Social Security Act, to the state, a political subdivision or a federally recognized Indian tribe that has signed an agreement with the Department of Human Services to administer Part A of Title IV of the Social Security Act for the purpose of determining an individual’s eligibility for assistance, or the amount of assistance, under a program funded under Part A of Title IV of the Social Security Act. The information disclosed is confidential and may not be used for any other purpose.
+
+      (k) Upon request, to the United States Attorney’s Office. Under this paragraph, the Employment Department may disclose an individual’s employment and wage information in response to a federal grand jury subpoena or for the purpose of collecting civil and criminal judgments, including restitution and special assessment fees. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the United States Attorney’s Office.
+
+      (3) The Employment Department may disclose information secured from employing units:
+
+      (a) To state agencies, federal agencies, local government agencies, public universities listed in ORS 352.002 and the Oregon Health and Science University established under ORS 353.020, to the extent necessary to properly carry out governmental planning, performance measurement, program analysis, socioeconomic analysis or policy analysis functions performed under applicable law. The information disclosed is confidential and may not be disclosed by the agencies or universities in any manner that would identify individuals, claimants, employees or employing units. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the agency or university requesting the information.
+
+      (b) As part of a geographic information system. Points on a map may be used to represent economic data, including the location, employment size class and industrial classification of businesses in Oregon. Information presented as part of a geographic information system may not give specific details regarding a business’s address, actual employment or proprietary information. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the party requesting the information.
+
+      (c) In accordance with ORS 657.673.
+
+      (4) The Employment Department may:
+
+      (a) Disclose information to public employees in the performance of their duties under state or federal laws relating to the payment of unemployment insurance benefits, the provision of employment services and the provision of workforce and labor market information.
+
+      (b) At the discretion of the Director of the Employment Department and subject to an interagency agreement, disclose information to public officials in the performance of their official duties administering or enforcing laws within their authority and to the agents or contractors of public officials. The public official shall agree to assume responsibility for misuse of the information by the official’s agent or contractor.
+
+      (c) Disclose information pursuant to an informed consent, received from an employer or claimant, to disclose the information.
+
+      (d) Disclose information to partners under the federal Workforce Innovation and Opportunity Act for the purpose of administering state workforce programs under the Act. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the requesting partner.
+
+      (e) Disclose the names and addresses of employing units to the Bureau of Labor and Industries for the purpose of disseminating information to employing units. The names and addresses disclosed are confidential and may not be used for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the bureau.
+
+      (f) Disclose information to the Commissioner of the Bureau of Labor and Industries for the purpose of performing duties under ORS 279C.800 to 279C.870, 658.005 to 658.245 or 658.405 to 658.511 or ORS chapter 652, 653 or 659A. The information disclosed may include the names and addresses of employers and employees and payroll data of employers and employees. The information disclosed is confidential and may not be used for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the bureau.
+
+      (g) Disclose information required under ORS 657.660 (3) and (4) to the Public Employees Retirement System for the purpose of determining the eligibility of members of the retirement system for disability under ORS chapters 238 and 238A. The information disclosed is confidential and may not be used for any other purpose. The costs of disclosing information under this paragraph shall be paid by the Public Employees Retirement System.
+
+      (h) Disclose to the Oregon Business Development Commission and the Oregon Business Development Department information required by the commission and the department in performing their duties under ORS 285A.050 and 285B.630 to verify changes in employment levels following direct employer participation in department programs or indirect participation through municipalities under ORS 285B.410 to 285B.482. The information disclosed to the commission and the department may include an employer’s employment level, total subject wages payroll and whole hours worked. The information disclosed is confidential and may not be used for any other purpose. The commission and the department may not disclose the information in any manner that would identify an employing unit or employee except to the extent necessary to carry out the commission’s and the department’s duties under ORS 285A.050 and 285B.630. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the commission or the Oregon Business Development Department.
+
+      (i) Disclose information to the Department of Revenue for the purpose of performing its duties under ORS 293.250 or under the revenue and tax laws of this state. The information disclosed may include the names and addresses of employers and employees and payroll data of employers and employees. The information disclosed is confidential and may not be disclosed by the Department of Revenue in any manner that would identify an employing unit or employee except to the extent necessary to carry out the department’s duties under ORS 293.250 or in auditing or reviewing any report or return required or permitted to be filed under the revenue and tax laws administered by the department. The Department of Revenue may not disclose any information received to any private collection agency or for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the Department of Revenue.
+
+      (j) Disclose information to the Department of Consumer and Business Services for the purpose of performing its duties under ORS chapters 654 and 656. The information disclosed may include the name, address, number of employees and industrial classification code of an employer and payroll data of employers and employees. The information disclosed is confidential and may not be disclosed by the Department of Consumer and Business Services in any manner that would identify an employing unit or employee except to the extent necessary to carry out the department’s duties under ORS chapters 654 and 656, including administrative hearings and court proceedings in which the Department of Consumer and Business Services is a party. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the Department of Consumer and Business Services.
+
+      (k) Disclose information to the Construction Contractors Board for the purpose of performing its duties under ORS chapter 701. The information disclosed to the board may include the names and addresses of employers and status of their compliance with this chapter. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the board.
+
+      (L) Disclose information to the State Fire Marshal to assist the State Fire Marshal in carrying out duties under ORS 453.307 to 453.414. The information disclosed may include the name, address, telephone number and industrial classification code of an employer. The information disclosed is confidential and may not be disclosed by the State Fire Marshal in any manner that would identify an employing unit except to the extent necessary to carry out duties under ORS 453.307 to 453.414. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the office of the State Fire Marshal.
+
+      (m) Disclose information to the Higher Education Coordinating Commission for the purpose of performing the commission’s duties under ORS chapter 348 and Title IV of the Higher Education Act of 1965. The information disclosed may include the names and addresses of employers and employees and payroll data of employers and employees. The information disclosed is confidential and may not be disclosed by the commission in any manner that would identify an employing unit or employee except to the extent necessary to carry out the commission’s duties under ORS chapter 348 or Title IV of the Higher Education Act of 1965. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the commission.
+
+      (n) Disclose information to the Department of Transportation to assist the Department of Transportation in carrying out the duties of the Department of Transportation relating to collection of delinquent and liquidated debts, including taxes, under ORS 184.610 to 184.665, 184.670 to 184.733 and 805.263, ORS chapter 319 and the Oregon Vehicle Code. The information disclosed may include the names and addresses of employers and employees and payroll data of employers and employees. The information disclosed is confidential and may not be disclosed by the Department of Transportation in any manner that would identify an employing unit or employee except to the extent necessary to carry out the Department of Transportation’s duties relating to collection of delinquent and liquidated debts or in auditing or reviewing any report or return required or permitted to be filed under the revenue and tax laws administered by the Department of Transportation. The Department of Transportation may not disclose any information received to any private collection agency or for any other purpose. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the Department of Transportation.
+
+      (o) Disclose information to the Department of Human Services and the Oregon Health Authority to assist the Department of Human Services and the Oregon Health Authority in the collection of debts that the Department of Human Services and the Oregon Health Authority are authorized by law to collect. The information disclosed may include the names, addresses and payroll data of employers and employees. The information disclosed is confidential and may not be disclosed by the Department of Human Services or the Oregon Health Authority in a manner that would identify an employing unit or employee except to the extent necessary for the collection of debts as described in this paragraph. The Department of Human Services and the Oregon Health Authority may not disclose information received under this paragraph to a private collection agency or use the information for a purpose other than the collection of debts as described in this paragraph. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the Department of Human Services or the Oregon Health Authority.
+
+      (p) Disclose to the Alcohol and Drug Policy Commission information required by the commission in evaluating and measuring the performance of alcohol and drug prevention and treatment programs under ORS 430.223 or the impact of the programs on employment. The information disclosed to the commission may include total subject wages payroll and whole hours worked. The information disclosed under this paragraph is confidential and may not be used for any other purpose. The commission may not disclose the information in any manner that would identify an employing unit or employee except to the extent necessary to carry out the commission’s duties under ORS 430.223. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the commission.
+
+      (q) Disclose to any person establishment level information secured pursuant to this chapter from federal, state and local government agencies, public universities listed in ORS 352.002 or the Oregon Health and Science University established under ORS 353.020. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the person requesting the information.
+
+      (r) Disclose to any person the industrial classification code assigned to an employing unit. If the information disclosed under this paragraph is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the person requesting the information.
+
+      (s) Disclose information to the State Treasurer useful for the purpose of performing the State Treasurer’s duties under ORS 98.302 to 98.436, 98.992 and 116.253 and the role of an estate administrator under ORS 113.235. The information disclosed is confidential and may not be used by the State Treasurer for any other purpose. If the information disclosed is not prepared for the use of the Employment Department, the costs of disclosing the information shall be paid by the State Treasurer.
+
+      (5) The Employment Department may make public all decisions of the Employment Appeals Board.
+
+      (6) Any officer appointed by or any employee of the Director of the Employment Department who discloses confidential information, except with the authority of the director, pursuant to rules or as otherwise required by law, may be disqualified from holding any appointment or employment with the Employment Department.
+
+      (7) Any person or any officer or employee of an entity to whom information is disclosed by the Employment Department under this section who divulges or uses the information for any purpose other than that specified in the provision of law or agreement authorizing the use or disclosure may be disqualified from performing any service under contract or disqualified from holding any appointment or employment with the state agency that engaged or employed that person, officer or employee. The Employment Department may immediately cancel or modify any information sharing agreement with an entity when a person or an officer or employee of that entity discloses confidential information, other than as specified in law or agreement.
 
  
 
@@ -6291,7 +6531,7 @@ INFORMATION SYSTEMS
 
       (c) Enter into agreements for statistical analysis, research or evaluation studies of privately and publicly funded employment, training, education and economic development programs.
 
-      (4) Home care workers described in ORS 410.619 (1) are not employees of state government for the purposes of workforce and labor market information. [1993 c.38 §2; 1997 c.652 §38; 2014 c.49 §8; 2017 c.185 §20; 2017 c.297 §40; 2017 c.307 §3a]
+      (4) Home care workers and personal support workers described in ORS 410.619 (1) are not employees of state government for the purposes of workforce and labor market information. [1993 c.38 §2; 1997 c.652 §38; 2014 c.49 §8; 2017 c.185 §20; 2017 c.297 §40; 2017 c.307 §3a; 2018 c.75 §30]
 
  
 
@@ -6615,9 +6855,9 @@ MISCELLANEOUS PROVISIONS
 
  
 
-      657.855 Benefits not assignable; waiver of rights invalid. (1) Except as provided in this section, benefits due under this chapter may not be assigned, pledged, encumbered, released or commuted and shall, except as otherwise provided in this chapter, be exempt from all claims of creditors and from levy, execution and attachment or remedy for recovery or collection of a debt, which exemption may not be waived. No agreement by an individual to waive the individual’s rights under this chapter is valid.
+      657.855 Benefits not assignable; waiver of rights invalid. (1) Except as provided in this section, benefits due under this chapter may not be assigned, pledged, encumbered, released or commuted. Benefits due under this chapter shall, except as otherwise provided in this chapter, be exempt from all claims of creditors and from levy, execution and attachment or remedy for recovery or collection of a debt, and the exemption may not be waived. No agreement by an individual to waive the individual’s rights under this chapter is valid.
 
-      (2) The exemption from execution or other process granted under this section applies to only 50 percent of benefits payable under this chapter if the execution or other process is issued for a child support obligation or an order or notice entered pursuant to ORS chapter 25, 107, 108, 109, 110, 416, 419B or 419C and the child support obligation or the order or notice is being enforced pursuant to a plan approved under Title IV-D of the Social Security Act. [Amended by 1982 s.s.1 c.30 §10; 1989 c.520 §3; 1991 c.115 §2; 1999 c.745 §6; 2003 c.572 §20; 2011 c.317 §3]
+      (2) The exemption from execution or other process granted under this section applies to only 50 percent of benefits payable under this chapter if the execution or other process is issued for a child support obligation or an order or notice entered pursuant to ORS 25.501 to 25.556 or ORS chapter 25, 107, 108, 109, 110, 419B or 419C and the child support obligation or the order or notice is being enforced pursuant to a plan approved under Title IV-D of the Social Security Act. [Amended by 1982 s.s.1 c.30 §10; 1989 c.520 §3; 1991 c.115 §2; 1999 c.745 §6; 2003 c.572 §20; 2011 c.317 §3; 2019 c.13 §63]
 
  
 

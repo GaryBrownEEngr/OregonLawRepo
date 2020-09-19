@@ -4,16 +4,6 @@ Chapter 647 — Trademarks and Service Marks; Music Royalties
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0028
-
- 
-
- 
-
 
  
 
@@ -135,15 +125,17 @@ TRADEMARKS AND SERVICE MARKS
 
  
 
-ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
-
- 
+ROYALTIES FOR MUSICAL WORKS
 
 647.700     Definitions for ORS 647.700 to 647.730
 
  
 
 647.705     Requirements for performing rights societies
+
+ 
+
+647.708     Requirement for performing rights society to have authorization to do business in state
 
  
 
@@ -155,11 +147,15 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
  
 
-647.720     Action for damages; injunction
+647.720     Action for damages; injunction; fines
 
  
 
 647.725     Relationship to other laws
+
+ 
+
+647.728     Conduct of investigations by performing rights society
 
  
 
@@ -643,27 +639,25 @@ TRADEMARKS AND SERVICE MARKS
 
  
 
-ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
+ROYALTIES FOR MUSICAL WORKS
 
- 
+      647.700 Definitions for ORS 647.700 to 647.730. As used in ORS 647.700 to 647.730:
 
-      647.700 Definitions for ORS 647.700 to 647.730. As used in ORS 647.700 to 647.730, unless the context requires otherwise:
+      (1) “Copyright owner” means a person that owns a copyright that is recognized and enforceable under the Copyright Act of 1976 (P.L. 94-553, 17 U.S.C. 101 et seq.).
 
-      (1) “Copyright owner” means the owner of a copyright of a nondramatic musical or similar work recognized and enforceable under the copyright laws of the United States pursuant to title 17 of the United States Code (P.L. 94-553, 17 U.S.C. 101 et seq.).
+      (2) “Perform” means to disseminate a musical work by playing a recording of the musical work in public, by broadcasting the musical work by radio, television, cable television, satellite or other means or by playing the musical work live in public.
 
-      (2) “Nondramatic” means the public performance of a recorded, broadcast or live musical work. “Nondramatic” does not include the performance of a dramatic work, including a play.
-
-      (3) “Performing rights society” means an association or corporation that licenses the public performances of nondramatic musical works on behalf of copyright owners, including but not limited to:
+      (3) “Performing rights society” means an association or corporation that grants a license on behalf of a copyright owner to perform a copyrighted musical work, including but not limited to the following societies and corporations:
 
       (a) The American Society of Composers, Authors and Publishers (ASCAP);
 
       (b) Broadcast Music, Inc. (BMI); and
 
-      (c) The Society of European Stage Authors and Composers (SESAC).
+      (c) SESAC.
 
-      (4) “Proprietor” means the owner of a retail establishment, restaurant, inn, bar, tavern, sports or entertainment facility or any other similar place of business or professional office located in this state in which the public may assemble and in which nondramatic musical works or similar copyrighted works may be performed, broadcast or otherwise transmitted for the enjoyment of members of the public there assembled.
+      (4) “Proprietor” means an owner of a retail establishment, restaurant, inn, bar, tavern, sports or entertainment facility or any other similar place of business or professional office located in this state in which the public may assemble and in which copyrighted musical works may be performed.
 
-      (5) “Royalty” or “royalties” means the fees payable to a copyright owner or performing rights society for the public performance of nondramatic musical works or other similar works. [1997 c.236 §1]
+      (5) “Royalty” means a fee provided to a copyright owner or performing rights society for a license to perform a musical work. [1997 c.236 §1; 2018 c.28 §4]
 
  
 
@@ -671,13 +665,17 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
  
 
-      647.705 Requirements for performing rights societies. A performing rights society shall not enter into, or offer to enter into, a contract for the payment of royalties by a proprietor unless the performing rights society agrees to provide to the proprietor upon request at the proprietor’s place of business, by electronic means or otherwise:
+      647.705 Requirements for performing rights societies. (1) A performing rights society may not enter into, or offer to enter into, a contract under the terms of which a proprietor must pay royalties unless the performing rights society, at least 72 hours before entering into the contract, provides to the proprietor or an employee of the proprietor:
 
-      (1) Information as to whether specific copyrighted musical works are in the repertoire of the performing rights society;
+      (a) Information, at the proprietor’s request, as to whether specific copyrighted musical works are in the repertoire of the performing rights society;
 
-      (2) The opportunity to review the most current available list of the performing rights society’s members or affiliates; and
+      (b) An opportunity to review, electronically and free of charge, the most current available list of the performing rights society’s members or affiliates, and the most current available list of the musical works that the performing rights society licenses, in a format that the proprietor can search by title, publisher and performing artist; and
 
-      (3) The schedule of rates and terms of the royalties to be collected under the contract, including any sliding scale or schedule for any increase or decrease of the rates for the duration of the contract. [1997 c.236 §2]
+      (c) A schedule of rates and terms under which the performing rights society will collect royalties under the contract, including the terms of any sliding scale or schedule for any increase or decrease of the rates for the duration of the contract.
+
+      (2) A performing rights society may not license or attempt to license a proprietor to perform a musical work in this state unless the performing rights society each year submits to the Secretary of State for filing an electronic template copy of each performing rights form contract that a performing rights society offers to a proprietor in this state under which the proprietor would pay royalties.
+
+      (3) The Secretary of State’s duty to file documents under this section is ministerial. The Secretary of State need not review or verify the contents of performing rights contracts for compliance with this section. [1997 c.236 §2; 2018 c.28 §5]
 
  
 
@@ -685,7 +683,15 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
  
 
-      647.710 Requirements for contracts for payment of royalties. Every contract for the payment of royalties between a proprietor and a performing rights society executed, issued or renewed in this state shall be:
+      647.708 Requirement for performing rights society to have authorization to do business in state. A performing rights society may not collect royalties, fees, penalties or other amounts for performing copyrighted musical works or enter into a contract to collect royalties for performing a copyrighted musical work unless the performing rights society is authorized to do business in this state. This section does not apply to a performing rights society that by law is exempt from a requirement to have an authorization to do business in this state. [2018 c.28 §3]
+
+ 
+
+      Note: See note under 647.700.
+
+ 
+
+      647.710 Requirements for contracts for payment of royalties. A contract that a performing rights society executes or renews in this state under which a proprietor pays royalties must be:
 
       (1) In writing;
 
@@ -699,7 +705,7 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
       (c) The duration of the contract; and
 
-      (d) The schedule of rates and terms of the royalties to be collected under the contract, including any sliding scale or schedule for any increase or decrease of the rates for the duration of the contract. [1997 c.236 §3]
+      (d) The schedule of rates and terms of the royalties the performing rights society will collect under the contract, including the terms of any sliding scale or schedule for any increase or decrease of the rates for the duration of the contract. [1997 c.236 §3; 2018 c.28 §6]
 
  
 
@@ -707,17 +713,25 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
  
 
-      647.715 Prohibited conduct. (1) A performing rights society or any agent or employee thereof shall not:
+      647.715 Prohibited conduct. A performing rights society or any agent or employee of a performing rights society may not:
 
-      (a) Enter onto the premises of a proprietor’s business for the purpose of discussing or inquiring about a contract for the payment of royalties with the proprietor or the proprietor’s employees, without first providing identification to the proprietor or the proprietor’s employees and making known to them the purpose of the discussion or inquiry;
+      (1) Enter onto the premises of a proprietor’s business to discuss or inquire about a contract under which the proprietor will pay royalties without first:
 
-      (b) Engage in any coercive conduct, act or practice that is substantially disruptive to a proprietor’s business;
+      (a) Providing identification to the proprietor or the proprietor’s employees; and
 
-      (c) Use or attempt to use any unfair or deceptive act or practice in negotiating with a proprietor; or
+      (b) Specifying the purpose of the entry;
 
-      (d) Fail to comply with or fulfill the obligations imposed by ORS 647.705 and 647.710.
+      (2) Use abusive, profane or obscene language when communicating with a proprietor or the proprietor’s employees;
 
-      (2) Nothing in ORS 647.700 to 647.730 shall be construed to prohibit a performing rights society from conducting investigations to determine the existence of music use by a proprietor or informing a proprietor of the proprietor’s obligation under the copyright laws of the United States pursuant to title 17 of the United States Code (P.L. 94-553, 17 U.S.C. 101 et seq.). [1997 c.236 §4]
+      (3) Communicate with a proprietor or the proprietor’s employees in person or by telephone in locations or at times other than in the proprietor’s place of business during regular business hours unless the proprietor’s place of business is not open to the public and the proprietor or an employee, agent or representative of the proprietor agrees to communicate in a different location or at a different time;
+
+      (4) Communicate with a proprietor or the proprietor’s employees after receiving notice from the proprietor’s attorney that the performing rights society or an agent or employee of the performing rights society must address communications to the proprietor’s attorney, except that a performing rights society or an agent or employee of the performing rights society may communicate directly with the proprietor or the proprietor’s employees if the attorney fails to respond to communications for a period of 60 days or more;
+
+      (5) Engage in any coercive conduct, act or practice that is substantially disruptive to a proprietor’s business;
+
+      (6) Use or attempt to use any unfair or deceptive act or practice in negotiating with a proprietor; or
+
+      (7) Fail to comply with or fulfill the obligations imposed by ORS 647.705 and 647.710. [1997 c.236 §4; 2018 c.28 §7]
 
  
 
@@ -725,7 +739,9 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
  
 
-      647.720 Action for damages; injunction. In the event of a violation of ORS 647.705, 647.710 or 647.715, any person may bring an action to recover actual damages and reasonable attorney fees or seek an injunction or any other remedy available at law or in equity. [1997 c.236 §5]
+      647.720 Action for damages; injunction; fines. (1) Any person may bring an action to recover actual damages and reasonable attorney fees or seek an injunction or any other remedy available at law or in equity for a violation of ORS 647.705, 647.708, 647.710 or 647.715.
+
+      (2) In addition to and not in lieu of any damages a person may recover under subsection (1) of this section, a court may impose a fine of not more than $1,000 for each willful violation of ORS 647.705, 647.708, 647.710 or 647.715. [1997 c.236 §5; 2018 c.28 §8]
 
  
 
@@ -733,7 +749,15 @@ ROYALTIES FOR NONDRAMATIC MUSICAL WORKS
 
  
 
-      647.725 Relationship to other laws. The rights, remedies and prohibitions contained in ORS 647.700 to 647.730 shall be in addition to and cumulative to any other right, remedy or prohibition accorded by common law, federal law or the statutes of this state, and nothing contained in ORS 647.700 to 647.730 shall be construed to deny, abrogate or impair any common law or statutory right, remedy or prohibition. [1997 c.236 §6]
+      647.725 Relationship to other laws. The rights, remedies and prohibitions in ORS 647.700 to 647.730 are in addition to and cumulative to any other right, remedy or prohibition accorded by common law, federal law or the statutes of this state. ORS 647.700 to 647.730 do not deny, abrogate or impair any common law or statutory right, remedy or prohibition. [1997 c.236 §6; 2018 c.28 §9]
+
+ 
+
+      Note: See note under 647.700.
+
+ 
+
+      647.728 Conduct of investigations by performing rights society. ORS 647.700 to 647.730 do not prohibit a performing rights society from conducting investigations to determine whether a proprietor is performing copyrighted musical works or informing a proprietor of the proprietor’s obligations under the Copyright Act of 1976 (P.L. 94-553, 17 U.S.C. 101 et seq.) and other copyright laws or regulations of the United States. [2018 c.28 §2]
 
  
 

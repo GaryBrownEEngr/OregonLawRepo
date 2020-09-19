@@ -313,7 +313,7 @@ DISCHARGE AND PAYMENT
 
  
 
-      73.010, 73.020, 73.030, 73.040, 73.050, 73.060, 73.080, 73.090, 73.100, 73.110, 73.120, 73.130, 73.140, 73.150, 73.160, 73.170, 73.180, 73.190, 73.200 [Repealed by 1961 c.726 §427]
+73.010, 73.020, 73.030, 73.040, 73.050, 73.060, 73.080, 73.090, 73.100, 73.110, 73.120, 73.130, 73.140, 73.150, 73.160, 73.170, 73.180, 73.190, 73.200 [Repealed by 1961 c.726 §427]
 
  
 
@@ -359,11 +359,13 @@ GENERAL PROVISIONS
 
  
 
+ 
+
       “Acceptance”                                ORS 73.0409
 
       “Accommodated party”                ORS 73.0419
 
-      “Accommodation party”               ORS 73.0419
+      “Accommodation party”              ORS 73.0419
 
       “Alteration”                                  ORS 73.0407
 
@@ -373,7 +375,7 @@ GENERAL PROVISIONS
 
       “Cashier’s check”                         ORS 73.0104
 
-      “Certificate of deposit”                 ORS 73.0104
+      “Certificate of deposit”                ORS 73.0104
 
       “Certified check”                          ORS 73.0409
 
@@ -387,7 +389,7 @@ GENERAL PROVISIONS
 
       “Holder in due course”                 ORS 73.0302
 
-      “Incomplete instrument”               ORS 73.0115
+      “Incomplete instrument”              ORS 73.0115
 
       “Indorsement”                              ORS 73.0204
 
@@ -399,33 +401,33 @@ GENERAL PROVISIONS
 
       “Issuer”                                         ORS 73.0105
 
-      “Negotiable instrument”               ORS 73.0104
+      “Negotiable instrument”              ORS 73.0104
 
-      “Negotiation”                                ORS 73.0201
+      “Negotiation”                               ORS 73.0201
 
       “Note”                                           ORS 73.0104
 
-      “Payable at a definite time”          ORS 73.0108
+      “Payable at a definite time”         ORS 73.0108
 
       “Payable on demand”                   ORS 73.0108
 
-      “Payable to bearer”                       ORS 73.0109
+      “Payable to bearer”                      ORS 73.0109
 
-      “Payable to order”                        ORS 73.0109
+      “Payable to order”                         ORS 73.0109
 
       “Payment”                                     ORS 73.0602
 
-      “Person entitled to enforce”          ORS 73.0301
+      “Person entitled to enforce”         ORS 73.0301
 
-      “Presentment”                               ORS 73.0501
+      “Presentment”                              ORS 73.0501
 
-      “Reacquisition”                             ORS 73.0207
+      “Reacquisition”                            ORS 73.0207
 
-      “Special indorsement”                  ORS 73.0205
+      “Special indorsement”                 ORS 73.0205
 
       “Teller’s check”                            ORS 73.0104
 
-      “Transfer of instrument”               ORS 73.0203
+      “Transfer of instrument”              ORS 73.0203
 
       “Traveler’s check”                        ORS 73.0104
 
@@ -433,7 +435,11 @@ GENERAL PROVISIONS
 
  
 
+ 
+
       (3) The following definitions in ORS chapter 74 apply to this chapter:
+
+ 
 
  
 
@@ -441,11 +447,11 @@ GENERAL PROVISIONS
 
       “Banking day”                              ORS 74.1040
 
-      “Clearing house”                           ORS 74.1040
+      “Clearing house”                          ORS 74.1040
 
       “Collecting bank”                         ORS 74.1050
 
-      “Depositary bank”                        ORS 74.1050
+      “Depositary bank”                         ORS 74.1050
 
       “Documentary draft”                    ORS 74.1040
 
@@ -456,6 +462,8 @@ GENERAL PROVISIONS
       “Payor bank”                                ORS 74.1050
 
       “Suspends payments”                   ORS 74.1040
+
+ 
 
  
 
@@ -1221,7 +1229,7 @@ LIABILITY OF PARTIES
 
       (2) A drawee making payment may recover from any warrantor damages for breach of warranty equal to the amount paid by the drawee less the amount the drawee received or is entitled to receive from the drawer because of the payment. In addition, the drawee is entitled to compensation for expenses and loss of interest resulting from the breach. The right of the drawee to recover damages under this subsection is not affected by any failure of the drawee to exercise ordinary care in making payment. If the drawee accepts the draft, breach of warranty is a defense to the obligation of the acceptor. If the acceptor makes payment with respect to the draft, the acceptor is entitled to recover from any warrantor for breach of warranty the amounts stated in this subsection.
 
-      (3) If a drawee asserts a claim for breach of warranty under subsection (1) of this section based on an unauthorized indorsement of the draft or an alteration of the draft, the warrantor may defend by proving that the indorsement is effective under ORS 73.0404 or 73.0405 or the drawer is precluded under ORS 73.0405 or 74.4060 from asserting against the drawee the unauthorized indorsement or alteration.
+      (3) If a drawee asserts a claim for breach of warranty under subsection (1) of this section based on an unauthorized indorsement of the draft or an alteration of the draft, the warrantor may defend by proving that the indorsement is effective under ORS 73.0404 or 73.0405 or the drawer is precluded under ORS 73.0406 or 74.4060 from asserting against the drawee the unauthorized indorsement or alteration.
 
       (4) If a dishonored draft is presented for payment to the drawer or an indorser or any other instrument is presented for payment to a party obliged to pay the instrument, and payment is received, the following rules apply:
 
@@ -1235,7 +1243,7 @@ LIABILITY OF PARTIES
 
       (7) A demand draft is a check, as defined in ORS 73.0104 (6).
 
-      (8) If the warranty in subsection (1)(d) of this section is not given by a transferor under applicable conflict of law rules, then the warranty is not given to that transferor when that transferor is a transferee. [1993 c.545 §58; 1997 c.822 §4]
+      (8) If the warranty in subsection (1)(d) of this section is not given by a transferor under applicable conflict of law rules, then the warranty is not given to that transferor when that transferor is a transferee. [1993 c.545 §58; 1997 c.822 §4; 2019 c.13 §20a]
 
  
 

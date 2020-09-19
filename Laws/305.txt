@@ -32,6 +32,8 @@ Chapter     305.     Administration of Revenue and Tax Laws; Appeals
 
                   317.     Corporation Excise Tax
 
+                  317A.  Corporate Activity Tax
+
                   318.     Corporation Income Tax
 
                   319.     Motor Vehicle and Aircraft Fuel Taxes
@@ -49,16 +51,6 @@ _______________
  
 
 Chapter 305 — Administration of Revenue and Tax Laws; Appeals
-
- 
-
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0105
-
- 
 
  
 
@@ -419,6 +411,8 @@ SUBPOENAS RELATING TO INDUSTRIAL PROPERTY
 
  
 
+ 
+
 APPEALS OF INDUSTRIAL PROPERTY OR PLANTS
 
  
@@ -455,7 +449,7 @@ OREGON TAX COURT
 
  
 
-305.418     When mailed complaint considered to be filed
+305.418     When transmitted complaint or petition considered to be filed
 
  
 
@@ -869,9 +863,11 @@ REFUNDS
 
 305.799     Election to contribute refund to Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program
 
+MISCELLANEOUS PROVISIONS
+
  
 
-MISCELLANEOUS PROVISIONS
+305.806     Posting of information about debtors with delinquent tax debt on department website
 
  
 
@@ -916,8 +912,6 @@ MISCELLANEOUS PROVISIONS
  
 
 Note          Oregon Reinsurance Program exempt--2017 c.538 §§22,48
-
- 
 
 TAXPAYER BILL OF RIGHTS
 
@@ -988,6 +982,10 @@ DEPARTMENT OF REVENUE
       (1) “Department” means the Department of Revenue.
 
       (2) “Director” means the Director of the Department of Revenue. [1969 c.520 §2; 1995 c.79 §105; 1995 c.650 §105]
+
+ 
+
+      Note: The definition of “manufactured structure” provided in 307.021 applies to ORS chapter 305.
 
  
 
@@ -1147,19 +1145,7 @@ DEPARTMENT OF REVENUE
 
       (3) Each calendar quarter, the department shall pay a fee to each financial institution for conducting the data match provided for in this section. In the first quarter that the department pays a fee under this subsection to a financial institution, the fee may not exceed the lesser of $2,500 or the actual costs incurred by the financial institution in that calendar quarter for conducting the data match. In subsequent calendar quarters, the fee may not exceed the lesser of $150 or the actual costs incurred by the financial institution in that calendar quarter for conducting the data match.
 
-      (4)(a) The department may add a fee to the amount of the liquidated and delinquent debt of any delinquent debtor.
-
-      (b) The department may not add a fee under this subsection unless the department has provided notice to the delinquent debtor of the existence of the debt and of the maximum amount of the fee that may be added under this subsection to the debt.
-
-      (c) A fee added under this subsection may not exceed the total data match costs incurred by the department in the calendar quarter in which the fee is assessed, divided by the average number of delinquent debtors as calculated over the preceding four calendar quarters.
-
-      (d) As used in this subsection, “data match costs” means the sum of:
-
-      (A) Amounts payable to financial institutions under subsection (3) of this section; and
-
-      (B) Amounts payable to vendors or contractors pursuant to agreements that are reasonably necessary for the functioning of the data match system.
-
-      (5) The department may temporarily exempt a financial institution from participation in the data match system under this section if:
+      (4) The department may temporarily exempt a financial institution from participation in the data match system under this section if:
 
       (a) The department determines that the participation of the financial institution in the data match system would not be cost-effective for the department;
 
@@ -1167,13 +1153,13 @@ DEPARTMENT OF REVENUE
 
       (c) The financial institution provides the department with written notice from its supervisory banking authority that it has been determined to be undercapitalized, significantly undercapitalized, or critically undercapitalized, as those terms are defined under 12 C.F.R. 325.103(b) or 12 C.F.R. 702.102(a).
 
-      (6) Financial institutions, institution-affiliated parties as defined in the Federal Deposit Insurance Act (12 U.S.C. 1813(u)) and institution-affiliated parties as defined in the Federal Credit Union Act (12 U.S.C. 1786(r)) are not liable under state law to any person:
+      (5) Financial institutions, institution-affiliated parties as defined in the Federal Deposit Insurance Act (12 U.S.C. 1813(u)) and institution-affiliated parties as defined in the Federal Credit Union Act (12 U.S.C. 1786(r)) are not liable under state law to any person:
 
       (a) For any disclosure of information to the department under this section;
 
       (b) For encumbering or surrendering any assets held by the financial institution in response to a notice of lien or levy issued by the department; or
 
-      (c) For any other action taken in good faith to comply with the requirements of this section. [2017 c.644 §2]
+      (c) For any other action taken in good faith to comply with the requirements of this section. [2017 c.644 §2; 2018 c.98 §9]
 
  
 
@@ -1279,7 +1265,7 @@ DEPARTMENT OF REVENUE
 
  
 
-      Note: Legislative Counsel has substituted “chapter 459, Oregon Laws 1991,” for the words “this Act” in section 35, chapter 459, Oregon Laws 1991, compiled as 305.102. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1991 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 459, Oregon Laws 1991,” for the words “this Act” in section 35, chapter 459, Oregon Laws 1991, compiled as 305.102. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1991 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1623,13 +1609,13 @@ DEPARTMENT OF REVENUE
 
       (b) Any person who is licensed by the State Board of Tax Practitioners or who is exempt from such licensing requirement as provided for and limited by ORS 673.610 may represent a taxpayer before a tax court magistrate or the department in any conference or proceeding with respect to the administration of any tax on or measured by net income.
 
-      (c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue Code, as amended and in effect on December 31, 2016, may represent the corporation in any proceeding before a tax court magistrate or the department in the same manner as if the shareholder were a partner and the S corporation were a partnership. The S corporation must designate in writing a tax matters shareholder authorized to represent the S corporation.
+      (c) Any shareholder of an S corporation, as defined in section 1361 of the Internal Revenue Code, as amended and in effect on December 31, 2018, may represent the corporation in any proceeding before a tax court magistrate or the department in the same manner as if the shareholder were a partner and the S corporation were a partnership. The S corporation must designate in writing a tax matters shareholder authorized to represent the S corporation.
 
       (d) An individual who is licensed as a real estate broker or principal real estate broker under ORS 696.022 or is a state certified appraiser or state licensed appraiser under ORS 674.310 or is a registered appraiser under ORS 308.010 may represent a taxpayer before a tax court magistrate or the department in any conference or proceeding with respect to the administration of any ad valorem property tax.
 
       (e) A general partner who has been designated by members of a partnership as their tax matters partner under ORS 305.242 may represent those partners in any conference or proceeding with respect to the administration of any tax on or measured by net income.
 
-      (f) Any person authorized under rules adopted by the department may represent a taxpayer before the department in any conference or proceeding with respect to any tax. Rules adopted under this paragraph, to the extent feasible, shall be consistent with federal law that governs representation before the Internal Revenue Service, as federal law is amended and in effect on December 31, 2016.
+      (f) Any person authorized under rules adopted by the department may represent a taxpayer before the department in any conference or proceeding with respect to any tax. Rules adopted under this paragraph, to the extent feasible, shall be consistent with federal law that governs representation before the Internal Revenue Service, as federal law is amended and in effect on December 31, 2018.
 
       (g) Any person authorized under rules adopted by the tax court may represent a taxpayer in a proceeding before a tax court magistrate.
 
@@ -1637,7 +1623,7 @@ DEPARTMENT OF REVENUE
 
       (3) A taxpayer represented by someone other than an attorney is bound by all things done by the authorized representative, and may not thereafter claim any proceeding was legally defective because the taxpayer was not represented by an attorney.
 
-      (4) Prior to the holding of a conference or proceeding before the tax court magistrate or department, written notice shall be given by the magistrate or department to the taxpayer of the provisions of subsection (3) of this section. [1969 c.97 §1; 1973 c.681 §3; 1979 c.596 §1; 1985 c.761 §40; 1985 c.802 §35; 1987 c.468 §6; 1989 c.414 §3; 1991 c.5 §19; 1995 c.79 §106; 1995 c.556 §30; 1995 c.650 §12; 1997 c.839 §41; 1999 c.90 §28; 1999 c.224 §4; 1999 c.322 §36; 2001 c.300 §59; 2001 c.660 §23; 2003 c.46 §4; 2003 c.77 §1; 2003 c.704 §14a; 2005 c.345 §4; 2005 c.346 §1; 2005 c.832 §13; 2007 c.319 §28; 2007 c.614 §1; 2008 c.45 §1; 2009 c.5 §11; 2009 c.909 §11; 2010 c.82 §11; 2011 c.7 §11; 2012 c.31 §11; 2013 c.377 §11; 2014 c.52 §11; 2015 c.442 §11; 2016 c.33 §12; 2017 c.527 §13]
+      (4) Prior to the holding of a conference or proceeding before the tax court magistrate or department, written notice shall be given by the magistrate or department to the taxpayer of the provisions of subsection (3) of this section. [1969 c.97 §1; 1973 c.681 §3; 1979 c.596 §1; 1985 c.761 §40; 1985 c.802 §35; 1987 c.468 §6; 1989 c.414 §3; 1991 c.5 §19; 1995 c.79 §106; 1995 c.556 §30; 1995 c.650 §12; 1997 c.839 §41; 1999 c.90 §28; 1999 c.224 §4; 1999 c.322 §36; 2001 c.300 §59; 2001 c.660 §23; 2003 c.46 §4; 2003 c.77 §1; 2003 c.704 §14a; 2005 c.345 §4; 2005 c.346 §1; 2005 c.832 §13; 2007 c.319 §28; 2007 c.614 §1; 2008 c.45 §1; 2009 c.5 §11; 2009 c.909 §11; 2010 c.82 §11; 2011 c.7 §11; 2012 c.31 §11; 2013 c.377 §11; 2014 c.52 §11; 2015 c.442 §11; 2016 c.33 §12; 2017 c.527 §13; 2018 c.101 §13; 2019 c.319 §13]
 
  
 
@@ -1645,7 +1631,9 @@ DEPARTMENT OF REVENUE
 
  
 
-      305.242 Representation before department or magistrate of designated partnership tax matters; designated tax partner. (1) When the treatment of partnership items on a partner’s return is consistent with the treatment of that item on the partnership return and results in a notice of deficiency, the partners may designate a tax matters partner to represent each of them before the Department of Revenue in any conference or before a tax court magistrate in any proceeding with respect to the administration of any tax on or measured by net income.
+      305.242 Representation before department or magistrate of designated partnership tax matters; designated tax partner. (1)(a) When the treatment of partnership items on a partner’s return is consistent with the treatment of that item on the partnership return and results in a notice of deficiency, the partners may designate a tax matters partner to represent each of them before the Department of Revenue in any conference or before a tax court magistrate in any proceeding with respect to the administration of any tax on or measured by net income.
+
+      (b) Notwithstanding paragraph (a) of this subsection, a tax matters partner shall be designated as provided in ORS 314.733 (2), in the case of a partnership subject to ORS 314.731 to 314.737.
 
       (2) The designation of a tax matters partner shall be made in writing and filed with the department or magistrate within 30 days after the date of the notice of deficiency. The tax matters partner must be:
 
@@ -1657,7 +1645,7 @@ DEPARTMENT OF REVENUE
 
       (4) A timely request for a conference filed with the department or appeal filed with the tax court by the tax matters partner shall be considered as a request or an appeal by all of the partners represented by the tax matters partner, and all issues regarding treatment of partnership items shall be resolved in a single conference.
 
-      (5) A partner who elects to be represented by a tax matters partner shall be bound by all things done by the tax matters partner and may not thereafter claim that any act or proceeding was legally defective because the partner was not represented by an attorney. [1989 c.414 §1; 1995 c.650 §13]
+      (5) A partner who elects to be represented by a tax matters partner, or any partner in a partnership subject to ORS 314.731 to 314.737, shall be bound by all things done by the tax matters partner and may not thereafter claim that any act or proceeding was legally defective because the partner was not represented by an attorney. [1989 c.414 §1; 1995 c.650 §13; 2019 c.132 §6]
 
  
 
@@ -1879,7 +1867,7 @@ DEPARTMENT OF REVENUE
 
  
 
-      305.280 Time for filing appeals; denial of appeal. (1) Except as otherwise provided in this section, an appeal under ORS 305.275 (1) or (2) shall be filed within 90 days after the act, omission, order or determination becomes actually known to the person, but in no event later than one year after the act or omission has occurred, or the order or determination has been made. An appeal under ORS 308.505 to 308.681 shall be filed within 90 days after the date the order is issued under ORS 308.584 (3). An appeal from a supervisory order or other order or determination of the Department of Revenue shall be filed within 90 days after the date a copy of the order or determination or notice of the order or determination has been served upon the appealing party by mail as provided in ORS 306.805.
+      305.280 Time for filing appeals; denial of appeal. (1) Except as otherwise provided in this section, an appeal under ORS 305.275 (1) or (2) shall be filed within 90 days after the act, omission, order or determination becomes actually known to the person, but in no event later than one year after the act or omission has occurred, or the order or determination has been made. An appeal under ORS 308.505 to 308.674 shall be filed within 90 days after the date the order is issued under ORS 308.584 (3). An appeal from a supervisory order or other order or determination of the Department of Revenue shall be filed within 90 days after the date a copy of the order or determination or notice of the order or determination has been served upon the appealing party by mail as provided in ORS 306.805.
 
       (2) An appeal under ORS 323.416 or 323.623 or from any notice of assessment or refund denial issued by the Department of Revenue with respect to a tax imposed under ORS chapter 118, 308, 308A, 310, 314, 316, 317, 318, 321 or this chapter, or collected pursuant to ORS 305.620, shall be filed within 90 days after the date of the notice. An appeal from a proposed adjustment under ORS 305.270 shall be filed within 90 days after the date the notice of adjustment is final.
 
@@ -1901,7 +1889,7 @@ DEPARTMENT OF REVENUE
 
       305.286 Potential refund credit in property tax appeals; conditions; procedure; interest. (1)(a) Whenever any property value or claim for exemption or cancellation of a property tax assessment is appealed, if the dollar amount in dispute exceeds $1 million, the assessor of the county in which the property is located may order the officer in charge of the assessment and tax roll to issue a potential refund credit with respect to the property as provided in this section.
 
-      (b) If the appeal relates to property assessed under ORS 308.505 to 308.681, the assessor of each county to which a portion of the value is apportioned may issue a potential refund credit under paragraph (a) of this subsection:
+      (b) If the appeal relates to property assessed under ORS 308.505 to 308.674, the assessor of each county to which a portion of the value is apportioned may issue a potential refund credit under paragraph (a) of this subsection:
 
       (A) Even if the dollar amount in dispute with respect to the county is $1 million or less; and
 
@@ -1913,7 +1901,7 @@ DEPARTMENT OF REVENUE
 
       (b)(A) For all property of a taxpayer that is the subject of an appeal, regardless of whether the property is the subject of separate appeals; or
 
-      (B) For property that is assessed under ORS 308.505 to 308.681, for all current appeals relating to the property or to a unit of which the property is a part.
+      (B) For property that is assessed under ORS 308.505 to 308.674, for all current appeals relating to the property or to a unit of which the property is a part.
 
       (3)(a) Except as expressly provided in this section, nothing in this section affects the laws governing the assessment and collection of ad valorem property taxes with respect to property to which a potential refund credit relates.
 
@@ -1993,9 +1981,7 @@ DEPARTMENT OF REVENUE
 
       (B) Does not include inadvertence, oversight, lack of knowledge, hardship or reliance on misleading information provided by any person except an authorized tax official providing the relevant misleading information.
 
-      (c) “Manufactured structure” has the meaning given that term in ORS 446.561.
-
-      (6) The remedy provided under this section is in addition to all other remedies provided by law. [Formerly 306.116; 1999 c.767 §1; subsection (7) of 2005 Edition enacted as 2003 c.655 §47a; 2009 c.33 §6; 2013 c.176 §2]
+      (6) The remedy provided under this section is in addition to all other remedies provided by law. [Formerly 306.116; 1999 c.767 §1; subsection (7) of 2005 Edition enacted as 2003 c.655 §47a; 2009 c.33 §6; 2013 c.176 §2; 2019 c.585 §20]
 
  
 
@@ -2295,7 +2281,7 @@ OREGON TAX COURT
 
       (m) ORS 311.420, 311.425, 311.455, 311.650, 311.655 and ORS chapter 312 relating to foreclosure of real and personal property tax liens.
 
-      (n) Sections 15 to 22, 24 and 29, chapter 736, Oregon Laws 2003, relating to long term care facility assessments.
+      (n) ORS 409.800 to 409.816 and 409.900 relating to long term care facility assessments.
 
       (2) The tax court and the circuit courts shall have concurrent jurisdiction to try actions or suits to determine:
 
@@ -2321,29 +2307,25 @@ OREGON TAX COURT
 
  
 
-      305.418 When mailed complaint considered to be filed. Any complaint required by law to be filed with the Oregon Tax Court that is:
+      305.418 When transmitted complaint or petition considered to be filed. (1) As used in this section, “private express carrier” has the meaning given that term in ORS 293.660.
 
-      (1) Transmitted through the United States mail, shall be deemed filed (a) on the date shown by the post-office cancellation mark stamped upon the envelope containing it, or (b) on the date it was mailed if there is also mailed to the tax court a declaration of mailing, signed by the appealing party or the attorney of the appealing party and verified by oath or affirmation, subject to penalties for false swearing, in substantially the following form:
+      (2) Any complaint or petition that is required by law to be filed with the Oregon Tax Court, that is otherwise sufficient for filing and that is:
 
-______________________________________________________________________________
+ 
 
-DECLARATION OF MAILING
+ 
 
-      I hereby declare under the penalties for false swearing contained in ORS chapter 162 that on the ______ day of______, 2__, I deposited a complaint entitled______, and dated______, in a sealed envelope, with postage prepaid, in the United States Post Office at____________, Oregon (or other state of mailing), addressed to the Oregon Tax Court, 1163 State Street, Salem, Oregon 97301-2563 (or current address).
+ 
 
-(Signature of appealing
+ 
 
-party or the attorney
+      (a) Transmitted through the United States mail or a private express carrier, shall be deemed filed on the date that it was deposited in the United States mail or dispatched via a private express carrier, as shown by a post-office cancellation mark or by any other record from the United States Postal Service or a private express carrier showing the date that the appealing party initiated mailing or dispatch.
 
-of the appealing party)
+      (b) Lost in transmission through the United States mail or a private express carrier, shall be deemed filed on the date it was deposited in the United States mail or dispatched via a private express carrier if the appealing party:
 
-______________________________________________________________________________
+      (A) Can establish by evidence satisfactory to the tax court that the complaint or petition was deposited in the United States mail or dispatched via a private express carrier and was addressed correctly to the court; and
 
-      (2) Lost in transmission through the United States mail, shall be deemed filed on the date it was mailed if the appealing party:
-
-      (a) Can establish by competent evidence satisfactory to the tax court that the complaint was deposited on or before the date due for filing in the United States mail and addressed correctly to the court; and
-
-      (b) Files with the court a duplicate of the lost complaint within 30 days after written notification is given by the court of its failure to receive such complaint, but in no event later than 90 days after the date the complaint was otherwise required to be filed under ORS 305.560. [1975 c.381 §2; 1979 c.689 §3; 1993 c.612 §3; 2005 c.225 §3]
+      (B) Files with the court a duplicate of the lost complaint or petition within 90 days after it was deposited in the United States mail or dispatched via a private express carrier. [1975 c.381 §2; 1979 c.689 §3; 1993 c.612 §3; 2005 c.225 §3; 2019 c.376 §1]
 
  
 
@@ -2409,7 +2391,7 @@ ______________________________________________________________________________
 
       305.440 Finality of unappealed decision of tax court; effect of appeal to Supreme Court. (1) The decision of the court shall be binding upon all parties until changed, if at all, by the decision of the Supreme Court upon appeal. If no appeal is taken to the Supreme Court, the decision of the court shall constitute a final determination of the matter. If an appeal is taken, the decision of the court shall become final in the same manner as the decision or judgment of the circuit court becomes final when appeal therefrom is taken to the Supreme Court.
 
-      (2) Upon the final determination of any ad valorem tax matter, all officers having charge of the rolls on which the assessments involved in such proceeding appears shall correct the same in accordance with such determination, and taxes shall be refunded as provided in ORS 311.806 or additional taxes collected by the proper officers. In the case of an appeal as to properties assessed or taxed under ORS 308.505 to 308.681 or 308.805 to 308.820, a certified copy of the judgment of the court shall be sufficient warrant for the apportionment, levying and collecting of taxes against the property constituting the subject matter of the appeal and upon the valuation determined by the court. If any reapportionment as between counties is made by the court on appeal, corresponding adjustments shall be made by the tax collectors of the counties affected. [1961 c.533 §21; 1971 c.567 §15; 1977 c.870 §31; 1983 c.696 §9; 1985 c.85 §11; 1997 c.154 §26; 2003 c.576 §412]
+      (2) Upon the final determination of any ad valorem tax matter, all officers having charge of the rolls on which the assessments involved in such proceeding appears shall correct the same in accordance with such determination, and taxes shall be refunded as provided in ORS 311.806 or additional taxes collected by the proper officers. In the case of an appeal as to properties assessed or taxed under ORS 308.505 to 308.674 or 308.805 to 308.820, a certified copy of the judgment of the court shall be sufficient warrant for the apportionment, levying and collecting of taxes against the property constituting the subject matter of the appeal and upon the valuation determined by the court. If any reapportionment as between counties is made by the court on appeal, corresponding adjustments shall be made by the tax collectors of the counties affected. [1961 c.533 §21; 1971 c.567 §15; 1977 c.870 §31; 1983 c.696 §9; 1985 c.85 §11; 1997 c.154 §26; 2003 c.576 §412]
 
  
 
@@ -2511,7 +2493,7 @@ ______________________________________________________________________________
 
       305.487 Findings and policy. (1) The Legislative Assembly finds that:
 
-      (a) Industrial property that is appraised by the Department of Revenue under ORS 306.126 and property that is centrally assessed by the department under ORS 308.505 to 308.681 involve large amounts of property value and complex appraisal issues.
+      (a) Industrial property that is appraised by the Department of Revenue under ORS 306.126 and property that is centrally assessed by the department under ORS 308.505 to 308.674 involve large amounts of property value and complex appraisal issues.
 
       (b) Appeals of the value of state-appraised industrial property or centrally assessed property can have significant impact on the stable funding of essential local government services because of the fiscal consequences of substantial tax refunds.
 
@@ -2585,7 +2567,7 @@ ______________________________________________________________________________
 
  
 
-      305.494 When shareholder may represent corporation in tax court proceedings. Notwithstanding ORS 9.320, any shareholder of an S corporation as defined in section 1361 of the Internal Revenue Code, as amended and in effect on December 31, 2016, may represent the corporation in any proceeding before the Oregon Tax Court in the same manner as if the shareholder were a partner and the S corporation were a partnership. [Formerly 305.510; 1997 c.839 §42; 1999 c.90 §29; 2001 c.660 §24; 2003 c.77 §2; 2005 c.832 §14; 2007 c.614 §2; 2008 c.45 §2; 2009 c.5 §12; 2009 c.909 §12; 2010 c.82 §12; 2011 c.7 §12; 2012 c.31 §12; 2013 c.377 §12; 2014 c.52 §12; 2015 c.442 §12; 2016 c.33 §13; 2017 c.527 §14]
+      305.494 When shareholder may represent corporation in tax court proceedings. Notwithstanding ORS 9.320, any shareholder of an S corporation as defined in section 1361 of the Internal Revenue Code, as amended and in effect on December 31, 2018, may represent the corporation in any proceeding before the Oregon Tax Court in the same manner as if the shareholder were a partner and the S corporation were a partnership. [Formerly 305.510; 1997 c.839 §42; 1999 c.90 §29; 2001 c.660 §24; 2003 c.77 §2; 2005 c.832 §14; 2007 c.614 §2; 2008 c.45 §2; 2009 c.5 §12; 2009 c.909 §12; 2010 c.82 §12; 2011 c.7 §12; 2012 c.31 §12; 2013 c.377 §12; 2014 c.52 §12; 2015 c.442 §12; 2016 c.33 §13; 2017 c.527 §14; 2018 c.101 §14; 2019 c.319 §14]
 
  
 
@@ -2705,9 +2687,7 @@ ______________________________________________________________________________
 
  
 
-(Appeals Procedure;
-
-Effect of Pendency of Appeal)
+(Appeals Procedure; Effect of Pendency of Appeal)
 
  
 
@@ -2907,9 +2887,7 @@ Effect of Pendency of Appeal)
 
  
 
-INTERGOVERNMENTAL
-
-TAX RELATIONS
+INTERGOVERNMENTAL TAX RELATIONS
 
  
 
@@ -2955,7 +2933,9 @@ TAX RELATIONS
 
  
 
-      305.620 Collection and distribution of local taxes on income and sales; costs; court review of determinations and orders; appeals. (1) Any state agency or department may enter into agreements with any political subdivision of this state for the collection, enforcement, administration and distribution of local taxes of the political subdivision imposed upon or measured by gross or net income, wages or net earnings from self-employment, local general sales and use taxes, local transient lodging taxes or taxes imposed under ORS 475B.491.
+      305.620 Collection and distribution of local taxes on income and sales; costs; court review of determinations and orders; appeals. (1)(a) Any state agency or department may enter into agreements with any political subdivision of this state for the collection, enforcement, administration and distribution of local taxes of the political subdivision imposed upon or measured by gross or net income, wages or net earnings from self-employment, local general sales and use taxes, local transient lodging taxes or taxes imposed under ORS 475B.491.
+
+      (b) Notwithstanding ORS 314.835, a local government may disclose payment distribution amounts made pursuant to an agreement under this subsection to collect taxes imposed under ORS 475B.491.
 
       (2) The department or agency shall prescribe the rules by which the agreements entered into under subsection (1) of this section are administered.
 
@@ -2969,7 +2949,7 @@ TAX RELATIONS
 
       (7) A proceeding for refund or to set aside additional taxes or taxes assessed when no return was filed may be initiated before the state agency or department.
 
-      (8) An appeal from a determination or an order may be taken by the taxpayer or by the political subdivision whose taxes are in issue, by filing a complaint with the clerk of the Oregon Tax Court at its principal office in Salem, Oregon, within 60 days after the notice of the determination of the Department of Revenue or the order of the department or agency is sent to the taxpayer or the political subdivision. The filing of the complaint in the Oregon Tax Court shall constitute perfection of the appeal. Service of the taxpayer’s complaint shall be accomplished by the clerk of the tax court by filing a copy of the complaint with the administrative head of the department or agency and a copy with the political subdivision. Service of the political subdivision’s complaint shall be accomplished by the clerk of the tax court by filing a copy of the complaint with the administrative head of the department or agency and mailing a copy of the complaint to the taxpayer. The complaint of a taxpayer shall be entitled in the name of the person filing as plaintiff and the department or agency as defendant. The complaint of a political subdivision shall be entitled in the name of the political subdivision as plaintiff and the taxpayer and the department or agency as defendants. A copy of the order of the department or agency shall be attached to the complaint. All procedures shall be in accordance with ORS 305.405 to 305.494. [1967 c.550 §§12,13,14,15; 1969 c.574 §5; 1971 c.261 §1; 1971 c.600 §3; 1973 c.98 §1; 1983 c.749 §4; 1985 c.407 §3; 1995 c.79 §112; 1995 c.650 §62; 1997 c.325 §15; 1999 c.21 §12; 2003 c.621 §78; 2005 c.225 §7; 2005 c.345 §10; 2009 c.33 §7; 2016 c.24 §32; 2017 c.74 §1]
+      (8) An appeal from a determination or an order may be taken by the taxpayer or by the political subdivision whose taxes are in issue, by filing a complaint with the clerk of the Oregon Tax Court at its principal office in Salem, Oregon, within 60 days after the notice of the determination of the Department of Revenue or the order of the department or agency is sent to the taxpayer or the political subdivision. The filing of the complaint in the Oregon Tax Court shall constitute perfection of the appeal. Service of the taxpayer’s complaint shall be accomplished by the clerk of the tax court by filing a copy of the complaint with the administrative head of the department or agency and a copy with the political subdivision. Service of the political subdivision’s complaint shall be accomplished by the clerk of the tax court by filing a copy of the complaint with the administrative head of the department or agency and mailing a copy of the complaint to the taxpayer. The complaint of a taxpayer shall be entitled in the name of the person filing as plaintiff and the department or agency as defendant. The complaint of a political subdivision shall be entitled in the name of the political subdivision as plaintiff and the taxpayer and the department or agency as defendants. A copy of the order of the department or agency shall be attached to the complaint. All procedures shall be in accordance with ORS 305.405 to 305.494. [1967 c.550 §§12,13,14,15; 1969 c.574 §5; 1971 c.261 §1; 1971 c.600 §3; 1973 c.98 §1; 1983 c.749 §4; 1985 c.407 §3; 1995 c.79 §112; 1995 c.650 §62; 1997 c.325 §15; 1999 c.21 §12; 2003 c.621 §78; 2005 c.225 §7; 2005 c.345 §10; 2009 c.33 §7; 2016 c.24 §32; 2017 c.74 §1; 2018 c.103 §1]
 
  
 
@@ -3317,7 +3297,7 @@ CHARITABLE CHECKOFF PROGRAM
 
       (6) “Instruction listing” means being listed on the Department of Revenue instructions for tax return checkoff contribution.
 
-      (7) “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on December 31, 2016. [1989 c.987 §2; 1993 c.726 §6; 1995 c.556 §32; 1997 c.839 §43; 1999 c.90 §30; 2001 c.660 §25; 2003 c.77 §3; 2005 c.832 §15; 2007 c.614 §3; 2007 c.822 §1; 2008 c.45 §3; 2009 c.5 §13; 2009 c.909 §13; 2010 c.82 §13; 2011 c.7 §13; 2012 c.31 §13; 2013 c.377 §13; 2014 c.52 §13; 2015 c.442 §13; 2016 c.33 §14; 2017 c.527 §15]
+      (7) “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on December 31, 2018. [1989 c.987 §2; 1993 c.726 §6; 1995 c.556 §32; 1997 c.839 §43; 1999 c.90 §30; 2001 c.660 §25; 2003 c.77 §3; 2005 c.832 §15; 2007 c.614 §3; 2007 c.822 §1; 2008 c.45 §3; 2009 c.5 §13; 2009 c.909 §13; 2010 c.82 §13; 2011 c.7 §13; 2012 c.31 §13; 2013 c.377 §13; 2014 c.52 §13; 2015 c.442 §13; 2016 c.33 §14; 2017 c.527 §15; 2018 c.101 §15; 2019 c.319 §15]
 
  
 
@@ -3439,7 +3419,7 @@ CHARITABLE CHECKOFF PROGRAM
 
       (3) In order to qualify for instruction listing, the entity must meet the qualifications described in ORS 305.720, collect 10,000 or more signatures from electors of this state attesting that the electors support the entity qualifying for instruction listing and be:
 
-      (a) The Oregon Veterans’ Home, the Nongame Wildlife Fund, the Alzheimer’s Disease Research Fund, the Oregon Military Emergency Financial Assistance Fund, the Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program Fund, the Oregon Volunteer Firefighters Association, but only if contributions are dedicated to the direct costs of firefighter training or to the assistance of a firefighter, or a firefighter’s immediate family, who has experienced hardship resulting from the death, injury or illness of the firefighter, or the subaccount described in ORS 316.493 for contributions dedicated to the prevention of child abuse and neglect;
+      (a) An Oregon Veterans’ Home, as defined in ORS 408.362, the Nongame Wildlife Fund, the Alzheimer’s Disease Research Fund, the Oregon Military Emergency Financial Assistance Fund, the Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program Fund, the Oregon Volunteer Firefighters Association, but only if contributions are dedicated to the direct costs of firefighter training or to the assistance of a firefighter, or a firefighter’s immediate family, who has experienced hardship resulting from the death, injury or illness of the firefighter, or the subaccount described in ORS 316.493 for contributions dedicated to the prevention of child abuse and neglect;
 
       (b) A nonprofit organization described in section 501(c)(3) of the Internal Revenue Code with a gross income of at least $1 million for the year prior to application; or
 
@@ -3453,7 +3433,7 @@ CHARITABLE CHECKOFF PROGRAM
 
       (7) The department shall cause two lines to be included on the Oregon individual tax return forms following the listing of the entities described in ORS 305.715 (2). These lines may be used by a taxpayer to designate one entity or two entities that have qualified for instruction listing under this section as the recipients of checkoff contributions by the taxpayer.
 
-      (8) Amounts contributed by charitable checkoff to an instruction-listed entity shall be subject to and distributed as provided in ORS 305.747. [1999 c.1032 §2; 2001 c.677 §1; 2007 c.822 §§6,7; 2013 c.779 §7; 2017 c.487 §1]
+      (8) Amounts contributed by charitable checkoff to an instruction-listed entity shall be subject to and distributed as provided in ORS 305.747. [1999 c.1032 §2; 2001 c.677 §1; 2007 c.822 §§6,7; 2013 c.779 §7; 2017 c.487 §1; 2019 c.224 §7]
 
  
 
@@ -3617,9 +3597,9 @@ REFUNDS
 
  
 
-      305.762 Election for direct deposit of personal income tax refund. (1) At the election of the taxpayer, a refund of personal income tax shall be made by direct deposit into an account designated by the taxpayer at a bank or other financial institution.
+      305.762 Election for direct deposit of personal income tax refund. (1) At the election of the taxpayer, a refund of personal income tax shall be made by direct deposit into an account designated by the taxpayer.
 
-      (2) The election shall be made on a form prescribed by the Department of Revenue and filed with the taxpayer’s tax return for the tax year or at such other time and manner as the department may prescribe by rule. [2001 c.111 §2]
+      (2) The election shall be made on a form prescribed by the Department of Revenue and filed with the taxpayer’s tax return for the tax year or at such other time and manner as the department may prescribe by rule. [2001 c.111 §2; 2019 c.33 §1]
 
  
 
@@ -3685,6 +3665,32 @@ REFUNDS
 
  
 
+      Note: The amendments to 305.796 by section 2, chapter 316, Oregon Laws 2019, apply to tax returns filed on or after January 1, 2021. See section 4, chapter 316, Oregon Laws 2019. The text that applies to tax returns filed on or after January 1, 2021, is set forth for the user’s convenience.
+
+      305.796. (1) The Department of Revenue shall provide a means by which personal income taxpayers may elect to establish an account under ORS 178.335 within the Oregon 529 Savings Network in the name of a designated beneficiary.
+
+      (2) A taxpayer may elect to contribute all or a portion of a refund of personal income tax to an account that has been established under ORS 178.335 by direct deposit to the financial institution managing the account. The amount elected to be contributed by the taxpayer must be at least $25 and may be applied as a contribution only for the tax year in which the refund is issued.
+
+      (3) The election to contribute all or a portion of a refund shall be made on a form prescribed by the department and filed with the taxpayer’s tax return for the tax year or at such other time and in such other manner as the department may prescribe by rule. The department shall prescribe by rule the maximum number of accounts to which a taxpayer may elect to contribute a portion of the refund.
+
+      (4) The election to contribute all or a portion of a refund may not be changed or revoked.
+
+      (5) The election to contribute all or a portion of a refund shall be void, and no portion of the refund may be contributed to an account that has been established under ORS 178.335, if:
+
+      (a) The taxpayer’s refund is offset to pay amounts owed by the taxpayer; or
+
+      (b) The taxpayer’s refund is less than the total of the following:
+
+      (A) The contribution elected in subsection (2) of this section;
+
+      (B) Payments of tax as provided in ORS 316.583 that accompany the return;
+
+      (C) All contributions to charitable and governmental entities designated by means of a checkoff as provided in ORS 305.745; and
+
+      (D) All contributions to political parties designated by means of a checkoff as provided in ORS 305.754.
+
+ 
+
       305.799 Election to contribute refund to Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program. (1) Individual taxpayers who file an Oregon income tax return and who will receive a tax refund from the Department of Revenue may designate that a contribution of all or a portion of the refund be made to the Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program by marking the appropriate box printed on the return as provided in ORS 305.690 to 305.753.
 
       (2) Moneys contributed to the Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program in accordance with ORS 305.690 to 305.753 shall be deposited in the Oregon Department of Veterans’ Affairs Veterans Suicide Prevention and Outreach Program Fund. [2013 c.779 §5]
@@ -3700,6 +3706,40 @@ REFUNDS
  
 
 MISCELLANEOUS PROVISIONS
+
+ 
+
+      305.806 Posting of information about debtors with delinquent tax debt on department website. (1) The Department of Revenue may, in the time and manner determined by the department, make available by posting on the department’s website information about debtors who owe delinquent tax debt to the department in any of the following circumstances:
+
+      (a) The debtor is not in a department-approved payment plan under ORS 305.890;
+
+      (b) The debtor is not in an open bankruptcy;
+
+      (c) The debtor is not appealing the debt in good faith;
+
+      (d) The debtor is not in an agreement approved by the department to resolve payment of the debt under ORS 305.150 or 305.155;
+
+      (e) The unpaid balance owed by the debtor, including tax, penalty and interest is greater than $50,000; or
+
+      (f) The department has issued a warrant for collection of the debt under ORS 267.385, 314.430, 316.207, 320.080, 321.570 or 323.390.
+
+      (2) For purposes of posting debtor information pursuant to this section and notwithstanding ORS 314.835, the department may disclose the following:
+
+      (a) The debtor’s name, including other names or aliases associated with the identity of the debtor;
+
+      (b) The name of a liable officer, if the debtor is a business;
+
+      (c) The debtor’s current city and state of residence;
+
+      (d) A lien identification number for the debt;
+
+      (e) The type of debt; and
+
+      (f) The current amount due from the debtor.
+
+      (3) Within 14 days of the resolution of any debt about which information is posted online, the department shall remove information related to the debt from the department’s website or otherwise indicate debt was resolved in full.
+
+      (4) Notwithstanding the disclosure allowed under subsection (2) of this section, any information contained in the department’s systems that is used in making debtor information available online remains subject to any applicable confidentiality protections provided by law and is exempt from public records disclosure. [2019 c.336 §2]
 
  
 
@@ -3783,9 +3823,9 @@ Note: 305.823 was enacted into law by the Legislative Assembly but was not added
 
  
 
-      305.842 Application of Internal Revenue Code to certain property tax laws. (1) As used in ORS 307.130, 307.147, 308A.450, 310.140 and 310.800, “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on December 31, 2016.
+      305.842 Application of Internal Revenue Code to certain property tax laws. (1) As used in ORS 307.130, 307.147, 308A.450, 310.140 and 310.800, “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on December 31, 2018.
 
-      (2) As used in ORS 311.666, “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on December 31, 2016, including amendments that take effect after that date. [2014 c.52 §15; 2015 c.348 §27; 2015 c.442 §22; 2016 c.33 §15; 2017 c.527 §16]
+      (2) As used in ORS 311.666, “Internal Revenue Code” means the federal Internal Revenue Code as amended and in effect on December 31, 2018, including amendments that take effect after that date. [2014 c.52 §15; 2015 c.348 §27; 2015 c.442 §22; 2016 c.33 §15; 2017 c.527 §16; 2018 c.101 §16; 2019 c.319 §16]
 
  
 
@@ -3811,11 +3851,7 @@ Note: 305.823 was enacted into law by the Legislative Assembly but was not added
 
       Sec. 22. Oregon Reinsurance Program exempt. The Oregon Reinsurance Program established in section 18 of this 2017 Act shall be exempt from any and all taxes assessed by the State of Oregon. [2017 c.538 §22]
 
- 
-
-      Note: Section 22, chapter 538, Oregon Laws 2017, becomes operative on the later of January 1, 2018, or the date a federal waiver for state innovation is approved. See section 45, chapter 538, Oregon Laws 2017.
-
-      Sec. 48. Sections 18 to 22 of this 2017 Act are repealed on January 2, 2024. [2017 c.538 §48]
+      Sec. 48. Sections 18 to 22, chapter 538, Oregon Laws 2017, are repealed on January 2, 2028. [2017 c.538 §48; 2019 c.2 §3]
 
  
 

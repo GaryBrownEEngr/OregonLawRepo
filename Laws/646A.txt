@@ -4,16 +4,6 @@ Chapter 646A — Trade Regulation
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0007
-
- 
-
- 
-
 
  
 
@@ -101,15 +91,9 @@ SALES
 
 646A.066  Applicability to local ordinances
 
- 
-
 646A.067  Preemption of local requirements applicable to pawnbrokers
 
- 
-
 646A.068  Penalty for violating ORS 646A.065
-
- 
 
 (Telephonic Equipment)
 
@@ -164,8 +148,6 @@ SALES
  
 
 646A.093  Disclosures for handling and shipping consumer goods required in advertisements, offers and sales; penalty
-
- 
 
 646A.095  Disclosure required when purchaser of product offered technical support through information delivery system
 
@@ -292,8 +274,6 @@ SERVICE CONTRACTS
  
 
 646A.162  Investigation of violations; inspection of records; subpoenas; discontinue or desist order; civil penalties
-
- 
 
 646A.164  Complaints and investigations confidential; exceptions
 
@@ -837,19 +817,11 @@ MERCURY IN LIGHTING PRODUCTS
 
 646A.560  Legislative findings
 
- 
-
 646A.562  Definitions for ORS 646A.560 to 646A.566
-
- 
 
 646A.564  Standards for mercury content in electric lamps; exceptions
 
- 
-
 646A.566  Considerations for state agency procurement of lighting devices that contain mercury
-
- 
 
 PORTABLE ELECTRONICS INSURANCE
 
@@ -903,15 +875,15 @@ IDENTITY THEFT PREVENTION
 
  
 
-646A.606  Security freeze; requirements; fee; proof of authority; effect
+646A.606  Security freeze; requirements; proof of authority; effect
 
  
 
-646A.608  Deadline for placing security freeze; protective record creation; use and release of information; confirmation; personal identification number; exception; lifting and removal; fees
+646A.608  Deadline for placing security freeze; protective record creation; use and release of information; confirmation; personal identification number; exception; lifting and removal
 
  
 
-646A.610  Permissible fees
+646A.610  Fees not permitted
 
  
 
@@ -935,7 +907,7 @@ IDENTITY THEFT PREVENTION
 
  
 
-646A.622  Requirement to develop safeguards for personal information; conduct deemed to comply with requirement
+646A.622  Requirement to develop safeguards for personal information; conduct deemed to comply with requirement; defenses
 
  
 
@@ -951,7 +923,11 @@ IDENTITY THEFT PREVENTION
 
  
 
-DEBT BUYERS
+DEBT COLLECTION
+
+ 
+
+(Debt Buyers)
 
  
 
@@ -1000,6 +976,38 @@ DEBT BUYERS
  
 
 646A.673  Rules
+
+ 
+
+(Medical Debt)
+
+ 
+
+646A.677  Requirement to screen for financial assistance before transferring medical debt for collection; permitted interest rate; unlawful collection practices
+
+ 
+
+DRUG PRICING AND SALES
+
+ 
+
+646A.680  Legislative intent
+
+ 
+
+646A.683  Requirement to report increase in drug price; exemptions
+
+ 
+
+646A.686  Short title
+
+ 
+
+646A.689  Requirement to report certain information concerning drug manufacturing and pricing; contents of report; penalty; rules
+
+ 
+
+646A.692  Civil penalty
 
  
 
@@ -1083,13 +1091,39 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
  
 
-(Temporary provisions relating to guaranteed asset protection waivers are compiled as notes following ORS 646A.765)
+646A.770  Definitions
+
+ 
+
+646A.773  Applicability of Insurance Code; statement of costs; exemptions
+
+ 
+
+646A.776  Required diclosures; cancellation provisions; effect on motor vehicle purchaser’s credit
+
+ 
+
+646A.779  Determination of amount of waiver; waivers that are required and waivers that are not required
+
+ 
+
+646A.781  Cancellation and expiration; refunds; effect of sale, assignment or transfer
+
+ 
+
+646A.784  Reimbursement insurance policies for guaranteed asset protection waivers
+
+ 
+
+646A.787  Fiduciary responsibilities
+
+ 
+
+646A.790  Unlawful practices
 
  
 
 MISCELLANEOUS
-
- 
 
 646A.800  Late fees on delinquent cable service accounts; amount; disclosure; notice
 
@@ -1101,11 +1135,7 @@ MISCELLANEOUS
 
 646A.803  Contest and sweepstakes solicitations; required disclosures; prohibited representations
 
- 
-
 646A.806  Website with photographs and information about arrested persons; requirement to remove photographs and information upon request; penalty
-
- 
 
 646A.808  Obtaining personal information by false representation via electronic media
 
@@ -1115,9 +1145,11 @@ MISCELLANEOUS
 
  
 
+646A.813  Security requirements for Internet-connected devices; exemptions; penalty
+
  
 
-      646A.010 [Formerly 646.185; repealed by 2009 c.170 §4]
+646A.010 [Formerly 646.185; repealed by 2009 c.170 §4]
 
  
 
@@ -4425,61 +4457,67 @@ IDENTITY THEFT PREVENTION
 
  
 
-      646A.600 Short title. ORS 646A.600 to 646A.628 shall be known as the Oregon Consumer Identity Theft Protection Act. [2007 c.759 §1]
+      646A.600 Short title. ORS 646A.600 to 646A.628 shall be known as the Oregon Consumer Information Protection Act. [2007 c.759 §1; 2019 c.180 §1]
 
  
 
       646A.602 Definitions for ORS 646A.600 to 646A.628. As used in ORS 646A.600 to 646A.628:
 
-      (1)(a) “Breach of security” means an unauthorized acquisition of computerized data that materially compromises the security, confidentiality or integrity of personal information that a person maintains.
+      (1)(a) “Breach of security” means an unauthorized acquisition of computerized data that materially compromises the security, confidentiality or integrity of personal information that a person maintains or possesses.
 
       (b) “Breach of security” does not include an inadvertent acquisition of personal information by a person or the person’s employee or agent if the personal information is not used in violation of applicable law or in a manner that harms or poses an actual threat to the security, confidentiality or integrity of the personal information.
 
       (2) “Consumer” means an individual resident of this state.
 
-      (3) “Consumer report” means a consumer report as described in section 603(d) of the federal Fair Credit Reporting Act (15 U.S.C. 1681a(d)), as that Act existed on January 1, 2016, that a consumer reporting agency compiles and maintains.
+      (3) “Consumer report” means a consumer report as described in section 603(d) of the federal Fair Credit Reporting Act (15 U.S.C. 1681a(d)), as that Act existed on January 1, 2020, that a consumer reporting agency compiles and maintains.
 
-      (4) “Consumer reporting agency” means a consumer reporting agency as described in section 603(p) of the federal Fair Credit Reporting Act (15 U.S.C. 1681a(p)) as that Act existed on January 1, 2016.
+      (4) “Consumer reporting agency” means a consumer reporting agency as described in section 603(p) of the federal Fair Credit Reporting Act (15 U.S.C. 1681a(p)) as that Act existed on January 1, 2020.
 
-      (5) “Debt” means any obligation or alleged obligation arising out of a consumer transaction.
+      (5)(a) “Covered entity” means a person that owns, licenses, maintains, stores, manages, collects, processes, acquires or otherwise possesses personal information in the course of the person’s business, vocation, occupation or volunteer activities.
 
-      (6) “Encryption” means an algorithmic process that renders data unreadable or unusable without the use of a confidential process or key.
+      (b) “Covered entity” does not include a person described in paragraph (a) of this subsection to the extent that the person acts solely as a vendor.
 
-      (7) “Extension of credit” means a right to defer paying debt or a right to incur debt and defer paying the debt, that is offered or granted primarily for personal, family or household purposes.
+      (6) “Debt” means any obligation or alleged obligation arising out of a consumer transaction.
 
-      (8) “Identity theft” has the meaning set forth in ORS 165.800.
+      (7) “Encryption” means an algorithmic process that renders data unreadable or unusable without the use of a confidential process or key.
 
-      (9) “Identity theft declaration” means a completed and signed statement that documents alleged identity theft, using the form available from the Federal Trade Commission, or another substantially similar form.
+      (8) “Extension of credit” means a right to defer paying debt or a right to incur debt and defer paying the debt, that is offered or granted primarily for personal, family or household purposes.
 
-      (10) “Person” means an individual, private or public corporation, partnership, cooperative, association, estate, limited liability company, organization or other entity, whether or not organized to operate at a profit, or a public body as defined in ORS 174.109.
+      (9) “Identity theft” has the meaning set forth in ORS 165.800.
 
-      (11) “Personal information” means:
+      (10) “Identity theft declaration” means a completed and signed statement that documents alleged identity theft, using a form available from the Federal Trade Commission, or another substantially similar form.
 
-      (a) A consumer’s first name or first initial and last name in combination with any one or more of the following data elements, if encryption, redaction or other methods have not rendered the data elements unusable or if the data elements are encrypted and the encryption key has been acquired:
+      (11) “Person” means an individual, private or public corporation, partnership, cooperative, association, estate, limited liability company, organization or other entity, whether or not organized to operate at a profit, or a public body as defined in ORS 174.109.
 
-      (A) A consumer’s Social Security number;
+      (12)(a) “Personal information” means:
 
-      (B) A consumer’s driver license number or state identification card number issued by the Department of Transportation;
+      (A) A consumer’s first name or first initial and last name in combination with any one or more of the following data elements, if encryption, redaction or other methods have not rendered the data elements unusable or if the data elements are encrypted and the encryption key has been acquired:
 
-      (C) A consumer’s passport number or other identification number issued by the United States;
+      (i) A consumer’s Social Security number;
 
-      (D) A consumer’s financial account number, credit card number or debit card number, in combination with any required security code, access code or password that would permit access to a consumer’s financial account;
+      (ii) A consumer’s driver license number or state identification card number issued by the Department of Transportation;
 
-      (E) Data from automatic measurements of a consumer’s physical characteristics, such as an image of a fingerprint, retina or iris, that are used to authenticate the consumer’s identity in the course of a financial transaction or other transaction;
+      (iii) A consumer’s passport number or other identification number issued by the United States;
 
-      (F) A consumer’s health insurance policy number or health insurance subscriber identification number in combination with any other unique identifier that a health insurer uses to identify the consumer; or
+      (iv) A consumer’s financial account number, credit card number or debit card number, in combination with any required security code, access code or password that would permit access to a consumer’s financial account, or any other information or combination of information that a person reasonably knows or should know would permit access to the consumer’s financial account;
 
-      (G) Any information about a consumer’s medical history or mental or physical condition or about a health care professional’s medical diagnosis or treatment of the consumer.
+      (v) Data from automatic measurements of a consumer’s physical characteristics, such as an image of a fingerprint, retina or iris, that are used to authenticate the consumer’s identity in the course of a financial transaction or other transaction;
 
-      (b) Any of the data elements or any combination of the data elements described in paragraph (a) of this subsection without the consumer’s first name or first initial and last name if:
+      (vi) A consumer’s health insurance policy number or health insurance subscriber identification number in combination with any other unique identifier that a health insurer uses to identify the consumer; or
 
-      (A) Encryption, redaction or other methods have not rendered the data element or combination of data elements unusable; and
+      (vii) Any information about a consumer’s medical history or mental or physical condition or about a health care professional’s medical diagnosis or treatment of the consumer.
 
-      (B) The data element or combination of data elements would enable a person to commit identity theft against a consumer.
+      (B) A user name or other means of identifying a consumer for the purpose of permitting access to the consumer’s account, together with any other method necessary to authenticate the user name or means of identification.
 
-      (c) “Personal information” does not include information in a federal, state or local government record, other than a Social Security number, that is lawfully made available to the public.
+      (C) Any of the data elements or any combination of the data elements described in subparagraph (A) or (B) of this paragraph without the consumer’s user name, or the consumer’s first name or first initial and last name, if:
 
-      (12) “Proper identification” means written information or documentation that a consumer or representative can present to another person as evidence of the consumer’s or representative’s identity, examples of which include:
+      (i) Encryption, redaction or other methods have not rendered the data element or combination of data elements unusable; and
+
+      (ii) The data element or combination of data elements would enable a person to commit identity theft against a consumer.
+
+      (b) “Personal information” does not include information in a federal, state or local government record, other than a Social Security number, that is lawfully made available to the public.
+
+      (13) “Proper identification” means written information or documentation that a consumer or representative can present to another person as evidence of the consumer’s or representative’s identity, examples of which include:
 
       (a) A valid Social Security number or a copy of a valid Social Security card;
 
@@ -4487,43 +4525,59 @@ IDENTITY THEFT PREVENTION
 
       (c) A copy of a driver license or other government-issued identification.
 
-      (13) “Protected consumer” means an individual who is:
+      (14) “Protected consumer” means an individual who is:
 
       (a) Not older than 16 years old at the time a representative requests a security freeze on the individual’s behalf; or
 
       (b) Incapacitated or for whom a court or other authority has appointed a guardian or conservator.
 
-      (14) “Protective record” means information that a consumer reporting agency compiles to identify a protected consumer for whom the consumer reporting agency has not prepared a consumer report.
+      (15) “Protective record” means information that a consumer reporting agency compiles to identify a protected consumer for whom the consumer reporting agency has not prepared a consumer report.
 
-      (15) “Redacted” means altered or truncated so that no more than the last four digits of a Social Security number, driver license number, state identification card number, passport number or other number issued by the United States, financial account number, credit card number or debit card number is visible or accessible.
+      (16) “Redacted” means altered or truncated so that no more than the last four digits of a Social Security number, driver license number, state identification card number, passport number or other number issued by the United States, financial account number, credit card number or debit card number is visible or accessible.
 
-      (16) “Representative” means a consumer who provides a consumer reporting agency with sufficient proof of the consumer’s authority to act on a protected consumer’s behalf.
+      (17) “Representative” means a consumer who provides a consumer reporting agency with sufficient proof of the consumer’s authority to act on a protected consumer’s behalf.
 
-      (17) “Security freeze” means a notice placed in a consumer report at a consumer’s request or a representative’s request or in a protective record at a representative’s request that, subject to certain exemptions, prohibits a consumer reporting agency from releasing information in the consumer report or the protective record for an extension of credit, unless the consumer temporarily lifts the security freeze on the consumer’s consumer report or a protected consumer or representative removes the security freeze on or deletes the protective record. [2007 c.759 §2; 2013 c.415 §1; 2015 c.357 §1]
+      (18) “Security freeze” means a notice placed in a consumer report at a consumer’s request or a representative’s request or in a protective record at a representative’s request that, subject to certain exemptions, prohibits a consumer reporting agency from releasing information in the consumer report or the protective record for an extension of credit, unless the consumer temporarily lifts the security freeze on the consumer’s consumer report or a protected consumer or representative removes the security freeze on or deletes the protective record.
+
+      (19) “Vendor” means a person with which a covered entity contracts to maintain, store, manage, process or otherwise access personal information for the purpose of, or in connection with, providing services to or on behalf of the covered entity. [2007 c.759 §2; 2013 c.415 §1; 2015 c.357 §1; 2018 c.10 §1; 2019 c.180 §2]
 
  
 
-      646A.604 Notice of breach of security; delay; methods of notification; contents of notice; application of notice requirement. (1) A person that owns or licenses personal information that the person uses in the course of the person’s business, vocation, occupation or volunteer activities and that was subject to a breach of security shall give notice of the breach of security to:
+      646A.604 Notice of breach of security; delay; methods of notification; contents of notice; application of notice requirement. (1) If a covered entity is subject to a breach of security or receives notice of a breach of security from a vendor, the covered entity shall give notice of the breach of security to:
 
-      (a) The consumer to whom the personal information pertains after the person discovers the breach of security or after the person receives notice of a breach of security under subsection (2) of this section. The person shall notify the consumer in the most expeditious manner possible, without unreasonable delay, consistent with the legitimate needs of law enforcement described in subsection (3) of this section and consistent with any measures that are necessary to determine sufficient contact information for the affected consumer, determine the scope of the breach of security and restore the reasonable integrity, security and confidentiality of the personal information.
+      (a) The consumer to whom the personal information pertains.
 
-      (b) The Attorney General, either in writing or electronically, if the number of consumers to whom the person must send the notice described in paragraph (a) of this subsection exceeds 250. The person shall disclose the breach of security to the Attorney General in the manner described in paragraph (a) of this subsection.
+      (b) The Attorney General, either in writing or electronically, if the number of consumers to whom the covered entity must send the notice described in paragraph (a) of this subsection exceeds 250.
 
-      (2) A person that maintains or otherwise possesses personal information on behalf of, or under license of, another person shall notify the other person after discovering a breach of security.
+      (2)(a) A vendor that discovers a breach of security or has reason to believe that a breach of security has occurred shall notify a covered entity with which the vendor has a contract as soon as is practicable but not later than 10 days after discovering the breach of security or having a reason to believe that the breach of security occurred.
 
-      (3) A person that owns or licenses personal information may delay notifying a consumer of a breach of security only if a law enforcement agency determines that a notification will impede a criminal investigation and if the law enforcement agency requests in writing that the person delay the notification.
+      (b) If a vendor has a contract with another vendor that, in turn, has a contract with a covered entity, the vendor shall notify the other vendor of a breach of security as provided in paragraph (a) of this subsection.
 
-      (4) For purposes of this section, a person that owns or licenses personal information may notify a consumer of a breach of security:
+      (c) A vendor shall notify the Attorney General in writing or electronically if the vendor was subject to a breach of security that involved the personal information of more than 250 consumers or a number of consumers that the vendor could not determine. This paragraph does not apply to the vendor if the covered entity described in paragraph (a) or (b) of this subsection has notified the Attorney General in accordance with the requirements of this section.
+
+      (3)(a) A covered entity shall give notice of a breach of security in the most expeditious manner possible, without unreasonable delay, but not later than 45 days after discovering or receiving notification of the breach of security.
+
+      (b) Before providing the notice described in paragraph (a) of this subsection, a covered entity shall undertake reasonable measures that are necessary to:
+
+      (A) Determine sufficient contact information for the intended recipient of the notice;
+
+      (B) Determine the scope of the breach of security; and
+
+      (C) Restore the reasonable integrity, security and confidentiality of the personal information.
+
+      (c) A covered entity may delay giving the notice described in paragraph (a) of this subsection only if a law enforcement agency determines that a notification will impede a criminal investigation and if the law enforcement agency requests in writing that the covered entity delay the notification.
+
+      (4) A covered entity may notify a consumer of a breach of security:
 
       (a) In writing;
 
-      (b) Electronically, if the person customarily communicates with the consumer electronically or if the notice is consistent with the provisions regarding electronic records and signatures set forth in the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001) as that Act existed on January 1, 2016;
+      (b) Electronically, if the covered entity customarily communicates with the consumer electronically or if the notice is consistent with the provisions regarding electronic records and signatures set forth in the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001) as that Act existed on January 1, 2020;
 
-      (c) By telephone, if the person contacts the affected consumer directly; or
+      (c) By telephone, if the covered entity contacts the affected consumer directly; or
 
-      (d) With substitute notice, if the person demonstrates that the cost of notification otherwise would exceed $250,000 or that the affected class of consumers exceeds 350,000, or if the person does not have sufficient contact information to notify affected consumers. For the purposes of this paragraph, “substitute notice” means:
+      (d) With substitute notice, if the covered entity demonstrates that the cost of notification otherwise would exceed $250,000 or that the affected class of consumers exceeds 350,000, or if the covered entity does not have sufficient contact information to notify affected consumers. For the purposes of this paragraph, “substitute notice” means:
 
-      (A) Posting the notice or a link to the notice conspicuously on the person’s website if the person maintains a website; and
+      (A) Posting the notice or a link to the notice conspicuously on the covered entity’s website if the covered entity maintains a website; and
 
       (B) Notifying major statewide television and newspaper media.
 
@@ -4535,41 +4589,49 @@ IDENTITY THEFT PREVENTION
 
       (c) The type of personal information that was subject to the breach of security;
 
-      (d) Contact information for the person that owned or licensed the personal information that was subject to the breach of security;
+      (d) Contact information for the covered entity;
 
       (e) Contact information for national consumer reporting agencies; and
 
       (f) Advice to the consumer to report suspected identity theft to law enforcement, including the Attorney General and the Federal Trade Commission.
 
-      (6) If a person discovers a breach of security that affects more than 1,000 consumers, the person shall notify, without unreasonable delay, all consumer reporting agencies that compile and maintain reports on consumers on a nationwide basis of the timing, distribution and content of the notice the person gave to affected consumers and shall include in the notice any police report number assigned to the breach of security. A person may not delay notifying affected consumers of a breach of security in order to notify consumer reporting agencies.
+      (6) If a covered entity discovers or receives notice of a breach of security that affects more than 1,000 consumers, the covered entity shall notify, without unreasonable delay, all consumer reporting agencies that compile and maintain reports on consumers on a nationwide basis of the timing, distribution and content of the notice the covered entity gave to affected consumers and shall include in the notice any police report number assigned to the breach of security. A covered entity may not delay notifying affected consumers of a breach of security in order to notify consumer reporting agencies.
 
-      (7) Notwithstanding subsection (1) of this section, a person does not need to notify consumers of a breach of security if, after an appropriate investigation or after consultation with relevant federal, state or local law enforcement agencies, the person reasonably determines that the consumers whose personal information was subject to the breach of security are unlikely to suffer harm. The person must document the determination in writing and maintain the documentation for at least five years.
+      (7)(a) If a covered entity must notify a consumer of a breach of security under this section, and in connection with the notification the covered entity or an agent or affiliate of the covered entity offers to provide credit monitoring services or identity theft prevention and mitigation services without charge to the consumer, the covered entity, the agent or the affiliate may not condition the provision of the services on the consumer’s providing the covered entity, the agent or the affiliate with a credit or debit card number or on the consumer’s acceptance of any other service the covered entity offers to provide for a fee.
 
-      (8) This section does not apply to:
+      (b) If a covered entity or an agent or affiliate of the covered entity offers additional credit monitoring services or identity theft prevention and mitigation services for a fee to a consumer under the circumstances described in paragraph (a) of this subsection, the covered entity, the agent or the affiliate must separately, distinctly, clearly and conspicuously disclose in the offer for the additional credit monitoring services or identity theft prevention and mitigation services that the covered entity, the agent or the affiliate will charge the consumer a fee.
 
-      (a) A person that complies with notification requirements or procedures for a breach of security that the person’s primary or functional federal regulator adopts, promulgates or issues in rules, regulations, procedures, guidelines or guidance, if the rules, regulations, procedures, guidelines or guidance provide greater protection to personal information and disclosure requirements at least as thorough as the protections and disclosure requirements provided under this section.
+      (c) The terms and conditions of any contract under which one person offers or provides credit monitoring services or identity theft prevention and mitigation services on behalf of another person under the circumstances described in paragraph (a) of this subsection must require compliance with the requirements of paragraphs (a) and (b) of this subsection.
 
-      (b) A person that complies with a state or federal law that provides greater protection to personal information and disclosure requirements at least as thorough as the protections and disclosure requirements provided under this section.
+      (8) Notwithstanding subsection (1) of this section, a covered entity does not need to notify consumers of a breach of security if, after an appropriate investigation or after consultation with relevant federal, state or local law enforcement agencies, the covered entity reasonably determines that the consumers whose personal information was subject to the breach of security are unlikely to suffer harm. The covered entity must document the determination in writing and maintain the documentation for at least five years.
 
-      (c) A person that is subject to and complies with regulations promulgated pursuant to Title V of the Gramm-Leach-Bliley Act of 1999 (15 U.S.C. 6801 to 6809) as that Act existed on January 1, 2016.
+      (9) This section does not apply to:
 
-      (d)(A) Except as provided in subparagraph (B) of this paragraph, a covered entity, as defined in 45 C.F.R. 160.103, as in effect on January 1, 2016, that is governed under 45 C.F.R. parts 160 and 164, as in effect on January 1, 2016, if the covered entity sends the Attorney General a copy of the notice the covered entity sent to consumers under ORS 646A.604 or a copy of the notice that the covered entity sent to the primary functional regulator designated for the covered entity under the Health Insurance Portability and Availability Act of 1996, (P.L. 104-191, 110 Stat. 1936, 42 U.S.C. 300(gg), 29 U.S.C. 118 et seq., 42 U.S.C. 1320(d) et seq., 45 C.F.R. parts 160 and 164).
+      (a) Personal information that is subject to, and a person that complies with, notification requirements or procedures for a breach of security that the person’s primary or functional federal regulator adopts, promulgates or issues in rules, regulations, procedures, guidelines or guidance, if the personal information and the person would otherwise be subject to ORS 646A.600 to 646A.628.
 
-      (B) A covered entity is subject to the provisions of this section if the covered entity does not send a copy of a notice described in subparagraph (A) of this paragraph to the Attorney General within a reasonable time after the Attorney General requests the copy.
+      (b) Personal information that is subject to, and a person that complies with, a state or federal law that provides greater protection to personal information and disclosure requirements at least as thorough as the protections and disclosure requirements provided under this section.
 
-      (9)(a) A person’s violation of a provision of ORS 646A.600 to 646A.628 is an unlawful practice under ORS 646.607.
+      (c) A covered entity or vendor that complies with regulations promulgated under Title V of the Gramm-Leach-Bliley Act of 1999 (15 U.S.C. 6801 to 6809) as that Act existed on January 1, 2020, if personal information that is subject to ORS 646A.600 to 646A.628 is also subject to that Act.
 
-      (b) The rights and remedies available under this section are cumulative and are in addition to any other rights or remedies that are available under law. [2007 c.759 §3; 2015 c.357 §2]
+      (d) A covered entity or vendor that complies with regulations promulgated under the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191, 110 Stat. 1936) and the Health Information Technology for Economic and Clinical Health Act of 2009 (P.L. 111-5, Title XIII, 123 Stat. 226), as those Acts existed on January 1, 2020, if personal information that is subject to ORS 646A.600 to 646A.628 is also subject to those Acts.
+
+      (10) Notwithstanding the exemptions set forth in subsection (9) of this section, a person, a covered entity or a vendor shall provide to the Attorney General within a reasonable time at least one copy of any notice the person, the covered entity or the vendor sends to consumers or to the person’s, the covered entity’s or the vendor’s primary or functional regulator in compliance with this section or with other state or federal laws or regulations that apply to the person, the covered entity or the vendor as a consequence of a breach of security, if the breach of security affects more than 250 consumers.
+
+      (11)(a) A person’s violation of a provision of ORS 646A.600 to 646A.628 is an unlawful practice under ORS 646.607.
+
+      (b) A covered entity or vendor in an action or proceeding may affirmatively defend against an allegation that the covered entity or vendor has not developed, implemented and maintained reasonable safeguards to protect the security, confidentiality and integrity of personal information that is subject to ORS 646A.600 to 646A.628 but is not subject to an Act described in subsection (9)(c) or (d) of this section by showing that, with respect to the personal information that is subject to ORS 646A.600 to 646A.628, the covered entity or vendor developed, implemented and maintained reasonable security measures that would be required for personal information subject to the applicable Act.
+
+      (c) The rights and remedies available under this section are cumulative and are in addition to any other rights or remedies that are available under law. [2007 c.759 §3; 2015 c.357 §2; 2018 c.10 §2; 2019 c.180 §3]
 
  
 
-      646A.606 Security freeze; requirements; fee; proof of authority; effect. (1) A consumer may elect to place a security freeze on the consumer’s consumer report or, if the consumer is a representative, on a protected consumer’s consumer report or protective record by sending a written request to a consumer reporting agency at an address the agency designates to receive such requests, or a secure electronic request at a website the agency designates to receive such requests if the consumer reporting agency, at the agency’s discretion, makes a secure electronic method available.
+      646A.606 Security freeze; requirements; proof of authority; effect. (1) A consumer may elect to place a security freeze on the consumer’s consumer report or, if the consumer is a representative, on a protected consumer’s consumer report or protective record by sending a written request to a consumer reporting agency at an address the agency designates to receive such requests, or a secure electronic request at a website the agency designates to receive such requests if the consumer reporting agency, at the agency’s discretion, makes a secure electronic method available.
 
       (2) If the consumer or protected consumer is the victim of identity theft or has reported a theft of personal information to a law enforcement agency, the consumer or representative may include a copy of the police report, incident report or identity theft declaration.
 
-      (3)(a) The consumer or representative must provide proper identification and any fee authorized by ORS 646A.610.
+      (3)(a) The consumer or representative must provide proper identification.
 
-      (b)(A) In addition to the information and fee described in paragraph (a) of this subsection, a representative who seeks to place a security freeze on a protected consumer’s consumer report or protective record shall provide sufficient proof of the representative’s authority to act on the protected consumer’s behalf.
+      (b)(A) In addition to the information described in paragraph (a) of this subsection, a representative who seeks to place a security freeze on a protected consumer’s consumer report or protective record shall provide sufficient proof of the representative’s authority to act on the protected consumer’s behalf.
 
       (B) For purposes of subparagraph (A) of this paragraph, sufficient proof of authority consists of:
 
@@ -4583,23 +4645,21 @@ IDENTITY THEFT PREVENTION
 
       (b) Information from a protective record may not be released until the protected consumer for whom the consumer reporting agency created the protective record, or a representative of the protected consumer, removes the security freeze.
 
-      (5) This section does not prevent a consumer reporting agency from advising a third party that a security freeze is in effect with respect to the consumer report or protective record. [2007 c.759 §4; 2013 c.415 §2]
+      (5) This section does not prevent a consumer reporting agency from advising a third party that a security freeze is in effect with respect to the consumer report or protective record. [2007 c.759 §4; 2013 c.415 §2; 2018 c.10 §3]
 
  
 
-      646A.608 Deadline for placing security freeze; protective record creation; use and release of information; confirmation; personal identification number; exception; lifting and removal; fees. (1)(a) A consumer reporting agency shall place a security freeze on a consumer report not later than five business days after receiving from a consumer:
+      646A.608 Deadline for placing security freeze; protective record creation; use and release of information; confirmation; personal identification number; exception; lifting and removal. (1)(a) A consumer reporting agency shall place a security freeze on a consumer report not later than five business days after receiving from a consumer:
 
-      (A) The request described in ORS 646A.606 (1);
+      (A) The request described in ORS 646A.606 (1); and
 
-      (B) Proper identification; and
-
-      (C) A fee, if applicable.
+      (B) Proper identification.
 
       (b) If a consumer report does not exist for a protected consumer on behalf of whom a representative seeks to place a security freeze, a consumer reporting agency shall create a protective record after receiving from the representative the request described in ORS 646A.606 (1), proper identification for both the representative and the protected consumer and sufficient proof of authority, as described in ORS 646A.606 (3)(b). After creating a protective record for a protected consumer under this paragraph, the consumer reporting agency shall place the security freeze that the representative requested on the protected consumer’s protective record.
 
       (c) The protective record that the consumer reporting agency creates under paragraph (b) of this subsection does not need to contain any information other than the protected consumer’s personal information, if other information for the protected consumer is not available. Except as provided in ORS 646A.614, a consumer reporting agency may not use or release to another person the information in a protective record for the purpose of assessing a protected consumer’s eligibility or capacity for an extension of credit, as a basis for evaluating a protected consumer’s character, reputation or personal characteristics or for other purposes that are not related to protecting the protected consumer from identity theft.
 
-      (2)(a) The consumer reporting agency shall send a written confirmation of a security freeze on a consumer’s consumer report to the consumer at the last known address for the consumer shown in the consumer report that the consumer reporting agency maintains, within 10 business days after placing the security freeze and, with the confirmation, shall provide the consumer with a unique personal identification number or password or similar device the consumer must use to authorize the consumer reporting agency to release the consumer’s consumer report for a specific period of time or to permanently remove the security freeze. The consumer reporting agency shall include with the written confirmation information that describes how to remove a security freeze and how to temporarily lift a security freeze on a consumer report, other than a consumer report for a protected consumer, in order to allow access to information from the consumer’s consumer report for a period of time while the security freeze is in place.
+      (2)(a) A consumer reporting agency shall send a written confirmation of a security freeze on a consumer’s consumer report to the consumer at the last known address for the consumer shown in the consumer report that the consumer reporting agency maintains, within 10 business days after placing the security freeze and, with the confirmation, shall provide the consumer with a unique personal identification number or password or similar device the consumer must use to authorize the consumer reporting agency to release the consumer’s consumer report for a specific period of time or to permanently remove the security freeze. The consumer reporting agency shall include with the written confirmation information that describes how to remove a security freeze and how to temporarily lift a security freeze on a consumer report, other than a consumer report for a protected consumer, in order to allow access to information from the consumer’s consumer report for a period of time while the security freeze is in place.
 
       (b) This subsection does not require a consumer reporting agency to provide a consumer or representative with a personal identification number or password for the consumer or representative to use to authorize the consumer reporting agency to release information from a protective record.
 
@@ -4607,53 +4667,47 @@ IDENTITY THEFT PREVENTION
 
       (A) Proper identification;
 
-      (B) The unique personal identification number or password or similar device the consumer reporting agency provided under subsection (2) of this section;
+      (B) The unique personal identification number or password or similar device the consumer reporting agency provided under subsection (2) of this section; and
 
-      (C) An indication of the period of time during which the consumer report must be available to users of the consumer report; and
-
-      (D) A fee, if applicable.
+      (C) An indication of the period of time during which the consumer report must be available to users of the consumer report.
 
       (b) A protective record is not subject to a temporary lift of a security freeze.
 
       (c) Except as provided in ORS 646A.612 (2)(a), a consumer report for a protected consumer is not subject to a temporary lift of a security freeze.
 
-      (4) A consumer reporting agency that receives a request from the consumer to temporarily lift a security freeze on a consumer report, other than a consumer report for a protected consumer, under subsection (3) of this section shall comply with the request not later than three business days after receiving from the consumer:
+      (4) A consumer reporting agency that receives a request from a consumer to temporarily lift a security freeze on a consumer report, other than a consumer report for a protected consumer, under subsection (3) of this section shall comply with the request not later than three business days after receiving from the consumer:
 
       (a) Proper identification;
 
-      (b) The unique personal identification number or password or similar device the consumer reporting agency provided under subsection (2) of this section;
+      (b) The unique personal identification number or password or similar device the consumer reporting agency provided under subsection (2) of this section; and
 
-      (c) An indication of the period of time during which the consumer report must be available to users of the consumer report; and
-
-      (d) A fee, if applicable.
+      (c) An indication of the period of time during which the consumer report must be available to users of the consumer report.
 
       (5)(a) A security freeze for a consumer report must remain in place until the consumer requests, using a point of contact the consumer reporting agency designates, that the security freeze be removed. A consumer reporting agency shall remove a security freeze within three business days after receiving a request for removal from the consumer, who provides:
 
-      (A) Proper identification;
+      (A) Proper identification; and
 
-      (B) The unique personal identification number or password or similar device the consumer reporting agency provided under subsection (2) of this section; and
-
-      (C) A fee, if applicable.
+      (B) The unique personal identification number or password or similar device the consumer reporting agency provided under subsection (2) of this section.
 
       (b) A security freeze for a protective record must remain in place until the protected consumer or a representative requests, using a point of contact the consumer reporting agency designates, that the security freeze be removed or that the protective record be deleted. The consumer reporting agency does not have an affirmative duty to notify the protected consumer or the representative that a security freeze is in place or to remove the security freeze or delete the protective record once the protected consumer is no longer a protected consumer. A protected consumer or a representative has the affirmative duty to request that the consumer reporting agency remove the security freeze or delete the protective record. A consumer reporting agency shall remove a security freeze or delete a protective record within 30 business days after receiving a request for removal or deletion from the protected consumer or a representative, who provides:
 
       (A) Proper identification;
 
-      (B) Sufficient proof of authority, as described in ORS 646A.606 (3)(b), if the representative seeks to remove the security freeze or delete the protective record;
+      (B) Sufficient proof of authority, as described in ORS 646A.606 (3)(b), if the representative seeks to remove the security freeze or delete the protective record; and
 
-      (C) Proof that the representative’s authority to act on the protected consumer’s behalf is no longer valid or applicable, if the protected consumer seeks to remove the security freeze or delete the protective record; and
-
-      (D) A fee, if applicable. [2007 c.759 §5; 2013 c.415 §3]
+      (C) Proof that the representative’s authority to act on the protected consumer’s behalf is no longer valid or applicable, if the protected consumer seeks to remove the security freeze or delete the protective record. [2007 c.759 §5; 2013 c.415 §3; 2018 c.10 §4]
 
  
 
-      646A.610 Permissible fees. (1) A consumer reporting agency may not charge a fee to a consumer or a protected consumer who is the victim of identity theft or to a consumer who has reported or a protected consumer for whom a representative has reported to a law enforcement agency the theft of personal information, provided the consumer or the representative has submitted to the consumer reporting agency a copy of a valid police report, incident report or identity theft declaration.
+      646A.610 Fees not permitted. A consumer reporting agency may not charge a consumer a fee or collect from a consumer any money or item of value for:
 
-      (2)(a) A consumer reporting agency may charge a reasonable fee of not more than $10 to a consumer, other than a consumer described in subsection (1) of this section, for each placement of a security freeze, temporary lift of the security freeze, removal of the security freeze or replacing a lost personal identification number or password previously provided to the consumer.
+      (1) Placing, temporarily lifting or removing a security freeze on the consumer’s consumer report.
 
-      (b)(A) Except as provided in subsection (1) of this section and in subparagraph (B) of this paragraph, a consumer reporting agency may charge a reasonable fee of not more than $10 to place or remove a security freeze for a protected consumer’s consumer report or protective record or to create or delete a protective record for a protected consumer.
+      (2) Creating or deleting a protective record.
 
-      (B) A consumer reporting agency may not charge a fee to place or remove a security freeze on an existing consumer report or protective record for a protected consumer who is under 16 years of age at the time a representative requests the consumer reporting agency to place or remove the security freeze. [2007 c.759 §6; 2013 c.415 §4]
+      (3) Placing or removing a security freeze on a protective record for a protected consumer.
+
+      (4) Replacing a lost personal identification number, password or similar device the consumer reporting agency previously provided to the consumer. [2007 c.759 §6; 2013 c.415 §4; 2018 c.10 §5]
 
  
 
@@ -4759,15 +4813,15 @@ IDENTITY THEFT PREVENTION
 
  
 
-      646A.622 Requirement to develop safeguards for personal information; conduct deemed to comply with requirement. (1) A person that owns, maintains or otherwise possesses data that includes a consumer’s personal information that the person uses in the course of the person’s business, vocation, occupation or volunteer activities shall develop, implement and maintain reasonable safeguards to protect the security, confidentiality and integrity of the personal information, including safeguards that protect the personal information when the person disposes of the personal information.
+      646A.622 Requirement to develop safeguards for personal information; conduct deemed to comply with requirement; defenses. (1) A covered entity and a vendor shall develop, implement and maintain reasonable safeguards to protect the security, confidentiality and integrity of personal information, including safeguards that protect the personal information when the covered entity or vendor disposes of the personal information.
 
-      (2) A person complies with subsection (1) of this section if the person:
+      (2) A covered entity or vendor complies with subsection (1) of this section if the covered entity or vendor:
 
       (a) Complies with a state or federal law that provides greater protection to personal information than the protections that this section provides.
 
-      (b) Complies with regulations promulgated under Title V of the Gramm-Leach-Bliley Act of 1999 (15 U.S.C. 6801 to 6809) as in effect on January 1, 2016, if the person is subject to the Act.
+      (b) Complies with regulations promulgated under Title V of the Gramm-Leach-Bliley Act of 1999 (15 U.S.C. 6801 to 6809) as in effect on January 1, 2020, if personal information that is subject to ORS 646A.600 to 646A.628 is also subject to the Act.
 
-      (c) Complies with regulations that implement the Health Insurance Portability and Accountability Act of 1996 (45 C.F.R. parts 160 and 164) as in effect on January 1, 2016, if the person is subject to the Act.
+      (c) Complies with regulations that implement the Health Insurance Portability and Accountability Act of 1996 (45 C.F.R. parts 160 and 164) and the Health Information Technology for Economic and Clinical Health Act of 2009 (P.L. 111-5, Title XIII, 123 Stat. 226), as those Acts were in effect on January 1, 2020, if personal information that is subject to ORS 646A.600 to 646A.628 is also subject to those Acts.
 
       (d) Implements an information security program that includes:
 
@@ -4775,39 +4829,43 @@ IDENTITY THEFT PREVENTION
 
       (i) Designating one or more employees to coordinate the security program;
 
-      (ii) Identifying reasonably foreseeable internal and external risks;
+      (ii) Identifying reasonably foreseeable internal and external risks with reasonable regularity;
 
       (iii) Assessing whether existing safeguards adequately control the identified risks;
 
-      (iv) Training and managing employees in security program practices and procedures;
+      (iv) Training and managing employees in security program practices and procedures with reasonable regularity;
 
-      (v) Selecting service providers that are capable of maintaining appropriate safeguards, and requiring the service providers by contract to maintain the safeguards; and
+      (v) Selecting service providers that are capable of maintaining appropriate safeguards and practices, and requiring the service providers by contract to maintain the safeguards and practices;
 
-      (vi) Adjusting the security program in light of business changes or new circumstances;
+      (vi) Adjusting the security program in light of business changes, potential threats or new circumstances; and
+
+      (vii) Reviewing user access privileges with reasonable regularity;
 
       (B) Technical safeguards such as:
 
-      (i) Assessing risks in network and software design;
+      (i) Assessing risks and vulnerabilities in network and software design and taking reasonably timely action to address the risks and vulnerabilities;
 
-      (ii) Assessing risks in information processing, transmission and storage;
+      (ii) Applying security updates and a reasonable security patch management program to software that might reasonably be at risk of or vulnerable to a breach of security;
 
-      (iii) Detecting, preventing and responding to attacks or system failures; and
+      (iii) Monitoring, detecting, preventing and responding to attacks or system failures; and
 
-      (iv) Testing and monitoring regularly the effectiveness of key controls, systems and procedures; and
+      (iv) Regularly testing, monitoring and taking action to address the effectiveness of key controls, systems and procedures; and
 
       (C) Physical safeguards such as:
 
-      (i) Assessing risks of information storage and disposal;
+      (i) Assessing, in light of current technology, risks of information collection, storage, usage, retention, access and disposal and implementing reasonable methods to remedy or mitigate identified risks;
 
-      (ii) Detecting, preventing and responding to intrusions;
+      (ii) Monitoring, detecting, preventing, isolating and responding to intrusions timely and with reasonable regularity;
 
-      (iii) Protecting against unauthorized access to or use of personal information during or after collecting, transporting, destroying or disposing of the personal information; and
+      (iii) Protecting against unauthorized access to or use of personal information during or after collecting, using, storing, transporting, retaining, destroying or disposing of the personal information; and
 
-      (iv) Disposing of personal information after the person no longer needs the personal information for business purposes or as required by local, state or federal law by burning, pulverizing, shredding or modifying a physical record and by destroying or erasing electronic media so that the information cannot be read or reconstructed.
+      (iv) Disposing of personal information, whether the covered entity or vendor disposes of the personal information on or off the covered entity’s or vendor’s premises or property, after the covered entity or vendor no longer needs the personal information for business purposes or as required by local, state or federal law by burning, pulverizing, shredding or modifying a physical record and by destroying or erasing electronic media so that the information cannot be read or reconstructed.
 
-      (3) A person complies with subsection (2)(d)(C)(iv) of this section if the person contracts with another person engaged in the business of record destruction to dispose of personal information in a manner that is consistent with subsection (2)(d)(C)(iv) of this section.
+      (3) A covered entity or vendor complies with subsection (2)(d)(C)(iv) of this section if the covered entity or vendor contracts with another person engaged in the business of record destruction to dispose of personal information in a manner that is consistent with subsection (2)(d)(C)(iv) of this section.
 
-      (4) Notwithstanding subsection (2) of this section, a person that is an owner of a small business as defined in ORS 285B.123 (2) complies with subsection (1) of this section if the person’s information security and disposal program contains administrative, technical and physical safeguards and disposal measures that are appropriate for the size and complexity of the small business, the nature and scope of the small business’s activities, and the sensitivity of the personal information the small business collects from or about consumers. [2007 c.759 §12; 2015 c.357 §3]
+      (4) A covered entity or vendor in an action or proceeding may affirmatively defend against an allegation that the covered entity or vendor has not complied with subsection (1) of this section with respect to personal information that is subject to ORS 646A.600 to 646A.628 but is not subject to an Act described in subsection (2)(b) or (c) of this section by showing that, with respect to the personal information that is subject to ORS 646A.600 to 646A.628, the covered entity or vendor developed, implemented and maintained reasonable security measures that would be required for personal information subject to the applicable Act.
+
+      (5) Notwithstanding subsection (2) of this section, a person that is an owner of a small business as defined in ORS 285B.123 (2) complies with subsection (1) of this section if the person’s information security and disposal program contains administrative, technical and physical safeguards and disposal measures that are appropriate for the size and complexity of the small business, the nature and scope of the small business’s activities, and the sensitivity of the personal information the small business collects from or about consumers. [2007 c.759 §12; 2015 c.357 §3; 2018 c.10 §6; 2019 c.180 §4]
 
  
 
@@ -4839,7 +4897,11 @@ IDENTITY THEFT PREVENTION
 
  
 
-DEBT BUYERS
+DEBT COLLECTION
+
+ 
+
+(Debt Buyers)
 
  
 
@@ -5186,6 +5248,298 @@ DEBT BUYERS
  
 
       646A.673 Rules. The Director of the Department of Consumer and Business Services may adopt rules to implement the provisions of ORS 646.639 (4), 646A.640 to 646A.673 and 646A.670. [2017 c.625 §13]
+
+ 
+
+(Medical Debt)
+
+ 
+
+      646A.677 Requirement to screen for financial assistance before transferring medical debt for cellection; permitted interest rate; unlawful collection practices. (1) As used in this section:
+
+      (a) “Debt collector” has the meaning given that term in ORS 646.639.
+
+      (b) “Financial assistance” means the written financial assistance policy described in ORS 442.610.
+
+      (c) “Medical debt” means an amount owed by a patient to a hospital or a nonprofit hospital-affiliated clinic for medically necessary services or supplies.
+
+      (2) A hospital and a nonprofit hospital-affiliated clinic shall post its financial assistance policy in the manner described in ORS 442.610 (3)(c).
+
+      (3) Upon the request of a patient or an individual who is authorized to act on behalf of a patient, a hospital or hospital-affiliated clinic shall conduct a screening to determine if the patient qualifies for:
+
+      (a) Financial assistance under the hospital’s financial assistance policy; or
+
+      (b) The state medical assistance program.
+
+      (4) Before transferring an unpaid charge for services to a debt collector or referring an unpaid charge for collection, a hospital or hospital-affiliated clinic shall:
+
+      (a) Conduct a screening to determine if the patient qualifies for financial assistance as described in ORS 442.614 (1)(a), if applicable; and
+
+      (b) Provide a copy of its financial assistance policy to the patient along with an application for financial assistance.
+
+      (5) A hospital or nonprofit hospital-affiliated clinic may conduct the screening described in subsections (3) and (4) of this section using commercially available services, software or online tools.
+
+      (6) As a condition for providing financial assistance, a hospital may require a patient to:
+
+      (a) Respond to requests from the patient’s primary insurer as necessary for the insurer to adjudicate a claim for reimbursement of the cost of services; and
+
+      (b) Provide information concerning any potential third party liability for the cost of services including but not limited to:
+
+      (A) Information about the coordination of benefits between insurers that cover the patient’s care;
+
+      (B) Accident reports; and
+
+      (C) The patient’s workers’ compensation claims or benefits.
+
+      (7) If a patient qualifies for financial assistance under ORS 442.614 (1)(a), a hospital, nonprofit hospital-affiliated clinic or other debt collector may not charge interest on the patient’s medical debt.
+
+      (8)(a) Except as provided in paragraph (b) of this subsection, the interest that a hospital, nonprofit hospital-affiliated clinic or other debt collector may charge on a medical debt owed by a patient who does not qualify for financial assistance under ORS 442.614 (1)(a) may not exceed the weekly average one-year constant maturity Treasury yield, as published by the Board of Governors of the Federal Reserve System, for the week preceding the date when the patient was first billed, except that the interest may not be less than two percent per annum or more than five percent per annum.
+
+      (b) Upon entry of a judgment against a patient described in paragraph (a) of this subsection, a hospital, nonprofit hospital-affiliated clinic or other debt collector may increase the interest charged on a medical debt up to the amount specified in ORS 82.010.
+
+      (9) A hospital, hospital-affiliated clinic or other debt collector may not attempt to collect a medical debt from a patient’s child or other family member who is not financially responsible for the debt under ORS chapter 108.
+
+      (10) It is an unlawful collection practice under ORS 646.639 for a hospital, hospital-affiliated clinic or other debt collector to collect or attempt to collect a medical debt in a manner that the hospital, hospital-affiliated clinic or other debt collector knows, or after exercising reasonable diligence would know, is in violation of this section. [2019 c.497 §4]
+
+ 
+
+      Note: Additional definitions for 646A.677 are found in 442.612.
+
+ 
+
+DRUG PRICING AND SALES
+
+ 
+
+      646A.680 Legislative intent. The legislative intent of ORS 646A.683 is to improve public health and safety by taking steps to address the spiraling health care costs for residents of this state. [2019 c.436 §1]
+
+ 
+
+      646A.683 Requirement to report increase in drug price; exemptions. (1) As used in this section:
+
+      (a) “Drug” has the meaning given that term in ORS 689.005.
+
+      (b)(A) “Manufacture” means:
+
+      (i) The production, preparation, propagation, compounding, conversion or processing of a drug, either directly or indirectly by extraction from substances of natural origin or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis; and
+
+      (ii) The packaging or repackaging of a drug or labeling or relabeling of a drug container.
+
+      (B) “Manufacture” does not include the preparation or compounding of a drug by an individual for the individual’s own use or the preparation, compounding, packaging or labeling of a drug:
+
+      (i) By a health care practitioner incidental to administering or dispensing a drug in the course of professional practice;
+
+      (ii) By a health care practitioner or under the practitioner’s authorization and supervision for the purpose of or incidental to research, teaching or chemical analysis activities and not for sale;
+
+      (iii) By a health care service contractor for dispensing to a subscriber or delivery to a health care facility or outpatient clinic owned or operated by the health care service contractor or an affiliate of the health care service contractor;
+
+      (iv) By a centralized repackaging operation for distribution to subscribers of health care service contractors or to pharmacies, health care facilities or outpatient clinics whether or not operated by or affiliated with a health care service contractor; or
+
+      (v) By a health care facility for dispensing to a patient of the health care facility.
+
+      (c) “Manufacturer” means a person that manufactures a prescription drug that is sold in this state.
+
+      (d) “Prescription drug” means a drug that must:
+
+      (A) Under federal law, be labeled “Caution: Federal law prohibits dispensing without prescription” prior to being dispensed or delivered; or
+
+      (B) Under any applicable federal or state law or regulation, be dispensed only by prescription or restricted to use only by health care practitioners.
+
+      (e) “Price” means the wholesale acquisition cost as defined in 42 U.S.C. 1395w-3a(c)(6)(B).
+
+      (2) At least 60 days before a prescription drug manufacturer increases the price of a prescription drug, as described in subsection (3) of this section, the prescription drug manufacturer shall report to the Department of Consumer and Business Services, in the form and manner prescribed by the department, all the following information about the prescription drug:
+
+      (a) The date that the increase will become effective;
+
+      (b) The current price of the prescription drug;
+
+      (c) The dollar amount of the planned increase in the price of the prescription drug;
+
+      (d) A statement of whether the price increase is necessitated by a change to or improvement in the prescription drug and, if so, a description of the change or improvement; and
+
+      (e) The year the drug became available for sale in the United States.
+
+      (3) Subsection (2) of this section applies to:
+
+      (a) An increase in the price of a brand-name prescription drug for which there will be, on the date that the increase goes into effect, a cumulative increase of 10 percent or more or an increase of $10,000 or more in the price of the brand-name prescription drug within a 12-month period beginning on or after July 1, 2019.
+
+      (b) An increase in the price of a generic prescription drug for which there will be, on the date that the increase goes into effect, a cumulative increase of 25 percent or more and an increase of $300 or more in the price of the generic prescription drug within a 12-month period beginning on or after July 1, 2019.
+
+      (4) Subsection (2) of this section does not apply to a prescription drug that is a retail drug, manufactured by four or more companies, that is:
+
+      (a) Marketed and distributed pursuant to an abbreviated new drug application, approved under 21 U.S.C. 355(j);
+
+      (b) An authorized generic drug as defined by 41 C.F.R. 447.502; or
+
+      (c) A drug that entered the market before the year 1962 and was not originally marketed under a new drug application. [2019 c.436 §2]
+
+ 
+
+      646A.686 Short title. ORS 646A.689 and 646A.692 shall be known and may be cited as the Prescription Drug Price Transparency Act. [2018 c.7 §1]
+
+ 
+
+      646A.689 Requirement to report certain information concerning drug manufacturing and pricing; contents of report; penalty; rules. (1) As used in this section:
+
+      (a) “Drug” has the meaning given that term in ORS 689.005.
+
+      (b) “Health care facility” has the meaning given that term in ORS 442.015.
+
+      (c) “Health care service contractor” has the meaning given that term in ORS 750.005.
+
+      (d)(A) “Manufacture” means:
+
+      (i) The production, preparation, propagation, compounding, conversion or processing of a drug, either directly or indirectly by extraction from substances of natural origin or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis; and
+
+      (ii) The packaging or repackaging of a drug or labeling or relabeling of a drug container.
+
+      (B) “Manufacture” does not include the preparation or compounding of a drug by an individual for the individual’s own use or the preparation, compounding, packaging or labeling of a drug:
+
+      (i) By a health care practitioner incidental to administering or dispensing a drug in the course of professional practice;
+
+      (ii) By a health care practitioner or at the practitioner’s authorization and supervision for the purpose of or incidental to research, teaching or chemical analysis activities and not for sale;
+
+      (iii) By a health care service contractor for dispensing to a subscriber or delivery to a health care facility or outpatient clinic owned or operated by the health care service contractor or an affiliate of the health care service contractor;
+
+      (iv) By a centralized repackaging operation for distribution to subscribers of health care service contractors or to pharmacies, health care facilities or outpatient clinics operated by or affiliated with a health care service contractor; or
+
+      (v) By a health care facility for dispensing to a patient or other person.
+
+      (e) “Manufacturer” means a person that manufactures a prescription drug that is sold in this state.
+
+      (f) “New prescription drug” has the meaning prescribed by the Department of Consumer and Business Services by rule.
+
+      (g) “Patient assistance program” means a program that a manufacturer offers to the general public in which a consumer may reduce the consumer’s out-of-pocket costs for prescription drugs by using coupons or discount cards, receiving copayment assistance or by other means.
+
+      (h) “Prescription drug” means a drug that must:
+
+      (A) Under federal law, be labeled “Caution: Federal law prohibits dispensing without prescription” prior to being dispensed or delivered; or
+
+      (B) Under any applicable federal or state law or regulation, be dispensed only by prescription or restricted to use only by health care practitioners.
+
+      (i) “Price” means the wholesale acquisition cost as defined in 42 U.S.C. 1395w-3a(c)(6)(B).
+
+      (2) No later than March 15 of each year, a manufacturer shall report the information described in subsection (3) of this section to the department regarding each prescription drug for which:
+
+      (a) The price was $100 or more for a one-month supply or for a course of treatment lasting less than one month; and
+
+      (b) There was a net increase of 10 percent or more in the price of the prescription drug described in paragraph (a) of this subsection over the course of the previous calendar year.
+
+      (3) For each prescription drug described in subsection (2) of this section, a manufacturer shall report to the department, in the form and manner prescribed by the department:
+
+      (a) The name and price of the prescription drug and the net increase, expressed as a percentage, in the price of the drug over the course of the previous calendar year;
+
+      (b) The length of time the prescription drug has been on the market;
+
+      (c) The factors that contributed to the price increase;
+
+      (d) The name of any generic version of the prescription drug available on the market;
+
+      (e) The research and development costs associated with the prescription drug that were paid using public funds;
+
+      (f) The direct costs incurred by the manufacturer:
+
+      (A) To manufacture the prescription drug;
+
+      (B) To market the prescription drug;
+
+      (C) To distribute the prescription drug; and
+
+      (D) For ongoing safety and effectiveness research associated with the prescription drug;
+
+      (g) The total sales revenue for the prescription drug during the previous calendar year;
+
+      (h) The manufacturer’s profit attributable to the prescription drug during the previous calendar year;
+
+      (i) The introductory price of the prescription drug when it was approved for marketing by the United States Food and Drug Administration and the net yearly increase, by calendar year, in the price of the prescription drug during the previous five years;
+
+      (j) The 10 highest prices paid for the prescription drug during the previous calendar year in any country other than the United States;
+
+      (k) Any other information that the manufacturer deems relevant to the price increase described in subsection (2)(b) of this section; and
+
+      (L) The documentation necessary to support the information reported under this subsection.
+
+      (4) The department may use any prescription drug price information the department deems appropriate to verify that manufacturers have properly reported price increases as required by subsections (2) and (3) of this section.
+
+      (5) A manufacturer shall accompany the report provided under subsection (2) of this section with the following information about each patient assistance program offered by the manufacturer to consumers residing in this state for the prescription drugs described in subsection (2) of this section:
+
+      (a) The number of consumers who participated in the program;
+
+      (b) The total value of the coupons, discounts, copayment assistance or other reduction in costs provided to consumers in this state who participated in the program;
+
+      (c) For each drug, the number of refills that qualify for the program, if applicable;
+
+      (d) If the program expires after a specified period of time, the period of time that the program is available to each consumer; and
+
+      (e) The eligibility criteria for the program and how eligibility is verified for accuracy.
+
+      (6) No later than 30 days after a manufacturer introduces a new prescription drug for sale in the United States at a price that exceeds the threshold established by the Centers for Medicare and Medicaid Services for specialty drugs in the Medicare Part D program, the manufacturer shall notify the department, in the form and manner prescribed by the department, of all the following information:
+
+      (a) A description of the marketing used in the introduction of the new prescription drug;
+
+      (b) The methodology used to establish the price of the new prescription drug;
+
+      (c) Whether the United States Food and Drug Administration granted the new prescription drug a breakthrough therapy designation or a priority review;
+
+      (d) If the new prescription drug was not developed by the manufacturer, the date of and the price paid for acquisition of the new prescription drug by the manufacturer;
+
+      (e) The manufacturer’s estimate of the average number of patients who will be prescribed the new prescription drug each month; and
+
+      (f) The research and development costs associated with the new prescription drug that were paid using public funds.
+
+      (7)(a) After receiving the report or information described in subsections (2), (3), (5) or (6) of this section, the department may make a written request to the manufacturer for supporting documentation or additional information concerning the report. The department shall prescribe by rule the periods:
+
+      (A) Following the receipt of the report or information during which the department may request additional information; and
+
+      (B) Following a request by the department for additional information during which a manufacturer may respond to the request.
+
+      (b) The department may extend the period prescribed under paragraph (a)(B) of this subsection, as necessary, on a case-by-case basis.
+
+      (8) A manufacturer may be subject to a civil penalty, as provided in ORS 646A.692, for:
+
+      (a) Failing to submit timely reports or notices as required by this section;
+
+      (b) Failing to provide information required under this section;
+
+      (c) Failing to respond in a timely manner to a written request by the department for additional information under subsection (7) of this section; or
+
+      (d) Providing inaccurate or incomplete information under this section.
+
+      (9) Except as provided in subsection (10) of this section, the department shall post to its website all of the following information:
+
+      (a) A list of the prescription drugs reported under subsection (2) of this section and the manufacturers of those prescription drugs;
+
+      (b) Information reported to the department under subsections (3) and (5) to (7) of this section; and
+
+      (c) Written requests by the department for additional information under subsection (7) of this section.
+
+      (10)(a) The department may not post to its website any information described in subsection (9) of this section if:
+
+      (A) The information is conditionally exempt from disclosure under ORS 192.345 as a trade secret; and
+
+      (B) The public interest does not require disclosure of the information.
+
+      (b) If the department withholds any information from public disclosure pursuant to this subsection, the department shall post to its website a report describing the nature of the information and the department’s basis for withholding the information from disclosure.
+
+      (c) A person may petition the Attorney General, as provided in ORS 192.411, to review a decision by the department to withhold information pursuant to paragraph (a) of this subsection.
+
+      (11) The department shall make available to consumers, online and by telephone, a process for consumers to notify the department about an increase in the price of a prescription drug.
+
+      (12) The department may adopt rules as necessary for carrying out the provisions of this section, including but not limited to rules establishing fees to be paid by manufacturers to be used solely to pay the costs of the department in carrying out the provisions of this section.
+
+      (13) No later than December 15 of each year, the department shall compile and report the information collected by the department under this section to the interim committees of the Legislative Assembly related to health. The report shall include recommendations for legislative changes, if any, to contain the cost of prescription drugs and reduce the impact of price increases on consumers, the Department of Corrections, the Public Employees’ Benefit Board, the Oregon Health Authority, the Department of Human Services, the Oregon Educators Benefit Board and health insurance premiums in the commercial market. [2018 c.7 §2; 2018 c.7 §§6,7]
+
+ 
+
+      646A.692 Civil penalty. (1) A manufacturer that fails to report or provide information as required by ORS 646A.689 may be subject to a civil penalty as provided in this section.
+
+      (2) The Department of Consumer and Business Services shall adopt a schedule of penalties, not to exceed $10,000 per day of violation, based on the severity of each violation.
+
+      (3) The department shall impose civil penalties under this section as provided in ORS 183.745.
+
+      (4) The department may remit or mitigate civil penalties under this section upon terms and conditions the department considers proper and consistent with the public health and safety.
+
+      (5) Civil penalties collected under this section shall be paid over to the State Treasurer and deposited in the General Fund to be made available for general governmental expenses. [2018 c.7 §3]
 
  
 
@@ -5883,9 +6237,7 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
  
 
-      Note: Sections 1 to 8 and 11, chapter 523, Oregon Laws 2015, provide:
-
-      Sec. 1. Definitions. As used in sections 1 to 7 of this 2015 Act:
+      646A.770 Definitions. As used in ORS 646A.770 to 646A.787:
 
       (1) “Borrower” means an individual who enters into a finance agreement that is secured by a motor vehicle or who, in connection with purchasing or leasing a motor vehicle, incurs an obligation to pay money to a creditor under terms and conditions that are specified in a finance agreement.
 
@@ -5915,11 +6267,13 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (8) “Reimbursement insurance policy” means an insurance policy under the terms of which an insurer reimburses a creditor for an amount the creditor must waive under a guaranteed asset protection waiver. [2015 c.523 §1]
 
-      Sec. 2. Applicability of Insurance Code; statement of costs; exemptions. (1)(a) A guaranteed asset protection waiver is not insurance and is not subject to the provisions of the Insurance Code. A person, other than an insurer, that sells a guaranteed asset protection waiver in compliance with sections 1 to 7, chapter 523, Oregon Laws 2015, does not become subject to the Insurance Code by reason of the sale.
+ 
+
+      646A.773 Applicability of Insurance Code; statement of costs; exemptions. (1)(a) A guaranteed asset protection waiver is not insurance and is not subject to the provisions of the Insurance Code. A person, other than an insurer, that sells a guaranteed asset protection waiver in compliance with ORS 646A.700 to 646A.787 does not become subject to the Insurance Code by reason of the sale.
 
       (b) Notwithstanding any other provision of law, any cost for a guaranteed asset protection waiver into which a borrower enters, whether in compliance with the Truth in Lending Act, 15 U.S.C. 1601 et seq., and regulations promulgated under the Truth in Lending Act, or not, must be stated separately in the finance agreement and is not a finance charge or interest.
 
-      (2) Sections 1 to 7, chapter 523, Oregon Laws 2015, do not apply to:
+      (2) ORS 646A.700 to 646A.787 do not apply to:
 
       (a) An insurance policy that an insurer offers under the provisions of the Insurance Code;
 
@@ -5935,7 +6289,9 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (B) The addendum to the finance agreement described in subparagraph (A) of this paragraph is not insurance and is not subject to the provisions of the Insurance Code. [2015 c.523 §2; 2017 c.451 §1]
 
-      Sec. 3. Required disclosures; cancellation provisions; effect on motor vehicle purchaser’s credit. A person may not sell a guaranteed asset protection waiver in connection with a sale of a motor vehicle that is used for personal, family or household purposes unless, at the time of the sale:
+ 
+
+      646A.776 Required disclosures; cancellation provisions; effect on motor vehicle purchaser’s credit. A person may not sell a guaranteed asset protection waiver in connection with a sale of a motor vehicle that is used for personal, family or household purposes unless, at the time of the sale:
 
       (1) The person discloses, in writing and in plain and easily understandable language:
 
@@ -5971,7 +6327,9 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (3) The creditor states clearly, and the terms of the guaranteed asset protection waiver provide in writing, that purchasing a guaranteed asset protection waiver is not required in order to obtain credit or complete a purchase or lease of a motor vehicle and does not affect the terms and conditions of credit that a borrower obtains from a creditor. [2015 c.523 §3]
 
-      Sec. 4. Determination of amount of waiver; waivers that are required and waivers that are not required. (1) A guaranteed asset protection waiver must determine the amount that a creditor waives under the terms of the guaranteed asset protection waiver in accordance with the following methods:
+ 
+
+      646A.779 Determination of amount of waiver; waivers that are required and waivers that are not required. (1) A guaranteed asset protection waiver must determine the amount that a creditor waives under the terms of the guaranteed asset protection waiver in accordance with the following methods:
 
       (a) If primary motor vehicle insurance or third party liability insurance covers the amount of a total loss of the motor vehicle, the creditor shall waive the difference between:
 
@@ -6013,7 +6371,9 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (3) A guaranteed asset protection waiver may require a creditor to waive all or a portion of a motor vehicle insurance policy deductible. [2015 c.523 §4]
 
-      Sec. 5. Cancellation and expiration; refunds; effect of sale, assignment or transfer. (1)(a) A guaranteed asset protection waiver may provide that a borrower may cancel the guaranteed asset protection waiver after the evaluation period expires or that the guaranteed asset protection waiver expires if the finance agreement terminates early. If the guaranteed asset protection waiver permits a borrower to cancel as provided in this subsection and the borrower did not receive a benefit, the borrower is entitled to a pro rata refund of the unearned portion of the purchase price.
+ 
+
+      646A.781 Cancellation and expiration; refunds; effect of sale, assignment or transfer. (1)(a) A guaranteed asset protection waiver may provide that a borrower may cancel the guaranteed asset protection waiver after the evaluation period expires or that the guaranteed asset protection waiver expires if the finance agreement terminates early. If the guaranteed asset protection waiver permits a borrower to cancel as provided in this subsection and the borrower did not receive a benefit, the borrower is entitled to a pro rata refund of the unearned portion of the purchase price.
 
       (b) A borrower shall apply in writing to the person identified in the guaranteed asset protection waiver for a refund of all or a portion of the purchase price of the guaranteed asset protection waiver within 90 days after cancellation if the borrower cancels the guaranteed asset protection waiver. If the guaranteed asset protection waiver is canceled as a result of the termination of the finance agreement, then any cancellation refund shall be provided without requiring the borrower to apply or submit a claim for the refund.
 
@@ -6025,7 +6385,9 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (3) Unless canceled as provided in this section, a guaranteed asset protection waiver remains in effect as part of the finance agreement for the term set forth in the guaranteed asset protection waiver even if the finance agreement is sold, assigned or otherwise transferred. [2015 c.523 §5]
 
-      Sec. 6. Reimbursement insurance policies for guaranteed asset protection waivers. (1)(a) A creditor other than a person that sells a guaranteed asset protection waiver in connection with a retail sale of a motor vehicle may insure a guaranteed asset protection waiver with a reimbursement insurance policy.
+ 
+
+      646A.784 Reimbursement insurance policies for guaranteed asset protection waivers. (1)(a) A creditor other than a person that sells a guaranteed asset protection waiver in connection with a retail sale of a motor vehicle may insure a guaranteed asset protection waiver with a reimbursement insurance policy.
 
       (b) A person that sells a guaranteed asset protection waiver in connection with a retail sale of a motor vehicle shall insure the guaranteed asset protection waiver with a reimbursement insurance policy that meets the requirements set forth in subsection (2) of this section.
 
@@ -6043,7 +6405,9 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (3) A person that sells a guaranteed asset protection waiver in connection with a sale or lease of a motor vehicle shall report to any insurer that has issued a reimbursement insurance policy to the person the number of guaranteed asset protection waiver sales and any other details the insurer requires under the terms of the reimbursement insurance policy and shall timely forward to the insurer all funds due under the terms of the reimbursement insurance policy. [2015 c.523 §6]
 
-      Sec. 7. Fiduciary responsibilities. (1) A person that is subject to sections 1 to 7 of this 2015 Act shall act in a fiduciary capacity with respect to funds the person receives or holds for the benefit of another person.
+ 
+
+      646A.787 Fiduciary responsibilities. (1) A person that is subject to ORS 646A.770 to 646A.787 shall act in a fiduciary capacity with respect to funds the person receives or holds for the benefit of another person.
 
       (2) A person that sells a guaranteed asset protection waiver in connection with a retail sale of a motor vehicle may not:
 
@@ -6051,9 +6415,9 @@ GUARANTEED ASSET PROTECTION WAIVERS
 
       (b) Vary the benefits, terms, conditions or price of the guaranteed asset protection waiver on account of a borrower’s race, sex, sexual orientation, income or education. [2015 c.523 §7]
 
-      Sec. 8. Unlawful practices. A violation of a provision of sections 1 to 7 of this 2015 Act is an unlawful practice under ORS 646.608. [2015 c.523 §8]
+ 
 
-      Sec. 11. Sunset. Sections 1 to 8 of this 2015 Act are repealed on January 2, 2020. [2015 c.523 §11]
+      646A.790 Unlawful practices. A violation of a provision of ORS 646A.770 to 646A.787 is an unlawful practice under ORS 646.608. [2015 c.523 §8]
 
  
 
@@ -6121,7 +6485,7 @@ MISCELLANEOUS
 
       (ii) Be of sufficient prominence in terms of placement, font or color contrast as compared with the remainder of the solicitation so as to be reasonably apparent to the audience to whom it is directed.
 
-      (2) A person engages in an unlawful practice when, in the course of the person’s business, vocation or occupation, the person uses the United States mail to solicit participation in a contest and the person does not clearly and conspicuously disclose in the solicitation:
+      (2) A person engages in an unlawful practice when, in the course of the person’s business, vocation or occupation, the person solicits participation in a contest and the person does not clearly and conspicuously disclose in the solicitation:
 
       (a) The maximum number of rounds or levels, if the contest has more than one round or level;
 
@@ -6139,7 +6503,7 @@ MISCELLANEOUS
 
       (h) The name and address of the sponsor or the sponsor’s agent.
 
-      (3) A person engages in an unlawful practice when, in the course of the person’s business, vocation or occupation, the person uses the United States mail to solicit participation in a sweepstakes and does not clearly and conspicuously disclose in the solicitation:
+      (3) A person engages in an unlawful practice when, in the course of the person’s business, vocation or occupation, the person solicits participation in a sweepstakes and does not clearly and conspicuously disclose in the solicitation:
 
       (a) The odds of winning in Arabic numerals, except that if the odds of winning depend on the number of entries received, a statement to that effect will be deemed sufficient;
 
@@ -6147,11 +6511,11 @@ MISCELLANEOUS
 
       (c) The procedure for entry without purchase.
 
-      (4) A person engages in an unlawful practice when, in the course of the person’s business, vocation or occupation, the person solicits participation in a contest or sweepstakes:
+      (4) A person engages in an unlawful practice when, in the course of the person’s business, vocation or occupation, the person solicits participation in a contest or sweepstakes by representing that a person:
 
-      (a) By using the United States mail to represent that a person has been selected to receive or has won a particular prize, when that is not the case; or
+      (a) Has been selected to receive or has won a particular prize, when that is not the case; or
 
-      (b) By using the United States mail to represent that a person is a winner, is a finalist, is in first place or is otherwise in a limited group of persons with an enhanced likelihood of winning or receiving a prize, when more than 25 percent of the persons receiving the solicitation have the same chance of winning. [Formerly 646.651]
+      (b) Is a winner, is a finalist, is in first place or is otherwise in a limited group of persons with an enhanced likelihood of winning or receiving a prize, when more than 25 percent of the persons receiving the solicitation have the same chance of winning. [Formerly 646.651; 2019 c.63 §1]
 
  
 
@@ -6292,6 +6656,52 @@ MISCELLANEOUS
       (b) Any remedy for patent infringement that a court, an arbitration panel or another body with power to adjudicate a dispute over patent rights may grant to this state, a political subdivision of this state or an agency, officer, employee or agent of this state or a political subdivision of this state or any other person.
 
       (8) The Attorney General may adopt rules necessary to implement the provisions of this section. [2014 c.19 §2; 2017 c.17 §51]
+
+ 
+
+      646A.813 Security requirements for Internet-connected devices; exemptions; penalty. (1) As used in this section:
+
+      (a) “Connected device” means a device or other physical object that:
+
+      (A) Connects, directly or indirectly, to the Internet and is used primarily for personal, family or household purposes; and
+
+      (B) Is assigned an Internet Protocol address or another address or number that identifies the connected device for the purpose of making a short-range wireless connection to another device.
+
+      (b) “Manufacturer” means a person that makes a connected device and sells or offers to sell the connected device in this state.
+
+      (c) “Reasonable security features” means methods to protect a connected device, and any information the connected device stores, from unauthorized access, destruction, use, modification or disclosure that are appropriate for the nature and function of the connected device and for the type of information the connected device may collect, store or transmit.
+
+      (2) A manufacturer shall equip a connected device with reasonable security features. A reasonable security feature may consist of:
+
+      (a) A means for authentication from outside a local area network, including:
+
+      (A) A preprogrammed password that is unique for each connected device; or
+
+      (B) A requirement that a user generate a new means of authentication before gaining access to the connected device for the first time; or
+
+      (b) Compliance with requirements of federal law or federal regulations that apply to security measures for connected devices.
+
+      (3) This section does not:
+
+      (a) Require a provider of an electronic store, gateway, marketplace or other means for purchasing or downloading software or firmware to verify or enforce compliance with the provisions of this section.
+
+      (b) Require a person to prevent a consumer from having or obtaining full control over a connected device, including the ability to modify the connected device or any software or firmware installed on the connected device.
+
+      (c) Limit the authority of a law enforcement officer or law enforcement agency to obtain information from a manufacturer as provided by law or authorized in an order from a court of competent jurisdiction.
+
+      (d) Impose a duty on a manufacturer to provide reasonable security features for software, firmware or peripheral devices that another manufacturer makes and that a consumer installs in or adds to the connected device.
+
+      (4) This section does not apply to:
+
+      (a) A connected device on which a consumer installs or otherwise adds software or other devices that the manufacturer of the connected device does not approve for use with the connected device or that damages, evades, disables or otherwise modifies the reasonable security features that a manufacturer incorporates into the connected device.
+
+      (b) A covered entity, a health care provider, a business associate, a health care service plan, a contractor, an employer or another person that is subject to the Health Insurance Portability and Accountability Act of 1996 (P.L. 104-191, 110 Stat. 1936) or regulations promulgated under the Act, with respect to any action that the Act regulates.
+
+      (c) A connected device, the functions of which are subject to and comply with the requirements, regulations and guidance that the United States Food and Drug Administration promulgates under 21 C.F.R. parts 800 to 1299 or other requirements, regulations and guidance the United States Food and Drug Administration promulgates with respect to medical devices, including software as a medical device.
+
+      (5) The duties and obligations that this section imposes are in addition to and not in lieu of any other duties and obligations imposed under other applicable law and do not relieve any person from the person’s duties and obligations under any other applicable law.
+
+      (6) A manufacturer that violates subsection (2) of this section engages in an unlawful trade practice under ORS 646.607. [2019 c.193 §1]
 
 _______________
 

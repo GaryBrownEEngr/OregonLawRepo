@@ -26,12 +26,6 @@ Chapter 506 — Application, Administration and Enforcement of Commercial Fishin
 
  
 
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0104
-
- 
-
- 
-
 
  
 
@@ -110,6 +104,10 @@ GENERAL PROVISIONS
  
 
 506.142     Authority of Fish Division
+
+ 
+
+506.147     Record keeping regarding food fish commerce
 
  
 
@@ -194,8 +192,6 @@ DEVELOPMENTAL FISHERY
  
 
 506.462     Review of denial of applications; removal of fishery from developmental fisheries list; fees; rules
-
- 
 
 506.465     Developmental Fisheries Board; members; qualifications; expenses
 
@@ -333,6 +329,10 @@ MISCELLANEOUS
 
  
 
+506.898     Tillamook Bay Clam Advisory Committee
+
+ 
+
 PENALTIES
 
  
@@ -395,13 +395,13 @@ GENERAL PROVISIONS
 
       506.011 Types of marine life defined. As used in the commercial fishing laws, unless the context requires otherwise:
 
-      (1) “Anadromous fish” includes but is not limited to salmon, as defined in ORS 506.016; roccus saxatilis, commonly known as striped bass; alosa sapidissima, commonly known as shad; acipenser medirostris and acipenser transmontanus, commonly known as sturgeon; and thaleichthys pacificus, commonly known as smelt.
+      (1) “Anadromous fish” includes but is not limited to salmon, as defined in ORS 506.016; Roccus saxatilis, commonly known as striped bass; Alosa sapidissima, commonly known as shad; Acipenser medirostris and Acipenser transmontanus, commonly known as sturgeon; and Thaleichthys pacificus, commonly known as smelt.
 
       (2) “Animals living intertidally on the bottom” includes but is not limited to starfish, sea urchins, sea cucumbers, snails, bivalves, worms, coelenterates and shore, hermit and other small crabs not included within subsection (1) or (7) of this section.
 
-      (3) “Black rockfish” means sebastes melanops, commonly known as black rockfish.
+      (3) “Black rockfish” means Sebastes melanops, commonly known as black rockfish.
 
-      (4) “Blue rockfish” means sebastes mystinus, commonly known as blue rockfish.
+      (4) “Blue rockfish” means Sebastes mystinus, commonly known as blue rockfish.
 
       (5) “Food fish” means any animal over which the State Fish and Wildlife Commission has jurisdiction pursuant to ORS 506.036.
 
@@ -638,6 +638,14 @@ GENERAL PROVISIONS
  
 
       506.146 [1965 c.570 §23; repealed by 1975 c.253 §40]
+
+ 
+
+      506.147 Record keeping regarding food fish commerce. (1) In addition to any other authority under the commercial fishing laws, and except as provided in this subsection, the State Fish and Wildlife Commission may adopt record keeping requirements for a person that engages in taking, landing, buying or selling food fish for commercial purposes or otherwise deals in food fish for commercial purposes. Records that the commission may require under this section include, but need not be limited to, records sufficient to show the source and disposition of food fish and any other information the commission deems necessary for tracing the chain of possession for food fish. The commission may not make record keeping requirements under this section applicable to tribal members exercising the treaty-reserved rights of an Indian tribe.
+
+      (2) A person that the commission makes subject to a record keeping requirement under this section shall make the records available for inspection by the commission, the State Department of Fish and Wildlife or the State Department of Agriculture, or by a designee of the commission, State Department of Fish and Wildlife or State Department of Agriculture. The State Department of Agriculture may request copies of, or information from, the records for the purpose of programs under ORS chapter 616 or other food safety law programs administered or enforced by the department. The State Department of Agriculture may, as part of a general pattern of administering and enforcing programs under ORS chapter 616 or other food safety law programs, during normal business hours enter premises where records described in this section are kept.
+
+      (3) A person may keep records required by the commission under this section in electronic form and may satisfy a request for inspection of the records by supplying a copy of the records in electronic form to the requester. If the records are not supplied to the requester in electronic form, the person shall allow inspection of the records upon request during normal business hours. [2018 c.104 §2]
 
  
 
@@ -1312,6 +1320,52 @@ MISCELLANEOUS
  
 
       506.895 Person aiding in commercial fishing law violation punishable as principal. Any person who counsels, aids or assists in any violation of the commercial fishing laws shall incur the penalties provided for the person guilty of such violation. [1981 c.365 §18]
+
+ 
+
+      506.898 Tillamook Bay Clam Advisory Committee. (1) The State Department of Fish and Wildlife shall establish a Tillamook Bay Clam Advisory Committee.
+
+      (2) The department shall appoint to the committee a balance of persons who take bay clams for commercial purposes, take bay clams for noncommercial purposes, are members of a group that advocates conservation or have another interest in bay clams.
+
+      (3) The committee shall make recommendations to the department on:
+
+      (a) Adopting rules related to bay clams;
+
+      (b) Ensuring the sustainability of the take of bay clams in Tillamook Bay;
+
+      (c) Balancing the take of bay clams in Tillamook Bay for commercial purposes with the take of bay clams in Tillamook Bay for noncommercial purposes;
+
+      (d) Establishing physical boundaries for, or seasonal restrictions on, the take of bay clams in Tillamook Bay for commercial purposes, to reduce conflicts between persons who take bay clams in Tillamook Bay for commercial purposes and salmon anglers in and around the Ghost Hole fishing area in Tillamook Bay;
+
+      (e) Establishing areas in Tillamook Bay that are closed to the take of bay clams for commercial purposes and open to the take of bay clams for noncommercial purposes;
+
+      (f) Monitoring the take of bay clams;
+
+      (g) Establishing additional restrictions on the annual take of bay clams in intertidal and subtidal areas in Oregon bays;
+
+      (h) Limiting the take of bay clams in Oregon bays for commercial purposes; and
+
+      (i) Assessing bay clam populations in Oregon bays.
+
+      (4) The department shall consider the recommendations of the committee.
+
+      (5) The committee shall assist the department in preparing any funding requests related to bay clams.
+
+      (6) In addition to the recommendations identified in subsection (3) of this section, the committee may advise the department on other matters related to bay clams. [2019 c.564 §2]
+
+ 
+
+      Note: 506.898 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 506 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      Note: Sections 1 and 4, chapter 564, Oregon Laws 2019, provide:
+
+      Sec. 1. (1) On or before December 31, 2021, the State Department of Fish and Wildlife shall produce a survey of bay clam populations in priority areas in Tillamook Bay.
+
+      (2) By rule, the department shall establish the priority areas identified in subsection (1) of this section. [2019 c.564 §1]
+
+      Sec. 4. On or before December 31, 2022, the State Department of Fish and Wildlife shall report to an interim committee of the Legislative Assembly relating to natural resources, in the manner provided by ORS 192.245, on the recommendations of the Tillamook Bay Clam Advisory Committee established under section 2 of this 2019 Act [506.898]. [2019 c.564 §4]
 
  
 

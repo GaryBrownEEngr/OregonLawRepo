@@ -21,7 +21,7 @@ DEFINITIONS
 
  
 
-169.005     Definitions for ORS 169.005 to 169.677 and 169.730 to 169.800
+169.005     Definitions for ORS 169.005 to 169.685 and 169.730 to 169.800
 
  
 
@@ -45,7 +45,7 @@ LOCAL CORRECTIONAL FACILITIES
 
  
 
-169.046     Notice of county jail population emergency; action to be taken; notification if release of inmates likely; forced release
+169.046     Notice of county jail population emergency; action to be taken; notification if release likely; forced release
 
  
 
@@ -78,6 +78,10 @@ LOCAL CORRECTIONAL FACILITIES
  
 
 169.078     Standards for temporary hold facilities
+
+ 
+
+(Temporary provisions relating to issuance of lottery bonds for renovation and expansion of Umatilla County Jail are compiled as notes following ORS 169.078)
 
  
 
@@ -189,18 +193,6 @@ DUTIES AND LIABILITIES OF SHERIFF
 
  
 
-FEDERAL PRISONERS
-
- 
-
-169.530     Duty to receive federal prisoners
-
- 
-
-169.540     Liability for expenses of keeping federal prisoners
-
- 
-
 REGIONAL FACILITIES
 
  
@@ -214,6 +206,10 @@ REGIONAL FACILITIES
  
 
 169.630     Joint establishment or operation of facilities; agreement
+
+ 
+
+169.635     Provision of personal hygiene products
 
  
 
@@ -238,6 +234,22 @@ REGIONAL FACILITIES
  
 
 169.677     Converted facilities to house felony or misdemeanant prisoners
+
+ 
+
+PROVISION OF CORRECTIONAL FACILITY TELEPHONE SERVICES
+
+ 
+
+169.681     Limit on telephone service provider fee or commission; quarterly report; rules
+
+ 
+
+169.683     Requirements for request for proposals; contents of contract; per-minute rate limits; rules
+
+ 
+
+169.685     Inmate Welfare Fund Account
 
  
 
@@ -289,11 +301,11 @@ DEFINITIONS
 
  
 
-      169.005 Definitions for ORS 169.005 to 169.677 and 169.730 to 169.800. As used in ORS 169.005 to 169.677 and 169.730 to 169.800, unless the context requires otherwise:
+      169.005 Definitions for ORS 169.005 to 169.685 and 169.730 to 169.800. As used in ORS 169.005 to 169.685 and 169.730 to 169.800, unless the context requires otherwise:
 
       (1) “Detainee” means a person held with no criminal charges.
 
-      (2) “Forced release” means temporary freedom of an inmate from lawful custody before judgment of conviction due to a county jail population emergency under ORS 169.046.
+      (2) “Forced release” means temporary freedom of an adult in custody from lawful custody before judgment of conviction due to a county jail population emergency under ORS 169.046.
 
       (3) “Juvenile detention facility” means a facility as described in ORS 419A.050 and 419A.052.
 
@@ -305,7 +317,7 @@ DEFINITIONS
 
       (7) “Prisoner” means a person held with criminal charges or sentenced to the facility.
 
-      (8) “Temporary hold” means a facility, the principal purpose of which is the temporary detention of a prisoner for four or less hours while awaiting court appearance or transportation to a local correctional facility. [1973 c.740 §1; 1979 c.487 §1; 1985 c.499 §4; 1993 c.33 §309; 2001 c.517 §1]
+      (8) “Temporary hold” means a facility, the principal purpose of which is the temporary detention of a prisoner for four or less hours while awaiting court appearance or transportation to a local correctional facility. [1973 c.740 §1; 1979 c.487 §1; 1985 c.499 §4; 1993 c.33 §309; 2001 c.517 §1; 2019 c.213 §43]
 
  
 
@@ -339,7 +351,7 @@ LOCAL CORRECTIONAL FACILITIES
 
  
 
-      169.042 Maximum facility population; recommendation. The county court or board of commissioners of a county may institute an examination of the county’s local correctional facility for the purpose of obtaining a recommendation regarding the maximum number of inmates that should be held in the facility. This recommendation shall be based on consideration of the following:
+      169.042 Maximum facility population; recommendation. The county court or board of commissioners of a county may institute an examination of the county’s local correctional facility for the purpose of obtaining a recommendation regarding the maximum number of adults in custody that should be held in the facility. This recommendation shall be based on consideration of the following:
 
       (1) The advice of the district attorney, county counsel and sheriff concerning prevailing constitutional standards relating to conditions of incarceration;
 
@@ -347,31 +359,31 @@ LOCAL CORRECTIONAL FACILITIES
 
       (3) The physical condition of the local correctional facility; and
 
-      (4) The programs provided for inmates of the local correctional facility. [1989 c.884 §2]
+      (4) The programs provided for adults in custody of the local correctional facility. [1989 c.884 §2; 2019 c.213 §121]
 
  
 
       169.044 Action on recommendation. When the county court or board has received a recommendation pursuant to ORS 169.042, it shall either:
 
-      (1) Reject the recommendation and decline to adopt a limit on the number of inmates that may be held in the local correctional facility; or
+      (1) Reject the recommendation and decline to adopt a limit on the number of adults in custody that may be held in the local correctional facility; or
 
-      (2) Adopt the recommendation and, after consultation with the officials listed in ORS 169.046 (1), issue an order establishing the maximum allowable number of inmates that may be held in the local correctional facility. This shall include specific standards for determining a county jail population emergency and a specific plan for resolving the emergency. [1989 c.884 §3]
+      (2) Adopt the recommendation and, after consultation with the officials listed in ORS 169.046 (1), issue an order establishing the maximum allowable number of adults in custody that may be held in the local correctional facility. This shall include specific standards for determining a county jail population emergency and a specific plan for resolving the emergency. [1989 c.884 §3; 2019 c.213 §122]
 
  
 
-      169.046 Notice of county jail population emergency; action to be taken; notification if release of inmates likely; forced release. (1) If a county court or board adopts a jail capacity limit under ORS 169.044 and the number of inmates in its local correctional facility exceeds that capacity limit so that a county jail population emergency exists, the sheriff shall notify the presiding circuit judge, each municipal court judge and justice of the peace in the county, the district attorney for the county, the county counsel, the chief law enforcement officer for each city located in the county and the county court or board of commissioners that the number of inmates in the local correctional facility has exceeded capacity and that a county jail population emergency exists.
+      169.046 Notice of county jail population emergency; action to be taken; notification if release likely; forced release. (1) If a county court or board adopts a jail capacity limit under ORS 169.044 and the number of adults in custody in its local correctional facility exceeds that capacity limit so that a county jail population emergency exists, the sheriff shall notify the presiding circuit judge, each municipal court judge and justice of the peace in the county, the district attorney for the county, the county counsel, the chief law enforcement officer for each city located in the county and the county court or board of commissioners that the number of adults in custody in the local correctional facility has exceeded capacity and that a county jail population emergency exists.
 
-      (2) If the county court or board has adopted a jail capacity limit and action plan under ORS 169.044 and if a county jail population emergency occurs under the terms of the plan, the county court or board and the county sheriff may carry out the steps of the plan. This includes any authorization, under the plan, for the sheriff to order inmates released in order to reduce the jail population. A sheriff shall be immune from criminal or civil liability for any good faith release of inmates under ORS 169.042 to 169.046.
+      (2) If the county court or board has adopted a jail capacity limit and action plan under ORS 169.044 and if a county jail population emergency occurs under the terms of the plan, the county court or board and the county sheriff may carry out the steps of the plan. This includes any authorization, under the plan, for the sheriff to order adults in custody released in order to reduce the jail population. A sheriff shall be immune from criminal or civil liability for any good faith release of adults in custody under ORS 169.042 to 169.046.
 
-      (3) If it becomes necessary to order inmates released under ORS 169.042 to 169.046, or if it appears to the sheriff that release of inmates is likely to become necessary in the near future, the sheriff shall immediately notify all police agencies in the county to make maximum use of citations in lieu of custody pursuant to ORS 133.055 to 133.076 until further notice.
+      (3) If it becomes necessary to order adults in custody released under ORS 169.042 to 169.046, or if it appears to the sheriff that release of adults in custody is likely to become necessary in the near future, the sheriff shall immediately notify all police agencies in the county to make maximum use of citations in lieu of custody pursuant to ORS 133.055 to 133.076 until further notice.
 
-      (4) If it becomes necessary to order the release of inmates under ORS 169.042 to 169.046, the sheriff may place inmates on forced release subject to a forced release agreement. A forced release agreement must be in writing and be signed by the sheriff and the inmate and must include:
+      (4) If it becomes necessary to order the release of adults in custody under ORS 169.042 to 169.046, the sheriff may place adults in custody on forced release subject to a forced release agreement. A forced release agreement must be in writing and be signed by the sheriff and the adult in custody and must include:
 
-      (a) The date of the next court appearance of the inmate;
+      (a) The date of the next court appearance of the adult in custody;
 
-      (b) A statement that the inmate is required to appear at the next court appearance; and
+      (b) A statement that the adult in custody is required to appear at the next court appearance; and
 
-      (c) A statement that failure of the inmate to appear at the next court appearance is subject to prosecution under ORS 162.195 or 162.205. [1989 c.884 §§4,5,6; 1999 c.1051 §71; 2001 c.517 §2]
+      (c) A statement that failure of the adult in custody to appear at the next court appearance is subject to prosecution under ORS 162.195 or 162.205. [1989 c.884 §§4,5,6; 1999 c.1051 §71; 2001 c.517 §2; 2019 c.213 §44]
 
  
 
@@ -401,7 +413,7 @@ LOCAL CORRECTIONAL FACILITIES
 
       (B) Sanctioned, on or after January 1, 1997, by a court or the State Board of Parole and Post-Prison Supervision to 12 months or less incarceration for a violation of a condition of parole, probation or post-prison supervision.
 
-      (3) An agreement entered into under ORS 190.110 and subsection (2) of this section shall include a provision that the county reimburse the Department of Corrections for its costs incurred in confining the county inmate. Reimbursement shall be made on a per diem basis at a rate determined by the department to be its average daily incarceration cost per inmate. In lieu of reimbursement, the department and county may enter into an agreement providing for the comparable exchange of inmates as determined by the department. [1996 c.4 §1]
+      (3) An agreement entered into under ORS 190.110 and subsection (2) of this section shall include a provision that the county reimburse the Department of Corrections for its costs incurred in confining the county adult in custody. Reimbursement shall be made on a per diem basis at a rate determined by the department to be its average daily incarceration cost per adult in custody. In lieu of reimbursement, the department and county may enter into an agreement providing for the comparable exchange of adults in custody as determined by the department. [1996 c.4 §1; 2019 c.213 §45]
 
  
 
@@ -433,7 +445,7 @@ LOCAL CORRECTIONAL FACILITIES
 
  
 
-      169.070 Coordination of state services by Department of Corrections; inspections to determine compliance with standards. (1) The Department of Corrections shall provide and coordinate state services to local governments with respect to local correctional facilities and juvenile detention facilities. The Director of the Department of Corrections shall designate staff to provide technical assistance to local governmental agencies in the planning and operation of local correctional facilities, lockups, temporary holds and juvenile detention facilities, and advice on provisions of state law applicable to these facilities. The department shall inspect local correctional facilities, lockups, temporary holds and juvenile detention facilities, to ensure compliance with the standards established in ORS 169.076 to 169.078, 169.740, 419A.059 and 419B.180.
+      169.070 Coordination of state services by Department of Corrections; inspections to determine compliance with standards. (1) The Department of Corrections shall provide and coordinate state services to local governments with respect to local correctional facilities and juvenile detention facilities. The Director of the Department of Corrections shall designate staff to provide technical assistance to local governmental agencies in the planning and operation of local correctional facilities, lockups, temporary holds and juvenile detention facilities, and advice on provisions of state law applicable to these facilities. The department shall inspect local correctional facilities, lockups, temporary holds and juvenile detention facilities, to ensure compliance with the standards established in ORS 169.076 to 169.078, 169.740 and 419A.059.
 
       (2) In carrying out its duties under subsection (1) of this section, the department may enter into agreements with public or private entities to conduct inspections of local correctional facilities, lockups, temporary holds and juvenile detention facilities.
 
@@ -449,7 +461,7 @@ LOCAL CORRECTIONAL FACILITIES
 
       (B) A portion of the findings and recommendations of the inspection that is the equivalent of the information that would have been obtained in an inspection conducted under subsection (1) of this section.
 
-      (4) The information provided to the department under subsection (3) of this section is a public record for the purposes of ORS 192.311 to 192.478 and is subject to the same disclosure requirements and retention schedule that applies to an inspection conducted under subsection (1) of this section. [1973 c.740 §2; 1979 c.338 §2; 1979 c.487 §2; 1987 c.320 §91; 1993 c.33 §310; 2003 c.475 §1; 2013 c.63 §1]
+      (4) The information provided to the department under subsection (3) of this section is a public record for the purposes of ORS 192.311 to 192.478 and is subject to the same disclosure requirements and retention schedule that applies to an inspection conducted under subsection (1) of this section. [1973 c.740 §2; 1979 c.338 §2; 1979 c.487 §2; 1987 c.320 §91; 1993 c.33 §310; 2003 c.475 §1; 2013 c.63 §1; 2019 c.382 §19]
 
  
 
@@ -479,7 +491,7 @@ LOCAL CORRECTIONAL FACILITIES
 
       (e) Medication and prescriptions.
 
-      (f) Personal property accountability which complies with ORS 133.455.
+      (f) Personal property accountability that complies with ORS 133.455.
 
       (g) Vermin and communicable disease control.
 
@@ -487,7 +499,7 @@ LOCAL CORRECTIONAL FACILITIES
 
       (i) Rules of the facility governing correspondence and visitations.
 
-      (3) Formulate and publish plans to meet emergencies involving escape, riots, assaults, fires, rebellions and other types of emergencies; and regulations for the operation of the facility.
+      (3) Formulate and publish plans to meet emergencies involving escape, riots, assaults, fires, rebellions and other types of emergencies, and regulations for the operation of the facility.
 
       (4) Not administer any physical punishment to any prisoner at any time.
 
@@ -527,11 +539,21 @@ LOCAL CORRECTIONAL FACILITIES
 
       (11) Keep the facility safe and secure in accordance with the State of Oregon Structural Specialty Code and Fire and Life Safety Code.
 
-      (12) Have and provide each prisoner with written rules for inmate conduct and disciplinary procedures. If a prisoner cannot read or is unable to understand the written rules, the information shall be conveyed to the prisoner orally.
+      (12) Have and provide each prisoner with written rules for prisoner conduct and disciplinary procedures. If a prisoner cannot read or is unable to understand the written rules, the information shall be conveyed to the prisoner orally.
 
       (13) Not restrict the free exercise of religion unless failure to impose the restriction will cause a threat to facility or order.
 
-      (14) Safeguard and ensure that the prisoner’s legal rights to access to legal materials are protected. [1979 c.487 §6 (enacted in lieu of 169.075); 1987 c.320 §92; 2005 c.471 §6; 2009 c.595 §116; 2013 c.63 §2; 2014 c.45 §29; 2017 c.356 §20]
+      (14) Safeguard and ensure that the prisoner’s legal rights to access to legal materials are protected.
+
+      (15) In addition to the items listed in subsection (8) of this section, make available tampons, sanitary pads, postpartum pads and panty liners at no cost to all confined detainees and prisoners for use in connection with vaginal discharge. Facilities shall maintain a sufficient supply, which shall be stored, dispensed and disposed of in a sanitary manner. The supply of products available shall include at least the following:
+
+      (a) Regular absorbent and super absorbent tampons;
+
+      (b) Regular absorbent and super absorbent sanitary pads;
+
+      (c) Postpartum pads; and
+
+      (d) Regular absorbent panty liners. [1979 c.487 §6 (enacted in lieu of 169.075); 1987 c.320 §92; 2005 c.471 §6; 2009 c.595 §116; 2013 c.63 §2; 2014 c.45 §29; 2017 c.356 §20; 2019 c.213 §46; 2019 c.489 §1]
 
  
 
@@ -551,11 +573,21 @@ LOCAL CORRECTIONAL FACILITIES
 
       (7) Keep the facility safe and secure in accordance with the State of Oregon Structural Specialty Code and Fire and Life Safety Code.
 
-      (8) Formulate and publish plans to meet emergencies involving escape, riots, assaults, fires, rebellions and other types of emergencies; and policies and regulations for the operation of the facility.
+      (8) Formulate and publish plans to meet emergencies involving escape, riots, assaults, fires, rebellions and other types of emergencies, and policies and regulations for the operation of the facility.
 
       (9) Ensure that the facility be clean, provide mattresses and blankets that are clean and fire-retardant, and furnish materials to maintain personal hygiene.
 
-      (10) Provide for emergency medical and dental health, having written policies providing for review of the facility’s medical and dental plans by a licensed physician, physician assistant, naturopathic physician or nurse practitioner. [1979 c.487 §7 (enacted in lieu of 169.075); 1987 c.320 §93; 2013 c.63 §3; 2014 c.45 §30; 2017 c.356 §21]
+      (10) Provide for emergency medical and dental health, having written policies providing for review of the facility’s medical and dental plans by a licensed physician, physician assistant, naturopathic physician or nurse practitioner.
+
+      (11) In addition to the items listed in subsection (9) of this section, make available tampons, sanitary pads, postpartum pads and panty liners at no cost to all confined detainees and prisoners for use in connection with vaginal discharge. Facilities shall maintain a sufficient supply, which shall be stored, dispensed and disposed of in a sanitary manner. The supply of products available shall include at least the following:
+
+      (a) Regular absorbent and super absorbent tampons;
+
+      (b) Regular absorbent and super absorbent sanitary pads;
+
+      (c) Postpartum pads; and
+
+      (d) Regular absorbent panty liners. [1979 c.487 §7 (enacted in lieu of 169.075); 1987 c.320 §93; 2013 c.63 §3; 2014 c.45 §30; 2017 c.356 §21; 2019 c.489 §2]
 
  
 
@@ -577,17 +609,33 @@ LOCAL CORRECTIONAL FACILITIES
 
  
 
+(Temporary provisions relating to issuance of lottery bonds for renovation and expansion of Umatilla County Jail)
+
+ 
+
+      Note: Section 22, chapter 671, Oregon Laws 2019, provides:
+
+      Sec. 22. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with Umatilla County, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $1.6 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the department for deposit in the ODAS Economic Development Distributions Fund established under ORS 461.553 for distribution to Umatilla County for renovation and expansion of the Umatilla County Jail to provide space for mental health care services.
+
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that public safety facilities and services are necessary components of a climate that facilitates and encourages economic development. [2019 c.671 §22]
+
+ 
+
 ENFORCEMENT OF STANDARDS FOR LOCAL CORRECTIONAL AND JUVENILE DETENTION FACILITIES
 
  
 
-      169.080 Effect of failure to comply with standards; enforcement by Attorney General; private action. (1) If the condition or treatment of prisoners in a local correctional facility, lockup or temporary hold or juvenile detention facility is not in accordance with the standards established in ORS 169.076 to 169.078, 169.740, 419A.059 or 419B.180, the staff of the Department of Corrections may notify in writing the appropriate local governmental agency of the standards which are not being met and specific recommendations for the agency to comply with the standards. Corrective measures shall be taken by the local governmental agency to insure compliance with all standards within a reasonable length of time jointly agreed upon by the agency and the Department of Corrections.
+      169.080 Effect of failure to comply with standards; enforcement by Attorney General; private action. (1) If the condition or treatment of prisoners in a local correctional facility, lockup or temporary hold or juvenile detention facility is not in accordance with the standards established in ORS 169.076 to 169.078, 169.740 and 419A.059, the staff of the Department of Corrections may notify in writing the appropriate local governmental agency of the standards which are not being met and specific recommendations for the agency to comply with the standards. Corrective measures shall be taken by the local governmental agency to ensure compliance with all standards within a reasonable length of time jointly agreed upon by the agency and the Department of Corrections.
 
-      (2) The provisions of ORS 169.076 to 169.078, 169.740, 419A.059, 419B.160, 419B.180 and 419C.130 shall be enforceable by the Attorney General of the State of Oregon. The Attorney General, at the request of the Department of Corrections, may bring suit or action and may seek declaratory judgment as provided in ORS chapter 28 as well as pursue any other form of suit or action provided under Oregon law. Nothing in this section shall preclude a private right of suit or action. [1973 c.740 §4; 1979 c.338 §3; 1979 c.487 §3; 1987 c.320 §95; 1993 c.33 §311]
+      (2) The provisions of ORS 169.076 to 169.078, 169.740, 419A.059, 419B.160 and 419C.130 shall be enforceable by the Attorney General of the State of Oregon. The Attorney General, at the request of the Department of Corrections, may bring suit or action and may seek declaratory judgment as provided in ORS chapter 28 as well as pursue any other form of suit or action provided under Oregon law. Nothing in this section precludes a private right of suit or action. [1973 c.740 §4; 1979 c.338 §3; 1979 c.487 §3; 1987 c.320 §95; 1993 c.33 §311; 2019 c.13 §30; 2019 c.382 §20]
 
  
 
-      169.085 Submission of construction or renovation plans to Department of Corrections; recommendations by department. All plans of new construction or major renovation of local correctional facilities, lockups and juvenile detention facilities shall be submitted to the Department of Corrections for review and advisory recommendations to assist local governmental agencies to provide a safe and secure facility. The recommendations of the Department of Corrections shall be advisory and not binding upon the local governmental agency with the exception of those standards established in ORS 169.076 to 169.078, 169.740, 419A.059 and 419B.180. The Department of Corrections must notify the respective local governmental agency 45 days after submission of the plans of its recommendations on the proposed construction or major renovation of the local correctional facility. [1973 c.740 §5; 1979 c.487 §4; 1987 c.320 §96; 1993 c.33 §312]
+      169.085 Submission of construction or renovation plans to Department of Corrections; recommendations by department.
+
+All plans of new construction or major renovation of local correctional facilities, lockups and juvenile detention facilities shall be submitted to the Department of Corrections for review and advisory recommendations to assist local governmental agencies to provide a safe and secure facility. The recommendations of the Department of Corrections shall be advisory and not binding upon the local governmental agency with the exception of those standards established in ORS 169.076 to 169.078, 169.740 and 419A.059. The Department of Corrections must notify the respective local governmental agency 45 days after submission of the plans of its recommendations on the proposed construction or major renovation of the local correctional facility. [1973 c.740 §5; 1979 c.487 §4; 1987 c.320 §96; 1993 c.33 §312; 2019 c.382 §21]
 
  
 
@@ -773,7 +821,7 @@ TREATMENT OF PRISONERS
 
  
 
-      169.220 Care of county prisoners. All persons lawfully confined in a county local correctional facility, or as prisoners engaged in work under the custody and jurisdiction of a county, shall be fed and maintained at actual cost to the county. All persons confined in a county local correctional facility shall be given three meals per day. An accurate account of each meal furnished to others than inmates of local correctional facilities, together with the names of the recipients thereof, whether facility employees or otherwise, shall be kept and reported by the sheriff each month to the county court or board of county commissioners. The county court or board of county commissioners shall furnish the sheriff with adequate equipment and supplies for carrying out the provisions of this section. The sheriff has authority to employ such assistance therefor as may be necessary. All supplies and equipment needed to feed and maintain such persons as provided in this section shall be purchased by the county court or board of county commissioners upon requisitions duly verified and presented by the sheriff to the county court or board of county commissioners. All supplies so purchased shall be paid for by warrant drawn upon the general fund of the county, upon presentation of vouchers containing itemized statements of all supplies so furnished, duly verified by the sheriff and by the person selling the same, each of whom shall certify that the supplies were actually furnished and received in the quantities represented and were of good quality, and that the price charged therefor was reasonable and just. [Amended by 1957 c.698 §1; 1973 c.740 §20]
+      169.220 Care of county prisoners. All persons lawfully confined in a county local correctional facility, or as prisoners engaged in work under the custody and jurisdiction of a county, shall be fed and maintained at actual cost to the county. All persons confined in a county local correctional facility shall be given three meals per day. An accurate account of each meal furnished to others than adults in custody of local correctional facilities, together with the names of the recipients thereof, whether facility employees or otherwise, shall be kept and reported by the sheriff each month to the county court or board of county commissioners. The county court or board of county commissioners shall furnish the sheriff with adequate equipment and supplies for carrying out the provisions of this section. The sheriff has authority to employ such assistance therefor as may be necessary. All supplies and equipment needed to feed and maintain such persons as provided in this section shall be purchased by the county court or board of county commissioners upon requisitions duly verified and presented by the sheriff to the county court or board of county commissioners. All supplies so purchased shall be paid for by warrant drawn upon the general fund of the county, upon presentation of vouchers containing itemized statements of all supplies so furnished, duly verified by the sheriff and by the person selling the same, each of whom shall certify that the supplies were actually furnished and received in the quantities represented and were of good quality, and that the price charged therefor was reasonable and just. [Amended by 1957 c.698 §1; 1973 c.740 §20; 2019 c.213 §123]
 
  
 
@@ -847,15 +895,11 @@ DUTIES AND LIABILITIES OF SHERIFF
 
  
 
-FEDERAL PRISONERS
+      169.530 [Amended by 1973 c.740 §26; repealed by 2019 c.147 §2]
 
  
 
-      169.530 Duty to receive federal prisoners. The sheriff shall receive and keep in the county local correctional facility every prisoner who is committed thereto under civil or criminal process issued by a court of the United States, until the prisoner is discharged according to the laws thereof, as if the prisoner had been committed under process issued by the authority of this state. The prisoner shall receive all sums payable by the United States for the use of the facility, and remit such sums to the county treasurer not later than the first day of the month succeeding their receipt. A sheriff or jailer to whose custody such prisoner is committed is answerable for the safekeeping of the prisoner in the courts of the United States, according to the laws thereof. [Amended by 1973 c.740 §26]
-
- 
-
-      169.540 Liability for expenses of keeping federal prisoners. The United States shall pay for the support and keeping of prisoners committed by virtue of legal process issued by or under its authority, the same charges and allowance provided for the support or keeping of prisoners committed under the laws of this state.
+      169.540 [Repealed by 2019 c.147 §2]
 
  
 
@@ -880,6 +924,18 @@ REGIONAL FACILITIES
       (b) The amount of funding to be contributed by each party toward the construction or acquisition and equipping of the facility, or toward the operation of the facility, or toward both, as the case may be; and
 
       (c) The number of beds to be reserved to the use of each party to the agreement. [1971 c.636 §3; 1985 c.708 §3]
+
+ 
+
+      169.635 Provision of personal hygiene products. Regional correctional facilities shall make available tampons, sanitary pads, postpartum pads and panty liners at no cost to all prisoners for use in connection with vaginal discharge. Facilities shall maintain a sufficient supply, which shall be stored, dispensed and disposed of in a sanitary manner. The supply of products available shall include at least the following:
+
+      (1) Regular absorbent and super absorbent tampons;
+
+      (2) Regular absorbent and super absorbent sanitary pads;
+
+      (3) Postpartum pads; and
+
+      (4) Regular absorbent panty liners. [2019 c.489 §4]
 
  
 
@@ -914,6 +970,116 @@ REGIONAL FACILITIES
  
 
       169.680 [1971 c.636 §8; repealed by 1985 c.708 §9]
+
+ 
+
+PROVISION OF CORRECTIONAL FACILITY TELEPHONE SERVICES
+
+ 
+
+      169.681 Limit on telephone service provider fee or commission; quarterly report; rules. (1) An inmate telephone service provider may not provide a fee or commission to a local or regional correctional facility, city or county for the provision of inmate telephone services other than a fee of five cents per minute or less, or other amount authorized by the Public Utility Commission by rule, for completed interstate, intrastate or international calls.
+
+      (2) The per-minute rate limits described in ORS 169.683 apply to the fee described in subsection (1) of this section.
+
+      (3) Any fee or commission received by a local or regional correctional facility, city or county under subsection (1) of this section must be deposited in the Inmate Welfare Fund Account, established under ORS 169.685, of the city or county receiving the fee or commission, or of the city or county in which the correctional facility receiving the fee or commission is located.
+
+      (4)(a) A local or regional correctional facility, city or county that receives a fee or commission described in subsection (1) of this section shall prepare a quarterly report with the following information:
+
+      (A) A monthly accounting of the total revenue received from the inmate telephone service provider;
+
+      (B) The total per-minute fees received;
+
+      (C) The share of revenue received by the correctional facility, city or county; and
+
+      (D) A detailed list of expenditures during the previous quarter from the Inmate Welfare Fund Account established under ORS 169.685.
+
+      (b) The correctional facility, city or county shall make the report described in paragraph (a) of this subsection available to the public and shall place a link to the report on the website of the correctional facility, city or county.
+
+      (5) The Public Utility Commission may adopt rules to carry out the provisions of this section, including rules that authorize fees in an amount other than that described in subsection (1) of this section.
+
+      (6) As used in this section, “regional correctional facility” has the meaning given that term in ORS 169.620. [2019 c.335 §4]
+
+ 
+
+      169.683 Requirements for request for proposals; contents of contract; per-minute rate limits; rules. (1) A local or regional correctional facility, city or county that issues a request for proposals to procure inmate telephone services shall:
+
+      (a) Consider call quality as a primary consideration when evaluating proposals; and
+
+      (b) Weight call quality at not less than 35 percent of the total weight that the correctional facility, city or county gives to all factors in the final evaluation of a proposal.
+
+      (2) A contract between a local or regional correctional facility, city or county and an inmate telephone service provider must include a requirement that the provider submit a monthly report to the correctional facility, city or county containing the following information for the previous month:
+
+      (a) All revenue earned;
+
+      (b) Any fees charged;
+
+      (c) Any moneys paid to the correctional facility, city or county;
+
+      (d) The number of completed calls;
+
+      (e) The number of dropped calls; and
+
+      (f) The number of complaints concerning call quality.
+
+      (3) A contract between a local or regional correctional facility, city or county and an inmate telephone service provider must comply with the following per-minute rate limits except as otherwise authorized by the Public Utility Commission by rule:
+
+      (a) For local or regional correctional facilities with less than 350 beds:
+
+      (A) $0.21 per minute for prepaid intrastate and interstate calls.
+
+      (B) $0.25 per minute for collect intrastate and interstate calls.
+
+      (C) $0.50 per minute for international calls to Mexico or Canada.
+
+      (D) $0.67 per minute for all other international calls.
+
+      (b) For facilities with at least 350 beds but less than 1,000 beds:
+
+      (A) $0.19 per minute for prepaid intrastate and interstate calls.
+
+      (B) $0.23 per minute for collect intrastate and interstate calls.
+
+      (C) $0.50 per minute for international calls to Mexico or Canada.
+
+      (D) $0.67 per minute for all other international calls.
+
+      (c) For facilities with at least 1,000 beds:
+
+      (A) $0.17 per minute for prepaid intrastate and interstate calls.
+
+      (B) $0.21 per minute for collect intrastate and interstate calls.
+
+      (C) $0.50 per minute for international calls to Mexico or Canada.
+
+      (D) $0.67 per minute for all other international calls.
+
+      (4) A contract between a local or regional correctional facility, city or county and an inmate telephone service provider may not authorize the collection of any fee other than the following:
+
+      (a) The fees described in ORS 169.681 (1).
+
+      (b) For a paper copy of a billing statement requested by a customer, a $2 fee per statement or other fee authorized by the commission by rule.
+
+      (c) For electronic deposits of less than $25, a deposit fee of $1.50 or other fee authorized by the commission by rule.
+
+      (d) For electronic deposits of $25 or more, a deposit fee of $3 or other fee authorized by the commission by rule.
+
+      (e) For deposits facilitated by a live operator, a deposit fee of $5.95 or other fee authorized by the commission by rule.
+
+      (5) Nothing in this section prohibits a contract from authorizing or collecting taxes or other fees required by law.
+
+      (6) The Public Utility Commission may adopt rules to carry out the provisions of this section, including rules that authorize per-minute rates and fees other than the rates and fees described in this section.
+
+      (7) As used in this section, “regional correctional facility” has the meaning given that term in ORS 169.620. [2019 c.335 §5]
+
+ 
+
+      169.685 Inmate Welfare Fund Account. (1) A city or county that maintains a local or regional correctional facility shall establish an Inmate Welfare Fund Account, separate and distinct from the general fund of the city or county. All moneys in the account may be expended only for inmate welfare and may not be used for regular inmate meals, inmate clothing, inmate medical care, facility maintenance or staff salaries, staff clothing or staff equipment.
+
+      (2) As used in this section:
+
+      (a) “Inmate welfare” means items or programs that enhance the lives of inmates, including but not limited to education programs, job training programs, drug and alcohol treatment programs, exercise equipment, televisions, cable subscriptions, electronic law library access, magazine subscriptions, books, board games, microwaves available for inmate use and meals or other foods provided for special events.
+
+      (b) “Regional correctional facility” has the meaning given that term in ORS 169.620. [2019 c.335 §6]
 
  
 
@@ -1013,7 +1179,7 @@ JUVENILE DETENTION FACILITIES
 
       169.750 Restrictions on operation of juvenile detention facilities. A juvenile detention facility may not:
 
-      (1) Impose upon a detained juvenile for purposes of discipline or punishment any infliction of or threat of physical injury or pain, deliberate humiliation, physical restraint, withholding of meals, or isolation, or detention under conditions that violate the provisions of subsections (2) to (8) of this section or ORS 169.076 (7) to (11), (13) or (14) or 169.740;
+      (1) Impose upon a detained juvenile for purposes of discipline or punishment any infliction of or threat of physical injury or pain, deliberate humiliation, physical restraint, withholding of meals, or isolation, or detention under conditions that violate the provisions of subsections (2) to (8) of this section or ORS 169.076 (7) to (11) or (13) to (15) or 169.740;
 
       (2) Use any physical force, other means of physical control or isolation upon a detained juvenile except as reasonably necessary and justified to prevent escape from the facility, physical injury to another person, to protect a detained juvenile from physical self-injury or to prevent destruction of property, or to effectuate the confinement of the juvenile in roomlock or isolation as provided for in ORS 169.090, 169.730 to 169.800, 419A.050 and 419A.052, and for only so long as it appears that the danger exists. A use of force or other physical means of control may not employ:
 
@@ -1045,7 +1211,7 @@ JUVENILE DETENTION FACILITIES
 
       (e) A finding that the alleged conduct or behavior was proven by a preponderance of the evidence and that it violated a rule of conduct or behavior of the facility as provided for in ORS 169.076 (12) or constituted a crime under the laws of this state; and
 
-      (8) Detain juveniles with emotional disturbances, mental retardation or physical disabilities on the same charges and circumstances for which other juveniles would have been released or provided with another alternative. [1981 c.869 §3; 1983 c.598 §1; 1993 c.33 §313; 1997 c.765 §1; 2007 c.70 §38; 2009 c.535 §32; 2014 c.45 §31; 2017 c.356 §22]
+      (8) Detain juveniles with emotional disturbances, mental retardation or physical disabilities on the same charges and circumstances for which other juveniles would have been released or provided with another alternative. [1981 c.869 §3; 1983 c.598 §1; 1993 c.33 §313; 1997 c.765 §1; 2007 c.70 §38; 2009 c.535 §32; 2014 c.45 §31; 2017 c.356 §22; 2019 c.489 §8]
 
  
 
@@ -1065,13 +1231,13 @@ JUVENILE DETENTION FACILITIES
 
       (7) Access to visitation and telephone calls for a detained juvenile with family and friends;
 
-      (8) Sanctions for violating rules of inmate conduct made pursuant to ORS 169.076 (12) and procedures for fact-finding and imposition of discipline or punishment; and
+      (8) Sanctions for violating rules of prisoner conduct made pursuant to ORS 169.076 (12) and procedures for fact-finding and imposition of discipline or punishment; and
 
-      (9) Access to records and grievance procedures for complaints by the detained juvenile, the attorney of the detained juvenile, parent or guardian or other interested person as provided for in ORS 419A.255. [1981 c.869 §5; 1993 c.33 §314]
+      (9) Access to records and grievance procedures for complaints by the detained juvenile, the attorney of the detained juvenile, parent or guardian or other interested person as provided for in ORS 419A.255. [1981 c.869 §5; 1993 c.33 §314; 2019 c.213 §47]
 
  
 
-      169.770 Release of detained juvenile when detention facility violates standards. Notwithstanding the procedures set out in ORS 169.080 and 419A.061, the juvenile court in which venue lies pursuant to 419B.100 or 419C.005 shall, upon motion of any party or on its own motion, and after prompt hearing, release any juvenile detained in a facility which violates ORS 169.076 (7) to (11), (13) or (14), 169.740 or 169.750, unless the court finds that such violation is not likely to reoccur. The court may comply with the release provisions of this section by transferring a detained juvenile to an available juvenile detention facility which it finds complies with ORS 169.076 (7) to (11), (13) or (14), 169.740 and 169.750, or by placing the juvenile in shelter care, or by releasing the juvenile to the custody of a responsible adult under terms and conditions specified by the court, or by releasing the juvenile on personal recognizance under terms and conditions specified by the court. The appeal of a final order under this section does not suspend the jurisdiction of the juvenile court while the appeal is pending. No subsequent order of the juvenile court shall moot the appeal. [1981 c.869 §4; 1985 c.499 §8; 1985 c.618 §11; 1993 c.33 §315; 2001 c.480 §12]
+      169.770 Release of detained juvenile when detention facility violates standards. Notwithstanding the procedures set out in ORS 169.080 and 419A.061, the juvenile court in which venue lies pursuant to 419B.100 or 419C.005 shall, upon motion of any party or on its own motion, and after prompt hearing, release any juvenile detained in a facility which violates ORS 169.076 (7) to (11) or (13) to (15), 169.740 or 169.750, unless the court finds that such violation is not likely to reoccur. The court may comply with the release provisions of this section by transferring a detained juvenile to an available juvenile detention facility which it finds complies with ORS 169.076 (7) to (11) or (13) to (15), 169.740 and 169.750, or by placing the juvenile in shelter care, or by releasing the juvenile to the custody of a responsible adult under terms and conditions specified by the court, or by releasing the juvenile on personal recognizance under terms and conditions specified by the court. The appeal of a final order under this section does not suspend the jurisdiction of the juvenile court while the appeal is pending. No subsequent order of the juvenile court shall moot the appeal. [1981 c.869 §4; 1985 c.499 §8; 1985 c.618 §11; 1993 c.33 §315; 2001 c.480 §12; 2019 c.489 §9]
 
  
 
@@ -1101,10 +1267,6 @@ MISCELLANEOUS
 
  
 
-CHAPTER 170
-
-[Reserved for expansion]
-
-_______________
+CHAPTER 170 [Reserved for expansion]_______________
 
  

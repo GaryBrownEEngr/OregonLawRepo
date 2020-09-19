@@ -6,16 +6,6 @@ Chapter 329 — Oregon Educational Act for the 21st Century; Educational Improve
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0072
-
- 
-
- 
-
 
  
 
@@ -153,11 +143,15 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-329.172     Early Learning Division to administer preschool program; contracts; report
+329.172     Preschool Promise Program; grants and contracts; report
 
  
 
-329.175     Early Learning Division to administer prekindergarten program; grants; coordination with other programs
+329.175     Early Learning Division to administer Oregon prekindergarten program; grants; coordination with other programs
+
+ 
+
+329.181     Scholarship program for early childhood care and education professionals; rules
 
  
 
@@ -177,7 +171,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-329.200     Report on Oregon prekindergarten program by superintendent; assessment of program effectiveness
+329.200     Report on Oregon prekindergarten program; assessment of program effectiveness
 
  
 
@@ -243,8 +237,6 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
 329.486     Guidelines for best practices of administering assessments
 
- 
-
 329.488     Nationally normed assessment; rules
 
  
@@ -265,7 +257,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-Note          Phase-in of implementation of curriculum relating to Native American experience in Oregon--2017 c.632 §3
+329.494     Instruction about the Holocaust and genocide
 
  
 
@@ -290,6 +282,14 @@ Note          Phase-in of implementation of curriculum relating to Native Americ
  
 
 329.504     Funding for programs that link physical activity and academic achievement
+
+ 
+
+(Counseling Program)
+
+ 
+
+329.603     Coordinated comprehensive school counseling program; rules
 
  
 
@@ -403,11 +403,19 @@ IMPROVEMENTS IN STUDENT ACHIEVEMENT
 
  
 
-(Education Plan)
+(Statewide Education Plans)
 
  
 
-329.841     Culturally specific statewide education plan; advisory group; report; grants; rules
+329.841     Statewide education plan for students who are black or African-American or who are members of student group not covered by existing culturally specific plan; advisory group; report; grants; rules
+
+ 
+
+329.843     Statewide education plan for students who are American Indian or Alaskan Native; advisory group; report; grants; rules
+
+ 
+
+329.845     Statewide education plan for students who are Latino or Hispanic; advisory group; report; grants; rules
 
  
 
@@ -486,6 +494,44 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
       (14) “World languages” means American Sign Language and languages other than English.
 
       (15) “21st Century Schools Council” means a council established pursuant to ORS 329.704. [1995 c.660 §2; 1999 c.1023 §4; 1999 c.1029 §1; 2001 c.759 §1; 2003 c.303 §2; 2007 c.858 §1; 2013 c.15 §1]
+
+ 
+
+      Note: The amendments to 329.007 by section 6, chapter 253, Oregon Laws 2019, become operative September 1, 2025. See section 7, chapter 253, Oregon Laws 2019. The text that is operative on and after September 1, 2025, is set forth for the user’s convenience.
+
+      329.007. As used in this chapter, unless the context requires otherwise:
+
+      (1) “Academic content standards” means expectations of student knowledge and skills adopted by the State Board of Education under ORS 329.045.
+
+      (2) “Administrator” includes all persons whose duties require an administrative license.
+
+      (3) “Board” or “state board” means the State Board of Education.
+
+      (4) “Community learning center” means a school-based or school-linked program providing informal meeting places and coordination for community activities, adult education, child care, information and referral and other services as described in ORS 329.157. “Community learning center” includes, but is not limited to, a community school program as defined in ORS 336.505, family resource centers as described in ORS 417.725, full service schools, lighted schools and 21st century community learning centers.
+
+      (5) “Department” means the Department of Education.
+
+      (6) “English” includes, but is not limited to, reading and writing.
+
+      (7) “Holocaust and genocide studies” means studies on the Holocaust, genocide and other acts of mass violence that comply with the requirements described in ORS 329.494.
+
+      (8) “History, geography, economics and civics” includes, but is not limited to, Holocaust and genocide studies and Oregon Studies.
+
+      (9) “Oregon Studies” means history, geography, economics and civics specific to the State of Oregon. Oregon Studies instruction in Oregon government shall include municipal, county, tribal and state government, as well as the electoral and legislative processes.
+
+      (10) “Parents” means parents or guardians of students who are covered by this chapter.
+
+      (11) “Public charter school” has the meaning given that term in ORS 338.005.
+
+      (12) “School district” means a school district as defined in ORS 332.002, a state-operated school or any legally constituted combination of such entities.
+
+      (13) “Teacher” means any licensed employee of a school district who has direct responsibility for instruction, coordination of educational programs or supervision of students and who is compensated for such services from public funds. “Teacher” does not include a school nurse, as defined in ORS 342.455, or a person whose duties require an administrative license.
+
+      (14) “The arts” includes, but is not limited to, literary arts, performing arts and visual arts.
+
+      (15) “World languages” means American Sign Language and languages other than English.
+
+      (16) “21st Century Schools Council” means a council established pursuant to ORS 329.704.
 
  
 
@@ -599,7 +645,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      Note: The amendments to 329.045 by section 1a, chapter 263, Oregon Laws 2017, take effect July 1, 2018. See section 3, chapter 263, Oregon Laws 2017. The text that is effective until July 1, 2018, including amendments by section 1, chapter 133, Oregon Laws 2017, is set forth for the user’s convenience.
+      Note: The amendments to 329.045 by section 1, chapter 202, Oregon Laws 2019, become operative September 30, 2026. See section 2, chapter 202, Oregon Laws 2019. The text that is operative on and after September 30, 2026, is set forth for the user’s convenience.
 
       329.045. (1)(a) In order to achieve the goals contained in ORS 329.025, the State Board of Education shall regularly and periodically review and revise its Common Curriculum Goals, performance indicators and diploma requirements.
 
@@ -607,9 +653,23 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (A) Include Essential Learning Skills and rigorous academic content standards in mathematics, science, English, history, geography, economics, civics, physical education, health, the arts and world languages.
 
-      (B) Involve teachers and other educators, parents of students and other citizens and shall provide ample opportunity for public comment.
+      (B) Ensure that the academic content standards for history, geography, economics and civics include sufficient instruction on the histories, contributions and perspectives of individuals who:
 
-      (C) Encourage increased learning time. As used in this subparagraph, “increased learning time” means a schedule that encompasses a longer school day, week or year for the purpose of increasing the total number of school hours available to provide:
+      (i) Are Native American;
+
+      (ii) Are of African, Asian, Pacific Island, Chicano, Latino or Middle Eastern descent;
+
+      (iii) Are women;
+
+      (iv) Have disabilities;
+
+      (v) Are immigrants or refugees; or
+
+      (vi) Are lesbian, gay, bisexual or transgender.
+
+      (C) Involve teachers and other educators, parents of students and other citizens and shall provide ample opportunity for public comment.
+
+      (D) Encourage increased learning time. As used in this subparagraph, “increased learning time” means a schedule that encompasses a longer school day, week or year for the purpose of increasing the total number of school hours available to provide:
 
       (i) Students with instruction in core academic subjects, including mathematics, science, English, history, geography, economics, civics, the arts and world languages;
 
@@ -623,7 +683,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (2) The State Board of Education shall continually review and revise all adopted academic content standards necessary for students to successfully transition to the next phase of their education.
 
-      (3)(a) School districts and public charter schools shall offer students instruction in mathematics, science, English, history, geography, economics, civics, physical education, health, the arts and world languages.
+      (3)(a) School districts and public charter schools must offer students instruction in mathematics, science, English, history, geography, economics, civics, physical education, health, the arts and world languages.
 
       (b) Instruction required under paragraph (a) of this subsection must:
 
@@ -631,7 +691,25 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (B) Meet the requirements adopted by the State Board of Education and the board of the school district or public charter school.
 
-      (4) School districts and public charter schools are encouraged to offer students courses or other educational opportunities in financial literacy to allow every student who wants to receive instruction in financial literacy to be able to receive the instruction.
+      (4) School districts and public charter schools are encouraged to offer students courses or other educational opportunities in civics and financial literacy to allow every student who wants to receive instruction in civics and financial literacy to be able to receive the instruction.
+
+ 
+
+      Note: Sections 2 and 5, chapter 202, Oregon Laws 2019, provide:
+
+      Sec. 2. (1) The amendments to ORS 329.045 by section 1 of this 2019 Act become operative on September 30, 2026.
+
+      (2) Notwithstanding the operative date set forth in subsection (1) of this section, the State Board of Education, no later than September 30, 2024, shall:
+
+      (a) Review existing academic content standards to determine if the academic content standards comply with the requirements of ORS 329.045 (1)(b)(B), as amended by section 1 of this 2019 Act; and
+
+      (b) If applicable, adopt or revise any academic content standards as necessary to ensure compliance with the requirements of ORS 329.045 (1)(b)(B), as amended by section 1 of this 2019 Act.
+
+      (3)(a) A school district must first offer instruction that meets the academic content standards of ORS 329.045 (1)(b)(B), as amended by section 1 of this 2019 Act, no later than the 2026-2027 school year.
+
+      (b) Nothing in paragraph (a) of this subsection prevents a school district from first offering instruction that meets the academic content standards of ORS 329.045, as amended by section 1 of this 2019 Act, at any time from the beginning of the social sciences instructional materials cycle adopted by the State Board of Education until the school year set forth in paragraph (a) of this subsection. [2019 c.202 §2]
+
+      Sec. 5. During the 2026-2027 and 2027-2028 school years, the Department of Education shall provide professional development to teachers and administrators relating to academic content standards adopted pursuant to ORS 329.045 (1)(b)(B), as amended by section 1 of this 2019 Act, and to the selection of textbooks under ORS 337.260, as amended by section 3 of this 2019 Act. The department may contract for the provision of professional development required by this section. [2019 c.202 §5]
 
  
 
@@ -749,9 +827,79 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (J) A strong school library program;
 
+      (b) A review of demographics, student performance, staff characteristics and student access to, and use of, educational opportunities;
+
+      (c) A description of district efforts to achieve local efficiencies and efforts to make better use of resources; and
+
+      (d) A needs assessment, which shall:
+
+      (A) Be conducted in a manner that is inclusive of school employees, students from student groups identified in ORS 327.180 (2)(b) and parents of those students.
+
+      (B) Address the following priorities:
+
+      (i) Reducing academic disparities for students from student groups identified in ORS 327.180 (2)(b);
+
+      (ii) Meeting students’ mental or behavioral health needs;
+
+      (iii) Providing equitable access to academic courses across the school district or public charter school, with specific emphasis on access by students from student groups identified in ORS 327.180 (2)(b);
+
+      (iv) Allowing teachers and staff to have sufficient time to:
+
+      (I) Collaborate with other teachers and staff;
+
+      (II) Review data on students’ grades, absences and discipline, based on school and on grade level or course; and
+
+      (III) Develop strategies to ensure that at-risk students stay on track to graduate; and
+
+      (v) Possible partnerships with other organizations, federally recognized Indian tribes, school districts, education service districts, regional achievement collaboratives, post-secondary institutions of education, education partners or nonprofit programs and community-based programs that have demonstrated achievement of positive outcomes in work with students from student groups identified in ORS 327.180 (2)(b). [Formerly 326.760; 1995 c.660 §11; 2007 c.858 §7; 2009 c.840 §2; 2011 c.311 §1; 2019 c.122 §21]
+
+ 
+
+      Note: The amendments to 329.095 by section 21, chapter 122, Oregon Laws 2019, become operative July 1, 2020. See section 22, chapter 122, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      329.095. (1)(a) The Department of Education shall require school districts and schools to conduct self-evaluations and to periodically update their local district continuous improvement plans. Except as provided by paragraph (b)(C) of this subsection, the department may not require school districts or schools to conduct self-evaluations or to update their local district continuous improvement plans more frequently than biennially.
+
+      (b) The department may require a school district to:
+
+      (A) File, periodically, or at the department’s request, its local district continuous improvement plan with the department;
+
+      (B) Notify the department of any substantial changes, as defined by rule of the State Board of Education, to the school district; or
+
+      (C) Update its local district continuous improvement plan when there has been a substantial change, as defined by rule of the board, to the school district.
+
+      (c) The self-evaluation process conducted as provided by this subsection shall involve the public in the setting of local goals. The school districts shall ensure that representatives from the demographic groups of their school population are invited to participate in the development of local district continuous improvement plans to achieve the goals.
+
+      (2) As part of setting local goals, school districts shall undertake a communications process that involves parents, students, teachers, school employees and community representatives to explain and discuss the local goals and their relationship to programs under this chapter.
+
+      (3) At the request of the school district, department staff shall provide ongoing technical assistance in the development and implementation of the local district continuous improvement plan.
+
+      (4) The local district continuous improvement plan shall include:
+
+      (a) Goals to implement the following:
+
+      (A) A rigorous curriculum aligned with state standards;
+
+      (B) High-quality instructional programs;
+
+      (C) Short-term and long-term professional development plans;
+
+      (D) Programs and policies that achieve a safe educational environment;
+
+      (E) A plan for family and community engagement;
+
+      (F) Staff leadership development;
+
+      (G) High-quality data systems;
+
+      (H) Improvement planning that is data-driven;
+
+      (I) Education service plans for students who have or have not exceeded all of the academic content standards; and
+
+      (J) A strong school library program;
+
       (b) A review of demographics, student performance, staff characteristics and student access to, and use of, educational opportunities; and
 
-      (c) A description of district efforts to achieve local efficiencies and efforts to make better use of resources. [Formerly 326.760; 1995 c.660 §11; 2007 c.858 §7; 2009 c.840 §2; 2011 c.311 §1]
+      (c) A description of district efforts to achieve local efficiencies and efforts to make better use of resources.
 
  
 
@@ -881,7 +1029,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      329.150 Services for children and families at school site. A school district may provide services for children and families at the school site, which may include a community learning center. If the district chooses to provide services, the design of educational and other services to children and their families shall be the responsibility of the school district. School districts may coordinate services with programs provided through and overseen by the Early Learning Council for the purpose of providing services to families. To ensure that all educational and other services for young children and their families offer the maximum opportunity possible for the personal success of the child and family members, it is the policy of this state that the following principles for serving children should be observed to the maximum extent possible in all of its educational and other programs serving young children and their families, including those programs delivered at community learning centers:
+      329.150 Services for children and families at school site. A school district may provide services for children and families at the school site, which may include a community learning center. If the district chooses to provide services, the design of educational and other services to children and their families shall be the responsibility of the school district. School districts may coordinate services with programs provided through and coordinated by the Early Learning Council for the purpose of providing services to families. To ensure that all educational and other services for young children and their families offer the maximum opportunity possible for the personal success of the child and family members, it is the policy of this state that the following principles for serving children should be observed to the maximum extent possible in all of its educational and other programs serving young children and their families, including those programs delivered at community learning centers:
 
       (1) Services for young children and their families should be located as close to the child and the family’s community as possible, encouraging community support and ownership of such services;
 
@@ -893,7 +1041,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (5) Service systems should address the most urgent needs in a timely manner including health, intervention and support services; and
 
-      (6) Service providers and sources of support should be coordinated and collaborative, to reflect the knowledge that no single system can serve all of the needs of the child and family. [Formerly 326.790; 1995 c.660 §15; 2001 c.759 §3; 2012 c.37 §84]
+      (6) Service providers and sources of support should be coordinated and collaborative, to reflect the knowledge that no single system can serve all of the needs of the child and family. [Formerly 326.790; 1995 c.660 §15; 2001 c.759 §3; 2012 c.37 §84; 2019 c.395 §3]
 
  
 
@@ -995,43 +1143,61 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      329.165 Development of long-range plan for serving children and families. (1) In consultation with the advisory committee for the Oregon prekindergarten program, the Early Learning Council, acting as the state advisory council for purposes of the federal Head Start Act, shall develop a long-range plan for serving eligible children and their families and shall report to each odd-numbered year regular session of the Legislative Assembly on the funds necessary to implement the long-range plan, including but not limited to regular programming costs, salary enhancements and program improvement grants. The council shall determine the rate of increase in funding for programs necessary each biennium to provide service to all children eligible for the prekindergarten program.
+      329.165 Development of long-range plan for serving children and families. (1) The Early Learning Council shall develop a long-range plan for serving eligible children and their families and shall report to each odd-numbered year regular session of the Legislative Assembly on the funds necessary to implement the long-range plan, including but not limited to regular programming costs, salary enhancements and program improvement grants. The council shall determine the rate of increase in funding for programs necessary each biennium to provide service to all children eligible for the Oregon prekindergarten program.
 
-      (2) Each biennial report shall include but not be limited to estimates of the number of eligible children and families to be served, projected cost of programs and evaluation of the programs. [Formerly 326.813; 1995 c.660 §18; 2007 c.858 §11; 2011 c.545 §41; 2013 c.624 §3]
-
- 
-
-      329.170 Definitions for ORS 329.170 to 329.200. (1) As used in ORS 329.170 to 329.200:
-
-      (a) “Advisory committee” means the advisory committee established specifically for the Oregon prekindergarten program established by ORS 329.170 to 329.200.
-
-      (b) “Oregon prekindergartens” means programs that are recognized by the Early Learning Division as meeting the minimum program rules to be adopted by the Early Learning Council and that provide comprehensive health, education and social services in order to maximize the potential of children three and four years of age.
-
-      (c) “Oregon prekindergarten program” means the statewide administrative activities carried on within the Early Learning Division to allocate, award and monitor state funds appropriated to create or assist local Oregon prekindergartens.
-
-      (2) For purposes of ORS 329.175, “eligible child” means an at-risk child who is not a participant in a federal, state or local program providing like comprehensive services and may include children who are eligible under rules adopted by the Early Learning Council. As used in this subsection, “at-risk child” means a child at least three years of age and not eligible for kindergarten whose family circumstances would qualify that child for eligibility under the federal Head Start program. [Formerly 326.600; 2001 c.831 §15; 2005 c.209 §10; 2013 c.624 §4]
+      (2) Each biennial report shall include but not be limited to estimates of the number of eligible children and families to be served, projected cost of programs and evaluation of the programs. [Formerly 326.813; 1995 c.660 §18; 2007 c.858 §11; 2011 c.545 §41; 2013 c.624 §3; 2019 c.395 §4]
 
  
 
-      329.172 Early Learning Division to administer preschool program; contracts; report. (1) The Early Learning Division shall administer a preschool program as provided by this section. The preschool program shall expand preschool options available to the children of this state.
+      329.170 Definitions for ORS 329.170 to 329.200. As used in ORS 329.170 to 329.200:
 
-      (2)(a) For the purpose of expanding and coordinating preschool options, Early Learning Hubs shall:
+      (1) “Oregon prekindergarten” means a program that is recognized by the Early Learning Division as meeting the minimum program rules to be adopted by the Early Learning Council and that provides comprehensive health, education and social services to children prenatally through five years of age in order to maximize the potential of those children when they enter kindergarten.
 
-      (A) Coordinate the providers of preschool programs under this section.
+      (2) “Oregon prekindergarten program” means the statewide administrative activities carried on within the Early Learning Division to allocate, award and monitor state funds appropriated to create or assist local Oregon prekindergartens.
 
-      (B) Convene annual meetings between representatives of the Oregon prekindergarten program and the preschool program described in this section to coordinate the enrollment of eligible children in the programs before the eligible children are enrolled. The representatives shall collaborate to determine the program that best meets the needs of eligible children and their families within the Early Learning Hub.
+      (3) “Preschool Promise Program” means the preschool program administered by the Early Learning Division under ORS 329.172. [Formerly 326.600; 2001 c.831 §15; 2005 c.209 §10; 2013 c.624 §4; 2019 c.646 §1]
 
-      (b) The Early Learning Hubs shall apply for state funding, coordinate local planning and enter into contracts with preschool providers.
+ 
 
-      (3) A preschool provider that meets the requirements of this subsection may apply to participate in the preschool program described in this section. The preschool provider:
+      329.172 Preschool Promise Program; grants and contracts; report. (1)(a) The Preschool Promise Program is established. The Early Learning Division shall administer the Preschool Promise Program as provided by this section. The Preschool Promise Program shall expand preschool options available to the children of this state.
+
+      (b) In administering the Preschool Promise Program, the Early Learning Division shall identify local entities as provided under subsection (3) of this section within the region served by each Early Learning Hub to serve as a preschool provider or as a fiscal agent for multiple preschool providers that meet the eligibility criteria established under subsections (4) and (5) of this section.
+
+      (2) For the purpose of expanding and coordinating preschool options under the Preschool Promise Program, Early Learning Hubs shall:
+
+      (a) Once every two years, in consultation with resource and referral entities established under ORS 329A.100 to 329A.135, complete a community plan to identify priority populations of children and families to enroll in preschool, to assess the availability of high-quality preschool programs and to identify existing preschool providers and other related services within the region served by the Early Learning Hub.
+
+      (b) Based on the results of the most recent community plan, annually coordinate and collaborate with preschool providers to:
+
+      (A) Determine the preschool program that best meets the needs of eligible children and their families within the Early Learning Hub; and
+
+      (B) Enroll eligible children in preschool programs.
+
+      (3) A local entity may apply to the Early Learning Division to be awarded grants or contracts to be a preschool provider or to act as a fiscal agent for multiple preschool providers under this section if the local entity is:
+
+      (a) An Early Learning Hub designated under ORS 417.827;
+
+      (b) A resource and referral entity established under ORS 329A.100 to 329A.135;
+
+      (c) An education service district;
+
+      (d) A school district;
+
+      (e) A federal Head Start program;
+
+      (f) A community-based organization; or
+
+      (g) Another entity identified by the Early Learning Division.
+
+      (4) A preschool provider that meets the requirements of this subsection may apply to participate in the Preschool Promise Program to receive grants or contracts under the program. The preschool provider:
 
       (a) Must be establishing a new preschool program or expanding an existing preschool program.
 
-      (b) Must meet or exceed the requirements of subsection (4) of this section.
+      (b) Must meet or exceed the requirements of subsection (5) of this section.
 
-      (c) May be a Head Start program, an Oregon prekindergarten program, a child care provider, a relief nursery, a private preschool, a public school, a public charter school, an education service district or a community-based organization that provides a preschool program.
+      (c) May be a federal Head Start program, an Oregon prekindergarten, a child care provider, a relief nursery, a private preschool, a public school, a public charter school, an education service district or a community-based organization that provides a preschool program.
 
-      (4) A preschool provider may participate in the preschool program described in this section if the provider’s preschool program:
+      (5) A preschool provider may participate in the Preschool Promise Program if the provider’s preschool program:
 
       (a) Provides, at a minimum, the annual number of instructional hours required for full-day kindergarten.
 
@@ -1047,9 +1213,11 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (d) Provides continuity from infant and toddler services to early elementary grades.
 
-      (e) Demonstrates quality through meeting standards, including:
+      (e) Demonstrates an ability to maximize available federal, state and local funds.
 
-      (A) Attaining one of the top two ratings of the quality rating and improvement system for early childhood programs.
+      (f) Demonstrates quality through meeting standards, including:
+
+      (A) Participating in the quality rating and improvement system for early childhood programs.
 
       (B) Adopting culturally responsive teaching methods and practices.
 
@@ -1057,7 +1225,9 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (D) Providing high-quality, culturally responsive curricula, assessments and professional development that are linked to one another and to the state’s comprehensive early learning standards.
 
-      (E) Providing highly trained lead preschool teachers who have:
+      (E) Providing a classroom environment that is inclusive of all children, regardless of ability or family income.
+
+      (F) Providing highly trained lead preschool teachers who have:
 
       (i) At least a bachelor’s degree in:
 
@@ -1069,91 +1239,111 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (iii) Sufficient alternative credentialing to indicate that the teacher is highly trained, as determined by the Early Learning Division based on rules adopted by the Early Learning Council.
 
-      (F) Providing lead preschool teachers with a salary that meets the minimum salary requirements established by the Early Learning Council.
+      (G) Providing lead preschool teachers and teaching assistants with a salary that meets the minimum salary requirements established by the Early Learning Council.
 
-      (G) Providing at least one assistant in each classroom who provides support for academic instruction and who meets the state’s personnel qualification requirements of one of the top two tiers for the quality rating and improvement system for early childhood programs.
+      (H) Providing at least one teaching assistant in each classroom who provides support for academic instruction and who meets the state’s personnel qualification requirements of one of the top two tiers for the quality rating and improvement system for early childhood programs.
 
-      (H) Providing additional health and child development supports for children and families, such as screening, referrals and coordination with health care providers.
+      (I) Providing children and families with additional health and child development supports, such as screening, referrals and coordination with health care providers.
 
-      (f) Incorporates best practices in outreach, enrollment and programming for diverse cultural and linguistic populations and children who have been historically underserved in preschool programs.
+      (g) Incorporates best practices in outreach, enrollment and programming for diverse cultural and linguistic populations and children who have been historically underserved in preschool programs.
 
-      (g) Works in collaboration with community programs to ensure that families have knowledge of, and are connected to, community resources and supports to meet the needs of children and families served by the preschool program.
+      (h) Works in collaboration with community programs to ensure that families have knowledge of, and are connected to, community resources and supports to meet the needs of children and families served by the preschool program.
 
-      (h) Participates in an ongoing monitoring and program evaluation system that is used for continuous program improvement.
+      (i) Participates in an ongoing monitoring and program evaluation system that is used for continuous program improvement.
 
-      (5)(a) While any moneys received under a contract entered into as provided by this section must be used to serve children described in subsection (4)(c) of this section, nothing in subsection (4)(c) of this section prevents a preschool provider from serving additional children, including children who:
+      (6)(a) While any moneys received under a grant received or a contract entered into as provided by this section must be used to serve children described in subsection (5)(c) of this section, nothing in subsection (5)(c) of this section prevents a preschool provider from serving additional children, including children who:
 
-      (A) Pay tuition for the preschool program and whose family incomes at the time of enrollment exceeds 200 percent of federal poverty guidelines.
+      (A) Pay tuition for the preschool program and whose family income at the time of enrollment exceeds 200 percent of federal poverty guidelines.
 
-      (B) Are funded by the Oregon prekindergarten program, a Head Start program or another source of funding.
+      (B) Are funded by the Oregon prekindergarten program, a federal Head Start program or another source of funding.
 
-      (b) If a preschool program serves children described in paragraph (a) of this subsection, moneys received under a contract as provided by this section may not be used to pay for expenses incurred for the children described in paragraph (a) of this subsection.
+      (b) If a preschool provider participating in the Preschool Promise Program serves children described in paragraph (a) of this subsection, moneys received under a grant or contract as provided by this section may not be used to pay for expenses incurred for the children described in paragraph (a) of this subsection.
 
-      (6) A preschool program may receive a waiver of any of the requirements described in subsection (4) of this section if the waiver:
+      (7) A preschool provider participating in the Preschool Promise Program may receive a waiver of any of the requirements described in subsection (5) of this section if the waiver:
 
-      (a) Is for a preschool program that is maintaining progress toward quality;
+      (a) Is for a preschool program that is maintaining progress toward quality; and
 
-      (b) Is anticipated for the first years of the preschool program only; and
+      (b) Is anticipated for the first years of the preschool program only.
 
-      (c) Is granted for only one year at a time.
-
-      (7) To assist the Early Learning Division in administering this section, the Early Learning Council shall:
+      (8) To assist the Early Learning Division in administering this section, the Early Learning Council shall:
 
       (a) Identify resources necessary for the Early Learning Division to develop, support and sustain the implementation of a high-quality preschool program, including evaluations, professional development opportunities, technical assistance, monitoring guidance and administrative assistance.
 
       (b) Ensure that pathways and supports are available to teaching staff to increase culturally and linguistically diverse staff to teach and assist in preschool classrooms.
 
-      (c) Establish minimum salary requirements and target salary guidelines for lead preschool teachers as required under subsection (4)(e)(F) of this section. Minimum salary requirements may be differentiated by program type. Target salary guidelines shall be, to the extent practicable, comparable to lead kindergarten teacher salaries in public schools. The Early Learning Division shall provide guidelines and technical assistance to programs to address salary disparities among preschool teachers and preschool staff.
+      (c) Establish minimum salary requirements and target salary guidelines for lead preschool teachers and teaching assistants at preschool providers participating in the Preschool Promise Program. Minimum salary requirements may be differentiated by program type. Target salary guidelines shall be, to the extent practicable, comparable to lead kindergarten teacher and teaching assistant salaries in public schools. The Early Learning Division shall provide guidelines and technical assistance to preschool providers participating in the Preschool Promise Program to address salary disparities among preschool teachers and preschool staff.
 
-      (d) Develop strategies that strive to increase the mean salary for lead preschool teachers and other preschool staff in this state.
+      (d) Develop strategies that strive to increase the mean salary for lead teachers, teaching assistants and other preschool staff employed by preschool providers participating in the Preschool Promise Program.
 
-      (e) Administer waivers as described in subsection (6) of this section.
+      (e) Administer waivers as described in subsection (7) of this section.
 
-      (8) Each biennium, the Early Learning Division shall submit a report to the Legislative Assembly that describes:
+      (f) Develop strategies to ensure preschool providers have the resources necessary to maintain children in placement in the Preschool Promise Program.
 
-      (a) The number of children served by the preschool program described in this section, including the number of children:
+      (9) Each biennium, the Early Learning Division shall submit a report to the Legislative Assembly that describes:
+
+      (a) The number of children served by the Preschool Promise Program, including the number of children:
 
       (A) Whose family incomes are at or below 200 percent of the federal poverty guidelines;
 
       (B) Whose family incomes are between 100 and 200 percent of the federal poverty guidelines;
 
-      (C) Who pay tuition; and
+      (C) Who pay tuition;
 
-      (D) Who are eligible for Head Start programs.
+      (D) Who are eligible for Head Start programs; and
 
-      (b) The cost to serve each child described in subsection (4)(c) of this section.
+      (E) Who are eligible for early childhood special education.
 
-      (c) The level of state support received for implementing the preschool program described in this section.
+      (b) The cost to serve each child described in subsection (5)(c) of this section.
 
-      (d) The effectiveness of the preschool program described in this section, including student progress and outcomes.
+      (c) The level of state support received for implementing the Preschool Promise Program.
 
-      (e) Improvements that have been made to the administration and evaluation of the preschool program to improve the effectiveness of the program.
+      (d) The effectiveness of the Preschool Promise Program, including student progress and outcomes.
 
-      (f) The salary, education levels and turnover rates of lead preschool teachers employed by preschool providers receiving moneys under this section.
+      (e) Improvements that have been made to the administration and evaluation of the Preschool Promise Program to improve the effectiveness of the program.
 
-      (9) The Early Learning Division shall coordinate with the Department of Education and other state agencies in support of the preschool program described in this section.
+      (f) The salary, education levels and turnover rates of lead preschool teachers and teaching assistants employed by preschool providers participating in the Preschool Promise Program.
 
-      (10) The Early Learning Division shall prescribe the form and timeline for applications to participate in the preschool program as provided by this section. [2015 c.745 §2; 2017 c.140 §1; 2017 c.280 §1]
+      (10) The Early Learning Division shall coordinate with the Department of Education and other state agencies in support of the Preschool Promise Program.
+
+      (11) The Early Learning Division shall prescribe the form and timeline for applications to participate in the Preschool Promise Program. [2015 c.745 §2; 2017 c.140 §1; 2017 c.280 §1; 2019 c.646 §2]
 
  
 
-      329.175 Early Learning Division to administer prekindergarten program; grants; coordination with other programs. (1) The Early Learning Division shall administer the Oregon prekindergarten program to assist eligible children with comprehensive services including educational, social, health and nutritional development to enhance their chances for success in school and life. Eligible children, upon request of parent or guardian, shall be admitted to approved Oregon prekindergartens to the extent that the Legislative Assembly provides funds.
+      329.175 Early Learning Division to administer Oregon prekindergarten program; grants; coordination with other programs. (1) The Early Learning Division shall administer the Oregon prekindergarten program to assist eligible children with comprehensive services including educational, social, health and nutritional development to enhance their chances for success in school and life. Eligible children, upon request of parent or guardian, shall be admitted to approved Oregon prekindergartens to the extent that the Legislative Assembly provides funds.
 
-      (2) Nonsectarian organizations including school districts and Head Start grantees are eligible to compete for funds to establish an Oregon prekindergarten. Grant recipients shall serve children eligible according to federal Head Start guidelines and other children who meet criteria of eligibility adopted by rule by the Early Learning Council. However, not more than 20 percent of the total enrollment shall consist of children who do not meet Head Start guidelines. School districts may contract with other governmental or nongovernmental nonsectarian organizations to conduct a portion of the program. Funds appropriated for the program shall be used to establish and maintain new or expanded Oregon prekindergartens and shall not be used to supplant federally supported Head Start programs. Oregon prekindergartens also may accept gifts, grants and other funds for the purposes of this section.
+      (2)(a) In administering the Oregon prekindergarten program, the Early Learning Division shall adopt a funding formula and methodology that will ensure that Oregon prekindergartens offer high-quality services to eligible children and their families.
 
-      (3) Applicants shall identify how they will serve the target population and provide all components as specified in the federal Head Start performance standards and guidelines, including staff qualifications and training, facilities and equipment, transportation and fiscal management.
+      (b) Services may be provided under this section to pregnant women and families with children under the age of five years old who are not participating in a federal, state or local program providing comprehensive services and who qualify for eligibility under the federal Head Start program.
 
-      (4) Oregon prekindergartens shall coordinate with each other and with federal Head Start programs to ensure efficient delivery of services and prevent overlap. Oregon prekindergartens shall also work with local organizations such as local education associations serving young children and make the maximum use of local resources.
+      (3)(a) Nonsectarian organizations, including school districts and Head Start grantees, are eligible to compete for funds to establish an Oregon prekindergarten.
 
-      (5) Oregon prekindergartens shall coordinate services with other services provided through the Oregon Early Learning System. The coordination of services shall be consistent with federal and state law.
+      (b)(A) Grant recipients shall serve children eligible according to federal Head Start guidelines and other children who meet criteria of eligibility adopted by rule by the Early Learning Council.
 
-      (6)(a) The governing body of a recipient of grant funds under this section shall be subject to ORS 192.610 to 192.690 but is subject to ORS 192.311 to 192.478 only:
+      (B) Grant recipients may serve children not described in subparagraph (A) of this paragraph, but not more than 20 percent of the total enrollment with a grant recipient shall consist of children who do not meet federal Head Start guidelines.
+
+      (c) School districts may contract with other governmental or nongovernmental nonsectarian organizations to conduct a portion of the program.
+
+      (d) Funds appropriated for the program shall be used to establish and maintain new or expanded Oregon prekindergartens and may not be used to supplant federally supported Head Start programs. Oregon prekindergartens also may accept gifts, grants and other funds for the purposes of this section.
+
+      (4) Applicants shall identify how they will serve the target population and provide all components as specified in the federal Head Start performance standards and guidelines, including staff qualifications and training, facilities and equipment, transportation and fiscal management.
+
+      (5) Applicants shall identify how they will provide, at a minimum, the annual number of instructional hours required under performance guidelines and standards of the federal Head Start programs.
+
+      (6) Oregon prekindergartens shall provide lead teachers and teaching assistants with a salary that meets the minimum salary requirements established by the Early Learning Council.
+
+      (7) Oregon prekindergartens must demonstrate an ability to maximize all available federal, state and local funds.
+
+      (8) Oregon prekindergartens shall coordinate with each other and with federal Head Start programs to ensure efficient delivery of services and prevent overlap. Oregon prekindergartens shall also work with local organizations such as local education associations serving young children and make the maximum use of local resources.
+
+      (9) Oregon prekindergartens shall coordinate services with other services provided through the Oregon Early Learning System. The coordination of services must be consistent with federal and state law.
+
+      (10)(a) The governing body of a recipient of grant funds under this section shall be subject to ORS 192.610 to 192.690 but is subject to ORS 192.311 to 192.478 only:
 
       (A) With respect to records created at a meeting of the governing body, minutes of a meeting of a governing body or records presented at a meeting of the governing body; or
 
       (B) As otherwise provided by law other than this subsection.
 
-      (b) As used in this subsection, “governing body” means a board or other entity of two or more persons who are authorized to make decisions with respect to a recipient or who are authorized to advise or make recommendations to a governing body of the recipient. [Formerly 326.605; 2001 c.831 §16; 2012 c.37 §87; 2013 c.282 §§1,2; 2013 c.624 §§5,6]
+      (b) As used in this subsection, “governing body” means a board or other entity of two or more persons who are authorized to make decisions with respect to a recipient or who are authorized to advise or make recommendations to a governing body of the recipient. [Formerly 326.605; 2001 c.831 §16; 2012 c.37 §87; 2013 c.282 §§1,2; 2013 c.624 §§5,6; 2019 c.646 §3]
 
  
 
@@ -1161,11 +1351,45 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      329.183 Prekindergarten Program Trust Fund. (1) The Prekindergarten Program Trust Fund is established as a fund in the State Treasury, separate and distinct from the General Fund. Interest earned by the trust fund shall be credited to the trust fund. The primary purpose of the trust fund is to assist eligible children with comprehensive services including educational, social, health and nutritional development to enhance their chances for success in school and life. For this purpose, the trust fund is continuously appropriated to the Early Learning Division for the Oregon prekindergarten program described in ORS 329.170 to 329.200.
+      329.181 Scholarship program for early childhood care and education professionals; rules. (1) The Higher Education Coordinating Commission and the Early Learning Division shall jointly administer a scholarship program and a grant program designed to ensure that there is an adequate supply of highly qualified early childhood care and education professionals in this state.
 
-      (2) The division may solicit and accept money in the form of gifts, contributions and grants to be deposited in the trust fund. Except as provided in ORS 329.185, the acceptance of federal grants for purposes of ORS 329.170 to 329.200 does not commit state funds nor place an obligation upon the Legislative Assembly to continue the purposes for which the federal funds are made available.
+      (2) The commission and division shall collaborate to approve degree programs for which a scholarship may be awarded under this section.
 
-      (3) The trust fund may be listed, if otherwise qualified, on the Oregon income tax return for checkoff pursuant to application made to the Oregon Charitable Checkoff Commission under ORS 305.690 to 305.753 by the division. [1995 c.636 §4; 2001 c.831 §17; 2007 c.858 §12; 2013 c.624 §7]
+      (3) A person is eligible to receive a scholarship under this section if the person:
+
+      (a) Enrolls in a program approved under subsection (2) of this section;
+
+      (b) Enrolls in a minimum of six credits, or the equivalent, per term; and
+
+      (c) Files a Free Application for Federal Student Aid or the state equivalent.
+
+      (4) A person remains eligible to receive a scholarship under this section if the person:
+
+      (a) Remains in good academic standing; and
+
+      (b) Has not received the scholarship for the equivalent of four years of full-time study.
+
+      (5) The commission and division may prioritize a person currently employed in a position in the field of early childhood care or education for receiving a scholarship under this section.
+
+      (6) An institution of higher education may receive a one-time grant under this section to develop high-quality degree programs for early childhood care and education professionals.
+
+      (7) The Early Learning Council and the commission may adopt rules necessary to implement the scholarship program and grant program administered as provided by this section. Rules may provide for the reduction of the costs of the programs in the event amounts requested under the programs exceed amounts available for the programs. [2019 c.646 §5]
+
+ 
+
+      329.183 Prekindergarten Program Trust Fund. (1) The Prekindergarten Program Trust Fund is established as a fund in the State Treasury, separate and distinct from the General Fund. Interest earned by the trust fund shall be credited to the trust fund. The primary purposes of the trust fund are to:
+
+      (a) Assist eligible children with comprehensive services, including educational, social, health and nutritional development, to enhance their chances for success in school and life;
+
+      (b) Provide scholarships awarded to current and prospective early childhood care and education professionals, as described in ORS 329.181; and
+
+      (c) Provide grants to institutions of higher education to develop high-quality degree programs for early childhood care and education professionals, as described in ORS 329.181.
+
+      (2) For the purposes identified in subsection (1) of this section, the trust fund is continuously appropriated to the Early Learning Division.
+
+      (3) The division may solicit and accept money in the form of gifts, contributions and grants to be deposited in the trust fund. Except as provided in ORS 329.185, the acceptance of federal grants for purposes of ORS 329.170 to 329.200 does not commit state funds nor place an obligation upon the Legislative Assembly to continue the purposes for which the federal funds are made available.
+
+      (4) The trust fund may be listed, if otherwise qualified, on the Oregon income tax return for checkoff pursuant to application made to the Oregon Charitable Checkoff Commission under ORS 305.690 to 305.753 by the division. [1995 c.636 §4; 2001 c.831 §17; 2007 c.858 §12; 2013 c.624 §7; 2019 c.646 §6]
 
  
 
@@ -1181,7 +1405,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      329.195 Rules for Oregon prekindergarten program; grant applications. (1)(a) The Early Learning Council, acting as the state advisory council for purposes of the federal Head Start Act, shall adopt rules for the establishment of the Oregon prekindergarten program.
+      329.195 Rules for Oregon prekindergarten program; grant applications. (1)(a) The Early Learning Council shall adopt rules for the establishment of the Oregon prekindergarten program.
 
       (b) Rules adopted under this section specifically shall require:
 
@@ -1195,15 +1419,15 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (d) Notwithstanding paragraph (b) of this subsection, the council may adopt rules that allow for the provision of a half-day program or a full-day program, or a combination thereof, to meet community needs, as determined by the council based on community assessments.
 
-      (2) In developing rules for the Oregon prekindergarten program, the council shall consult with the advisory committee established under ORS 329.190 and shall consider such factors as coordination with existing programs, the preparation necessary for instructors, qualifications of instructors, training of staff, adequate space and equipment and special transportation needs.
+      (2) In developing rules for the Oregon prekindergarten program, the council shall consider such factors as coordination with existing programs, the preparation necessary for instructors, qualifications of instructors, training of staff, adequate space and equipment and special transportation needs.
 
-      (3) The Early Learning Division shall review applications for the Oregon prekindergarten program received and designate those programs as eligible to commence operation by July 1 of each year. When approving grant applications, to the extent practicable, the council shall distribute funds regionally based on percentages of unmet needs for the county or region. [Formerly 326.620; 2001 c.831 §20; 2007 c.858 §14; 2012 c.37 §§18,88; 2013 c.624 §§10,11; 2017 c.140 §2]
+      (3) The Early Learning Division shall review applications for the Oregon prekindergarten program received and designate those programs as eligible to commence operation by July 1 of each year. When approving grant applications, to the extent practicable, the council shall distribute funds regionally based on percentages of unmet needs for the county or region. [Formerly 326.620; 2001 c.831 §20; 2007 c.858 §14; 2012 c.37 §§18,88; 2013 c.624 §§10,11; 2017 c.140 §2; 2019 c.395 §5]
 
  
 
-      329.200 Report on Oregon prekindergarten program by superintendent; assessment of program effectiveness. (1) The Superintendent of Public Instruction shall report to the Legislative Assembly on the merits of continuing and expanding the Oregon prekindergarten program or instituting other means of providing early childhood development assistance.
+      329.200 Report on Oregon prekindergarten program; assessment of program effectiveness. (1) The Early Learning Division shall report to the Legislative Assembly on the merits of continuing and expanding the Oregon prekindergarten program or instituting other means of providing early childhood development assistance.
 
-      (2) The superintendent’s report shall include specific recommendations on at least the following issues:
+      (2) The division’s report shall include specific recommendations on at least the following issues:
 
       (a) The relationship of the state-funded Oregon prekindergarten program with the common school system;
 
@@ -1215,7 +1439,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (e) Licensing or endorsement of early childhood teachers.
 
-      (3) The Early Learning Division shall examine, monitor and assess the effectiveness of the Oregon prekindergarten program. The superintendent shall make biennial reports to the Legislative Assembly on the effectiveness of the program. [Formerly 326.625; 2001 c.831 §21; 2005 c.209 §11; 2007 c.858 §15; 2013 c.624 §12]
+      (3) The division shall examine, monitor and assess the effectiveness of the Oregon prekindergarten program and make biennial reports to the Legislative Assembly on the effectiveness of the program. [Formerly 326.625; 2001 c.831 §21; 2005 c.209 §11; 2007 c.858 §15; 2013 c.624 §12; 2019 c.646 §7]
 
  
 
@@ -1611,7 +1835,13 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
       (A) Beginning in grade five; or
 
-      (B) Beginning after a documented history described in subsection (8)(b) of this section has been established. [2005 c.827 §1; 2007 c.407 §1; 2007 c.660 §12; 2009 c.618 §1; 2011 c.240 §1a; 2011 c.286 §1; 2011 c.313 §7; 2011 c.546 §1; 2013 c.15 §4; 2013 c.64 §1; 2013 c.761 §3; 2014 c.42 §§5,6; 2017 c.433 §1; 2017 c.726 §6]
+      (B) Beginning after a documented history described in subsection (8)(b) of this section has been established.
+
+      (14) A school district or public charter school shall allow a student to participate in the high school graduation ceremony with the class of the student and to wear a dress uniform issued to the student by a branch of the Armed Forces of the United States if the student:
+
+      (a) Qualifies to receive a high school diploma, a modified diploma, an extended diploma or an alternative certificate under this section; and
+
+      (b) Has completed basic training for, and is an active member of, a branch of the Armed Forces of the United States. [2005 c.827 §1; 2007 c.407 §1; 2007 c.660 §12; 2009 c.618 §1; 2011 c.240 §1a; 2011 c.286 §1; 2011 c.313 §7; 2011 c.546 §1; 2013 c.15 §4; 2013 c.64 §1; 2013 c.761 §3; 2014 c.42 §§5,6; 2017 c.433 §1; 2017 c.726 §6; 2019 c.210 §1]
 
  
 
@@ -1949,17 +2179,61 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      Note: Section 3, chapter 632, Oregon Laws 2017, provides:
+      329.494 Instruction about the Holocaust and genocide. (1) School districts must provide instruction about the Holocaust and genocide.
 
-      Sec. 3. Phase-in of implementation of curriculum relating to Native American experience in Oregon. (1) The requirement of section 2 (3) of this 2017 Act [329.493 (3)], relating to the implementation of the curriculum developed under section 2 (1) of this 2017 Act, first applies to the 2019-2020 school year.
+      (2) Instruction required under this section must be designed to:
 
-      (2) The Department of Education shall report on the status of the implementation of section 2 of this 2017 Act to the Commission on Indian Services, the Government to Government Indian Education Cluster and the State Board of Education no later than:
+      (a) Prepare students to confront the immorality of the Holocaust, genocide and other acts of mass violence and to reflect on the causes of related historical events;
 
-      (a) October 15, 2018;
+      (b) Develop students’ respect for cultural diversity and help students gain insight into the importance of the protection of international human rights for all people;
 
-      (b) October 15, 2019; and
+      (c) Promote students’ understanding of how the Holocaust contributed to the need for the term “genocide” and led to international legislation that recognized genocide as a crime;
 
-      (c) October 15, 2020. [2017 c.632 §3]
+      (d) Stimulate students’ reflection on the roles and responsibilities of citizens in democratic societies to combat misinformation, indifference and discrimination through tools of resistance such as protest, reform and celebration;
+
+      (e) Provide students with opportunities to contextualize and analyze patterns of human behavior by individuals and groups who belong in one or more categories, including perpetrator, collaborator, bystander, victim and rescuer;
+
+      (f) Enable students to understand the ramifications of prejudice, racism and stereotyping;
+
+      (g) Preserve the memories of survivors of genocide and provide opportunities for students to discuss and honor survivors’ cultural legacies;
+
+      (h) Provide students with a foundation for examining the history of discrimination in this state; and
+
+      (i) Explore the various mechanisms of transitional and restorative justice that help humanity move forward in the aftermath of genocide.
+
+      (3) The Department of Education shall provide technical assistance to school districts for the purpose of providing instruction required by this section. [2019 c.253 §2]
+
+ 
+
+      Note: 329.494 becomes operative July 1, 2020, and first applies to the 2020-2021 school year. See section 3, chapter 253, Oregon Laws 2019.
+
+ 
+
+      Note: The amendments to 329.494 by section 4, chapter 253, Oregon Laws 2019, become operative September 1, 2025, and first apply to the 2025-2026 school year. See section 5, chapter 253, Oregon Laws 2019. The text that is operative on and after September 1, 2025, is set forth for the user’s convenience.
+
+      329.494. (1) The State Board of Education, in consultation with a local organization that has the primary purpose of providing education about the Holocaust, shall develop academic content standards for Holocaust and genocide studies that comply with the requirements of this section. School districts must provide instruction on the Holocaust and genocide based on standards adopted by the board under this section.
+
+      (2) Instruction required under this section must be designed to:
+
+      (a) Prepare students to confront the immorality of the Holocaust, genocide and other acts of mass violence and to reflect on the causes of related historical events;
+
+      (b) Develop students’ respect for cultural diversity and help students gain insight into the importance of the protection of international human rights for all people;
+
+      (c) Promote students’ understanding of how the Holocaust contributed to the need for the term “genocide” and led to international legislation that recognized genocide as a crime;
+
+      (d) Stimulate students’ reflection on the roles and responsibilities of citizens in democratic societies to combat misinformation, indifference and discrimination through tools of resistance such as protest, reform and celebration;
+
+      (e) Provide students with opportunities to contextualize and analyze patterns of human behavior by individuals and groups who belong in one or more categories, including perpetrator, collaborator, bystander, victim and rescuer;
+
+      (f) Enable students to understand the ramifications of prejudice, racism and stereotyping;
+
+      (g) Preserve the memories of survivors of genocide and provide opportunities for students to discuss and honor survivors’ cultural legacies;
+
+      (h) Provide students with a foundation for examining the history of discrimination in this state; and
+
+      (i) Explore the various mechanisms of transitional and restorative justice that help humanity move forward in the aftermath of genocide.
+
+      (3) The Department of Education shall provide technical assistance to school districts for the purpose of providing instruction required by this section.
 
  
 
@@ -2023,7 +2297,7 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
 
  
 
-      Note: Sections 2, 3, 5, and 7, chapter 301, Oregon Laws 2017, provide:
+      Note: Sections 2 and 3, chapter 301, Oregon Laws 2017, provide:
 
       Sec. 2. Phase-in of time requirements. (1) Except as provided by subsections (2) and (3) of this section and only for school years prior to the 2022-2023 school year, a school district may not be considered nonstandard under ORS 327.103 and moneys may not be withheld or any other penalty or sanctions imposed on a school district that does not comply with the time requirements established by ORS 329.496 (2).
 
@@ -2048,24 +2322,6 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
       (c) Cease to comply with the time requirements provided by this section if the conditions described in ORS 329.496 (2)(d) are satisfied. [2017 c.301 §2]
 
       Sec. 3. Repeal. Section 2 of this 2017 Act is repealed on July 1, 2022. [2017 c.301 §3]
-
-      Sec. 5. Recommendations for implementation of time requirements for students in grades six through eight. (1) The Department of Education shall develop recommendations for implementing the provisions of ORS 329.496 (2)(b).
-
-      (2) For the purpose of developing the recommendations, the department shall collaborate with advocates for physical education, representatives of school districts, educators and other interested stakeholders. Collaboration may be in person, electronically, or a combination of both.
-
-      (3) When developing the recommendations, the department shall consider:
-
-      (a) Best practices for providing physical education to students in grades six through eight and balance those best practices with resources available for providing physical education to students in grades six through eight, including scheduling issues, facility availability, costs for adding or upgrading facilities, moneys available for adding or upgrading facilities, the availability and costs of licensed physical education teachers and any other issues identified by the entities identified in subsection (2) of this section.
-
-      (b) All options for implementing the requirements of ORS 329.496 (2)(b) and other alternatives to the requirements of ORS 329.496 (2)(b) that are available for providing physical education to students in grades six through eight.
-
-      (4) All agencies of state government, as defined in ORS 174.111, and school districts are directed to assist the department in the performance of the department’s duties under this section and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the department considers necessary to perform its duties.
-
-      (5) The department may accept donations of time and money for the purpose of fulfilling the duties of the department under this section.
-
-      (6) The department shall submit any recommendations for legislation to the interim committees of the Legislative Assembly related to education no later than November 15, 2018. [2017 c.301 §5]
-
-      Sec. 7. Repeal. Section 5 of this 2017 Act is repealed on December 31, 2018. [2017 c.301 §7]
 
  
 
@@ -2204,6 +2460,28 @@ OREGON EDUCATIONAL ACT FOR THE 21st CENTURY
  
 
       329.600 [Formerly 336.565; 1997 c.864 §23; repealed by 2007 c.858 §40]
+
+ 
+
+(Counseling Program)
+
+ 
+
+      329.603 Coordinated comprehensive school counseling program; rules. (1) Each school district must provide a coordinated comprehensive school counseling program to support the academic, career, personal and social development of each student and to develop the sense of community involvement for each student.
+
+      (2) A coordinated comprehensive program may be designed, delivered or otherwise implemented by:
+
+      (a) A person who is licensed by the Teacher Standards and Practices Commission as a school counselor;
+
+      (b) A person who is licensed by the commission as a school social worker; or
+
+      (c) Any combination of persons qualified to implement the program, as determined under rules adopted by the State Board of Education.
+
+      (3) Nothing in this section may be construed to allow a person, including but not limited to a licensed school social worker:
+
+      (a) Who is licensed by the commission to practice outside of the scope of the person’s license; or
+
+      (b) To practice within the scope of a license not held by that person. [2019 c.308 §2]
 
  
 
@@ -2419,7 +2697,7 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
 
       (1) “Beginning administrator” means a principal or superintendent who:
 
-      (a) Possesses a preliminary administrative license issued by the Teacher Standards and Practices Commission;
+      (a) Possesses an administrative license issued by the Teacher Standards and Practices Commission;
 
       (b) Is employed as a principal or superintendent by a school district; and
 
@@ -2427,7 +2705,7 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
 
       (2) “Beginning teacher” means a teacher who:
 
-      (a) Possesses a preliminary teaching license or reciprocal license issued by the Teacher Standards and Practices Commission;
+      (a) Possesses a teaching license issued by the Teacher Standards and Practices Commission;
 
       (b) Is employed at least half-time, primarily as a classroom teacher, by a school district; and
 
@@ -2447,43 +2725,7 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
 
       (e) Has been selected and trained as described in ORS 329.815.
 
-      (5) “Mentorship program” means a program provided by a mentor to a beginning teacher or administrator that includes, but is not limited to, direct classroom observation and consultation, assistance in instructional planning and preparation, support in implementation and delivery of classroom instruction, development of school leadership skills and other assistance intended to assist the beginning teacher or administrator to become a confident and competent professional educator who makes a positive impact on student learning. [Formerly 329.675; 2015 c.647 §1; 2017 c.639 §§6,11]
-
- 
-
-      Note: The amendments to 329.788 by section 11, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, including amendments by section 6, chapter 639, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      329.788. As used in ORS 329.788 to 329.820:
-
-      (1) “Beginning administrator” means a principal or superintendent who:
-
-      (a) Possesses a preliminary administrative license issued by the Teacher Standards and Practices Commission;
-
-      (b) Is employed as a principal or superintendent by a school district; and
-
-      (c) Has been assigned for fewer than two school years in the administrator’s present position.
-
-      (2) “Beginning teacher” means a teacher who:
-
-      (a) Possesses a preliminary teaching license or reciprocal license issued by the Teacher Standards and Practices Commission;
-
-      (b) Is employed at least half-time, primarily as a classroom teacher, by a school district; and
-
-      (c) Has taught fewer than two school years as a licensed probationary teacher in any public, private or state-operated school in any state.
-
-      (3) “Mentor” means an individual who:
-
-      (a) Is an acting or retired teacher, principal or superintendent;
-
-      (b) Has met established best practice and research-based criteria as defined by the State Board of Education by rule;
-
-      (c) Possesses a teaching or administrative license issued by the Teacher Standards and Practices Commission;
-
-      (d) Has successfully served for five or more years as a licensed teacher, principal or superintendent in any public school; and
-
-      (e) Has been selected and trained as described in ORS 329.815.
-
-      (4) “Mentorship program” means a program provided by a mentor to a beginning teacher or administrator that includes, but is not limited to, direct classroom observation and consultation, assistance in instructional planning and preparation, support in implementation and delivery of classroom instruction, development of school leadership skills and other assistance intended to assist the beginning teacher or administrator to become a confident and competent professional educator who makes a positive impact on student learning.
+      (5) “Mentorship program” means a program provided by a mentor to a beginning teacher or administrator that includes, but is not limited to, direct classroom observation and consultation, assistance in instructional planning and preparation, support in implementation and delivery of classroom instruction, development of school leadership skills and other assistance intended to assist the beginning teacher or administrator to become a confident and competent professional educator who makes a positive impact on student learning. [Formerly 329.675; 2015 c.647 §1; 2017 c.639 §§6,11; 2018 c.72 §§32,33]
 
  
 
@@ -2517,22 +2759,6 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
 
  
 
-      Note: The amendments to 329.795 by section 12, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, is set forth for the user’s convenience.
-
-      329.795. (1) The State Board of Education shall establish a beginning teacher and administrator mentorship program to provide eligible beginning teachers and administrators in this state with a continued and sustained mentorship program from a formally assigned mentor.
-
-      (2) Any district is eligible to participate in the mentorship program.
-
-      (3) A school district may enter into a partnership with another school district, an institution of higher education, an education service district or another organization to operate jointly a mentorship program if:
-
-      (a) All moneys received as grants-in-aid for the mentorship program are administered by the participating school district to provide direct services to beginning teachers and administrators; and
-
-      (b) All other requirements of ORS 329.788 to 329.820 are met.
-
-      (4) All programs in ORS 329.788 to 329.820 are subject to the availability of funds appropriated therefor.
-
- 
-
       329.800 Application; content. (1) Each school district or educator network that wishes to participate in the beginning teacher and administrator mentorship program shall submit a formal application to the Department of Education. The application shall include:
 
       (a) A description of the priorities to be addressed by moneys received by a school district or an educator network for the mentorship program, as described in ORS 329.805 (2);
@@ -2542,20 +2768,6 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
       (c) A description of the proposed mentorship program, which must provide at least 75-90 hours of frequent contact between the mentors and beginning teachers and administrators throughout the school year.
 
       (2) The school district or educator network shall certify in the application that no eligible beginning professional educators are or may be under a conditional license, except as provided in rules of the Teacher Standards and Practices Commission. [Formerly 342.788; 2001 c.317 §6; 2007 c.863 §4; 2015 c.487 §5; 2017 c.639 §13]
-
- 
-
-      Note: The amendments to 329.800 by section 13, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, is set forth for the user’s convenience.
-
-      329.800. (1) Each school district that wishes to participate in the beginning teacher and administrator mentorship program shall submit a formal application to the Department of Education. The application shall include:
-
-      (a) A description of the priorities to be addressed by moneys received by a school district for the mentorship program, as described in ORS 329.805 (2);
-
-      (b) The names of all eligible beginning teachers and administrators employed by the school district and a description of their assignments; and
-
-      (c) A description of the proposed mentorship program, which must provide at least 75-90 hours of frequent contact between the mentors and beginning teachers and administrators throughout the school year.
-
-      (2) The school district shall certify in the application that no eligible beginning professional educators are or may be under a conditional license, except as provided in rules of the Teacher Standards and Practices Commission.
 
  
 
@@ -2574,26 +2786,6 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
       (3) The State Board of Education may adopt such rules as it considers appropriate for the distribution of grants-in-aid under this section.
 
       (4) A school district or an educator network that is determined by the Department of Education to be in violation of one or more of the requirements of ORS 329.788 to 329.820 may be required to refund all grants-in-aid moneys distributed under ORS 329.788 to 329.820. The amount of penalty shall be determined by the State Board of Education. [Formerly 342.790; 2001 c.317 §7; 2007 c.863 §5; 2013 c.521 §1; 2015 c.487 §4; 2017 c.639 §14]
-
- 
-
-      Note: The amendments to 329.805 by section 14, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, is set forth for the user’s convenience.
-
-      329.805. (1) Subject to ORS 291.232 to 291.260, the Department of Education shall distribute grants-in-aid to qualifying school districts to offset the costs of beginning teacher and administrator mentorship programs. A qualifying district shall receive annually an amount that is aligned with evidence-based best practices.
-
-      (2) If the funds are insufficient for all eligible proposals, the Department of Education shall award grants on a competitive basis, taking into consideration:
-
-      (a) The priorities to be addressed by moneys received by a school district, including efforts related to:
-
-      (A) Increasing the number of culturally and linguistically diverse educators hired; and
-
-      (B) Reflecting the demographics of the students of the school district with the demographics of the educators of the school district; and
-
-      (b) Whether the school district is a small school district or serves a rural community.
-
-      (3) The State Board of Education may adopt such rules as it considers appropriate for the distribution of grants-in-aid under this section.
-
-      (4) A district that is determined by the Department of Education to be in violation of one or more of the requirements of ORS 329.788 to 329.820 may be required to refund all grants-in-aid moneys distributed under ORS 329.788 to 329.820. The amount of penalty shall be determined by the State Board of Education.
 
  
 
@@ -2627,24 +2819,6 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
 
  
 
-      Note: The amendments to 329.815 by section 15, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, is set forth for the user’s convenience.
-
-      329.815. (1) Based on the requirements of ORS 329.788 to 329.820, the selection, nature and extent of duties of mentors shall be determined by the school district.
-
-      (2) A teacher, principal or superintendent may not be designated as a mentor unless willing to perform in that role.
-
-      (3) For purposes of actions taken under ORS 342.805 to 342.937:
-
-      (a) A mentor may not participate in the evaluation of a beginning teacher or administrator assigned to the mentor; and
-
-      (b) Any written or other reports of a mentor regarding a beginning teacher or administrator assigned to the mentor may not be used in the evaluation of the beginning teacher or administrator.
-
-      (4) Each mentor shall complete successfully training provided or approved by the Department of Education while participating in the beginning teacher and administrator mentorship program.
-
-      (5) The stipend received for each beginning teacher or administrator may be used by the school district to compensate mentors or to compensate other individuals assigned duties to provide release time for teachers, principals or superintendents acting as mentors.
-
- 
-
       329.820 Evaluation of programs; donations. (1) The Department of Education shall be responsible for the regular and ongoing evaluation of implementation and administration of programs under ORS 329.788 to 329.820 and may contract for such evaluation. The department may not expend in a biennium more than 2.5 percent of the total amount of moneys available for the programs on the evaluation of the programs. The evaluation may include assessments of the following:
 
       (a) The effectiveness of the mentorship program in the retention of beginning teachers and administrators in a school district that has participated in the program and in the profession; and
@@ -2652,18 +2826,6 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
       (b) Student performance on statewide and other assessments.
 
       (2) The department may accept contributions of moneys and assistance for the purpose of the evaluation of programs from any source, public or private, and agree to conditions placed on the moneys not inconsistent with ORS 329.788 to 329.820. All moneys received by the department under this subsection shall be deposited into the Department of Education Account to be used for the evaluation of programs conducted under this section. [Formerly 342.796; 2001 c.317 §10; 2007 c.863 §8; 2015 c.487 §6; 2017 c.639 §16]
-
- 
-
-      Note: The amendments to 329.820 by section 16, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, is set forth for the user’s convenience.
-
-      329.820. (1) The Department of Education shall be responsible for the regular and ongoing evaluation of implementation and administration of programs under ORS 329.788 to 329.820 and may contract for such evaluation. The department may not expend in a biennium more than 2.5 percent of the total amount of moneys available for the programs on the evaluation of the programs. The evaluation may include assessments of the following:
-
-      (a) The effectiveness of the mentorship program in the retention of beginning teachers and administrators in the school district and in the profession; and
-
-      (b) Student performance on statewide and other assessments.
-
-      (2) The department may accept contributions of moneys and assistance for the purpose of the evaluation of programs from any source, public or private, and agree to conditions placed on the moneys not inconsistent with ORS 329.788 to 329.820. All moneys received by the department under this subsection shall be deposited into the Department of Education Account to be used for the evaluation of programs conducted under this section.
 
  
 
@@ -2708,8 +2870,6 @@ PROFESSIONAL DEVELOPMENT OF EDUCATORS
  
 
 IMPROVEMENTS IN STUDENT ACHIEVEMENT
-
- 
 
 (Successful Schools Program)
 
@@ -2903,86 +3063,6 @@ IMPROVEMENTS IN STUDENT ACHIEVEMENT
 
  
 
-      Note: The amendments to 329.838 by section 17, chapter 639, Oregon Laws 2017, become operative June 30, 2018. See section 18, chapter 639, Oregon Laws 2017. The text that is operative until June 30, 2018, is set forth for the user’s convenience.
-
-      329.838. (1) The School District Collaboration Grant Program is established to provide funding for school districts to improve student achievement through the voluntary collaboration of teachers and administrators to design and implement new approaches to:
-
-      (a) Career pathways for teachers and administrators;
-
-      (b) Evaluation processes for teachers and administrators;
-
-      (c) Compensation models for teachers and administrators; and
-
-      (d) Enhanced professional development opportunities for teachers and administrators.
-
-      (2)(a) The Department of Education shall ensure that the grant program established by this section is administered and may provide technical expertise to school districts applying for or receiving a grant under this section.
-
-      (b) For the purpose of ensuring that the grant program is administered, the department may directly administer the grant program or may enter into a contract with a nonprofit entity to administer the grant program.
-
-      (c) For the purpose of providing technical expertise, the department may enter into contracts with nonprofit entities that have experience in designing and implementing approaches that are similar to the approaches described in subsection (1) of this section.
-
-      (3) Each school district may apply for a grant under this section. Applications may be for the design or for the implementation of an approach identified in subsection (1) of this section.
-
-      (4) Prior to applying for a grant, the school district must receive the approval to apply for the grant from:
-
-      (a) The exclusive bargaining representative for the teachers of the school district or, if the teachers are not represented by an exclusive bargaining representative, from the teachers of the school district;
-
-      (b) The chairperson of the school district board; and
-
-      (c) The superintendent of the school district.
-
-      (5) Funding for the grant program established by this section shall be provided through the School District Collaboration Grant Account established by ORS 329.839.
-
-      (6) The amount of each grant shall be determined as follows:
-
-      (a) For grants that are for the design of an approach identified in subsection (1) of this section, the amount determined by the administrator of the grant program based on:
-
-      (A) The application submitted by the school district;
-
-      (B) The portion of the total funds available for grants that are for the design of an approach; and
-
-      (C) Any other criteria or limitations established by the State Board of Education by rule, which may include a minimum amount or a maximum amount for a grant.
-
-      (b)(A) For grants that are for the implementation of an approach identified in subsection (1) of this section, the Grant Amount = School district ADMw ´ (the total amount available for distribution for an implementation grant in a fiscal year through the School District Collaboration Grant Program :SPLIT the total ADMw of the school districts that receive an implementation grant for the fiscal year through the School District Collaboration Grant Program). For the purpose of the calculation made under this paragraph, ADMw shall be calculated as provided by ORS 327.013, 338.155 (1) and 338.165 (2).
-
-      (B) Notwithstanding subparagraph (A) of this paragraph, a school district may receive a grant for an amount that is 10 percent more than the amount calculated under subparagraph (A) of this paragraph if the grant program administrator approves a school district’s supplemental plan to design and implement new approaches to improve student achievement that are in addition to the approaches identified in subsection (1) of this section and that are research-based best practices.
-
-      (C) In addition to any amounts received under subparagraphs (A) and (B) of this paragraph, a school district that has an average daily membership of less than 1,500 may receive a supplemental amount of up to $50,000 if:
-
-      (i) The supplemental amount is used for expenses incurred in relation to a grant manager who:
-
-      (I) Manages the use of a grant received under this paragraph;
-
-      (II) Supports the school district’s committees related to the grant;
-
-      (III) Monitors and measures the implementation of new approaches funded by the grant;
-
-      (IV) Ensures timely and accurate communications with educators in the school district;
-
-      (V) Completes all Department of Education requirements related to the grant; and
-
-      (VI) Attends meetings and collaborates with other school districts; and
-
-      (ii) The total of the implementation grant and the supplemental amount does not exceed $150,000.
-
-      (7) Grants shall be awarded based on:
-
-      (a) The application submitted by the school district;
-
-      (b) Other funds received by a school district for a purpose identified in subsection (1) of this section; and
-
-      (c) Any other criteria established by the State Board of Education by rule.
-
-      (8) Moneys received by a school district under this section must be separately accounted for and may be used only to provide funding for the purposes described in the application submitted by the school district.
-
-      (9) The department shall accumulate, evaluate and publish student achievement results of school districts receiving grants under this section to determine the effectiveness of the approaches designed and implemented by the school districts under the grant program.
-
-      (10)(a) Except as provided by paragraph (b) of this subsection, the State Board of Education may adopt any rules necessary for the implementation of the grant program established by this section.
-
-      (b) The board may not adopt any rules that establish statewide standards for the design and implementation of the approaches described in subsection (1) of this section.
-
- 
-
       329.839 School District Collaboration Grant Account. The School District Collaboration Grant Account is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the School District Collaboration Grant Account shall be credited to the account. Moneys in the School District Collaboration Grant Account are continuously appropriated to the Department of Education for the School District Collaboration Grant Program established by ORS 329.838. [2011 c.706 §3]
 
  
@@ -2991,11 +3071,11 @@ IMPROVEMENTS IN STUDENT ACHIEVEMENT
 
  
 
-(Education Plan)
+(Statewide Education Plans)
 
  
 
-      329.841 Culturally specific statewide education plan; advisory group; report; grants; rules. (1) For the purposes of this section, “plan student” means a student enrolled in early childhood through post-secondary education who:
+      329.841 Statewide education plan for students who are black or African-American or who are members of student group not covered by existing culturally specific plan; advisory group; report; grants; rules. (1) For the purposes of this section, “plan student” means a student enrolled in early childhood through post-secondary education who:
 
       (a) Is black or African-American or a member of a student group that is not covered under an existing culturally specific statewide education plan; and
 
@@ -3054,6 +3134,156 @@ IMPROVEMENTS IN STUDENT ACHIEVEMENT
  
 
       329.842 [2005 c.834 §3; renumbered 336.856 in 2015]
+
+ 
+
+      329.843 Statewide education plan for students who are American Indian or Alaskan Native; advisory group; report; grants; rules. (1) As used in this section, “plan student” means a student enrolled in early childhood through post-secondary education who:
+
+      (a) Is an American Indian or Alaskan Native; and
+
+      (b) Has experienced disproportionate results in education due to historical practices, as identified by the State Board of Education by rule.
+
+      (2)(a) The Department of Education shall develop and implement a statewide education plan for plan students.
+
+      (b) When developing the plan, the department shall consult with representatives from tribal governments and from executive branch agencies who have formed government-to-government relations to focus on education. Additionally, the department may receive input from an advisory group consisting of community members, education stakeholders and representatives of the Early Learning Division, the Youth Development Division and the Higher Education Coordinating Commission.
+
+      (c) The department shall be responsible for:
+
+      (A) Implementing the plan developed under this subsection;
+
+      (B) Developing eligibility criteria, the applicant selection process and expectations for recipients of grant awards described in this section; and
+
+      (C) Advising the State Board of Education on the adoption of rules under this section.
+
+      (3) The plan developed under this section must address:
+
+      (a) The disparities experienced by plan students in every indicator of academic success, as documented by the department’s statewide report card and other relevant reports related to plan students;
+
+      (b) The historical practices leading to disproportionate outcomes for plan students; and
+
+      (c) The educational needs of plan students from early childhood through post-secondary education as determined by examining culturally appropriate best practices in this state and across the nation.
+
+      (4) The plan developed and implemented under this section must provide strategies to:
+
+      (a) Address the disproportionate rate of disciplinary incidents involving plan students as compared to all students in the education system;
+
+      (b) Increase parental engagement in the education of plan students;
+
+      (c) Increase the engagement of plan students in educational activities before and after regular school hours;
+
+      (d) Increase early childhood education and kindergarten readiness for plan students;
+
+      (e) Improve literacy and numeracy levels among plan students between kindergarten and grade three;
+
+      (f) Support plan student transitions to middle school and through the middle school and high school grades to maintain and improve academic performance;
+
+      (g) Support culturally responsive pedagogy and practices from early childhood through post-secondary education;
+
+      (h) Support the development of culturally responsive curricula from early childhood through post-secondary education;
+
+      (i) Increase attendance of plan students in early childhood programs through post-secondary and professional certification programs; and
+
+      (j) Increase attendance of plan students in four-year post-secondary institutions of education.
+
+      (5) The department shall submit a biennial report concerning the progress of the plan developed and implemented under this section to a committee of the Legislative Assembly related to education at each even-numbered year regular session of the Legislative Assembly.
+
+      (6) The department, in consultation with the advisory group, shall award grants to early learning hubs, providers of early learning services, school districts, education service districts, post-secondary institutions of education, tribal governments and community-based organizations to implement the strategies provided in the plan developed and implemented under this section.
+
+      (7) To qualify for and receive grants described in this section, an applicant must identify and demonstrate that the applicant meets the eligibility criteria adopted by the State Board of Education by rule. [2019 c.122 §38]
+
+ 
+
+      Note: Section 40, chapter 122, Oregon Laws 2019, provides:
+
+      Sec. 40. The Department of Education shall submit a report concerning the development of the statewide education plans under sections 38 [329.843] and 39 [329.845] of this 2019 Act to an interim committee of the Legislative Assembly related to education no later than January 1, 2021. [2019 c.122 §40]
+
+ 
+
+      Note: 329.843 and 329.845 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 329 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      329.845 Statewide education plan for students who are Latino or Hispanic; advisory group; report; grants; rules. (1) As used in this section, “plan student” means a student enrolled in early childhood through post-secondary education who:
+
+      (a) Is Latino or Hispanic, including individuals of Mexican, Cuban, Puerto Rican, South American, Central American or Spanish descent; and
+
+      (b) Has experienced disproportionate results in education due to historical practices, as identified by the State Board of Education by rule.
+
+      (2)(a) The Department of Education shall develop and implement a statewide education plan for plan students.
+
+      (b) The department shall form an advisory group consisting of individuals representing:
+
+      (A) Urban and rural communities;
+
+      (B) Indigenous and immigrant populations;
+
+      (C) English language learners;
+
+      (D) Individuals with disabilities;
+
+      (E) Parents and students;
+
+      (F) Youth who are lesbian, gay, bisexual, transgender, queer or another minority gender or sexual orientation;
+
+      (G) Community-based organizations serving Latino or Hispanic youth and families; and
+
+      (H) Education stakeholders, including representatives of the Early Learning Division, the Youth Development Division and the Higher Education Coordinating Commission.
+
+      (c) The advisory group formed as provided in paragraph (b) of this subsection shall advise the department regarding:
+
+      (A) Development and implementation of the plan;
+
+      (B) Eligibility criteria, applicant selection processes and expectations for recipients of grant awards described in this section; and
+
+      (C) Adoption of rules by the State Board of Education for the implementation of the plan.
+
+      (3) The plan developed under this section must address:
+
+      (a) The disparities experienced by plan students in every indicator of academic success, as documented by the department’s statewide report card and other relevant reports related to plan students;
+
+      (b) The historical practices leading to disproportionate outcomes for plan students; and
+
+      (c) The educational needs of plan students from early childhood through post-secondary education as determined by examining culturally appropriate best practices in this state and across the nation.
+
+      (4) The plan developed and implemented under this section must provide strategies to:
+
+      (a) Address the disproportionate rate of disciplinary incidents involving plan students compared to all students in the education system;
+
+      (b) Increase parental engagement in the education of plan students;
+
+      (c) Increase the engagement of plan students in educational activities before and after regular school hours;
+
+      (d) Increase early childhood education and kindergarten readiness for plan students;
+
+      (e) Improve literacy and numeracy levels among plan students between kindergarten and grade three;
+
+      (f) Support plan student transitions to middle school and through the middle school and high school grades to maintain and improve academic performance;
+
+      (g) Support culturally responsive pedagogy and practices from early childhood through post-secondary education;
+
+      (h) Support the development of culturally responsive curricula from early childhood through post-secondary education;
+
+      (i) Increase attendance of plan students in community colleges and professional certification programs; and
+
+      (j) Increase attendance of plan students in four-year post-secondary institutions of education.
+
+      (5) The department shall submit a biennial report concerning the progress of the plan developed and implemented under this section to a committee of the Legislative Assembly related to education at each even-numbered year regular session of the Legislative Assembly.
+
+      (6) The department, in consultation with the advisory group, shall award grants to early learning hubs, providers of early learning services, school districts, post-secondary institutions of education and community-based organizations to implement the strategies provided in the plan developed and implemented under this section.
+
+      (7) To qualify for and receive a grant described in this section, an applicant must identify and demonstrate that the applicant meets the eligibility criteria established by the State Board of Education by rule. [2019 c.122 §39]
+
+ 
+
+      Note: Section 41, chapter 122, Oregon Laws 2019, provides:
+
+      Sec. 41. Notwithstanding section 39 of this 2019 Act [329.845], the Department of Education may not do any of the following prior to July 1, 2020:
+
+      (1) Implement the statewide education plans developed under section 39 of this 2019 Act, including awarding any grants to implement the plans; or
+
+      (2) Make any expenditures from any appropriations made to the department for the implementation of the plans developed under section 39 of this 2019 Act. [2019 c.122 §41]
+
+Note: See notes under 329.843.
 
  
 

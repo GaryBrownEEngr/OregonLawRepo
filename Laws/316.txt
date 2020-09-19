@@ -4,16 +4,6 @@ Chapter 316 — Personal Income Tax
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session and 2018 special session. See the tables of ORS sections amended or repealed during the 2018 regular and special sessions: 2018 A&R Tables; 2018 Special Session A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0052; 2018 Session Laws 0108; 2018 Session Laws 0109
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and 2018 special session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters and 2018 Oregon Laws (special session) chapter: 2018 Session Laws 0052; 2018 Session Laws 0057; 2018 Session Laws 0108; 2018 Session Laws 0109; 2018 Special Session Laws 0001
-
 
  
 
@@ -63,6 +53,10 @@ GENERAL PROVISIONS
 
  
 
+316.026     Charitable contributions or activities not to be used for domicile or resident status determination
+
+ 
+
 316.027     “Resident” defined
 
  
@@ -87,7 +81,7 @@ GENERAL PROVISIONS
 
  
 
-316.043     Tax rates allowed for certain nonpassive income; conditions; election
+316.043     Tax rates allowed for certain qualifying income; conditions; election
 
  
 
@@ -189,8 +183,6 @@ TAXATION OF NONRESIDENTS
 
 316.130     Determination of taxable income of full-year nonresident
 
- 
-
 316.131     Credit allowed to nonresident for taxes paid to state of residence; exception
 
  
@@ -263,15 +255,15 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-316.172     Tax withholding tables to be prepared by department
+316.172     Department to provide deduction and withholding information and determine amount, form and manner of withholding by employers
 
  
 
-316.177     Reliance on withholding statement; penalty for statement without reasonable basis
+316.177     Reliance on withholding statement or exemption certificate; penalty for statement without reasonable basis
 
  
 
-316.182     Exemption certificate
+316.182     Withholding statement or exemption certificate; default withholding rate
 
  
 
@@ -307,7 +299,7 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-316.202     Reports by employer; waiver; penalty for failure to substantiate report; rules
+316.202     Reports by employer; waiver; indication of qualified retirement plan offer; penalty for failure to substantiate report; rules
 
  
 
@@ -319,7 +311,7 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-316.212     Application of penalties, misdemeanors and jeopardy assessment; employer as taxpayer
+316.212     Applicability of other provisions of tax law; employer as taxpayer
 
  
 
@@ -510,6 +502,8 @@ DISTRIBUTION OF REVENUE
 316.502     Distribution of revenue to General Fund; working balance; refundable credit payments
 
  
+
+Note          Transfer of excess capital gains revenue above forecast--2018 c.105 §§13,14
 
 PAYMENT OF ESTIMATED TAXES
 
@@ -703,6 +697,34 @@ MODIFICATIONS OF TAXABLE INCOME
 
  
 
+(First-time Home Buyer Savings Accounts)
+
+ 
+
+316.796     Definitions
+
+ 
+
+316.797     First-time home buyer savings account; restrictions
+
+ 
+
+316.798     Subtraction for contributions; exemption for earnings; limitations
+
+ 
+
+316.800     Limits phased out based on income applicable to subtraction or exemption
+
+ 
+
+316.801     Addition for certain amounts withdrawn; penalty; exceptions
+
+ 
+
+316.803     Obligations of financial institution; provision of certificates to account holders
+
+ 
+
 (Additional Modifications of Taxable Income)
 
  
@@ -763,7 +785,15 @@ MODIFICATIONS OF TAXABLE INCOME
 
  
 
+316.853     Addition for amount deducted as deemed repatriation
+
+ 
+
 316.856     Severance pay; rules
+
+ 
+
+316.859     Addition for amount deducted as qualified business income from pass-through entity
 
  
 
@@ -776,6 +806,8 @@ PENALTIES
  
 
 316.992     Penalty for filing incorrect return that is based on frivolous position or is intended to delay or impede administration; appeal
+
+ 
 
  
 
@@ -843,9 +875,9 @@ GENERAL PROVISIONS
 
       316.012 Terms have same meaning as in federal laws; federal law references. Any term used in this chapter has the same meaning as when used in a comparable context in the laws of the United States relating to federal income taxes, unless a different meaning is clearly required or the term is specifically defined in this chapter. Except where the Legislative Assembly has provided otherwise, any reference in this chapter to the laws of the United States or to the Internal Revenue Code refers to the laws of the United States or to the Internal Revenue Code as they are amended and in effect:
 
-      (1) On December 31, 2016; or
+      (1) On December 31, 2018; or
 
-      (2) If related to the definition of taxable income, as applicable to the tax year of the taxpayer. [1969 c.493 §3; 1971 s.s. c.4 §2; 1975 c.672 §3; 1983 c.162 §59; 1985 c.802 §1; 1987 c.293 §2; 1989 c.625 §2; 1991 c.457 §1; 1993 c.726 §27; 1995 c.556 §1; 1997 c.839 §1; 1999 c.224 §7; 2001 c.660 §35; 2003 c.77 §14; 2005 c.519 §9; 2005 c.832 §27; 2007 c.614 §12; 2008 c.45 §13; 2009 c.5 §23; 2009 c.909 §§24,25; 2010 c.82 §§24,25; 2011 c.7 §23; 2012 c.31 §22; 2013 c.377 §22; 2014 c.52 §24; 2015 c.442 §16; 2016 c.33 §19; 2017 c.527 §20]
+      (2) If related to the definition of taxable income, as applicable to the tax year of the taxpayer. [1969 c.493 §3; 1971 s.s. c.4 §2; 1975 c.672 §3; 1983 c.162 §59; 1985 c.802 §1; 1987 c.293 §2; 1989 c.625 §2; 1991 c.457 §1; 1993 c.726 §27; 1995 c.556 §1; 1997 c.839 §1; 1999 c.224 §7; 2001 c.660 §35; 2003 c.77 §14; 2005 c.519 §9; 2005 c.832 §27; 2007 c.614 §12; 2008 c.45 §13; 2009 c.5 §23; 2009 c.909 §§24,25; 2010 c.82 §§24,25; 2011 c.7 §23; 2012 c.31 §22; 2013 c.377 §22; 2014 c.52 §24; 2015 c.442 §16; 2016 c.33 §19; 2017 c.527 §20; 2018 c.101 §20; 2019 c.319 §20]
 
  
 
@@ -915,6 +947,10 @@ GENERAL PROVISIONS
 
  
 
+      316.026 Charitable contributions or activities not to be used for domicile or resident status determination. The Department of Revenue may not use the charitable contributions or activities of an individual or the individual’s spouse, whether performed inside or outside this state, for the purposes of determining the individual’s domicile or resident status under this chapter. [2018 c.52 §2]
+
+ 
+
       316.027 “Resident” defined. (1) For purposes of this chapter, unless the context requires otherwise:
 
       (a) “Resident” or “resident of this state” means:
@@ -949,8 +985,6 @@ GENERAL PROVISIONS
 
       (3) If any provision in ORS 316.047 or 316.127 appears to require an adjustment to a net operating loss, net operating loss carryback or net operating loss carryforward contrary to the provisions of this section, that adjustment shall not be made. [Formerly 316.014]
 
- 
-
       316.029 Disallowance of subtraction for amounts included in calculation of net operating loss. Notwithstanding ORS 316.739, a subtraction from federal taxable income is not allowed for amounts included in the calculation of an Oregon net operating loss under ORS 316.028. [2011 c.685 §2]
 
  
@@ -981,45 +1015,63 @@ ______________________________________________________________________________
 
  
 
-If taxable income is:          The tax is:
+If taxable income is:    The tax is:
 
  
 
  
 
-Not over $2,000                5% of
+Not over $2,000          4.75% of
 
-                                                taxable
+ 
 
-                                                income
+      taxable
+
+      income
 
  
 
 Over $2,000 but not
 
-      over $5,000                 $100 plus 7%
+ 
 
-                                                of the excess
+      over $5,000           $95 plus 6.75%
 
-                                                over $2,000
+ 
+
+      of the excess
+
+      over $2,000
+
+ 
 
  
 
 Over $5,000 but not
 
-      over $125,000             $310 plus 9%
+ 
 
-                                                of the excess
-
-                                                over $5,000
+      over $125,000       $298 plus 8.75%
 
  
 
-Over $125,000                  $11,110 plus 9.9%
+      of the excess
 
-                                                of the excess
+      over $5,000
 
-                                                over $125,000
+ 
+
+ 
+
+Over $125,000            $10,798 plus 9.9%
+
+ 
+
+      of the excess
+
+      over $125,000
+
+ 
 
 ______________________________________________________________________________
 
@@ -1027,7 +1079,7 @@ ______________________________________________________________________________
 
       (A) Except as provided in subparagraph (D) of this paragraph, the minimum and maximum dollar amounts for each bracket for which a tax is imposed shall be increased by the cost-of-living adjustment for the calendar year.
 
-      (B) The rate applicable to any rate bracket as adjusted under subparagraph (A) of this paragraph shall not be changed.
+      (B) The rate applicable to any rate bracket as adjusted under subparagraph (A) of this paragraph may not be changed.
 
       (C) The amounts setting forth the tax, to the extent necessary to reflect the adjustments in the rate brackets, shall be adjusted.
 
@@ -1041,7 +1093,7 @@ ______________________________________________________________________________
 
       (2) A tax is imposed for each taxable year upon the entire taxable income of every part-year resident of this state. The amount of the tax shall be computed under subsection (1) of this section as if the part-year resident were a full-year resident and shall be multiplied by the ratio provided under ORS 316.117 to determine the tax on income derived from sources within this state.
 
-      (3) A tax is imposed for each taxable year on the taxable income of every full-year nonresident that is derived from sources within this state. The amount of the tax shall be determined in accordance with the table set forth in subsection (1) of this section. [1969 c.493 §11; 1975 c.674 §1; 1977 c.872 §1; 1979 c.649 §1; 1983 c.684 §23; 1985 c.141 §1; 1987 c.293 §6; 1991 c.457 §1b; 2001 c.660 §11; 2003 c.46 §37; 2009 c.746 §§1,2]
+      (3) A tax is imposed for each taxable year on the taxable income of every full-year nonresident that is derived from sources within this state. The amount of the tax shall be determined in accordance with the table set forth in subsection (1) of this section. [1969 c.493 §11; 1975 c.674 §1; 1977 c.872 §1; 1979 c.649 §1; 1983 c.684 §23; 1985 c.141 §1; 1987 c.293 §6; 1991 c.457 §1b; 2001 c.660 §11; 2003 c.46 §37; 2009 c.746 §§1,2; 2019 c.122 §56]
 
  
 
@@ -1053,7 +1105,7 @@ ______________________________________________________________________________
 
  
 
-      316.043 Tax rates allowed for certain nonpassive income; conditions; election. (1) As used in this section:
+      316.043 Tax rates allowed for certain qualifying income; conditions; election. (1) As used in this section:
 
       (a) “Material participation” has the meaning given that term in section 469 of the Internal Revenue Code.
 
@@ -1061,7 +1113,13 @@ ______________________________________________________________________________
 
       (c) “Nonpassive loss” means loss other than loss from passive activity as determined under section 469 of the Internal Revenue Code.
 
-      (2) If a taxpayer that meets the conditions of subsection (6) of this section has nonpassive income attributable to any partnership or S corporation after reduction for nonpassive losses, that portion of the taxpayer’s income that meets the conditions of subsection (6) of this section shall be taxed at:
+      (d) “Qualifying income” means a taxpayer’s net income that meets the conditions of subsection (6) of this section, as reported on the taxpayer’s return, and that is computed by taking the sum of the taxpayer’s:
+
+      (A) Nonpassive income after reduction for nonpassive losses; and
+
+      (B) Business income or loss as a sole proprietor.
+
+      (2) If a taxpayer that meets the conditions of subsection (6) of this section has nonpassive income attributable to any partnership or S corporation after reduction for nonpassive losses or does business as a sole proprietorship, that portion of the taxpayer’s income that is qualifying income shall be taxed at:
 
       (a) The rate applicable under ORS 316.037; or
 
@@ -1081,21 +1139,21 @@ ______________________________________________________________________________
 
       (3) The reduced rates allowed under subsection (2)(b) of this section may be adjusted as provided in ORS 316.044.
 
-      (4) A taxpayer shall use the subtractions, deductions or additions otherwise allowed under this chapter in the calculation of income that is taxed at the rates otherwise applicable under ORS 316.037. The only addition or subtraction allowed in the calculation of nonpassive income for which the taxpayer uses the reduced rates allowed under subsection (2)(b) of this section shall be any depreciation adjustment directly related to the partnership or S corporation.
+      (4) A taxpayer shall use the subtractions, deductions or additions otherwise allowed under this chapter in the calculation of income that is taxed at the rates otherwise applicable under ORS 316.037. The only addition or subtraction allowed in the calculation of qualifying income for which the taxpayer uses the reduced rates allowed under subsection (2)(b) of this section shall be any depreciation adjustment directly related to the partnership, S corporation or sole proprietorship.
 
       (5) The election under subsection (2)(b) of this section shall be irrevocable and shall be made on the taxpayer’s original return. If the taxpayer uses the reduced rates allowed under subsection (2)(b) of this section, the calculation of income shall be substantiated on a form prescribed by the Department of Revenue and filed with the taxpayer’s tax return for the tax year or at such other time and manner as the department may prescribe by rule. A taxpayer who uses the reduced rates available under subsection (2)(b) of this section may not join in the filing of a composite return under ORS 314.778.
 
-      (6) The rates listed in subsection (2)(b) of this section apply to nonpassive income attributable to a partnership or S corporation only if:
+      (6) The rates listed in subsection (2)(b) of this section apply to income attributable to a partnership, S corporation or sole proprietorship only if:
 
       (a) The taxpayer materially participates in the trade or business;
 
-      (b) The partnership or S corporation employs at least one person who is not an owner, member or limited partner of the partnership or S corporation; and
+      (b) The partnership, S corporation or sole proprietorship employs at least one person who is not an owner, member or limited partner of the partnership or S corporation or who is not the sole proprietor; and
 
-      (c) At least 1,200 aggregate hours of work in Oregon are performed, by the close of the tax year for which the reduced rate is allowed, by employees who meet the requirements of paragraph (b) of this subsection and who are employed by the partnership or S corporation. In determining whether this requirement is met, only hours worked in a week in which a worker works at least 30 hours may be considered.
+      (c) At least 1,200 aggregate hours of work in Oregon are performed, by the close of the tax year for which the reduced rate is allowed, by employees who meet the requirements of paragraph (b) of this subsection and who are employed by the partnership, S corporation or sole proprietorship. In determining whether this requirement is met, only hours worked in a week in which a worker works at least 30 hours may be considered.
 
       (7)(a) A nonresident may apply the reduced rates allowed under subsection (2)(b) of this section only to income earned in Oregon.
 
-      (b) A part-year resident shall calculate the tax due using the reduced rates allowed under subsection (2)(b) of this section by first applying those rates to the taxpayer’s nonpassive income that meets the requirements of subsection (6) of this section, and then multiplying that amount by the ratio of the taxpayer’s nonpassive income in Oregon divided by nonpassive income from all sources. [2013 s.s. c.5 §11; 2014 c.114 §6]
+      (b) A part-year resident shall calculate the tax due using the reduced rates allowed under subsection (2)(b) of this section by first applying those rates to the taxpayer’s qualifying income, and then multiplying that amount by the ratio of the taxpayer’s income in Oregon divided by income from all sources. [2013 s.s. c.5 §11; 2014 c.114 §6; 2018 s.s. c.1 §1]
 
  
 
@@ -1303,33 +1361,39 @@ ______________________________________________________________________________
 
 If federal taxable
 
-income is:                                    The percentage is:
+income is:        The percentage is:
 
  
 
-      Not over $5,000                     30%
+ 
+
+      Not over $5,000    30%
+
+ 
 
       Over $5,000 but not
 
-            over $10,000                    15%
+      over $10,000         15%
 
       Over $10,000 but not
 
-            over $15,000                    8%
+      over $15,000         8%
 
       Over $15,000 but not
 
-            over $25,000                    6%
+      over $25,000         6%
 
       Over $25,000 but not
 
-            over $35,000                    5%
+      over $35,000         5%
 
       Over $35,000 but not
 
-            over $45,000                    4%
+      over $45,000         4%
 
-      Over $45,000                         0%
+ 
+
+      Over $45,000        0%
 
 ______________________________________________________________________________
 
@@ -1541,15 +1605,17 @@ ______________________________________________________________________________
 
       (b) The tax liability of the taxpayer.
 
-      (3) A taxpayer may not claim the credit allowed under this section if the taxpayer has federal adjusted gross income in excess of $200,000 on a joint return or $100,000 on any other type of return.
+      (3) A taxpayer may not claim the credit allowed under this section if the taxpayer has federal adjusted gross income in excess of $150,000 on a joint return or $75,000 on any other type of return.
 
-      (4) The claim for tax credit shall be substantiated by submission, with the tax return, of official receipts of the candidate, agent, political party or committee thereof or political committee to whom contribution was made. [1969 c.432 §2; 1973 c.119 §3; 1975 c.177 §1; 1977 c.268 §1; 1979 c.190 §413; 1985 c.802 §6; 1987 c.293 §16; 1989 c.986 §1; 1993 c.797 §27; 1995 c.1 §19; 1995 c.712 §104; 1999 c.999 §27; 2013 c.750 §6]
+      (4) The claim for tax credit shall be substantiated by submission, with the tax return, of official receipts of the candidate, agent, political party or committee thereof or political committee to whom contribution was made. [1969 c.432 §2; 1973 c.119 §3; 1975 c.177 §1; 1977 c.268 §1; 1979 c.190 §413; 1985 c.802 §6; 1987 c.293 §16; 1989 c.986 §1; 1993 c.797 §27; 1995 c.1 §19; 1995 c.712 §104; 1999 c.999 §27; 2013 c.750 §6; 2019 c.579 §49]
 
  
 
       Note: Section 34, chapter 913, Oregon Laws 2009, provides:
 
-      Sec. 34. A credit may not be claimed under ORS 316.102 for tax years beginning on or after January 1, 2020. [2009 c.913 §34; 2013 c.750 §7]
+      Sec. 34. (1) A credit may not be claimed under ORS 316.102 for tax years beginning on or after January 1, 2026.
+
+      (2) The amendments to ORS 316.102 by section 49 of this 2019 Act apply to tax years beginning on or after January 1, 2020, and before January 1, 2026. [2009 c.913 §34; 2013 c.750 §7; 2019 c.579 §48]
 
  
 
@@ -1711,7 +1777,7 @@ ______________________________________________________________________________
 
       (2) A credit of $5,000 against the taxes otherwise due under this chapter is allowed to an individual who:
 
-      (a) Rents space in a manufactured dwelling park for a manufactured dwelling that is owned and occupied by the individual as the individual’s principal residence on the date that the landlord delivers notice that the park, or a portion of the park, is being closed and the rental agreement for the space is being terminated because of the exercise of eminent domain, by order of a federal, state or local agency or by the landlord; and
+      (a) Rents space in a manufactured dwelling park for a manufactured dwelling that is owned and occupied by the individual as the individual’s principal residence on the date that the landlord delivers notice that the park, or a portion of the park, is being closed and the rental agreement for the space is being terminated by the landlord or because of the exercise of eminent domain, by order of a federal, state or local agency; and
 
       (b) Ends tenancy at the manufactured dwelling park site in response to the delivered notice described in paragraph (a) of this subsection.
 
@@ -1727,9 +1793,9 @@ ______________________________________________________________________________
 
       (6) If, for the year in which the individual ends the tenancy at the manufactured dwelling park, the amount of the credit allowed by this section, when added to the sum of the amounts allowable as payment of tax under ORS 316.187 and 316.583 plus other tax prepayment amounts and other refundable credit amounts, exceeds the taxes imposed by this chapter or ORS chapter 314 for the tax year, reduced by any nonrefundable credits allowable for purposes of this chapter for the tax year, the amount of the excess shall be refunded to the individual as provided in ORS 316.502.
 
-      (7) If more than one individual in a household qualifies under this section to claim the tax credit, the qualifying individuals may each claim a share of the available credit that is in proportion to their respective gross incomes for the tax year. [2007 c.906 §17; 2015 c.348 §17]
+      (7) If more than one individual in a household qualifies under this section to claim the tax credit, the qualifying individuals may each claim a share of the available credit that is in proportion to their respective gross incomes for the tax year. [2007 c.906 §17; 2015 c.348 §17; 2019 c.579 §25]
 
-      Sec. 18. Section 17, chapter 906, Oregon Laws 2007, applies to individuals whose household ends tenancy at a manufactured dwelling park during a tax year that begins on or after January 1, 2007, and before January 1, 2020. [2007 c.906 §18; 2009 c.913 §33; 2013 c.750 §33]
+      Sec. 18. Section 17, chapter 906, Oregon Laws 2007, applies to individuals whose household ends tenancy at a manufactured dwelling park during a tax year that begins on or after January 1, 2007, and before January 1, 2026. [2007 c.906 §18; 2009 c.913 §33; 2013 c.750 §33; 2019 c.579 §23]
 
  
 
@@ -1749,7 +1815,7 @@ TAXATION OF NONRESIDENTS
 
       (3) Any modifications, additions or subtractions to federal taxable income described in this chapter that relates to an item of S corporation income, gain, loss or deduction (or item thereof) shall be made in accordance with the shareholder’s pro rata share, for federal income tax purposes of the item to which the modification, addition or subtraction relates, but limited to the portion of such item derived from or connected with sources in this state.
 
-      (4) A nonresident shareholder’s pro rata share of items of income, gain, loss or deduction (or item thereof) shall be determined under ORS 314.734 (1). The character of shareholder items for a nonresident shareholder shall be determined under ORS 314.734 (2). [1989 c.625 §52; 1991 c.877 §11]
+      (4) A nonresident shareholder’s pro rata share of items of income, gain, loss or deduction (or item thereof) shall be determined under ORS 314.763 (1). The character of shareholder items for a nonresident shareholder shall be determined under ORS 314.763 (2). [1989 c.625 §52; 1991 c.877 §11]
 
  
 
@@ -1963,8 +2029,6 @@ ADDITIONAL CREDITS
 
 (Costs in Lieu of Nursing Home Care)
 
- 
-
       316.147 Definitions for ORS 316.147 to 316.149. As used in ORS 316.147 to 316.149, unless the context requires otherwise:
 
       (1) “Eligible taxpayer” includes any individual who must pay taxes otherwise imposed by this chapter and:
@@ -1975,7 +2039,7 @@ ADDITIONAL CREDITS
 
       (2) “Household income” means the aggregate income of the eligible taxpayer and the spouse of the taxpayer who reside in the household, that was received during a calendar year. “Household income” includes payments received by the eligible taxpayer or the spouse of the taxpayer under the federal Social Security Act for the benefit of a minor child or minor children who reside in the household.
 
-      (3) “Income” means “adjusted gross income” as defined in the federal Internal Revenue Code, as amended and in effect on December 31, 2016, even when the amendments take effect or become operative after that date, relating to the measurement of taxable income of individuals, estates and trusts, with the following modifications:
+      (3) “Income” means “adjusted gross income” as defined in the federal Internal Revenue Code, as amended and in effect on December 31, 2018, even when the amendments take effect or become operative after that date, relating to the measurement of taxable income of individuals, estates and trusts, with the following modifications:
 
       (a) There shall be added to adjusted gross income the following items of otherwise exempt income:
 
@@ -2053,7 +2117,7 @@ ADDITIONAL CREDITS
 
       (c) Who is certified by the Department of Human Services; and
 
-      (d) Whose care or any portion thereof is not paid for under ORS chapter 414. [1979 c.494 §2; 1991 c.786 §5; 1997 c.170 §28; 2011 c.201 §8; 2015 c.348 §18; 2015 c.480 §8; 2016 c.33 §21; 2017 c.315 §23; 2017 c.527 §21]
+      (d) Whose care or any portion thereof is not paid for under ORS chapter 414. [1979 c.494 §2; 1991 c.786 §5; 1997 c.170 §28; 2011 c.201 §8; 2015 c.348 §18; 2015 c.480 §8; 2016 c.33 §21; 2017 c.315 §23; 2017 c.527 §21; 2018 c.101 §21; 2019 c.319 §22]
 
  
 
@@ -2109,7 +2173,7 @@ ADDITIONAL CREDITS
 
       (b) “Household income” means the aggregate income of the taxpayer and the spouse of the taxpayer who reside in the household, that was received during the taxable year for which a credit is claimed, except that “household income” does not include Social Security benefits received by the taxpayer or the spouse of the taxpayer.
 
-      (c) “Income” means “adjusted gross income” as defined in the federal Internal Revenue Code, as amended and in effect on December 31, 2016, even when the amendments take effect or become operative after that date, relating to the measurement of taxable income of individuals, estates and trusts, with the following modifications:
+      (c) “Income” means “adjusted gross income” as defined in the federal Internal Revenue Code, as amended and in effect on December 31, 2018, even when the amendments take effect or become operative after that date, relating to the measurement of taxable income of individuals, estates and trusts, with the following modifications:
 
       (A) There shall be added to adjusted gross income the following items of otherwise exempt income:
 
@@ -2211,13 +2275,13 @@ ADDITIONAL CREDITS
 
       (3) If a change in the taxable year of the eligible individual occurs as described in ORS 314.085, or if the Department of Revenue terminates the tax year of the eligible individual under ORS 314.440, the credit allowed by this section shall be prorated or computed in a manner consistent with ORS 314.085.
 
-      (4) If a change in the status of the eligible individual from resident to nonresident or from nonresident to resident occurs, the credit allowed by this section shall be determined in a manner consistent with subsection (1) of this section. [1991 c.823 §5; 1997 c.839 §13; 1999 c.90 §12; 2001 c.660 §39; 2015 c.348 §19; 2015 c.480 §9; 2016 c.33 §22; 2017 c.315 §24; 2017 c.527 §22]
+      (4) If a change in the status of the eligible individual from resident to nonresident or from nonresident to resident occurs, the credit allowed by this section shall be determined in a manner consistent with subsection (1) of this section. [1991 c.823 §5; 1997 c.839 §13; 1999 c.90 §12; 2001 c.660 §39; 2015 c.348 §19; 2015 c.480 §9; 2016 c.33 §22; 2017 c.315 §24; 2017 c.527 §22; 2018 c.101 §22; 2019 c.319 §23]
 
  
 
       Note: Section 36, chapter 913, Oregon Laws 2009, provides:
 
-      Sec. 36. A credit may not be claimed under ORS 316.157 for tax years beginning on or after January 1, 2020. [2009 c.913 §36; 2013 c.750 §9]
+      Sec. 36. A credit may not be claimed under ORS 316.157 for tax years beginning on or after January 1, 2026. [2009 c.913 §36; 2013 c.750 §9; 2019 c.579 §27]
 
  
 
@@ -2285,7 +2349,11 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
       316.162 Definitions for ORS 316.162 to 316.221. As used in ORS 316.162 to 316.221:
 
-      (1) “Number of withholding exemptions claimed” means the number of withholding exemptions claimed in a withholding exemption certificate in effect under ORS 316.182, except that if no such certificate is in effect, the number of withholding exemptions claimed is considered to be zero.
+      (1) “Employer” means:
+
+      (a) A person who is in relation to another person such that the person may control the work of that other person and direct the manner in which the work is to be done; or
+
+      (b) An officer or employee of a corporation, or a member or employee of a partnership, who as an officer, employee or member is under a duty to perform the acts required of employers by ORS 316.167, 316.182, 316.197, 316.202 and 316.207.
 
       (2) “Wages” means remuneration for services performed by an employee for an employer, including the cash value of all remuneration paid in any medium other than cash, except that “wages” does not include remuneration paid:
 
@@ -2297,7 +2365,7 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
       (d) For casual labor not in the course of the employer’s trade or business.
 
-      (e) To an employee whose services to the employer consist solely of labor in connection with the planting, cultivating or harvesting of seasonal agricultural crops if the total amount paid to such employee is less than $300 annually.
+      (e) To an employee whose services to the employer consist solely of labor in connection with the planting, cultivating or harvesting of seasonal agricultural crops if the total amount paid to the employee is less than $300 annually.
 
       (f) To seamen who are exempt from garnishment, attachment or execution under title 46 of the United States Code.
 
@@ -2305,19 +2373,13 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
       (h) To employees’ trusts exempt from tax under provisions of the federal Internal Revenue Code.
 
-      (i) For services performed by a duly ordained, commissioned or licensed minister of a church in the exercise of the minister’s ministry or by a member of a religious order in the exercise of religious duties required by such order, which duties are not commercial in nature.
+      (i) For services performed by a duly ordained, commissioned or licensed minister of a church in the exercise of the minister’s ministry or by a member of a religious order in the exercise of religious duties required by the order, which duties are not commercial in nature.
 
       (j) For services provided by an independent contractor, as defined in ORS 670.600.
 
       (k) To or on behalf of an employee, a beneficiary of an employee or an alternate payee under or to an eligible deferred compensation plan that, at the time of the payment, is a plan described in section 457(b) of the Internal Revenue Code and that is maintained by an eligible employer described in section 457(e)(1)(A) of the Internal Revenue Code.
 
-      (L) When the remuneration is exempt from taxation under this chapter.
-
-      (3) “Employer” means:
-
-      (a) A person who is in such relation to another person that the person may control the work of that other person and direct the manner in which it is to be done; or
-
-      (b) An officer or employee of a corporation, or a member or employee of a partnership, who as such officer, employee or member is under a duty to perform the acts required of employers by ORS 316.167, 316.182, 316.197, 316.202 and 316.207. [1969 c.493 §24; 1971 c.690 §1; 1973 c.229 §1; 1977 c.604 §1; 1981 c.705 §3; 1985 c.87 §3; 1989 c.762 §2; 1997 c.839 §15; 1999 c.21 §42; 1999 c.90 §13; 1999 c.580 §9; 2001 c.660 §40; 2003 c.77 §16; 2003 c.704 §6; 2005 c.533 §7]
+      (L) When the remuneration is exempt from taxation under this chapter. [1969 c.493 §24; 1971 c.690 §1; 1973 c.229 §1; 1977 c.604 §1; 1981 c.705 §3; 1985 c.87 §3; 1989 c.762 §2; 1997 c.839 §15; 1999 c.21 §42; 1999 c.90 §13; 1999 c.580 §9; 2001 c.660 §40; 2003 c.77 §16; 2003 c.704 §6; 2005 c.533 §7; 2019 c.134 §1]
 
  
 
@@ -2343,13 +2405,11 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-      316.167 Withholding of tax required; elective provisions for agricultural employees; liability of supplier of funds to employer for taxes. (1) Every employer at the time of the payment of wages to any employee shall deduct and retain from such wages an amount determined, at the employer’s election, either (a) by a “percentage method” withholding table or (b) by “wage bracket” withholding tables, prepared and furnished under the rules and regulations of the Department of Revenue. However, in the case of wages paid to an employee whose services to the employer consist solely of labor in connection with the planting, cultivating or harvesting of seasonal agricultural crops, the employer may elect to withhold two percent of the total wages paid without regard to any withholding exemptions.
+      316.167 Withholding of tax required; elective provisions for agricultural employees; liability of supplier of funds to employer for taxes. (1) Every employer at the time of the payment of wages to any employee shall deduct and retain from the wages an amount determined by the Department of Revenue under ORS 316.172. However, in the case of wages paid to an employee whose services to the employer consist solely of labor in connection with the planting, cultivating or harvesting of seasonal agricultural crops, the employer may elect to withhold two percent of the total wages paid without regard to any exemption from withholding requirements.
 
-      (2) Except in the case of an agricultural employee, the amount withheld shall be computed on the basis of the total amount of the wages and the number of withholding exemptions claimed by the employee, without deduction for any amount withheld.
+      (2) If a lender, surety or other person who supplies funds to or for the account of an employer for the purpose of paying wages of the employees of the employer has actual notice or knowledge that the employer does not intend to or will not be able to make timely payment or deposit of the tax required to be deducted and withheld, the lender, surety or other person shall be liable to the State of Oregon in a sum equal to the taxes together with interest which are not timely paid over to the department. This liability shall be limited to the principal amount supplied by the lender, surety or other person, and any amounts so paid to the department shall be credited against the liability of the employer.
 
-      (3) If a lender, surety or other person who supplies funds to or for the account of an employer for the purpose of paying wages of the employees of such employer has actual notice or knowledge that such employer does not intend to or will not be able to make timely payment or deposit of the tax required to be deducted and withheld, such lender, surety or other person shall be liable to the State of Oregon in a sum equal to the taxes together with interest which are not timely paid over to the department. Such liability shall be limited to the principal amount supplied by such lender, surety or other person, and any amounts so paid to the department shall be credited against the liability of the employer.
-
-      (4) With the approval of the Oregon Department of Administrative Services, the department may enter into contracts with banking institutions including but not limited to Federal Reserve Banks, incorporated banks, trust companies, domestic building and loan associations, savings and loan associations or credit unions authorizing them to receive as financial agents of the department any tax required to be withheld and paid to the department. [1969 c.493 §25; 1975 c.394 §1; 1977 c.604 §2; 1982 s.s.1 c.1 §1]
+      (3) With the approval of the Oregon Department of Administrative Services, the department may enter into contracts with banking institutions including but not limited to Federal Reserve Banks, incorporated banks, trust companies, domestic building and loan associations, savings and loan associations or credit unions authorizing them to receive as financial agents of the department any tax required to be withheld and paid to the department. [1969 c.493 §25; 1975 c.394 §1; 1977 c.604 §2; 1982 s.s.1 c.1 §1; 2019 c.134 §2]
 
  
 
@@ -2385,13 +2445,13 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-      316.171 Application of tax and report to administration of tax laws. Except as provided in this section and ORS 314.840, 316.168, 316.197, 316.202 and 657.571, the statutes and regulations applicable to each agency, requiring a report and imposing a tax, shall govern the audit and examination of reports and returns, determination of deficiencies, assessments, claims for refund, penalties, interest, administrative and judicial appeals and the procedures relating thereto. [1989 c.901 §3]
+      316.171 Application of tax and report to administration of tax laws. Except as provided in this section and ORS 314.840, 316.168, 316.197, 316.202 and 657.571, the statutes and regulations applicable to each agency, requiring a report and imposing a tax, shall govern as to the audit and examination of returns, periods of limitation, determinations of and notices of deficiencies, assessments, collections, liens, delinquencies, claims for refund and refunds, conferences, judicial appeals, stays of collection pending appeal, confidentiality of returns and the related penalties, and the related procedures. [1989 c.901 §3; 2019 c.134 §3]
 
  
 
-      316.172 Tax withholding tables to be prepared by department. (1) The Department of Revenue shall prepare a table for use with the percentage method that provides for the deduction and withholding of a tax equal to a specific percent (to be determined by the department) of the amount by which the wages for a given payroll period (daily, weekly, biweekly, semimonthly, monthly, quarterly, semiannually or annually, as the case may be) exceed the number of withholding exemptions claimed, multiplied by the amount of one such exemption for each payroll period (such amount being determined by the department for each such period). The determinations of the department shall result, so far as is practicable, in withholding from the employee a sum substantially equivalent to the amount of the tax that the employee will be required to pay under this chapter upon such wages. To accomplish this purpose, the department may make special provision for employees who are in the state for limited periods of time.
+      316.172 Department to provide deduction and withholding information and determine amount, form and manner of withholding by employers. (1) The Department of Revenue shall specify and disseminate information providing for the deduction and withholding of tax in an amount substantially equivalent to the amount of the tax that each employee will be required to pay under this chapter upon wages or other income. The amount shall be determined based upon wages for a given daily, weekly, biweekly, semimonthly, monthly or other payroll period. To accomplish this purpose, the department may make special provision for employees who are in the state for limited periods of time.
 
-      (2) The department shall prepare tables for use in computing withholding of tax by wage brackets. The wage brackets shall be graduated so that the amount withheld is, as far as practicable, substantially equivalent to the amount of the tax that the employee will be required to pay under this chapter upon such wages. [1969 c.493 §26; 1973 c.402 §20]
+      (2) The department shall determine the amount, form and manner of withholding of tax by employers on behalf of employees for purposes of ORS 316.162 to 316.221. [1969 c.493 §26; 1973 c.402 §20; 2019 c.134 §4]
 
  
 
@@ -2399,17 +2459,15 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-      316.177 Reliance on withholding statement; penalty for statement without reasonable basis. (1) If an employee does not claim a different number of withholding exemptions for state withholding purposes, the employee shall be entitled to the same number of withholding exemptions as the number of withholding exemptions to which the employee is entitled for federal income tax withholding purposes. If an employee does not claim a different number of withholding exemptions for state withholding purposes, the employer may rely upon the number of federal withholding exemptions claimed by the employee, or authorized or specified under the Internal Revenue Code. If the employee does claim a different number of withholding exemptions for state withholding purposes, the employer shall rely on the number specified on that claim.
+      316.177 Reliance on withholding statement or exemption certificate; penalty for statement without reasonable basis. (1) If an employee provides the employer with a withholding statement or exemption certificate under ORS 316.182, the employer may rely upon the instruction provided by the employee. If the employee instructs the employee’s employer to withhold an amount of tax from the employee’s pay or claim exemption from withholding, and as of the time the instruction was made there was no reasonable basis for the instruction, the Department of Revenue shall assess and collect from the employee a penalty of $500.
 
-      (2) If any employee makes a statement for federal income tax withholding purposes which claims more than 10 withholding exemptions, or claims exemption from withholding and the employee’s income is expected to exceed $200 per week for both federal and state purposes, or claims exemption from withholding for state purposes but not for federal purposes, and as of the time the statement was made there was no reasonable basis for the statement, the Department of Revenue shall assess and collect from the employee a penalty of $500.
+      (2) The penalty imposed under this section is in addition to any other penalty imposed by law. Any employee against whom a penalty is assessed under this section may appeal to the tax court as provided in ORS 305.404 to 305.560. If the penalty is not paid within 10 days after the order of the tax court becomes final, the department may record the order and collect the amount assessed without interest in the same manner as income tax deficiencies are recorded and collected under ORS 314.430.
 
-      (3) The penalty imposed under this section is in addition to any other penalty imposed by law. Any employee against whom a penalty is assessed under this section may appeal to the tax court as provided in ORS 305.404 to 305.560. If the penalty is not paid within 10 days after the order of the tax court becomes final, the department may record the order and collect the amount assessed without interest in the same manner as income tax deficiencies are recorded and collected under ORS 314.430.
-
-      (4) The department may waive all or any part of the penalty imposed under subsection (2) of this section if the income tax liability of the employee for the taxable year is equal to or less than the sum of:
+      (3) The department may waive all or any part of the penalty imposed under subsection (1) of this section if the income tax liability of the employee for the taxable year is equal to or less than the sum of:
 
       (a) The credits against taxes allowed for purposes of this chapter; and
 
-      (b) The payments of estimated tax which are considered payments on account of the tax liability of the employee under ORS 316.579 and 316.583. [1969 c.493 §27; 1987 c.293 §19; 1987 c.843 §20; 1993 c.730 §42; 1995 c.650 §37]
+      (b) The payments of estimated tax which are considered payments on account of the tax liability of the employee under ORS 316.579 and 316.583. [1969 c.493 §27; 1987 c.293 §19; 1987 c.843 §20; 1993 c.730 §42; 1995 c.650 §37; 2019 c.134 §5]
 
  
 
@@ -2417,11 +2475,11 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-      316.182 Exemption certificate. (1) Subject to subsection (2) or (3) of this section and if the employee does not claim a different number of withholding exemptions for purposes of this chapter, an employer shall use the exemption certificate filed by the employee with the employer under the income tax withholding provisions of the Internal Revenue Code for determining the number of withholding exemptions to be used in computing the tax to be withheld under ORS 316.167 and 316.172. If a new exemption certificate is not filed as provided under section 1581 of the Tax Reform Act of 1986 (P.L. 99-514) for federal purposes, the employer shall use the same number of withholding exemptions as used for purposes of the Internal Revenue Code for determining the amount of tax to be withheld under ORS 316.167 and 316.172.
+      316.182 Withholding statement of exemption certificate; default withholding rate. (1) The Department of Revenue may require a withholding statement or an exemption certificate to be filed on a form prescribed by the department for purposes of an employee instructing the employee’s employer of the proper amount of tax to withhold from the employee’s pay, or of the employee’s exemption from withholding requirements.
 
-      (2) The Department of Revenue may require an exemption certificate to be filed on a form prescribed by the department in any circumstance where the department finds that an exemption certificate filed for purposes of the Internal Revenue Code does not properly reflect the number of withholding exemptions allowable under this chapter.
+      (2) A withholding statement or exemption certificate need not be procured from an employee whose wages consist of wages as defined in ORS 316.162 (2)(e).
 
-      (3) No exemption certificate need be procured from an employee whose wages consist of wages as defined in ORS 316.162 (2)(e). [1969 c.493 §28; 1987 c.293 §20; 1997 c.839 §16; 2001 c.660 §41]
+      (3) If a statement or certificate is not provided to the employer as required under subsection (1) of this section, the employer shall withhold tax from the wages paid to the employee at the rate of eight percent of the wages. [1969 c.493 §28; 1987 c.293 §20; 1997 c.839 §16; 2001 c.660 §41; 2019 c.134 §6]
 
  
 
@@ -2455,9 +2513,9 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
       (j) “Qualified total distribution” means any designated distribution made under a retirement, annuity or deferred compensation plan described in section 401(a), 403(a) or 457(b) of the Internal Revenue Code, that consists of the balance to the credit of the employee, exclusive of accumulated deductible employee contributions, made within one tax year of the recipient.
 
-      (2)(a) The payer of any periodic payment shall withhold from such payment the amount which would be required to be withheld from such payment under ORS 316.167 or 320.550 if the payment were wages paid by an employer to an employee. The time and manner of payment of withheld amounts to the department shall be the same as that required under ORS 316.197 for withholding of income taxes from wages.
+      (2)(a) The payer of any periodic payment shall withhold from the payment the amount which would be required to be withheld from the payment under ORS 316.167 if the payment were wages paid by an employer to an employee. The time and manner of payment of withheld amounts to the department shall be the same as that required under ORS 316.197 for withholding of income taxes from wages.
 
-      (b) The payer of any nonperiodic distribution shall withhold from such distribution an amount determined under tables prescribed by the department.
+      (b) The payer of any nonperiodic distribution shall withhold from the distribution an amount determined by the department.
 
       (c) The maximum amount to be withheld under this section on any designated distribution shall not exceed 10 percent of the amount of money and the fair market value of other property received in the distribution. If the distribution is not subject to withholding for federal income tax purposes under section 3405 of the Internal Revenue Code, it shall not be subject to withholding under this section.
 
@@ -2467,15 +2525,13 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
       (4)(a) An individual may elect to have no withholding by a payer under subsection (2) of this section. If an individual has elected to have no federal withholding from payments or distributions described in this section the individual shall be deemed to have elected no withholding for state purposes, unless the individual notifies the payer otherwise.
 
-      (b) An election made under this subsection shall be effective as provided under rules promulgated by the department. The rules required under this paragraph shall provide the manner in which an election may be revoked and when such revocation shall be effective.
-
-      (c) An election made under this subsection does not apply to amounts required to be withheld under ORS 320.550.
+      (b) An election made under this subsection shall be effective as provided under rules promulgated by the department. The rules required under this paragraph shall provide the manner in which an election may be revoked and when the revocation shall be effective.
 
       (5) The payer of any periodic payment or nonperiodic distribution shall give notice to the payee of the right to make an election to have no state withholding from the payment or distribution. The department shall provide by rule for the time and manner of giving the notice required under this subsection.
 
       (6) Any rules permitted or required to be promulgated by the department under this section shall, insofar as is practicable, be consistent with corresponding provisions of section 3405 of the Internal Revenue Code and regulations promulgated thereunder.
 
-      (7) Any designated distribution shall be treated as if it were wages paid by an employer to an employee within the meaning of ORS 316.162 to 316.221 and 320.550 for all other purposes of ORS 316.162 to 316.221 and 320.550. In the case of any designated distribution not subject to withholding by reason of an election under subsection (4) of this section, the amount withheld shall be treated as zero. [1985 c.87 §9; 2003 c.77 §17; 2017 c.750 §122d]
+      (7) Any designated distribution shall be treated as if it were wages paid by an employer to an employee within the meaning of ORS 316.162 to 316.221 for all other purposes of ORS 316.162 to 316.221. In the case of any designated distribution not subject to withholding by reason of an election under subsection (4) of this section, the amount withheld shall be treated as zero. [1985 c.87 §9; 2003 c.77 §17; 2017 c.750 §122d; 2018 c.93 §17; 2019 c.134 §7]
 
  
 
@@ -2571,19 +2627,21 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-      316.202 Reports by employer; waiver; penalty for failure to substantiate report; rules. (1) With each payment made to the Department of Revenue, every employer shall deliver to the department, on a form prescribed by the department showing the total amount of withheld taxes in accordance with ORS 316.167, 316.172 and 320.550, and supply such other information as the department may require. The employer is charged with the duty of advising the employee of the amount of moneys withheld, in accordance with such regulations as the department may prescribe, using printed forms furnished or approved by the department for such purpose.
+      316.202 Reports by employer; waiver; indication of qualified retirement plan offer; penalty for failure to substantiate report; rules. (1) With each payment made to the Department of Revenue, every employer shall deliver to the department, on a form prescribed by the department showing the total amount of withheld taxes in accordance with ORS 316.167, 316.172 and 320.550, and supply any other information as the department may require. The employer is charged with the duty of advising the employee of the amount of moneys withheld, in accordance with any regulations as the department may prescribe, using printed forms furnished or approved by the department for this purpose.
 
-      (2) Except as provided in subsection (4) of this section, every employer shall submit a combined quarterly return to the department on a form provided by it showing the number of payments made, the withheld taxes paid during the quarter and an explanation of federal withholding taxes as computed by the employer. The report shall be filed with the department on or before the last day of the month following the end of the quarter.
+      (2) Except as provided in subsection (5) of this section, every employer shall submit a combined quarterly return to the department on a form provided by it showing the number of payments made and the withheld taxes paid during the quarter. The report shall be filed with the department on or before the last day of the month following the end of the quarter.
 
       (3) The employer shall make an annual return to the department on forms provided or approved by it, summarizing the total compensation paid and the taxes withheld for all employees during the calendar year and shall file the same with the department on or before the due date of the corresponding federal return for the year for which report is made. Failure to file the annual report without reasonable excuse on or before the 30th day after notice has been given to the employer of failure subjects the employer to a penalty of $100. The department may by rule require additional information the department finds necessary to substantiate the annual return, including but not limited to copies of federal form W-2 for individual employees, and may prescribe circumstances under which the filing requirement imposed by this subsection is waived.
 
-      (4) Notwithstanding the provisions of subsection (2) of this section, employers of agricultural employees may submit returns annually showing the number of payments made and the withheld taxes paid. However, such employers shall make and file a combined quarterly tax report with respect to other tax programs, as required by ORS 316.168.
+      (4) The employer shall indicate on the return required by subsection (3) of this section whether the employer offers a qualified retirement plan, as listed in ORS 178.215 (8), that would allow the employer to obtain an exemption from offering employees enrollment in the retirement plan developed under ORS 178.205. The department shall provide a means on the return by which the employer may make this indication.
 
-      (5) In addition to any other penalty required by law:
+      (5) Notwithstanding the provisions of subsection (2) of this section, employers of agricultural employees may submit returns annually showing the number of payments made and the withheld taxes paid. However, such employers shall make and file a combined quarterly tax report with respect to other tax programs, as required by ORS 316.168.
+
+      (6) In addition to any other penalty required by law:
 
       (a) A person who fails to substantiate a report required under subsection (3) of this section, or who files incomplete or incorrect substantiation, shall be subject to a penalty of $50 per federal form W-2 after the date on which the substantiation is due, up to a maximum penalty of $2,500.
 
-      (b) A person who knowingly fails to substantiate a report required under subsection (3) of this section, or who knowingly files incomplete or incorrect substantiation, shall be subject to a penalty of $250 per federal form W-2 after the date on which the substantiation is due, up to a maximum penalty of $25,000. [1969 c.493 §32; 1973 c.83 §1; 1982 s.s.1 c.1 §3; 1983 c.697 §2; 1987 c.366 §4; 1989 c.901 §8; 1993 c.593 §5; 1995 c.815 §1; 2013 c.734 §2; 2014 c.114 §14; 2017 c.750 §122f]
+      (b) A person who knowingly fails to substantiate a report required under subsection (3) of this section, or who knowingly files incomplete or incorrect substantiation, shall be subject to a penalty of $250 per federal form W-2 after the date on which the substantiation is due, up to a maximum penalty of $25,000. [1969 c.493 §32; 1973 c.83 §1; 1982 s.s.1 c.1 §3; 1983 c.697 §2; 1987 c.366 §4; 1989 c.901 §8; 1993 c.593 §5; 1995 c.815 §1; 2013 c.734 §2; 2014 c.114 §14; 2017 c.750 §122f; 2019 c.134 §8; 2019 c.317 §1]
 
  
 
@@ -2593,33 +2651,33 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
       316.207 Liability for tax; warrant for collection; conference; appeal. (1) Every employer who deducts and retains any amount under ORS 316.162 to 316.221 and 320.550 shall hold the same in trust for the State of Oregon and for the payment thereof to the Department of Revenue in the manner and at the time provided in ORS 316.162 to 316.221.
 
-      (2) At any time the employer fails to remit any amount withheld, the department may enforce collection by the issuance of a distraint warrant for the collection of the delinquent amount and all penalties, interest and collection charges accrued thereon. Such warrant shall be issued, recorded and proceeded upon in the same manner and shall have the same force and effect as is prescribed with respect to warrants for the collection of delinquent income taxes.
+      (2) At any time the employer fails to remit any amount withheld, the department may enforce collection by the issuance of a distraint warrant for the collection of the delinquent amount and all penalties, interest and collection charges accrued thereon. The warrant shall be issued, recorded and proceeded upon in the same manner and shall have the same force and effect as is prescribed with respect to warrants for the collection of delinquent income taxes.
 
-      (3)(a) In the case of an employer that is assessed pursuant to the provisions of ORS 305.265 (12) and 314.407 (1), the department may issue a notice of liability to any officer, employee or member described in ORS 316.162 (3)(b) of such employer within three years from the time of assessment. Within 30 days from the date the notice of liability is mailed to the officer, employee or member, such officer, employee or member shall pay the assessment, plus penalties and interest, or advise the department in writing of objections to the liability and, if desired, request a conference. Any conference shall be governed by the provisions of ORS 305.265 pertaining to a conference requested from a notice of deficiency.
+      (3)(a) In the case of an employer that is assessed pursuant to the provisions of ORS 305.265 (12) and 314.407 (1), the department may issue a notice of liability to any officer, employee or member described in ORS 316.162 (1)(b) of the employer within three years from the time of assessment. Within 30 days from the date the notice of liability is mailed to the officer, employee or member, the officer, employee or member shall pay the assessment, plus penalties and interest, or advise the department in writing of objections to the liability and, if desired, request a conference. Any conference shall be governed by the provisions of ORS 305.265 pertaining to a conference requested from a notice of deficiency.
 
-      (b) After a conference or, if no conference is requested, a determination of the issues considering the written objections, the department shall mail the officer, employee or member a conference letter affirming, canceling or adjusting the notice of liability. Within 90 days from the date the conference letter is mailed to the officer, employee or member, such officer, employee or member shall pay the assessment, plus penalties and interest, or appeal to the tax court in the manner provided for an appeal from a notice of assessment.
+      (b) After a conference or, if no conference is requested, a determination of the issues considering the written objections, the department shall mail the officer, employee or member a conference letter affirming, canceling or adjusting the notice of liability. Within 90 days from the date the conference letter is mailed to the officer, employee or member, the officer, employee or member shall pay the assessment, plus penalties and interest, or appeal to the tax court in the manner provided for an appeal from a notice of assessment.
 
-      (c) If neither payment nor written objection to the notice of liability is received by the department within 30 days after the notice of liability has been mailed, the notice of liability becomes final. In such event, the officer, employee or member may appeal the notice of liability to the tax court within 90 days after it became final in the manner provided for an appeal from a notice of assessment.
+      (c) If neither payment nor written objection to the notice of liability is received by the department within 30 days after the notice of liability has been mailed, the notice of liability becomes final. In this event, the officer, employee or member may appeal the notice of liability to the tax court within 90 days after it became final in the manner provided for an appeal from a notice of assessment.
 
-      (4)(a) In the case of a failure to file a withholding tax report on the due date, governed by the provisions of ORS 305.265 (10) and 314.400, the department, in addition to the provisions of ORS 305.265 (10) and 314.400, may send notices of determination and assessment to any officer, employee or member described in ORS 316.162 (3)(b) any time within three years after the assessment of an employer described in ORS 316.162 (3)(a). The time of assessment against such officer, employee or member shall be 30 days after the date the notice of determination and assessment is mailed. Within 30 days from the date the notice of determination and assessment is mailed to the officer, employee or member, such officer, employee or member shall pay the assessment, plus penalties and interest, or advise the department in writing of objections to the assessment, and if desired, request a conference. Any conference shall be governed by the provisions of ORS 305.265 pertaining to a conference requested from a notice of deficiency.
+      (4)(a) In the case of a failure to file a withholding tax report on the due date, governed by the provisions of ORS 305.265 (10) and 314.400, the department, in addition to the provisions of ORS 305.265 (10) and 314.400, may send notices of determination and assessment to any officer, employee or member described in ORS 316.162 (1)(b) any time within three years after the assessment of an employer described in ORS 316.162 (1)(a). The time of assessment against the officer, employee or member shall be 30 days after the date the notice of determination and assessment is mailed. Within 30 days from the date the notice of determination and assessment is mailed to the officer, employee or member, the officer, employee or member shall pay the assessment, plus penalties and interest, or advise the department in writing of objections to the assessment, and if desired, request a conference. Any conference shall be governed by the provisions of ORS 305.265 pertaining to a conference requested from a notice of deficiency.
 
-      (b) After a conference or, if no conference is requested, a determination of the issues considering the written objections, the department shall mail the officer, employee or member a conference letter affirming, canceling or adjusting the notice of determination and assessment. Within 90 days from the date the conference letter is mailed to the officer, employee or member, such officer, employee or member shall pay the assessment, plus penalties and interest, or appeal in the manner provided for an appeal from a notice of assessment.
+      (b) After a conference or, if no conference is requested, a determination of the issues considering the written objections, the department shall mail the officer, employee or member a conference letter affirming, canceling or adjusting the notice of determination and assessment. Within 90 days from the date the conference letter is mailed to the officer, employee or member, the officer, employee or member shall pay the assessment, plus penalties and interest, or appeal in the manner provided for an appeal from a notice of assessment.
 
-      (c) If neither payment nor written objection to the notice of determination and assessment is received by the department within 30 days after the notice of determination and assessment has been mailed, the notice of determination and assessment becomes final. In such event, the officer, employee or member may appeal the notice of determination and assessment to the tax court within 90 days after it became final in the manner provided for an appeal from a notice of assessment.
+      (c) If neither payment nor written objection to the notice of determination and assessment is received by the department within 30 days after the notice of determination and assessment has been mailed, the notice of determination and assessment becomes final. In this event, the officer, employee or member may appeal the notice of determination and assessment to the tax court within 90 days after it became final in the manner provided for an appeal from a notice of assessment.
 
       (5)(a) More than one officer or employee of a corporation may be held jointly and severally liable for payment of withheld taxes.
 
       (b) Notwithstanding the provisions of ORS 314.835, 314.840 or 314.991, if more than one officer or employee of a corporation may be held jointly and severally liable for payment of withheld taxes, the department may require any or all of the officers, members or employees who may be held liable to appear before the department for a joint determination of liability. The department shall notify each officer, member or employee of the time and place set for the determination of liability.
 
-      (c) Each person notified of a joint determination under this subsection shall appear and present such information as is necessary to establish that person’s liability or nonliability for payment of withheld taxes to the department. If any person notified fails to appear, the department shall make its determination on the basis of all the information and evidence presented. The department’s determination shall be binding on all persons notified and required to appear under this subsection.
+      (c) Each person notified of a joint determination under this subsection shall appear and present any information as is necessary to establish that person’s liability or nonliability for payment of withheld taxes to the department. If any person notified fails to appear, the department shall make its determination on the basis of all the information and evidence presented. The department’s determination shall be binding on all persons notified and required to appear under this subsection.
 
-      (d)(A) If an appeal is taken to the Oregon Tax Court pursuant to ORS 305.404 to 305.560 by any person determined to be liable for unpaid withholding taxes under this subsection, each person required to appear before the department under this subsection shall be impleaded by the plaintiff. The department may implead any officer, employee or member who may be held jointly and severally liable for the payment of withheld taxes. Each person impleaded under this paragraph shall be made a party to the action before the tax court and shall make available to the tax court such information as was presented before the department, as well as such other information as may be presented to the court.
+      (d)(A) If an appeal is taken to the Oregon Tax Court pursuant to ORS 305.404 to 305.560 by any person determined to be liable for unpaid withholding taxes under this subsection, each person required to appear before the department under this subsection shall be impleaded by the plaintiff. The department may implead any officer, employee or member who may be held jointly and severally liable for the payment of withheld taxes. Each person impleaded under this paragraph shall be made a party to the action before the tax court and shall make available to the tax court any information as was presented before the department, as well as any other information as may be presented to the court.
 
       (B) The court may determine that one or more persons impleaded under this paragraph are liable for unpaid withholding taxes without regard to any earlier determination by the department that an impleaded person was not liable for unpaid withholding taxes.
 
       (C) If any person required to appear before the court under this subsection fails or refuses to appear or bring such information in part or in whole, or is outside the jurisdiction of the tax court, the court shall make its determination on the basis of all the evidence introduced. All such evidence shall constitute a public record and shall be available to the parties and the court notwithstanding ORS 314.835, 314.840 or 314.991. The determination of the tax court shall be binding on all persons made parties to the action under this subsection.
 
-      (e) Nothing in this section shall be construed to preclude a determination by the department or the Oregon Tax Court that more than one officer, employee or member are jointly and severally liable for unpaid withholding taxes. [1969 c.493 §33; 1985 c.406 §4; 1989 c.423 §3; 1993 c.593 §6; 1995 c.650 §38; 1997 c.839 §17; 2001 c.660 §42; 2005 c.688 §4; 2017 c.750 §122g]
+      (e) Nothing in this section shall be construed to preclude a determination by the department or the Oregon Tax Court that more than one officer, employee or member are jointly and severally liable for unpaid withholding taxes. [1969 c.493 §33; 1985 c.406 §4; 1989 c.423 §3; 1993 c.593 §6; 1995 c.650 §38; 1997 c.839 §17; 2001 c.660 §42; 2005 c.688 §4; 2017 c.750 §122g; 2019 c.134 §9]
 
  
 
@@ -2655,7 +2713,7 @@ COLLECTION OF TAX AT SOURCE OF PAYMENT
 
  
 
-      316.212 Application of penalties, misdemeanors and jeopardy assessment; employer as taxpayer. The provisions of the income tax laws in ORS chapters 305 and 314 and this chapter, relating to penalties, misdemeanors and jeopardy assessments, apply to employers subject to the provisions of ORS 316.162 to 316.221 and 320.550, and for these purposes any amount deducted or required to be deducted and remitted to the Department of Revenue under ORS 316.162 to 316.221 and 320.550 is considered the tax of the employer and with respect to such amount the employer is considered as a taxpayer. [1969 c.493 §34; 1982 s.s.1 c.16 §10; 1985 c.87 §5; 2017 c.750 §122h]
+      316.212 Applicability of other provisions of tax law; employer as taxpayer. The provisions of the income tax laws in ORS chapters 305 and 314 and this chapter, as to the audit and examination of returns, periods of limitation, determinations of and notices of deficiencies, assessments, collections, liens, delinquencies, claims for refund and refunds, conferences, judicial appeals, stays of collection pending appeal, confidentiality of returns and the related penalties, and the related procedures, apply to employers subject to the provisions of ORS 316.162 to 316.221 and 320.550, and for these purposes any amount deducted or required to be deducted and remitted to the Department of Revenue under ORS 316.162 to 316.221 and 320.550 is considered the tax of the employer and with respect to the amount the employer is considered as a taxpayer. [1969 c.493 §34; 1982 s.s.1 c.16 §10; 1985 c.87 §5; 2017 c.750 §122h; 2019 c.134 §10]
 
  
 
@@ -2850,8 +2908,6 @@ NONRESIDENT REPORTING
 ESTATES AND TRUSTS
 
 (Generally)
-
- 
 
       316.267 Application of chapter to estates and certain trusts. The tax imposed by this chapter on individuals applies to the taxable income of estates and trusts, except for trusts taxed as corporations under ORS chapter 317 or 318. [1969 c.493 §39; 1973 c.115 §3]
 
@@ -3447,6 +3503,32 @@ DISTRIBUTION OF REVENUE
 
  
 
+      Note: Sections 13 and 14, chapter 105, Oregon Laws 2018, provide:
+
+      Sec. 13. Transfer of excess capital gains revenue above forecast. (1) Not earlier than July 1 and not later than October 1 of the years 2019, 2021 and 2023, the division of the Oregon Department of Administrative Services that serves as office of economic analysis shall:
+
+      (a) Calculate the rate of change in the tax liability from personal income taxes on taxable capital gains during the five preceding biennia; and
+
+      (b) Use the rate of change calculated under paragraph (a) of this subsection to forecast the tax liability from personal income taxes on taxable capital gains for the biennium beginning on July 1 of the year in which the calculation is made.
+
+      (2) Not later than November 1 of the odd-numbered year following each calculation under subsection (1) of this section, the Oregon Department of Administrative Services, in consultation with the Department of Revenue, shall estimate the tax liability from personal income taxes on taxable capital gains for the previous biennium.
+
+      (3) Not later than November 30 of the odd-numbered year in which the estimate is made under subsection (2) of this section, the Oregon Department of Administrative Services, in consultation with the Department of Revenue, shall determine whether the tax liability from personal income taxes on capital gains estimated under subsection (2) of this section, less any amount required to be returned to taxpayers under ORS 291.349, exceeds the tax liability from personal income taxes on taxable capital gains forecasted under subsection (1) of this section.
+
+      (4) Except as provided in subsection (5) of this section, on the last business day of the odd-numbered year in which the estimate is made under subsection (2) of this section, the Department of Revenue shall transfer an amount equal to 25 percent of any excess calculated under subsection (3) of this section to the School Districts Unfunded Liability Fund established in section 24, chapter 105, Oregon Laws 2018.
+
+      (5) The Department of Revenue may not make a transfer under subsection (4) of this section if:
+
+      (a) The Legislative Assembly has appropriated moneys from the Oregon Rainy Day Fund under ORS 293.144 on or after June 2, 2018; or
+
+      (b) The Public Employees Retirement System is more than 90 percent funded as determined in accordance with rules adopted by the Public Employees Retirement Board.
+
+      (6) The Department of Revenue shall retain unreceipted revenue from the tax imposed under ORS chapter 316 in an amount necessary to make the transfer required under subsection (4) of this section. The department shall make the transfer out of the unreceipted revenue in lieu of paying the revenue over to the State Treasurer for deposit in the General Fund. [2018 c.105 §13; 2019 c.355 §49]
+
+      Sec. 14. The division of the Oregon Department of Administrative Services that serves as office of economic analysis shall make the first calculation required under section 13 (1) of this 2018 Act not later than October 1, 2019. The calculation shall be for the five biennia beginning July 1, 2009. [2018 c.105 §14]
+
+ 
+
       316.505 [1953 c.304 §55; 1953 c.552 §13; 1955 c.596 §3; subsection (3) derived from 1955 c.596 §4; 1957 c.586 §3; 1963 c.627 §16 (referred and rejected); repealed by 1969 c.493 §99]
 
  
@@ -3815,7 +3897,7 @@ MODIFICATIONS OF TAXABLE INCOME
 
       (g) Any amounts awarded to the taxpayer by the Public Safety Memorial Fund Board under ORS 243.954 to 243.974 to the extent that the taxpayer has not taken the amount as a deduction in determining the taxpayer’s federal taxable income for the tax year.
 
-      (h) If included in taxable income for federal tax purposes, the amount withdrawn during the tax year in qualified withdrawals from a savings network account for higher education established under ORS 178.300 to 178.355.
+      (h) If included in taxable income for federal tax purposes, the amount withdrawn during the tax year in qualified withdrawals from a savings network account for higher education established under ORS 178.300 to 178.360.
 
       (i) Any federal deduction that the taxpayer would have been allowed for the production, processing or sale of marijuana items authorized under ORS 475B.010 to 475B.545 or 475B.785 to 475B.949 but for section 280E of the Internal Revenue Code.
 
@@ -3845,11 +3927,13 @@ MODIFICATIONS OF TAXABLE INCOME
 
       (i) Any amount taken as a deduction under section 1341 of the Internal Revenue Code in computing federal taxable income for the tax year, if the taxpayer has claimed a credit for claim of right income repayment adjustment under ORS 315.068.
 
-      (j) If the taxpayer makes a nonqualified withdrawal, as defined in ORS 178.300, from a savings network account for higher education established under ORS 178.300 to 178.355, the amount of the withdrawal that is attributable to contributions that were subtracted from federal taxable income under ORS 316.699.
+      (j) If the taxpayer makes a nonqualified withdrawal, as defined in ORS 178.300, from a savings network account for higher education established under ORS 178.300 to 178.360, the amount of the withdrawal that is attributable to contributions that were subtracted from federal taxable income under ORS 316.699.
 
-      (k) If the taxpayer makes a distribution from an ABLE account that is not a qualified disability expense of the designated beneficiary as provided in ORS 178.375 and 178.380 and rules adopted by the Oregon 529 Savings Board, the amount of the distribution that is attributable to contributions that were subtracted from federal taxable income under ORS 316.699.
+      (k) If a taxpayer makes a withdrawal from a savings network account for higher education established under ORS 178.300 to 178.360 to pay expenses in connection with enrollment or attendance at an elementary or secondary school, the amount of the withdrawal that is attributable to contributions that were subtracted from federal taxable income under ORS 316.699 and the amount of the withdrawal that is attributable to previously untaxed earnings and gains.
 
-      (3) Discount and gain or loss on retirement or disposition of obligations described under subsection (2)(a) of this section issued on or after January 1, 1985, shall be treated for purposes of this chapter in the same manner as under sections 1271 to 1283 and other pertinent sections of the Internal Revenue Code as if the obligations, although issued by a foreign state or a political subdivision of a foreign state, were not tax exempt under the Internal Revenue Code. [Formerly 316.067; 1985 c.345 §7; 1985 c.802 §11; 1987 c.293 §23; 1987 c.647 §13; 1991 c.457 §7b; 1991 c.823 §3; 1995 c.556 §8; 1995 c.561 §17; 1995 c.746 §59; 1995 c.816 §32; 1997 c.99 §18; 1999 c.90 §22; 1999 c.403 §1; 1999 c.746 §12; 1999 c.981 §16; 1999 c.1005 §3; 1999 c.1007 §3; 2001 c.13 §1; 2001 c.212 §1; 2001 c.509 §18; 2003 c.280 §3; 2007 c.843 §§1,2,2a; 2009 c.202 §§1,2; 2013 c.194 §3; 2015 c.1 §74; 2015 c.699 §§20,21; 2015 c.843 §§3,4; 2016 c.91 §§8,9]
+      (L) If the taxpayer makes a distribution from an ABLE account that is not a qualified disability expense of the designated beneficiary as provided in ORS 178.375 and 178.380 and rules adopted by the Oregon 529 Savings Board, the amount of the distribution that is attributable to contributions that were subtracted from federal taxable income under ORS 316.699.
+
+      (3) Discount and gain or loss on retirement or disposition of obligations described under subsection (2)(a) of this section issued on or after January 1, 1985, shall be treated for purposes of this chapter in the same manner as under sections 1271 to 1283 and other pertinent sections of the Internal Revenue Code as if the obligations, although issued by a foreign state or a political subdivision of a foreign state, were not tax exempt under the Internal Revenue Code. [Formerly 316.067; 1985 c.345 §7; 1985 c.802 §11; 1987 c.293 §23; 1987 c.647 §13; 1991 c.457 §7b; 1991 c.823 §3; 1995 c.556 §8; 1995 c.561 §17; 1995 c.746 §59; 1995 c.816 §32; 1997 c.99 §18; 1999 c.90 §22; 1999 c.403 §1; 1999 c.746 §12; 1999 c.981 §16; 1999 c.1005 §3; 1999 c.1007 §3; 2001 c.13 §1; 2001 c.212 §1; 2001 c.509 §18; 2003 c.280 §3; 2007 c.843 §§1,2,2a; 2009 c.202 §§1,2; 2013 c.194 §3; 2015 c.1 §74; 2015 c.699 §§20,21; 2015 c.843 §§3,4; 2016 c.91 §§8,9; 2018 c.57 §2]
 
  
 
@@ -4063,7 +4147,7 @@ MODIFICATIONS OF TAXABLE INCOME
 
       316.699 Subtraction for contributions to savings network account for higher education or ABLE account; limitations; carryforward. (1) There shall be subtracted from federal taxable income the amount contributed to:
 
-      (a) A savings network account for higher education established under ORS 178.300 to 178.355; or
+      (a) A savings network account for higher education established under ORS 178.300 to 178.360; or
 
       (b) An ABLE account established under ORS 178.380 and rules adopted by the Oregon 529 Savings Board, when the contribution is made before the designated beneficiary of the account attains 21 years of age.
 
@@ -4082,6 +4166,16 @@ MODIFICATIONS OF TAXABLE INCOME
       (5) The amount contributed to a savings network account for higher education or an ABLE account may be subtracted from a preceding tax year if the contribution is made before the taxpayer files a return or before the 15th day of the fourth month following the closing of the taxpayer’s tax year, whichever is earlier.
 
       (6) A subtraction is not allowed under this section for any amount that has been transferred into a savings network account for higher education from an individual development account, through a rollover, as provided in ORS 458.685 (4)(a)(A). [2003 c.280 §2; 2007 c.843 §11; 2009 c.33 §22; 2015 c.701 §9a; 2015 c.843 §5]
+
+ 
+
+      Note: Section 4, chapter 579, Oregon Laws 2019, provides:
+
+      Sec. 4. Except as provided in ORS 316.699 (4), a taxpayer:
+
+      (1) May use a subtraction under ORS 316.699 only for contributions made in tax years beginning before January 1, 2020; and
+
+      (2) May carry forward and use a subtraction under ORS 316.699 (4) only in tax years beginning before January 1, 2025. [2019 c.579 §4]
 
  
 
@@ -4463,17 +4557,11 @@ MODIFICATIONS OF TAXABLE INCOME
 
       Note: Sections 6 and 7, chapter 826, Oregon Laws 2005, provide:
 
-      Sec. 6. Amounts received as a result of the sale of a manufactured dwelling park to a corporate entity formed by the tenants of the park, or by a nonprofit corporation or housing authority, as described in section 2, chapter 89, Oregon Laws 2014 [90.844], are exempt from the tax imposed by this chapter [ORS chapter 316]. [2005 c.826 §6]
+      Sec. 6. Amounts received as a result of the sale of a manufactured dwelling park to a corporate entity formed by the tenants of the park, or by a nonprofit corporation or housing authority, as described in section 2, chapter 89, Oregon Laws 2014 [90.844], are exempt from the tax imposed by this chapter [ORS chapter 316]. [2005 c.826 §6; 2014 c.89 §16; 2015 c.217 §9]
 
-      Sec. 7. (1) Section 6, chapter 826, Oregon Laws 2005, applies to tax years beginning on or after January 1, 2006, and before January 1, 2020.
+      Sec. 7. (1) Section 6, chapter 826, Oregon Laws 2005, applies to tax years beginning on or after January 1, 2006, and before January 1, 2026.
 
-      (2) The amendments to section 6, chapter 826, Oregon Laws 2005, by section 9 of this 2015 Act apply to tax years beginning on or after January 1, 2015, and before January 1, 2020. [2005 c.826 §7; 2007 c.906 §21; 2013 c.750 §36; 2015 c.217 §14]
-
- 
-
-      Note: Section 18, chapter 89, Oregon Laws 2014, provides:
-
-      Sec. 18. The amendments to sections 6 and 9, chapter 826, Oregon Laws 2005, by sections 16 and 17, chapter 89, Oregon Laws 2014, apply to a sale of a manufactured dwelling park on or after January 1, 2015, and to tax years beginning on or after January 1, 2015, and before January 1, 2020. [2014 c.89 §18; 2015 c.217 §13]
+      (2) The amendments to section 6, chapter 826, Oregon Laws 2005, by section 9, chapter 217, Oregon Laws 2015, apply to tax years beginning on or after January 1, 2015, and before January 1, 2026. [2005 c.826 §7; 2007 c.906 §21; 2013 c.750 §36; 2015 c.217 §14; 2019 c.579 §20]
 
  
 
@@ -4485,11 +4573,153 @@ MODIFICATIONS OF TAXABLE INCOME
 
  
 
+(First-time Home Buyer Savings Accounts)
+
+ 
+
+      316.796 Definitions. As used in ORS 316.796 to 316.803:
+
+      (1) “Account holder” means a first-time home buyer who establishes a first-time home buyer savings account.
+
+      (2) “Allowable closing costs” means disbursements listed in a settlement statement for the purchase of a single family residence by an account holder.
+
+      (3) “Eligible costs” means the down payment and allowable closing costs for the purchase of a single family residence by an account holder.
+
+      (4) “Financial institution” means a bank, a trust company, a commercial bank, a national bank, a savings bank, a savings and loan, a thrift institution, a credit union, an insurance company, a mutual fund, an investment firm or a similar entity authorized to do business in this state.
+
+      (5) “First-time home buyer” means an individual who is a resident of this state and has not owned or purchased, either individually or jointly, a single family residence during a period of three years prior to the date of the purchase of a single family residence.
+
+      (6) “First-time home buyer savings account” or “account” means an account established as a first-time home buyer savings account by written agreement between an account holder and a financial institution and that the account holder designates for the purpose of paying or reimbursing eligible costs for the purchase of a single family residence in this state by the account holder.
+
+      (7) “Resident of this state” has the meaning given that term in ORS 316.027.
+
+      (8) “Settlement statement” means the statement of receipts and disbursements for a transaction related to real estate, including a statement prescribed under the Real Estate Settlement Procedures Act of 1974, 12 U.S.C. 2601 et seq., and regulations thereunder.
+
+      (9) “Single family residence” means a residence intended for occupation by a single family unit that is owned and occupied by an account holder as the account holder’s principal residence. “Single family residence” includes a manufactured home, residential trailer, mobile home or condominium unit.
+
+      (10) “Taxable income” has the meaning given that term in ORS 316.022. [2018 c.109 §2]
+
+ 
+
+      316.797 First-time home buyer savings account; restrictions. (1) An individual may create a first-time home buyer savings account with a financial institution to be used to pay or reimburse the account holder’s eligible costs related to the purchase of a single family residence by entering into a first-time home buyer savings account agreement with the financial institution.
+
+      (2) An individual may jointly own a first-time home buyer savings account with another person if the joint account holders are both first-time home buyers and file a joint income tax return.
+
+      (3) An individual may not be the account holder of more than one first-time home buyer savings account.
+
+      (4) Only cash may be contributed to a first-time home buyer savings account. Subject to the limitations of ORS 316.798 (4), persons other than the account holder may contribute funds to a first-time home buyer savings account. There is no limitation on the amount of contributions that may be made to or retained in a first-time home buyer savings account.
+
+      (5) The account holder may not use funds held in a first-time home buyer savings account to pay expenses of administering the account, except that the financial institution that administers the account may deduct a service fee from the account.
+
+      (6) An account holder may withdraw all or part of the funds from a first-time home buyer savings account and deposit the funds in a new first-time home buyer savings account held by a different financial institution or the same financial institution.
+
+      (7) No financial institution is required to offer first-time home buyer savings accounts to customers of the institution. [2018 c.109 §3]
+
+ 
+
+      316.798 Subtraction for contributions; exemption for earnings; limitations. (1) Subject to ORS 316.800, and in addition to the other modifications to federal taxable income contained in this chapter, there shall be subtracted from federal taxable income the amount of funds contributed by an account holder to the account holder’s first-time home buyer savings account during the tax year, not to exceed $5,000 for an account holder who files an individual income tax return or $10,000 for joint account holders who file a joint income tax return.
+
+      (2) Earnings, including interest and other income, on the principal in the account during the tax year are exempt from taxation until withdrawn by the taxpayer, subject to subsection (3) of this section.
+
+      (3) An account holder may claim the subtraction and exemption under subsections (1) and (2) of this section:
+
+      (a) For contributions made into a first-time home buyer savings account opened before January 1, 2027;
+
+      (b) For a period not to exceed 10 years from the date the account holder first opens any first-time home buyer savings account; and
+
+      (c) For an aggregate total amount of principal and earnings not to exceed $50,000 during the 10-year period.
+
+      (4) A person other than the account holder who deposits funds in a first-time home buyer savings account is not entitled to the subtraction and exemption provided for in this section. [2018 c.109 §4]
+
+ 
+
       316.799 [Formerly 316.053; repealed by 1987 c.293 §70]
 
  
 
+      316.800 Limits phased out based on income applicable to subtraction or exemption. (1) The limits applicable to a subtraction from federal taxable income and an exemption allowed under ORS 316.798 are:
+
+      (a) $10,000 if reported on a joint income tax return, or $5,000 for all others, if the federal adjusted gross income of the taxpayer for the tax year is less than $149,000 or, if reported on other than a joint return, less than $104,000.
+
+      (b) $8,000 if reported on a joint income tax return, or $4,000 for all others, if the federal adjusted gross income of the taxpayer for the tax year is $149,000 or more and less than $158,000 or, if reported on other than a joint return, $104,000 or more and less than $111,000.
+
+      (c) $6,000 if reported on a joint income tax return, or $3,000 for all others, if the federal adjusted gross income of the taxpayer for the tax year is $158,000 or more and less than $167,000 or, if reported on other than a joint return, $111,000 or more and less than $117,000.
+
+      (d) $4,000 if reported on a joint income tax return, or $2,000 for all others, if the federal adjusted gross income of the taxpayer for the tax year is $167,000 or more and less than $176,000 or, if reported on other than a joint return, $117,000 or more and less than $123,000.
+
+      (e) $2,000 if reported on a joint income tax return, or $1,000 for all others, if the federal adjusted gross income of the taxpayer for the tax year is $176,000 or more and less than $187,000 or, if reported on other than a joint return, $123,000 or more and less than $131,000.
+
+      (2) If the federal adjusted gross income of the taxpayer for the tax year is $187,000 or more if reported on a joint income tax return, or $131,000 or more if reported on other than a joint income tax return, the limit is zero and the taxpayer is not allowed a subtraction from federal taxable income or an exemption under ORS 316.798.
+
+      (3) The Department of Revenue by rule may adjust the limits applicable in the current tax year to the subtractions and exemptions specified in subsection (1) of this section so that the limits reflect the percentage change in the U.S. City Average Consumer Price Index, as published by the Bureau of Labor Statistics of the United States Department of Labor, during the tax year.
+
+      (4) Any amounts contributed to a first-time home buyer savings account that are not subtracted from federal taxable income for any reason may not be carried forward as a subtraction for any succeeding tax year. [2018 c.109 §6]
+
+ 
+
+      316.801 Addition for certain amounts withdrawn; penalty; exceptions. (1) There shall be added to federal taxable income the amount of funds a taxpayer withdraws from a first-time home buyer savings account established under ORS 316.797, if:
+
+      (a) Those funds were used for a purpose other than eligible costs;
+
+      (b) In this tax year or a previous tax year, those funds were subtracted or exempted from federal taxable income under ORS 316.798; and
+
+      (c) Those funds were not deposited into another first-time home buyer savings account held by the taxpayer.
+
+      (2) There shall be added to federal taxable income the amount of funds a taxpayer holds in a first-time home buyer savings account not expended on eligible costs by December 31 of the last year of the 10-year period described under ORS 316.798 (3) if in a previous tax year those funds were subtracted or exempted from federal taxable income under ORS 316.798.
+
+      (3) The Department of Revenue shall assess a penalty against the taxpayer in the amount of five percent of the funds withdrawn from a taxpayer’s first-time home buyer savings account, if:
+
+      (a) The withdrawal of funds occurs during the 10-year period set forth in ORS 316.798 (3); and
+
+      (b) The withdrawn funds are not used for eligible costs or deposited into another first-time home buyer savings account held by the taxpayer.
+
+      (4) The penalty described in subsection (3) of this section does not apply to any funds withdrawn from a first-time home buyer savings account of:
+
+      (a) A taxpayer who is deceased;
+
+      (b) A taxpayer who has filed for protection under the United States Bankruptcy Code (11 U.S.C. 101 et seq.); or
+
+      (c) A taxpayer whose loss of use or function of any portion of the body permanently incapacitates the taxpayer from regularly performing work at a gainful and suitable occupation. [2018 c.109 §7]
+
+ 
+
       316.802 [1969 c.493 §71; renumbered 316.970]
+
+ 
+
+      316.803 Obligations of financial institution; provision of certificates to account holders. (1) On or before January 31 of each year, a financial institution at which an account holder has created a first-time home buyer savings account shall provide to the account holder a certificate containing the following information:
+
+      (a) The date when the account was created;
+
+      (b) The name of the account holder;
+
+      (c) The amount of funds contributed to the account during the tax year;
+
+      (d) The amount of funds withdrawn from the account during the tax year; and
+
+      (e) Any other information as required by rules adopted by the Department of Revenue.
+
+      (2) A financial institution is not required to:
+
+      (a) Track the use of moneys withdrawn from a first-time home buyer savings account; or
+
+      (b) Allocate funds in a first-time home buyer savings account among joint account holders.
+
+      (3) A financial institution is not responsible or liable for:
+
+      (a) Determining or ensuring that an account satisfies the requirements to be a first-time home buyer savings account;
+
+      (b) Determining or ensuring that funds in a first-time home buyer savings account are used for eligible costs; or
+
+      (c) Reporting or remitting taxes or penalties related to the use of a first-time home buyer savings account.
+
+      (4) Upon being furnished proof of the death of the account holder and such other information required by the contract governing the first-time home buyer savings account, a financial institution shall distribute the principal and accumulated interest or other income in the first-time home buyer savings account in accordance with the terms of the contract governing the account. [2018 c.109 §8]
+
+ 
+
+      Note: Section 9, chapter 109, Oregon Laws 2018, provides:
+
+      Sec. 9. Sections 2 to 8 of this 2018 Act [316.796 to 316.803] apply to tax years beginning on or after January 1, 2019, and before January 1, 2037. [2018 c.109 §9]
 
  
 
@@ -4691,6 +4921,10 @@ MODIFICATIONS OF TAXABLE INCOME
 
  
 
+      316.853 Addition for amount deducted as deemed repatriation. In addition to the other modifications to federal taxable income contained in this chapter, to derive Oregon taxable income there shall be added to federal taxable income any amount deducted, for the tax year, for federal income tax purposes under section 965(c)(1) of the Internal Revenue Code. [2019 c.556 §2]
+
+ 
+
       316.854 [Formerly 316.150; 1985 c.802 §16a; repealed by 1987 c.293 §70]
 
  
@@ -4734,6 +4968,10 @@ MODIFICATIONS OF TAXABLE INCOME
  
 
       316.857 [1989 1985 c.352 §2; renumbered 316.216 in 1989]
+
+ 
+
+      316.859 Addition for amount deducted as qualified business income from pass-through entity. There shall be added to federal taxable income for Oregon tax purposes the amount allowable as a deduction under section 199A(a) of the Internal Revenue Code for the tax year. [2018 c.108 §10]
 
  
 

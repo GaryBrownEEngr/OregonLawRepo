@@ -4,24 +4,6 @@ Chapter 352 — Public Universities
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0065
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0006; 2018 Session Laws 0054; 2018 Session Laws 0065; 2018 Session Laws 0082; 2018 Session Laws 0122
-
- 
-
- 
-
 
  
 
@@ -47,7 +29,11 @@ PUBLIC UNIVERSITIES
 
  
 
-352.018     Cooperation with Chief Education Officer
+352.013     Designation of Eastern Oregon University as Oregon’s Rural University
+
+ 
+
+352.018     Cooperation with Higher Education Coordinating Commission
 
  
 
@@ -116,6 +102,10 @@ PUBLIC UNIVERSITY GOVERNANCE
  
 
 352.102     Tuition and mandatory enrollment fees
+
+ 
+
+352.103     Advisory body for tuition and mandatory enrollment fees; composition; process for making recommendation
 
  
 
@@ -235,11 +225,11 @@ PUBLIC UNIVERSITY GOVERNANCE
 
  
 
-352.287     Resident tuition and fees for persons who are not United States citizens or lawful permanent residents; qualifications; standards; reporting requirement
+352.287     Resident tuition and fees and eligibility for financial aid for persons who are not United States citizens or lawful permanent residents; qualifications; standards; reporting requirement
 
  
 
-352.293     Rights of student ordered to active duty; standards
+352.293     Rights of student ordered to active duty; standards; rules
 
  
 
@@ -315,10 +305,6 @@ FINANCES
 
  
 
-(Temporary provisions relating to general obligation bonds authorized for public universities during the 2017-2019 biennium are compiled as notes following ORS 352.435)
-
- 
-
 (Funds and Accounts)
 
  
@@ -352,10 +338,6 @@ UNIVERSITY OF OREGON
  
 
 352.624     Condon Collection at University of Oregon Museum of Natural and Cultural History
-
- 
-
-352.629     Use of apprentices, minority individuals and women in qualified contracts; report
 
  
 
@@ -408,10 +390,6 @@ OREGON STATE UNIVERSITY
  
 
 352.808     Institute for Natural Resources
-
- 
-
-(Temporary provisions relating to the Task Force on Independent Scientific Review for Natural Resources are compiled as notes following ORS 352.808)
 
  
 
@@ -481,6 +459,10 @@ PUBLIC UNIVERSITIES
 
  
 
+      352.013 Designation of Eastern Oregon University as Oregon’s Rural University. Eastern Oregon University is designated and shall be known as Oregon’s Rural University. [2018 c.6 §1]
+
+ 
+
       352.015 [1991 c.935 §§1,2; 2007 c.70 §147; 2011 c.637 §240; renumbered 352.268 in 2015]
 
  
@@ -489,13 +471,7 @@ PUBLIC UNIVERSITIES
 
  
 
-      352.018 Cooperation with Chief Education Officer. Public universities listed in ORS 352.002 shall cooperate with the Chief Education Officer in the development of a state comprehensive education plan including post-secondary education and in review of the universities’ programs and budget. The public universities shall submit in timely fashion to the Chief Education Officer the data as is appropriate in a form prescribed by the officer. [Formerly 351.203]
-
- 
-
-      Note: The amendments to 352.018 (formerly 351.203) by section 58, chapter 774, Oregon Laws 2015, become operative June 30, 2019. See section 72, chapter 774, Oregon Laws 2015, as amended by section 14, chapter 682, Oregon Laws 2015, section 20, chapter 763, Oregon Laws 2015, and section 27, chapter 639, Oregon Laws 2017. The text that is operative on and after June 30, 2019, is set forth for the user’s convenience.
-
-      352.018. Public universities listed in ORS 352.002 shall cooperate with the Higher Education Coordinating Commission in the development of a state comprehensive education plan including post-secondary education and in review of the universities’ programs and budget. The public universities shall submit in timely fashion to the commission the data as is appropriate in a form prescribed by the commission.
+      352.018 Cooperation with Higher Education Coordinating Commission. Public universities listed in ORS 352.002 shall cooperate with the Higher Education Coordinating Commission in the development of a state comprehensive education plan including post-secondary education and in review of the universities’ programs and budget. The public universities shall submit in timely fashion to the commission the data as is appropriate in a form prescribed by the commission. [Formerly 351.203]
 
  
 
@@ -549,7 +525,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
  
 
-      Note: Legislative Counsel has substituted “chapter 768, Oregon Laws 2013,” for the words “this 2013 Act” in section 172a, chapter 768, Oregon Laws 2013, compiled as 352.027. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2013 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 768, Oregon Laws 2013,” for the words “this 2013 Act” in section 172a, chapter 768, Oregon Laws 2013, compiled as 352.027. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 2013 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -733,12 +709,6 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
  
 
-      Note: Section 2, chapter 435, Oregon Laws 2017, provides:
-
-      Sec. 2. A public university shall submit the first report required under section 1 (1) of this 2017 Act [352.069 (1)] not later than January 1, 2019. [2017 c.435 §2]
-
- 
-
       352.070 [Repealed by 1961 c.238 §1]
 
  
@@ -909,7 +879,11 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       352.102 Tuition and mandatory enrollment fees. (1) Except as set forth in this section, the governing board may authorize, establish, eliminate, collect, manage, use in any manner and expend all revenue derived from tuition and mandatory enrollment fees.
 
-      (2) The governing board shall establish a process for determining tuition and mandatory enrollment fees. The process must provide for participation of enrolled students and the recognized student government of the university.
+      (2) The governing board shall establish a process for determining tuition and mandatory enrollment fees. The process must:
+
+      (a) Include the use of an advisory body in the manner set forth in ORS 352.103; and
+
+      (b) Ensure that the governing board receives and considers all written reports and minority reports, including all recommendations, deliberations and observations of the advisory body that are provided to the president of the university under ORS 352.103.
 
       (3) The governing board shall request that the president of the university transmit to the board the joint recommendation of the president and the recognized student government before the board authorizes, establishes or eliminates any incidental fees for programs under the supervision or control of the board and found by the board to be advantageous to the cultural or physical development of students.
 
@@ -923,7 +897,69 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (b) The governing board shall attempt to limit annual increases in tuition and mandatory enrollment fees for undergraduate students who are enrolled in a degree program and have established residency in Oregon to a percentage that is not greater than the percentage increase in the Higher Education Price Index, as compiled by the Commonfund Institute.
 
-      (5) The governing board may not delegate authority to determine tuition and mandatory enrollment fees for undergraduate students who are enrolled in a degree program and are qualified to pay resident tuition. [2013 c.768 §10]
+      (5) If the governing board of a public university requests that the commission approve an increase in the total amount of tuition and mandatory enrollment fees of more than five percent under subsection (4)(a) of this section, the public university shall provide to the commission:
+
+      (a) All written reports and minority reports, including all recommendations, deliberations and observations of the advisory body that are provided to the president of the university under ORS 352.103; and
+
+      (b) Any other information or materials the commission determines are necessary in order for the commission to determine whether to approve the proposed increase in the total amount of tuition and mandatory enrollment fees.
+
+      (6) The governing board may not delegate authority to determine tuition and mandatory enrollment fees for undergraduate students who are enrolled in a degree program and are qualified to pay resident tuition. [2013 c.768 §10; 2018 c.65 §3]
+
+ 
+
+      352.103 Advisory body for tuition and mandatory enrollment fees; composition; process for making recommendation. (1) Each public university listed in ORS 352.002 shall have an advisory body to advise the president of the university on the president’s recommendations to the governing board regarding resident tuition and mandatory enrollment fees for the upcoming academic year.
+
+      (2) The public university shall:
+
+      (a) Establish a process to ensure that the advisory body required under subsection (1) of this section is composed of no fewer than:
+
+      (A) Two administrators of the university;
+
+      (B) Two faculty members of the university;
+
+      (C) Two students representing the recognized student government of the university; and
+
+      (D) Two students representing historically underserved students of the university, as defined by the public university.
+
+      (b) Establish a written document describing the role of the advisory body and the relationship of the advisory body to the public university, president of the university and the governing board.
+
+      (3) The public university shall ensure that all members of the advisory body are offered training on:
+
+      (a) The budget of the public university;
+
+      (b) The mechanisms by which moneys are appropriated by the Legislative Assembly to the Higher Education Coordinating Commission for allocation to public universities; and
+
+      (c) Historical data regarding the relationship between the amount of resident tuition and mandatory enrollment fees charged by the public university and the amount of state appropriations that the commission allocates to the public university.
+
+      (4) In order to assist the advisory body in making its recommendations, the public university shall provide the advisory body with:
+
+      (a) A plan for how the governing board and the public university’s administration are managing costs on an ongoing basis; and
+
+      (b) A plan for how resident tuition and mandatory enrollment fees could be decreased if the public university receives more moneys from the state than anticipated.
+
+      (5) Before making a recommendation to the president of the university that resident tuition and mandatory enrollment fees should be increased by more than five percent annually, the advisory body must document its consideration of:
+
+      (a) The impact of the resident tuition and mandatory enrollment fees that the advisory body intends to recommend to the president of the public university on:
+
+      (A) Students at the public university, with an emphasis on historically underserved students, as defined by the public university; and
+
+      (B) The mission of the public university, as described by the mission statement adopted under ORS 352.089; and
+
+      (b) Alternative scenarios that involve smaller increases in resident tuition and mandatory enrollment fees than the advisory body intends to recommend to the president of the public university.
+
+      (6) The advisory body shall:
+
+      (a) Provide meaningful opportunities for members of the recognized student government and other students enrolled at the public university to participate in the process and deliberations of the advisory body; and
+
+      (b) At a time established by the public university, provide a written report to the president of the university that sets forth the recommendations, deliberations and observations of the advisory body regarding resident tuition and mandatory enrollment fees for the upcoming academic year. The written report must include any minority report requested by a member of the advisory body and any documents produced or received by the advisory body under subsections (4) and (5) of this section.
+
+      (7) Each public university shall ensure that the process of establishing resident tuition and mandatory enrollment fees at the public university is described on the Internet website of the public university. This material must include, but is not limited to:
+
+      (a) The written document produced by the public university under subsection (2)(b) of this section; and
+
+      (b) All relevant documents, agendas and data that are considered by the advisory body during its deliberations.
+
+      (8) As used in this section, “resident tuition and mandatory enrollment fees” means the tuition and mandatory enrollment fees for undergraduate students who are enrolled in a degree program and have established residency in Oregon. [2018 c.65 §2]
 
  
 
@@ -981,9 +1017,9 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (b) Establish a police department and commission one or more employees as police officers in the manner and with all of the privileges and immunities set forth in ORS 352.121. When a governing board establishes a police department and commissions one or more employees as police officers, the president of the university, in cooperation with the chief of the police department, shall establish a process by which the university will receive and respond to complaints involving the policies of the police department and the conduct of the police officers.
 
-      (c) Commission special campus security officers who, when acting in the scope of their employment, shall have stop and frisk authority as set forth in ORS 131.605 to 131.625 and probable cause arrest authority and the accompanying immunities as set forth in ORS 133.310 and 133.315. Special campus security officers may not be authorized to carry firearms as police officers and, except as provided in subsection (2) of this section, may not be considered police officers for purposes of ORS 181A.355, 238.005, 243.005 or 243.736.
+      (c) Commission special campus security officers who, when acting in the scope of their employment, shall have probable cause arrest authority and the accompanying immunities as set forth in ORS 133.310 and 133.315. Special campus security officers may not be authorized to carry firearms as police officers and, except as provided in subsection (2) of this section, may not be considered police officers for purposes of ORS 181A.355, 238.005, 243.005 or 243.736.
 
-      (2) A public university listed in ORS 352.002, acting by and through its special campus security officers, is a criminal justice agency for purposes of rules adopted pursuant to ORS 181A.280 (3). [2013 c.768 §13; 2017 c.440 §20]
+      (2) A public university listed in ORS 352.002, acting by and through its special campus security officers, is a criminal justice agency for purposes of rules adopted pursuant to ORS 181A.280 (3). [2013 c.768 §13; 2017 c.440 §20; 2019 c.152 §4]
 
  
 
@@ -1031,7 +1067,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (B) The Public Employees Retirement System or another plan authorized under ORS chapter 238 or 238A;
 
-      (C) The Optional Retirement Plan authorized by ORS 243.800; and
+      (C) The Optional Retirement Plan authorized by ORS 243.815; and
 
       (D) A public university tax-deferred investment plan that obtains the advantages of 26 U.S.C. 403(b) and is authorized by ORS 243.820; and
 
@@ -1055,7 +1091,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       352.135 Use and investment of moneys; role of State Treasurer. (1) All moneys collected or received by a public university listed in ORS 352.002, placed to the credit of the governing board of the public university and remaining unexpended and unobligated on July 1, 2014, or the date that the board is established, whichever is later, and all moneys collected or received by a public university after that date, may be:
 
-      (a) Deposited into one or more accounts established by the board in depositories insured by the Federal Deposit Insurance Corporation or the National Credit Union Share Insurance Fund, and the governing board shall ensure that sufficient collateral secures any amount of funds on deposit that exceeds the limits of the coverage of the Federal Deposit Insurance Corporation or the National Credit Union Share Insurance Fund; or
+      (a) Deposited into one or more accounts established by the board in depositories insured by the Federal Deposit Insurance Corporation or the National Credit Union Administration, and the governing board shall ensure that sufficient collateral secures any amount of funds on deposit that exceeds the limits of the coverage of the Federal Deposit Insurance Corporation or the National Credit Union Administration; or
 
       (b) Held, kept, pledged, controlled, conveyed, managed, used, loaned, expended and invested as set forth in ORS 352.087 and 352.102.
 
@@ -1063,7 +1099,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (3) Upon a request by a public university listed in ORS 352.002, the State Treasurer may receive, hold, keep, manage and invest any or all moneys, appropriations, gifts, bequests or revenues of the university from any source in accordance with an agreement entered into between the State Treasurer and the university and with the policies and procedures established by the State Treasurer, including the recoupment of costs incurred by the State Treasurer in carrying out these tasks.
 
-      (4) As used in this section, “depository” has the meaning given that term in ORS 295.001. [2013 c.768 §15; 2015 c.774 §39; 2017 c.440 §22]
+      (4) As used in this section, “depository” has the meaning given that term in ORS 295.001. [2013 c.768 §15; 2015 c.774 §39; 2017 c.440 §22; 2019 c.587 §38]
 
  
 
@@ -1083,7 +1119,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (5) Notwithstanding subsection (2) of this section, ORS 190.430 and 192.105 do not apply to a public university listed in ORS 352.002 or any organization or other entity described in subsection (1) of this section.
 
-      (6)(a) Notwithstanding ORS 352.033, except as set forth in subsection (3) of this section, ORS 243.650 to 243.782 and 276.073 to 276.090 and ORS chapters 238 and 238A apply to a public university listed in ORS 352.002 under the same terms as they apply to the state.
+      (6)(a) Notwithstanding ORS 352.033, except as set forth in subsection (3) of this section, ORS 243.650 to 243.806 and 276.073 to 276.090 and ORS chapters 238 and 238A apply to a public university listed in ORS 352.002 under the same terms as they apply to the state.
 
       (b) For purposes of determining the salary of an active member of the Public Employees Retirement System under ORS 238A.005 (17), remuneration paid to a member in return for services to a public university listed in ORS 352.002 is deemed includable in the member’s taxable income under Oregon law during a period of continuous employment with any public university listed in ORS 352.002 if:
 
@@ -1305,19 +1341,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (C) Reduction in courses due to administrative decisions.
 
-      (b) Interview one or more qualified minority applicants when hiring a head coach or athletic director, unless the public university was unable to identify a qualified minority applicant who was willing to interview for the position. It is an affirmative defense to a claim of a violation of this paragraph that the public university, in good faith, was unable to identify a qualified minority applicant who was willing to interview for the position. [Formerly 352.380]
-
- 
-
-      Note: The amendments to 352.218 (formerly 352.380) by section 3, chapter 780, Oregon Laws 2009, become operative January 2, 2020. See section 4, chapter 780, Oregon Laws 2009. The text that is operative on and after January 2, 2020, including amendments by section 248, chapter 637, Oregon Laws 2011, is set forth for the user’s convenience.
-
-      352.218. Each public university listed in ORS 352.002 shall consider and maintain affirmative action plans and goals when reductions in faculty and staff are required as a result of:
-
-      (1) Reductions in revenue that necessitate discontinuance of its educational program at its anticipated level;
-
-      (2) Elimination of classes due to decreased student enrollment; or
-
-      (3) Reduction in courses due to administrative decisions.
+      (b) Interview one or more qualified minority applicants when hiring a head coach or athletic director, unless the public university was unable to identify a qualified minority applicant who was willing to interview for the position. It is an affirmative defense to a claim of a violation of this paragraph that the public university, in good faith, was unable to identify a qualified minority applicant who was willing to interview for the position. [Formerly 352.380; 2019 c.190 §2]
 
  
 
@@ -1383,7 +1407,9 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (3) Any compensation described and authorized under subsection (1) of this section is considered official compensation or reimbursement of expenses for purposes of ORS 244.040 and is not considered an honorarium prohibited by ORS 244.042. If authorization or receipt of the compensation creates a potential conflict of interest, the officer or employee shall report the potential conflict in writing in accordance with standards of the governing board. The disclosure is a public record subject to public inspection.
 
-      (4) Each governing board shall adopt standards governing employee outside employment and activities, including potential conflict of interest, as defined by standards of the governing board and consistent with ORS 244.020, and the public disclosure thereof, and procedures for reporting and hearing potential or actual conflict of interest complaints. [Formerly 351.067]
+      (4) Compensation described and authorized under subsection (1) of this section that is not paid by the public university employing the officer or employee is not salary for purposes of ORS chapter 238 or 238A.
+
+      (5) Each governing board shall adopt standards governing employee outside employment and activities, including potential conflict of interest, as defined by standards of the governing board and consistent with ORS 244.020, and the public disclosure thereof, and procedures for reporting and hearing potential or actual conflict of interest complaints. [Formerly 351.067; 2018 c.54 §2]
 
  
 
@@ -1503,7 +1529,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
  
 
-      352.287 Resident tuition and fees for persons who are not United States citizens or lawful permanent residents; qualifications; standards; reporting requirement. (1) The governing board of a public university listed in ORS 352.002 shall exempt a student who is not a citizen or a lawful permanent resident of the United States from paying nonresident tuition and fees for enrollment in a public university listed in ORS 352.002 if the student:
+      352.287 Resident tuition and fees and eligibility for financial aid for persons who are not United States citizens or lawful permanent residents; qualifications; standards; reporting requirement. (1) The governing board of a public university listed in ORS 352.002 shall exempt a student who is not a citizen or a lawful permanent resident of the United States from paying nonresident tuition and fees for enrollment as an undergraduate student and as a graduate student in a degree program at a public university listed in ORS 352.002 if the student:
 
       (a) During each of the three years immediately prior to receiving a high school diploma or a modified diploma or leaving school before receiving a high school diploma or a modified diploma, attended an elementary or a secondary school in this state;
 
@@ -1511,13 +1537,9 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (c) Received a high school diploma or a modified diploma from a secondary school in this state or received the equivalent of a high school diploma; and
 
-      (d) Shows intention to become a citizen or a lawful permanent resident of the United States by submitting to the public university the student attends or plans to attend:
+      (d) Shows intention to become a citizen or a lawful permanent resident of the United States by submitting to the public university the student attends or plans to attend an official copy of the student’s application to register with a federal immigration program or federal deportation deferral program or a statement of intent that the student will seek to obtain citizenship as permitted under federal law.
 
-      (A) An official copy of the student’s application to register with a federal immigration program or federal deportation deferral program or a statement of intent that the student will seek to obtain citizenship as permitted under federal law; and
-
-      (B) An affidavit stating that the student has applied for a federal individual taxpayer identification number or other official federal identification document.
-
-      (2) The governing board shall exempt a student who is financially dependent upon a person who is not a citizen or a lawful permanent resident of the United States from paying nonresident tuition and fees for enrollment in a public university listed in ORS 352.002 if the student:
+      (2) The governing board shall exempt a student who is financially dependent upon a person who is not a citizen or a lawful permanent resident of the United States from paying nonresident tuition and fees for enrollment as an undergraduate student and as a graduate student in a degree program at a public university listed in ORS 352.002 if the student:
 
       (a) During each of the three years immediately prior to receiving a high school diploma or a modified diploma or leaving school before receiving a high school diploma or a modified diploma, attended an elementary or a secondary school in this state and resided in this state with the person upon whom the student is dependent;
 
@@ -1525,21 +1547,19 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (c) Received a high school diploma or a modified diploma from a secondary school in this state or received the equivalent of a high school diploma; and
 
-      (d) For a student who is not already a citizen or lawful permanent resident of the United States, shows intention to become a citizen or a lawful permanent resident of the United States by submitting to the public university the student attends or plans to attend:
+      (d) For a student who is not already a citizen or lawful permanent resident of the United States, shows intention to become a citizen or a lawful permanent resident of the United States by submitting to the public university the student attends or plans to attend an official copy of the student’s application to register with a federal immigration program or federal deportation deferral program or a statement of intent that the student will seek to obtain citizenship as permitted under federal law.
 
-      (A) An official copy of the student’s application to register with a federal immigration program or federal deportation deferral program or a statement of intent that the student will seek to obtain citizenship as permitted under federal law; and
-
-      (B) An affidavit stating that the student has applied for a federal individual taxpayer identification number or other official federal identification document.
-
-      (3) A student who is a citizen or a lawful permanent resident of the United States and who has resided outside of Oregon for more than three years while serving in the Armed Forces of the United States, but who otherwise meets the requirements of subsection (1) or (2) of this section, shall qualify for exemption from nonresident tuition and fees for enrollment in a public university listed in ORS 352.002 without having to reestablish residency in Oregon.
+      (3) A student who is a citizen or a lawful permanent resident of the United States and who has resided outside of Oregon for more than three years while serving in the Armed Forces of the United States, but who otherwise meets the requirements of subsection (1) or (2) of this section, shall qualify for exemption from nonresident tuition and fees for enrollment as an undergraduate student and a graduate student in a degree program at a public university listed in ORS 352.002 without having to reestablish residency in Oregon.
 
       (4) The governing board shall adopt standards to implement the provisions of this section.
 
       (5) Not later than July 1 of each year, the Higher Education Coordinating Commission shall report to the Speaker of the House of Representatives, the President of the Senate and the interim committees of the Legislative Assembly with subject matter authority over higher education, for the preceding academic year:
 
-      (a) The number of students that applied and were accepted into public universities under this section; and
+      (a) The number of students that applied and were accepted into public universities under subsections (1) to (3) of this section; and
 
-      (b) The financial impact of this section on public universities listed in ORS 352.002. [Formerly 351.641; 2017 c.726 §11]
+      (b) The financial impact of subsections (1) to (3) of this section on public universities listed in ORS 352.002.
+
+      (6) A student who is not a citizen or a lawful permanent resident of the United States is eligible to receive scholarships and other financial aid from public universities listed in ORS 352.002. [Formerly 351.641; 2017 c.726 §11; 2018 c.122 §1; 2019 c.300 §1]
 
  
 
@@ -1547,7 +1567,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
  
 
-      352.293 Rights of student ordered to active duty; standards. (1) A student at a public university listed in ORS 352.002 who is a member of the military, a member of the commissioned corps of the National Oceanic and Atmospheric Administration or a member of the Public Health Service of the United States Department of Health and Human Services detailed by proper authority for duty with the Army or Navy of the United States and who is ordered to federal or state active duty for more than 30 consecutive days has the following rights:
+      352.293 Rights of student ordered to active duty; standards; rules. (1) A student at a public university listed in ORS 352.002 who is a member of the military, a member of the commissioned corps of the National Oceanic and Atmospheric Administration or a member of the Public Health Service of the United States Department of Health and Human Services detailed by proper authority for duty with the Army or Navy of the United States and who is ordered to federal or state active duty for more than 30 consecutive days has the following rights:
 
       (a) With regard to a course in which the student is enrolled and for which the student has paid tuition and fees, the right to:
 
@@ -1561,7 +1581,7 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (c) If the student elects to withdraw from the public university, the right to be readmitted and reenrolled at the public university within one year after release from active duty without a requirement of redetermination of admission eligibility; and
 
-      (d) The right to continuation of scholarships and grants awarded to the student that were funded by the public university or the Higher Education Coordinating Commission before the student was ordered to active duty.
+      (d) The right to continuation of scholarships and grants awarded to the student that were funded by the public university or the Higher Education Coordinating Commission before the student was ordered to active duty. The commission may adopt rules for the administration of scholarships and grants described in this paragraph that are funded by the commission.
 
       (2) If the student elects to withdraw from a course under subsection (1)(a)(A) of this section, the public university may not:
 
@@ -1579,13 +1599,25 @@ Chapter 768, Oregon Laws 2013, is intended to preserve the autonomy of the publi
 
       (c) A letter grade or a grade of pass may be awarded only if, in the opinion of the teacher of the course, the student completes sufficient work and demonstrates sufficient progress toward meeting course requirements to justify the grade.
 
-      (4) The Higher Education Coordinating Commission and the governing board of a public university listed in ORS 352.002 shall adopt standards for the administration of this section.
+      (4) If a student at a public university listed in ORS 352.002 who is a member of the military, a member of the commissioned corps of the National Oceanic and Atmospheric Administration or a member of the Public Health Service of the United States Department of Health and Human Services detailed by proper authority for duty with the Army or Navy of the United States is ordered to federal or state active duty for 30 or fewer consecutive days and misses a course session, assignment, examination or other course work due to serving on active duty or receiving medical treatment for an injury sustained on active duty:
 
-      (5) As used in this section, “member of the military” means a person who is a member of:
+      (a)(A) In accordance with a policy or practice of the public university for excused absences, the student may complete any missed course assignment, examination or other course work after the student has returned from active duty or medical treatment and has been provided a reasonable amount of time to complete the assignment or other course work or prepare for and take the examination; or
+
+      (B) The teacher may award a letter grade or grade of pass without requiring the student to complete the missed assignment, examination or other course work if the teacher determines that the student has completed sufficient work and demonstrated sufficient progress toward meeting course requirements to justify the student’s grade without completion of the missed assignment, examination or other course work;
+
+      (b) The student’s grade may not be adversely impacted solely due to the late completion of an assignment, examination or other course work if the assignment, examination or other course work is timely completed under the provisions of paragraph (a)(A) of this subsection; and
+
+      (c) Course sessions the student misses due to active duty or medical treatment shall be counted as excused absences and may not adversely impact the student’s grade for the course or rank in the student’s class.
+
+      (5) The Higher Education Coordinating Commission and the governing board of a public university listed in ORS 352.002 shall adopt standards for the administration of this section.
+
+      (6) Nothing in this section prevents a public university from providing rights in addition to those provided in this section to students who are ordered to federal or state active duty.
+
+      (7) As used in this section, “member of the military” means a person who is a member of:
 
       (a) The Oregon National Guard or the National Guard of any other state or territory; or
 
-      (b) The reserves of the Army, Navy, Air Force, Marine Corps or Coast Guard of the United States. [Formerly 351.643]
+      (b) The reserves of the Army, Navy, Air Force, Marine Corps or Coast Guard of the United States. [Formerly 351.643; 2018 c.82 §2]
 
  
 
@@ -1761,7 +1793,7 @@ FINANCES
 
  
 
-      352.380 [1981 c.814 §1; 2009 c.780 §1; 2011 c.637 §247; renumbered 352.218 in 2015]
+      352.380 [1981 c.814 §1; 2009 c.780 §§1,3; 2011 c.637 §§247,248; renumbered 352.218 in 2015]
 
  
 
@@ -1770,8 +1802,6 @@ FINANCES
  
 
       352.385 [1987 c.745 §§1,2; 1995 c.364 §1; 1997 c.853 §37; 2011 c.637 §249; repealed by 2015 c.767 §4]
-
- 
 
 (Bonds)
 
@@ -1843,8 +1873,6 @@ FINANCES
 
       352.400 [1973 c.692 §2; 1979 c.620 §2; 1995 c.79 §195; renumbered 350.120 in 2015]
 
- 
-
       352.402 Eligibility of public universities to receive proceeds from state bonds; requirements; review by State Treasurer. (1) A public university listed in ORS 352.002 may elect to remain eligible to receive proceeds of state bonds. If a public university requests the State Treasurer to issue state bonds for the benefit of the university that are authorized under Article XI-F(1) or XI-Q of the Oregon Constitution or ORS 283.085 to 283.092, and the state bonds are intended to be repaid in whole or in part by university revenues or other moneys under the control of the university, the State Treasurer must review and approve all plans to issue revenue bonds of the university and to execute other obligations related to the revenue bonds.
 
       (2) The State Treasurer shall limit the scope of review and approval under subsection (1) of this section to consideration of periodic cash flow projections and other information necessary to determine the sufficiency of the cash flow of the public university listed in ORS 352.002 to pay any loans from state agencies funded with the proceeds of state bonds and to pay costs for:
@@ -1899,8 +1927,6 @@ FINANCES
 
       352.410 [1979 c.782 §1; repealed by 1987 c.246 §8]
 
- 
-
       352.415 Repayment of outstanding state bonds and other obligations by public university; provision of cash flow projections to State Treasurer; agreement between public universities and State Treasurer. (1) ORS 352.388 to 352.415 do not impair the obligations, as defined in ORS 286A.100, or agreements of the State of Oregon or the State Board of Higher Education with respect to state bonds issued before August 14, 2013, for the benefit of a public university listed in ORS 352.002.
 
       (2) A public university listed in ORS 352.002 shall take all actions necessary to ensure full compliance with the operative documents executed with respect to state bonds issued before, on or after August 14, 2013, by the State Treasurer for the benefit of the public university.
@@ -1925,435 +1951,17 @@ FINANCES
 
       352.420 [1979 c.782 §2; repealed by 1987 c.246 §8]
 
- 
-
       352.428 Sale to State of Oregon or United States Government. The bonds may be sold to the State of Oregon or to the United States Government without advertisement thereof for public sale. [Formerly 351.440]
 
  
 
       352.430 [1979 c.782 §3; repealed by 1987 c.246 §8]
 
- 
-
       352.435 Repealed statutes continued effective until bonds redeemed. Outstanding bonds issued under article 3, chapter 36, title 111, O.C.L.A., and chapter 41, title 111, O.C.L.A., shall continue to be valid obligations until they are redeemed in full, and authority granted in connection with said bonds shall continue in effect until they have been so redeemed. [Formerly 351.500]
 
  
 
-(Temporary provisions relating to general obligation bonds authorized for public universities during the 2017-2019 biennium)
-
- 
-
-      Note: Section 1, chapter 570, Oregon Laws 2017, provides:
-
-      Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issuance of general obligation bonds of the state during the 2017-2019 biennium, notwithstanding section 10, chapter 705, Oregon Laws 2013, are as follows:
-
- 
-
- 
-
-      GENERAL OBLIGATION BONDS
-
-      General Fund Obligations
-
-      (1)             Higher Education Coordinating
-
-                        Commission (Art. XI-G):
-
-      (a)             Oregon Institute of
-
-                        Technology, Center for
-
-                        Excellence in Engineering
-
-                        and Technology/Cornett
-
-                        Hall Renovation                                 $          2,050,000
-
-      (b)             Oregon State University:
-
-      (A)             Quality Foods and Beverage
-
-                        Center                                                 $          9,100,000
-
-      (B)             Gilkey Hall Renovation                      $          2,050,000
-
-      (c)             Portland State University,
-
-                        Graduate School of
-
-                        Education Facility                              $          36,485,000
-
-      (d)             University of Oregon,
-
-                        Campus for Accelerating
-
-                        Scientific Impact                                $          50,620,000
-
-      (e)             Western Oregon University:
-
-      (A)             Information Technology
-
-                        Center Renovation                              $          540,000
-
-      (B)             Oregon Military Building
-
-                        Renovation                                         $          540,000
-
-      (f)              Blue Mountain Community
-
-                        College, Facility for
-
-                        Agricultural Resource
-
-                        Management                                       $          5,115,000
-
-      (g)             Chemeketa Community
-
-                        College, Agricultural
-
-                        Complex                                             $          6,125,000
-
-      (h)             Clackamas Community College:
-
-      (A)             DeJardin Building Addition               $          8,140,000
-
-      (B)             Student Services and
-
-                        Community Commons                       $          8,140,000
-
-      (i)              Clatsop Community College,
-
-                        Marine Science Center
-
-                        Renovation and Expansion                 $          8,135,000
-
-      (j)              Columbia Gorge Community
-
-                        College, Middle College
-
-                        Prototype Facility                               $          7,400,000
-
-      (k)             Lane Community College,
-
-                        Health Care Village Facility              $          8,140,000
-
-      (L)             Linn-Benton Community
-
-                        College, Student Advising
-
-                        and Campus Safety Center                 $          7,635,000
-
-      (m)             Mt. Hood Community College,
-
-                        Maywood Park Center                        $          8,140,000
-
-      (n)             Oregon Coast Community
-
-                        College, Workforce Education
-
-                        and Resiliency Center                         $          8,140,000
-
-      (o)             Portland Community College,
-
-                        Health Technology
-
-                        Building Renovation                          $          8,140,000
-
-      (p)             Rogue Community College,
-
-                        Elk Building Science Facility
-
-                        Renovation and Expansion                 $          6,125,000
-
-      (q)             Southwestern Oregon
-
-                        Community College,
-
-                        Dellwood Hall Remodel and
-
-                        Expansion                                           $          2,805,000
-
-      (r)              Treasure Valley Community
-
-                        College, Workforce
-
-                        Vocational Center                               $          2,865,000
-
-      (s)              Umpqua Community College,
-
-                        Industrial Technology
-
-                        Building                                              $          8,140,000
-
-      (2)             Department of Environmental
-
-                        Quality (Art. XI-H)                             $          10,300,000
-
-      (3)             Oregon Business Development
-
-                        Department (Art. XI-M)                     $          101,180,000
-
-      (4)             Oregon Business Development
-
-                        Department (Art. XI-N)                      $          20,430,000
-
-      (5)             Department of Education
-
-                        (Art. XI-P)                                          $          100,985,000
-
-      (6)             Oregon Department of
-
-                        Administrative
-
-                        Services (Art. XI-Q):
-
-      (a)             Department of Corrections:
-
-      (A)             Capital Improvements and
-
-                        Renewal                                              $          26,770,000
-
-      (B)             Technology Infrastructure                  $          12,445,000
-
-      (b)             Department of Education,
-
-                        Oregon School for the Deaf
-
-                        Facility Improvements                       $          4,365,000
-
-      (c)             Department of Human
-
-                        Services, ONE Integrated
-
-                        Eligibility and Medicaid
-
-                        Eligibility System                               $          34,045,000
-
-      (d)             Department of Justice,
-
-                        Child Support Enforcement
-
-                        Automated System                             $          16,585,000
-
-      (e)             Department of Revenue,
-
-                        Core Tax Revenue Systems
-
-                        Replacement                                       $          4,855,000
-
-      (f)              Department of Veterans’
-
-                        Affairs:
-
-      (A)             Lebanon Veteran’s Home
-
-                        Parking Lot                                         $          1,345,000
-
-      (B)             The Dalles Veterans’ Home
-
-                        Capital Improvements                         $          1,195,000
-
-      (C)             Roseburg Veterans’ Home                 $          10,720,000
-
-      (g)             Housing and Community
-
-                        Services Department, Local
-
-                        Innovation and Fast Track
-
-                        Housing Program                               $          81,090,000
-
-      (h)             Higher Education
-
-                        Coordinating Commission:
-
-      (A)             Public Universities Capital
-
-                        Improvement and Renewal                 $          50,620,000
-
-      (B)             Eastern Oregon University,
-
-                        Loso Hall Renovation                        $          5,575,000
-
-      (C)             Oregon Institute of
-
-                        Technology:
-
-      (i)              Center for Excellence in
-
-                        Engineering and Technology/
-
-                        Cornett Hall Renovation                    $          38,475,000
-
-      (ii)             Oregon Manufacturing
-
-                        Innovation Center, Research
-
-                        and Development Facility                  $          3,940,000
-
-      (D)             Oregon State University:
-
-      (i)              Cordley Hall Renovation                    $          15,250,000
-
-      (ii)             Fairbanks Hall Renovation                 $          11,220,000
-
-      (iii)            Gilkey Hall Renovation                      $          1,045,000
-
-      (iv)             Cascades Expansion Site
-
-                        Reclamation                                       $          9,145,000
-
-      (E)             Portland State University,
-
-                        Graduate School of
-
-                        Education Facility                              $          9,145,000
-
-      (F)             Southern Oregon
-
-                        University, Central Hall
-
-                        Capital Improvements                         $          6,125,000
-
-      (G)             Western Oregon University:
-
-      (i)              Information Technology
-
-                        Center Renovation                              $          5,070,000
-
-      (ii)             Oregon Military Building
-
-                        Renovation                                         $          7,335,000
-
-      (i)              Legislative Administration
-
-                        Committee, Capitol
-
-                        Accessibility, Maintenance,
-
-                        and Safety                                          $          13,960,000
-
-      (j)              Oregon Judicial Department:
-
-      (A)             Lane County Courthouse                    $          5,115,000
-
-      (B)             Multnomah County
-
-                        Courthouse                                         $          102,495,000
-
-      (C)             Oregon Supreme Court
-
-                        Building Renovation                          $          6,125,000
-
-      (k)             Oregon Military Department:
-
-      (A)             Grants Pass Armory
-
-                        Service Life Extension                       $          3,330,000
-
-      (B)             Regional Armory Emergency
-
-                        Enhancement Project                          $          8,675,000
-
-      (C)             Regional Training Institute                $          6,630,000
-
-      (D)             Resiliency Grant Fund                        $          5,070,000
-
-      (E)             Youth Challenge Armory                   $          5,095,000
-
-      (L)             Oregon Youth Authority:
-
-      (A)             Capital Improvements                        $          17,450,000
-
-      (B)             MacLaren West Cottages
-
-                        Renovation                                         $          15,450,000
-
-      (C)             Rogue Valley Facility
-
-                        Improvements                                     $          7,095,000
-
-      (m)             State Department of Fish
-
-                        and Wildlife                                       $          10,215,000
-
-      (n)             State Forestry Department,
-
-                        Toledo Facility Replacement             $          774,225
-
-      Dedicated Fund Obligations
-
-      (7)             Department of Veterans’
-
-                        Affairs (Art. XI-A)                             $          120,000,000
-
-      (8)             Higher Education Coordinating
-
-                        Commission (Art. XI-F(1)):
-
-      (a)             Portland State University:
-
-      (A)             Land Acquisition for
-
-                        University Center Building                $          15,260,000
-
-      (B)             12th & Market
-
-                        Residence Hall                                    $          54,225,000
-
-      (C)             Graduate School of
-
-                        Education Facility                              $          6,080,000
-
-      (D)             Corbett Building Purchase                 $          5,100,000
-
-      (b)             Oregon Institute of
-
-                        Technology, Student
-
-                        Recreation Center                              $          5,115,000
-
-      (c)             Eastern Oregon University,
-
-                        Track and Field Facilities
-
-                        Restoration                                         $          790,000
-
-      (9)             Department of Environmental
-
-                        Quality (Art. XI-H)                             $          10,000,000
-
-      (10)           Housing and Community
-
-                        Services Department
-
-                        (Art. XI-I(2))                                       $          25,000,000
-
-      (11)           Oregon Department of
-
-                        Administrative Services
-
-                        (Art. XI-Q):
-
-      (a)             Portland State Office
-
-                        Building Improvements                      $          13,360,000
-
-      (b)             State Forestry Department,
-
-                        Toledo Facility Replacement             $          1,075,775
-
-      Total General Obligation
-
-      Bonds                                                                    $          1,257,310,000
-
-[2017 c.570 §1]
-
- 
-
       352.440 [1979 c.782 §4; repealed by 1987 c.246 §8]
-
- 
 
 (Funds and Accounts)
 
@@ -2481,7 +2089,9 @@ FINANCES
 
       (3) Moneys in the account are continuously appropriated to the University of Oregon and may be transferred to the account designated by the university for the facility project described in subsection (1) of this section. [2009 c.904 §24; 2011 c.2 §52; 2011 c.9 §48; 2013 c.768 §161]
 
-Note: Sections 11 to 17, chapter 761, Oregon Laws 2007, provide:
+ 
+
+      Note: Sections 11 to 17, chapter 761, Oregon Laws 2007, provide:
 
       Sec. 11. Western Oregon University Business, Math and Computer Science Facility Project Account. (1) There is established in the General Fund an account to be known as the Western Oregon University Business, Math and Computer Science Facility Project Account. Funds in the account shall be used for the acquisition, construction, remodeling, expansion and renovation of facilities for a facility project at Western Oregon University.
 
@@ -2611,41 +2221,11 @@ UNIVERSITY OF OREGON
 
  
 
-      352.629 Use of apprentices, minority individuals and women in qualified contracts; report. (1) As used in this section:
-
-      (a) “Apprentice” has the meaning given that term in ORS 660.010.
-
-      (b) “Apprenticeable occupation” has the meaning given that term in ORS 660.010.
-
-      (c) “Apprenticeship training program” means the total system of apprenticeship that a particular local joint committee, as defined in ORS 660.010, operates, including the local joint committee’s registered standards and all other terms and conditions for qualifying, recruiting, selecting, employing and training apprentices in an apprenticeable occupation.
-
-      (d) “Minority individual” has the meaning given that term in ORS 200.005.
-
-      (e) “Qualified contracts” means contracts that:
-
-      (A) Are for improvements to real property in connection with the University of Oregon Campus for Accelerating Scientific Impact;
-
-      (B) Have a cost that, at the time the contract is executed, is estimated to be greater than $200,000; and
-
-      (C) Are to be paid from proceeds of bonds issued under Article XI-G of the Oregon Constitution.
-
-      (f) “Woman” has the meaning given that term in ORS 200.005.
-
-      (2) The University of Oregon, in all qualified contracts, shall require contractors to:
-
-      (a) Employ apprentices to perform 15 percent of the work hours that workers in apprenticeable occupations perform under the contract, in a manner consistent with the apprentices’ respective apprenticeship training programs;
-
-      (b) Establish and execute a plan for outreach, recruitment and retention of women and minority individuals to perform work under the contract; and
-
-      (c) Require any subcontractors engaged by the contractors to abide by the requirements set forth in paragraphs (a) and (b) of this subsection.
-
-      (3) On or before February 1 of each year, the University of Oregon shall report to the Joint Committee on Ways and Means or Joint Interim Committee on Ways and Means on the amount of work performed by apprentices, women and minority individuals under qualified contracts. [2017 c.570 §11]
+      352.629 [2017 c.570 §11; 2019 c.549 §1; renumbered 350.379 in 2019]
 
  
 
       352.630 [Amended by 1969 c.594 §55; 1995 c.118 §4; repealed by 2009 c.762 §98]
-
- 
 
       352.640 [Amended by 1969 c.594 §56; 1975 c.605 §19; repealed by 1987 c.246 §8]
 
@@ -2660,8 +2240,6 @@ UNIVERSITY OF OREGON
  
 
       352.660 [Repealed by 1961 c.238 §1]
-
- 
 
       352.665 [1993 c.325 §1; renumbered 350.600 in 2015]
 
@@ -2684,8 +2262,6 @@ PORTLAND STATE UNIVERSITY
  
 
       352.670 [Repealed by 1961 c.238 §1]
-
- 
 
       352.672 [1993 c.325 §4; renumbered 350.615 in 2015]
 
@@ -2726,8 +2302,6 @@ PORTLAND STATE UNIVERSITY
  
 
       352.680 [Repealed by 1961 c.238 §1]
-
- 
 
       352.685 Oregon Criminal Justice Scientific Advisory Committee. The Oregon Criminal Justice Scientific Advisory Committee is established to provide assistance and advice to the Criminal Justice Research and Policy Institute. The director of the Mark O. Hatfield School of Government shall appoint the members of the advisory committee. In order to serve as a member of the advisory committee, a person must have earned a graduate degree in a related field from an accredited university. [Formerly 352.202]
 
@@ -2877,104 +2451,6 @@ OREGON STATE UNIVERSITY
 
  
 
-(Temporary provisions relating to the Task Force on Independent Scientific Review for Natural Resources)
-
- 
-
-      Note: Sections 1 to 3, chapter 771, Oregon Laws 2015, provide:
-
-      Sec. 1. The Legislative Assembly finds and declares that:
-
-      (1) Policy and program decisions made by natural resources agencies, boards and commissions can benefit from independent scientific review that:
-
-      (a) Reflects a balance of representation from various research sectors, academic and nonacademic, public and private;
-
-      (b) Is performed by distinguished scientists from a range of disciplines; and
-
-      (c) Is clearly communicated to the public and state and local officials.
-
-      (2) Oregon is home to many highly qualified scientists with recognized expertise in a variety of disciplines who are willing to contribute their time and knowledge to scientific reviews to inform the decisions made regarding state and local natural resources policies and programs. [2015 c.771 §1]
-
-      Sec. 2. (1) The Task Force on Independent Scientific Review for Natural Resources is established, consisting of up to 15 members.
-
-      (2) Members of the task force shall be appointed by the Governor in consultation with the Vice Presidents of Research, or their designees, at Oregon State University, the University of Oregon and Portland State University.
-
-      (3)(a) The task force shall consist of members from the forestry, agriculture, manufacturing, conservation, academic and research sectors, and representatives of Oregon State University, the University of Oregon and Portland State University.
-
-      (b) At least one member of the task force shall have previously served on the Independent Multidisciplinary Science Team created under ORS 541.914, as in effect prior to the operative date specified in section 9 of this 2015 Act [January 1, 2017], or on another state or federal scientific review body, such as the National Academy of Sciences.
-
-      (c) Representatives from state natural resources agencies may participate as nonvoting members.
-
-      (4) The task force shall evaluate and assess the need for independent scientific review in Oregon and make appropriate recommendations. In developing its recommendations, the task force shall:
-
-      (a) Proceed with the understanding that:
-
-      (A) Independent scientific reviews are not intended to replace internal agency reviews of natural resources policy and program decisions; and
-
-      (B) Agencies are not required to use an independent scientific review panel as recommended by the task force;
-
-      (b) Evaluate whether natural resources agencies, legislators and the public would benefit from the incorporation of independent scientific review in the making of policy decisions;
-
-      (c) Evaluate whether existing state, federal and academic resources for conducting independent scientific review are meeting the needs of natural resources agencies and other policymakers; and
-
-      (d) Evaluate the mechanisms and structures that are in place in other states and at the federal level for independent scientific review related to natural resources policy.
-
-      (5)(a) If the task force determines there is a need for independent scientific review in Oregon, the task force shall make recommendations on one or more entities, which may include existing scientific entities in Oregon or a new independent scientific review entity, that are best situated to conduct or coordinate independent scientific review and whether the entities identified would need legislative authority to act as independent scientific review bodies for Oregon.
-
-      (b) If the task force recommends use of a particular existing scientific entity, the task force shall make any recommendations regarding necessary changes to the entity based on the evaluation and assessment undertaken pursuant to subsection (4) of this section. If the task force recommends the development of a new independent scientific review entity, the task force shall make recommendations regarding how to structure a new independent scientific entity.
-
-      (6) In making recommendations under subsection (5) of this section, to ensure that an entity will provide scientific review that is independent, the task force shall consider:
-
-      (a) Whether the entity should provide reports to the Legislative Assembly or otherwise be subject to special legislative oversight;
-
-      (b) Whether organizational safeguards must be established or changed within the entity to ensure that the entity is free from bias and that a wide variety of natural resources disciplines and interests are represented;
-
-      (c) How to develop or change the structure or processes of the entity’s advisory board or other governing body in order to support the independence of scientific review panels convened by the entity, which shall include consideration of the entity’s advisory board or other governing body directing or participating in the scientific analysis and review conducted or coordinated by the entity;
-
-      (d) How the entity’s funding structure should be created, altered or supplemented to ensure that there is no perception of bias in the funding of independent scientific review panels and to ensure that adequate funds are available to convene such panels;
-
-      (e) How to develop processes for conducting or coordinating independent scientific review in order to encourage balanced, broad and diverse participation among the scientific disciplines that may be called upon in the course of independent scientific review; and
-
-      (f) How to develop procedures for the selection and deliberation of scientific experts to participate in independent scientific reviews, taking into consideration lessons learned from the processes used by the former Independent Multidisciplinary Science Team and other processes for independent scientific reviews.
-
-      (7) The task force also shall make recommendations regarding the structure and function of the process to be used by the recommended entities in the course of independent scientific reviews. In making recommendations under this subsection, the task force shall consider:
-
-      (a) Whether the entity should respond to inquiries from the Governor’s office or the Legislative Assembly, the citizen boards of natural resources agencies or from other appropriate parties;
-
-      (b) Whether the entity should independently select science issues to review;
-
-      (c) Whether a state agency should be required to respond in writing to a report issued by an independent scientific review panel, explaining how the agency intends to implement the panel’s suggestions or why the agency does not plan to implement the suggestions;
-
-      (d) How to enhance involvement of the University of Oregon, Oregon State University, Portland State University and other universities in the independent scientific review process; and
-
-      (e) How to provide a scientific review process that is open to the public and that inspires public confidence in, and understanding of, the review process without compromising the independence of the review.
-
-      (8) A majority of the voting members of the task force constitutes a quorum for the transaction of business.
-
-      (9) Official action by the task force requires the approval of a majority of the voting members of the task force.
-
-      (10) The task force shall elect one of the voting members to serve as chairperson.
-
-      (11) If there is a vacancy for any cause, the Governor shall, in consultation with the Vice Presidents of Research, or their designees, at Oregon State University, the University of Oregon and Portland State University, make an appointment to become immediately effective.
-
-      (12) The task force shall meet at times and places specified by a majority of the voting members of the task force.
-
-      (13) The task force may adopt rules necessary for the operation of the task force.
-
-      (14) The task force shall have its first meeting on or before January 1, 2016.
-
-      (15) The task force shall submit a report of its findings and recommendations to the Governor and to an appropriate committee of the Legislative Assembly in the manner provided in ORS 192.245 no later than September 15, 2016.
-
-      (16) The Institute for Natural Resources shall provide staff support to the task force.
-
-      (17) Members of the task force are not entitled to compensation, but may be reimbursed for actual and necessary travel and other expenses incurred by them in the performance of their official duties in the manner and amounts provided for in ORS 292.495. Claims for expenses shall be paid out of funds appropriated to the Institute for Natural Resources for purposes of the task force.
-
-      (18) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of its duties and, to the extent permitted by laws relating to confidentiality, to furnish such information and advice as the members of the task force consider necessary to perform their duties. [2015 c.771 §2]
-
-      Sec. 3. Sections 1 and 2 of this 2015 Act are repealed on January 2, 2019. [2015 c.771 §3]
-
- 
-
       352.810 [1987 c.812 §5; renumbered 350.685 in 2015]
 
  
@@ -3006,8 +2482,6 @@ OREGON STATE UNIVERSITY
  
 
       352.820 [1987 c.812 §7; renumbered 350.695 in 2015]
-
- 
 
       352.823 Oregon Climate Change Research Institute. (1) The Oregon Climate Change Research Institute is established at Oregon State University. In administering the institute, Oregon State University may seek the cooperation of other public universities listed in ORS 352.002.
 

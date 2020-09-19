@@ -313,6 +313,30 @@ SOLAR ENERGY
 
  
 
+RENEWABLE NATURAL GAS
+
+ 
+
+757.390     Legislative findings and declarations
+
+ 
+
+757.392     Definitions
+
+ 
+
+757.394     Renewable natural gas programs; rules; requirements
+
+ 
+
+757.396     Participating large natural gas utilities; portfolio targets; ratemaking mechanisms; qualified investments
+
+ 
+
+757.398     Small natural gas utilities; filing to participate; rate cap; cost recovery; qualified investments
+
+ 
+
 ISSUANCE OF SECURITIES
 
  
@@ -475,14 +499,6 @@ VOLUNTARY EMISSION REDUCTION PROGRAM
 
  
 
-ENERGY STORAGE SYSTEMS
-
- 
-
-(Temporary provisions relating to procurement of energy storage systems are compiled as notes following ORS 757.539)
-
- 
-
 OREGON UTILITY NOTIFICATION CENTER
 
  
@@ -536,6 +552,8 @@ DIRECT ACCESS REGULATION
  
 
 757.613     Use of public purpose charge moneys for whole building assessments
+
+ 
 
 757.617     Report to Legislative Assembly on public purpose expenditures; independent nongovernmental entity to prepare report; report on low-income bill assistance
 
@@ -2231,9 +2249,137 @@ SOLAR ENERGY
 
  
 
-      Note: Section 28, chapter 28, Oregon Laws 2016, provides:
+RENEWABLE NATURAL GAS
 
-      Sec. 28. On or before January 1, 2019, the Public Utility Commission shall report on the implementation of section 22 of this 2016 Act [757.386] to the interim committees of the Legislative Assembly related to business and energy. As part of the report, the commission may make recommendations for legislation. The commission shall submit the report in the manner required by ORS 192.245. [2016 c.28 §28]
+ 
+
+      757.390 Legislative findings and declarations. (1) The Legislative Assembly finds and declares that:
+
+      (a) Renewable natural gas provides benefits to natural gas utility customers and to the public; and
+
+      (b) The development of renewable natural gas resources should be encouraged to support a smooth transition to a low carbon energy economy in Oregon.
+
+      (2) The Legislative Assembly therefore declares that:
+
+      (a) Natural gas utilities can reduce emissions from the direct use of natural gas by procuring renewable natural gas and investing in renewable natural gas infrastructure;
+
+      (b) Regulatory guidelines for the procurement of renewable natural gas and investments in renewable natural gas infrastructure should enable the procurements and investments while also protecting Oregon consumers; and
+
+      (c) Renewable natural gas should be included in the broader set of low carbon resources that may leverage the natural gas system to reduce greenhouse gas emissions. [2019 c.541 §2]
+
+ 
+
+      757.392 Definitions. As used in ORS 757.390 to 757.398:
+
+      (1) “Biogas” means a mixture of carbon dioxide and hydrocarbons, primarily methane gas, released from the biological decomposition of organic materials.
+
+      (2) “Biomass” has the meaning given that term in ORS 315.141.
+
+      (3) “Large natural gas utility” means a natural gas utility with 200,000 or more customer accounts in Oregon.
+
+      (4) “Natural gas utility” means a public utility providing natural gas service to customers.
+
+      (5)(a) “Qualified investment” means any capital investment in renewable natural gas infrastructure incurred by a natural gas utility for the purpose of providing natural gas service under a renewable natural gas program described in ORS 757.396 or 757.398.
+
+      (b) “Qualified investment” does not mean an investment in a biogas production project by:
+
+      (A) A single livestock operation that produces more than 250 standard cubic feet of biogas per minute; or
+
+      (B) A single biogas source that produces more than 1,000 standard cubic feet of biogas per minute.
+
+      (6) “Renewable energy sources” means hydroelectric, geothermal, solar photovoltaic, wind, tidal, wave, biomass or biogas energy sources.
+
+      (7) “Renewable natural gas” means any of the following products processed to meet pipeline quality standards or transportation fuel grade requirements:
+
+      (a) Biogas that is upgraded to meet natural gas pipeline quality standards such that it may blend with, or substitute for, geologic natural gas;
+
+      (b) Hydrogen gas derived from renewable energy sources; or
+
+      (c) Methane gas derived from any combination of:
+
+      (A) Biogas;
+
+      (B) Hydrogen gas or carbon oxides derived from renewable energy sources; or
+
+      (C) Waste carbon dioxide.
+
+      (8) “Renewable natural gas infrastructure” means all equipment and facilities for the production, processing, pipeline interconnection and distribution of renewable natural gas to be furnished to Oregon customers.
+
+      (9) “Small natural gas utility” means a natural gas utility with fewer than 200,000 customer accounts in Oregon. [2019 c.541 §3]
+
+ 
+
+      757.394 Renewable natural gas programs; rules; requirements. (1) The Public Utility Commission shall adopt by rule a large renewable natural gas program for large natural gas utilities pursuant to the provisions of ORS 757.396.
+
+      (2) The commission shall adopt by rule a small renewable natural gas program for small natural gas utilities pursuant to ORS 757.398.
+
+      (3) Rules adopted by the commission under this section shall include:
+
+      (a) Rules for reporting requirements under the large renewable natural gas program and the small renewable natural gas program; and
+
+      (b) Rules for establishing a process for natural gas utilities to fully recover prudently incurred costs associated with the large renewable natural gas program and the small renewable natural gas program.
+
+      (4) Rules adopted by the commission under this section may not prohibit an affiliated interest of a small natural gas utility or of a large natural gas utility from making a capital investment in a biogas production project if the affiliated interest, as defined in ORS 757.015, is not a public utility. [2019 c.541 §4]
+
+ 
+
+      757.396 Participating large natural gas utilities; portfolio targets; ratemaking mechanisms; qualified investments. (1) A large natural gas utility that participates in the large renewable natural gas program adopted by rule by the Public Utility Commission under ORS 757.394 (1) may make qualified investments and procure renewable natural gas from third parties to meet the following portfolio targets for the percentage of gas purchased by the large natural gas utility for distribution to retail natural gas customers in Oregon that is renewable natural gas:
+
+      (a) In each of the calendar years 2020 through 2024, five percent may be renewable natural gas;
+
+      (b) In each of the calendar years 2025 through 2029, 10 percent may be renewable natural gas;
+
+      (c) In each of the calendar years 2030 through 2034, 15 percent may be renewable natural gas;
+
+      (d) In each of the calendar years 2035 through 2039, 20 percent may be renewable natural gas;
+
+      (e) In each of the calendar years 2040 through 2044, 25 percent may be renewable natural gas; and
+
+      (f) In each of the calendar years 2045 through 2050, 30 percent may be renewable natural gas.
+
+      (2) The commission shall adopt ratemaking mechanisms that ensure the recovery of all prudently incurred costs that contribute to the large natural gas utility’s meeting the targets set forth in subsection (1) of this section. Pursuant to the ratemaking mechanisms adopted under this subsection:
+
+      (a) Qualified investments and operating costs associated with qualified investments that contribute to the large natural gas utility meeting the targets set forth in subsection (1) of this section may be recovered by means of an automatic adjustment clause, as defined in ORS 757.210.
+
+      (b) Costs of procurement of renewable natural gas from third parties that contribute to the large natural gas utility meeting the targets set forth in subsection (1) of this section may be recovered by means of an automatic adjustment clause, as defined in ORS 757.210, or another recovery mechanism authorized by rule.
+
+      (3) When a large natural gas utility makes a qualified investment in the production of renewable natural gas, the costs associated with the qualified investment shall include the cost of capital established by the commission in the large natural gas utility’s most recent general rate case.
+
+      (4) Before making a qualified investment in biogas production that is upstream of conditioning equipment, pipeline interconnection or gas cleaning, a large natural gas utility shall engage in a competitive bidding process.
+
+      (5) If the large natural gas utility’s total incremental annual cost to meet the targets of the large renewable natural gas program exceeds five percent of the large natural gas utility’s total revenue requirement for an individual year, the large natural gas utility may no longer be authorized to make additional qualified investments under the large renewable natural gas program for that year without approval from the commission.
+
+      (6) The total incremental annual cost to meet the targets of the large renewable natural gas program must account for:
+
+      (a) Any value received by a large natural gas utility upon any resale of renewable natural gas, including any environmental credits that the renewable natural gas producer chooses to include with the sale of the renewable natural gas to the large natural gas utility; and
+
+      (b) Any savings achieved through avoidance of conventional gas purchases or development, such as avoided pipeline costs or carbon costs. [2019 c.541 §5]
+
+ 
+
+      757.398 Small natural gas utilities; filing to participate; rate cap; cost recovery; qualified investments. (1) Upon a filing by a small natural gas utility to participate in the small renewable natural gas program adopted by rule by the Public Utility Commission under ORS 757.394 (2), the commission shall establish a rate cap limiting the small natural gas utility’s costs of procuring renewable natural gas from third parties and qualified investments in renewable natural gas infrastructure. The rate cap must be expressed as a percentage of the small natural gas utility’s total revenue requirement as approved by the commission in the public utility’s most recent general rate case. For the purposes of establishing a rate cap under this subsection, the commission shall account for:
+
+      (a) Any value received by the small natural gas utility upon any resale of renewable natural gas, including any environmental credits that the renewable natural gas producer chooses to include with the sale of renewable natural gas to the small natural gas utility; and
+
+      (b) Any savings achieved through avoidance of conventional gas purchases or development, such as avoided pipeline costs or carbon costs.
+
+      (2)(a) A filing by a small natural gas utility under subsection (1) of this section must include, but need not be limited to:
+
+      (A) A proposal to procure a total volume of renewable natural gas over a specific period; and
+
+      (B) Identification of the qualified investments that the small natural gas utility may make in renewable natural gas infrastructure.
+
+      (b) A small natural gas utility may from time to time revise the filing submitted to the commission under this section.
+
+      (3) Any prudently incurred costs incurred by a small natural gas utility pursuant to a filing submitted under this section may be recovered by means of an automatic adjustment clause, as defined in ORS 757.210.
+
+      (4) When a small natural gas utility makes a qualified investment in the production of renewable natural gas, the costs associated with that qualified investment shall include the cost of capital established by the commission in the small natural gas utility’s most recent general rate case. [2019 c.541 §6]
+
+ 
+
+      Note: Section 7, chapter 541, Oregon Laws 2019, provides:
+
+      Sec. 7. The Public Utility Commission shall adopt rules pursuant to sections 4 to 6 of this 2019 Act [757.394 to 757.398] no later than July 31, 2020. [2019 c.541 §7]
 
  
 
@@ -2405,19 +2551,21 @@ TRANSACTIONS INVOLVING UTILITIES
 
       757.480 Approval needed prior to disposal, mortgage or encumbrance of certain operative utility property or consolidation with another public utility; exceptions. (1) A public utility doing business in Oregon shall not, without first obtaining the Public Utility Commission’s approval of such transaction:
 
-      (a) Except as provided in subsection (5) of this section, sell, lease, assign or otherwise dispose of the whole of the property of such public utility necessary or useful in the performance of its duties to the public or any part thereof of a value in excess of $100,000, or sell, lease, assign or otherwise dispose of any franchise, permit or right to maintain and operate such public utility or public utility property, or perform any service as a public utility;
+      (a) Except as provided in subsection (6) of this section, sell, lease, assign or otherwise dispose of the whole of the property of the public utility necessary or useful in the performance of the public utility’s duties to the public or any part thereof of a value of $1 million or more, or sell, lease, assign or otherwise dispose of any franchise, permit or right to maintain and operate the public utility or public utility property, or perform any service as a public utility;
 
-      (b) Mortgage or otherwise encumber the whole or any part of the property of such public utility necessary or useful in the performance of its duties to the public, including any franchise, permit or right to maintain and operate such public utility or public utility property, or perform any service as a public utility; or
+      (b) Mortgage or otherwise encumber the whole or any part of the property of the public utility necessary or useful in the performance of the public utility’s duties to the public, including any franchise, permit or right to maintain and operate the public utility or public utility property, or perform any service as a public utility; or
 
-      (c) By any means whatsoever, directly or indirectly, merge or consolidate any of its lines, plant, system or other property whatsoever, or franchise or permit to maintain or operate any public utility property, or perform any service as a public utility, or any part thereof, with any other public utility.
+      (c) By any means whatsoever, directly or indirectly, merge or consolidate any of the public utility’s lines, plant, system or other property whatsoever, or franchise or permit to maintain or operate any public utility property, or perform any service as a public utility, or any part thereof, with any other public utility.
 
-      (2) A public utility that sells, leases, assigns or otherwise disposes of the whole of the property of such public utility necessary or useful in the performance of its duties to the public or any part thereof of a value in excess of $25,000, but less than $100,000, shall notify the commission of the sale within 60 days following the date of the sale.
+      (2) A public utility doing business in Oregon shall annually file with the commission a report that includes a summary of each transaction in excess of $25,000 but less than $1 million that the public utility made during the previous calendar year that involved the sale, lease, assignment or other disposition of the whole of the property of the public utility necessary or useful in the performance of the public utility’s duties to the public or any part thereof.
 
       (3) Every sale, lease, assignment, mortgage, disposition, encumbrance, merger or consolidation subject to subsection (1) of this section made other than in accordance with the order of the commission authorizing the same is void.
 
-      (4) This section does not prohibit or invalidate the sale, lease or other disposition by any public utility of property which is not necessary or useful in the performance of its duties to the public.
+      (4) For purposes of complying with subsections (1)(a) and (2) of this section, a public utility shall include in the calculation of the value of the property to be sold, leased, assigned or otherwise disposed of only the portion of the value of the property that has been recognized as the basis of an operating expense or capital expenditure in an Oregon rate valuation or other hearing or proceeding.
 
-      (5) A water utility doing business in Oregon shall not, without first obtaining the Public Utility Commission’s approval of such transaction, sell, lease, assign or otherwise dispose of the whole of the property of such water utility necessary or useful in the performance of its duties to the public or any part thereof of a value in excess of $10,000, or sell, lease, assign or otherwise dispose of any franchise, permit or right to maintain and operate such water utility or water utility property, or perform any service as a water utility. [Formerly 757.155; 1999 c.530 §1]
+      (5) This section does not prohibit or invalidate the sale, lease or other disposition by any public utility of property that is not necessary or useful in the performance of the public utility’s duties to the public.
+
+      (6) A water utility doing business in Oregon shall not, without first obtaining the Public Utility Commission’s approval of a transaction, sell, lease, assign or otherwise dispose of the whole of the property of the water utility necessary or useful in the performance of the water utility’s duties to the public or any part thereof of a value in excess of $10,000, or sell, lease, assign or otherwise dispose of any franchise, permit or right to maintain and operate the water utility or water utility property, or perform any service as a water utility. [Formerly 757.155; 1999 c.530 §1; 2019 c.252 §1]
 
  
 
@@ -2833,20 +2981,6 @@ GREENHOUSE GAS EMISSIONS STANDARDS
 
  
 
-      Note: Sections 9 and 12, chapter 751, Oregon Laws 2009, provide:
-
-      Sec. 9. (1) The Public Utility Commission shall develop estimates of the rate impacts for electric companies and natural gas companies to meet the following alternative greenhouse gas emission reduction goals for 2020:
-
-      (a) Ten percent below 1990 levels, as specified in ORS 468A.205; and
-
-      (b) Fifteen percent below 2005 levels.
-
-      (2) The commission shall submit a report presenting the estimates and explaining the analysis used to develop the estimates to the appropriate interim committee of the Legislative Assembly prior to November 1 of each even-numbered year. [2009 c.751 §9]
-
-      Sec. 12. Section 9 of this 2009 Act is repealed on January 2, 2020. [2009 c.751 §12]
-
- 
-
 VOLUNTARY EMISSION REDUCTION PROGRAM
 
  
@@ -2936,126 +3070,6 @@ VOLUNTARY EMISSION REDUCTION PROGRAM
       (10) The commission shall establish a rate cap for each public utility for which a project is authorized under this section. The rate cap must limit the cost of all of the public utility’s projects authorized under this section to an amount that does not exceed a percentage of the public utility’s revenue requirement as identified by the commission by rule or order.
 
       (11) The commission shall biennially conduct a study on whether federal law or regulation or other state laws or rules provide adequate incentives for public utilities that furnish natural gas to invest in projects that reduce emissions in the ordinary course of business. The commission shall report the results of a study conducted under this subsection, and may make recommendations for legislation, to the Legislative Assembly in the manner described in ORS 192.245 not later than February 1 of each odd-numbered year. [2013 c.607 §2; 2015 c.24 §1]
-
- 
-
-ENERGY STORAGE SYSTEMS
-
- 
-
-      Note: Sections 1 to 4, chapter 312, Oregon Laws 2015, provide:
-
-      Sec. 1. Definitions. As used in sections 1 to 3 of this 2015 Act:
-
-      (1) “Electric company” means an electric company, as defined in ORS 757.600, that makes sales of electricity to 25,000 or more retail electricity consumers in this state.
-
-      (2) “Energy storage system” means a technology that is capable of retaining energy, storing the energy for a period of time and delivering the energy after storage.
-
-      (3)(a) “Procure” means to acquire by ownership a qualifying energy storage system or to acquire by contract the right to use the capacity of or the energy from a qualifying energy storage system.
-
-      (b) “Procure” includes the acquisition of ancillary services that are related to an acquisition described in paragraph (a) of this subsection.
-
-      (4) “Qualifying energy storage system” means an energy storage system included in a project that the Public Utility Commission authorizes for development under section 3 of this 2015 Act.
-
-      (5) “Retail electricity consumer” means a retail electricity consumer, as defined in ORS 757.600, that is located in this state. [2015 c.312 §1]
-
-      Sec. 2. Requirement to procure energy storage systems on or before January 1, 2020. (1) If authorized under section 3 (3) of this 2015 Act, an electric company shall procure, on or before January 1, 2020, as part of a project described in section 3 of this 2015 Act, one or more qualifying energy storage systems that have the capacity to store at least five megawatt hours of energy.
-
-      (2)(a) The total capacity of qualifying energy storage systems procured under this section by any one electric company may not exceed one percent of the electric company’s peak load for the year 2014.
-
-      (b) The Public Utility Commission may waive the limit described in paragraph (a) of this subsection if the commission determines, in consultation with the State Department of Energy, that a qualifying energy storage system is of statewide significance and one or more electric utilities, as defined in ORS 757.600, participates in procuring the qualifying energy storage system and shares the costs and benefits associated with procuring the qualifying energy storage system.
-
-      (3) An electric company may recover in the electric company’s rates all costs prudently incurred by the electric company in procuring one or more qualifying energy storage systems under this section, including any above-market costs associated with procurement. [2015 c.312 §2]
-
-      Sec. 3. Proposals for developing energy storage systems; rules. (1) Not later than January 1, 2017, the Public Utility Commission shall by rule or order adopt guidelines for an electric company to use in submitting a proposal under subsection (2) of this section. In developing the guidelines, the commission shall:
-
-      (a) Examine the potential value of applying energy storage system technology, including:
-
-      (A) Deferred investment in generation, transmission or distribution of electricity;
-
-      (B) Reduced need for additional generation of electricity during times of peak demand;
-
-      (C) Improved integration of different types of renewable resources;
-
-      (D) Reduced greenhouse gas emissions;
-
-      (E) Improved reliability of electrical transmission or distribution systems;
-
-      (F) Reduced portfolio variable power costs; or
-
-      (G) Any other value reasonably related to the application of energy storage system technology.
-
-      (b) Consider ways in which to encourage electric companies to invest in different types of energy storage systems.
-
-      (c) Consider any other factor reasonably related to the procurement of qualifying energy storage systems.
-
-      (2)(a) Not later than January 1, 2018, an electric company shall submit one or more proposals to the commission for developing a project that includes one or more energy storage systems.
-
-      (b) Each proposal submitted under this subsection must include an evaluation of the potential to store energy in the electric company’s electric system, including an analysis of:
-
-      (A) The electric company’s current operations and the electric company’s electric system data, including customer-side data, distribution data, transmission data and data related to existing energy storage systems, including any energy storage system developed as part of a pilot or demonstration project. The analysis shall be used to identify areas in the electric company’s electric system where there may be opportunities to incentivize the value potentially derived from energy storage systems.
-
-      (B) How the addition of an energy storage system would complement proposed actions submitted pursuant to any plan submitted to the commission in which the electric company has proposed an integrated, least-cost combination of resources to meet the expected needs of the electric company’s customers.
-
-      (c) Each proposal submitted under this subsection also must include a description of each proposed project. The description must include:
-
-      (A) Technical specifications for each project, including:
-
-      (i) The capacity of the project to store energy;
-
-      (ii) The location of the project;
-
-      (iii) A description of the electric company’s electric system needs and the application that the energy storage system will fulfill as the basis for the project;
-
-      (iv) A description of the technology necessary to construct, operate and maintain the project, including a description of any data or communication system necessary to operate the project;
-
-      (v) A description of the types of services that the electric company expects the project to provide upon completion;
-
-      (vi) An analysis of the risk that the electric company will not be able to complete the project; and
-
-      (vii) Any other reasonable technical specification required by the commission pursuant to the guidelines adopted under subsection (1) of this section.
-
-      (B) The estimated cost of each project, including:
-
-      (i) The estimated capital cost of the project;
-
-      (ii) The estimated output cost of the project; and
-
-      (iii) The amount of grant moneys available to offset the cost of the project.
-
-      (C) The benefits of each project to the electric company’s electric system, including:
-
-      (i) Projected in-state benefits to the electric system;
-
-      (ii) Projected regional benefits to the electric system; and
-
-      (iii) The potential benefits to the electric company’s entire electric system if the electric company installs the energy storage system technology that is the basis for the project system-wide.
-
-      (D) An evaluation of the cost-effectiveness of each project, conducted in a manner established by the commission by rule or order.
-
-      (d) The information and analyses required to be submitted to the commission under this subsection may contain critical energy infrastructure information, trade secrets and other confidential research, development or commercial information the public disclosure of which could threaten the security and safety of an electric company’s electric system or allow unfair competition or business advantages. The commission may not use or allow the use of the information and analyses for any purpose other than the purposes described in this section and, in order to protect the information:
-
-      (A) Shall determine the procedures under which a person may view the information and analyses; and
-
-      (B) Shall adopt a protective order that includes reasonable restrictions requested by an electric company in good faith on removing material from commission offices, not allowing copying or photographing of the material, not allowing electronic transmission of the material or only allowing limited viewing of the material in restricted areas.
-
-      (3)(a) The commission shall consider each proposal submitted under subsection (2) of this section and evaluate each proposal to determine whether the proposal:
-
-      (A) Is consistent with the guidelines adopted under subsection (1) of this section;
-
-      (B) Reasonably balances the value for ratepayers and utility operations that is potentially derived from the application of energy storage system technology and the costs of construction, operation and maintenance of energy storage systems; and
-
-      (C) Is in the public interest.
-
-      (b) After considering the factors described in paragraph (a) of this subsection, the commission may authorize an electric company to develop one or more projects that include one or more qualifying energy storage systems.
-
-      (4) If authorized to develop a project under subsection (3) of this section, the commission may require an electric company to develop the project in accordance with any competitive bidding guidelines prescribed by the commission. [2015 c.312 §3]
-
-      Sec. 4. Reports. In the manner required by ORS 192.245, the Public Utility Commission shall report on the implementation of sections 1, 2 and 3 of this 2015 Act to the interim committees of the Legislative Assembly related to energy:
-
-      (1) On or before September 15, 2016; and
-
-      (2) On or before September 15, 2018. [2015 c.312 §4]
 
  
 
@@ -3459,7 +3473,9 @@ DIRECT ACCESS REGULATION
 
       (e)(A) The first 10 percent of funds collected each year by an electric company or Oregon Community Power under subsection (2) of this section shall be distributed to school districts that are located in the service territory of the electric company or Oregon Community Power. The funds shall be distributed to individual school districts according to the weighted average daily membership (ADMw) of each school district for the prior fiscal year as calculated under ORS 327.013. The commission shall establish by rule a methodology for distributing a proportionate share of funds under this paragraph to school districts that are only partially located in the service territory of the electric company or Oregon Community Power.
 
-      (B) A school district that receives funds under this paragraph shall use the funds first to pay for energy audits for schools located within the school district. A school district may not expend additional funds received under this paragraph on a school until an energy audit has been completed for that school. To the extent practicable, a school district shall coordinate with the State Department of Energy and incorporate federal funding in complying with this paragraph. Following completion of an energy audit for an individual school, the school district may expend funds received under this paragraph to implement the energy audit. Once an energy audit has been conducted and completely implemented for each school within the school district, the school district may expend funds received under this paragraph for any of the following purposes:
+      (B) A school district that receives funds under this paragraph shall use the funds first to pay for energy audits for schools located within the school district or for a fleet audit for the school district. To the extent practicable, a school district shall coordinate with the State Department of Energy and incorporate federal funding in complying with this paragraph. Following completion of an audit, the school district may expend funds received under this paragraph to implement the audit.
+
+      (C) Once an energy audit has been conducted and completely implemented for each school within the school district, the school district may expend funds received under this paragraph for any of the following purposes:
 
       (i) Conducting additional energy audits. A school district shall conduct an energy audit prior to expending funds on any other purpose authorized under this paragraph unless the school district has performed an energy audit within the three years immediately prior to receiving the funds.
 
@@ -3470,6 +3486,12 @@ DIRECT ACCESS REGULATION
       (iv) Purchasing electricity from environmentally focused sources.
 
       (v) Investing in renewable energy resources.
+
+      (D) Once a fleet audit has been conducted for the school district, the school district may expend funds received under this paragraph for any of the following purposes:
+
+      (i) Purchasing or leasing zero-emission vehicles, as defined in ORS 283.398, including buses.
+
+      (ii) Purchasing or installing electric vehicle charging stations to provide electricity to zero-emission vehicles.
 
       (f) The commission may not establish a different public purpose charge than the public purpose charge described in subsection (2) of this section.
 
@@ -3539,7 +3561,7 @@ DIRECT ACCESS REGULATION
 
       (8) For purposes of this section, “retail electricity consumers” includes any direct service industrial consumer that purchases electricity without purchasing distribution services from the electric utility.
 
-      (9) For purposes of this section, funds collected by Oregon Community Power through public purpose charges are not considered moneys received from electric utility operations. [1999 c.865 §3; 2001 c.134 §9; 2001 c.819 §3; 2005 c.22 §506; 2007 c.217 §9; 2007 c.301 §27; 2007 c.807 §43a; 2007 c.837 §2a; 2009 c.813 §1; 2011 c.467 §10; 2011 c.566 §2; 2015 c.180 §50; 2017 c.200 §1]
+      (9) For purposes of this section, funds collected by Oregon Community Power through public purpose charges are not considered moneys received from electric utility operations. [1999 c.865 §3; 2001 c.134 §9; 2001 c.819 §3; 2005 c.22 §506; 2007 c.217 §9; 2007 c.301 §27; 2007 c.807 §43a; 2007 c.837 §2a; 2009 c.813 §1; 2011 c.467 §10; 2011 c.566 §2; 2015 c.180 §50; 2017 c.200 §1; 2019 c.565 §7]
 
  
 
@@ -4101,7 +4123,7 @@ KLAMATH RIVER DAMS
 
       (A) With an agency of the United States identified in the final agreement;
 
-      (B) In a depository that is qualified under ORS 295.001 to 295.108 to receive public funds; or
+      (B) In a qualified depository under ORS 295.001 to 295.108; or
 
       (C) With the State Treasurer, to be invested as provided in ORS 293.701 to 293.857.
 
@@ -4113,7 +4135,7 @@ KLAMATH RIVER DAMS
 
       (3) Upon request of an agency of the United States, or upon request of the designee of an agency of the United States, the commission shall require the trustee of the appropriate trust account established under this section to transfer to the agency or designee the amounts that are necessary to pay the costs of removing the Klamath River dams as described in ORS 757.736 (11).
 
-      (4) If any amounts remain in a trust account established under this section after the trustee makes all payments necessary for the costs of removing the Klamath River dams as described in ORS 757.736 (11), the commission shall direct the trustee of the account to refund those amounts to customers or to otherwise use the excess amounts for the benefit of customers. [2009 c.690 §5; 2011 c.394 §2]
+      (4) If any amounts remain in a trust account established under this section after the trustee makes all payments necessary for the costs of removing the Klamath River dams as described in ORS 757.736 (11), the commission shall direct the trustee of the account to refund those amounts to customers or to otherwise use the excess amounts for the benefit of customers. [2009 c.690 §5; 2011 c.394 §2; 2019 c.587 §50]
 
  
 
@@ -4134,6 +4156,8 @@ KLAMATH RIVER DAMS
  
 
 HEALTH ENDANGERING TERMINATION OF RESIDENTIAL UTILITY SERVICE
+
+ 
 
       757.750 Legislative findings. The Legislative Assembly finds that the termination of residential electric and natural gas utility service can lead to the serious impairment of human health and possibly to loss of life; therefore, the Legislative Assembly has enacted ORS 757.750 to 757.760. [1979 c.868 §2; 1983 c.326 §1]
 
@@ -4369,7 +4393,7 @@ OREGON COMMUNITY POWER
 
  
 
-      757.822 Laws applicable to Oregon Community Power. (1) Except as provided in subsection (2) of this section, the provisions of ORS chapters 35, other than ORS 35.550 to 35.575, 180, 190, 192 and 244 and ORS 30.260 to 30.460, 200.005 to 200.025, 200.045 to 200.090, 221.450, 236.605 to 236.640, 243.650 to 243.782, other than 243.696, 297.040, 307.090 and 307.112 apply to Oregon Community Power under the same terms as they apply to any other subdivision of state government.
+      757.822 Laws applicable to Oregon Community Power. (1) Except as provided in subsection (2) of this section, the provisions of ORS chapters 35, other than ORS 35.550 to 35.575, 180, 190, 192 and 244 and ORS 30.260 to 30.460, 200.005 to 200.025, 200.045 to 200.090, 221.450, 236.605 to 236.640, 243.650 to 243.806, other than 243.696, 297.040, 307.090 and 307.112 apply to Oregon Community Power under the same terms as they apply to any other subdivision of state government.
 
       (2) Except as otherwise provided by law, the provisions of ORS chapters 182, 183, 238, 238A, 240, 270, 273, 276, 279A, 279B, 279C, 283, 286A, 291, 292, 293, 294, 295 and 297 and ORS 35.550 to 35.575, 183.710 to 183.730, 183.745, 183.750, 184.305 to 184.345, 190.430, 190.480, 190.490, 192.105, 200.035, 243.105 to 243.585, 243.696, 278.011 to 278.120, 278.315 to 278.415, 279.835 to 279.855, 282.010 to 282.150, 283.085 to 283.092, 287A.140, 287A.150, 287A.472 and 656.017 (2) do not apply to Oregon Community Power.
 
@@ -4685,9 +4709,9 @@ OREGON COMMUNITY POWER
 
  
 
-      757.883 Payments in lieu of property taxes. (1) Oregon Community Power shall make payments in lieu of property taxes on all property that would otherwise be subject to assessment under ORS 308.505 to 308.681 if owned by a taxable owner. Oregon Community Power shall pay to each county in which property of Oregon Community Power is located an amount equal to the ad valorem property taxes that would have been charged by the county if Oregon Community Power property had been assessed to a taxable owner as of January 1 of the assessment year for which payment is being made.
+      757.883 Payments in lieu of property taxes. (1) Oregon Community Power shall make payments in lieu of property taxes on all property that would otherwise be subject to assessment under ORS 308.505 to 308.674 if owned by a taxable owner. Oregon Community Power shall pay to each county in which property of Oregon Community Power is located an amount equal to the ad valorem property taxes that would have been charged by the county if Oregon Community Power property had been assessed to a taxable owner as of January 1 of the assessment year for which payment is being made.
 
-      (2) The Department of Revenue shall determine the assessed value of Oregon Community Power property as if the property were subject to assessment under ORS 308.505 to 308.681, and shall transmit the value information as provided in ORS 308.505 to 308.681 to the appropriate county assessor. Oregon Community Power shall comply with property reporting requirements under ORS 308.505 to 308.681 as if the property were subject to assessment under ORS 308.505 to 308.681.
+      (2) The Department of Revenue shall determine the assessed value of Oregon Community Power property as if the property were subject to assessment under ORS 308.505 to 308.674, and shall transmit the value information as provided in ORS 308.505 to 308.674 to the appropriate county assessor. Oregon Community Power shall comply with property reporting requirements under ORS 308.505 to 308.674 as if the property were subject to assessment under ORS 308.505 to 308.674.
 
       (3) The amount of the in lieu payment to be made to each county under this section shall be determined and certified annually by the county assessor of the county. A notice of the determination and certification shall be mailed to Oregon Community Power not later than October 15. The notice shall contain a statement of the value of the property and a complete explanation of the method used in computing the amount of the in lieu payment due under this section. Not later than November 15, Oregon Community Power shall pay the amount due to each county under this section, less a discount equivalent to that which is provided in ORS 311.505. Payment shall be made to the county treasurer. The county treasurer shall distribute the payment to the taxing districts of the county in accordance with the schedule of percentages computed under ORS 311.390. [2007 c.807 §19]
 

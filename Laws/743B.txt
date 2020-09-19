@@ -4,20 +4,6 @@ Chapter 743B — Health Benefit Plans: Individual and Group
 
  
 
- 
-
- 
-
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0043; 2018 Session Laws 0061
-
- 
-
- 
-
 
  
 
@@ -99,7 +85,7 @@ MARKETING REQUIREMENTS
 
  
 
-743B.125  Individual health benefit plans; waiting or exclusion periods; preexisting condition exclusions; essential health benefits
+743B.125  Individual health benefit plans; waiting or exclusion periods; preexisting condition exclusions; guaranteed issue and renewal
 
  
 
@@ -128,10 +114,6 @@ MARKETING REQUIREMENTS
  
 
 743B.197  Health Care Consumer Protection Advisory Committee
-
- 
-
-(Temporary provisions relating to transitional health plans are compiled as notes following ORS 743B.197)
 
  
 
@@ -231,7 +213,11 @@ OUT-OF-POCKET COSTS
 
  
 
-743B.287  Balance billing prohibited for health care facility services
+743B.287  Balance billing prohibited for health care facility services; rules
+
+ 
+
+743B.290  Hospital payment of copayment or deductible for insured patient
 
  
 
@@ -479,17 +465,11 @@ MISCELLANEOUS
 
  
 
-(Temporary provisions relating to the authority of the Department of Consumer and Business Services to take action in response to changes in federal law are compiled as notes following ORS 743B.810)
-
- 
-
- 
-
 DEFINITIONS AND PURPOSES
 
  
 
-      743B.001 Definitions. As used in this section and ORS 743.008, 743.035, 743B.195, 743B.197, 743B.200, 743B.202, 743B.204, 743B.220, 743B.225, 743B.227, 743B.250, 743B.252, 743B.253, 743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.310, 743B.400, 743B.403, 743B.405, 743B.420, 743B.422, 743B.423, 743B.424, 743B.450, 743B.451, 743B.452, 743B.453, 743B.454, 743B.505, 743B.550 and 743B.555:
+      743B.001 Definitions. As used in this section and ORS 743.008, 743.029, 743.035, 743A.190, 743B.195, 743B.197, 743B.200, 743B.202, 743B.204, 743B.220, 743B.225, 743B.227, 743B.250, 743B.252, 743B.253, 743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.310, 743B.400, 743B.403, 743B.405, 743B.420, 743B.422, 743B.423, 743B.424, 743B.450, 743B.451, 743B.452, 743B.453, 743B.454, 743B.505, 743B.550 and 743B.555 and section 2, chapter 771, Oregon Laws 2013:
 
       (1) “Adverse benefit determination” means an insurer’s denial, reduction or termination of a health care item or service, or an insurer’s failure or refusal to provide or to make a payment in whole or in part for a health care item or service, that is based on the insurer’s:
 
@@ -499,9 +479,11 @@ DEFINITIONS AND PURPOSES
 
       (c) Imposition of a preexisting condition exclusion as defined in ORS 743B.005, source-of-injury exclusion, network exclusion, annual benefit limit or other limitation on otherwise covered items or services;
 
-      (d) Determination that a health care item or service is experimental, investigational or not medically necessary, effective or appropriate; or
+      (d) Determination that a health care item or service is experimental, investigational or not medically necessary, effective or appropriate;
 
-      (e) Determination that a course or plan of treatment that an enrollee is undergoing is an active course of treatment for purposes of continuity of care under ORS 743B.225.
+      (e) Determination that a course or plan of treatment that an enrollee is undergoing is an active course of treatment for purposes of continuity of care under ORS 743B.225; or
+
+      (f) Denial, in whole or in part, of a request for prior authorization.
 
       (2) “Authorized representative” means an individual who by law or by the consent of a person may act on behalf of the person.
 
@@ -555,13 +537,93 @@ DEFINITIONS AND PURPOSES
 
       (b) “Preferred provider organization insurance” does not mean a health benefit plan that has as its sole financial incentive a hold harmless provision under which providers in the preferred network agree to accept as payment in full the maximum allowable amounts that are specified in the medical services contracts.
 
-      (15) “Prior authorization” means a determination by an insurer prior to provision of services that the insurer will provide reimbursement for the services. “Prior authorization” does not include referral approval for evaluation and management services between providers.
+      (15) “Prior authorization” means a determination by an insurer upon request by a provider or an enrollee, prior to the provision of health care that is subject to utilization review, that the insurer will provide reimbursement for the health care requested. “Prior authorization” does not include referral approval for evaluation and management services between providers.
 
       (16)(a) “Provider” means a person licensed, certified or otherwise authorized or permitted by laws of this state to administer medical or mental health services in the ordinary course of business or practice of a profession.
 
       (b) With respect to the statutes governing the billing for or payment of claims, “provider” also includes an employee or other designee of the provider who has the responsibility for billing claims for reimbursement or receiving payments on claims.
 
-      (17) “Utilization review” means a set of formal techniques used by an insurer or delegated by the insurer designed to monitor the use of or evaluate the medical necessity, appropriateness, efficacy or efficiency of health care services, procedures or settings. [Formerly 743.801; 2017 c.101 §54; 2017 c.384 §10]
+      (17) “Utilization review” means a set of formal techniques used by an insurer or delegated by the insurer designed to monitor the use of or evaluate the medical necessity, appropriateness, efficacy or efficiency of health care items, services, procedures or settings. [Formerly 743.801; 2017 c.101 §54; 2017 c.384 §10; 2019 c.284 §8]
+
+ 
+
+      Note: The amendments to 743B.001 by section 12, chapter 284, Oregon Laws 2019, become operative January 2, 2022. See section 14, chapter 284, Oregon Laws 2019. The text that is operative on and after January 2, 2022, is set forth for the user’s convenience.
+
+      743B.001. As used in this section and ORS 743.008, 743.029, 743.035, 743A.190, 743B.195, 743B.197, 743B.200, 743B.202, 743B.204, 743B.220, 743B.225, 743B.227, 743B.250, 743B.252, 743B.253, 743B.254, 743B.255, 743B.256, 743B.257, 743B.258, 743B.310, 743B.400, 743B.403, 743B.405, 743B.420, 743B.422, 743B.423, 743B.424, 743B.450, 743B.451, 743B.452, 743B.453, 743B.454, 743B.505, 743B.550 and 743B.555:
+
+      (1) “Adverse benefit determination” means an insurer’s denial, reduction or termination of a health care item or service, or an insurer’s failure or refusal to provide or to make a payment in whole or in part for a health care item or service, that is based on the insurer’s:
+
+      (a) Denial of eligibility for or termination of enrollment in a health benefit plan;
+
+      (b) Rescission or cancellation of a policy or certificate;
+
+      (c) Imposition of a preexisting condition exclusion as defined in ORS 743B.005, source-of-injury exclusion, network exclusion, annual benefit limit or other limitation on otherwise covered items or services;
+
+      (d) Determination that a health care item or service is experimental, investigational or not medically necessary, effective or appropriate;
+
+      (e) Determination that a course or plan of treatment that an enrollee is undergoing is an active course of treatment for purposes of continuity of care under ORS 743B.225; or
+
+      (f) Denial, in whole or in part, of a request for prior authorization.
+
+      (2) “Authorized representative” means an individual who by law or by the consent of a person may act on behalf of the person.
+
+      (3) “Credit card” has the meaning given that term in 15 U.S.C. 1602.
+
+      (4) “Electronic funds transfer” has the meaning given that term in ORS 293.525.
+
+      (5) “Enrollee” has the meaning given that term in ORS 743B.005.
+
+      (6) “Essential community provider” has the meaning given that term in rules adopted by the Department of Consumer and Business Services consistent with the description of the term in 42 U.S.C. 18031 and the rules adopted by the United States Department of Health and Human Services, the United States Department of the Treasury or the United States Department of Labor to carry out 42 U.S.C. 18031.
+
+      (7) “Grievance” means:
+
+      (a) A communication from an enrollee or an authorized representative of an enrollee expressing dissatisfaction with an adverse benefit determination, without specifically declining any right to appeal or review, that is:
+
+      (A) In writing, for an internal appeal or an external review; or
+
+      (B) In writing or orally, for an expedited response described in ORS 743B.250 (2)(d) or an expedited external review; or
+
+      (b) A written complaint submitted by an enrollee or an authorized representative of an enrollee regarding the:
+
+      (A) Availability, delivery or quality of a health care service;
+
+      (B) Claims payment, handling or reimbursement for health care services and, unless the enrollee has not submitted a request for an internal appeal, the complaint is not disputing an adverse benefit determination; or
+
+      (C) Matters pertaining to the contractual relationship between an enrollee and an insurer.
+
+      (8) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (9) “Independent practice association” means a corporation wholly owned by providers, or whose membership consists entirely of providers, formed for the sole purpose of contracting with insurers for the provision of health care services to enrollees, or with employers for the provision of health care services to employees, or with a group, as described in ORS 731.098, to provide health care services to group members.
+
+      (10) “Insurer” includes a health care service contractor as defined in ORS 750.005.
+
+      (11) “Internal appeal” means a review by an insurer of an adverse benefit determination made by the insurer.
+
+      (12) “Managed health insurance” means any health benefit plan that:
+
+      (a) Requires an enrollee to use a specified network or networks of providers managed, owned, under contract with or employed by the insurer in order to receive benefits under the plan, except for emergency or other specified limited service; or
+
+      (b) In addition to the requirements of paragraph (a) of this subsection, offers a point-of-service provision that allows an enrollee to use providers outside of the specified network or networks at the option of the enrollee and receive a reduced level of benefits.
+
+      (13) “Medical services contract” means a contract between an insurer and an independent practice association, between an insurer and a provider, between an independent practice association and a provider or organization of providers, between medical or mental health clinics, and between a medical or mental health clinic and a provider to provide medical or mental health services. “Medical services contract” does not include a contract of employment or a contract creating legal entities and ownership thereof that are authorized under ORS chapter 58, 60 or 70, or other similar professional organizations permitted by statute.
+
+      (14)(a) “Preferred provider organization insurance” means any health benefit plan that:
+
+      (A) Specifies a preferred network of providers managed, owned or under contract with or employed by an insurer;
+
+      (B) Does not require an enrollee to use the preferred network of providers in order to receive benefits under the plan; and
+
+      (C) Creates financial incentives for an enrollee to use the preferred network of providers by providing an increased level of benefits.
+
+      (b) “Preferred provider organization insurance” does not mean a health benefit plan that has as its sole financial incentive a hold harmless provision under which providers in the preferred network agree to accept as payment in full the maximum allowable amounts that are specified in the medical services contracts.
+
+      (15) “Prior authorization” means a determination by an insurer upon request by a provider or an enrollee, prior to the provision of health care that is subject to utilization review, that the insurer will provide reimbursement for the health care requested. “Prior authorization” does not include referral approval for evaluation and management services between providers.
+
+      (16)(a) “Provider” means a person licensed, certified or otherwise authorized or permitted by laws of this state to administer medical or mental health services in the ordinary course of business or practice of a profession.
+
+      (b) With respect to the statutes governing the billing for or payment of claims, “provider” also includes an employee or other designee of the provider who has the responsibility for billing claims for reimbursement or receiving payments on claims.
+
+      (17) “Utilization review” means a set of formal techniques used by an insurer or delegated by the insurer designed to monitor the use of or evaluate the medical necessity, appropriateness, efficacy or efficiency of health care items, services, procedures or settings.
 
  
 
@@ -747,7 +809,7 @@ EMPLOYER-SPONSORED HEALTH INSURANCE
 
  
 
-      743B.010 Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small employer. (1) If an affiliated group of employers is treated as a single employer under section 414 (b), (c), (m) or (o) of the Internal Revenue Code of 1986, a carrier may issue a single group health benefit plan to the affiliated group on the basis of the number of employees in the affiliated group if the group requests such coverage.
+      743B.010 Issuance of group health benefit plan to affiliated group of employers; determination of number of employees for purpose of determining eligibility as small employer. (1) If an affiliated group of employers is treated as a single employer under section 414(b), (c), (m) or (o) of the Internal Revenue Code of 1986, a carrier may issue a single group health benefit plan to the affiliated group on the basis of the number of employees in the affiliated group if the group requests such coverage.
 
       (2) Subsequent to the issuance of a health benefit plan to a small employer, other than a plan issued through the health insurance exchange, a carrier shall determine annually the number of employees of the employer for purposes of determining the employer’s ongoing eligibility as a small employer.
 
@@ -757,25 +819,31 @@ EMPLOYER-SPONSORED HEALTH INSURANCE
 
  
 
-      743B.011 Group health benefit plans subject to provisions of specified laws; exemptions. (1) Every health benefit plan shall be subject to the provisions of ORS 743B.010 to 743B.013, if the plan provides health benefits covering one or more employees of a small employer and if any one of the following conditions is met:
+      743B.011 Group health benefit plans subject to provisions of specified laws; exemptions. (1) Except as provided in subsection (2) of this section, every health benefit plan shall be subject to the provisions of ORS 743B.010 to 743B.013, if the plan provides health benefits covering one or more employees of a small employer and if any one of the following conditions is met:
 
-      (a) Any portion of the premium or benefits is paid by a small employer or any employee is reimbursed, whether through wage adjustments or otherwise, by a small employer for any portion of the health benefit plan premium unless the reimbursement is made through a qualified small employer health reimbursement arrangement, as defined in section 9831 of the Internal Revenue Code; or
+      (a) Any portion of the premium or benefits is paid by a small employer or any employee is reimbursed, whether through wage adjustments or otherwise, by a small employer for any portion of the health benefit plan premium; or
 
       (b) The health benefit plan is treated by the employer or any of the employees as part of a plan or program for the purposes of section 106, section 125 or section 162 of the Internal Revenue Code of 1986, as amended.
 
-      (2) Except as otherwise provided by ORS 743B.010 to 743B.013 or other law, no health benefit plan offered to a small employer shall:
+      (2) Subsection (1) of this section does not apply to:
+
+      (a) An individual health benefit plan for which a portion of the premium is reimbursed through a qualified small employer health reimbursement arrangement as defined in section 9831 of the Internal Revenue Code; or
+
+      (b) An individual health benefit plan that is considered to be integrated with a health reimbursement arrangement or other account-based group health plan authorized by federal law.
+
+      (3) Except as otherwise provided by ORS 743B.010 to 743B.013 or other law, no health benefit plan offered to a small employer shall:
 
       (a) Inhibit a carrier from contracting with providers or groups of providers with respect to health care services or benefits; or
 
       (b) Impose any restriction on the ability of a carrier to negotiate with providers regarding the level or method of reimbursing care or services provided under health benefit plans.
 
-      (3)(a) A carrier may provide different health benefit plans to different categories of employees of a small employer when the employer has chosen to establish different categories of employees in a manner that does not relate to the actual or expected health status of such employees or their dependents. The categories must be based on bona fide employment-based classifications that are consistent with the employer’s usual business practice.
+      (4)(a) A carrier may provide different health benefit plans to different categories of employees of a small employer when the employer has chosen to establish different categories of employees in a manner that does not relate to the actual or expected health status of such employees or their dependents. The categories must be based on bona fide employment-based classifications that are consistent with the employer’s usual business practice.
 
       (b) Except as provided in ORS 743B.012 (7), a carrier that offers coverage to a small employer shall offer coverage to all eligible employees of the small employer.
 
       (c) If a small employer elects to offer coverage to dependents of eligible employees, the carrier shall offer coverage to all dependents of eligible employees.
 
-      (4) An insurer may not deny, delay or terminate participation of an individual in a group health benefit plan or exclude coverage otherwise provided to an individual under a group health benefit plan based on a preexisting condition of the individual. [Formerly 743.734; 2017 c.152 §9]
+      (5) An insurer may not deny, delay or terminate participation of an individual in a group health benefit plan or exclude coverage otherwise provided to an individual under a group health benefit plan based on a preexisting condition of the individual. [Formerly 743.734; 2017 c.152 §9; 2019 c.285 §6]
 
  
 
@@ -1155,7 +1223,7 @@ MARKETING REQUIREMENTS
 
  
 
-      743B.125 Individual health benefit plans; waiting or exclusion periods; preexisting condition exclusions; essential health benefits. (1) With respect to coverage under an individual health benefit plan, a carrier may not impose an individual coverage waiting period.
+      743B.125 Individual health benefit plans; waiting or exclusion periods; preexisting condition exclusions; guaranteed issue and renewal. (1) With respect to coverage under an individual health benefit plan other than a grandfathered health plan, a carrier may not impose a preexisting condition exclusion or an individual coverage waiting period.
 
       (2) With respect to individual coverage under a grandfathered health plan, a carrier:
 
@@ -1167,9 +1235,23 @@ MARKETING REQUIREMENTS
 
       (B) The exclusion expires no later than six months after the individual’s effective date of coverage.
 
+      (c) May not impose a waiting period.
+
       (3) An individual health benefit plan other than a grandfathered health plan must cover, at a minimum, all essential health benefits.
 
-      (4) A carrier shall renew an individual health benefit plan, including a health benefit plan issued through a bona fide association, unless:
+      (4)(a) A carrier shall issue any individual health benefit plan offered by the carrier, other than a grandfathered health plan, to any individual who applies for the health benefit plan, if:
+
+      (A) The individual resides in the geographic area where the plan is offered;
+
+      (B) The individual agrees to make the required premium payments; and
+
+      (C) Issuance of the health benefit plan is not otherwise prohibited by law.
+
+      (b) The Department of Consumer and Business Services may allow a carrier to cap the number of individuals enrolled in an individual health benefit plan offered by the carrier if the department finds that issuing the health benefit plan to more individuals than are currently enrolled in the plan would have a material adverse effect upon the carrier’s ability to fulfill the carrier’s contractual obligations or result in the financial impairment of the carrier.
+
+      (c) Except as otherwise provided in this section and ORS 743.022, a carrier offering an individual health benefit plan may not impose different terms or conditions on the coverage provided or the premium charged based on the actual or expected health status of an enrollee or prospective enrollee.
+
+      (5) A carrier shall renew an individual health benefit plan, including a health benefit plan issued through a bona fide association, unless:
 
       (a) The policyholder fails to pay the required premiums.
 
@@ -1217,25 +1299,25 @@ MARKETING REQUIREMENTS
 
       (j) In the case of a health benefit plan that is offered in the individual market only through one or more bona fide associations, the membership of an individual in the association ceases and the termination of coverage is not related to the health status of any enrollee.
 
-      (5) A carrier may modify an individual health benefit plan at the time of coverage renewal. The modification is not a discontinuation of the plan under subsection (4)(c), (e) and (f) of this section.
+      (6) A carrier may modify an individual health benefit plan at the time of coverage renewal. The modification is not a discontinuation of the plan under subsection (5)(c), (e) and (f) of this section.
 
-      (6) Notwithstanding any other provision of this section, and subject to the provisions of ORS 743B.310 (2) and (4), a carrier may rescind an individual health benefit plan if the policyholder or a representative of the policyholder:
+      (7) Notwithstanding any other provision of this section, and subject to the provisions of ORS 743B.310 (2) and (4), a carrier may rescind an individual health benefit plan if the policyholder or a representative of the policyholder:
 
       (a) Performs an act, practice or omission that constitutes fraud; or
 
       (b) Makes an intentional misrepresentation of a material fact as prohibited by the terms of the policy.
 
-      (7) A carrier that continues to offer coverage in the individual market in this state is not required to offer coverage in all of the carrier’s individual health benefit plans. However, if a carrier elects to continue a plan that is closed to new individual policyholders instead of offering alternative coverage in the carrier’s other individual health benefit plans, the coverage for all existing policyholders in the closed plan is renewable in accordance with subsection (4) of this section.
+      (8) A carrier that continues to offer coverage in the individual market in this state is not required to offer coverage in all of the carrier’s individual health benefit plans. However, if a carrier elects to continue a plan that is closed to new individual policyholders instead of offering alternative coverage in the carrier’s other individual health benefit plans, the coverage for all existing policyholders in the closed plan is renewable in accordance with subsection (5) of this section.
 
-      (8) An individual health benefit plan may not impose annual or lifetime limits on the dollar amount of essential health benefits.
+      (9) An individual health benefit plan may not impose annual or lifetime limits on the dollar amount of essential health benefits.
 
-      (9) A grandfathered health plan may not impose lifetime limits on the dollar amount of essential health benefits.
+      (10) A grandfathered health plan may not impose lifetime limits on the dollar amount of essential health benefits.
 
-      (10) This section does not require a carrier to actively market, offer, issue or accept applications for:
+      (11) This section does not require a carrier to actively market, offer, issue or accept applications for:
 
       (a) A bona fide association health benefit plan from individuals who are not members of the bona fide association; or
 
-      (b) A grandfathered health plan from individuals who are not eligible for coverage under the plan. [Formerly 743.766; 2017 c.479 §18]
+      (b) A grandfathered health plan from individuals who are not eligible for coverage under the plan. [Formerly 743.766; 2017 c.479 §18; 2019 c.285 §7]
 
  
 
@@ -1249,7 +1331,7 @@ MARKETING REQUIREMENTS
 
       (5) The Director of the Department of Consumer and Business Services may establish by rule additional standards to provide for the fair marketing and broad availability of individual health benefit plans.
 
-      (6) A carrier that elects to discontinue offering all of its individual health benefit plans under ORS 743B.125 (4)(c) or to discontinue both offering and renewing all such plans is prohibited from offering and renewing health benefit plans in the individual market in this state for a period of five years from the date of notice to the director pursuant to ORS 743B.125 (4)(c) or, if such notice is not provided, from the date on which the director provides notice to the carrier that the director has determined that the carrier has effectively discontinued offering individual health benefit plans in this state. This subsection does not apply with respect to a health benefit plan discontinued in a specified service area by a carrier that covers services provided only by a particular organization of health care providers or only by health care providers who are under contract with the carrier.
+      (6) A carrier that elects to discontinue offering all of its individual health benefit plans under ORS 743B.125 (5)(c) or to discontinue both offering and renewing all such plans is prohibited from offering and renewing health benefit plans in the individual market in this state for a period of five years from the date of notice to the director pursuant to ORS 743B.125 (5)(c) or, if such notice is not provided, from the date on which the director provides notice to the carrier that the director has determined that the carrier has effectively discontinued offering individual health benefit plans in this state. This subsection does not apply with respect to a health benefit plan discontinued in a specified service area by a carrier that covers services provided only by a particular organization of health care providers or only by health care providers who are under contract with the carrier.
 
       (7) The Department of Consumer and Business Services may, in accordance with ORS 743B.129, shorten the period of prohibition described in subsection (6) of this section if necessary to ensure, in all geographic areas of this state, that:
 
@@ -1257,7 +1339,7 @@ MARKETING REQUIREMENTS
 
       (b) Consumers have a reasonable number of health insurance options available to them; and
 
-      (c) Consumers who purchase insurance are protected. [Formerly 743.769; 2017 c.206 §6]
+      (c) Consumers who purchase insurance are protected. [Formerly 743.769; 2017 c.206 §6; 2019 c.285 §8]
 
  
 
@@ -1305,11 +1387,11 @@ MARKETING REQUIREMENTS
 
  
 
-      743B.130 Requirement to offer bronze and silver plans; rules. (1) In each individual or small group market, in which a carrier offers a health benefit plan through or outside of the health insurance exchange described in ORS 741.310, the carrier must offer to residents of this state a bronze and a silver plan certified by the Department of Consumer and Business Services as qualified health plans and meeting the requirements of subsection (2) of this section.
+      743B.130 Requirement to offer bronze and silver plans; rules. (1) In each individual or small group market, in which a carrier offers a health benefit plan through or outside of the health insurance exchange described in ORS 741.310, the carrier must offer to residents of this state bronze and silver plans certified by the Department of Consumer and Business Services as qualified health plans and meeting the requirements of subsection (2) of this section.
 
       (2) The department shall prescribe by rule, in accordance with federal requirements, the form, level of coverage and benefit design for the bronze and silver plans that must be offered under subsection (1) of this section.
 
-      (3) As used in this section, “health benefit plan” has the meaning given that term in ORS 743B.005. [Formerly 743.822]
+      (3) As used in this section, “health benefit plan” has the meaning given that term in ORS 743B.005. [Formerly 743.822; 2019 c.285 §9]
 
  
 
@@ -1322,72 +1404,6 @@ MARKETING REQUIREMENTS
  
 
       743B.197 Health Care Consumer Protection Advisory Committee. The Director of the Department of Consumer and Business Services shall appoint a Health Care Consumer Protection Advisory Committee with fair representation of health care consumers, providers and insurers. The committee shall advise the director regarding the implementation of ORS 743.008, 743A.012, 743B.001, 743B.195, 743B.197, 743B.200, 743B.202, 743B.204, 743B.220, 743B.250, 743B.400, 743B.403, 743B.405, 743B.420, 743B.422, 743B.423, 743B.424 and 743B.550 and other issues related to health care consumer protection. [Formerly 743.827; 2017 c.101 §55; 2017 c.384 §11]
-
- 
-
-(Temporary provisions relating to transitional health plans)
-
- 
-
-      Note: Sections 2 and 32, chapter 515, Oregon Laws 2015, provide:
-
-      Sec. 2. (1) As used in this section:
-
-      (a) “Carrier” has the meaning given that term in ORS 743.730 [renumbered 743B.005].
-
-      (b) “Grandfathered health plan” has the meaning given that term in ORS 743.730.
-
-      (c) “Health benefit plan” has the meaning given that term in ORS 743.730.
-
-      (d) “Transitional grandfathered health benefit plan” means a grandfathered health plan that is issued or renewed by an employer with 51 to 100 employees.
-
-      (e) “Transitional health benefit plan” means a health benefit plan, other than a grandfathered health plan, that is:
-
-      (A) Before January 1, 2016, issued to or renewed by an employer with 51 to 100 employees on the date the plan is issued or renewed;
-
-      (B) In effect on December 31, 2015; and
-
-      (C) According to published federal guidance, not subject to enforcement by the United States Department of Health and Human Services, the United States Department of Labor or the United States Department of the Treasury, for compliance with the requirements of:
-
-      (i) 42 U.S.C. 300gg;
-
-      (ii) 42 U.S.C. 300gg-1;
-
-      (iii) 42 U.S.C. 300gg-2;
-
-      (iv) 42 U.S.C. 300gg-5;
-
-      (v) 42 U.S.C. 300gg-6; and
-
-      (vi) 42 U.S.C. 300gg-8.
-
-      (2) A transitional health benefit plan and a transitional grandfathered health benefit plan are not subject to the requirements:
-
-      (a) In ORS 742.005 (6) unless otherwise required by rule by the Department of Consumer and Business Services;
-
-      (b) In ORS 743.736 [renumbered 743B.012];
-
-      (c) In ORS 743.737 (1)(a), (8), (10) and (11) [renumbered 743B.013 (1)(a), (8), (10) and (11)]; and
-
-      (d) Imposing limitations on participation and contribution rates contained in ORS 743.737.
-
-      (3) On and after January 1, 2016, each transitional health benefit plan shall be renewable with respect to all eligible enrollees at the option of the policyholder, employer or contract holder unless the carrier discontinues both offering and renewing the health benefit plan in this state or in a specified service area within this state, other than a plan discontinued in a specified service area within this state:
-
-      (a) Because of the inability to reach an agreement with the health care providers or organization of health care providers to provide services under the plan within the service area;
-
-      (b) That gives notice of the decision to discontinue the plan to the Department of Consumer and Business Services and to all policyholders covered by the plan;
-
-      (c) That does not cancel coverage under the plan for 90 days after the date of the notice required under paragraph (b) of this subsection; and
-
-      (d) That offers in writing to each policyholder covered by the plan, all other group health benefit plans that the carrier offers in the specified service area. The carrier shall offer the plans at least 90 days prior to discontinuation.
-
-      (4) ORS 743.752 (2) [renumbered 743B.104 (2)] does not apply when a carrier discontinues a group health benefit plan due to the change in the definition of “small employer” from an employer with a maximum of 50 employees to an employer with a maximum of 100 employees.
-
-      (5) The Department of Consumer and Business Services may modify the requirements of this section or extend or delay the operative date of this section to the extent necessary to comply with published federal guidance described in subsection (1)(e)(C) of this section.
-
-      (6) No later than September 1, 2018, the department shall report to the appropriate interim committees of the Legislative Assembly on whether the repeal of this section by section 32 of this 2015 Act should be extended to a later date. [2015 c.515 §2]
-
-      Sec. 32. Section 2 of this 2015 Act is repealed on January 2, 2020. [2015 c.515 §32]
 
  
 
@@ -1601,7 +1617,7 @@ GRIEVANCES AND APPEALS
 
       (m) Procedures, if any, by which enrollees may participate in the development of the insurer’s corporate policies.
 
-      (n) A summary of how the insurer makes decisions regarding coverage and payment for treatment or services, including a general description of any prior authorization and utilization control requirements that affect coverage or payment.
+      (n) A summary of how the insurer makes decisions regarding coverage and payment for treatment or services, including a general description of any prior authorization and utilization review requirements that affect coverage or payment.
 
       (o) Disclosure of any risk-sharing arrangement the insurer has with physicians or other providers.
 
@@ -1675,7 +1691,7 @@ GRIEVANCES AND APPEALS
 
       (8) Provide an annual summary to the department of the insurer’s aggregate data regarding grievances, internal appeals and requests for external review in a format prescribed by the department to ensure consistent reporting on the number, nature and disposition of grievances, internal appeals and requests for external review.
 
-      (9) Allow the exercise of any rights described in this section by an authorized representative. [Formerly 743.804; 2017 c.152 §11]
+      (9) Allow the exercise of any rights described in this section by an authorized representative. [Formerly 743.804; 2017 c.152 §11; 2019 c.284 §9]
 
  
 
@@ -1953,7 +1969,47 @@ OUT-OF-POCKET COSTS
 
  
 
-      743B.287 Balance billing prohibited for health care facility services. (1) As used in this section:
+      743B.287 Balance billing prohibited for health care facility services; rules. (1) As used in this section:
+
+      (a) “Allowed amount” means the reimbursement paid by an insurer or health care service contractor to a health care provider for a specified service or group of services covered by a health benefit plan or a health care service contract.
+
+      (b) “Emergency services” has the meaning given that term in ORS 743A.012.
+
+      (c) “Enrollee” means:
+
+      (A) An individual who is enrolled in a health benefit plan or a covered dependent or beneficiary of the individual; or
+
+      (B) A subscriber to a health care service contract or a covered dependent or beneficiary of the subscriber.
+
+      (d) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (e) “Health care facility” has the meaning given that term in ORS 442.015, excluding long term care facilities.
+
+      (f) “Health care service contractor” has the meaning given that term in ORS 750.005.
+
+      (g) “In-network” has the meaning given that term in ORS 743B.280.
+
+      (h) “Out-of-network” has the meaning given that term in ORS 743B.280.
+
+      (2) A provider who is an out-of-network provider for a health benefit plan or health care service contract may not bill an enrollee in the health benefit plan or health care service contract for emergency services or other inpatient or outpatient services provided at an in-network health care facility.
+
+      (3) An insurer offering a health benefit plan and a health care service contractor shall reimburse an out-of-network provider for emergency services or other covered inpatient or outpatient services provided at an in-network health care facility in an amount established in accordance with rules adopted by the Department of Consumer and Business Services under subsection (6) of this section.
+
+      (4) Subsections (2) and (3) of this section do not apply:
+
+      (a) To applicable coinsurance, copayments or deductible amounts that apply to services provided by an in-network provider; or
+
+      (b) To services, other than emergency services, provided to enrollees who choose to receive services from an out-of-network provider.
+
+      (5) If an enrollee chooses to receive services from an out-of-network provider, the provider shall inform the enrollee that the enrollee will be financially responsible for coinsurance, copayments or other out-of-pocket expenses attributable to choosing an out-of-network provider.
+
+      (6) The department shall adopt rules for calculating the reimbursement that must be paid to providers under subsection (3) of this section. The reimbursement must be equal to the median allowed amount paid to in-network health care providers by commercial insurers in this state, based on data collected under ORS 442.373 for the 2015 calendar year, adjusted annually using the U.S. City Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau of Labor Statistics of the United States Department of Labor. The Department of Consumer and Business Services may adjust the amount of reimbursement based on the differences in allowed amounts paid to health care providers in certain geographic areas of this state. [2017 c.417 §2; 2018 c.43 §4]
+
+ 
+
+      Note: The amendments to 743B.287 by section 6, chapter 43, Oregon Laws 2018, become operative January 2, 2022. See section 7, chapter 43, Oregon Laws 2018. The text that is operative on and after January 2, 2022, is set forth for the user’s convenience.
+
+      743B.287. (1) As used in this section:
 
       (a) “Emergency services” has the meaning given that term in ORS 743A.012.
 
@@ -1971,9 +2027,9 @@ OUT-OF-POCKET COSTS
 
       (f) “In-network” has the meaning given that term in ORS 743B.280.
 
-      (g) “Out-of-network” has the meaning given that term in ORS 743B.280.
+      (g) “Out-of-network” means a provider or provider group that has not contracted or has indirectly contracted with the insurer or health care service contractor.
 
-      (2) Except as provided in subsection (3) of this section, a provider who is an out-of-network provider for a health benefit plan or health care service contract may not bill an enrollee in the health benefit plan or health care service contract for emergency services or other inpatient or outpatient services provided at an in-network health care facility.
+      (2) A provider who is an out-of-network provider may not bill an enrollee in the health benefit plan or health care service contract for emergency services or other inpatient or outpatient services provided at an in-network health care facility.
 
       (3) Subsection (2) of this section does not apply:
 
@@ -1981,15 +2037,35 @@ OUT-OF-POCKET COSTS
 
       (b) To services, other than emergency services, provided to enrollees who choose to receive services from an out-of-network provider.
 
-      (4) If an enrollee chooses to receive services from an out-of-network provider, the provider shall inform the enrollee that the enrollee will be financially responsible for coinsurance, copayments or other out-of-pocket expenses attributable to choosing an out-of-network provider. [2017 c.417 §2]
-
- 
-
-      Note: 743B.287 becomes operative March 1, 2018. See section 7, chapter 417, Oregon Laws 2017.
+      (4) If an enrollee chooses to receive services from an out-of-network provider, the provider shall inform the enrollee that the enrollee will be financially responsible for coinsurance, copayments or other out-of-pocket expenses attributable to choosing an out-of-network provider.
 
  
 
       Note: 743B.287 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743B or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      Note: Sections 5 and 8, chapter 43, Oregon Laws 2018, provide:
+
+      Sec. 5. No later than July 1, 2020, the Department of Consumer and Business Services shall report to the interim committees of the Legislative Assembly related to health, in the manner provided in ORS 192.245, all of the following:
+
+      (1) All consumer complaints presented to the department concerning billing for services provided in in-network facilities by out-of-network providers, as defined in ORS 743B.287, before and after March 1, 2018;
+
+      (2) Any effects on the adequacy of provider networks after January 1, 2019, due to the implementation of the amendments to ORS 743B.287 by section 4 of this 2018 Act, measured by the standards prescribed under ORS 743B.505;
+
+      (3) Any effects on premium rates after March 1, 2018, due to the implementation of ORS 743B.287; and
+
+      (4) Recommendations for methods to ensure compliance with the provisions of ORS 743B.287. [2018 c.43 §5]
+
+      Sec. 8. Section 5 of this 2018 Act is repealed on January 2, 2021. [2018 c.43 §8]
+
+ 
+
+      743B.290 Hospital payment of copayment or deductible for insured patient. An insurer offering a policy or certificate of health insurance may not prohibit a hospital, as a condition of reimbursing a claim for hospital services, from paying or waiving all or a portion of a copayment or deductible owed by an insured under the policy or certificate. [2019 c.497 §9]
+
+ 
+
+      Note: 743B.290 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743B or any series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -2359,7 +2435,7 @@ CONTRACTED HEALTH CARE PROVIDERS
 
       (f) Provide that a physician, as defined in ORS 677.010, who is practicing in conformity with ORS 677.095 may advocate a decision, policy or practice without being subject to termination or penalty for the sole reason of such advocacy.
 
-      (g)(A) Entitle the party to the medical services contract who is being reimbursed for the provision of health care services on a basis that includes financial risk withholds, or the party’s representative, to a full accounting of health benefits claims data and related financial information on no less than a quarterly basis by the party to a medical service contract who has made reimbursement, as follows:
+      (g)(A) Entitle the party to the medical services contract who is being reimbursed for the provision of health care services on a basis that includes financial risk withholds, or the party’s representative, to a full accounting of health benefits claims data and related financial information on no less than a quarterly basis by the party to a medical services contract who has made reimbursement, as follows:
 
       (i) The data shall include all pertinent information relating to the health care services provided, including related provider and patient information, reimbursements made and amounts withheld under the financial risk withhold provisions of the medical services contract for the period of time under reconciliation and settlement between the parties.
 
@@ -2473,7 +2549,13 @@ UTILIZATION CONTROLS
 
       (3) Any patient or provider who has had a request for treatment or payment for services denied as not medically necessary or as experimental shall be provided an opportunity for a timely appeal before an appropriate medical consultant or peer review committee.
 
-      (4) A provider request for prior authorization of nonemergency service must be answered within two business days, and qualified health care personnel must be available for same-day telephone responses to inquiries concerning certification of continued length of stay. [Formerly 743.806; 2017 c.409 §38]
+      (4) Except as provided in subsection (5) of this section, a determination on a provider’s or an enrollee’s request for prior authorization of a nonemergency service must be issued within a reasonable period of time appropriate to the medical circumstances but no later than two business days after receipt of the request, and qualified health care personnel must be available for same-day telephone responses to inquiries concerning certification of continued length of stay.
+
+      (5) If additional information from an enrollee or a provider is necessary to make a determination on a request for prior authorization, no later than two business days after receipt of the request, the enrollee and the provider shall be notified in writing of the specific additional information needed to make the determination. The determination must be issued by the later of:
+
+      (a) Two business days after receipt of a response to the request for additional information; or
+
+      (b) Fifteen days after the date of the request for additional information. [Formerly 743.806; 2017 c.409 §38; 2019 c.284 §3]
 
  
 
@@ -2491,7 +2573,13 @@ UTILIZATION CONTROLS
 
       (c) Any provider who has had a request for treatment or payment for services denied as not medically necessary or as experimental shall be provided an opportunity for a timely appeal before an appropriate medical consultant or peer review committee.
 
-      (d) A provider request for prior authorization of nonemergency service must be answered within two business days, and qualified health care personnel must be available for same-day telephone responses to inquiries concerning certification of continued length of stay. [Formerly 743.807; 2017 c.409 §39]
+      (d) Except as provided in paragraph (e) of this subsection, an insurer must issue a determination on a provider’s or an enrollee’s request for prior authorization of a nonemergency service within a reasonable period of time appropriate to the medical circumstances but no later than two business days after receipt of the request, and qualified health care personnel must be available for same-day telephone responses to inquiries concerning certification of continued length of stay.
+
+      (e) If an insurer requires additional information from an enrollee or a provider to make a determination on a request for prior authorization, no later than two business days after receipt of the request, the insurer shall notify the enrollee and the provider in writing of the additional information needed to make the determination. The insurer shall issue the determination by the later of:
+
+      (A) Two business days after receipt of a response to the request for additional information; or
+
+      (B) Fifteen days after the date of the request for additional information. [Formerly 743.807; 2017 c.409 §39; 2019 c.284 §4]
 
  
 
@@ -2675,6 +2763,48 @@ PAYMENT OF CLAIMS
 
  
 
+      Note: The amendments to 743B.454 by section 26, chapter 61, Oregon Laws 2018, apply to residential care facility administrators as defined in 678.710 on and after January 1, 2022. See section 33, chapter 61, Oregon Laws 2018. The text that applies to residential care facility administrators as defined in 678.710 on and after January 1, 2022, is set forth for the user’s convenience.
+
+      743B.454. (1) As used in this section:
+
+      (a) “Complete application” means a provider’s application to a health insurer to become a credentialed provider that includes:
+
+      (A) Information required by the health insurer;
+
+      (B) Proof that the provider is licensed by a health professional regulatory board as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians or the Behavior Analysis Regulatory Board;
+
+      (C) Proof of current registration with the Drug Enforcement Administration of the United States Department of Justice, if applicable to the provider’s practice; and
+
+      (D) Proof that the provider is covered by a professional liability insurance policy or certification meeting the health insurer’s requirements.
+
+      (b) “Credentialing period” means the period beginning on the date a health insurer receives a complete application and ending on the date the health insurer approves or rejects the complete application or 90 days after the health insurer receives the complete application, whichever is earlier.
+
+      (c) “Health insurer” means an insurer that offers managed health insurance or preferred provider organization insurance, other than a health maintenance organization as defined in ORS 750.005.
+
+      (2) A health insurer shall approve or reject a complete application within 90 days of receiving the application.
+
+      (3)(a) A health insurer shall pay all claims for medical services covered by the health insurer that are provided by a provider during the credentialing period.
+
+      (b) A provider may submit claims for medical services provided during the credentialing period during or after the credentialing period.
+
+      (c) A health insurer may pay claims for medical services provided during the credentialing period:
+
+      (A) During or after the credentialing period.
+
+      (B) At the rate paid to nonparticipating providers.
+
+      (d) If a provider submits a claim for medical services provided during the credentialing period within six months after the end of the credentialing period, the health insurer may not deny payment of the claim on the basis of the health insurer’s rules relating to timely claims submission.
+
+      (4) Subsection (3) of this section does not require a health insurer to pay claims for medical services provided during the credentialing period if:
+
+      (a) The provider was previously rejected or terminated as a participating provider in any health benefit plan underwritten or administered by the health insurer;
+
+      (b) The rejection or termination was due to the objectively verifiable failure of the provider to provide medical services within the recognized standards of the provider’s profession; and
+
+      (c) The provider was given the opportunity to contest the rejection or termination before a panel of peers in a proceeding conducted in conformity with the Health Care Quality Improvement Act of 1986, 42 U.S.C. 11101 et seq.
+
+ 
+
       Note: 743B.454 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743B or any series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -2713,7 +2843,7 @@ PAYMENT OF CLAIMS
 
  
 
-      Note: Sections 1, 2 and 4, chapter 694, Oregon Laws 2017, provide:
+      Note: Sections 1 and 4, chapter 694, Oregon Laws 2017, provide:
 
       Sec. 1. (1) As used in this section:
 
@@ -2733,7 +2863,7 @@ PAYMENT OF CLAIMS
 
       (A) A psychiatrist; and
 
-      (B) A certified nurse practitioner with a specialty in psychiatric mental health.
+      (B) A licensed nurse practitioner with a specialty in psychiatric mental health.
 
       (2) The Department of Consumer and Business Services shall examine all of the following:
 
@@ -2745,9 +2875,7 @@ PAYMENT OF CLAIMS
 
       (d) Whether the methodologies used by each carrier to determine the carrier’s reimbursement rate schedule are equivalent for in-network behavioral health providers and in-network medical providers.
 
-      (3) The department shall adopt rules or take other actions based on the results of the department’s examination under subsection (2) of this section that ensure that carriers meet the requirements of ORS 743A.168 and 743B.505 in policies, certificates or contracts for health insurance that the carriers offer to residents of this state. [2017 c.694 §1]
-
-      Sec. 2. The Department of Consumer and Business Services shall report to the interim committees of the Legislative Assembly related to health, no later than September 1, 2019, the status of the department’s examination in accordance with section 1 of this 2017 Act and rules adopted or other actions taken by the department in response to the examination. [2017 c.694 §2]
+      (3) The department shall adopt rules or take other actions based on the results of the department’s examination under subsection (2) of this section that ensure that carriers meet the requirements of ORS 743A.168 and 743B.505 in policies, certificates or contracts for health insurance that the carriers offer to residents of this state. [2017 c.694 §1; 2019 c.358 §47]
 
       Sec. 4. Section 1 of this 2017 Act is repealed on January 2, 2021. [2017 c.694 §4]
 
@@ -3213,13 +3341,15 @@ RISK ADJUSTMENT
 
       743B.800 Risk adjustment procedures; rules. (1) As used in this section, “health benefit plan” means a health benefit plan, as defined in ORS 743B.005, that is offered in the individual or small group market.
 
-      (2) The Department of Consumer and Business Services may establish by rule a procedure for adjusting risk between insurers. If a procedure is established, the procedure may include:
+      (2) The Department of Consumer and Business Services may establish by rule a procedure for adjusting risk between insurers. If a procedure is established:
 
-      (a) An assessment imposed on an insurer if the actuarial risk of the enrollees in the insurer’s health benefit plans is less than the average actuarial risk of all enrollees in all health benefit plans in this state; and
+      (a) The procedure may include:
 
-      (b) Payments to insurers if the actuarial risk of the enrollees in the insurer’s health benefit plans is greater than the average actuarial risk of all enrollees in all health benefit plans in this state.
+      (A) An assessment imposed on an insurer if the actuarial risk of the enrollees in the insurer’s health benefit plans is less than the average actuarial risk of all enrollees in all health benefit plans in this state; and
 
-      (3) A procedure established under this section must be consistent with 42 U.S.C. 18063 and regulations adopted by the Secretary of the United States Department of Health and Human Services to carry out 42 U.S.C. 18063 that are in effect on January 1, 2017. [Formerly 743.923; 2017 c.152 §14]
+      (B) Payments to insurers if the actuarial risk of the enrollees in the insurer’s health benefit plans is greater than the average actuarial risk of all enrollees in all health benefit plans in this state.
+
+      (b) The methodology for adjusting risk between insurers must be consistent with 42 U.S.C. 18063 and regulations adopted by the Secretary of the United States Department of Health and Human Services to carry out 42 U.S.C. 18063 that are in effect on January 1, 2019. [Formerly 743.923; 2017 c.152 §14; 2019 c.285 §10]
 
  
 
@@ -3231,69 +3361,7 @@ RISK ADJUSTMENT
 
  
 
-      Note: Sections 17 to 21 and 48, chapter 538, Oregon Laws 2017, provide:
-
-      Sec. 17. Sections 18 to 21 of this 2017 Act are added to and made a part of the Insurance Code. [2017 c.538 §17]
-
-      Sec. 18. The Oregon Reinsurance Program is established in the Department of Consumer and Business Services for the purposes of stabilizing the rates and premiums for individual health benefit plans and providing greater financial certainty to consumers of health insurance in this state. [2017 c.538 §18]
-
-      Sec. 19. (1) As used in this section:
-
-      (a) “Attachment point” means the threshold dollar amount, adopted by the Department of Consumer and Business Services by rule, for claims costs incurred by a reinsurance eligible health benefit plan for an insured individual’s covered benefits in a benefit year, after which threshold the claims costs for the benefits are eligible for reinsurance payments.
-
-      (b) “Coinsurance rate” means the rate, adopted by the department by rule, at which the department will reimburse a reinsurance eligible health benefit plan for claims costs incurred for an insured individual’s covered benefits in a benefit year after the attachment point and before the reinsurance cap.
-
-      (c) “Health benefit plan” has the meaning given that term in ORS 743B.005.
-
-      (d) “Reinsurance cap” means the threshold dollar amount, adopted by the department by rule, for claims costs incurred by a reinsurance eligible health benefit plan for an insured individual’s covered benefits in a benefit year, after which threshold the claims costs for the benefits are no longer eligible for state reinsurance payments.
-
-      (e) “Reinsurance eligible health benefit plan” means a health benefit plan providing individual coverage that:
-
-      (A) Is delivered or issued for delivery in this state; and
-
-      (B) Is not a grandfathered health plan as defined in ORS 743B.005.
-
-      (f) “Reinsurance eligible individual” means an individual who is insured in a reinsurance eligible health benefit plan on or after January 1, 2018.
-
-      (2) An issuer of a reinsurance eligible health benefit plan becomes eligible for a reinsurance payment when the claims costs for a reinsurance eligible individual’s covered benefits in a calendar year exceed the attachment point. The amount of the payment shall be the product of the coinsurance rate and the issuer’s claims costs for the reinsurance eligible individual that exceed the attachment point, up to the reinsurance cap.
-
-      (3) After the department adopts by rule the attachment point, reinsurance cap or coinsurance rate, the department may not:
-
-      (a) Change the attachment point or the reinsurance cap during that benefit year; or
-
-      (b) Increase the coinsurance rate during the benefit year.
-
-      (4) The department may adopt rules necessary to carry out the provisions of this section including, but not limited to, rules prescribing:
-
-      (a) The amount, manner and frequency of reinsurance payments; and
-
-      (b) Reporting requirements for issuers of reinsurance eligible health benefit plans. [2017 c.538 §19]
-
-      Sec. 20. (1) As used in this section:
-
-      (a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
-
-      (b) “Oregon Reinsurance Program” means the program established in section 18 of this 2017 Act.
-
-      (c) “Reinsurance eligible individual” has the meaning given that term in section 19 of this 2017 Act.
-
-      (2) An insurer that offers a health benefit plan must report to the Department of Consumer and Business Services, in the form and manner prescribed by the department by rule, information about reinsurance eligible individuals insured by the health benefit plan as necessary for the department to calculate reinsurance payments under the Oregon Reinsurance Program. [2017 c.538 §20]
-
-      Sec. 21. In a rate filing under ORS 743.018, an insurer must identify the impact of reinsurance payments under section 19 of this 2017 Act on projected claims costs and in the development of rates. [2017 c.538 §21]
-
-      Sec. 48. Sections 18 to 22 of this 2017 Act are repealed on January 2, 2024. [2017 c.538 §48]
-
- 
-
-      Note: Section 2, chapter 26, Oregon Laws 2016, provides:
-
-      Sec. 2. The Department of Consumer and Business Services shall have sole authority to apply for a waiver for state innovation under 42 U.S.C. 18052. The department shall apply for a waiver to receive funding to implement the Oregon Reinsurance Program established in section 18 of this 2017 Act. [2016 c.26 §2; 2017 c.538 §24]
-
- 
-
-      Note: Parts of chapter 538, Oregon Laws 2017, were referred to the people by referendum petition for their approval or rejection at a special election to be held throughout this state on January 23, 2018. See section 55, chapter 749, Oregon Laws 2017. The parts referred to the people are not in effect unless and until voters approve the ballot measure at the special election. If the ballot measure is approved, the referred parts, indicated as underlined text below, become effective February 22, 2018. See Article IV, section 1 (4)(d), of the Oregon Constitution.
-
-Note: Sections 1 to 8, chapter 538, Oregon Laws 2017, provide:
+      Note: Sections 1 to 8, 17 to 21 and 48, chapter 538, Oregon Laws 2017, provide:
 
       Sec. 1. Sections 2 to 8 of this 2017 Act are added to and made a part of the Insurance Code. [2017 c.538 §1]
 
@@ -3315,9 +3383,9 @@ Note: Sections 1 to 8, chapter 538, Oregon Laws 2017, provide:
 
       (a) “Insured” means an eligible employee or family member, as defined in ORS 243.105, who is enrolled in a self-insured health benefit plan under ORS 243.105 to 243.285.
 
-      (b) “Premium equivalent” means a claim for reimbursement of the cost of a health care item or service provided to an eligible employee or family member, other than a dental or vision care item or service, and the administrative costs associated with the claim.
+      (b) “Premium equivalent” means a claim for reimbursement of the cost of a health care item or service provided to an insured, other than a dental or vision care item or service, and the administrative costs associated with the claim.
 
-      (2) No later than 45 days following the end of a calendar quarter, the Public Employees’ Benefit Board shall pay an assessment at the rate of 1.5 percent on the gross amount of premium equivalents received during the calendar quarter.
+      (2) No later than 45 days following the end of a calendar quarter, the Public Employees’ Benefit Board shall pay an assessment at the rate of two percent on the gross amount of premium equivalents received during the calendar quarter.
 
       (3) The assessment shall be paid to the Department of Consumer and Business Services and shall be accompanied by a verified report, on a form prescribed by the department, together with any information required by the department.
 
@@ -3327,41 +3395,105 @@ Note: Sections 1 to 8, chapter 538, Oregon Laws 2017, provide:
 
       (6) The board is entitled to notice and an opportunity for a contested case hearing under ORS chapter 183 to contest an action of the department taken pursuant to subsection (5) of this section.
 
-      (7) Moneys received by the department under this section shall be paid into the State Treasury and credited to the Health System Fund established under section 2 of this 2017 Act. [2017 c.538 §3]
+      (7) Moneys received by the department under this section shall be paid into the State Treasury and credited to the Health System Fund established under section 2, chapter 538, Oregon Laws 2017. [2017 c.538 §3; 2019 c.2 §4]
 
-      Sec. 4. Section 3 of this 2017 Act applies to premium equivalents received by the Public Employees’ Benefit Board, or a third party administrator that contracts with the board to administer a self-insured health benefit plan, during the period from January 1, 2018, through December 31, 2019. [2017 c.538 §4]
+      Sec. 4. Section 3, chapter 538, Oregon Laws 2017, applies to premium equivalents received by the Public Employees’ Benefit Board, or a third party administrator that contracts with the board to administer a self-insured health benefit plan, during the period from January 1, 2020, through December 31, 2026. [2017 c.538 §4; 2019 c.2 §5]
 
       Sec. 5. (1) As used in this section:
 
       (a) “Gross amount of premiums” has the meaning given that term in ORS 731.808.
 
-      (b) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+      (b) “Health plan” means:
 
-      (2) No later than 45 days following the end of a calendar quarter, an insurer shall pay an assessment at the rate of 1.5 percent of the gross amount of premiums earned by the insurer during that calendar quarter that were derived from health benefit plans delivered or issued for delivery in Oregon.
+      (A) A health benefit plan as defined in ORS 743B.005; and
+
+      (B) Insurance described in ORS 742.065.
+
+      (2) No later than 45 days following the end of a calendar quarter, an insurer shall pay an assessment at the rate of two percent of the gross amount of premiums earned by the insurer during that calendar quarter that were derived from health plans delivered or issued for delivery in Oregon.
 
       (3) The assessment shall be paid to the Department of Consumer and Business Services and shall be accompanied by a verified form prescribed by the department together with any information required by the department, that reports:
 
-      (a) All health benefit plans issued or renewed by the insurer during the calendar quarter for which the assessment is paid; and
+      (a) All health plans issued or renewed by the insurer during the calendar quarter for which the assessment is paid; and
 
-      (b) The gross amount of premiums by line of insurance, derived by the insurer from all health benefit plans issued or renewed by the insurer during the calendar quarter for which the assessment is paid.
+      (b) The gross amount of premiums by line of insurance, derived by the insurer from all health plans issued or renewed by the insurer during the calendar quarter for which the assessment is paid.
 
       (4) The assessment imposed under this section is in addition to and not in lieu of any tax, surcharge or other assessment imposed on an insurer.
 
       (5) Any rate filed for the department’s approval may include amounts paid by the insurer under this section as a valid element of administrative expense or retention.
 
-      (6) Moneys received by the department under this section shall be paid into the State Treasury and credited to the Health System Fund established under section 2 of this 2017 Act. [2017 c.538 §5]
+      (6) Moneys received by the department under this section shall be paid into the State Treasury and credited to the Health System Fund established under section 2, chapter 538, Oregon Laws 2017. [2017 c.538 §5; 2019 c.2 §6]
 
-      Sec. 6. (1) If the Public Employees’ Benefit Board or an insurer fails to timely file a verified form or to pay an assessment required under section 3 or 5 of this 2017 Act, the Department of Consumer and Business Services shall impose a penalty on the board or insurer of up to $500 per day of delinquency. The total amount of penalties imposed under this section for a calendar quarter may not exceed five percent of the assessment due for that calendar quarter.
+      Sec. 6. (1) If the Public Employees’ Benefit Board fails to timely file a verified form or to pay an assessment required under section 3, chapter 538, Oregon Laws 2017, the Department of Consumer and Business Services shall impose a penalty on the board of up to $500 per day of delinquency. The total amount of penalties imposed under this section for a calendar quarter may not exceed five percent of the assessment due for that calendar quarter.
 
-      (2) Any penalty imposed under this section is in addition to and not in lieu of the assessment imposed under sections 3 and 5 of this 2017 Act. [2017 c.538 §6]
+      (2) If an insurer fails to timely file a verified form or to pay an assessment required under section 5, chapter 538, Oregon Laws 2017, the department shall impose a penalty on the insurer of the greater of:
+
+      (a) An amount determined under ORS 731.988; or
+
+      (b) Five percent of the assessment due for the calendar quarter.
+
+      (3) Any penalty imposed under this section is in addition to and not in lieu of the assessment imposed under sections 3 and 5, chapter 538, Oregon Laws 2017. [2017 c.538 §6; 2019 c.2 §7]
 
       Sec. 7. (1) If the Department of Consumer and Business Services determines that the assessment paid by the insurer under section 5 of this 2017 Act is incorrect, the department shall charge or credit to the insurer the difference between the correct amount of the assessment and the amount paid by the insurer.
 
       (2) An insurer that is aggrieved by an action of the department taken pursuant to subsection (1) of this section shall be entitled to notice and an opportunity for a contested case hearing under ORS chapter 183. [2017 c.538 §7]
 
-      Sec. 8. (1) Section 5 of this 2017 Act applies to premiums earned by an insurer for a period of eight calendar quarters beginning on the date, on or after January 1, 2018, that the policy or certificate for which the premiums are paid is issued or renewed.
+      Sec. 8. Section 5, chapter 538, Oregon Laws 2017, applies to premiums earned by an insurer for the period beginning January 1, 2020, and ending December 31, 2026. [2017 c.538 §8; 2019 c.2 §8]
 
-      (2) Notwithstanding any provision of contract or statute, including ORS 743B.013 and 743.022, insurers may increase their premium rate on policies or certificates that are subject to the assessment under section 5 of this 2017 Act by 1.5 percent. If an insurer increases its rates under this subsection, the insurer may include in its billings for health benefit plans a notice, as prescribed by the Department of Consumer and Business Services, explaining that the increase is due to the assessment under section 5 of this 2017 Act. [2017 c.538 §8]
+      Sec. 17. Sections 18 to 21 of this 2017 Act are added to and made a part of the Insurance Code. [2017 c.538 §17]
+
+      Sec. 18. The Oregon Reinsurance Program is established in the Department of Consumer and Business Services for the purposes of stabilizing the rates and premiums for individual health benefit plans and providing greater financial certainty to consumers of health insurance in this state. [2017 c.538 §18]
+
+      Sec. 19. (1) As used in this section:
+
+      (a) “Attachment point” means the threshold dollar amount, adopted by the Department of Consumer and Business Services by rule, for claims costs incurred by a reinsurance eligible health benefit plan for an insured individual’s covered benefits in a benefit year, after which threshold the claims costs for the benefits are eligible for reinsurance payments.
+
+      (b) “Coinsurance rate” means the rate, adopted by the department by rule, at which the department will reimburse a reinsurance eligible health benefit plan for claims costs incurred for an insured individual’s covered benefits in a benefit year after the attachment point and before the reinsurance cap.
+
+      (c) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (d) “Reinsurance cap” means the threshold dollar amount, adopted by the department by rule, for claims costs incurred by a reinsurance eligible health benefit plan for an insured individual’s covered benefits in a benefit year, after which threshold the claims costs for the benefits are no longer eligible for state reinsurance payments.
+
+      (e) “Reinsurance eligible health benefit plan” means a health benefit plan providing individual coverage that:
+
+      (A) Is delivered or issued for delivery in this state; and
+
+      (B) Is not a grandfathered health plan as defined in ORS 743B.005.
+
+      (f) “Reinsurance eligible individual” means an individual who is insured in a reinsurance eligible health benefit plan.
+
+      (2) An issuer of a reinsurance eligible health benefit plan becomes eligible for a reinsurance payment when the claims costs for a reinsurance eligible individual’s covered benefits in a calendar year exceed the attachment point. The amount of the payment shall be the product of the coinsurance rate and the issuer’s claims costs for the reinsurance eligible individual that exceed the attachment point, up to the reinsurance cap.
+
+      (3) After the department adopts by rule the attachment point, reinsurance cap or coinsurance rate, the department may, only if necessary to pay out the full amount of funding budgeted for the Oregon Reinsurance Program when claims received are less than the amount of claims that were projected:
+
+      (a) Change the attachment point during that benefit year; or
+
+      (b) Increase the coinsurance rate during the benefit year.
+
+      (4) The department may adopt rules necessary to carry out the provisions of this section including, but not limited to, rules prescribing:
+
+      (a) The amount, manner and frequency of reinsurance payments; and
+
+      (b) Reporting requirements for issuers of reinsurance eligible health benefit plans. [2017 c.538 §19; 2019 c.2 §1]
+
+      Sec. 20. (1) As used in this section:
+
+      (a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (b) “Oregon Reinsurance Program” means the program established in section 18 of this 2017 Act.
+
+      (c) “Reinsurance eligible individual” has the meaning given that term in section 19 of this 2017 Act.
+
+      (2) An insurer that offers a health benefit plan must report to the Department of Consumer and Business Services, in the form and manner prescribed by the department by rule, information about reinsurance eligible individuals insured by the health benefit plan as necessary for the department to calculate reinsurance payments under the Oregon Reinsurance Program. [2017 c.538 §20]
+
+      Sec. 21. In a rate filing under ORS 743.018, an insurer must identify the impact of reinsurance payments under section 19 of this 2017 Act on projected claims costs and in the development of rates. [2017 c.538 §21]
+
+      Sec. 48. Sections 18 to 22, chapter 538, Oregon Laws 2017, are repealed on January 2, 2028. [2017 c.538 §48; 2019 c.2 §3]
+
+ 
+
+      Note: Section 2, chapter 26, Oregon Laws 2016, provides:
+
+      Sec. 2. The Department of Consumer and Business Services shall have sole authority to apply for a waiver for state innovation under 42 U.S.C. 18052. The department shall apply for a waiver to receive funding to implement the Oregon Reinsurance Program established in section 18, chapter 538, Oregon Laws 2017, and apply for subsequent renewals of the waiver to continue the program as long as revenue from the assessment under section 5, chapter 538, Oregon Laws 2017, is available. [2016 c.26 §2; 2017 c.538 §24; 2019 c.2 §2]
 
  
 
@@ -3384,44 +3516,6 @@ MISCELLANEOUS
  
 
       Note: 743B.810 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 743B or any series therein. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
-(Temporary provisions relating to the authority of the Department of Consumer and Business Services to take action in response to changes in federal law)
-
- 
-
-      Note: Sections 1 and 2, chapter 626, Oregon Laws 2017, provide:
-
-      Sec. 1. (1) Notwithstanding any other law, the Department of Consumer and Business Services may, upon the recommendation of the Health Insurance Exchange Advisory Committee created in ORS 741.004, adopt rules that are not in compliance with the Insurance Code if:
-
-      (a)(A) There is a change in federal law on or after September 1, 2017, that:
-
-      (i) Is expected to cause premium rates previously approved by the department to no longer meet the requirements of ORS 743.018 (4); or
-
-      (ii) Is expected to have a substantial impact on the average out-of-pocket costs for or premiums paid by insureds in this state; or
-
-      (B) A decision is made by the United States Department of Health and Human Services, the Internal Revenue Service or the United States Department of Labor to discontinue or reduce federal payments for cost-sharing reductions authorized by 42 U.S.C. 18071; and
-
-      (b) The Director of the Department of Consumer and Business Services determines that the change in law or decision by a federal agency described in paragraph (a) of this subsection will cause an imminent destabilization of the insurance market and risk the life or health of residents of this state.
-
-      (2) The rules may be adopted as temporary rules, in accordance with ORS 183.335 (5), but may not be readopted in whole or in part. Rules adopted as permanent rules may not be in effect for a period longer than six months unless ratified by an action of the Legislative Assembly.
-
-      (3) If the Department of Consumer and Business Services adopts any rules pursuant to its authority under this section, the department shall:
-
-      (a) Immediately report to the President of the Senate, the Speaker of the House of Representatives and the interim committees of the Legislative Assembly related to health any action taken by the department pursuant to the rules and a full explanation of the reasons for taking the action; and
-
-      (b) Each calendar quarter after adopting the rules, report the impact of any actions taken pursuant to the rules on consumers and the insurance market in this state to the committees or interim committees of the Legislative Assembly related to health.
-
-      (4) Subsection (1) of this section does not authorize the Department of Consumer and Business Services to adopt any rule that fails to comply with the following provisions of the Insurance Code:
-
-      (a) The requirements for the reimbursement of providers, items and services in ORS chapter 743A;
-
-      (b) The prohibition on denial of coverage to consumers with preexisting conditions under ORS 735.616 [repealed], 743B.003, 743B.011, 743B.013, 743B.105 or 743B.125; and
-
-      (c) The requirement to cover essential health benefits under ORS 741.310, 743B.013 and 743B.125. [2017 c.626 §1]
-
-      Sec. 2. Section 1 of this 2017 Act is repealed on July 1, 2019. [2017 c.626 §2]
 
 _______________
 

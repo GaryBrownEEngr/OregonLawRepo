@@ -385,11 +385,11 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-308.505     Definitions for ORS 308.505 to 308.681
+308.505     Definitions for ORS 308.505 to 308.674
 
  
 
-308.510     Real and personal property classified for ORS 308.505 to 308.681
+308.510     Real and personal property classified for ORS 308.505 to 308.674
 
  
 
@@ -413,7 +413,11 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-308.520     Companies to file statements
+308.521     Property of cooperative providing steam or hot water heat by combustion of biomass exempt
+
+ 
+
+308.524     Companies to file statements
 
  
 
@@ -549,21 +553,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-308.673     Exemption grantable under ORS 308.674 or 308.677 but not both
-
- 
-
 308.674     Exemption equal to difference between real market value of company’s centrally assessable property and 130 percent of cost of company’s centrally assessable real and tangible personal property; limitations; exclusivity
-
- 
-
-308.677     Exemption for property of company that builds and operates qualified communication services project; application to Public Utility Commission; computation of exemption; exclusivity
-
- 
-
-308.681     Annual report to legislature on ORS 308.677
-
- 
 
 MULTIUNIT RENTAL HOUSING SUBJECT TO GOVERNMENT RESTRICTION ON USE
 
@@ -633,7 +623,7 @@ MANUFACTURED STRUCTURES; MOBILE MODULAR UNITS
 
  
 
-308.866     Definition of mobile modular unit; statement of value; receipt
+308.866     Definition of “mobile modular unit”; statement of value; receipt
 
  
 
@@ -676,6 +666,10 @@ GENERAL PROVISIONS
       (d) “Year” means the assessment year.
 
       (2) For purposes of property taxation, unless the context requires otherwise, the assessment year beginning January 1 corresponds to the tax year beginning July 1 of the same calendar year. [1977 c.461 §1; 1991 c.459 §82; 1997 c.541 §146; 1999 c.1078 §66; 2005 c.94 §42]
+
+ 
+
+      Note: The definition of “manufactured structure” provided in 307.021 applies to ORS chapter 308.
 
  
 
@@ -729,7 +723,7 @@ GENERAL PROVISIONS
 
  
 
-      308.030 Penalty for failure to file certain statements within time limits; notice; waiver or reduction of penalty; rules. (1) Each person, company, corporation or association required by ORS 308.505 to 308.681 or 308.805 to 308.820 to file a statement with the Department of Revenue, who or which has not filed a statement within the time fixed for filing a statement or as extended, is delinquent.
+      308.030 Penalty for failure to file certain statements within time limits; notice; waiver or reduction of penalty; rules. (1) Each person, company, corporation or association required by ORS 308.505 to 308.674 or 308.805 to 308.820 to file a statement with the Department of Revenue, who or which has not filed a statement within the time fixed for filing a statement or as extended, is delinquent.
 
       (2) A delinquent taxpayer is subject to a penalty of $10 for each $1,000 (or fraction thereof) of assessed value of the property as placed on the assessment roll of the department for the year of delinquency; except that for a delinquent taxpayer required to file a statement under ORS 308.805 to 308.820, the penalty shall be based upon the assessed value of such property of the taxpayer as would have been placed upon the assessment roll of the department if such property were subject to ad valorem taxation. The penalty may not be less than $10 or more than $5,000.
 
@@ -849,8 +843,6 @@ WHERE AND TO WHOM PROPERTY ASSESSED
 
 MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
- 
-
 (Generally)
 
  
@@ -861,7 +853,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (a) All property included within a single property tax account; or
 
-      (b) In the case of property that is centrally assessed under ORS 308.505 to 308.681, the total statewide value of all property assessed to a company or utility that is subject to ORS 308.505 to 308.681.
+      (b) In the case of property that is centrally assessed under ORS 308.505 to 308.674, the total statewide value of all property assessed to a company or utility that is subject to ORS 308.505 to 308.674.
 
       (2) “Property tax account” means the administrative division of property for purposes of listing on the assessment roll under ORS 308.215 for the tax year for which maximum assessed value is being determined or, in the case of a private railcar company, the administrative division provided under ORS 308.640. [1997 c.541 §7; 1999 c.223 §7]
 
@@ -899,7 +891,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (b) This subsection does not apply:
 
-      (A) To any property that is assessed under ORS 308.505 to 308.681.
+      (A) To any property that is assessed under ORS 308.505 to 308.674.
 
       (B) If the damaged or destroyed property is property that, when added to the assessment and tax roll, constituted minor construction for which no adjustment to maximum assessed value was made.
 
@@ -931,7 +923,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (b) This subsection does not apply:
 
-      (A) To any property that is assessed under ORS 308.505 to 308.681.
+      (A) To any property that is assessed under ORS 308.505 to 308.674.
 
       (B) If the demolished or removed property is property that, when added to the assessment and tax roll, constituted minor construction for which no adjustment to maximum assessed value was made.
 
@@ -961,7 +953,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (b) The city in which property, the maximum assessed value of which is being adjusted, is located, if the city has adopted an ordinance or resolution pursuant to ORS 308.151; or
 
-      (c) This state, if the property for which the maximum assessed value is being adjusted is property that is centrally assessed under ORS 308.505 to 308.681.
+      (c) This state, if the property for which the maximum assessed value is being adjusted is property that is centrally assessed under ORS 308.505 to 308.674.
 
       (2)(a) “Average maximum assessed value” means the value determined by dividing the total maximum assessed value of all property in the same area in the same property class by the total number of properties in the same area in the same property class.
 
@@ -977,7 +969,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (E) Property that is disqualified from exemption, partial exemption or special assessment.
 
-      (c) Paragraph (b)(B), (C), (D) and (E) of this subsection does not apply to the calculation of average maximum assessed value in the case of property centrally assessed under ORS 308.505 to 308.681.
+      (c) Paragraph (b)(B), (C), (D) and (E) of this subsection does not apply to the calculation of average maximum assessed value in the case of property centrally assessed under ORS 308.505 to 308.674.
 
       (3)(a) “Average real market value” means the value determined by dividing the total real market value of all property in the same area in the same property class by the total number of properties in the same area in the same property class.
 
@@ -993,7 +985,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (E) Property that is disqualified from exemption, partial exemption or special assessment.
 
-      (c) Paragraph (b)(B), (C), (D) and (E) of this subsection does not apply to the calculation of average real market value in the case of property centrally assessed under ORS 308.505 to 308.681.
+      (c) Paragraph (b)(B), (C), (D) and (E) of this subsection does not apply to the calculation of average real market value in the case of property centrally assessed under ORS 308.505 to 308.674.
 
       (4) “Lot line adjustment” means any addition to the square footage of the land for a real property tax account and a corresponding subtraction of square footage of the land from a contiguous real property tax account.
 
@@ -1015,7 +1007,7 @@ MAXIMUM ASSESSED VALUE AND ASSESSED VALUE
 
       (c) “New property or new improvements” includes taxable property that on January 1 of the assessment year is located in a different tax code area than on January 1 of the preceding assessment year.
 
-      (7) “Property class” means the classification of property adopted by the Department of Revenue by rule pursuant to ORS 308.215, except that in the case of property assessed under ORS 308.505 to 308.681, “property class” means the total of all property set forth in the assessment roll prepared under ORS 308.540. [1997 c.541 §9; 1999 c.579 §20; 2012 c.30 §2; 2017 c.414 §3]
+      (7) “Property class” means the classification of property adopted by the Department of Revenue by rule pursuant to ORS 308.215, except that in the case of property assessed under ORS 308.505 to 308.674, “property class” means the total of all property set forth in the assessment roll prepared under ORS 308.540. [1997 c.541 §9; 1999 c.579 §20; 2012 c.30 §2; 2017 c.414 §3]
 
  
 
@@ -1413,7 +1405,7 @@ ASSESSMENT ROLL; METHOD OF ASSESSMENT
 
       308.242 Assessor’s authority to change roll after September 25 limited; when changes permitted; stipulations. (1) The assessor may not make changes in the roll after September 25 of each year except as provided in subsections (2) and (3) of this section or as otherwise provided by law.
 
-      (2) After the assessment roll has been certified and on or before December 31, the assessor may make changes in valuation judgment that result in a reduction in the value of property, if so requested by the taxpayer or upon the assessor’s own initiative. Corrections under this section to accounts appraised by the Department of Revenue pursuant to ORS 306.126 and 308.505 to 308.681 may not be made without the approval of the department.
+      (2) After the assessment roll has been certified and on or before December 31, the assessor may make changes in valuation judgment that result in a reduction in the value of property, if so requested by the taxpayer or upon the assessor’s own initiative. Corrections under this section to accounts appraised by the Department of Revenue pursuant to ORS 306.126 and 308.505 to 308.674 may not be made without the approval of the department.
 
       (3)(a) If a petition for reduction has been filed with the board of property tax appeals, the assessor may change the roll if the assessor and the petitioner stipulate to a change in valuation judgment that results in a reduction in value. The stipulation may be made at any time up until the convening of the board.
 
@@ -1441,13 +1433,19 @@ ASSESSMENT ROLL; METHOD OF ASSESSMENT
 
       (a) If the total assessed value of all taxable personal property required to be reported under ORS 308.290 in any county of any taxpayer is less than $12,500 in any assessment year, the property is not subject to ad valorem property taxation for that year.
 
-      (b) Manufactured structures of a taxpayer are not subject to ad valorem property taxation for any assessment year in which:
+      (b) Manufactured structures of a taxpayer are not subject to ad valorem property taxation for any assessment year in which, in a county with a population of more than 340,000 but less than or equal to 570,000, the total assessed value of all manufactured structures taxable as personal property under ORS 308.875 of the taxpayer is less than $12,500.
 
-      (A) In a county with a population of more than 340,000 but less than or equal to 570,000, the total assessed value of all manufactured structures taxable as personal property under ORS 308.875 of the taxpayer is less than $12,500.
+      (3)(a) Notwithstanding subsection (1) of this section, manufactured structures of a taxpayer are not subject to ad valorem property taxation for any assessment year in which, in a county with a population of more than 570,000, the total assessed value of all manufactured structures taxable as personal property under ORS 308.875 of the taxpayer is less than:
 
-      (B) In a county with a population of more than 570,000, the total assessed value of all manufactured structures taxable as personal property under ORS 308.875 of the taxpayer is less than $25,000.
+      (A) $25,000; or
 
-      (3)(a) On or around January 1 of each year, the county assessor may provide notice to each taxpayer whose taxable personal property is not subject to ad valorem property taxation for the current property tax year under subsection (2)(a) of this section.
+      (B) A maximum dollar amount of $25,000 or more, if adopted by the governing body of the county for the assessment year.
+
+      (b) Notwithstanding subsection (1) of this section, the governing body of a county with a population of more than 570,000 may grant a partial exemption for all manufactured structures taxable as personal property in a dollar amount adopted by the county. The dollar amount shall be subtracted from the total assessed value of the property.
+
+      (c) The governing body of a county that adopts a dollar amount under paragraph (a)(B) or (b) of this subsection must notify the county assessor on or before January 1 of the assessment year for which the county first intends the dollar amount to apply.
+
+      (4)(a) On or around January 1 of each year, the county assessor may provide notice to each taxpayer whose taxable personal property is not subject to ad valorem property taxation for the current property tax year under subsection (2)(a) of this section.
 
       (b) Notice provided under this subsection shall:
 
@@ -1459,15 +1457,19 @@ ASSESSMENT ROLL; METHOD OF ASSESSMENT
 
       (c) A signed form returned to the county assessor within the time required under ORS 308.290 shall be sufficient to make the taxable personal property of the taxpayer identified in the notice not subject to ad valorem property taxation for the subsequent property tax year.
 
-      (4)(a) For each tax year beginning on or after July 1, 2003, the Department of Revenue shall recompute the maximum amount of the assessed value of taxable personal property in subsection (2)(a) and (b) of this section as follows:
+      (5)(a) For each tax year beginning on or after July 1, 2003, the Department of Revenue shall recompute the maximum amount of the assessed value of taxable personal property in subsections (2)(a) and (b) and (3)(a)(A) and (B) of this section as follows:
 
-      (A) Divide the average U.S. City Average Consumer Price Index for the prior calendar year by the average U.S. City Average Consumer Price Index for 2002.
+      (A) Divide the average Consumer Price Index for All Urban Consumers, West Region, for the prior calendar year by the average U.S. City Average Consumer Price Index for 2002.
 
       (B) Recompute the maximum amount of assessed value under subsection (2)(a) or (b) of this section by multiplying $12,500 or $25,000, as applicable, by the appropriate indexing factor determined as provided in subparagraph (A) of this paragraph.
 
-      (b) As used in this subsection, “U.S. City Average Consumer Price Index” means the U.S. City Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau of Labor Statistics of the United States Department of Labor.
+      (b) As used in this subsection:
 
-      (c) If any change in the maximum amount of assessed value determined under paragraph (a) of this subsection is not a multiple of $500, the increase shall be rounded to the nearest multiple of $500. [Amended by 1953 c.349 §3; 1959 c.553 §1; 1965 c.429 §3; 1971 c.529 §34; 1971 c.610 §1; 1973 c.62 §1; 1979 c.529 §3; 1979 c.692 §4; 1981 c.804 §41; 1985 c.422 §1; 1985 c.613 §9; 1991 c.459 §101; 1993 c.813 §1; 1995 c.513 §4; 1997 c.541 §163; 1997 c.819 §1; 2001 c.479 §1; 2003 c.63 §1; 2007 c.613 §2; 2010 c.69 §§1,2; 2013 c.205 §1; 2015 c.38 §2; 2015 c.217 §1; 2017 c.420 §1]
+      (A) “Consumer Price Index for All Urban Consumers, West Region” means the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor.
+
+      (B) “U.S. City Average Consumer Price Index” means the U.S. City Average Consumer Price Index for All Urban Consumers (All Items) as published by the Bureau of Labor Statistics of the United States Department of Labor.
+
+      (c) If any change in the maximum amount of assessed value determined under paragraph (a) of this subsection is not a multiple of $500, the increase shall be rounded to the nearest multiple of $500. [Amended by 1953 c.349 §3; 1959 c.553 §1; 1965 c.429 §3; 1971 c.529 §34; 1971 c.610 §1; 1973 c.62 §1; 1979 c.529 §3; 1979 c.692 §4; 1981 c.804 §41; 1985 c.422 §1; 1985 c.613 §9; 1991 c.459 §101; 1993 c.813 §1; 1995 c.513 §4; 1997 c.541 §163; 1997 c.819 §1; 2001 c.479 §1; 2003 c.63 §1; 2007 c.613 §2; 2010 c.69 §§1,2; 2013 c.205 §1; 2015 c.38 §2; 2015 c.217 §1; 2017 c.420 §1; 2019 c.533 §1]
 
  
 
@@ -1479,7 +1481,7 @@ ASSESSMENT ROLL; METHOD OF ASSESSMENT
 
  
 
-      308.256 Assessment, taxation and exemption of watercraft and materials of shipyards, ship repair facilities and offshore drilling rigs. (1) Watercraft of water transportation companies shall be assessed as provided in ORS 308.505 to 308.681.
+      308.256 Assessment, taxation and exemption of watercraft and materials of shipyards, ship repair facilities and offshore drilling rigs. (1) Watercraft of water transportation companies shall be assessed as provided in ORS 308.505 to 308.674.
 
       (2) Watercraft described in ORS 308.260 shall be assessed as provided in ORS 308.260.
 
@@ -1493,7 +1495,7 @@ ASSESSMENT ROLL; METHOD OF ASSESSMENT
 
       (4)(a) Watercraft over 16 feet in length in the process of original construction, or undergoing major remodeling, renovation, conversion, reconversion or repairs on January 1 are exempt from taxation. For the purposes of this subsection, the term “major” shall include all remodeling, renovation, conversion, reconversion or repairs to a watercraft in which the expenditures for parts, materials, labor and accessorial services exceed 10 percent of the market value of the watercraft immediately prior to the remodeling, renovation, conversion, reconversion or repairs.
 
-      (b) Watercraft subject to assessment by the Department of Revenue under ORS 308.505 to 308.681 are exempt under paragraph (a) of this subsection only if on or before the due date for filing the statement described in ORS 308.520 for the year for which exemption is claimed, the owner or operator files with the department sufficient documentary evidence that the property qualifies for the exemption.
+      (b) Watercraft subject to assessment by the Department of Revenue under ORS 308.505 to 308.674 are exempt under paragraph (a) of this subsection only if on or before the due date for filing the statement described in ORS 308.524 for the year for which exemption is claimed, the owner or operator files with the department sufficient documentary evidence that the property qualifies for the exemption.
 
       (c) The owner or operator of watercraft subject to local assessment shall file the documentary evidence required under paragraph (b) of this subsection with the county assessor on or before April 1 of the year for which exemption is claimed.
 
@@ -1987,7 +1989,7 @@ INDUSTRIAL PLANTS
 
  
 
-      Note: 308.408 to 308.413 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 308 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 308.408, 308.411 and 308.413 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 308 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -2313,11 +2315,11 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.505 Definitions for ORS 308.505 to 308.681. As used in ORS 308.505 to 308.681:
+      308.505 Definitions for ORS 308.505 to 308.674. As used in ORS 308.505 to 308.674:
 
       (1) “Car” or “railcar” means a vehicle adapted to the rails of a railroad.
 
-      (2) “Centrally assessed” means the assessment of property by the Department of Revenue under ORS 308.505 to 308.681.
+      (2) “Centrally assessed” means the assessment of property by the Department of Revenue under ORS 308.505 to 308.674.
 
       (3) “Communication” includes telephone communication and data transmission services by whatever means provided.
 
@@ -2341,7 +2343,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (10) “Large private railcar company” means a private railcar company with personal property with a real market value for the tax year that exceeds $1 million.
 
-      (11) “Locally assessed” means the assessment of property for property tax purposes by the county assessor that is not conducted under ORS 308.505 to 308.681.
+      (11) “Locally assessed” means the assessment of property for property tax purposes by the county assessor that is not conducted under ORS 308.505 to 308.674.
 
       (12) “Online service data center” means real and personal property consisting of buildings or structures specifically designed or modified to house networked computers and data and transaction processing equipment and related infrastructure support equipment, including, without limitation, power and cooling equipment, used primarily to provide, to a single user, including the user’s affiliates, customers, lessees, vendors and other persons authorized by the user, data and transaction processing services. For purposes of this subsection, the primary use of property is based on the relative proportion of the original cost of property used for all purposes.
 
@@ -2369,7 +2371,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.510 Real and personal property classified for ORS 308.505 to 308.681. For purposes of assessing property under ORS 308.505 to 308.681:
+      308.510 Real and personal property classified for ORS 308.505 to 308.674. For purposes of assessing property under ORS 308.505 to 308.674:
 
       (1) All land of any railroad, logging road, electric rail or railroad switching and terminal company, including land used or held and claimed exclusively as right of way, with all the tracks and substructures and superstructures that support the right of way, together with all buildings or other structures or improvements, without separating the land and improvements, is real property. Vehicles and any other property is personal property.
 
@@ -2383,7 +2385,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (4) Property found by the Department of Revenue to have an integrated use for or in more than one business, service or sale, where at least one such business, service or sale is one enumerated in ORS 308.515, shall be classified by the department as being within or without the definition of property under ORS 308.505, according to the primary use of such property, as determined by the department.
 
-      (5) For purposes of determining the maximum assessed value of property under section 11, Article XI of the Oregon Constitution, “property” means all property assessed to each company that is subject to assessment under ORS 308.505 to 308.681. [Amended by 1957 c.711 §2; 1977 c.602 §2; 1997 c.154 §32; 1997 c.541 §203; 2003 c.46 §18; 2009 c.128 §4]
+      (5) For purposes of determining the maximum assessed value of property under section 11, Article XI of the Oregon Constitution, “property” means all property assessed to each company that is subject to assessment under ORS 308.505 to 308.674. [Amended by 1957 c.711 §2; 1977 c.602 §2; 1997 c.154 §32; 1997 c.541 §203; 2003 c.46 §18; 2009 c.128 §4]
 
  
 
@@ -2431,7 +2433,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (e) Any aircraft that is required to be registered under ORS 837.040 for all or any part of the calendar year and that is not used to provide scheduled passenger service.
 
-      (4) Any corporation included within subsection (1) of this section, to the extent that it actively engages in any business or service not described therein or not incidental to any business or service or sale of a commodity described therein, may not to that extent be deemed a corporation whose properties are assessed under ORS 308.505 to 308.681.
+      (4) Any corporation included within subsection (1) of this section, to the extent that it actively engages in any business or service not described therein or not incidental to any business or service or sale of a commodity described therein, may not to that extent be deemed a corporation whose properties are assessed under ORS 308.505 to 308.674.
 
       (5) The department shall assess property owned, leased or occupied by a legal entity not yet engaged in a business, service or sale of a commodity that is described in subsection (1) of this section if the property is intended for operation or use in the business, service or sale of the commodity. [Amended by 1955 c.735 §1; 1957 c.711 §3; 1959 c.109 §1; 1965 c.175 §1; 1973 c.102 §2; 1973 c.402 §8; 1981 c.623 §4; 1983 c.600 §1; 1987 c.601 §1; 1995 c.256 §1; 1997 c.154 §33; 1997 c.656 §2; 1999 c.223 §1; 2005 c.94 §53; 2009 c.128 §5; 2012 c.103 §1]
 
@@ -2471,17 +2473,17 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       308.517 To whom property assessed; certain property not to be assessed. (1) Except as provided in subsections (2) and (3) of this section, the Department of Revenue shall assess to the property user all property owned, leased, rented, chartered or otherwise held for or used by it in performing a business, service or sale of a commodity enumerated in ORS 308.515.
 
-      (2) Where any property owned, leased, rented, chartered or otherwise assigned by an owner, lessor, lessee or user whose property is otherwise subject to ORS 308.505 to 308.681 is leased, rented, chartered or otherwise assigned for the use or benefit of a company which has or thereby has property subject to ORS 308.505 to 308.681, the department may assess the property to either the owner, lessor, lessee or user.
+      (2) Where any property owned, leased, rented, chartered or otherwise assigned by an owner, lessor, lessee or user whose property is otherwise subject to ORS 308.505 to 308.674 is leased, rented, chartered or otherwise assigned for the use or benefit of a company which has or thereby has property subject to ORS 308.505 to 308.674, the department may assess the property to either the owner, lessor, lessee or user.
 
       (3) Land or buildings that meet all of the following conditions shall be assessed in accordance with law by the assessor of the county in which such property is situated:
 
       (a) Situated outside of railroad rights of way or outside of railroad station ground reservations;
 
-      (b) Leased or rented by a lessor whose property is not subject to ORS 308.505 to 308.681, to a company whose property is subject to ORS 308.505 to 308.681; and
+      (b) Leased or rented by a lessor whose property is not subject to ORS 308.505 to 308.674, to a company whose property is subject to ORS 308.505 to 308.674; and
 
       (c) Used as or in connection with airport facilities, general offices, ticket offices, business offices, warehouses, service centers, relay stations, garages, central exchanges, moorage grounds, or well, pump house or substations sites.
 
-      (4) Except as provided in subsection (3) of this section, any property leased or rented by a lessor whose property is not subject to ORS 308.505 to 308.681, to a company whose property is subject to ORS 308.505 to 308.681, shall be assessed, as determined by the department, by the department or the assessor of the county in which such property is situated.
+      (4) Except as provided in subsection (3) of this section, any property leased or rented by a lessor whose property is not subject to ORS 308.505 to 308.674, to a company whose property is subject to ORS 308.505 to 308.674, shall be assessed, as determined by the department, by the department or the assessor of the county in which such property is situated.
 
       (5) All property not assessed by the Department of Revenue shall be assessed in accordance with law by the assessor of the county in which such property is situated. [1957 c.711 §5; 1959 c.109 §2; 1997 c.154 §34]
 
@@ -2503,17 +2505,21 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (a) Not a company described in ORS 308.515 (1); or
 
-      (b) A company described in ORS 308.515 (1) and the historical or original cost of the real and tangible personal property of all data centers owned, leased or used by the company in Oregon and all additions to the data center property, excluding property described in subsection (1)(b) and (c) of this section, is equal to or greater than $200 million.
+      (b) A company described in ORS 308.515 (1) if the historical or original cost of the real and tangible personal property of all data centers owned, leased or used by the company in Oregon and all additions to the data center property, excluding property described in subsection (1)(b) and (c) of this section, is equal to or greater than $200 million.
 
-      (3)(a) For purposes of ORS 308.505 to 308.681, property described in subsection (1) of this section, and intangible personal property that is related to the property, may not be included in any unit subject to central assessment.
-
-      (b) Notwithstanding paragraph (a) of this subsection, property that is used or held for future use by a company whose property is granted an exemption under ORS 308.677 and that would otherwise be assessed under this section shall be assessed under ORS 308.677. [2015 c.23 §8]
+      (3) For purposes of ORS 308.505 to 308.674, property described in subsection (1) of this section, and intangible personal property that is related to the property, may not be included in any unit subject to central assessment. [2015 c.23 §8; 2019 c.164 §2]
 
  
 
-      308.520 Companies to file statements. (1) Each company shall make and file with the Department of Revenue, on or before February 1 of each year, in such form as the department may provide, a statement, under oath, made by the president, secretary, treasurer, superintendent or chief officer of the company, covering a period of at least one year, as may be required by the department; except that Class I railroads, Class A electric companies, communication companies, gas companies, large water transportation companies, pipeline companies, air transportation companies and private railcar companies shall file such statement on or before March 15 of each year.
+      308.520 [Amended by 1957 c.711 §6; 1977 c.884 §8; 1995 c.256 §2; 1999 c.223 §2; renumbered 308.524 in 2019]
 
-      (2) As used in this section, “large water transportation company” means a water transportation company with annual gross revenue exceeding $2 million, of which at least 50 percent of the gross revenue is derived from the transportation of freight. [Amended by 1957 c.711 §6; 1977 c.884 §8; 1995 c.256 §2; 1999 c.223 §2]
+ 
+
+      308.521 Property of cooperative providing steam or hot water heat by combustion of biomass exempt. (1) This section applies to a cooperative corporation organized under ORS chapter 62 that is a company described in ORS 308.515 (1), if more than 50 percent of the interest in the cooperative is owned by entities whose property is exempt from ad valorem property taxation under ORS 307.090.
+
+      (2) Property that is owned or used by a cooperative for the purpose of providing steam or hot water heat by combustion of biomass, as defined in ORS 315.141, is exempt from ad valorem property taxation.
+
+      (3) An exemption granted under this section does not relieve the cooperative of the obligation to file the statement required under ORS 308.524. [2019 c.159 §2]
 
  
 
@@ -2521,7 +2527,13 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.525 Contents of statement. Each statement required by ORS 308.520 shall contain the following facts about the company:
+      308.524 Companies to file statements. (1) Each company shall make and file with the Department of Revenue, on or before February 1 of each year, in such form as the department may provide, a statement, under oath, made by the president, secretary, treasurer, superintendent or chief officer of the company, covering a period of at least one year, as may be required by the department; except that Class I railroads, Class A electric companies, communication companies, gas companies, large water transportation companies, pipeline companies, air transportation companies and private railcar companies shall file such statement on or before March 15 of each year.
+
+      (2) As used in this section, “large water transportation company” means a water transportation company with annual gross revenue exceeding $2 million, of which at least 50 percent of the gross revenue is derived from the transportation of freight. [Formerly 308.520]
+
+ 
+
+      308.525 Contents of statement. Each statement required by ORS 308.524 shall contain the following facts about the company:
 
       (1) The name of the company, the nature of the business conducted by the company and the state or country under whose laws the company is organized.
 
@@ -2557,19 +2569,19 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.530 Company not relieved from making other reports. The statements provided for in ORS 308.505 to 308.681 shall not relieve the company from making any other report or statement required by law to be made to any other commission, board or officer. [Amended by 1997 c.154 §35]
+      308.530 Company not relieved from making other reports. The statements provided for in ORS 308.505 to 308.674 shall not relieve the company from making any other report or statement required by law to be made to any other commission, board or officer. [Amended by 1997 c.154 §35]
 
  
 
-      308.535 Extension of time for making reports or statements; proceeding in case of failure or refusal to furnish statement or information. The Department of Revenue, for good cause, may allow a reasonable extension of time for filing any report or statement required in ORS 308.505 to 308.681. If a company fails to make any statement or furnish any information required by ORS 308.505 to 308.681, the department shall inform itself as best it may as to the matters necessary to be known in order to discharge its duties with respect to the property of the company. [Amended by 1997 c.154 §36]
+      308.535 Extension of time for making reports or statements; proceeding in case of failure or refusal to furnish statement or information. The Department of Revenue, for good cause, may allow a reasonable extension of time for filing any report or statement required in ORS 308.505 to 308.674. If a company fails to make any statement or furnish any information required by ORS 308.505 to 308.674, the department shall inform itself as best it may as to the matters necessary to be known in order to discharge its duties with respect to the property of the company. [Amended by 1997 c.154 §36]
 
  
 
-      308.540 Department to prepare assessment roll; date as of which value assessed; when roll final. For each year, the Department of Revenue shall prepare an assessment roll, in which shall be assessed, as of January 1 at 1:00 a.m. of the year, the assessed value of the property of persons and companies subject to taxation under ORS 308.505 to 308.681. The assessment roll shall not be final until reviewed as provided in ORS 308.590 and certified as provided in ORS 308.621. [Amended by 1991 c.459 §145; 1997 c.154 §37; 1997 c.541 §205; 2007 c.616 §12]
+      308.540 Department to prepare assessment roll; date as of which value assessed; when roll final. For each year, the Department of Revenue shall prepare an assessment roll, in which shall be assessed, as of January 1 at 1:00 a.m. of the year, the assessed value of the property of persons and companies subject to taxation under ORS 308.505 to 308.674. The assessment roll shall not be final until reviewed as provided in ORS 308.590 and certified as provided in ORS 308.621. [Amended by 1991 c.459 §145; 1997 c.154 §37; 1997 c.541 §205; 2007 c.616 §12]
 
  
 
-      308.545 Mode of valuing property. For the purpose of arriving at the amount and character and assessed value of the property belonging to a company, the Department of Revenue personally may inspect the property, and may take into consideration the statements filed under ORS 308.505 to 308.681, the reports, statements or returns of the company filed in the office of any board, office or commission of this state, or any county thereof, the earning power of the company, the franchises and special franchises owned or used by the company, and such other evidence of any kind that is obtainable bearing thereon. However, no report, statement or return shall be conclusive upon the department in arriving at the amount and character and assessed value of the property belonging to the company. [Amended by 1991 c.459 §146; 1997 c.154 §38; 1997 c.541 §206]
+      308.545 Mode of valuing property. For the purpose of arriving at the amount and character and assessed value of the property belonging to a company, the Department of Revenue personally may inspect the property, and may take into consideration the statements filed under ORS 308.505 to 308.674, the reports, statements or returns of the company filed in the office of any board, office or commission of this state, or any county thereof, the earning power of the company, the franchises and special franchises owned or used by the company, and such other evidence of any kind that is obtainable bearing thereon. However, no report, statement or return shall be conclusive upon the department in arriving at the amount and character and assessed value of the property belonging to the company. [Amended by 1991 c.459 §146; 1997 c.154 §38; 1997 c.541 §206]
 
  
 
@@ -2587,15 +2599,15 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       308.558 Taxation of aircraft; criteria; apportionment; exemption of aircraft of foreign-owned carriers. (1) Aircraft shall be subject to assessment, taxation and exemption, as provided in this section.
 
-      (2) Any aircraft used or held for use by an air transportation company that is operating pursuant to a certificate of convenience and necessity issued by an agency of the federal government shall be assessed and taxed under ORS 308.505 to 308.681.
+      (2) Any aircraft used or held for use by an air transportation company that is operating pursuant to a certificate of convenience and necessity issued by an agency of the federal government shall be assessed and taxed under ORS 308.505 to 308.674.
 
-      (3) Any aircraft used or held for use by an air transportation company to provide scheduled passenger service, whether or not the company is operating pursuant to a certificate of convenience and necessity issued by a federal agency, shall be assessed and taxed under ORS 308.505 to 308.681.
+      (3) Any aircraft used or held for use by an air transportation company to provide scheduled passenger service, whether or not the company is operating pursuant to a certificate of convenience and necessity issued by a federal agency, shall be assessed and taxed under ORS 308.505 to 308.674.
 
       (4) Any aircraft that is required to be registered under ORS 837.040 for all or any part of the calendar year is exempt from ad valorem property taxation for the tax year beginning in the calendar year.
 
       (5) Any aircraft that is used or held for use by a foreign-owned carrier is exempt from ad valorem property taxation.
 
-      (6) Subject to allocation or apportionment for out-of-state service, all other aircraft not otherwise specifically exempt from taxation or licensed in lieu thereof, and not subject to assessment by the Department of Revenue under ORS 308.505 to 308.681, shall be assessed in the county from which they are customarily operated when not in service, or if there is no customary place from which operated, then in the county in which their owner or owners reside, or if neither situs applies, then in the county in which any one of the owners maintains a place of business. [1987 c.601 §4; 1993 c.18 §70; 1995 c.79 §131; 2005 c.135 §1]
+      (6) Subject to allocation or apportionment for out-of-state service, all other aircraft not otherwise specifically exempt from taxation or licensed in lieu thereof, and not subject to assessment by the Department of Revenue under ORS 308.505 to 308.674, shall be assessed in the county from which they are customarily operated when not in service, or if there is no customary place from which operated, then in the county in which their owner or owners reside, or if neither situs applies, then in the county in which any one of the owners maintains a place of business. [1987 c.601 §4; 1993 c.18 §70; 1995 c.79 §131; 2005 c.135 §1]
 
  
 
@@ -2603,13 +2615,13 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.560 Assessment roll; description of property; effect of mistake. (1) The assessment roll for the companies assessed under ORS 308.505 to 308.681 shall be prepared in a manner prescribed by the Department of Revenue.
+      308.560 Assessment roll; description of property; effect of mistake. (1) The assessment roll for the companies assessed under ORS 308.505 to 308.674 shall be prepared in a manner prescribed by the Department of Revenue.
 
       (2) The assessment roll prepared by the department under this section must include all of the following:
 
-      (a) The name of each company assessed under ORS 308.505 to 308.681.
+      (a) The name of each company assessed under ORS 308.505 to 308.674.
 
-      (b) Under the name of each company, a general description of the property assessed in the name of the company. A general description under this paragraph is deemed to include all property of the company that is assessable under ORS 308.505 to 308.681. A general description under this paragraph may be in any form prescribed by the department and may refer to or incorporate by reference an order or memorandum made by the department that describes property of the company that is assessable under ORS 308.505 to 308.681.
+      (b) Under the name of each company, a general description of the property assessed in the name of the company. A general description under this paragraph is deemed to include all property of the company that is assessable under ORS 308.505 to 308.674. A general description under this paragraph may be in any form prescribed by the department and may refer to or incorporate by reference an order or memorandum made by the department that describes property of the company that is assessable under ORS 308.505 to 308.674.
 
       (c) Wherever possible, under the name of each company and under an appropriate heading, the aggregate track mileage, miles of wire, pipe or pole line, or the operational routes within the State of Oregon.
 
@@ -2621,15 +2633,15 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (2) The department shall apportion values distributed over wire, pipe or pole lines or operational routes to those counties in which the lines or routes are located by multiplying the rate per mile in each case, determined pursuant to ORS 308.575, by the number of miles of the wire, pipe or pole lines or operational routes in each county.
 
-      (3) If the property of any company assessable under ORS 308.505 to 308.681 is of such a character that its value cannot reasonably be apportioned on the basis of rail, wire, pipe, pole line or operational route mileage, the department may adopt any other method or basis of apportionment to each county in which the property is located that the department determines to be feasible and proper.
+      (3) If the property of any company assessable under ORS 308.505 to 308.674 is of such a character that its value cannot reasonably be apportioned on the basis of rail, wire, pipe, pole line or operational route mileage, the department may adopt any other method or basis of apportionment to each county in which the property is located that the department determines to be feasible and proper.
 
-      (4) As determined by the department, values of electric power plants and water powers, connected with or used in the operation and business of any company, assessable under ORS 308.505 to 308.681, may be apportioned to each county in which power plants and water powers are located in a manner the department deems reasonable and fair.
+      (4) As determined by the department, values of electric power plants and water powers, connected with or used in the operation and business of any company, assessable under ORS 308.505 to 308.674, may be apportioned to each county in which power plants and water powers are located in a manner the department deems reasonable and fair.
 
       (5) Assessments of the mobile property of air transportation companies shall be allocated and apportioned only to those counties in which the air transportation companies make service landings. For aircraft less than 75,000 pounds gross taxi weight, the department shall allocate and apportion to the counties 60 percent of the value which would otherwise be allocated and apportioned.
 
       (6)(a) Assessments of water transportation companies shall be allocated and apportioned to those counties in which such companies use or maintain ports or termini, including off-shore anchorages.
 
-      (b) For purposes of ORS 308.505 to 308.681, the taxing districts to which assessments are apportioned by the county assessor shall be deemed to extend to the center of any river channel or to the ocean bar. [Amended by 1957 c.711 §9; 1987 c.601 §2; 1997 c.154 §40; 2009 c.128 §8]
+      (b) For purposes of ORS 308.505 to 308.674, the taxing districts to which assessments are apportioned by the county assessor shall be deemed to extend to the center of any river channel or to the ocean bar. [Amended by 1957 c.711 §9; 1987 c.601 §2; 1997 c.154 §40; 2009 c.128 §8]
 
  
 
@@ -2651,15 +2663,15 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (a) Publicly examine and review the tentative assessment roll made by the department;
 
-      (b) Correct all errors in valuation, description, quantity and quality of property assessable by the department under ORS 308.505 to 308.681; and
+      (b) Correct all errors in valuation, description, quantity and quality of property assessable by the department under ORS 308.505 to 308.674; and
 
-      (c) Correct all errors in the apportionment to counties of the assessments made by the department under ORS 308.505 to 308.681.
+      (c) Correct all errors in the apportionment to counties of the assessments made by the department under ORS 308.505 to 308.674.
 
       (2) Interested persons and companies may appear at the public examination and review required under subsection (1) of this section. [Amended by 1991 c.459 §152a; 2007 c.616 §1; 2011 c.204 §4]
 
  
 
-      308.582 Notice of tentative assessment. (1) The Department of Revenue shall mail a notice to each person or company assessed under ORS 308.505 to 308.681 that states the amount the department intends to place on the assessment roll as the assessment of the property of the person or company that is assessable under ORS 308.505 to 308.681. The department shall mail the notice of tentative assessment no later than May 25 of the assessment year.
+      308.582 Notice of tentative assessment. (1) The Department of Revenue shall mail a notice to each person or company assessed under ORS 308.505 to 308.674 that states the amount the department intends to place on the assessment roll as the assessment of the property of the person or company that is assessable under ORS 308.505 to 308.674. The department shall mail the notice of tentative assessment no later than May 25 of the assessment year.
 
       (2) The notice shall be mailed to the last-known address of the person or company.
 
@@ -2675,15 +2687,15 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (3) The director shall hold a conference under this section as soon as is practicable following the date a request is made and shall issue an order modifying the valuation or apportionment of an assessment or affirming the tentative assessment on or before August 1 of the tax year.
 
-      (4) A conference with the director is an administrative remedy that must be exhausted before an appeal of the valuation or apportionment of an assessment may be made to the Oregon Tax Court. The valuation or apportionment of an assessment under ORS 308.505 to 308.681 may not be appealed to the tax court if the person or company does not file a timely request for a conference under this section prior to seeking an appeal before the tax court.
+      (4) A conference with the director is an administrative remedy that must be exhausted before an appeal of the valuation or apportionment of an assessment may be made to the Oregon Tax Court. The valuation or apportionment of an assessment under ORS 308.505 to 308.674 may not be appealed to the tax court if the person or company does not file a timely request for a conference under this section prior to seeking an appeal before the tax court.
 
       (5) Subject to subsection (4) of this section, an appeal to the tax court may be made under ORS 305.280.
 
-      (6) A petition may not be filed with a county board of property tax appeals for a reduction in value of property assessed under ORS 308.505 to 308.681 or with respect to any other matter arising under ORS 308.505 to 308.681. [2007 c.616 §3]
+      (6) A petition may not be filed with a county board of property tax appeals for a reduction in value of property assessed under ORS 308.505 to 308.674 or with respect to any other matter arising under ORS 308.505 to 308.674. [2007 c.616 §3]
 
  
 
-      308.585 Delivery of tentative assessment roll to director. The Department of Revenue shall prepare the tentative assessment roll of property subject to assessment under ORS 308.505 to 308.681 on or before June 15 of the assessment year. [Amended by 1969 c.520 §30; 1973 c.402 §9; 1991 c.459 §152b; 2007 c.616 §4]
+      308.585 Delivery of tentative assessment roll to director. The Department of Revenue shall prepare the tentative assessment roll of property subject to assessment under ORS 308.505 to 308.674 on or before June 15 of the assessment year. [Amended by 1969 c.520 §30; 1973 c.402 §9; 1991 c.459 §152b; 2007 c.616 §4]
 
  
 
@@ -2715,7 +2727,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.605 Entry of corrections and changes; record of meetings. (1) Corrections, additions to or changes in the assessment roll prepared under ORS 308.505 to 308.681 shall be entered in a separate part of the roll headed substantially, “as reviewed,” and the entries in the separate part shall be the record of the action of the Department of Revenue. The department may prescribe some other method to record the corrections, additions to or changes in the roll.
+      308.605 Entry of corrections and changes; record of meetings. (1) Corrections, additions to or changes in the assessment roll prepared under ORS 308.505 to 308.674 shall be entered in a separate part of the roll headed substantially, “as reviewed,” and the entries in the separate part shall be the record of the action of the Department of Revenue. The department may prescribe some other method to record the corrections, additions to or changes in the roll.
 
       (2) The meetings, sittings and adjournment of the department, sitting for the purpose of review, shall be recorded in the department’s journal or may be recorded as otherwise prescribed by the department. [Amended by 1957 c.69 §2; 2007 c.616 §14]
 
@@ -2743,7 +2755,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.624 Correction of certified roll. (1) Following the date that an assessment roll prepared under ORS 308.505 to 308.681 is certified under ORS 308.621, the Director of the Department of Revenue may correct a clerical error, or an error or omission in the certified roll, as prescribed in this section.
+      308.624 Correction of certified roll. (1) Following the date that an assessment roll prepared under ORS 308.505 to 308.674 is certified under ORS 308.621, the Director of the Department of Revenue may correct a clerical error, or an error or omission in the certified roll, as prescribed in this section.
 
       (2) For purposes of this section, a clerical error is an error on the roll that arises from an error in the records of the Department of Revenue and that, had it been discovered by the department prior to certification of the roll, would have been corrected as a matter of course, and for which the information necessary to correct the error is contained in the records of the department. Clerical errors include, but are not limited to, arithmetic or copying errors or the omission or misstatement of a property value on the roll.
 
@@ -2771,15 +2783,15 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.628 Omitted property subject to assessment. (1) If the Director of the Department of Revenue determines that any real or personal property that is assessable by the Department of Revenue under ORS 308.505 to 308.681 has not been assessed on the assessment roll for the year in which the roll was last certified or on the roll for any prior year that does not exceed five years prior to the year for which the last roll was certified under ORS 308.621, the department shall give the notice prescribed in ORS 308.632 to the person or company in whose name the omitted property is to be assessed.
+      308.628 Omitted property subject to assessment. (1) If the Director of the Department of Revenue determines that any real or personal property that is assessable by the Department of Revenue under ORS 308.505 to 308.674 has not been assessed on the assessment roll for the year in which the roll was last certified or on the roll for any prior year that does not exceed five years prior to the year for which the last roll was certified under ORS 308.621, the department shall give the notice prescribed in ORS 308.632 to the person or company in whose name the omitted property is to be assessed.
 
-      (2) Property shall be presumed to be omitted property subject to assessment under ORS 308.505 to 308.681 whenever the department discovers or receives credible information that:
+      (2) Property shall be presumed to be omitted property subject to assessment under ORS 308.505 to 308.674 whenever the department discovers or receives credible information that:
 
-      (a) The addition of any building, structure, improvement, machinery, equipment or other asset was not reported in a statement filed under ORS 308.520;
+      (a) The addition of any building, structure, improvement, machinery, equipment or other asset was not reported in a statement filed under ORS 308.524;
 
-      (b) The cost, as of the assessment date, of any building, structure, improvement, machinery, equipment or other asset reported in a return required by the department exceeds the cost stated in the statement filed under ORS 308.520; or
+      (b) The cost, as of the assessment date, of any building, structure, improvement, machinery, equipment or other asset reported in a return required by the department exceeds the cost stated in the statement filed under ORS 308.524; or
 
-      (c) Any item listed in ORS 308.525 or under rules adopted to implement ORS 308.525 was underreported in the statement filed under ORS 308.520.
+      (c) Any item listed in ORS 308.525 or under rules adopted to implement ORS 308.525 was underreported in the statement filed under ORS 308.524.
 
       (3) ORS 308.624 (4) does not apply to the addition of omitted property under subsection (1) of this section. [2007 c.616 §8]
 
@@ -2833,7 +2845,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.645 Reports by companies of mileage to county assessors. Upon request by the county assessor, a company assessed by the Department of Revenue under ORS 308.505 to 308.681 shall furnish a report to the county assessor, under oath, showing the length, as of January 1 at 1:00 a.m. of the assessment year, in each city, town, school district, road district, port or other municipal taxing agency or district, or in lieu thereof the length in each tax code area in the county, of main and branch railroad lines, and of main tracks, spurs, yard tracks and sidetracks and also of wire, pipe or pole lines and operational routes. [Amended by 1973 c.402 §12; 1997 c.154 §42; 2009 c.128 §14]
+      308.645 Reports by companies of mileage to county assessors. Upon request by the county assessor, a company assessed by the Department of Revenue under ORS 308.505 to 308.674 shall furnish a report to the county assessor, under oath, showing the length, as of January 1 at 1:00 a.m. of the assessment year, in each city, town, school district, road district, port or other municipal taxing agency or district, or in lieu thereof the length in each tax code area in the county, of main and branch railroad lines, and of main tracks, spurs, yard tracks and sidetracks and also of wire, pipe or pole lines and operational routes. [Amended by 1973 c.402 §12; 1997 c.154 §42; 2009 c.128 §14]
 
  
 
@@ -2841,7 +2853,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.655 Rules and regulations. The Department of Revenue may prescribe directions, rules and regulations to be followed in answering any requirement of ORS 308.505 to 308.681. [Amended by 1997 c.154 §43]
+      308.655 Rules and regulations. The Department of Revenue may prescribe directions, rules and regulations to be followed in answering any requirement of ORS 308.505 to 308.674. [Amended by 1997 c.154 §43]
 
  
 
@@ -2877,15 +2889,13 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.673 Exemption grantable under ORS 308.674 or 308.677 but not both. (1) The property of a company described in ORS 308.515 (1) may be granted an exemption under ORS 308.674 or 308.677, but not under both ORS 308.674 and 308.677.
-
-      (2) For any company whose property is eligible for an exemption under both ORS 308.674 and 308.677, the Department of Revenue shall appraise the value of the property under ORS 308.674 and 308.677 for each property tax year and use the provisions of the section that result in the lowest amount of taxable value. [2015 c.23 §2]
+      308.673 [2015 c.23 §2; repealed by 2019 c.164 §1]
 
  
 
-      308.674 Exemption equal to difference between real market value of company’s centrally assessable property and 130 percent of cost of company’s centrally assessable real and tangible personal property; limitations; exclusivity. (1) Subject to ORS 308.673, the property of a company described in ORS 308.515 (1) shall be granted an exemption in the amount of the positive value, if any, obtained by subtracting from the real market value of the company’s real property and tangible and intangible personal property included in the unit subject to central assessment, reduced by the amount of any exemption elected under ORS 308.671, an amount equal to the historical or original cost of the company’s real property and tangible personal property included in the unit subject to central assessment, without reduction for any exemption elected under ORS 308.671, multiplied by 130 percent.
+      308.674 Exemption equal to difference between real market value of company’s centrally assessable property and 130 percent of cost of company’s centrally assessable real and tangible personal property; limitations; exclusivity. (1) The property of a company described in ORS 308.515 (1) shall be granted an exemption in the amount of the positive value, if any, obtained by subtracting from the real market value of the company’s real property and tangible and intangible personal property included in the unit subject to central assessment, reduced by the amount of any exemption elected under ORS 308.671, an amount equal to the historical or original cost of the company’s real property and tangible personal property included in the unit subject to central assessment, without reduction for any exemption elected under ORS 308.671, multiplied by 130 percent.
 
-      (2) If the amount determined under subsection (1) of this section is not positive, subject to ORS 308.673, the real market value of the company’s real property and tangible and intangible personal property included in the unit subject to central assessment, reduced by the amount of any exemption elected under ORS 308.671, shall be the real market value of the company’s property for the property tax year.
+      (2) If the amount determined under subsection (1) of this section is not positive, the real market value of the company’s real property and tangible and intangible personal property included in the unit subject to central assessment, reduced by the amount of any exemption elected under ORS 308.671, shall be the real market value of the company’s property for the property tax year.
 
       (3) Notwithstanding subsection (1) of this section, an exemption granted under this section may not exceed an amount equal to 95 percent of the real market value of the company’s real property and tangible and intangible personal property included in the unit subject to central assessment.
 
@@ -2895,7 +2905,17 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
       (A) An exemption granted under ORS 308.671 to property that is granted an exemption under this section shall be allowed in the manner provided under this section and ORS 308.671.
 
-      (B) An exemption granted under this section for a property tax year has no effect on the benefits that the property of the company or the company may be granted under ORS chapter 285C or ORS 307.123 for the property tax year. [2015 c.23 §3]
+      (B) An exemption granted under this section for a property tax year has no effect on the benefits that the property of the company or the company may be granted under ORS chapter 285C or ORS 307.123 for the property tax year. [2015 c.23 §3; 2019 c.164 §3]
+
+ 
+
+      Note: Section 11, chapter 23, Oregon Laws 2015, provides:
+
+      Sec. 11. (1) ORS 308.518 and 308.519 and the amendments to ORS 308.505 and 308.516 by sections 7 and 9, chapter 23, Oregon Laws 2015, apply to property tax years beginning on or after July 1, 2015.
+
+      (2) The amendments to ORS 308.671 by section 4, chapter 23, Oregon Laws 2015, apply to property tax years beginning on or after July 1, 2016.
+
+      (3) ORS 308.674 applies to property tax years beginning on or after July 1, 2016, and before July 1, 2025. [2015 c.23 §11; 2019 c.164 §4; 2019 c.578 §5]
 
  
 
@@ -2903,59 +2923,31 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.677 Exemption for property of company that builds and operates qualified communication services project; application to Public Utility Commission; computation of exemption; exclusivity. (1) Subject to ORS 308.673, the property of a company described in ORS 308.515 (1) shall be granted an exemption under subsection (5) of this section if the company builds, maintains and operates a qualified project in Oregon.
+      308.677 [2015 c.23 §5; 2015 c.31 §7; repealed by 2019 c.164 §1]
 
-      (2) A project is qualified under this section if:
+ 
 
-      (a) The project requires capital investment in newly constructed or installed real or tangible personal property constituting infrastructure that enables the company to offer communication services, including the capacity to provide, at least, approximately one gigabit per second symmetrical service, to a majority of the residential customers of the company’s broadband services; and
+      Note: Sections 6 and 7, chapter 164, Oregon Laws 2019, provide:
 
-      (b) With respect to communication services offered by the company using the infrastructure, the company does not deny access to the communication services to any group of residential customers because of the income level of the residential customers in the local service area in which the residential customers reside.
+      Sec. 6. (1) Notwithstanding the repeal of ORS 308.677 by section 1 of this 2019 Act, and any decision of the Department of Revenue made under ORS 308.677 (2015 Edition) before the effective date of this 2019 Act [September 29, 2019], the intangible property of a company described in ORS 308.515 (1) shall be specially assessed as provided in subsection (2) of this section if:
 
-      (3)(a) A company seeking the exemption granted under this section must submit an application to the Public Utility Commission, with a copy to the Department of Revenue, on or before January 15 preceding the first property tax year for which the exemption is sought.
+      (a) The company’s application for a qualified project determination was approved by the Public Utility Commission pursuant to ORS 308.677 (4) (2015 Edition) on or before March 1, 2016;
 
-      (b) The application must include:
+      (b) The company began operating a qualified project on or before January 1, 2018; and
 
-      (A) A certification that the project meets the requirements of subsection (2) of this section; and
+      (c) The company has not settled any tax controversy with the department by entering into a settlement agreement pursuant to which the company has withdrawn any claims, and relinquished any entitlement, to the exemption granted under any version of ORS 308.677.
 
-      (B) An application fee of $50,000.
+      (2) Upon approval of a claim submitted under subsection (3) of this section by a company meeting the requirements of subsection (1) of this section, the department, for purposes of ORS 308.505 to 308.681 [series became 308.505 to 308.674], shall specially assess the company’s intangible property at 75 percent of the real market value of the intangible property.
 
-      (c) The application fee shall be distributed evenly to the commission and the department to reimburse the commission for the costs of reviewing the application and the department for the costs of appraising the property of the company submitting the application.
+      (3)(a) A company seeking special assessment under this section must submit a claim to the department within 30 days following the effective date of this 2019 Act.
 
-      (4)(a) On or before March 1 of the year in which the application is submitted under subsection (3) of this section, the commission shall determine whether the project is a qualified project.
+      (b) The department shall approve a claim that demonstrates that the company meets the requirements of subsection (1) of this section. To demonstrate that the company is operating a qualified project, it is sufficient for the claim to show that the company is providing residential communication services of, at least, approximately one gigabit per second symmetrical service.
 
-      (b) During the period in which the commission is making a determination under this subsection:
+      (c) If the department approves a company’s claim, the company’s intangible property shall be specially assessed as provided in subsection (2) of this section for the property tax year beginning on July 1, 2019. The company’s intangible property may not be specially assessed under this section for any other property tax year.
 
-      (A) The commission may discuss the information included in the application with the company and the department;
+      (d) If the department rejects a company’s claim, the department shall notify the company of the decision. [2019 c.164 §6]
 
-      (B) The commission shall consult with any city with which the company has entered into a franchise fee agreement to provide services to which the application relates;
-
-      (C) The company may amend the application; and
-
-      (D) Upon request of the company, the commission may grant an extension of not more than two weeks for a determination under this subsection.
-
-      (c) If the commission determines that the project is not a qualified project, the application may not be approved. The commission shall notify the company of the negative determination and state the reasons.
-
-      (d) If the commission determines that the project is a qualified project:
-
-      (A) The application shall be approved.
-
-      (B) The commission shall notify the company, the department and the assessor of each county in which the project is located of the approval.
-
-      (C) Subject to ORS 308.673, the property of the company shall be granted the exemption under subsection (5) of this section beginning with the first property tax year that begins after the date of the determination.
-
-      (5)(a) The property of a company described in subsection (1) of this section shall be granted an exemption for a property tax year in an amount equal to the positive value, if any, obtained by subtracting from the real market value of the company’s real property and tangible and intangible personal property, including property that would otherwise be assessed under ORS 308.519, that is allocated to Oregon and included in the unit subject to central assessment, reduced by the portion of the value of any exemption elected under ORS 308.671 that is allocated to Oregon, an amount equal to the greater of $250 million or the real market value of the company’s real and tangible personal property located in Oregon as of the assessment date, without reduction for any exemption elected under ORS 308.671.
-
-      (b) The exemption shall be granted for the period during which an owner maintains and operates the qualified project.
-
-      (6) If the amount determined under subsection (5)(a) of this section is not positive, subject to ORS 308.673, the real market value of the company’s real property and tangible and intangible personal property, excluding property that is assessed under ORS 308.519, allocated to Oregon and included in the unit subject to central assessment, reduced by the portion of the value of any exemption elected under ORS 308.671 that is allocated to Oregon, shall be the real market value of the company’s property allocated to Oregon for the property tax year.
-
-      (7)(a) If the property of a company is granted an exemption under this section for a property tax year, the property is not eligible for any other exemption from ad valorem property taxation for the property tax year.
-
-      (b) Notwithstanding paragraph (a) of this subsection:
-
-      (A) An exemption granted under ORS 308.671 to property that is granted an exemption under this section shall be allowed in the manner provided under this section and ORS 308.671.
-
-      (B) An exemption granted under this section for a property tax year has no effect on the benefits that the property of the company or the company may be granted under ORS chapter 285C or ORS 307.123 for the property tax year. [2015 c.23 §5; 2015 c.31 §7]
+      Sec. 7. Section 6 of this 2019 Act is repealed on January 2, 2022. [2019 c.164 §7]
 
  
 
@@ -2963,25 +2955,7 @@ ASSESSMENT OF DESIGNATED UTILITIES AND COMPANIES BY DEPARTMENT OF REVENUE
 
  
 
-      308.681 Annual report to legislature on ORS 308.677. (1)(a) Notwithstanding any other provision of law relating to the confidentiality of public records, on or before December 15 of each year, each assessor of a county in which property granted an exemption under ORS 308.677, in accordance with ORS 308.673, is located shall submit to the Department of Revenue a report stating the amount of the exemption granted to the property of each company, the amount of property taxes imposed on the property and the amount of property taxes that were not imposed on the property because of the exemption for the current property tax year and estimates of these amounts for the following property tax year.
-
-      (b) No later than January 1 of each year, the department shall submit a report compiling the information received from counties under paragraph (a) of this subsection to the Public Utility Commission.
-
-      (2) No later than February 1 of each year, the commission shall submit a report in the manner provided by ORS 192.245 to the interim committees of the Legislative Assembly related to revenue that states or describes:
-
-      (a) The name and business of each company whose property is granted an exemption under ORS 308.677.
-
-      (b) For each company described in paragraph (a) of this subsection:
-
-      (A) The capital investment made by the company in Oregon in newly constructed or installed real or tangible personal property constituting communication infrastructure.
-
-      (B) Whether the company has met the requirements for service capacity and offering service to residential customers.
-
-      (C) Who is served by the communication infrastructure and how they are served.
-
-      (D) The compiled information received from the department pursuant to subsection (1) of this section.
-
-      (c) Any other information the commission considers necessary for a thorough analysis of the exemption granted under ORS 308.677. [2015 c.23 §6]
+      308.681 [2015 c.23 §6; repealed by 2019 c.164 §1]
 
  
 
@@ -3261,7 +3235,7 @@ GROSS EARNINGS TAX ON MUTUAL OR COOPERATIVE DISTRIBUTION SYSTEMS
 
       308.805 Mutual and cooperative electric distribution systems subject to tax on gross earnings. (1) Every association of persons, wholly mutual or cooperative in character, whether incorporated or unincorporated, the principal business of which is the construction, maintenance and operation of an electric transmission and distribution system for the benefit of the members of such association without intent to produce profit in money and which has no other principal business or purpose shall, in lieu of all other taxes on the transmission and distribution lines, pay a tax on all gross revenue derived from the use or operation of transmission and distribution lines (exclusive of revenues from the leasing of lines to governmental agencies) at the rates prescribed by ORS 308.807. The tax shall not apply to or be in lieu of ad valorem taxation on any property, real or personal, which is not part of the transmission and distribution lines of such association.
 
-      (2) The Department of Revenue, pursuant to ORS 308.505 to 308.681, shall assess for ad valorem taxation all the real and personal property of such associations which is not a part of “transmission and distribution lines,” as defined in subsection (3) of this section. All other property subject to ad valorem taxation shall be assessed in the manner otherwise provided by law, by the assessor of the county in which such property has a tax situs.
+      (2) The Department of Revenue, pursuant to ORS 308.505 to 308.674, shall assess for ad valorem taxation all the real and personal property of such associations which is not a part of “transmission and distribution lines,” as defined in subsection (3) of this section. All other property subject to ad valorem taxation shall be assessed in the manner otherwise provided by law, by the assessor of the county in which such property has a tax situs.
 
       (3) As used in ORS 308.805 to 308.820:
 
@@ -3285,7 +3259,7 @@ GROSS EARNINGS TAX ON MUTUAL OR COOPERATIVE DISTRIBUTION SYSTEMS
 
  
 
-      308.810 Association to file statement; payment of tax. (1) Every association referred to in ORS 308.805 shall make and file with the Department of Revenue, on or before March 1 of each year, in such form and on such blanks as the department may prescribe and provide, the statement required under ORS 308.520 and 308.525, and shall include therein the amount of all its gross revenue subject to the tax levied by ORS 308.805 for the calendar year preceding the making of such statement. The association shall compute and forward on or before July 1 of each year the lesser of the tax calculated under ORS 308.807 (1) on such gross revenue or the tax calculated under ORS 308.807 (2) on the real market value of the transmission and distribution lines used or operated by the association.
+      308.810 Association to file statement; payment of tax. (1) Every association referred to in ORS 308.805 shall make and file with the Department of Revenue, on or before March 1 of each year, in such form and on such blanks as the department may prescribe and provide, the statement required under ORS 308.524 and 308.525, and shall include therein the amount of all its gross revenue subject to the tax levied by ORS 308.805 for the calendar year preceding the making of such statement. The association shall compute and forward on or before July 1 of each year the lesser of the tax calculated under ORS 308.807 (1) on such gross revenue or the tax calculated under ORS 308.807 (2) on the real market value of the transmission and distribution lines used or operated by the association.
 
       (2) The department shall notify the association of the real market value of the transmission and distribution lines used or operated by the association on or before the date fixed for notices of assessment to be issued under ORS 308.582 or 308.595. [Amended by 1957 c.637 §2; 1969 c.492 §4; 1983 c.782 §1; 1991 c.459 §170; 2007 c.227 §2; 2007 c.616 §16]
 
@@ -3375,7 +3349,7 @@ MANUFACTURED STRUCTURES; MOBILE MODULAR UNITS
 
  
 
-      308.866 Definition of mobile modular unit; statement of value; receipt. (1) As used in ORS 308.865 and this section, “mobile modular unit” means a prefabricated structure that is more than eight and one-half feet wide, is used for commercial or business purposes and is capable of being moved on the highway.
+      308.866 Definition of “mobile modular unit”; statement of value; receipt. (1) As used in ORS 308.865 and this section, “mobile modular unit” means a prefabricated structure that is more than eight and one-half feet wide, is used for commercial or business purposes and is capable of being moved on the highway.
 
       (2) The owner as of January 1 of each year of a mobile modular unit that is taxed as personal property shall submit no later than the following March 1 a statement of the value of the unit and of its location. The owner shall submit the statement to the county assessor of the county in which the unit is located on January 1 of the year for which the statement is submitted. An owner who fails to provide the statement is subject to the late filing penalty as provided in ORS 308.295. The Department of Revenue shall prescribe the form of statement.
 
@@ -3433,7 +3407,7 @@ PENALTIES
 
       (3) Any person, firm, association or corporation, or agent or managing officer thereof, who presents or furnishes to the Director of the Department of Revenue any statement, required by ORS 308.335 or required by the director under the authority of ORS 308.335, that is willfully false or fraudulent, commits a Class A violation.
 
-      (4) Any person who willfully presents or furnishes to the director any statement required by ORS 308.505 to 308.681 that is false or fraudulent commits perjury and, upon conviction, shall be punished as otherwise provided by law for such crime.
+      (4) Any person who willfully presents or furnishes to the director any statement required by ORS 308.505 to 308.674 that is false or fraudulent commits perjury and, upon conviction, shall be punished as otherwise provided by law for such crime.
 
       (5) Subject to ORS 153.022, any willful violation of ORS 308.413 or of any rules adopted under ORS 308.413 is a Class A misdemeanor. [Subsections (3) and (4) of 1959 Replacement Part enacted as 1955 c.488 §2; subsections (3) and (4) of 1959 Replacement Part renumbered as part of 321.991; subsection (7) enacted as 1969 c.605 §58; 1971 c.529 §33; 1977 c.884 §11; subsection (5) enacted as 1981 c.139 §4; 1997 c.154 §44; 1997 c.541 §88; 1999 c.21 §22; 1999 c.1051 §174; 2011 c.597 §83]
 

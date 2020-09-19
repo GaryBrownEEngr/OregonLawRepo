@@ -31,8 +31,6 @@ GENERAL PROVISIONS
 
 679.022     Exemption from naming licensed dentist as director for accredited institutions and programs
 
- 
-
 679.025     License required to practice dentistry; exemptions
 
  
@@ -57,7 +55,7 @@ LICENSING
 
  
 
-679.070     Examination; certain other examination results in lieu of examination
+679.070     Examination; acceptable results
 
  
 
@@ -73,7 +71,7 @@ LICENSING
 
  
 
-679.120     License fees; waiver of fee; rules; renewal of license
+679.120     Fees; waiver of fee; rules; renewal of license; notice of change of address
 
  
 
@@ -185,6 +183,18 @@ MISCELLANEOUS
 
  
 
+679.546     Advertising as specialist; requirements; rules
+
+ 
+
+679.549     Expression of regret or apology
+
+ 
+
+679.552     Prescription and administration of vaccines; approved training course; rules
+
+ 
+
 PENALTIES
 
  
@@ -223,13 +233,17 @@ GENERAL PROVISIONS
 
       (B) The prescribing, dispensing and administering of prescription drugs for purposes related to the activities described in subparagraph (A) of this paragraph.
 
-      (b) “Dentistry” includes, but is not limited to, the cutting, altering, repairing, removing, replacing or repositioning of hard or soft tissues and other acts or procedures as determined by the Oregon Board of Dentistry and included in the curricula of:
+      (b) “Dentistry” includes, but is not limited to:
 
-      (A) Dental schools accredited by the Commission on Dental Accreditation of the American Dental Association;
+      (A) The cutting, altering, repairing, removing, replacing or repositioning of hard or soft tissues and other acts or procedures as determined by the Oregon Board of Dentistry and included in the curricula of:
 
-      (B) Post-graduate training programs; or
+      (i) Dental schools accredited by the Commission on Dental Accreditation of the American Dental Association;
 
-      (C) Continuing education courses.
+      (ii) Post-graduate training programs; or
+
+      (iii) Continuing education courses.
+
+      (B) The prescription and administration of vaccines.
 
       (8) “Direct supervision” means supervision requiring that a dentist diagnose the condition to be treated, that a dentist authorize the procedure to be performed, and that a dentist remain in the dental treatment room while the procedures are performed.
 
@@ -237,7 +251,7 @@ GENERAL PROVISIONS
 
       (10) “General supervision” means supervision requiring that a dentist authorize the procedures by standing orders, practice agreements or collaboration agreements, but not requiring that a dentist be present when the authorized procedures are performed. The authorized procedures may also be performed at a place other than the usual place of practice of the dentist.
 
-      (11) “Indirect supervision” means supervision requiring that a dentist authorize the procedures and that a dentist be on the premises while the procedures are performed. [Amended by 1983 c.169 §1; 1997 c.251 §4; 1999 c.188 §1; 2003 c.83 §1; 2005 c.52 §2; 2007 c.379 §1; 2011 c.716 §3; 2013 c.310 §1; 2015 c.15 §1; 2015 c.349 §1]
+      (11) “Indirect supervision” means supervision requiring that a dentist authorize the procedures and that a dentist be on the premises while the procedures are performed. [Amended by 1983 c.169 §1; 1997 c.251 §4; 1999 c.188 §1; 2003 c.83 §1; 2005 c.52 §2; 2007 c.379 §1; 2011 c.716 §3; 2013 c.310 §1; 2015 c.15 §1; 2015 c.349 §1; 2019 c.58 §4]
 
  
 
@@ -283,6 +297,8 @@ GENERAL PROVISIONS
 
       (H) Ensuring that each patient receiving services from the dental office or clinic has a dentist of record.
 
+      (I) The prescription and administration of vaccines.
+
       (b) Maintain current records of the names of licensed dentists who supervise the clinical activities of dental hygienists, dental assistants or other personnel involved in direct patient care utilized by the entity. The records must be available to the board upon written request.
 
       (5) Subsections (1) and (2) of this section do not apply to an expanded practice dental hygienist who renders services authorized by a permit issued by the board pursuant to ORS 680.200.
@@ -295,7 +311,7 @@ GENERAL PROVISIONS
 
       (c) Management of the business aspects of a dental office or clinic that do not include the clinical practice of dentistry.
 
-      (7) If all of the ownership interests of a dentist or dentists in a dental office or clinic are held by an administrator, executor, personal representative, guardian, conservator or receiver of the estate of a former shareholder, member or partner, the administrator, executor, personal representative, guardian, conservator or receiver may retain the ownership interest for a period of 12 months following the creation of the ownership interest. The board shall extend the ownership period for an additional 12 months upon 30 days’ notice and may grant additional extensions upon reasonable request. [Amended by 1977 c.192 §1; 1985 c.323 §3; 1995 c.286 §29; 1997 c.251 §6; 2003 c.322 §1; 2009 c.223 §1; 2011 c.637 §284; 2011 c.716 §4; 2013 c.310 §2; 2015 c.391 §1]
+      (7) If all of the ownership interests of a dentist or dentists in a dental office or clinic are held by an administrator, executor, personal representative, guardian, conservator or receiver of the estate of a former shareholder, member or partner, the administrator, executor, personal representative, guardian, conservator or receiver may retain the ownership interest for a period of 12 months following the creation of the ownership interest. The board shall extend the ownership period for an additional 12 months upon 30 days’ notice and may grant additional extensions upon reasonable request. [Amended by 1977 c.192 §1; 1985 c.323 §3; 1995 c.286 §29; 1997 c.251 §6; 2003 c.322 §1; 2009 c.223 §1; 2011 c.637 §284; 2011 c.716 §4; 2013 c.310 §2; 2015 c.391 §1; 2019 c.58 §5]
 
  
 
@@ -401,17 +417,21 @@ LICENSING
 
  
 
-      679.070 Examination; certain other examination results in lieu of examination. (1) The Oregon Board of Dentistry may administer written, laboratory or clinical examinations to test professional knowledge and skills.
+      679.070 Examination; acceptable results. (1) The Oregon Board of Dentistry may administer written, laboratory or clinical examinations to test professional knowledge and skills.
 
-      (2) The examination shall be elementary and practical in character but sufficiently thorough to test the fitness of the applicant to practice dentistry. It shall include, written in the English language, questions on any subjects pertaining to dental science. The written examination may be supplemented by oral examination. Demonstrations of the applicant’s skill in operative and prosthetic dentistry also may be required.
+      (2) The examination must be elementary and practical in character but sufficiently thorough to test the fitness of the applicant to practice dentistry. It must include, written in the English language, questions on any subjects pertaining to dental science.
 
-      (3) The board may accept the results of national standardized examinations in satisfaction of the written examination as authorized by this section, and shall accept the results of regional testing agencies or of clinical board examinations administered by other states in satisfaction of the laboratory or clinical examination authorized under this section, provided:
+      (3) If a test or examination was taken within five years of the date of application and the applicant received a passing score on the test or examination, as established by the board by rule, the board:
 
-      (a) The test or examination was taken within five years of the date of application; and
+      (a) To satisfy the written examination authorized under this section, may accept the results of national standardized examinations.
 
-      (b) The applicant received a passing score on the test or examination as established by the board by rule.
+      (b) To satisfy the laboratory or clinical examination authorized under this section:
 
-      (4) The board shall accept the results of regional testing agencies or of clinical board examinations administered by other states in satisfaction of the examinations authorized under this section for applicants who have engaged in the active practice of dentistry in other states, in Oregon or in the Armed Forces of the United States, the United States Public Health Service or the United States Department of Veterans Affairs for at least 3,500 hours in the five years immediately preceding application and who meet all other requirements for licensure. [Amended by 1965 c.122 §4; 1983 c.169 §7; 1999 c.489 §1; 2001 c.193 §1; 2003 c.83 §3; 2005 c.229 §1]
+      (A) Shall accept the results of regional and national testing agencies or clinical board examinations administered by other states; and
+
+      (B) May accept the results of board-recognized testing agencies.
+
+      (4) The board shall accept the results of regional and national testing agencies or of clinical board examinations administered by other states, and may accept results of board-recognized testing agencies, in satisfaction of the examinations authorized under this section for applicants who have engaged in the active practice of dentistry in other states, in Oregon or in the Armed Forces of the United States, the United States Public Health Service or the United States Department of Veterans Affairs for at least 3,500 hours in the five years immediately preceding application and who meet all other requirements for licensure. [Amended by 1965 c.122 §4; 1983 c.169 §7; 1999 c.489 §1; 2001 c.193 §1; 2003 c.83 §3; 2005 c.229 §1; 2019 c.467 §1]
 
  
 
@@ -467,7 +487,7 @@ LICENSING
 
  
 
-      679.120 License fees; waiver of fee; rules; renewal of license. (1) The Oregon Board of Dentistry may impose application fees for the following:
+      679.120 Fees; waiver of fee; rules; renewal of license; notice of change of address. (1) The Oregon Board of Dentistry may impose application fees for the following:
 
       (a) Examinations, which may differ for general dentistry, foreign school graduate and specialty examinations.
 
@@ -623,7 +643,9 @@ LICENSING
 
 ______________________________________________________________________________
 
-                                                                                                                  (Date)______, 2___
+ 
+
+(Date) ______, 2___
 
  
 
@@ -631,17 +653,21 @@ TO: (Name of dental technician or laboratory with address)
 
  
 
-                        RE: (Name or number of patient)
+RE: (Name or number of patient)
 
-      (Description of the work to be done, including diagrams if necessary, together with
+      (Description of the work to be done, including diagrams if necessary, together with specifications of the type of materials to be used.)
 
-specifications of the type of materials to be used.)
+ 
 
-                                                                                                           (Name of ordering dentist)
+(Name of ordering dentist)
 
-                                                                                                           (Address) ______
+ 
 
-                                                                                                           (Current license number) ___
+(Address) ______
+
+ 
+
+(Current license number) ___
 
 ______________________________________________________________________________
 
@@ -837,16 +863,6 @@ OREGON BOARD OF DENTISTRY
 
  
 
-      Note: Section 3, chapter 41, Oregon Laws 2016, provides:
-
-      Sec. 3. As soon as practicable after the effective date of this 2016 Act [March 14, 2016], the Oregon Board of Dentistry shall:
-
-      (1) Provide notice to each individual licensed by the board under ORS chapter 679 of the process for making a request described in section 2 of this 2016 Act [679.323]; and
-
-      (2) Provide public notice of the process for making a request under section 2 of this 2016 Act. [2016 c.41 §3]
-
- 
-
 MISCELLANEOUS
 
  
@@ -970,6 +986,44 @@ MISCELLANEOUS
  
 
       Note: 679.543 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 679 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      679.546 Advertising as specialist; requirements; rules. (1) A dentist licensed by the Oregon Board of Dentistry may advertise that the dentist is a specialist in one or more areas of dentistry if the dentist:
+
+      (a) Has completed a post-doctoral residency program that is at least two years in length and is accredited by the Commission on Dental Accreditation, or its successor organization, and approved by the board by rule;
+
+      (b) Is a specialist as defined by the National Commission on Recognition of Dental Specialties and Certifying Boards, or its successor organization, and adopted by the board by rule; or
+
+      (c) Has completed an advanced dental education program that is at least two years in length and is recognized by the United States Department of Education, and approved by the board by rule.
+
+      (2) The board may adopt rules as necessary to carry out this section. [2019 c.379 §2]
+
+ 
+
+      679.549 Expression of regret or apology. (1) For the purposes of any civil action against a person licensed by the Oregon Board of Dentistry or against a dental office or clinic, health care institution, health care facility or other entity that employs or grants the person privileges, any expression of regret or apology made by or on behalf of the person, office, clinic, institution, facility or entity, including an expression of regret or apology that is made in writing or by conduct, does not constitute an admission of liability.
+
+      (2) A person licensed by the board, or any other person who makes an expression of regret or apology on behalf of a person licensed by the board, may not be examined by deposition or otherwise in any civil or administrative proceeding, including any arbitration or mediation proceeding, with respect to an expression of regret or apology made by or on behalf of the person, including expressions of regret or apology that are made in writing, orally or by conduct. [2019 c.182 §2]
+
+ 
+
+      679.552 Prescription and administration of vaccines; approved training course; rules. (1)(a) In accordance with rules adopted by the Oregon Board of Dentistry, a dentist may prescribe and administer vaccines to a person with whom the dentist has established a patient relationship.
+
+      (b) The board shall approve a training course on the prescription and administration of vaccines. The board may approve a training course offered by the Centers for Disease Control and Prevention, the American Dental Association or its successor organization or other similar federal agency or professional organization.
+
+      (c) The board may adopt other rules as necessary to carry out this section.
+
+      (2) The board shall adopt rules relating to the prescription and administration of vaccines by dentists, including rules requiring dentists to:
+
+      (a) Report the prescription and administration of vaccines to the immunization registry created by the Oregon Health Authority pursuant to ORS 433.094;
+
+      (b) Prior to administering a vaccine, review the patient’s vaccination history in the immunization registry described in this subsection;
+
+      (c) Comply with protocols established by the authority for the prescription and administration of vaccines under subsection (1) of this section; and
+
+      (d) Comply with any applicable rules adopted by the authority related to vaccines.
+
+      (3) In consultation with the board, the authority may adopt rules related to vaccines prescribed and administered by dentists. [2019 c.58 §2]
 
  
 

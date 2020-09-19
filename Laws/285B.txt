@@ -4,16 +4,6 @@ Chapter 285B — Economic Development II
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0046; 2018 Session Laws 0071
-
- 
-
- 
-
 
  
 
@@ -127,7 +117,7 @@ SMALL BUSINESS DEVELOPMENT
 
  
 
-(Generally)
+(Oregon Small Business Development Act)
 
  
 
@@ -136,6 +126,18 @@ SMALL BUSINESS DEVELOPMENT
  
 
 285B.123  Purpose
+
+ 
+
+(Small Business Expansion Loan Fund)
+
+ 
+
+285B.130  Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicants; rules
+
+ 
+
+285B.133  Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund
 
  
 
@@ -351,6 +353,10 @@ INFRASTRUCTURE PROJECTS
 
  
 
+285B.421  Levee Project Grant Fund; grants; grant limits; matching funds
+
+ 
+
 (Municipal Development Projects)
 
  
@@ -431,9 +437,7 @@ INFRASTRUCTURE PROJECTS
 
  
 
-(Temporary provisions relating to solar incentivization program are compiled as notes following ORS 285B.482)
-
- 
+(Temporary provisions relating to incentive program for solar energy are compiled as notes following ORS 285B.482)
 
 INFRASTRUCTURE PROJECTS FOR SOUTHERN OREGON
 
@@ -587,7 +591,7 @@ OREGON BUSINESS RETENTION AND EXPANSION PROGRAM
 
  
 
-285B.620 Oregon Business Retention and Expansion Program Fund; sources; uses
+285B.620  Oregon Business Retention and Expansion Program Fund; sources; uses
 
  
 
@@ -655,7 +659,7 @@ ENTREPRENEURIAL DEVELOPMENT
 
  
 
-285B.746  Conditions required for loan approval
+285B.746  Conditions for loan approval
 
  
 
@@ -835,15 +839,17 @@ BUSINESS DEVELOPMENT PROJECTS
 
  
 
-      285B.092 Oregon Business Development Fund; uses; transfer of unobligated funds. (1) There is created within the State Treasury a revolving fund known as the Oregon Business Development Fund, separate and distinct from the General Fund. Interest earned by the fund shall be credited to the fund. Moneys in this fund are continuously appropriated to the Oregon Business Development Commission for the following purposes:
+      285B.092 Oregon Business Development Fund; uses; transfer of unobligated funds. (1) There is created within the State Treasury a revolving fund known as the Oregon Business Development Fund, separate and distinct from the General Fund. Interest earned by the Oregon Business Development Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the Oregon Business Development Commission for the following purposes:
 
       (a) Administrative expenses of the commission in marketing public business finance, processing applications, investigating proposed business development projects and servicing outstanding loans. In any one year, administrative expenses charged under this paragraph may not be greater than the total revenues received in that year from fees provided for in subsection (2)(a) of this section, plus four percent of the total asset value of the fund.
 
       (b) Payment of loans to applicants under ORS 285B.050 to 285B.098.
 
-      (c) Actions the commission deems necessary to obtain repayment of outstanding loans.
+      (c) Transfer of moneys to the Small Business Expansion Loan Fund established under ORS 285B.133 in accordance with ORS 285B.133 (3).
 
-      (d) Purchase or buyout of superior or prior liens or mortgages on or a security interest in any business development project financed in part by a loan from the fund, when the commission determines:
+      (d) Actions the commission deems necessary to obtain repayment of outstanding loans.
+
+      (e) Purchase or buyout of superior or prior liens or mortgages on or a security interest in any business development project financed in part by a loan from the Oregon Business Development Fund, when the commission determines:
 
       (A) A loan from the fund is in default and is in liquidation or at risk of being forced into liquidation by another creditor to the project; and
 
@@ -863,7 +869,7 @@ BUSINESS DEVELOPMENT PROJECTS
 
       (3) All repayments, interest and other receipts from outstanding indebtedness or any other source shall be retained and accumulated in the fund and shall be used for the purposes of the fund.
 
-      (4) Notwithstanding any other law, if at any time there are insufficient funds in established business finance programs, the commission may direct the transfer of unobligated funds from the fund. [Formerly 285.443; 1999 c.247 §3; 1999 c.509 §28; 2003 c.167 §5; 2007 c.804 §47; 2009 c.830 §60]
+      (4) Notwithstanding any other provision of law, if at any time there are insufficient funds in established business finance programs, the commission may direct the transfer of unobligated funds from the Oregon Business Development Fund. [Formerly 285.443; 1999 c.247 §3; 1999 c.509 §28; 2003 c.167 §5; 2007 c.804 §47; 2009 c.830 §60; 2018 c.71 §4]
 
  
 
@@ -997,7 +1003,7 @@ SMALL BUSINESS DEVELOPMENT
 
  
 
-(Generally)
+(Oregon Small Business Development Act)
 
  
 
@@ -1019,7 +1025,101 @@ SMALL BUSINESS DEVELOPMENT
 
  
 
+(Small Business Expansion Loan Fund)
+
+ 
+
+      285B.130 Loans from Small Business Expansion Loan Fund; application fees; eligibility; loan agreements; loan limits; moneys reserved for low to moderate income applicants; rules. (1) Subject to the requirements and conditions set forth in subsection (3) of this section, any person with 50 or fewer employees may submit to the Oregon Business Development Department an application to borrow moneys from the Small Business Expansion Loan Fund established under ORS 285B.133 for the purpose of obtaining early stage growth capital when adequate traditional commercial or private financing is not readily available to the applicant. The application must be submitted in the manner, and contain or be accompanied by the information, prescribed by the department by rule.
+
+      (2) The department may charge fees in connection with an application submitted under this section and, if the application is approved, with processing and monitoring a loan agreement entered into pursuant to subsection (4) of this section. Fees collected must be deposited in the Small Business Expansion Loan Fund and may be used to pay the administrative costs and expenses of the department in administering the fund and implementing the provisions of this section and ORS 285B.133.
+
+      (3) Upon receipt of an application submitted under this section, the department shall determine whether the applicant is eligible to receive a loan from the Small Business Expansion Loan Fund established under ORS 285B.133. The department may approve an application if, after investigation, the department finds that:
+
+      (a) The applicant operates a business with 50 or fewer employees that is in the traded sector, as defined in ORS 285A.010, or that primarily supports traded sector industries;
+
+      (b) The loan has a reasonable prospect of repayment;
+
+      (c) The applicant demonstrates a reasonable potential for high growth that may support economic diversification of the state or the region in which the business is conducted, or increase employment opportunities or retain existing jobs in the state or region;
+
+      (d) The applicant demonstrates readiness for market; and
+
+      (e) There is or will be a sufficient amount of moneys in the Small Business Expansion Loan Fund to make a loan to the applicant.
+
+      (4) If the department approves an application under this section, the department and the applicant shall enter into a loan agreement that provides, at a minimum, the following:
+
+      (a) That loan proceeds may be used only to support acquisition of business assets or to pay for business operating expenses. Loan proceeds may not be used to refinance personal debt or debt not used for business purposes.
+
+      (b) A plan for repayment of moneys borrowed from the Small Business Expansion Loan Fund. The department may specify the terms of repayment, singly or in any combination, by royalties, on the basis of a percentage of business revenues, by installment payments of principal, installment payments of interest or installment payments of both principal and interest, or otherwise. The plan must set forth a schedule of payments, the term of the loan and the manner of determining when loan payments are delinquent. The department, in its sole discretion, shall establish the terms of repayment, which must be structured so that the repayment plan and pricing:
+
+      (A) Based on the total repayment costs, do not directly compete with traditional commercial lending services;
+
+      (B) Are commensurate with the risk taken by the department when making a loan to the applicant; and
+
+      (C) To the greatest extent possible, are anticipated to cover operational expenses and losses that the department may incur in the administration of the loan program.
+
+      (c) That the loan must be secured by sufficient collateral and security. The department may specify by rule the types of collateral and security that are acceptable to secure repayment of the loan, including but not limited to personal guarantees, business or corporate guarantees and pledges of business and personal assets.
+
+      (d) That the liability of the state under the agreement may not exceed the availability of moneys in the Small Business Expansion Loan Fund.
+
+      (5)(a) The Director of the Oregon Business Development Department, or the director’s designee, may approve loans of up to $250,000 each. Loans greater than $250,000 each may be approved by the Oregon Business Development Commission, or the commission’s designee. No loan may be made for an amount greater than $2 million.
+
+      (b) Immediately upon receiving loan proceeds, a successful applicant shall pay to the department an amount equal to one and one-half percent of the principal amount of the loan, for deposit in the Small Business Expansion Loan Fund.
+
+      (6) Up to 20 percent of all moneys available for lending in the Small Business Expansion Loan Fund on July 1 of each fiscal year may be reserved for loans to applicants who are individuals considered to have low to moderate household income and low to moderate personal net worth, as defined by the department by rule, and who operate businesses:
+
+      (a) Controlled and with at least 51 percent ownership interest in the business by minorities, women or honorably discharged veterans; or
+
+      (b) That are located outside of the Portland, Oregon, Metropolitan Statistical Area.
+
+      (7)(a) The department shall adopt rules to implement the provisions of this section. Before adopting rules under this paragraph, the department shall consult with a representative from an association representing banks in this state.
+
+      (b) The department may adopt rules that establish preferences in making loans under this section to individuals or businesses owned by individuals in underserved communities and in rural communities that may have insufficient access to diverse types of capital and traditional commercial or private financing.
+
+      (c) The department may adopt rules establishing a loan amount limit of less than $2 million for purposes of subsection (5) of this section. [2018 c.71 §1]
+
+ 
+
+      Note: 285B.130 and 285B.133 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       285B.132 [Formerly 285.513; 2007 c.804 §52; 2009 c.830 §63; renumbered 285B.113 in 2009]
+
+ 
+
+      285B.133 Small Business Expansion Loan Fund; purposes; sources of moneys; special transfers to and from fund. (1) The Small Business Expansion Loan Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Small Business Expansion Loan Fund shall be credited to the fund. All moneys in the fund are continuously appropriated to the Oregon Business Development Department for the following purposes:
+
+      (a) Payment of loans to applicants approved under ORS 285B.130.
+
+      (b) Payments to local development groups for the purposes of this section. A payment under this paragraph may not exceed one percent of the principal loan amount from which payment is required under ORS 285B.130 (5)(b).
+
+      (c) Administrative costs of the department incurred in marketing the loan program, processing loan applications, investigating eligibility of applicants and servicing outstanding loans.
+
+      (2) The Small Business Expansion Loan Fund consists of:
+
+      (a) Fees collected by the department under ORS 285B.130;
+
+      (b) Payments required under ORS 285B.130 (5)(b);
+
+      (c) Moneys repaid by recipients of loans from the fund, including interest on those moneys and other receipts;
+
+      (d) Moneys appropriated to the fund by the Legislative Assembly;
+
+      (e) Moneys transferred to the fund by the Oregon Business Development Commission from the Oregon Business Development Fund pursuant to subsection (3) of this section;
+
+      (f) Income earned on moneys in the Small Business Expansion Loan Fund;
+
+      (g) Moneys transferred to the fund from the federal government, other state agencies or local governments; and
+
+      (h) Any gifts or donations made to the State of Oregon for deposit in the fund.
+
+      (3) The Oregon Business Development Commission may transfer moneys credited to the Oregon Business Development Fund created under ORS 285B.092 to the Small Business Expansion Loan Fund established under this section when the commission determines that the transfer is reasonable and financially appropriate and would not impair the making of loans under ORS 285B.050 to 285B.098. Moneys transferred under this subsection shall be used by the Oregon Business Development Department for the purpose of making loans under ORS 285B.130.
+
+      (4) Notwithstanding any other provision of law, if at any time there are insufficient funds in established business finance programs, the department may direct the transfer of unobligated funds from the Small Business Expansion Loan Fund. [2018 c.71 §§2,3]
+
+ 
+
+      Note: See note under 285B.130.
 
  
 
@@ -1867,6 +1967,36 @@ INFRASTRUCTURE PROJECTS
 
  
 
+      Note: Section 33, chapter 671, Oregon Laws 2019, provides:
+
+      Sec. 33. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $15 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Oregon Business Development Department for deposit in the Levee Project Grant Fund established under section 34 of this 2019 Act [285B.421] for the purpose of providing grants under ORS 285B.420 for levee projects as defined in ORS 285B.410.
+
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the following findings:
+
+      (a) Levees are an integral part of the commercial and industrial infrastructure of this state.
+
+      (b) The inspection, accreditation, certification and repair of levees will promote economic development within this state. [2019 c.671 §33]
+
+ 
+
+      285B.421 Levee Project Grant Fund; grants; grant limits; matching funds. (1) The Levee Project Grant Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Levee Project Grant Fund must be credited to the fund. The Levee Project Grant Fund consists of moneys deposited in the fund under section 33, chapter 671, Oregon Laws 2019, and may include moneys appropriated, allocated, deposited or transferred to the fund by the Legislative Assembly or otherwise and interest earned on moneys in the fund.
+
+      (2) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for the Oregon Infrastructure Finance Authority to provide grants under ORS 285B.420 for levee projects as defined in ORS 285B.410.
+
+      (3) Grants from the fund for planning projects are limited to a maximum of $2 million per applicant per biennium.
+
+      (4) Grants from the fund for construction or capital improvement projects may not exceed an amount equal to 80 percent of the total cost of the project.
+
+      (5) A grant may not be awarded from the fund unless the applicant pledges matching funds to the project of at least 20 percent of the amount of the grant. [2019 c.671 §34]
+
+ 
+
+      Note: 285B.421 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 285B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
 (Municipal Development Projects)
 
  
@@ -2029,18 +2159,6 @@ INFRASTRUCTURE PROJECTS
 
  
 
-      Note: Section 2, chapter 748, Oregon Laws 2017, provides:
-
-      Sec. 2. (1) Net proceeds of lottery bonds issued under ORS 285B.551 during the biennium beginning July 1, 2017, in an amount sufficient to provide $10 million in net proceeds and interest earnings must be transferred to the Oregon Business Development Department for deposit in the Levee Project Subaccount, established in ORS 285B.456, for the purpose of providing financial assistance under ORS 285B.410 to 285B.482 for levee projects, as defined in ORS 285B.410.
-
-      (2) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the following findings:
-
-      (a) Levees are an integral part of the commercial and industrial infrastructure of this state.
-
-      (b) The inspection, accreditation, certification and repair of levees will promote economic development within this state. [2017 c.748 §2]
-
- 
-
       285B.458 Grants for assistance to distressed or rural areas; minimum. Not less than 60 percent of the grants awarded from the Special Public Works Fund in any biennium shall be used to provide assistance to distressed or rural areas. [Formerly 285.735; 2001 c.883 §32a; 2003 c.773 §42; 2005 c.835 §14]
 
  
@@ -2153,7 +2271,7 @@ INFRASTRUCTURE PROJECTS
 
  
 
-(Temporary provisions relating to solar incentivization program)
+(Temporary provisions relating to incentive program for solar energy)
 
  
 
@@ -2429,7 +2547,7 @@ LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS
 
       (d) The current lower Columbia River estuary habitat for listed endangered or threatened species of Columbia River anadromous salmonids could be improved through ecosystem restoration projects. The use of the Oregon State Lottery to pay debt service on lottery bonds issued under this section to pay for studying how the estuary could be improved and to pay for ecosystem restoration projects are authorized uses of state lottery funds.
 
-      (3)(a) The aggregate principal amount of lottery bonds issued pursuant to subsection (1)(a) of this section for financial and other assistance to municipalities, ports and other persons and entities may not exceed the sum of $336,226,252 and an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs. The aggregate principal amount of lottery bonds issued pursuant to subsection (1)(b) of this section for the Columbia River channel deepening project may not exceed the sum of $17.7 million and an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+      (3)(a) The aggregate principal amount of lottery bonds issued pursuant to subsection (1)(a) of this section for financial and other assistance to municipalities, ports and other persons and entities may not exceed the sum of $366,226,252 and an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs. The aggregate principal amount of lottery bonds issued pursuant to subsection (1)(b) of this section for the Columbia River channel deepening project may not exceed the sum of $17.7 million and an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
 
       (b) The Oregon Department of Administrative Services may not request the issuance of lottery bonds under subsection (1)(b) of this section until the Director of the Oregon Business Development Department determines that a final environmental impact statement has been issued and a record of decisions has been submitted to Congress by the United States Army Corps of Engineers, Congress has authorized the Columbia River channel deepening project, and the Washington sponsors’ shares of the costs of the Columbia River channel deepening project have been committed.
 
@@ -2437,7 +2555,7 @@ LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS
 
       (5) The aggregate principal amount of lottery bonds issued pursuant to subsection (1)(c) of this section for the costs of studies and ecosystem restoration projects in the lower Columbia River estuary may not exceed the sum of $750,000 and an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs. The net proceeds of lottery bonds issued pursuant to subsection (1)(c) of this section shall be deposited in the Oregon Business, Innovation and Trade Fund created by ORS 285A.227 and may be used only for the Oregon nonfederal share of United States Army Corps of Engineers Columbia River estuary projects authorized by Congress prior to August 9, 2001. The director may not request the issuance of lottery bonds under subsection (1)(c) of this section until Congress and Washington have authorized their respective shares of the costs of the studies and ecosystem restoration projects in the lower Columbia River estuary.
 
-      (6) The proceeds of lottery bonds issued pursuant to this section may be used only for the purposes set forth in this section and for bond-related costs. [1999 c.702 §1; 2001 c.96 §6; 2001 c.942 §1; 2003 c.741 §4; 2005 c.788 §1; 2007 c.746 §1; 2007 c.804 §78; 2009 c.830 §115; 2009 c.906 §1a; 2011 c.624 §1; 2013 c.786 §1; 2015 c.812 §1; 2017 c.748 §1]
+      (6) The proceeds of lottery bonds issued pursuant to this section may be used only for the purposes set forth in this section and for bond-related costs. [1999 c.702 §1; 2001 c.96 §6; 2001 c.942 §1; 2003 c.741 §4; 2005 c.788 §1; 2007 c.746 §1; 2007 c.804 §78; 2009 c.830 §115; 2009 c.906 §1a; 2011 c.624 §1; 2013 c.786 §1; 2015 c.812 §1; 2017 c.748 §1; 2019 c.671 §1]
 
  
 
@@ -2451,9 +2569,9 @@ LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS
 
       Note: Section 3, chapter 786, Oregon Laws 2013, provides:
 
-      Sec. 3. Regional Infrastructure Fund. (1) The Regional Infrastructure Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on the moneys in the Regional Infrastructure Fund shall be credited to the fund. The Regional Infrastructure Fund consists of moneys deposited in the fund under section 2, chapter 786, Oregon Laws 2013, and section 2, chapter 812, Oregon Laws 2015, and section 3 of this 2017 Act [section 3, chapter 748, Oregon Laws 2017], and may include fees, revenues or other income deposited into the fund by the Legislative Assembly.
+      Sec. 3. Regional Infrastructure Fund. (1) The Regional Infrastructure Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on the moneys in the Regional Infrastructure Fund shall be credited to the fund. The Regional Infrastructure Fund consists of moneys deposited in the fund under section 2, chapter 786, Oregon Laws 2013, section 2, chapter 812, Oregon Laws 2015, and section 3, chapter 748, Oregon Laws 2017, and may include fees, revenues or other income deposited into the fund by the Legislative Assembly.
 
-      (2) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for disbursement to local governments for the purposes set forth in section 2, chapter 786, Oregon Laws 2013, and section 2, chapter 812, Oregon Laws 2015, and section 3 of this 2017 Act. [2013 c.786 §3; 2015 c.812 §3; 2017 c.748 §4]
+      (2) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for disbursement to local governments and federally recognized Indian tribes located in this state for the purposes set forth in section 2, chapter 786, Oregon Laws 2013, section 2, chapter 812, Oregon Laws 2015, and section 3, chapter 748, Oregon Laws 2017. [2013 c.786 §3; 2015 c.812 §3; 2017 c.748 §4; 2019 c.281 §1]
 
  
 
@@ -2465,17 +2583,11 @@ LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS
 
  
 
-      Note: Section 3, chapter 748, Oregon Laws 2017, provides:
+      Note: Section 6, chapter 786, Oregon Laws 2013, provides:
 
-      Sec. 3. Lottery bonds to provide grants and loans to local governments for infrastructure projects. (1) For the biennium beginning July 1, 2017, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $4 million in net proceeds and interest earnings for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+      Sec. 6. Cultural Resources Economic Fund. (1) The Cultural Resources Economic Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on the moneys in the Cultural Resources Economic Fund shall be credited to the fund. The Cultural Resources Economic Fund consists of moneys deposited in the fund under section 5, chapter 786, Oregon Laws 2013, section 26, chapter 812, Oregon Laws 2015, section 22, chapter 748, Oregon Laws 2017, and section 35 of this 2019 Act [section 35, chapter 671, Oregon Laws 2019] and may include fees, revenues or other income deposited in the fund by the Legislative Assembly.
 
-      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $4 million in net proceeds and interest earnings must be transferred to the Oregon Business Development Department for deposit in the Regional Infrastructure Fund established in section 3, chapter 786, Oregon Laws 2013, to provide grants and loans to local governments for infrastructure projects, including long-range planning, research and design. The grants and loans are to be allocated based on recommendations of regionally based planning committees designated by the department.
-
-      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the following findings:
-
-      (a) Infrastructure projects will create jobs; and
-
-      (b) Integrated development of infrastructure will establish a foundation for expanding existing businesses and for developing and attracting new businesses. [2017 c.748 §3]
+      (2) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for disbursement for the purposes set forth in section 5, chapter 786, Oregon Laws 2013, and section 26, chapter 812, Oregon Laws 2015, section 22, chapter 748, Oregon Laws 2017, and section 35 of this 2019 Act. [2013 c.786 §6; 2015 c.812 §27; 2017 c.748 §23; 2019 c.671 §36]
 
  
 
@@ -2489,43 +2601,55 @@ LOTTERY BONDS FOR INFRASTRUCTURE PROJECTS
 
       Note: Section 29, chapter 748, Oregon Laws 2017, provides:
 
-      Sec. 29. Lottery bonds for construction of access roads. (1) For the biennium beginning July 1, 2017, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $3,390,000 in net proceeds and interest earnings for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+      Sec. 29. Lottery bonds for construction of Oregon Manufacturing Innovation Center access roads.
 
-      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $3,390,000 in net proceeds and interest earnings must be transferred to the Oregon Business Development Department for deposit in the American Manufacturing Innovation District Fund established in section 7a, chapter 66, Oregon Laws 2016, for construction of access roads to the Oregon Manufacturing Innovation Center Research and Development Facility and Training Center.
+(1) For the biennium beginning July 1, 2017, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $3,390,000 in net proceeds and interest earnings for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
 
-      (3) The Legislative Assembly finds that the use of lottery bonds proceeds with create jobs and further economic development, and is authorized based on the finding that the Oregon Manufacturing Innovation Center will enable and encourage the development of a robust manufacturing sector in the Oregon economy. [2017 c.748 §29]
+      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $3,390,000 in net proceeds and interest earnings must be transferred to the Oregon Business Development Department for deposit in the American Manufacturing Innovation District Fund established in section 7a, chapter 66, Oregon Laws 2016, for construction of Oregon Manufacturing Innovation Center access roads.
+
+      (3) The Legislative Assembly finds that the use of lottery bonds proceeds with create jobs and further economic development, and is authorized based on the finding that the Oregon Manufacturing Innovation Center will enable and encourage the development of a robust manufacturing sector in the Oregon economy. [2017 c.748 §29; 2019 c.30 §6]
 
  
 
       Note: Section 28, chapter 748, Oregon Laws 2017, provides:
 
-      Sec. 28. OBDD Economic Development Distributions Fund. (1) The OBDD Economic Development Distributions Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on the moneys in the OBDD Economic Development Distributions Fund consists of moneys deposited in the fund under sections 26 and 27 of this 2017 Act and may include fees, revenues or other income deposited into the fund by the Legislative Assembly.
+      Sec. 28. OBDD Economic Development Distributions Fund. (1) The OBDD Economic Development Distributions Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on the moneys in the OBDD Economic Development Distributions Fund must be credited to the fund. The OBDD Economic Development Distributions Fund consists of moneys deposited in the fund under sections 26 and 27, chapter 748, Oregon Laws 2017, and sections 27 to 31 of this 2019 Act [sections 27 to 31, chapter 671, Oregon Laws 2019] and may include fees, revenues or other income deposited into the fund by the Legislative Assembly.
 
-      (2) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for purposes described in sections 26 and 27 of this 2017 Act. [2017 c.748 §28]
+      (2) Moneys in the fund are continuously appropriated to the Oregon Business Development Department for purposes described in sections 26 and 27, chapter 748, Oregon Laws 2017, and sections 27 to 31 of this 2019 Act. [2017 c.748 §28; 2019 c.671 §32]
 
  
 
-      Note: Sections 26 and 27, chapter 748, Oregon Laws 2017, provide:
+      Note: Sections 27 to 31, chapter 671, Oregon Laws 2019, provide:
 
-      Sec. 26. Lottery bonds for Sweet Home Wastewater Treatment Plant. (1) For the biennium beginning July 1, 2017, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $2 million in net proceeds and interest earnings for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+      Sec. 27. Lottery bonds for Mill City storm drainage system improvements. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $1.88 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
 
-      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $2 million in net proceeds and interest earnings must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28 of this 2017 Act for distribution to the City of Sweet Home to upgrade the Sweet Home Wastewater Treatment Plant.
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28, chapter 748, Oregon Laws 2017, for distribution to the City of Mill City for storm drainage system improvements.
 
-      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the following findings:
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that stormwater systems are an integral part of the commercial and industrial infrastructure of this state, and improvements to stormwater systems will promote economic development in this state. [2019 c.671 §27]
 
-      (a) Wastewater treatment systems are an integral part of the commercial and industrial infrastructure of this state.
+      Sec. 28. Lottery bonds for Salem drinking water system improvements. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $20 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
 
-      (b) Improvement of a wastewater treatment plant will promote economic development within this state. [2017 c.748 §26]
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28, chapter 748, Oregon Laws 2017, for distribution to the City of Salem for drinking water system improvements.
 
-      Sec. 27. Lottery bonds for Crescent Sanitary District wastewater treatment facility. (1) For the biennium beginning July 1, 2017, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $3 million in net proceeds and interest earnings for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that drinking water systems are an integral part of the commercial and industrial infrastructure of this state, and improvements to drinking water systems will promote economic development in this state. [2019 c.671 §28]
 
-      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $3 million in net proceeds and interest earnings must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28 of this 2017 Act for distribution to the Crescent Sanitary District to build a wastewater treatment facility.
+      Sec. 29. Lottery bonds for Sweet Home Wastewater Treatment Plant rehabilitation. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $7 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
 
-      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the following findings:
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28, chapter 748, Oregon Laws 2017, for distribution to the City of Sweet Home for rehabilitating the Sweet Home Wastewater Treatment Plant.
 
-      (a) Wastewater treatment systems are an integral part of the commercial and industrial infrastructure of this state.
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that wastewater treatment systems are an integral part of the commercial and industrial infrastructure of this state, and improvement of a wastewater treatment plant will promote economic development. [2019 c.671 §29]
 
-      (b) Addition of a wastewater treatment facility will promote economic development within this state. [2017 c.748 §27]
+      Sec. 30. Lottery bonds for Warm Springs Wastewater Treatment Plant water meters and improvements. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $7.8 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28, chapter 748, Oregon Laws 2017, for distribution to the Confederated Tribes of the Warm Springs Reservation of Oregon for improvements to the Warm Springs Wastewater Treatment Plant, installation of water meters and improvements to the water distribution system.
+
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that water and wastewater treatment systems are an integral part of the commercial and industrial infrastructure of this state, and improvements to water and wastewater treatment systems will promote economic development. [2019 c.671 §30]
+
+      Sec. 31. Lottery bonds for Hood River waterfront storm water line replacement. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Oregon Business Development Department, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $1.7 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Oregon Business Development Department for deposit in the OBDD Economic Development Distributions Fund established under section 28, chapter 748, Oregon Laws 2017, for distribution to the City of Hood River for replacement of the Hood River waterfront storm water line.
+
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that stormwater systems are an integral part of the commercial and industrial infrastructure of this state and improvements to storm water systems will promote economic development in this state. [2019 c.671 §31]
 
  
 
@@ -3019,14 +3143,6 @@ OREGON INDUSTRIAL SITE READINESS PROGRAM
 
  
 
-      Note: Sections 6 and 7, chapter 561, Oregon Laws 2017, provide:
-
-      Sec. 6. No later than September 15, 2018, the Oregon Business Development Department shall submit a report to the interim legislative committees on economic development regarding the Oregon Industrial Site Readiness Program. [2017 c.561 §6]
-
-      Sec. 7. Section 6 of this 2017 Act is repealed on January 2, 2019. [2017 c.561 §7]
-
- 
-
 OREGON INDUSTRIAL SITE READINESS ASSESSMENT PROGRAM
 
  
@@ -3325,7 +3441,7 @@ ENTREPRENEURIAL DEVELOPMENT
 
  
 
-      285B.746 Conditions required for loan approval. (1) The Oregon Business Development Department may approve a loan requested in an application filed under ORS 285B.743 if, after investigation, it finds that:
+      285B.746 Conditions for loan approval. (1) The Oregon Business Development Department may approve a loan requested in an application filed under ORS 285B.743 if, after investigation, it finds that:
 
       (a) The applicant is enrolled in a small business management program with a small business development center or certified entity;
 
@@ -3337,7 +3453,13 @@ ENTREPRENEURIAL DEVELOPMENT
 
       (a) The business must have annual revenues of $500,000 or less in the 12-month period immediately preceding the date of application.
 
-      (b) The business or proposed business must be owned, in whole or in part, by a person certified as having a severe disability by the Department of Human Services or the Commission for the Blind. [1991 c.688 §8; 1997 c.147 §5; 2007 c.70 §72; 2007 c.804 §38; 2009 c.830 §132; 2010 c.106 §§3,7; 2011 c.558 §4]
+      (b) The business or proposed business must be owned, in whole or in part, by a person certified as having a severe disability by the Department of Human Services or the Commission for the Blind.
+
+      (c) The applicant must submit proof to the Oregon Business Development Department that the applicant is a veteran who:
+
+      (A) Has a United States Department of Veterans Affairs total disability rating of at least 70 percent as a result of an injury or illness that the veteran incurred, or that was aggravated, during active military service; and
+
+      (B) Received a discharge or release under other than dishonorable conditions. [1991 c.688 §8; 1997 c.147 §5; 2007 c.70 §72; 2007 c.804 §38; 2009 c.830 §132; 2010 c.106 §§3,7; 2011 c.558 §4; 2019 c.394 §1]
 
  
 
@@ -3376,6 +3498,30 @@ ENTREPRENEURIAL DEVELOPMENT
       (b) Interest earned on moneys in the fund; and
 
       (c) Moneys received as repayment of principal and interest on loans made from the fund under ORS 285B.740 to 285B.758. [1991 c.688 §13; 2009 c.830 §134]
+
+ 
+
+      Note: Sections 7, 11 and 13 (1) and (3), chapter 46, Oregon Laws 2018, provide:
+
+      Sec. 7. (1) As used in this section:
+
+      (a) “Low income household” and “moderate income household” have the meanings given those terms in ORS 456.270.
+
+      (b) “Qualifying project” means construction, alteration, repair or addition to or improvement of dwelling units that may be purchased or rented, with or without government assistance, by a low income household or a moderate income household.
+
+      (c) “Willamette Valley” means Clackamas, Linn, Marion, Multnomah, Polk, Washington and Yamhill Counties and the portion of Benton and Lane Counties lying east of the summit of the Coast Range.
+
+      (2) A construction contracting business owned and managed by an individual licensed under section 2 of this 2018 Act that does not otherwise qualify as an emerging small business under ORS 285B.740 to 285B.758 may qualify as an emerging small business for purposes of a loan under ORS 285B.740 to 285B.758 for capital investment purposes if, as a condition of receiving the loan, the individual agrees to:
+
+      (a) Perform work on qualifying projects that equals at least 20 percent of the work of the business, measured as required by the Oregon Business Development Department by rule; and
+
+      (b) Operate the business solely in parts of this state located outside the Willamette Valley. [2018 c.46 §7]
+
+      Sec. 11. The Oregon Business Development Department shall report to an interim committee of the Eightieth Legislative Assembly related to business regarding loans for capital investment purposes issued under section 7 of this 2018 Act. The report shall include, but need not be limited to, the number of loans approved under section 7 of this 2018 Act. The department shall make the report to the interim committee in the manner provided by ORS 192.245 no later than October 1, 2020. [2018 c.46 §11]
+
+      Sec. 13. (1) Sections 2, 4, 6, 7 and 8 of this 2018 Act are repealed January 2, 2022.
+
+      (3) The repeal of section 7 of this 2018 Act by this section does not cancel or alter the terms of any loan made by the Oregon Business Development Department prior to January 2, 2022, or repeal any department rule pertaining to loans made by the department prior to January 2, 2022. [2018 c.46 §13(1),(3)]
 
  
 

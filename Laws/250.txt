@@ -4,16 +4,6 @@ Chapter 250 — Initiative and Referendum
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0070
-
- 
-
- 
-
 
  
 
@@ -131,7 +121,7 @@ STATE MEASURES
 
  
 
-250.125     Estimate of financial impact of state measures; financial estimate committee; application to Native American or American Indian tribal governments
+250.125     Estimate of financial impact of state measures; financial estimate committee; application to Native American or American Indian tribal governments; notice in voters’ pamphlet if no funding source identified
 
  
 
@@ -469,7 +459,15 @@ STATE MEASURES
 
  
 
-      250.045 Prospective petition; signature requirement; cover and signature sheet requirements; rules. (1) Before circulating a petition to initiate or refer a state measure under section 1, Article IV, Oregon Constitution, the petitioner shall file with the Secretary of State a prospective petition. The prospective petition for a state measure to be initiated shall contain the signatures of at least 1,000 electors. The signature sheets must be attached to a full and correct copy of the measure to be initiated.
+      250.045 Prospective petition; signature requirement; cover and signature sheet requirements; rules. (1)(a) Before circulating a petition to initiate or refer a state measure under Article IV, section 1, of the Oregon Constitution, the petitioner shall file with the Secretary of State a prospective petition.
+
+      (b) The prospective petition for a state measure to be initiated:
+
+      (A) Shall contain the signatures of at least 1,000 electors; and
+
+      (B) May not contain the signatures of more than 2,000 electors.
+
+      (c) The signature sheets for a state measure to be initiated must be attached to a full and correct copy of the measure to be initiated.
 
       (2) Before obtaining signatures on a prospective petition for a state measure to be initiated, the chief petitioners shall file with the secretary a statement declaring whether one or more persons will be paid money or other valuable consideration for obtaining signatures of electors on the prospective petition. After a statement has been filed under this subsection, the chief petitioners shall notify the secretary not later than the 10th day after any of the chief petitioners first has knowledge or should have had knowledge that:
 
@@ -487,7 +485,17 @@ STATE MEASURES
 
       (b) The deadline for submitting written comments on the draft title has not passed.
 
-      (6) The cover of an initiative or referendum petition shall designate the name and residence address of not more than three persons as chief petitioners and shall contain instructions for persons obtaining signatures of electors on the petition. The instructions shall be adopted by the secretary by rule. The cover of a referendum petition shall contain the final measure summary described in ORS 250.065 (1). If a petition seeking a different ballot title is not filed with the Supreme Court by the deadline for filing a petition under ORS 250.085, the cover of an initiative petition shall contain the latest ballot title certified by the Attorney General under ORS 250.067 (2). However, if the Supreme Court has reviewed the ballot title, the cover of the initiative petition shall contain the title certified by the court.
+      (6)(a) The cover of an initiative or referendum petition shall designate the name and residence address of not more than three persons as chief petitioners and shall contain instructions for persons obtaining signatures of electors on the petition. The instructions shall be adopted by the secretary by rule.
+
+      (b) The cover of a referendum petition shall contain the final measure summary described in ORS 250.065 (1).
+
+      (c)(A) If a petition seeking a different ballot title is not filed with the Supreme Court by the deadline for filing a petition under ORS 250.085, the cover of an initiative petition shall contain the latest ballot title certified by the Attorney General under ORS 250.067 (2).
+
+      (B) If a petition seeking a different ballot title is filed with the Supreme Court by the deadline for filing a petition under ORS 250.085:
+
+      (i) The secretary may not issue an official template of the cover and signature sheets of the initiative petition until the Supreme Court has certified a final ballot title; and
+
+      (ii) The cover of the initiative petition shall contain the final ballot title certified by the court.
 
       (7) The chief petitioners shall include with the prospective petition a statement declaring whether one or more persons will be paid money or other valuable consideration for obtaining signatures of electors on the initiative or referendum petition. After the prospective petition is filed, the chief petitioners shall notify the filing officer not later than the 10th day after any of the chief petitioners first has knowledge or should have had knowledge that:
 
@@ -495,7 +503,7 @@ STATE MEASURES
 
       (b) No person is being paid for obtaining signatures, when the statement included with the prospective petition declared that one or more such persons would be paid.
 
-      (8)(a) Each sheet of signatures on an initiative petition shall contain the caption of the ballot title. Each sheet of signatures on a referendum petition shall contain the subject expressed in the title of the Act to be referred.
+      (8)(a) Each sheet of signatures on an initiative petition shall contain the caption of the final certified ballot title. Each sheet of signatures on a referendum petition shall contain the subject expressed in the title of the Act to be referred.
 
       (b) Each sheet of signatures on an initiative or referendum petition shall:
 
@@ -513,7 +521,7 @@ STATE MEASURES
 
       (b) Believes each individual is an elector.
 
-      (11) The person obtaining signatures on the petition shall carry at least one full and correct copy of the measure to be initiated or referred and shall allow any person to review a copy upon request of the person. [1979 c.190 §144; 1979 c.345 §2; 1981 c.909 §2; 1983 c.514 §8; 1983 c.756 §9; 1985 c.447 §1; 1985 c.808 §25; 1987 c.519 §1; 1989 c.959 §3; 1992 c.1 §1; 1995 c.607 §26; 1997 c.846 §1; 1999 c.262 §2; 1999 c.318 §27; 1999 c.793 §2; 2001 c.965 §4; 2005 c.797 §36; 2007 c.159 §3; 2007 c.848 §8; 2009 c.533 §1]
+      (11) The person obtaining signatures on the petition shall carry at least one full and correct copy of the measure to be initiated or referred and shall allow any person to review a copy upon request of the person. [1979 c.190 §144; 1979 c.345 §2; 1981 c.909 §2; 1983 c.514 §8; 1983 c.756 §9; 1985 c.447 §1; 1985 c.808 §25; 1987 c.519 §1; 1989 c.959 §3; 1992 c.1 §1; 1995 c.607 §26; 1997 c.846 §1; 1999 c.262 §2; 1999 c.318 §27; 1999 c.793 §2; 2001 c.965 §4; 2005 c.797 §36; 2007 c.159 §3; 2007 c.848 §8; 2009 c.533 §1; 2018 c.70 §17]
 
  
 
@@ -623,11 +631,13 @@ STATE MEASURES
 
       (2) A person obtaining signatures on a state initiative, referendum or recall petition or a prospective petition for a state measure to be initiated may use only the cover and signature sheets contained in the official templates prepared for the petition or prospective petition. A person who is being paid to obtain signatures on the petition or prospective petition shall use the signature sheet template designated for use by persons being paid to obtain signatures. A person who is not being paid to obtain signatures on the petition or prospective petition shall use the signature sheet template designated for use by persons who are not being paid to obtain signatures.
 
-      (3) The secretary shall issue templates for a petition or prospective petition only to a chief petitioner of the petition or prospective petition or to an agent designated by a chief petitioner.
+      (3)(a) The secretary shall issue templates for a petition or prospective petition only to a chief petitioner of the petition or prospective petition or to an agent designated by a chief petitioner.
+
+      (b) If the ballot title for a state initiative petition has been challenged under ORS 250.085, the secretary may not issue an official template for the initiative petition until the Supreme Court has certified a final ballot title.
 
       (4) The secretary shall issue official templates to a chief petitioner or designated agent not later than:
 
-      (a) Three business days after the deadline for filing a petition under ORS 250.085 relating to a ballot title certified by the Attorney General for the state initiative petition or, if a petition is filed with the Supreme Court under ORS 250.085, three business days after the Supreme Court certifies to the secretary a ballot title for the state initiative petition;
+      (a) Three business days after the deadline for filing a petition under ORS 250.085 relating to a ballot title certified by the Attorney General for the state initiative petition or, if a petition is filed with the Supreme Court under ORS 250.085, three business days after the Supreme Court certifies to the secretary a final ballot title for the state initiative petition;
 
       (b) Three business days after a prospective petition is filed under ORS 249.865 or 250.045 for a state recall petition or state referendum petition; or
 
@@ -635,9 +645,25 @@ STATE MEASURES
 
       (5) The secretary by rule shall establish a process by which a chief petitioner of a state initiative, referendum or recall petition or a prospective petition for a state measure to be initiated may request a modification of the templates issued under subsection (4) of this section.
 
-      (6) In addition to the templates prepared under subsections (1) to (5) of this section, for each state initiative, referendum or recall petition or prospective petition, the secretary shall prepare an official electronic template of a signature sheet for the petition or prospective petition. A template prepared under this subsection shall allow space for the signature of one elector. An elector may print a copy of the electronic signature sheet for a petition or prospective petition, sign the sheet and deliver the signed sheet to a chief petitioner or an agent designated by a chief petitioner. Electronic templates described in this subsection are subject to the requirements of ORS 250.045, other than ORS 250.045 (6), (9) and (10).
+      (6)(a) In addition to the templates prepared under subsections (1) to (5) of this section, for each state initiative, referendum or recall petition or prospective petition, the secretary shall prepare an official electronic template of a signature sheet for the petition or prospective petition.
 
-      (7) The secretary shall adopt rules prescribing the contents and method of production of official templates required under this section. [2007 c.848 §3; 2009 c.533 §3; 2017 c.749 §14]
+      (b)(A) A template prepared under this subsection shall provide:
+
+      (i) Space for the signature of one elector to signify support for the state initiative, referendum or recall petition or prospective petition; and
+
+      (ii) Space for the signature of the same elector to certify that the elector received a copy of the electronic signature sheet in compliance with paragraph (c)(B) of this subsection.
+
+      (B) The Secretary of State or county clerk may tally only electronic signature sheets that are signed in both spaces described in this paragraph.
+
+      (c)(A) An elector may print a copy of the electronic signature sheet for a petition or prospective petition, sign the sheet and deliver the signed sheet to a chief petitioner or an agent designated by a chief petitioner.
+
+      (B) Only an elector who either has personally printed a copy of the electronic signature sheet of a petition or prospective petition or has requested that a separate person print a copy of the electronic signature sheet specifically for the elector may sign the sheet. A copy of an electronic signature sheet may not be signed by an elector who did not either print the sheet or request that the sheet be printed specifically for the elector.
+
+      (d) Electronic templates described in this subsection are subject to the requirements of ORS 250.045, other than ORS 250.045 (9) and (10), and the template must include a full and correct copy of the measure to be initiated or referred.
+
+      (e) Except as provided in paragraph (c)(B) of this subsection, a person who is obtaining signatures on a petition or prospective petition, whether paid or unpaid, may not provide a printed electronic signature sheet to an elector.
+
+      (7) The secretary shall adopt rules prescribing the contents and method of production of official templates required under this section. [2007 c.848 §3; 2009 c.533 §3; 2017 c.749 §14; 2018 c.70 §18; 2019 c.681 §1]
 
  
 
@@ -690,6 +716,112 @@ STATE MEASURES
       250.075 Preparation of ballot titles by Legislative Assembly. (1) When the Legislative Assembly refers a measure to the people, a ballot title for the measure may be prepared by the assembly. The ballot title shall be filed with the Secretary of State when the measure is filed with the Secretary of State.
 
       (2) If the title is not prepared under subsection (1) of this section, when the measure is filed with the Secretary of State, the secretary shall send one copy of the referred measure to the Attorney General. Not later than the 30th day after the Legislative Assembly adjourns, the Attorney General shall provide a draft ballot title for the measure. The Attorney General shall send a copy of the draft ballot title to each member of the Legislative Assembly, and file with the Secretary of State a copy of the draft ballot title and a certificate of mailing of the draft ballot title to each member. [Formerly 254.073; 1985 c.447 §3; 1995 c.607 §27; 2017 c.749 §17]
+
+ 
+
+      Note: Sections 1 to 8, chapter 674, Oregon Laws 2019, provide:
+
+      Sec. 1. (1) Except as provided in section 2 of this 2019 Act, if an amendment to the Oregon Constitution is referred to the people by the Eightieth Legislative Assembly during its 2019 regular session under Article XVII, section 1, of the Oregon Constitution, or if all or part of any Act of the Eightieth Legislative Assembly that passes both houses of the Legislative Assembly during its 2019 regular session is referred to the people by the Legislative Assembly under Article IV, section 1 (3)(c), of the Oregon Constitution, or by petition under Article IV, section 1 (3)(b), of the Oregon Constitution:
+
+      (a) Notwithstanding ORS 250.035, 250.067, 250.075 (2) and 250.085, the ballot title for a measure or part of a measure described in this subsection shall be prepared by the joint legislative committee appointed under section 7 of this 2019 Act and filed with the Secretary of State not later than the date set by the Secretary of State by rule. The word limits described in ORS 250.035 (2) do not apply to the ballot title for a measure referred to the people by the Legislative Assembly under Article IV, section 1 (3)(c), of the Oregon Constitution, and prepared by the joint legislative committee under this subsection. Unless modified under section 5 of this 2019 Act, the ballot title prepared by the committee under this subsection shall be the ballot title printed in the voters’ pamphlet and printed on, or included with, the ballot.
+
+      (b) Notwithstanding ORS 251.205, 251.215, 251.225, 251.230 and 251.235, the explanatory statement to be printed in the voters’ pamphlet for a measure or part of a measure described in this subsection shall be prepared by the joint legislative committee appointed under section 7 of this 2019 Act and filed with the Secretary of State not later than the date set by the Secretary of State by rule. Unless modified under section 6 of this 2019 Act, the explanatory statement prepared by the committee under this subsection shall be the explanatory statement printed in the voters’ pamphlet.
+
+      (2) The joint legislative committee may begin preparation of the ballot title or explanatory statement:
+
+      (a) For a measure referred to the people by the Legislative Assembly under Article XVII, section 1, or Article IV, section 1 (3)(c), of the Oregon Constitution, on the date the measure is filed with the Secretary of State; and
+
+      (b) For a measure referred to the people by petition under Article IV, section 1 (3)(b), of the Oregon Constitution, on the date that a prospective petition to refer the measure is filed with the Secretary of State under ORS 250.045.
+
+      (3) Except as otherwise provided in sections 1 to 8 of this 2019 Act, ORS chapters 250, 251 and 254 apply to an election held on a measure or part of a measure described in subsection (1) of this section.
+
+      (4) As used in sections 1 to 8 of this 2019 Act, “measure” has the meaning given that term in ORS 250.005. [2019 c.674 §1]
+
+      Sec. 2. (1) If all or part of chapter 122, Oregon Laws 2019, is referred to the people by petition under Article IV, section 1 (3)(b), of the Oregon Constitution:
+
+      (a) The Act shall be submitted to the people for their approval or rejection at a special election held throughout this state on January 21, 2020; and
+
+      (b) A special election shall be held throughout this state on January 21, 2020, as provided in sections 1 to 8 of this 2019 Act.
+
+      (2) Except as otherwise provided in sections 1 to 8 of this 2019 Act, ORS chapters 250, 251 and 254 apply to an election held on a measure described in subsection (1) of this section.
+
+      (3) Notwithstanding ORS 250.035, 250.067, 250.075 (2) and 250.085, the ballot title for a measure described in subsection (1) of this section shall be prepared by the joint legislative committee appointed under section 7 of this 2019 Act and filed with the Secretary of State not later than the date set by the Secretary of State by rule. The ballot title prepared by the committee under this subsection may describe any effects or consequences that the committee determines will result if the people vote to reject a measure described in subsection (1) of this section. Unless modified under section 5 of this 2019 Act, the ballot title prepared by the committee under this subsection shall be the ballot title printed in the voters’ pamphlet and printed on, or included with, the ballot.
+
+      (4) Notwithstanding ORS 251.205, 251.215, 251.225, 251.230 and 251.235, the explanatory statement to be printed in the voters’ pamphlet for a measure described in subsection (1) of this section shall be prepared by the joint legislative committee appointed under section 7 of this 2019 Act and filed with the Secretary of State not later than the date set by the Secretary of State by rule. The explanatory statement prepared by the committee under this subsection may describe any effects or consequences that the committee determines will result if the people vote to reject a measure described in subsection (1) of this section. Unless modified under section 6 of this 2019 Act, the explanatory statement prepared by the committee under this subsection shall be the explanatory statement printed in the voters’ pamphlet.
+
+      (5) The joint legislative committee may begin preparation of the ballot title or explanatory statement on the date that a prospective petition to refer a measure described in subsection (1) of this section is filed with the Secretary of State under ORS 250.045.
+
+      (6)(a) Arguments relating to a measure described in subsection (1) of this section may be filed with the Secretary of State under ORS 251.245 and 251.255, except that an argument must be filed not later than the date set by the Secretary of State by rule.
+
+      (b) Notwithstanding ORS 192.311 to 192.478 relating to public records, an argument filed under this subsection is exempt from public inspection until the fourth business day after the deadline for filing the argument.
+
+      (7) Notwithstanding the time frames set forth in ORS 250.127, the financial estimate committee created under ORS 250.125 shall prepare and file with the Secretary of State the estimates described in ORS 250.125 and, if the committee considers it necessary, an impartial, simple and understandable statement explaining the financial effects of the measure as described in ORS 250.125, except that the committee shall prepare and file the estimates or statement not later than the date set by the Secretary of State by rule. The financial estimate committee may begin preparation of the estimates or statement on the date that a prospective petition to refer a measure described in subsection (1) of this section is filed with the Secretary of State under ORS 250.045.
+
+      (8) Notwithstanding ORS 250.131 (2), the Supreme Court shall conduct a review under ORS 250.131 if a petition is filed not later than the date set by the Secretary of State by rule. [2019 c.674 §2]
+
+      Sec. 3. (1) The Secretary of State shall cause to be printed in the voters’ pamphlet the number, ballot title and text of a measure described in section 1 or 2 of this 2019 Act and the financial estimate, explanatory statement and arguments relating to the measure. The Secretary of State shall also cause to be printed in the voters’ pamphlet any other information required by law. Notwithstanding ORS 251.026, the Secretary of State shall include in the voters’ pamphlet the statements or information described in ORS 251.026 that the Secretary of State considers applicable or relevant to the conduct of the election on a measure described in section 2 of this 2019 Act.
+
+      (2) For purposes of sections 1 to 8 of this 2019 Act, the election referred to in ORS 251.295:
+
+      (a) Is the general election, for a measure described in section 1 of this 2019 Act; and
+
+      (b) Is the special election held on the date specified in section 2 (1) of this 2019 Act, for a measure described in section 2 (1) of this 2019 Act.
+
+      (3) If the measure described in section 2 (1) of this 2019 Act is referred to the people by petition under Article IV, section 1 (3)(b), of the Oregon Constitution:
+
+      (a) Notwithstanding ORS 251.285 and subject to ORS 251.008, the measure referred to in this subsection shall be the only measure included in the voters’ pamphlet prepared for the special election held on January 21, 2020.
+
+      (b) Not later than the 10th day before the election, the Secretary of State shall cause the voters’ pamphlet to be mailed to each post-office mailing address in Oregon and may use any additional means of distribution necessary to make the pamphlet available to electors.
+
+      (c) In preparing the voters’ pamphlet for the special election to be held on January 21, 2020, the Secretary of State is not required to comply with ORS chapter 279B relating to competitive bidding. [2019 c.674 §3]
+
+      Sec. 4. (1) Notwithstanding the deadline specified in ORS 254.085, the Secretary of State shall prepare and deliver to each county clerk by the most expeditious means practicable a certified statement of a measure described in section 1 or 2 of this 2019 Act. The Secretary of State shall include with the statement the number, financial estimate and ballot title of the measure and any other information required by law. The Secretary of State shall keep a copy of the statement.
+
+      (2) The county clerks shall print on the ballot the number, financial estimate and ballot title of the measure, along with any other information required by law. In lieu of printing the financial estimate, the summary portion of the ballot title or other information required by law on the ballot, a county clerk may include with the ballot the complete text of the ballot title, the financial estimate and any other information required by law. [2019 c.674 §4]
+
+      Sec. 5. Notwithstanding ORS 250.085:
+
+      (1) Any elector dissatisfied with the ballot title for a measure described in section 1 or 2 of this 2019 Act prepared by the joint legislative committee appointed under section 7 of this 2019 Act may petition the Supreme Court seeking a different ballot title. The petition shall state the reasons that the ballot title filed with the Secretary of State does not substantially comply with the requirements of ORS 250.035 and section 1 or 2 of this 2019 Act.
+
+      (2) The petition shall name the Attorney General as the respondent and must be filed not later than the fifth business day after the joint legislative committee files the ballot title with the Secretary of State.
+
+      (3) An elector filing a petition under this section shall notify the Secretary of State in writing that the petition has been filed. The notice must be received in the office of the Secretary of State not later than 5 p.m. on the next business day following the day the petition is filed.
+
+      (4) The Supreme Court shall review the ballot title for substantial compliance with the requirements of ORS 250.035 and section 1 or 2 of this 2019 Act.
+
+      (5) The review by the Supreme Court shall be conducted expeditiously to ensure the orderly and timely conduct of the election at which the measure is to be submitted to the electors.
+
+      (6) If the Supreme Court determines that the ballot title prepared by the joint legislative committee substantially complies with the requirements of ORS 250.035 and section 1 or 2 of this 2019 Act, the court shall certify the ballot title to the Secretary of State. If the Supreme Court determines that the ballot title prepared by the joint legislative committee does not substantially comply with the requirements of ORS 250.035 and section 1 or 2 of this 2019 Act, the court shall modify the ballot title and certify the ballot title to the Secretary of State or refer the ballot title to the Attorney General for modification.
+
+      (7) Not later than five business days after the Supreme Court refers a ballot title to the Attorney General for modification under this section, the Attorney General shall certify a modified ballot title to the Secretary of State. The modified ballot title is not subject to judicial review. [2019 c.674 §5]
+
+      Sec. 6. Notwithstanding ORS 251.235:
+
+      (1) Any person dissatisfied with the explanatory statement for a measure described in section 1 or 2 of this 2019 Act prepared by the joint legislative committee appointed under section 7 of this 2019 Act may petition the Supreme Court seeking a different explanatory statement and stating the reasons the explanatory statement filed with the court is insufficient or unclear.
+
+      (2) The court shall review the explanatory statement and certify an explanatory statement to the Secretary of State if the petition is filed and served as required in subsection (4) of this section not later than the fifth business day after the joint legislative committee files the explanatory statement with the Secretary of State.
+
+      (3) Failure to file and serve the petition within the time prescribed in subsection (2) of this section precludes Supreme Court review and certification of an explanatory statement. If the court considers the petition, the court may allow oral argument. The review by the Supreme Court shall be conducted expeditiously to ensure the orderly and timely conduct of the election at which the measure is to be submitted to the electors. The explanatory statement certified by the court shall be the explanatory statement printed in the voters’ pamphlet.
+
+      (4) At the time a person petitions the Supreme Court under subsection (1) of this section, the person also shall serve a copy of the petition on:
+
+      (a) The Attorney General;
+
+      (b) The Legislative Assembly; and
+
+      (c) The chief petitioners of the measure. [2019 c.674 §6]
+
+      Sec. 7. (1) For each measure described in section 1 or 2 of this 2019 Act, a joint legislative committee consisting of three Senators and three Representatives shall be appointed to prepare and file with the Secretary of State the ballot title and explanatory statement for the measure.
+
+      (2)(a) The President of the Senate shall appoint three members of a committee from among members of the Senate, two from the majority party and one from the minority party.
+
+      (b) The Speaker of the House of Representatives shall appoint three members of a committee from among members of the House of Representatives, two from the majority party and one from the minority party. [2019 c.674 §7]
+
+      Sec. 8. The Secretary of State shall adopt rules governing the procedures for conducting an election on a measure described in section 2 of this 2019 Act as may be necessary to implement sections 2 to 8 of this 2019 Act. Rules adopted under this section may not require the joint legislative committee appointed under section 7 of this 2019 Act to:
+
+      (1) Prepare or make publicly available a draft ballot title; or
+
+      (2) File a ballot title with the Secretary of State before the 91st day after the 2019 regular session of the Eightieth Legislative Assembly adjourns sine die. [2019 c.674 §8]
 
  
 
@@ -787,7 +919,7 @@ STATE MEASURES
 
  
 
-      250.125 Estimate of financial impact of state measures; financial estimate committee; application to Native American or American Indian tribal governments. (1) When a state measure involves expenditure of public moneys by the state, reduction of expenditure of public moneys by the state, reduction of state revenues or raising of funds by the state by imposing any tax or incurring any indebtedness, the financial estimate committee created under this section shall estimate:
+      250.125 Estimate of financial impact of state measures; financial estimate committee; application to Native American or American Indian tribal governments; notice in voters’ pamphlet if no funding source identified. (1) When a state measure involves expenditure of public moneys by the state, reduction of expenditure of public moneys by the state, reduction of state revenues or raising of funds by the state by imposing any tax or incurring any indebtedness, the financial estimate committee created under this section shall estimate:
 
       (a) The amount of direct expenditure, direct reduction of expenditure, direct reduction in state revenues, direct tax revenue or indebtedness and interest that will be required to meet the provisions of the measure if it is enacted; and
 
@@ -811,29 +943,31 @@ STATE MEASURES
 
       (6) If the financial estimate committee determines that the measure will have no financial effect on state, local or tribal government expenditures, revenues or indebtedness or that the financial effect on state, local or tribal government expenditures, revenues or indebtedness will not exceed $100,000, the committee shall prepare and file with the Secretary of State a statement declaring that the measure will have no financial effect or that the financial effect will not exceed $100,000. The statement shall be printed in the voters’ pamphlet and on the ballot.
 
-      (7) In addition to the estimates described in subsections (1) to (3) of this section, if the financial estimate committee considers it necessary, the committee may prepare and file with the Secretary of State an impartial, simple and understandable statement explaining the financial effects of the measure. The statement may not exceed 500 words. The statement shall be printed in the voters’ pamphlet with the measure to which it relates.
+      (7) If the financial estimate committee determines that the measure will have a financial effect on state, local or tribal government expenditures in excess of $100,000 and that the measure does not include a dedicated funding source to pay for the new expenditures required, the committee shall prepare and file with the Secretary of State the statement “MEASURE SPENDS MONEY WITHOUT IDENTIFYING A FUNDING SOURCE.” A statement prepared under this subsection shall be printed in bold in the voters’ pamphlet immediately following the printing of the estimates described in subsections (1) to (3) of this section.
 
-      (8) The Legislative Policy and Research Committee shall provide any administrative staff assistance required by the financial estimate committee to facilitate the work of the financial estimate committee under this section or ORS 250.127.
+      (8) In addition to the estimates described in subsections (1) to (3) of this section, if the financial estimate committee considers it necessary, the committee may prepare and file with the Secretary of State an impartial, simple and understandable statement explaining the financial effects of the measure. The statement may not exceed 500 words. The statement shall be printed in the voters’ pamphlet with the measure to which it relates.
 
-      (9) The financial estimate committee is created, consisting of the Secretary of State, the State Treasurer, the Director of the Oregon Department of Administrative Services, the Director of the Department of Revenue and a representative of a city, county or district with expertise in local government finance. The representative of a city, county or district shall be selected by the four other members of the financial estimate committee and shall serve for a term of two years that begins on March 1 of the odd-numbered year. [Formerly 254.180; 1987 c.724 §6; 1991 c.971 §1; 1993 c.493 §15; 1999 c.844 §1; 2005 c.633 §1; 2013 c.47 §1; 2016 c.88 §11]
+      (9) The Legislative Policy and Research Committee shall provide any administrative staff assistance required by the financial estimate committee to facilitate the work of the financial estimate committee under this section or ORS 250.127.
+
+      (10) The financial estimate committee is created, consisting of the Secretary of State, the State Treasurer, the Director of the Oregon Department of Administrative Services, the Director of the Department of Revenue and a representative of a city, county or district with expertise in local government finance. The representative of a city, county or district shall be selected by the four other members of the financial estimate committee and shall serve for a term of two years that begins on March 1 of the odd-numbered year. [Formerly 254.180; 1987 c.724 §6; 1991 c.971 §1; 1993 c.493 §15; 1999 c.844 §1; 2005 c.633 §1; 2013 c.47 §1; 2016 c.88 §11; 2019 c.603 §1]
 
  
 
-      250.127 Preparation and filing of estimates and statements of financial impact of state measure. (1) Not later than the 99th day before a special election held on the date of a primary election or any general election at which any state measure is to be submitted to the people, the financial estimate committee created under ORS 250.125 shall prepare and electronically file with the Secretary of State the estimates described in ORS 250.125 and, if the committee considers it necessary, a statement explaining the financial effects of the measure as described in ORS 250.125 (7). The financial estimate committee may begin preparation of the estimates and statement on the date that a petition is accepted for verification of signatures under ORS 250.105 or the date that a measure referred by the Legislative Assembly is filed with the Secretary of State, whichever is applicable.
+      250.127 Preparation and filing of estimates and statements of financial impact of state measure. (1) Not later than the 99th day before a special election held on the date of a primary election or any general election at which any state measure is to be submitted to the people, the financial estimate committee created under ORS 250.125 shall prepare and electronically file with the Secretary of State the estimates described in ORS 250.125 and, if the committee considers it necessary, statements explaining the financial effects of the measure as described in ORS 250.125 (7) and (8). The financial estimate committee may begin preparation of the estimates and statements on the date that a petition is accepted for verification of signatures under ORS 250.105 or the date that a measure referred by the Legislative Assembly is filed with the Secretary of State, whichever is applicable.
 
-      (2) Not later than the 95th day before the election, the Secretary of State shall hold a hearing in Salem upon reasonable statewide notice to receive suggested changes to the estimates or statement or to receive other information. At the hearing any person may submit suggested changes or other information orally or in writing. Written suggestions or other information also may be submitted at any time before the hearing.
+      (2) Not later than the 95th day before the election, the Secretary of State shall hold a hearing in Salem upon reasonable statewide notice to receive suggested changes to the estimates or statements or to receive other information. At the hearing any person may submit suggested changes or other information orally or in writing. Written suggestions or other information also may be submitted at any time before the hearing.
 
-      (3) The financial estimate committee shall consider suggestions and any other information submitted under subsection (2) of this section, and may file revised estimates or a revised statement with the Secretary of State not later than the 90th day before the election.
+      (3) The financial estimate committee shall consider suggestions and any other information submitted under subsection (2) of this section, and may file revised estimates or statements with the Secretary of State not later than the 90th day before the election.
 
-      (4) Except as provided in subsection (5) of this section, the original estimates and statement and any revised estimates or statement shall be approved by a majority of the members of the financial estimate committee. If a member does not concur, the estimates or statement shall show only that the member dissents. The Secretary of State shall certify final estimates and a final statement not later than the 90th day before the election at which the measure is to be voted upon. All estimates and statements prepared under ORS 250.125 and this section shall be made available to the public.
+      (4) Except as provided in subsection (5) of this section, the original estimates and statements and any revised estimates or statements shall be approved by a majority of the members of the financial estimate committee. If a member does not concur, the estimates or statements shall show only that the member dissents. The Secretary of State shall certify final estimates and statements not later than the 90th day before the election at which the measure is to be voted upon. All estimates and statements prepared under ORS 250.125 and this section shall be made available to the public.
 
-      (5) If a majority of the members of the financial estimate committee do not approve the estimates or statement, the Secretary of State alone shall prepare, file and certify the estimates or statement not later than the 88th day before the election at which the measure is to be voted upon with the data upon which the estimates or statement is based.
+      (5) If a majority of the members of the financial estimate committee do not approve the estimates or statements, the Secretary of State alone shall prepare, file and certify the estimates or statements not later than the 88th day before the election at which the measure is to be voted upon with the data upon which the estimates or statements are based.
 
-      (6) The support or opposition of any member of the financial estimate committee to the original or revised estimates or statement shall be indicated in the minutes of any meeting of the committee. Meetings of the financial estimate committee shall be open to the public. Designees of the members of the financial estimate committee may attend any meetings of the committee in the place of the members, but the designees may not vote to approve or oppose any estimates or statement.
+      (6) The support or opposition of any member of the financial estimate committee to the original or revised estimates or statements shall be indicated in the minutes of any meeting of the committee. Meetings of the financial estimate committee shall be open to the public. Designees of the members of the financial estimate committee may attend any meetings of the committee in the place of the members, but the designees may not vote to approve or oppose any estimates or statements.
 
-      (7) A failure to prepare, file or certify estimates or a statement under ORS 250.125, this section or ORS 250.131 does not prevent the inclusion of the measure in the voters’ pamphlet or placement of the measure on the ballot.
+      (7) A failure to prepare, file or certify estimates or statements under ORS 250.125, this section or ORS 250.131 does not prevent the inclusion of the measure in the voters’ pamphlet or placement of the measure on the ballot.
 
-      (8) If the estimates are not delivered to the county clerk by the 61st day before the election, the county clerk may proceed with the printing of ballots. The county clerk is not required to reprint ballots to include the estimates or to provide supplemental information that includes the estimates. [1991 c.971 §3; 1993 c.493 §16; 1995 c.712 §33; 1999 c.318 §19; 2001 c.965 §8; 2005 c.633 §2; 2011 c.646 §1; 2013 c.47 §2]
+      (8) If the estimates are not delivered to the county clerk by the 61st day before the election, the county clerk may proceed with the printing of ballots. The county clerk is not required to reprint ballots to include the estimates or to provide supplemental information that includes the estimates. [1991 c.971 §3; 1993 c.493 §16; 1995 c.712 §33; 1999 c.318 §19; 2001 c.965 §8; 2005 c.633 §2; 2011 c.646 §1; 2013 c.47 §2; 2019 c.603 §2]
 
  
 
@@ -1197,8 +1331,6 @@ COUNTY MEASURES
 
       250.226 [1979 c.190 §160; repealed by 1987 c.724 §7]
 
- 
-
       250.230 [Amended by 1957 c.608 §136; 1979 c.190 §227; 1979 c.317 §9; renumbered 254.035]
 
  
@@ -1309,8 +1441,6 @@ CITY MEASURES
 
       (2) A petition to initiate a city measure must be signed by not less than 15 percent of the electors registered in the city at the time the prospective petition is filed. [1979 c.190 §167; 1983 c.350 §67; 1989 c.251 §1]
 
- 
-
       250.310 [Amended by 1955 c.726 §1; 1957 c.608 §137; 1959 c.317 §3; 1961 c.114 §11; repealed by 1979 c.190 §431]
 
  
@@ -1342,8 +1472,6 @@ CITY MEASURES
  
 
       250.335 [1979 c.190 §170; repealed by 1987 c.724 §7]
-
- 
 
       250.340 [Amended by 1957 c.608 §139; 1979 c.190 §255; renumbered 254.325]
 
@@ -1390,8 +1518,6 @@ CITY MEASURES
  
 
       250.400 [Amended by 1957 c.608 §141; 1977 c.508 §8; 1979 c.190 §265; renumbered 254.425]
-
- 
 
       250.410 [Amended by 1957 c.608 §142; 1979 c.190 §45; renumbered 247.035]
 
@@ -1554,8 +1680,6 @@ CITY MEASURES
  
 
       250.820 [Amended by 1957 c.608 §162; repealed by 1979 c.190 §431]
-
- 
 
       250.830 [Amended by 1957 c.608 §163; 1979 c.519 §22; repealed by 1979 c.190 §431]
 

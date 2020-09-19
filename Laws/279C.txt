@@ -9,6 +9,8 @@ Chapter 279C — Public Contracting - Public Improvements and Related Contracts
 
  
 
+ 
+
 PUBLIC CONTRACTING - PUBLIC IMPROVEMENTS
 
  
@@ -45,7 +47,7 @@ ARCHITECTURAL, ENGINEERING, PHOTOGRAMMETRIC MAPPING, TRANSPORTATION PLANNING, LA
 
  
 
-279C.110  Selection procedure for consultants to provide services; compensation; applicability
+279C.110  Selection procedures for consultants to provide services; use of pricing proposals; compensation; protests; applicability; rules
 
  
 
@@ -58,14 +60,6 @@ ARCHITECTURAL, ENGINEERING, PHOTOGRAMMETRIC MAPPING, TRANSPORTATION PLANNING, LA
  
 
 279C.125  Architectural, engineering, photogrammetric mapping, transportation planning and land surveying services selection process for local public improvements procured through state agency; rules
-
- 
-
-PROMPT PAYMENT PILOT PROGRAM
-
- 
-
-(Temporary provisions for pilot program for prompt payment for contracts for architectural, engineering, photogrammetric mapping, transportation planning and land surveying services are compiled as notes following ORS 279C.125)
 
  
 
@@ -277,7 +271,7 @@ CONSTRUCTION CONTRACTS GENERALLY
 
  
 
-279C.527  Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; exemptions and limitations
+279C.527  Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; conditions, exemptions and limitations; rules
 
  
 
@@ -298,6 +292,10 @@ CONSTRUCTION CONTRACTS GENERALLY
  
 
 279C.535  Condition concerning steel material; rules
+
+ 
+
+279C.537  Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules
 
  
 
@@ -555,15 +553,15 @@ ARCHITECTURAL, ENGINEERING, PHOTOGRAMMETRIC MAPPING, TRANSPORTATION PLANNING, LA
 
  
 
-      279C.110 Selection procedure for consultants to provide services; compensation; applicability. (1) A contracting agency shall select consultants to provide architectural, engineering, photogrammetric mapping, transportation planning or land surveying services on the basis of the consultant’s qualifications for the type of professional service required. A contracting agency may solicit or use pricing policies and proposals or other pricing information, including the number of hours proposed for the service required, expenses, hourly rates and overhead, to determine consultant compensation only after the contracting agency has selected a candidate pursuant to subsection (2) of this section.
+      279C.110 Selection procedures for consultants to provide services; use of pricing proposals; compensation; protests; applicability; rules. (1) A contracting agency shall select a consultant to provide architectural, engineering, photogrammetric mapping, transportation planning or land surveying services on the basis of the consultant’s qualifications for the type of professional service required. A contracting agency may solicit or use pricing policies and proposals or other pricing information, including the number of hours proposed for the service required, expenses, hourly rates and overhead, to determine consultant compensation only after the contracting agency has selected a consultant.
 
-      (2) Subject to the requirements of subsection (1) of this section, the procedures that a contracting agency creates to screen and select consultants and to select a candidate under this section are at the contracting agency’s sole discretion. The contracting agency may adjust the procedures to accommodate the contracting agency’s scope, schedule or objectives for a particular project if the estimated cost of the architectural, engineering, photogrammetric mapping, transportation planning or land surveying services for the project does not exceed $250,000.
+      (2) Subject to the requirements of subsection (1) of this section, the procedures that a contracting agency creates to screen prospective consultants and make a selection are at the contracting agency’s sole discretion. The contracting agency may adjust the procedures to accommodate the contracting agency’s scope, schedule or objectives for a particular project if the estimated cost of the architectural, engineering, photogrammetric mapping, transportation planning or land surveying services for the project does not exceed $250,000.
 
-      (3) A contracting agency’s screening and selection procedures under this section, regardless of the estimated cost of the architectural, engineering, photogrammetric mapping, transportation planning or land surveying services for a project, may include considering each candidate’s:
+      (3) A contracting agency’s screening and selection procedures under this section, regardless of the estimated cost of the architectural, engineering, photogrammetric mapping, transportation planning or land surveying services for a project, may include considering each prospective consultant’s:
 
-      (a) Specialized experience, capabilities and technical competence, which the candidate may demonstrate with the candidate’s proposed approach and methodology to meet the project requirements;
+      (a) Specialized experience, capabilities and technical competence, which the prospective consultant may demonstrate with the prospective consultant’s proposed approach and methodology to meet the project requirements;
 
-      (b) Resources committed to perform the work and the proportion of the time that the candidate’s staff would spend on the project, including time for specialized services, within the applicable time limits;
+      (b) Resources committed to perform the services and the proportion of the time that the prospective consultant’s staff would spend to perform services for the contracting agency, including time for specialized services, within the applicable time limits;
 
       (c) Record of past performance, including but not limited to price and cost data from previous projects, quality of work, ability to meet schedules, cost control and contract administration;
 
@@ -575,17 +573,61 @@ ARCHITECTURAL, ENGINEERING, PHOTOGRAMMETRIC MAPPING, TRANSPORTATION PLANNING, LA
 
       (g) Proposed project management techniques.
 
-      (4) If the screening and selection procedures a contracting agency creates under subsection (2) of this section result in the contracting agency’s determination that two or more candidates are equally qualified, the contracting agency may select a candidate through any process the contracting agency adopts that is not based on the candidate’s pricing policies, proposals or other pricing information.
+      (4) If the screening and selection procedures a contracting agency follows under this section or creates under subsection (2) of this section result in the contracting agency’s determination that two or more prospective consultants are equally qualified, the contracting agency may use any process to select a consultant that is not based on the prospective consultant’s pricing policies, proposals or other pricing information.
 
-      (5) The contracting agency and the selected candidate shall mutually discuss and refine the scope of services for the project and shall negotiate conditions, including but not limited to compensation level and performance schedule, based on the scope of services. The compensation level paid must be reasonable and fair to the contracting agency as determined solely by the contracting agency. Authority to negotiate a contract under this section does not supersede any provision of ORS 279A.140 or 279C.520.
+      (5) Notwithstanding the requirement in subsection (1) of this section that a contracting agency may not solicit or use pricing policies, proposals or other pricing information until after the contracting agency has selected a consultant, a local contracting agency may use pricing policies, proposals or other pricing information as part of the local contracting agency’s screening and selection of prospective consultants if the local contracting agency:
 
-      (6) If the contracting agency and the selected candidate are unable for any reason to negotiate a contract at a compensation level that is reasonable and fair to the contracting agency, the contracting agency shall, either orally or in writing, formally terminate negotiations with the selected candidate. The contracting agency may then negotiate with the next most qualified candidate. The negotiation process may continue in this manner through successive candidates until an agreement is reached or the contracting agency terminates the consultant contracting process.
+      (a) States in solicitation documents for the procurement:
 
-      (7) It is the goal of this state to promote a sustainable economy in the rural areas of the state. In order to monitor progress toward this goal, a state contracting agency shall keep a record of the locations in which architectural, engineering, photogrammetric mapping, transportation planning or land surveying services contracts and related services contracts are performed throughout the state, the locations of the selected consultants and the direct expenses on each contract. This record must include the total number of contracts awarded to each consultant firm over a 10-year period. The record of direct expenses must include all personnel travel expenses as a separate and identifiable expense on the contract. Upon request, the state contracting agency shall make these records available to the public.
+      (A) That the local contracting agency will screen and select prospective consultants as provided in this subsection;
 
-      (8) Notwithstanding the provisions of subsection (1) of this section, a contracting agency may directly appoint a consultant if the estimated cost of the architectural, engineering, photogrammetric mapping, transportation planning or land surveying services for the project does not exceed $100,000.
+      (B) How the local contracting agency will rank proposals from prospective consultants, with a specific focus on:
 
-      (9) Notwithstanding the provisions of subsections (1) and (8) of this section, a contracting agency may directly appoint a consultant for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services in an emergency. [2003 c.794 §91; 2003 c.794 §92; 2005 c.509 §§1,3; 2011 c.458 §4; 2015 c.565 §15]
+      (i) Which factors the local contracting agency will consider in evaluating proposals, including pricing policies, proposals or other pricing information, if the local contracting agency will use pricing policies, proposals or other pricing information in the evaluation; and
+
+      (ii) The relative weight the local contracting agency will give each factor, disclosing at a minimum the number of available points for each factor, the percentage each factor comprises in the total evaluation score and any other weighting criteria the local contracting agency intends to use;
+
+      (C) An estimate of the cost of professional services the local contracting agency requires for the procurement; and
+
+      (D) A scope of work that is sufficiently detailed to enable a prospective consultant to prepare a responsive proposal.
+
+      (b) Evaluates each prospective consultant on the basis of the prospective consultant’s qualifications to perform the professional services the local contracting agency requires for the procurement. The local contracting agency may use the criteria set forth in subsection (3) of this section to conduct the evaluation.
+
+      (c) Announces the evaluation scores and rank for each prospective consultant after completing the evaluation described in paragraph (b) of this subsection. The local contracting agency may determine that as many as three of the top-ranked prospective consultants are qualified to perform the professional services the local contracting agency requires for the procurement and may request a pricing proposal for the scope of work stated in paragraph (a)(D) of this subsection from each of the top-ranked consultants. The pricing proposal:
+
+      (A) Must consist of:
+
+      (i) A schedule of hourly rates that the prospective consultant will charge for the work of each individual or each labor classification that will perform the professional services the local contracting agency requires for the procurement, in the form of an offer that is irrevocable for not less than 90 days after the date of the proposal; and
+
+      (ii) A reasonable estimate of hours that the prospective consultant will require to perform the professional services the local contracting agency requires for the procurement; and
+
+      (B) May include, at the local contracting agency’s request, additional pricing information that is limited to:
+
+      (i) A description of each task that the prospective consultant understands as comprising the professional services;
+
+      (ii) A list of each individual or labor classification that will perform each task, together with the hourly rate that applies to the individual or labor classification; and
+
+      (iii) A list of expenses, including travel expenses, that the prospective consultant expects to incur in connection with providing the professional services.
+
+      (d) Permits a prospective consultant identified as qualified under paragraph (c) of this subsection to withdraw from consideration for the procurement if the prospective consultant does not wish to provide a price proposal.
+
+      (e) Completes the evaluation and selects a consultant from among the top-ranked prospective consultants that have not withdrawn as provided under paragraph (d) of this subsection, giving not more than 15 percent of the weight in the evaluation to each prospective consultant’s price proposal.
+
+      (6) The contracting agency and the consultant that the contracting agency selects shall mutually discuss, refine and finalize the scope of, the rates and number of hours applicable to, and the maximum compensation level for the professional services and shall negotiate conditions including, but not limited to, a performance schedule for the project. The contracting agency may not pay a compensation level that exceeds a level that the contracting agency alone determines is fair and reasonable to the contracting agency. Authority to negotiate a contract under this section does not supersede any provision of ORS 279A.140 or 279C.520.
+
+      (7) If the contracting agency and a consultant that the contracting agency selected are unable for any reason to negotiate a contract at a compensation level that is reasonable and fair to the contracting agency, the contracting agency shall, either orally or in writing, formally terminate negotiations with the selected consultant. The contracting agency may then negotiate with the next most qualified prospective consultant. The contracting agency may continue in this manner through successive prospective consultants until an agreement is reached or the contracting agency terminates the selection process.
+
+      (8) A prospective consultant has a right to protest the contents of a contracting agency’s solicitation documents and the contracting agency’s selection of a consultant in accordance with:
+
+      (a) Protest procedures in model rules the Attorney General adopts under ORS 279A.065; or
+
+      (b) Protest procedures the contracting agency must set forth in rules that the contracting agency adopts, if the contracting agency adopts rules under ORS 279A.065 (6).
+
+      (9) A goal of this state is to promote a sustainable economy in the rural areas of this state. In order to monitor progress toward this goal, a state contracting agency shall keep a record of the locations in which architectural, engineering, photogrammetric mapping, transportation planning or land surveying services contracts and related services contracts are performed throughout this state, the locations of the selected consultants and the direct expenses of each contract. This record must include the total number of contracts awarded to each consultant over a 10-year period. The record of direct expenses must include all personnel travel expenses as a separate and identifiable expense of the contract. Upon request, the state contracting agency shall make these records available to the public.
+
+      (10) Notwithstanding the provisions of subsection (1) of this section, a contracting agency may directly appoint a consultant if the estimated cost of the architectural, engineering, photogrammetric mapping, transportation planning or land surveying services for the project does not exceed $100,000.
+
+      (11) Notwithstanding the provisions of subsections (1) and (10) of this section, a contracting agency may directly appoint a consultant for architectural, engineering, photogrammetric mapping, transportation planning or land surveying services in an emergency. [2003 c.794 §91; 2003 c.794 §92; 2005 c.509 §§1,3; 2011 c.458 §4; 2015 c.565 §15; 2019 c.55 §1]
 
  
 
@@ -620,54 +662,6 @@ ARCHITECTURAL, ENGINEERING, PHOTOGRAMMETRIC MAPPING, TRANSPORTATION PLANNING, LA
       (3) The local government is responsible for the final selection of the consultant from the list of qualified consultants selected by the lead state contracting agency or through an alternative process adopted by the local government.
 
       (4) Nothing in this section applies to the selection process used by a local contracting agency when the contracting agency executes a contract directly with architects, engineers, photogrammetrists, transportation planners or land surveyors. [2003 c.794 §96; 2011 c.458 §6]
-
- 
-
-PROMPT PAYMENT PILOT PROGRAM
-
- 
-
-      Note: Sections 1 to 4, chapter 216, Oregon Laws 2017, provide:
-
-      Sec. 1. (1) The Department of Transportation shall conduct a pilot program on the prompt payment of certain contracts as described in this section.
-
-      (2) When the department receives an invoice or other demand for payment for qualified services from a contractor that is a small business, the department shall pay the invoice or demand within 15 days after the later of:
-
-      (a) The date the department receives the invoice or demand; or
-
-      (b) The date that payment is due on the invoice or demand.
-
-      (3) Subsection (2) of this section applies only if the contractor certifies to the department that the contractor is a small business in accordance with this subsection. A certification under this subsection must:
-
-      (a) State the number of employees currently employed by the contractor;
-
-      (b) Be in writing, signed and dated; and
-
-      (c) Be transmitted to the department as an attachment to the invoice or demand.
-
-      (4) Subsection (2) of this section applies only to amounts due for services completed and accepted under the terms of the applicable contract.
-
-      (5) Subsection (2) of this section applies only to invoices or demands that are:
-
-      (a) Pursuant to contracts executed on or after January 1, 2018; and
-
-      (b) Received by the department before June 30, 2019.
-
-      (6) If the department does not timely pay amounts due to a contractor as required by subsection (2) of this section, the department shall pay interest to the contractor at the rate of 1.5 percent per month on any amounts not timely paid.
-
-      (7) Nothing in this section affects the contractual rights or obligations of any party.
-
-      (8) As used in this section:
-
-      (a) “Qualified services” means architectural, engineering, photogrammetric mapping, transportation planning or land surveying services or related services, as those terms are defined in ORS 279C.100.
-
-      (b) “Small business” means a business that employs not more than 50 employees. [2017 c.216 §1]
-
-      Sec. 2. A person who knowingly supplies false information to the Department of Transportation in connection with a certification under section 1 (3) of this 2017 Act commits a Class A misdemeanor. [2017 c.216 §2]
-
-      Sec. 3. No later than March 31, 2019, the Department of Transportation shall report to the Legislative Assembly in the manner provided under ORS 192.245 on the results of the pilot program described in section 1 of this 2017 Act. [2017 c.216 §3]
-
-      Sec. 4. Sections 1 to 3 of this 2017 Act are repealed on January 2, 2020. [2017 c.216 §4]
 
  
 
@@ -1207,8 +1201,6 @@ PROCUREMENT OF CONSTRUCTION SERVICES
 
 ______________________________________________________________________________
 
- 
-
 FIRST-TIER SUBCONTRACTOR
 
 DISCLOSURE FORM
@@ -1233,25 +1225,25 @@ List below the name of each subcontractor that will be furnishing labor or will 
 
  
 
-                        DOLLAR       CATEGORY
+      DOLLAR CATEGORY
 
-NAME             VALUE          OF WORK
+NAME VALUE          OF WORK
 
-1)________     $______          ________
+      1)________           $          ______            ________
 
-_________      ______          ________
+_________      ______            ________
 
-2)________     $______          ________
+      2)________           $          ______            ________
 
-_________      ______          ________
+_________      ______            ________
 
-3)________     $______          ________
+3)________     $          ______            ________
 
-_________      ______          ________
+_________      ______            ________
 
-4)________     $______          ________
+4)________     $          ______            ________
 
-_________      ______          ________
+_________      ______            ________
 
  
 
@@ -1270,8 +1262,6 @@ Contact name: _________________
 Phone no.: _________________
 
 ______________________________________________________________________________
-
- 
 
       (3) A contracting agency shall accept the subcontractor disclosure. The contracting agency shall consider the bid of any contractor that does not submit a subcontractor disclosure to the contracting agency to be a nonresponsive bid and may not award the contract to the contractor. A contracting agency is not required to determine the accuracy or the completeness of the subcontractor disclosure.
 
@@ -1459,11 +1449,7 @@ Construction Contractors Board within 30 days after the date of contract award.)
 
       (Attach documentation if the contracting agency finds the bidder not to be responsible.)
 
- 
-
 ______________________________________________________________________________
-
- 
 
       (d) Submit the form described in paragraph (c) of this subsection, with any attachments, to the Construction Contractors Board within 30 days after the date the contracting agency awards the contract.
 
@@ -1879,13 +1865,15 @@ CONSTRUCTION CONTRACTS GENERALLY
 
  
 
-      279C.527 Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; exemptions and limitations. (1) As used in this section and ORS 279C.528:
+      279C.527 Inclusion of amount for green energy technology or woody biomass energy technology in public improvement contract; written determination of appropriateness; conditions, exemptions and limitations; rules. (1) As used in this section and ORS 279C.528:
 
       (a)(A) “Green energy technology” means a system that employs:
 
-      (i) Solar or geothermal energy directly for space or water heating or to generate electricity; or
+      (i) Solar or geothermal energy directly for space or water heating or to generate electricity;
 
-      (ii) Building design that uses solar energy passively to reduce energy use from other sources by at least 20 percent from a level required under ORS 276.900 to 276.915 or achieved in buildings constructed according to state building code standards that the Department of Consumer and Business Services approves under ORS 455.496.
+      (ii) Building design that uses solar energy passively to reduce energy use from other sources by at least 10 percent from a level required under ORS 276.900 to 276.915 or achieved in buildings constructed according to state building code standards that the Department of Consumer and Business Services approves under ORS 455.496; or
+
+      (iii) Battery storage, if the battery storage is part of a system that generates electricity from solar or geothermal energy on the site of the public building.
 
       (B) “Green energy technology” does not include a system that:
 
@@ -1893,13 +1881,35 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       (ii) Incorporates solar energy indirectly into other methods for generating energy, such as from the action of waves on water, from hydroelectric facilities or from wind-powered turbines.
 
-      (b) “Public building” means a building that a public body, as defined in ORS 174.109, owns or controls, and that is:
+      (b)(A) “Public building” means a building that a public body, as defined in ORS 174.109, owns or controls, and that is:
 
-      (A) Used or occupied by employees of the public body; or
+      (i) Used or occupied by employees of the public body; or
 
-      (B) Used for conducting public business.
+      (ii) Used for conducting public business.
 
-      (c)(A) “Woody biomass energy technology” means a system that, for space or water heating or as a combined heat and power system, uses a boiler with a lower heating value combustion efficiency of at least 80 percent and that uses as fuel material from trees and woody plants, such as limbs, tops, needles, leaves and other woody parts, that:
+      (B) “Public building” does not include an airport, as defined in ORS 836.005.
+
+      (c)(A) “Total contract price” means all of the costs a contracting agency anticipates incurring in all contracts and subcontracts involved in constructing, reconstructing or performing a major renovation of a public building including design or architecture, engineering, transportation or environmental impact assessment and planning, construction management, labor, materials, land surveying and site preparation, demolition, hazardous material removal, required reinforcements or improvements to existing structures or appurtenant infrastructure, insurance, inspections and certifications and, except as provided in subparagraph (B) of this paragraph, other costs the contracting agency would not incur but for the construction, reconstruction or major renovation of the public building.
+
+      (B) “Total contract price” does not include:
+
+      (i) Costs of advertising, soliciting, evaluating bids or proposals for or awarding a public contract;
+
+      (ii) Costs of moving contracting agency employees, equipment and furnishings from and to a public building;
+
+      (iii) Costs of locating, renting or leasing and preparing to occupy alternative facilities;
+
+      (iv) Ordinary operating costs for a public building during periods of reconstruction or renovation;
+
+      (v) Costs of storing equipment or furnishings at a site away from a public building;
+
+      (vi) Labor costs for employees of a contracting agency;
+
+      (vii) Direct costs that are solely for the purpose of retrofitting or improving a public building’s ability to withstand a seismic event; and
+
+      (viii) Costs that bear only a tenuous relationship to the construction, reconstruction or major renovation of a public building.
+
+      (d)(A) “Woody biomass energy technology” means a system that, for space or water heating or as a combined heat and power system, uses a boiler with a lower heating value combustion efficiency of at least 80 percent and that uses as fuel material from trees and woody plants, such as limbs, tops, needles, leaves and other woody parts, that:
 
       (i) Grows in a forest, a woodland, a farm, a rangeland or a wildland that borders on an urban area; and
 
@@ -1911,9 +1921,11 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       (ii) Municipal solid waste.
 
-      (2)(a) Except as otherwise provided in this section, a contracting agency that intends to enter into a public improvement contract for constructing a public building or for reconstructing or performing a major renovation of a public building, if the cost of the reconstruction or major renovation exceeds 50 percent of the value of the public building, shall first make a determination under subsection (3) of this section as to whether green energy technology is appropriate for the public building and, if the contracting agency determines that green energy technology is appropriate, shall ensure that the public improvement contract provides an amount equal to at least 1.5 percent of the total contract price for the purpose of including appropriate green energy technology as part of the construction, reconstruction or major renovation of the public building.
+      (2)(a) Except as otherwise provided in this section, a contracting agency that intends to enter into a public improvement contract with a total contract price of $5 million or more for constructing a public building or for reconstructing or performing a major renovation of a public building, if the cost of the reconstruction or major renovation exceeds 50 percent of the value of the public building, shall first make a determination under subsection (5) of this section as to whether green energy technology is appropriate for the public building.
 
-      (b) A public improvement contract to construct, reconstruct or renovate a public building may provide for constructing green energy technology at a site that is located away from the site of the public building if:
+      (b) If a contracting agency determines that green energy technology is appropriate, the contracting agency shall ensure that the public improvement contract provides an amount equal to at least 1.5 percent of the total contract price for the purpose of including appropriate green energy technology as part of the construction, reconstruction or major renovation of the public building.
+
+      (3)(a) A public improvement contract to construct, reconstruct or renovate a public building may provide for constructing green energy technology, other than battery storage, at a site that is located away from the site of the public building if:
 
       (A) Constructing green energy technology away from the site of the public building and using the energy from the green energy technology at the site of the public building is more cost-effective, taking into account additional costs associated with transmitting generated energy to the site of the public building, than is constructing and using green energy technology at the site of the public building;
 
@@ -1925,9 +1937,17 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       (ii) Employs geothermal energy and for which construction was completed before January 1, 2013.
 
-      (c) In evaluating whether a contracting agency can construct green energy technology at a site away from the site of the public building in accordance with paragraph (b)(A) of this subsection, the contracting agency shall compare the costs of constructing green energy technology that employs a particular fuel source or method of energy generation at the site of the public building only with the corresponding costs of green energy technology that employs the same fuel source or method of energy generation at a location away from the site of the public building.
+      (b) In evaluating whether a contracting agency can construct green energy technology, other than battery storage, at a site away from the site of the public building in accordance with paragraph (a)(A) of this subsection, the contracting agency shall compare the costs of constructing green energy technology that employs a particular fuel source or method of energy generation at the site of the public building only with the corresponding costs of green energy technology that employs the same fuel source or method of energy generation at a location away from the site of the public building.
 
-      (d)(A) As an alternative to including appropriate green energy technology as part of the construction, reconstruction or major renovation of a public building, a contracting agency may include woody biomass energy technology as part of constructing, reconstructing or performing a major renovation on the public building if the woody biomass energy technology creates new energy generation capacity that did not exist on the date on which the original building permit for the public building was issued, the contracting agency has considered the potential costs of the woody biomass energy technology and:
+      (4)(a) Of the amount that a contracting agency provides in a public improvement contract under subsection (2) of this section for the purpose of including green energy technology as part of the construction, reconstruction or major renovation of a public building, the contracting agency may expend as much as half or, if green energy technology is not appropriate for the public building, the entirety, as follows:
+
+      (A) If an analysis under subsection (5)(a)(B) of this section shows that the available total solar resource fraction at the site of the public building is 75 percent or less, the contracting agency may improve energy use efficiency in the public building by:
+
+      (i) Designing, engineering and constructing, reconstructing or renovating the public building to reduce or offset energy use in accordance with guidelines the State Department of Energy adopts by rule; or
+
+      (ii) Installing or preparing the public building for an installation of devices, technologies and other measures that reduce or offset energy use in accordance with guidelines the department adopts by rule.
+
+      (B) The contracting agency may include woody biomass energy technology as part of constructing, reconstructing or performing a major renovation on the public building if the woody biomass energy technology creates new energy generation capacity that did not exist on the date on which the original building permit for the public building was issued, the contracting agency has considered the potential costs of the woody biomass energy technology and:
 
       (i) The facility that uses woody biomass energy technology is located in an area of the state that complies with standards that the Department of Environmental Quality has adopted for emissions of particulate matter; or
 
@@ -1937,27 +1957,39 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       (II) The woody biomass energy technology produces particulate matter emissions at the same level as, or a lower level than, a functionally equivalent system that is capable of producing the same energy output and that uses fuel that is pelletized.
 
-      (B) Notwithstanding a contracting agency’s demonstrations in accordance with subparagraph (A)(ii) of this paragraph, the Department of Environmental Quality may require additional emissions control technologies or specifications before the contracting agency may include woody biomass energy technology in the construction, reconstruction or major renovation of a public building.
+      (b) Notwithstanding a contracting agency’s demonstrations in accordance with subparagraph (B)(ii) of this paragraph, the Department of Environmental Quality may require additional emissions control technologies or specifications before the contracting agency may include woody biomass energy technology in the construction, reconstruction or major renovation of a public building.
 
-      (3) In making a determination as to whether green energy technology is appropriate, or whether woody biomass energy technology is a suitable alternative to green energy technology, in constructing, reconstructing or performing a major renovation of a public building, a contracting agency shall list in the determination the total contract price and specify the amount the agency intends to expend on including green energy technology or woody biomass energy technology as part of the construction, reconstruction or major renovation. The State Department of Energy shall develop a form that a contracting agency may use to prepare the written determination described in this subsection.
+      (5)(a) In making a written determination as to whether green energy technology is appropriate, or whether an expenditure for a purpose described in subsection (4) of this section is suitable as an addition to or an alternative to including green energy technology in constructing, reconstructing or performing a major renovation of a public building, a contracting agency in the written determination shall:
 
-      (4)(a) If the contracting agency determines that green energy technology is not appropriate for the public building, subsection (2) of this section does not apply to the public improvement contract, except that if the contracting agency determines that woody biomass energy technology is a suitable alternative, the contracting agency will make the determination specified in subsection (3) of this section for the woody biomass energy technology. A contracting agency’s determination under this paragraph must consider whether constructing green energy technology or woody biomass energy technology at the site of the public building is appropriate and whether constructing green energy technology or woody biomass energy technology away from the site of the public building and in accordance with subsection (2)(b) and (c) of this section, or with subsection (2)(d) of this section, as applicable, is appropriate.
+      (A) List the total contract price and specify the amount the agency intends to expend on including green energy technology or for a purpose described in subsection (4) of this section as part of the construction, reconstruction or major renovation.
 
-      (b) If subsection (2) of this section does not apply to the public improvement contract:
+      (B) Show the results of an analysis of the total solar resource fraction available for use at the site on which the contracting agency intends to install green energy technology that uses solar energy for space or water heating or to generate electricity. The contracting agency may conclude that the green energy technology described in this subparagraph is appropriate if the total solar resource fraction exceeds 75 percent.
 
-      (A) The contracting agency shall spend an amount equal to at least 1.5 percent of the total contract price to include appropriate green energy technology or woody biomass energy technology as part of a future public building project; and
+      (b) The State Department of Energy shall develop a form that a contracting agency may use to prepare the written determination described in this subsection.
 
-      (B) The amount the contracting agency spends on the future public building project in accordance with subparagraph (A) of this paragraph is in addition to any amount required under subsection (2) of this section for including appropriate green energy technology or woody biomass energy technology as part of the future public building project.
+      (6)(a) If a contracting agency determines that green energy technology is not appropriate for a public building, subsection (2) of this section does not apply to the public improvement contract, except that if the contracting agency determines that an expenditure for a purpose described in subsection (4) of this section is a suitable alternative, the contracting agency will make the determination specified in subsection (5) of this section for the alternative purpose. A contracting agency’s determination under this paragraph must consider whether constructing green energy technology or making an expenditure for a purpose described in subsection (4) of this section at the site of the public building is appropriate and whether constructing green energy technology, other than battery storage, away from the site of the public building and in accordance with subsection (3)(a) and (b) of this section, or making an expenditure for a purpose described in subsection (4) of this section away from the site of the public building, is appropriate.
 
-      (5)(a) A contracting agency need not set aside the amount described in subsection (4)(b) of this section in an account or otherwise reserve moneys for a future public building at the time the contracting agency makes the determination described in subsection (3) of this section, but the contracting agency shall report the amount described in subsection (4)(b) of this section to the State Department of Energy as provided in ORS 279C.528 (2).
+      (b) If subsection (2) of this section does not apply to the public improvement contract and the contracting agency does not choose to make an expenditure for a purpose described in subsection (4) of this section:
 
-      (b) Subsection (4)(b) of this section does not apply to a public improvement contract for which state funds are not directly or indirectly used.
+      (A) The contracting agency shall expend an amount equal to at least 1.5 percent of the total contract price to include appropriate green energy technology or for a purpose described in subsection (4) of this section as part of a future public building project; and
 
-      (6)(a) This section does not exempt an authorized state agency, as defined in ORS 276.905, from complying with ORS 276.900 to 276.915, except that an authorized state agency, without complying with ORS 276.900 to 276.915, may determine that green energy technology or woody biomass energy technology is appropriate to include as part of constructing, reconstructing or performing a major renovation of a public building.
+      (B) The amount the contracting agency expends on the future public building project in accordance with subparagraph (A) of this paragraph is in addition to any amount required under subsection (2) of this section for including appropriate green energy technology as part of the future public building project.
 
-      (b) A contracting agency may not use an amount described in subsection (4)(b) of this section to comply with requirements set forth in ORS 276.900 to 276.915 or with a state building code standard that the Department of Consumer and Business Services approves under ORS 455.496.
+      (7) A contracting agency may choose to consolidate in one public building, or in one location away from the site of the public building, all or a substantial portion of the green energy technology that the contracting agency would otherwise include as part of the construction, reconstruction or major renovation of one or more other public buildings if:
 
-      (7) Notwithstanding the provisions of ORS 174.108 (3), this section applies to intergovernmental entities described in ORS 174.108 (3). [2007 c.310 §2; 2012 c.83 §1; 2013 c.612 §1; 2015 c.262 §1; 2015 c.424 §1; 2017 c.735 §1]
+      (a) The total amount the contracting agency expends on green energy technology is an aggregate of all of the amounts that, under this section and ORS 279C.528, the contracting agency must expend on each of the public buildings that are part of the same project; and
+
+      (b) The project, taken as a whole, otherwise meets the requirements set forth in this section and ORS 279C.528.
+
+      (8)(a) A contracting agency need not set aside the amount described in subsection (6)(b) of this section in an account or otherwise reserve moneys for a future public building at the time the contracting agency makes the determination described in subsection (5) of this section, but the contracting agency shall report the amount described in subsection (6)(b) of this section to the State Department of Energy as provided in ORS 279C.528 (2).
+
+      (b) Subsection (6)(b) of this section does not apply to a public improvement contract for which state funds are not directly or indirectly used.
+
+      (9)(a) This section does not exempt an authorized state agency, as defined in ORS 276.905, from complying with ORS 276.900 to 276.915, except that an authorized state agency, without complying with ORS 276.900 to 276.915, may determine that green energy technology or an alternative technology described in subsection (4) of this section is appropriate to include as part of constructing, reconstructing or performing a major renovation of a public building.
+
+      (b) A contracting agency may not use an amount described in subsection (6)(b) of this section to comply with requirements set forth in ORS 276.900 to 276.915 or with a state building code standard that the Department of Consumer and Business Services approves under ORS 455.496.
+
+      (10) Notwithstanding the provisions of ORS 174.108 (3), this section applies to intergovernmental entities described in ORS 174.108 (3). [2007 c.310 §2; 2012 c.83 §1; 2013 c.612 §1; 2015 c.262 §1; 2015 c.424 §1; 2017 c.735 §1; 2019 c.160 §1]
 
  
 
@@ -1965,27 +1997,33 @@ CONSTRUCTION CONTRACTS GENERALLY
 
  
 
-      279C.528 State Department of Energy requirements and specifications; record keeping requirements; rules. (1) Each contracting agency, in soliciting, awarding and administering public improvement contracts that are subject to ORS 279C.527, is subject to rules the State Department of Energy adopts that include, but are not limited to, requirements and specifications for:
+      279C.528 State Department of Energy requirements and specifications; record keeping requirements; rules. (1) Each contracting agency, in soliciting, awarding and administering public improvement contracts that are subject to ORS 279C.527, is subject to rules the State Department of Energy adopts that include, but are not limited to, requirements, methods and specifications for:
 
       (a) Using particular green energy technologies in public improvements;
 
       (b) Determining the cost-effectiveness of green energy technologies;
 
-      (c) Submitting documents required under ORS 279C.527 to the department for review; and
+      (c) Determining the total solar resource fraction that applies to a public building or to a site on which a contracting agency will construct green energy technology;
 
-      (d) Determining whether a structure is a public building subject to the requirements of ORS 279C.527.
+      (d) Including particular costs in the total contract price for a public building;
+
+      (e) Improving energy use efficiency in a public building;
+
+      (f) Submitting documents required under ORS 279C.527 to the department for review; and
+
+      (g) Determining whether a structure is a public building subject to the requirements of ORS 279C.527.
 
       (2)(a) Each contracting agency shall collect and maintain information concerning the contracting agency’s compliance with ORS 279C.527, which must include, at a minimum:
 
-      (A) Records that show how the contracting agency spent moneys the contracting agency used in including appropriate green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a public building;
+      (A) Records that show how the contracting agency expended moneys to include appropriate green energy technology as part of constructing, reconstructing or performing a major renovation of a public building or for a purpose described in ORS 279C.527 (4);
 
-      (B) An identification of each public improvement contract for which the contracting agency spent moneys to include appropriate green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a public building;
+      (B) An identification of each public improvement contract for which the contracting agency expended moneys to include appropriate green energy technology as part of constructing, reconstructing or performing a major renovation of a public building or for a purpose described in ORS 279C.527 (4);
 
-      (C) An identification of each public improvement contract for which the contracting agency determined that including green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a public building was not appropriate;
+      (C) An identification of each public improvement contract for which the contracting agency determined that including green energy technology as part of constructing, reconstructing or performing a major renovation of a public building, and that making an expenditure for a purpose described in ORS 279C.527 (4), was not appropriate;
 
-      (D) The total amount the contracting agency would have spent on each public improvement contract identified in subparagraph (C) of this paragraph and the total aggregated amount that the contracting agency must spend to include green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a future public building; and
+      (D) The total amount the contracting agency would have expended on each public improvement contract identified in subparagraph (C) of this paragraph and the total aggregated amount that the contracting agency must expend to include green energy technology as part of constructing, reconstructing or performing a major renovation of a future public building or for a purpose described in ORS 279C.527 (4); and
 
-      (E) An identification of each public improvement contract that uses moneys the contracting agency did not spend in a previous public improvement contract for including appropriate green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a public building.
+      (E) An identification of each public improvement contract that uses moneys the contracting agency did not expend on a previous public improvement contract for including appropriate green energy technology as part of constructing, reconstructing or performing a major renovation of a public building or for a purpose described in ORS 279C.527 (4).
 
       (b) Each contracting agency shall compile the information the contracting agency collected under paragraph (a) of this subsection and report the information to the department at times, in a manner and on forms that the department specifies by rule.
 
@@ -1995,11 +2033,11 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       (i) Identify contracting agencies that have not complied with the requirements of ORS 279C.527 or the reporting requirements set forth in paragraph (b) of this subsection;
 
-      (ii) Identify public improvement contracts for which contracting agencies have determined that including green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a public building was not appropriate; and
+      (ii) Identify public improvement contracts for which contracting agencies have determined that including green energy technology as part of constructing, reconstructing or performing a major renovation of a public building, and that making an expenditure for a purpose described in ORS 279C.527 (4), was not appropriate; and
 
-      (iii) Identify public improvement contracts that use moneys a contracting agency did not spend in a previous public improvement contract on including appropriate green energy technology or woody biomass energy technology as part of constructing, reconstructing or performing a major renovation of a public building.
+      (iii) Identify public improvement contracts that use moneys a contracting agency did not expend on a previous public improvement contract on including appropriate green energy technology as part of constructing, reconstructing or performing a major renovation of a public building or for a purpose described in ORS 279C.527 (4).
 
-      (B) Deliver annually to the Legislative Assembly, on or before the date on which each regular session of the Legislative Assembly begins, a report concerning contracting agency compliance with this section and ORS 279C.527 that includes the compilation and summary the department prepared under subparagraph (A) of this paragraph. [2007 c.310 §3; 2012 c.83 §2; 2013 c.612 §2; 2015 c.424 §2; 2017 c.735 §2]
+      (B) Deliver annually to the Legislative Assembly, on or before the date on which each regular session of the Legislative Assembly begins, a report concerning contracting agency compliance with this section and ORS 279C.527 that includes the compilation and summary the department prepared under subparagraph (A) of this paragraph. [2007 c.310 §3; 2012 c.83 §2; 2013 c.612 §2; 2015 c.424 §2; 2017 c.735 §2; 2019 c.160 §2]
 
  
 
@@ -2121,6 +2159,52 @@ CONSTRUCTION CONTRACTS GENERALLY
 
  
 
+      279C.537 Condition concerning use of diesel engines in motor vehicles used in performing certain public improvement contracts; rules. (1) As used in this section, “diesel engine,” “nonroad diesel engine” and “motor vehicle” have the meanings given those terms in ORS 468A.795.
+
+      (2) Except as provided in subsection (4) of this section, a public improvement contract must require at least 80 percent of the total fleet of motor vehicles that are motor vehicles powered by diesel engines and equipment powered by nonroad diesel engines used on site and in the course of performing the contract to be:
+
+      (a) Motor vehicles powered by model year 2010 or newer diesel engines; and
+
+      (b) Equipment powered by nonroad diesel engines, whether or not capable of being powered by alternative fuel, that meet or exceed United States Environmental Protection Agency Tier 4 exhaust emission standards for nonroad compression ignition engines.
+
+      (3) Subsection (2) of this section applies only to a public improvement contract for a public improvement:
+
+      (a) With a value of $20 million or more;
+
+      (b) For which the contracting agency is a state contracting agency; and
+
+      (c) If the public improvement is located within Multnomah, Clackamas or Washington County.
+
+      (4)(a) The Department of Environmental Quality may by order establish minimum standards for contract specifications relating to the use of diesel engines in the course of performing a public improvement contract by a state contracting agency. In establishing standards under this subsection, the department shall take into consideration methods for assisting contractors certified, under ORS 200.055, as disadvantaged business enterprises, minority-owned businesses, women-owned businesses, businesses owned by service-disabled veterans or emerging small businesses in complying with the minimum standards for contract specifications.
+
+      (b) The Director of Transportation, the Director of the Oregon Department of Administrative Services and the Attorney General may adopt rules for contract specifications relating to the use of diesel engines on site and in the course of performing a public improvement contract by a state contracting agency. In adopting rules under this paragraph, the directors and the Attorney General shall consider the minimum standards established by the Department of Environmental Quality under paragraph (a) of this subsection.
+
+      (c) As an alternative to meeting the requirements of subsection (2) of this section, a public improvement contract subject to subsection (2) of this section may include contract specifications that meet the minimum standards applicable to the public improvement contract under rules adopted pursuant to paragraph (b) of this subsection. [2019 c.645 §18]
+
+ 
+
+      Note: Section 18a, chapter 645, Oregon Laws 2019, provides:
+
+      Sec. 18a. (1) Section 18 of this 2019 Act [279C.537] applies to public improvement contracts advertised or solicited on or after January 1, 2022, or, for public improvement contracts that are not advertised or solicited, public improvement contracts that a contracting agency enters into on or after January 1, 2022.
+
+      (2) Notwithstanding subsection (1) of this section, section 18 of this 2019 Act applies to any public improvement contract advertised or solicited on or after the effective date of this 2019 Act [August 9, 2019] or, for a public improvement contract that is not advertised or solicited, any public improvement contract that a contracting agency enters into on or after the effective date of this 2019 Act, if the public improvement contract is for:
+
+      (a) The Interstate 5 Rose Quarter Project;
+
+      (b) The Interstate 205 Abernethy Bridge Project;
+
+      (c) The Interstate 205 Freeway Widening Project;
+
+      (d) The State Highway 217 Northbound Project; or
+
+      (e) The State Highway 217 Southbound Project. [2019 c.645 §18a]
+
+ 
+
+      Note: 279C.537 was added to and made a part of the Public Contracting Code by legislative action but was not added to ORS chapter 279C or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
 (Hours of Labor)
 
  
@@ -2233,7 +2317,7 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       279C.570 Prompt payment policy; progress payments; retainage; interest; exception; settlement of compensation disputes. (1) It is the policy of the State of Oregon that all payments due on a public improvement contract and owed by a contracting agency shall be paid promptly. No contracting agency is exempt from the provisions of this section.
 
-      (2) Contracting agencies shall make progress payments on the contract monthly as work progresses on a public improvement contract. Payments shall be based upon estimates of work completed that are approved by the contracting agency. A progress payment is not considered acceptance or approval of any work or waiver of any defects therein. The contracting agency shall pay to the contractor interest on the progress payment, not including retainage, due the contractor. The interest shall commence 30 days after receipt of the invoice from the contractor or 15 days after the payment is approved by the contracting agency, whichever is the earlier date. The rate of interest charged to the contracting agency on the amount due shall equal three times the discount rate on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve district that includes Oregon on the date that is 30 days after receipt of the invoice from the contractor or 15 days after the payment is approved by the contracting agency, whichever is the earlier date, but the rate of interest may not exceed 30 percent.
+      (2) Contracting agencies shall make progress payments on the contract monthly as work progresses on a public improvement contract. Payments shall be based upon estimates of work completed that are approved by the contracting agency. A progress payment is not considered acceptance or approval of any work or waiver of any defects therein. The contracting agency shall pay to the contractor interest on the progress payment, not including retainage, due the contractor. The interest shall commence 30 days after receipt of the invoice from the contractor or 15 days after the payment is approved by the contracting agency, whichever is the earlier date. The rate of interest charged to the contracting agency on the amount due shall equal three times the discount rate on 90-day commercial paper in effect at the Federal Reserve Bank in the Federal Reserve district that includes Oregon on the date that is 30 days after receipt of the invoice from the contractor or 15 days after the payment is approved by the contracting agency, whichever is the earlier date, but the rate of interest may not exceed 30 percent. If the contract price exceeds $500,000, the contracting agency shall place amounts deducted as retainage into an interest-bearing escrow account. Interest on the retainage amount accrues from the date the payment request is approved until the date the retainage is paid to the contractor to which it is due.
 
       (3) Interest shall be paid automatically when payments become overdue. The contracting agency shall document, calculate and pay any interest due when payment is made on the principal. Interest payments shall accompany payment of net due on public improvement contracts. The contracting agency may not require the contractor to petition, invoice, bill or wait additional days to receive interest due.
 
@@ -2253,7 +2337,7 @@ CONSTRUCTION CONTRACTS GENERALLY
 
       (B) Thirty days after the date on which the claim for the payment under dispute was presented to the contracting agency by the contractor in writing or in accordance with applicable provisions of the contract.
 
-      (b) Interest shall be added to and not made a part of the settlement or judgment. [2003 c.794 §150; 2005 c.103 §33]
+      (b) Interest shall be added to and not made a part of the settlement or judgment. [2003 c.794 §150; 2005 c.103 §33; 2019 c.486 §1]
 
  
 
@@ -2445,8 +2529,6 @@ CONSTRUCTION CONTRACTS GENERALLY
 
 ______________________________________________________________________________
 
- 
-
       To (here insert the name of the contractor or subcontractor and the name of the public body):
 
       Notice hereby is given that the undersigned (here insert the name of the claimant) has a claim for (here insert a brief description of the labor or materials performed or furnished and the person by whom performed or furnished; if the claim is for other than labor or materials, insert a brief description of the claim) in the sum of (here insert the amount) dollars against the (here insert public works bond or payment bond, as applicable) taken from (here insert the name of the principal and, if known, the surety or sureties upon the public works bond or payment bond) for the work of (here insert a brief description of the work concerning which the public works bond or payment bond was taken). Such material or labor was supplied to (here insert the name of the contractor or subcontractor).
@@ -2460,8 +2542,6 @@ _____________________
  (here to be signed)
 
 ______________________________________________________________________________
-
- 
 
       (4) When notice of claim is given by the commissioner and if the claim includes a worker who is then unidentified, the commissioner shall include in the notice a statement that the claim includes an unidentified worker for whom the commissioner has received information indicating that the worker has not been paid in full at the prevailing rate of wage required by ORS 279C.840 or overtime wages required by ORS 279C.540.
 

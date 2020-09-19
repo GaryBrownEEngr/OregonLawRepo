@@ -417,7 +417,11 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-735.534     Claim reimbursement; maximum allowable costs
+735.534     Claim reimbursement; maximum allowable costs; documentation; rules
+
+ 
+
+735.536     Requirements for pharmacy benefit manager’s reimbursement for cost of drugs; rules
 
  
 
@@ -470,8 +474,6 @@ COMPACT OF FREE ASSOCIATION PREMIUM ASSISTANCE PROGRAM
  
 
 735.617     COFA Premium Assistance Program Fund
-
- 
 
  
 
@@ -1423,15 +1425,11 @@ LIABILITY RISK RETENTION LAW
 
 ______________________________________________________________________________
 
- 
-
 Notice
 
       This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and rules of your state. State insurance insolvency guaranty funds are not available for your risk retention group.
 
 ______________________________________________________________________________
-
- 
 
       (7) The following acts by a risk retention group are prohibited:
 
@@ -1617,7 +1615,7 @@ SURPLUS LINES LAW
 
  
 
-      735.406 Cost of living adjustment to net worth, revenues and expenses of exempt commercial purchasers. Beginning on January 1, 2015, and each fifth January 1 occurring thereafter, the amounts in ORS 735.405 (6)(c)(A), (B) and (D) shall be adjusted to reflect the percentage change for such five-year period in the Portland-Salem, OR-WA, Consumer Price Index for All Urban Consumers for All Items as published by the Bureau of Labor Statistics of the United States Department of Labor. [2011 c.660 §7]
+      735.406 Cost of living adjustment to net worth, revenues and expenses of exempt commercial purchasers. Beginning on January 1, 2015, and each fifth January 1 occurring thereafter, the amounts in ORS 735.405 (6)(c)(A), (B) and (D) shall be adjusted to reflect the percentage change for such five-year period in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor. [2011 c.660 §7; 2019 c.57 §33]
 
  
 
@@ -1733,23 +1731,23 @@ SURPLUS LINES LAW
 
  
 
-      735.430 Surplus Line Association of Oregon; fees. (1) The Surplus Line Association of Oregon shall be the advisory organization of surplus lines licensees to:
+      735.430 Surplus Line Association of Oregon; fees. (1) The Surplus Line Association of Oregon is the advisory organization of surplus lines licensees to:
 
       (a) Facilitate and encourage compliance by resident and nonresident surplus lines licensees with the laws of this state and the rules of the Director of the Department of Consumer and Business Services relative to surplus lines insurance;
 
-      (b) Provide means for the examination, which shall remain confidential as provided in ORS 705.137, of all surplus lines coverage written by resident and nonresident surplus lines licensees to determine whether the coverages comply with the Oregon Surplus Lines Law;
+      (b) Provide means for the examination, which must remain confidential as provided in ORS 705.137, of all surplus lines coverage written by resident and nonresident surplus lines licensees to determine whether the coverages comply with the Oregon Surplus Lines Law;
 
       (c) Communicate with organizations of admitted insurers with respect to the proper use of the surplus lines market;
 
       (d) Receive and disseminate to resident and nonresident surplus lines licensees information relative to surplus lines coverages; and
 
-      (e) At the request of the director, receive and collect on behalf of the state and remit to the state premium receipts taxes for surplus lines insurance pursuant to ORS 735.417 or 735.470.
+      (e) At the request of the director, receive and collect on behalf of the state and remit to the state premium receipts taxes for surplus lines and wet marine and transportation insurance under ORS 731.830, 735.417 or 735.470.
 
       (2) The Surplus Line Association of Oregon shall file with the director:
 
-      (a) A copy of its constitution, articles of agreement or association or certificate of incorporation;
+      (a) A copy of the association’s constitution, articles of agreement or association or certificate of incorporation;
 
-      (b) A copy of its bylaws and rules governing its activities;
+      (b) A copy of the association’s bylaws and rules governing the association’s activities;
 
       (c) A current list of members;
 
@@ -1759,13 +1757,13 @@ SURPLUS LINES LAW
 
       (f) A schedule of fees and charges.
 
-      (3) The director may make or cause to be made an examination of the Surplus Line Association of Oregon. The reasonable cost of any such examination shall be paid by the association upon presentation to it by the director of a detailed account of each cost. The officers, managers, agents and employees of the association may be examined at any time, under oath, and shall exhibit all books, records, accounts, documents or agreements governing its method of operation. The director shall furnish two copies of the examination report to the association and shall notify the association that it may, within 20 days thereof, request a hearing on the report or on any facts or recommendations therein. If the director finds the association or any member thereof to be in violation of ORS 735.400 to 735.495, the director may issue an order requiring the discontinuance of such violation.
+      (3) The director may make or cause to be made an examination of the Surplus Line Association of Oregon. The reasonable cost of any examination must be paid by the association at the time the director presents a detailed account to the association of each cost. The officers, managers, agents and employees of the association may be examined at any time, under oath, and shall exhibit all books, records, accounts, documents or agreements governing the association’s method of operation. The director shall furnish two copies of the examination report to the association and shall notify the association that the association may, within 20 days after receiving the report, request a hearing on the report or on any facts or recommendations in the report. If the director finds that the association or any member of the association has violated ORS 735.400 to 735.495, the director may issue an order requiring the discontinuance of the violation.
 
-      (4)(a) The Surplus Line Association of Oregon may charge resident and nonresident surplus lines licensees and nonresident producing insurance producers a fee for reviewing surplus lines policies and for collecting, on behalf of the state, taxes imposed under ORS 735.470.
+      (4)(a) The Surplus Line Association of Oregon may charge resident and nonresident surplus lines licensees and insurance producers a fee for reviewing surplus lines and wet marine and transportation insurance policies and for collecting, on behalf of the state, taxes imposed under ORS 731.830 and 735.470.
 
       (b) The association may charge insureds a fee for collecting, on behalf of the state, reports required and taxes imposed under ORS 735.417.
 
-      (c) The association shall adopt bylaws implementing paragraphs (a) and (b) of this subsection. [1987 c.774 §123; 2001 c.377 §14; 2005 c.185 §13; 2007 c.71 §235; 2011 c.660 §12]
+      (c) The association shall adopt bylaws implementing paragraphs (a) and (b) of this subsection. [1987 c.774 §123; 2001 c.377 §14; 2005 c.185 §13; 2007 c.71 §235; 2011 c.660 §12; 2019 c.493 §3]
 
  
 
@@ -2059,6 +2057,66 @@ PHARMACY BENEFIT MANAGERS
 
       (1) “Claim” means a request from a pharmacy or pharmacist to be reimbursed for the cost of filling or refilling a prescription for a drug or for providing a medical supply or service.
 
+      (2) “Enrollee” means an individual who has enrolled for coverage in a health benefit plan for which a pharmacy benefit manager has contracted with the insurer to reimburse claims submitted by pharmacies or pharmacists for the costs of drugs prescribed for the individual.
+
+      (3) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (4) “Insurer” has the meaning given that term in ORS 731.106.
+
+      (5) “Long term care pharmacy” means a pharmacy for which the primary business is to serve a:
+
+      (a) Licensed long term care facility, as defined in ORS 442.015;
+
+      (b) Licensed residential facility, as defined in ORS 443.400; or
+
+      (c) Licensed adult foster home, as defined in ORS 443.705.
+
+      (6) “Mail order pharmacy” means a pharmacy for which the primary business is to receive prescriptions by mail, telephone or electronic transmission and dispense drugs to patients through the use of the United States Postal Service, a package delivery service or home delivery.
+
+      (7) “Network pharmacy” means a pharmacy that contracts with a pharmacy benefit manager.
+
+      (8) “Pharmacist” has the meaning given that term in ORS 689.005.
+
+      (9) “Pharmacy” includes:
+
+      (a) A pharmacy as defined in ORS 689.005;
+
+      (b) A long term care pharmacy; and
+
+      (c) An entity that provides or oversees administrative services for two or more pharmacies.
+
+      (10) “Pharmacy benefit” means the payment for or reimbursement of an enrollee’s cost for prescription drugs.
+
+      (11)(a) “Pharmacy benefit manager” means a person that contracts with pharmacies on behalf of an insurer offering a health benefit plan, a third party administrator or the Oregon Prescription Drug Program established in ORS 414.312 to:
+
+      (A) Process claims for prescription drugs or medical supplies or provide retail network management for pharmacies or pharmacists;
+
+      (B) Pay pharmacies or pharmacists for prescription drugs or medical supplies; or
+
+      (C) Negotiate rebates with manufacturers for drugs paid for or procured as described in this paragraph.
+
+      (b) “Pharmacy benefit manager” does not include a health care service contractor as defined in ORS 750.005.
+
+      (12) “Specialty drug” means a drug that:
+
+      (a) Is subject to restricted distribution by the United States Food and Drug Administration; or
+
+      (b) Requires special handling, provider coordination or patient education that cannot be provided by a retail pharmacy.
+
+      (13) “Specialty pharmacy” means a pharmacy capable of meeting the requirements applicable to specialty drugs.
+
+      (14) “Third party administrator” means a person licensed under ORS 744.702.
+
+      (15) “340B pharmacy” means a pharmacy that is authorized to purchase drugs at a discount under 42 U.S.C. 256b. [2013 c.570 §2; 2017 c.73 §5; 2019 c.526 §3]
+
+ 
+
+      Note: The amendments to 735.530 by section 3, chapter 526, Oregon Laws 2019, apply to pharmacy benefits and to contracts entered into, renewed or extended on or after January 1, 2021. See section 5, chapter 526, Oregon Laws 2019. The text that is applicable until January 1, 2021, is set forth for the user’s convenience.
+
+      735.530. As used in ORS 735.530 to 735.552:
+
+      (1) “Claim” means a request from a pharmacy or pharmacist to be reimbursed for the cost of filling or refilling a prescription for a drug or for providing a medical supply or service.
+
       (2) “Insurer” has the meaning given that term in ORS 731.106.
 
       (3) “Pharmacist” has the meaning given that term in ORS 689.005.
@@ -2079,7 +2137,7 @@ PHARMACY BENEFIT MANAGERS
 
       (b) “Pharmacy benefit manager” does not include a health care service contractor as defined in ORS 750.005.
 
-      (6) “Third party administrator” means a person licensed under ORS 744.702. [2013 c.570 §2; 2017 c.73 §5]
+      (6) “Third party administrator” means a person licensed under ORS 744.702.
 
  
 
@@ -2103,7 +2161,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2131,11 +2189,111 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
-      735.534 Claim reimbursement; maximum allowable costs. (1) As used in this section:
+      735.534 Claim reimbursement; maximum allowable costs; documentation; rules. (1) As used in this section:
+
+      (a)(A) “Generally available for purchase” means a drug is available for purchase in this state by a pharmacy from a national or regional wholesaler at the time a claim for reimbursement is submitted by a network pharmacy.
+
+      (B) A drug is not “generally available for purchase” if the drug:
+
+      (i) May be dispensed only in a hospital or inpatient care facility;
+
+      (ii) Is unavailable due to a shortage of the product or an ingredient;
+
+      (iii) Is available to a pharmacy at a price that is at or below the maximum allowable cost only if purchased in substantial quantities that are inconsistent with the business needs of a pharmacy;
+
+      (iv) Is sold at a discount due to a short expiration date on the drug; or
+
+      (v) Is the subject of an active or pending recall.
+
+      (b) “List” means the list of drugs for which maximum allowable costs have been established.
+
+      (c) “Maximum allowable cost” means the maximum amount that a pharmacy benefit manager will reimburse a pharmacy for the cost of a drug.
+
+      (d) “Multiple source drug” means a therapeutically equivalent drug that is available from at least two manufacturers.
+
+      (e) “Therapeutically equivalent” has the meaning given that term in ORS 689.515.
+
+      (2) A pharmacy benefit manager registered under ORS 735.532:
+
+      (a) May not place a drug on a list unless there are at least two multiple source drugs, or at least one generic drug generally available for purchase.
+
+      (b) Shall ensure that all drugs on a list are generally available for purchase.
+
+      (c) Shall ensure that no drug on a list is obsolete.
+
+      (d) Shall make available to each network pharmacy at the beginning of the term of a contract, and upon renewal of a contract, the specific authoritative industry sources, other than proprietary sources, the pharmacy benefit manager uses to determine the maximum allowable cost set by the pharmacy benefit manager.
+
+      (e) Shall make a list available to a network pharmacy upon request in a format that:
+
+      (A) Is electronic;
+
+      (B) Is computer accessible and searchable;
+
+      (C) Identifies all drugs for which maximum allowable costs have been established; and
+
+      (D) For each drug specifies:
+
+      (i) The national drug code; and
+
+      (ii) The maximum allowable cost.
+
+      (f) Shall update each list maintained by the pharmacy benefit manager every seven business days and make the updated lists, including all changes in the price of drugs, available to network pharmacies in the format described in paragraph (e) of this subsection.
+
+      (g) Shall ensure that dispensing fees are not included in the calculation of maximum allowable cost.
+
+      (h) May not reimburse a 340B pharmacy differently than any other network pharmacy based on its status as a 340B pharmacy.
+
+      (i) May not retroactively deny or reduce a claim for reimbursement of the cost of services after the claim has been adjudicated by the pharmacy benefit manager unless the:
+
+      (A) Adjudicated claim was submitted fraudulently;
+
+      (B) Pharmacy benefit manager’s payment on the adjudicated claim was incorrect because the pharmacy or pharmacist had already been paid for the services;
+
+      (C) Services were improperly rendered by the pharmacy or pharmacist; or
+
+      (D) Pharmacy or pharmacist agrees to the denial or reduction prior to the pharmacy benefit manager notifying the pharmacy or pharmacist that the claim has been denied or reduced.
+
+      (3) Subsection (2)(i) of this section may not be construed to limit pharmacy claim audits under ORS 735.540 to 735.552.
+
+      (4) A pharmacy benefit manager must establish a process by which a network pharmacy may appeal its reimbursement for a drug subject to maximum allowable cost pricing. A network pharmacy may appeal a maximum allowable cost if the reimbursement for the drug is less than the net amount that the network pharmacy paid to the supplier of the drug. The process must allow a network pharmacy a period of no less than 60 days after a claim is reimbursed in which to file the appeal. An appeal requested under this section must be completed within 30 calendar days of the pharmacy making the claim for which appeal has been requested.
+
+      (5) A pharmacy benefit manager shall allow a network pharmacy to submit the documentation in support of its appeal on paper or electronically and may not:
+
+      (a) Refuse to accept an appeal submitted by a person authorized to act on behalf of the network pharmacy;
+
+      (b) Refuse to adjudicate an appeal for the reason that the appeal is submitted along with other claims that are denied; or
+
+      (c) Impose requirements or establish procedures that have the effect of unduly obstructing or delaying an appeal.
+
+      (6) A pharmacy benefit manager must provide as part of the appeals process established under subsection (4) of this section:
+
+      (a) A telephone number at which a network pharmacy may contact the pharmacy benefit manager and speak with an individual who is responsible for processing appeals;
+
+      (b) A final response to an appeal of a maximum allowable cost within seven business days; and
+
+      (c) If the appeal is denied, the reason for the denial and the national drug code of a drug that may be purchased by similarly situated pharmacies at a price that is equal to or less than the maximum allowable cost.
+
+      (7)(a) If an appeal is upheld under this section, the pharmacy benefit manager shall:
+
+      (A) Make an adjustment for the pharmacy that requested the appeal from the date of initial adjudication forward; and
+
+      (B) Allow the pharmacy to reverse the claim and resubmit an adjusted claim without any additional charges.
+
+      (b) If the request for an adjustment has come from a critical access pharmacy, as defined by the Oregon Health Authority by rule for purposes related to the Oregon Prescription Drug Program, the adjustment approved under paragraph (a) of this subsection shall apply only to critical access pharmacies.
+
+      (8) This section does not apply to the state medical assistance program.
+
+      (9) The Department of Consumer and Business Services may adopt rules to carry out the provisions of this section. [2013 c.570 §11; 2013 c.570 §13; 2019 c.526 §4]
+
+ 
+
+      Note: The amendments to 735.534 by section 4, chapter 526, Oregon Laws 2019, apply to pharmacy benefits and to contracts entered into, renewed or extended on or after January 1, 2021. See section 5, chapter 526, Oregon Laws 2019. The text that is applicable until January 1, 2021, is set forth for the user’s convenience.
+
+      735.534. (1) As used in this section:
 
       (a) “List” means the list of drugs for which maximum allowable costs have been established.
 
@@ -2177,11 +2335,47 @@ PHARMACY BENEFIT MANAGERS
 
       (b) If the request for an adjustment has come from a critical access pharmacy, as defined by the Oregon Health Authority by rule for purposes related to the Oregon Prescription Drug Program, the adjustment approved under paragraph (a) of this subsection shall apply only to critical access pharmacies.
 
-      (6) This section does not apply to the state medical assistance program. [2013 c.570 §11; 2013 c.570 §13]
+      (6) This section does not apply to the state medical assistance program.
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
+
+ 
+
+      735.536 Requirements for pharmacy benefit manager’s reimbursement for cost of drugs; rules. (1) As used in this section, “out-of-pocket cost” means the amount paid by an enrollee under the enrollee’s coverage, including deductibles, copayments, coinsurance or other expenses as prescribed by the Department of Consumer and Business Services by rule.
+
+      (2) A pharmacy benefit manager registered under ORS 735.532:
+
+      (a) May not require a prescription to be filled or refilled by a mail order pharmacy as a condition for reimbursing the cost of the drug.
+
+      (b) Except as provided in paragraph (c) of this subsection, may require a prescription for a specialty drug to be filled or refilled at a specialty pharmacy as a condition for the reimbursement of the cost a drug.
+
+      (c) Shall reimburse the cost of a specialty drug that is filled or refilled at a network pharmacy that is a long term care pharmacy.
+
+      (d)(A) Shall allow a network pharmacy to mail, ship or deliver prescription drugs to its patients as an ancillary service.
+
+      (B) Is not required to reimburse a delivery fee charged by a pharmacy for a delivery described in subparagraph (A) of this paragraph unless the fee is specified in the contract between the pharmacy benefit manager and the pharmacy.
+
+      (e) May not require a patient signature as proof of delivery of a mailed or shipped prescription drug if the network pharmacy:
+
+      (A)(i) Maintains a mailing or shipping log signed by a representative of the pharmacy; or
+
+      (ii) Maintains each notification of delivery provided by the United States Postal Service or a package delivery service; and
+
+      (B) Is responsible for the cost of mailing, shipping or delivering a replacement for a drug that was mailed or shipped but not received by the enrollee.
+
+      (f) May not penalize a network pharmacy for or otherwise directly or indirectly prevent a network pharmacy from informing an enrollee of the difference between the out-of-pocket cost to the enrollee to purchase a prescription drug using the enrollee’s pharmacy benefit and the pharmacy’s usual and customary charge for the prescription drug.
+
+      (3) The Department of Consumer and Business Services may adopt rules to carry out the provisions of this section. [2019 c.526 §2]
+
+ 
+
+      Note: 735.536 applies to pharmacy benefits and to contracts entered into, renewed or extended on or after January 1, 2021. See section 5, chapter 526, Oregon Laws 2019.
+
+ 
+
+      Note: See second note under 735.530.
 
  
 
@@ -2213,7 +2407,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2249,7 +2443,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2257,7 +2451,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2269,7 +2463,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2289,7 +2483,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2309,7 +2503,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2323,7 +2517,7 @@ PHARMACY BENEFIT MANAGERS
 
  
 
-      Note: See note under 735.530.
+      Note: See second note under 735.530.
 
  
 
@@ -2382,8 +2576,6 @@ PREMIUM ASSISTANCE PROGRAM
  
 
       735.605 [1987 c.838 §3; 1989 c.838 §6; 2003 c.33 §4; 2005 c.634 §4; 2009 c.695 §1; repealed by 2013 c.698 §42, 2013 c.640 §20 and 2017 c.477 §4]
-
- 
 
       735.608 Eligibility for program; payment for plan and out-of-pocket costs; disenrollment; application, enrollment and renewal procedures; education and outreach. (1) An individual is eligible for the COFA Premium Assistance Program if the individual:
 
@@ -2464,74 +2656,6 @@ PREMIUM ASSISTANCE PROGRAM
  
 
       Note: See note under 735.601.
-
- 
-
-      Note: Sections 6 and 7, chapter 94, Oregon Laws 2016, provide:
-
-      Sec. 6. No later than December 31, 2017, the Department of Consumer and Business Services shall report to the interim committees of the Legislative Assembly related to health care on the implementation of the COFA Premium Assistance Program established under sections 1 to 5 of this 2016 Act [735.601 to 735.617], including, but not limited to:
-
-      (1) The number of individuals participating in the program;
-
-      (2) The actual costs of the program compared to predicted costs;
-
-      (3) The results of the community education and outreach campaign;
-
-      (4) The amount remaining in the COFA Premium Assistance Program Fund; and
-
-      (5) The amount of moneys needed to continue the program through the end of the 2015-2017 biennium. [2016 c.94 §6]
-
-      Sec. 7. (1) The community education and outreach campaign conducted by the Department of Consumer and Business Services in accordance with section 3 of this 2016 Act [735.608] shall begin no later than September 1, 2016.
-
-      (2) The first open enrollment period for the COFA Premium Assistance Program established under sections 1 to 5 of this 2016 Act [735.601 to 735.617] shall begin no later than November 1, 2016. [2016 c.94 §7]
-
- 
-
-      Note: Sections 1 and 2, chapter 243, Oregon Laws 2017, provide:
-
-      Sec. 1. (1) As used in this section:
-
-      (a) “COFA islander” means an individual who legally entered the United States under a Compact of Free Association treaty between the United States and any of the following countries:
-
-      (A) The Republic of Palau.
-
-      (B) The Republic of the Marshall Islands.
-
-      (C) The Federated States of Micronesia.
-
-      (b) “Health insurance exchange” has the meaning given that term in ORS 741.300.
-
-      (c) “Premium assistance” means the payment or reimbursement of the costs of:
-
-      (A) Premiums for a commercial or publicly funded plan that reimburses the costs of oral health care; and
-
-      (B) The deductibles, copayments or other out-of-pocket expenses incurred by enrollees in order to access the care.
-
-      (2) The Department of Consumer and Business Services shall develop recommendations for the creation of a program to reimburse the costs of oral health care for low-income COFA islanders residing in this state.
-
-      (3) The recommendations must include, but are not limited to:
-
-      (a) Whether the program should be structured to provide premium assistance to cover the cost of coverage:
-
-      (A) Through a dental plan offered in the health insurance exchange or by a commercial vendor;
-
-      (B) Provided in the state medical assistance program; or
-
-      (C) Through an alternative means;
-
-      (b) Eligibility requirements;
-
-      (c) The amount of any premium assistance to be provided;
-
-      (d) How premium assistance should be distributed among eligible individuals; and
-
-      (e) The cost and financing of the premium assistance program, including whether federal funds or other sources of funding may be available.
-
-      (4) The department shall convene an advisory group that includes COFA islanders from each of the affected communities and other stakeholders to assist and advise the department in developing the recommendations.
-
-      (5) The department shall report its recommendations to the Legislative Assembly and to the interim committees of the Legislative Assembly related to health, in the manner provided in ORS 192.245, no later than September 15, 2017. [2017 c.243 §1]
-
-      Sec. 2. Section 1 of this 2017 Act is repealed on January 2, 2020. [2017 c.243 §2]
 
  
 

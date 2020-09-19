@@ -193,11 +193,13 @@ PROBATE LAW
 
       (a) In the county where the decedent had a domicile or where the decedent had a place of abode at the time of death;
 
-      (b) In any county where property of the decedent was located at the time of death or is located at the time the proceeding is commenced; or
+      (b) In any county where property of the decedent was located at the time of death or is located at the time the proceeding is commenced;
 
-      (c) In the county in which the decedent died.
+      (c) In the county in which the decedent died; or
 
-      (2) Filing a proceeding in a county other than specified in subsection (1) of this section does not constitute a jurisdictional defect. [1969 c.591 §81]
+      (d) In the county where a personal injury claim or wrongful death claim, as those terms are defined in ORS 114.441, could be maintained.
+
+      (2) Filing a proceeding in a county other than specified in subsection (1) of this section does not constitute a jurisdictional defect. [1969 c.591 §81; 2019 c.166 §12]
 
  
 
@@ -247,7 +249,11 @@ PROBATE LAW
 
       (10) Whether the original of the last will of the decedent is in the possession of the court or accompanies the petition. If the original will is not in the possession of the court or accompanying the petition and an authenticated copy of the will probated in another jurisdiction does not accompany the petition, the petition shall also state the contents of the will and indicate that it is lost, destroyed or otherwise unavailable and that it was not revoked.
 
-      (11) A statement of the extent and nature of assets of the estate, to enable the court to set the amount of bond of the personal representative. [1969 c.591 §83; 1973 c.506 §19; 1991 c.704 §1; 2003 c.395 §10; 2005 c.741 §4; 2017 c.169 §7]
+      (11) A statement of the extent and nature of assets of the estate, if any, to enable the court to set the amount of bond of the personal representative.
+
+      (12) If the petition states that no assets of the estate are known to the petitioner under subsection (11) of this section and the petition is not filed under ORS 114.453, a statement of the purpose for filing the petition.
+
+      (13) If the petition is filed under ORS 114.453, a statement that the petitioner is filing the petition for the sole purpose of pursuing a wrongful death claim, and the other information required under ORS 114.453. [1969 c.591 §83; 1973 c.506 §19; 1991 c.704 §1; 2003 c.395 §10; 2005 c.741 §4; 2017 c.169 §7; 2019 c.414 §§1,1a]
 
  
 
@@ -274,6 +280,16 @@ PROBATE LAW
       (2) If at any time after the appointment of a personal representative it appears that any heir or devisee of the decedent cannot be identified and found, the personal representative shall promptly deliver or mail to the Department of State Lands a notice indicating that an heir or devisee cannot be identified and found. The personal representative shall file proof of the delivery or mailing with the court.
 
       (3) This section does not affect the requirements of ORS 113.085 (3). [1969 c.591 §84; 2003 c.395 §11; 2007 c.284 §9; 2017 c.169 §10]
+
+ 
+
+      Note: The amendments to 113.045 by section 32, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.045. (1) Upon appointment, a personal representative shall deliver or mail to the State Treasurer a copy of the petition filed under ORS 113.035, and a copy of any last will of the decedent, if the personal representative has not identified and found all heirs and devisees of the decedent. The personal representative shall file proof of the delivery or mailing with the court.
+
+      (2) If at any time after the appointment of a personal representative it appears that any heir or devisee of the decedent cannot be identified and found, the personal representative shall promptly deliver or mail to the State Treasurer a notice indicating that an heir or devisee cannot be identified and found. The personal representative shall file proof of the delivery or mailing with the court.
+
+      (3) This section does not affect the requirements of ORS 113.085 (3).
 
  
 
@@ -329,6 +345,32 @@ PROBATE LAW
 
  
 
+      Note: The amendments to 113.075 by section 33, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.075. (1) Any interested person may contest the probate of the will or the validity of the will or assert an interest in the estate for the reason that:
+
+      (a) The will alleged in the petition for probate to be the will of the decedent is ineffective in whole or part;
+
+      (b) There exists a will that has not been alleged in the petition to be the will of the decedent; or
+
+      (c) The decedent agreed, promised or represented that the decedent would make or revoke a will or devise, or not revoke a will or devise, or die intestate.
+
+      (2) An action described in subsection (1) of this section must be commenced by the filing of a petition in the probate proceedings, except that an action described in subsection (1)(c) of this section may be commenced by the filing of a separate action in any court of competent jurisdiction.
+
+      (3) An action described in subsection (1) of this section must be commenced before the later of:
+
+      (a) Four months after the date of delivery or mailing of the information described in ORS 113.145 if that information was required to be delivered or mailed to the person on whose behalf the action under subsection (1) of this section is filed; or
+
+      (b) Four months after the first publication of notice to interested persons if the person on whose behalf the action under subsection (1) of this section is filed was not required to be named in the petition for probate as an interested person.
+
+      (4)(a) A person who commences an action under subsection (1) of this section shall give notice of the action to heirs and devisees identified in the petition for probate or amended petition for probate, and to the State Treasurer if the personal representative has delivered or mailed information to the State Treasurer under ORS 113.045.
+
+      (b) If any devisee under the contested will is a charitable trust as described in ORS 130.170, a public benefit corporation as defined in ORS 65.001 or a religious organization, a person who commences an action under subsection (1) of this section shall give notice to the Attorney General of the action.
+
+      (5) A cause of action described in subsection (1)(c) of this section may not be presented as a claim under ORS chapter 115.
+
+ 
+
       113.080 [Repealed by 1969 c.591 §305]
 
  
@@ -354,6 +396,32 @@ PROBATE LAW
       (3) Except as provided in subsection (4) of this section, the court shall appoint the Department of State Lands as personal representative if it appears that the decedent died wholly intestate and without known heirs. The Attorney General shall represent the Department of State Lands in the administration of the estate. Any funds received by the Department of State Lands in the capacity of personal representative may be deposited in accounts, separate and distinct from the General Fund, established in the State Treasury. Interest earned by such account shall be credited to that account.
 
       (4) The court may appoint a person other than the Department of State Lands to administer the estate of a decedent who died wholly intestate and without known heirs if the person filing a petition under ORS 113.035 attaches written authorization from the Department of State Lands approving the filing of the petition by the person. Except as provided by rule adopted by the Director of the Department of State Lands, the department may consent to the appointment of another person to act as personal representative only if it appears after investigation that the estate is insolvent. [1969 c.591 §88; 1971 c.421 §1; 1971 c.675 §1; 1973 c.370 §1; 1987 c.158 §17a; 1987 c.425 §1; 1989 c.966 §2; 1995 c.106 §2; 2001 c.102 §3; 2001 c.900 §15; 2003 c.395 §12; 2005 c.381 §20; 2005 c.625 §56; 2009 c.595 §76; 2009 c.602 §2; 2009 c.828 §7; 2011 c.720 §57; 2013 c.36 §33; 2013 c.688 §14; 2015 c.381 §5; 2017 c.169 §13]
+
+ 
+
+      Note: The amendments to 113.085 by section 34, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.085. (1) Except as provided in subsection (3) of this section, upon the filing of the petition under ORS 113.035, if there is no will or if there is a will and it has been proved, the court shall appoint a qualified person the court finds suitable as personal representative, giving preference in the following order:
+
+      (a) The personal representative named in the will.
+
+      (b) If the surviving spouse of the decedent is a distributee of the estate, the surviving spouse of the decedent or the nominee of the surviving spouse of the decedent.
+
+      (c) If the person is a distributee of the estate, a person who would be entitled to property of the decedent under intestate succession.
+
+      (d) Any other distributee of the estate.
+
+      (e) The Director of Human Services or the Director of the Oregon Health Authority, or an attorney approved under ORS 113.086, if the decedent received public assistance as defined in ORS 411.010, received medical assistance as defined in ORS 414.025 or received care at an institution described in ORS 179.321 (1) and it appears that the assistance or the cost of care may be recovered from the estate of the decedent.
+
+      (f) The Department of Veterans’ Affairs, if the decedent was a protected person under ORS 406.050 (10) and the department has joined in the petition for such appointment.
+
+      (g) Any other person.
+
+      (2) Before the court appoints a personal representative under subsection (1)(b) to (g) of this section, the court may require the petitioner to make a reasonable attempt to notify persons of higher priority than the proposed personal representative under subsection (1)(b) to (g) of this section.
+
+      (3) Except as provided in subsection (4) of this section, the court shall appoint the State Treasurer as personal representative if it appears that the decedent died wholly intestate and without known heirs. The Attorney General shall represent the State Treasurer in the administration of the estate. The State Treasurer shall deposit any funds received by the State Treasurer in the capacity of personal representative in accounts, separate and distinct from the General Fund, established in the State Treasury. Interest earned by such account shall be credited to that account.
+
+      (4) The court may appoint a person other than the State Treasurer to administer the estate of a decedent who died wholly intestate and without known heirs if the person filing a petition under ORS 113.035 attaches written authorization from the State Treasurer approving the filing of the petition by the person. Except as provided by rule adopted by the State Treasurer, the State Treasurer may consent to the appointment of another person to act as personal representative only if it appears after investigation that the estate is insolvent.
 
  
 
@@ -395,7 +463,7 @@ PROBATE LAW
 
  
 
-      113.105 Bond for personal representative. (1)(a) Except as provided in subsections (2) to (4) of this section, the personal representative may not act, and letters may not be issued to the personal representative, until the personal representative provides a bond to the clerk of the court. The bond must be for the security and benefit of all interested persons and must be conditioned upon the personal representative faithfully performing the duties of the position. The bond must be executed by a surety qualified under ORCP 82 D to G.
+      113.105 Bond for personal representative. (1)(a) Except as provided in subsections (2) to (5) of this section, the personal representative may not act, and letters may not be issued to the personal representative, until the personal representative provides a bond to the clerk of the court in an amount set by the court. The bond must be for the security and benefit of all interested persons and must be conditioned upon the personal representative faithfully performing the duties of the position. The bond must be executed by a surety qualified under ORCP 82 D to G.
 
       (b) The amount of the bond set by the court under this subsection must be adequate to protect interested persons. In setting the amount of the bond, the court shall consider:
 
@@ -409,23 +477,67 @@ PROBATE LAW
 
       (a) The will provides that no bond is required, but the court may, for good cause, require a bond notwithstanding any provision in a will that no bond is required;
 
-      (b) The personal representative is the sole heir or devisee, but the court may, for good cause, require a bond notwithstanding the fact that the personal representative is the sole heir or devisee; or
+      (b) The personal representative is the sole heir or devisee, but the court may, for good cause, require a bond notwithstanding the fact that the personal representative is the sole heir or devisee;
 
-      (c) The personal representative is the Department of State Lands, the Department of Veterans’ Affairs, the Director of Human Services, the Director of the Oregon Health Authority or an attorney approved under ORS 113.086.
+      (c) The personal representative is the Department of State Lands, the Department of Veterans’ Affairs, the Director of Human Services, the Director of the Oregon Health Authority or an attorney approved under ORS 113.086; or
 
-      (3) Upon a request by the personal representative, the court may waive the requirement of a bond if:
+      (d) The petition for appointment of the personal representative states that no assets of the estate are known to the petitioner.
+
+      (3) If no bond was required under subsection (2)(d) of this section and assets of the estate later come into the possession or knowledge of the personal representative, the personal representative shall, within 30 days after filing the inventory or supplemental inventory first showing assets of the estate, file a motion to set or waive the bond as provided in this section.
+
+      (4) Upon a request by the personal representative, the court may waive the requirement of a bond if:
 
       (a) The request states the reasons why the waiver is requested; and
 
       (b) The request describes the known creditors of the estate.
 
-      (4) The court may waive or reduce the requirement of a bond to the extent that:
+      (5) The court may waive or reduce the requirement of a bond to the extent that:
 
       (a) The personal representative provides written confirmation from a financial institution that property of the estate is held by the financial institution subject to withdrawal only on order of the court; or
 
       (b) The court restricts the sale, encumbrance or other disposition of property of the estate without prior court approval.
 
-      (5) Nothing in this section affects the provisions of ORS 709.240, relating to a trust company acting as personal representative. [1969 c.591 §90; 1971 c.421 §2; 1973 c.369 §1; 1973 c.797 §425; 1989 c.682 §1; 2001 c.900 §16; 2003 c.395 §13; 2005 c.625 §72; 2009 c.595 §77; 2009 c.828 §8; 2017 c.169 §15]
+      (6) Nothing in this section affects the provisions of ORS 709.240, relating to a trust company acting as personal representative. [1969 c.591 §90; 1971 c.421 §2; 1973 c.369 §1; 1973 c.797 §425; 1989 c.682 §1; 2001 c.900 §16; 2003 c.395 §13; 2005 c.625 §72; 2009 c.595 §77; 2009 c.828 §8; 2017 c.169 §15; 2019 c.414 §2]
+
+ 
+
+      Note: The amendments to 113.105 by section 35, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.105. (1)(a) Except as provided in subsections (2) to (5) of this section, the personal representative may not act, and letters may not be issued to the personal representative, until the personal representative provides a bond to the clerk of the court in an amount set by the court. The bond must be for the security and benefit of all interested persons and must be conditioned upon the personal representative faithfully performing the duties of the position. The bond must be executed by a surety qualified under ORCP 82 D to G.
+
+      (b) The amount of the bond set by the court under this subsection must be adequate to protect interested persons. In setting the amount of the bond, the court shall consider:
+
+      (A) The nature, liquidity and apparent value of the assets of the estate.
+
+      (B) The anticipated income during administration.
+
+      (C) The probable indebtedness and taxes.
+
+      (2) Subsection (1) of this section does not apply if:
+
+      (a) The will provides that no bond is required, but the court may, for good cause, require a bond notwithstanding any provision in a will that no bond is required;
+
+      (b) The personal representative is the sole heir or devisee, but the court may, for good cause, require a bond notwithstanding the fact that the personal representative is the sole heir or devisee;
+
+      (c) The personal representative is the State Treasurer, the Department of Veterans’ Affairs, the Director of Human Services, the Director of the Oregon Health Authority or a person approved under ORS 113.085 or 113.086; or
+
+      (d) The petition for appointment of the personal representative states that no assets of the estate are known to the petitioner.
+
+      (3) If no bond was required under subsection (2)(d) of this section and assets of the estate later come into the possession or knowledge of the personal representative, the personal representative shall, within 30 days after filing the inventory or supplemental inventory first showing assets of the estate, file a motion to set or waive the bond as provided in this section.
+
+      (4) Upon a request by the personal representative, the court may waive the requirement of a bond if:
+
+      (a) The request states the reasons why the waiver is requested; and
+
+      (b) The request describes the known creditors of the estate.
+
+      (5) The court may waive or reduce the requirement of a bond to the extent that:
+
+      (a) The personal representative provides written confirmation from a financial institution that property of the estate is held by the financial institution subject to withdrawal only on order of the court; or
+
+      (b) The court restricts the sale, encumbrance or other disposition of property of the estate without prior court approval.
+
+      (6) Nothing in this section affects the provisions of ORS 709.240, relating to a trust company acting as personal representative.
 
  
 
@@ -553,7 +665,7 @@ ______________________________________________________________________________ [
 
  
 
-      113.155 Publication of notice to interested persons. (1) Upon appointment a personal representative shall cause a notice to interested persons to be published once in each of three consecutive weeks in:
+      113.155 Publication of notice to interested persons. (1) Except as provided in subsection (5) of this section, upon appointment a personal representative shall cause a notice to interested persons to be published once in each of three consecutive weeks in:
 
       (a) A newspaper published in the county in which the estate proceeding is pending; or
 
@@ -575,7 +687,11 @@ ______________________________________________________________________________ [
 
       (3) The failure of the personal representative to cause a notice to be published under this section is a breach of duty to the persons concerned, but does not affect the validity of appointment, duties or powers or the exercise of duties or powers.
 
-      (4) A personal representative shall file in the estate proceeding proof of the publication of notice required by this section. The proof shall include a copy of the published notice. [1969 c.591 §95; 1973 c.506 §26; 2007 c.284 §11]
+      (4) A personal representative shall file in the estate proceeding proof of the publication of notice required by this section. The proof shall include a copy of the published notice.
+
+      (5)(a) This section does not apply if the petition for appointment of the personal representative states that no assets of the estate are known to the petitioner and no assets of the estate have come into the possession or knowledge of the personal representative.
+
+      (b) If the petition for appointment of the personal representative states that no assets of the estate are known to the petitioner and assets of the estate later come into the possession or knowledge of the personal representative, the personal representative shall, within 30 days after the filing of the inventory or supplemental inventory first showing assets of the estate, commence publication of notice to interested persons as provided in this section. [1969 c.591 §95; 1973 c.506 §26; 2007 c.284 §11; 2019 c.414 §3]
 
  
 
@@ -583,11 +699,13 @@ ______________________________________________________________________________ [
 
  
 
-      113.165 Filing inventory and evaluation. Within 90 days after the date of appointment, unless a longer time is granted by the court, a personal representative shall file in the estate proceeding an inventory of all property of the estate that has come into the possession or knowledge of the personal representative. The inventory shall show the estimates by the personal representative of the respective fair market values as of the date of the death of the decedent of the properties described in the inventory. [1969 c.591 §96; 1987 c.586 §27; 1991 c.191 §2; 2017 c.169 §17]
+      113.165 Filing inventory and evaluation. Within 90 days after the date of appointment, unless a longer time is granted by the court, a personal representative shall file in the estate proceeding an inventory of all property of the estate that has come into the possession or knowledge of the personal representative. The inventory shall show the estimates by the personal representative of the respective fair market values as of the date of the death of the decedent of the properties described in the inventory. If no property of the estate has come into the possession or knowledge of the personal representative, the personal representative shall file an inventory stating that no property of the estate has come into the possession or knowledge of the personal representative. [1969 c.591 §96; 1987 c.586 §27; 1991 c.191 §2; 2017 c.169 §17; 2019 c.414 §4]
 
  
 
-      113.175 Property discovered after inventory filed. Whenever any property of the estate not included in the inventory comes into the possession or knowledge of the personal representative, the personal representative shall either file in the estate proceeding a supplemental inventory within 30 days after the date of receiving possession or knowledge, or include the property in the next accounting. [1969 c.591 §97]
+      113.175 Property discovered after inventory filed. (1) Whenever any property of the estate not included in the inventory comes into the possession or knowledge of the personal representative, the personal representative shall either file in the estate proceeding a supplemental inventory within 30 days after the date of receiving possession or knowledge, or include the property in the next accounting.
+
+      (2) If the inventory states that no assets of the estate are known to the petitioner and assets of the estate later come into the possession or knowledge of the personal representative, the personal representative shall file in the estate proceeding a supplemental inventory within 30 days after receiving possession or knowledge of the assets. [1969 c.591 §97; 2019 c.414 §5]
 
  
 
@@ -657,15 +775,35 @@ ______________________________________________________________________________ [
 
  
 
+      Note: The amendments to 113.235 by section 36, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.235. The State Treasurer shall appoint one or more estate administrators to administer any estate in which the State Treasurer is appointed personal representative. An estate administrator appointed under this section is an employee of the State Treasurer.
+
+ 
+
       113.238 Requirements and prohibitions related to certain decedents who die intestate and without heirs. (1) A person who has knowledge that a decedent died wholly intestate, that the decedent owned property subject to probate in Oregon and that the decedent died without a known heir shall give notice of the death within 48 hours after acquiring that knowledge to the Department of State Lands.
 
       (2) Except as provided by ORS 708A.430 and 723.466, a person may not dispose of or diminish any assets of the estate of a decedent who has died wholly intestate, who owned property subject to probate in Oregon and who died without a known heir unless the person has prior written approval of the Department of State Lands. The prohibition of this subsection:
 
       (a) Applies to a guardian or conservator for the decedent; and
 
-      (b) Does not apply to a personal representative appointed under ORS 113.085 (4) or to an affiant authorized under ORS 114.520 to file an affidavit under ORS 114.515.
+      (b) Does not apply to a personal representative appointed under ORS 113.085 (4) or to an affiant authorized under ORS 114.520 to file a small estate affidavit under ORS 114.515.
 
-      (3) For purposes of this section, a known heir is an heir who has been identified and found. [2003 c.395 §8; 2009 c.541 §3; 2017 c.169 §23]
+      (3) For purposes of this section, a known heir is an heir who has been identified and found. [2003 c.395 §8; 2009 c.541 §3; 2017 c.169 §23; 2019 c.165 §23]
+
+ 
+
+      Note: The amendments to 113.238 by section 37, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.238. (1) A person who has knowledge that a decedent died wholly intestate, that the decedent owned property subject to probate in Oregon and that the decedent died without a known heir shall give notice of the death within 48 hours after acquiring that knowledge to the State Treasurer.
+
+      (2) Except as provided by ORS 708A.430 and 723.466, a person may not dispose of or diminish any assets of the estate of a decedent who has died wholly intestate, who owned property subject to probate in Oregon and who died without a known heir unless the person has prior written approval of the State Treasurer. The prohibition of this subsection:
+
+      (a) Applies to a guardian or conservator for the decedent; and
+
+      (b) Does not apply to a personal representative appointed under ORS 113.085 (4) or to an affiant authorized under ORS 114.520 to file a small estate affidavit under ORS 114.515.
+
+      (3) For purposes of this section, a known heir is an heir who has been identified and found.
 
  
 
@@ -694,6 +832,32 @@ ______________________________________________________________________________ [
       (f) Sell perishable property of the estate.
 
       (3) The reasonable funeral and administrative expenses of the Department of State Lands incurred under this section, including a reasonable attorney fee, shall be paid from the assets of the estate with the same priority as funeral and administration expenses under ORS 115.125. [2003 c.395 §9; 2016 c.42 §21; 2017 c.169 §51]
+
+ 
+
+      Note: The amendments to 113.242 by section 38, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      113.242. (1) An estate administrator of the State Treasurer appointed under ORS 113.235 may take custody of the property of a decedent who died owning property subject to probate in Oregon upon the State Treasurer receiving notice that:
+
+      (a) The decedent died wholly intestate and without a known heir as described in ORS 113.238 (3); or
+
+      (b) The decedent left a valid will, but no devisee has been identified and found.
+
+      (2) For any estate described in subsection (1) of this section, an estate administrator of the State Treasurer appointed under ORS 113.235 may:
+
+      (a) Incur expenses for the funeral of the decedent in a manner suitable to the condition in life of the decedent;
+
+      (b) Incur expenses for the protection of the property of the estate;
+
+      (c) Incur expenses searching for a will or for heirs or devisees of the decedent;
+
+      (d) Have access to the property and records of the decedent other than records that are made confidential or privileged by statute;
+
+      (e) With proof of the death of the decedent, have access to all financial records of accounts or safe deposit boxes of the decedent at banks or other financial institutions; and
+
+      (f) Sell perishable property of the estate.
+
+      (3) The reasonable funeral and administrative expenses of the State Treasurer incurred under this section, including a reasonable attorney fee, shall be paid from the assets of the estate with the same priority as funeral and administration expenses under ORS 115.125.
 
  
 

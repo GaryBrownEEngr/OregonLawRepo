@@ -18,7 +18,9 @@ Chapter     409.     Department of Human Services
 
                   414.     Medical Assistance
 
-                  416.     Recovery of Aid and Child Support
+                  415.     Financial Regulation of Coordinated Care Organizations
+
+                  416.     Recovery and Reimbursement of Aid
 
                   417.     Interstate Compacts on Juveniles and Children; Children and Family Services
 
@@ -43,16 +45,6 @@ _______________
  
 
 Chapter 409 — Department of Human Services
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0066
-
- 
 
  
 
@@ -269,7 +261,7 @@ VOLUNTEER PROGRAM
 
  
 
-409.365     Department of Human Services Volunteer Program Donated Fund Account
+409.365     Department of Human Services Donated Fund Account
 
  
 
@@ -341,7 +333,43 @@ LONG TERM CARE FACILITY ASSESSMENT
 
  
 
-(Temporary provisions relating to long term care facility assessment are compiled as notes following ORS 409.750)
+409.800     Definitions
+
+ 
+
+409.801     Long term care facility assessment
+
+ 
+
+409.802     Rate of assessment; refund of overage
+
+ 
+
+409.803     Oregon Veterans’ Home exempt from assessment
+
+ 
+
+409.804     Assessment subject to use of specified reimbursement methodology
+
+ 
+
+409.805     Requirement to maintain records; audits
+
+ 
+
+409.810     Claim for refund; right to hearing
+
+ 
+
+409.815     Long Term Care Facility Quality Assurance Fund established
+
+ 
+
+409.816     Assessments to be deposited to Long Term Care Quality Assurance Fund
+
+ 
+
+409.900     Civil penalties for failure to report
 
  
 
@@ -433,7 +461,7 @@ ADMINISTRATION
 
  
 
-      Note: Legislative Counsel has substituted “chapter 319, Oregon Laws 1971,” for the words “this Act” in section 9, chapter 319, Oregon Laws 1971, compiled as 409.040 (formerly 184.780). Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1971 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 319, Oregon Laws 1971,” for the words “this Act” in section 9, chapter 319, Oregon Laws 1971, compiled as 409.040 (formerly 184.780). Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1971 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -617,15 +645,15 @@ CHILD WELFARE SERVICES
 
       (d) In all cases of child abuse and neglect for which a criminal investigation is conducted, the role of law enforcement agencies is to provide a legally sound, child sensitive investigation of whether abuse or neglect or both have occurred and to gather other evidence and perform other responsibilities in accordance with interagency agreements.
 
-      (e) The department and law enforcement agencies shall conduct the investigation and assessment concurrently, based upon the protocols and procedures of the county multidisciplinary child abuse team in each jurisdiction.
+      (e) The department and law enforcement agencies shall conduct the investigation and assessment concurrently, based upon the protocols and procedures of the county child abuse multidisciplinary team in each jurisdiction.
 
-      (f) When the department and law enforcement agencies conduct a joint investigation and assessment, the activities of the department and agencies are to be clearly differentiated by the protocols of the county multidisciplinary child abuse team.
+      (f) When the department and law enforcement agencies conduct a joint investigation and assessment, the activities of the department and agencies are to be clearly differentiated by the protocols of the county child abuse multidisciplinary team.
 
       (g) Nothing in this subsection is intended to be inconsistent with ORS 418.702, 418.747 and 418.748 and ORS chapter 419B.
 
       (h) In all cases of child abuse for which an investigation is conducted, the department shall provide a child’s parent, guardian or caregiver with a clear written explanation of the investigation process, the court hearing process and the rights of the parent, guardian or caregiver in the abuse investigation and in the court proceedings related to the abuse investigation.
 
-      (3) Upon receipt of a recommendation of the Children’s Advocate under ORS 417.815 (2)(e), the department shall implement the recommendation or give the Children’s Advocate written notice of an intent not to implement the recommendation. [1993 c.676 §11; 1995 c.79 §397; 1997 c.130 §4; 1997 c.249 §126; 2001 c.900 §68; 2003 c.591 §7; 2005 c.499 §1; 2005 c.562 §24; 2012 c.97 §19]
+      (3) Upon receipt of a recommendation of the Children’s Advocate under ORS 417.815 (2)(e), the department shall implement the recommendation or give the Children’s Advocate written notice of an intent not to implement the recommendation. [1993 c.676 §11; 1995 c.79 §397; 1997 c.130 §4; 1997 c.249 §126; 2001 c.900 §68; 2003 c.591 §7; 2005 c.499 §1; 2005 c.562 §24; 2012 c.97 §19; 2019 c.141 §13]
 
  
 
@@ -897,11 +925,11 @@ VOLUNTEER PROGRAM
 
  
 
-      409.365 Department of Human Services Volunteer Program Donated Fund Account. (1) The Department of Human Services Volunteer Program Donated Fund Account is established separate and distinct from the General Fund. Interest earned, if any, shall inure to the benefit of the account. The moneys in the account are appropriated continuously to the Department of Human Services.
+      409.365 Department of Human Services Donated Fund Account. (1) The Department of Human Services Donated Fund Account is established separate and distinct from the General Fund. Interest earned, if any, shall inure to the benefit of the account. The moneys in the account are appropriated continuously to the Department of Human Services.
 
-      (2) The Department of Human Services Volunteer Program shall keep a record of all moneys credited to and deposited in the Department of Human Services Volunteer Program Donated Fund Account. The record shall indicate the source from which the moneys are derived and the activity or program against which each withdrawal is charged.
+      (2) The Department of Human Services shall keep a record of all moneys credited to and deposited in the Department of Human Services Donated Fund Account. The record shall indicate the source from which the moneys are derived and the activity or program against which each withdrawal is charged.
 
-      (3) All private donations or contributions made for the use or benefit of the Department of Human Services Volunteer Program shall be deposited in the Department of Human Services Volunteer Program Donated Fund Account. All funds deposited in that account shall be used for direct program expenditures for the Department of Human Services Volunteer Program and shall not be used for direct or indirect administrative expenditures. [1997 c.597 §2; 1999 c.421 §9]
+      (3) All private donations or contributions made for the use or benefit of the Department of Human Services shall be deposited in the Department of Human Services Donated Fund Account. All funds deposited in that account shall be used to support activities that align with the mission of the Department of Human Services. [1997 c.597 §2; 1999 c.421 §9; 2019 c.455 §9]
 
  
 
@@ -1225,11 +1253,9 @@ LONG TERM CARE FACILITY ASSESSMENT
 
  
 
-      Note: Sections 15 to 24, 29 and 31, chapter 736, Oregon Laws 2003, provide:
+      409.800 Definitions. As used in ORS 409.800 to 409.816 and 409.900:
 
-      Sec. 15. As used in sections 15 to 22, chapter 736, Oregon Laws 2003:
-
-      (1) “Assessment rate” means the rate established by the Director of Human Services under section 17, chapter 736, Oregon Laws 2003.
+      (1) “Assessment rate” means the rate established by the Director of Human Services under ORS 409.802.
 
       (2) “Assessment year” means a 12-month period, beginning July 1 and ending the following June 30, for which the assessment rate being determined is to apply.
 
@@ -1249,149 +1275,141 @@ LONG TERM CARE FACILITY ASSESSMENT
 
       (6) “Patient days” means the total number of patients occupying beds in a long term care facility for all days in the calendar period for which an assessment is being reported and paid. For purposes of this subsection, if a long term care facility patient is admitted and discharged on the same day, the patient shall be deemed to occupy a bed for one day. [2003 c.736 §15; 2005 c.757 §3; 2007 c.70 §358; 2007 c.780 §7]
 
-      Sec. 16. (1) A long term care facility assessment is imposed on each long term care facility in this state.
+ 
+
+      Note: 409.800 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
+
+ 
+
+      409.801 Long term care facility assessment. (1) A long term care facility assessment is imposed on each long term care facility in this state.
 
       (2) The amount of the assessment equals the assessment rate times the number of patient days, including Medicaid patient days, at the long term care facility for a calendar quarter.
 
       (3) The assessment shall be reported on a form prescribed by the Department of Human Services and shall contain the information required to be reported by the department. The assessment form shall be filed with the department on or before the last day of the month following the end of the calendar quarter for which the assessment is being reported. The long term care facility shall pay the assessment at the time the facility files the assessment report. The payment shall accompany the report unless the payment is transmitted electronically or unless the department permits a later payment under criteria prescribed by the department by rule.
 
-      (4) A long term care facility is not guaranteed that any additional moneys paid to the facility in the form of reimbursements calculated according to the methodology described in section 24 (4), chapter 736, Oregon Laws 2003, shall equal or exceed the amount of the long term care facility assessment paid by the facility. [2003 c.736 §16; 2005 c.757 §4; 2007 c.780 §8]
+      (4) A long term care facility is not guaranteed that any additional moneys paid to the facility in the form of reimbursements calculated according to the methodology described in ORS 409.815 (4) shall equal or exceed the amount of the long term care facility assessment paid by the facility. [2003 c.736 §16; 2005 c.757 §4; 2007 c.780 §8]
 
-      Sec. 17. (1) On or before June 15 of each year, the Director of Human Services shall establish an assessment rate for long term care facilities that are not exempt for the assessment year from the assessment imposed under section 16, chapter 736, Oregon Laws 2003. The assessment rate shall apply prospectively to the assessment year. The assessment rate shall be a rate estimated to collect an amount that does not exceed six percent of the annual gross revenue of all long term care facilities in this state, as determined from the financial statements or revenue reports, prescribed by the director by rule, filed by long term care facilities for the period ending June 30 of the previous year. For purposes of establishing an assessment rate pursuant to this subsection, the director shall exclude the annual gross revenue of long term care facilities that are exempt from the assessment imposed under section 16, chapter 736, Oregon Laws 2003.
+ 
 
-      (2) On or before October 15 of each year, the Department of Human Services shall refund any overage in tax dollars collected under section 16, chapter 736, Oregon Laws 2003, that exceeds the maximum percentage of the projected annual gross revenue of all long term care facilities in this state as described in subsection (1) of this section. The department shall refund any overage described in this subsection by crediting the percentage of the overage attributable to each long term care facility subject to the assessment described in section 16, chapter 736, Oregon Laws 2003, against taxes owed by that facility in succeeding assessment periods. The department may collect any delinquent assessments, but may not collect any underages in actual collections through an adjustment in assessment rates. [2003 c.736 §17; 2005 c.757 §5; 2007 c.780 §9]
+      Note: 409.801 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
 
-      Sec. 18. The Oregon Veterans’ Home is exempt from the assessment imposed under section 16, chapter 736, Oregon Laws 2003. [2003 c.736 §18; 2003 c.736 §34; 2005 c.757 §7; 2007 c.780 §10; 2013 c.608 §18]
+ 
 
-      Sec. 19. (1) A long term care facility that fails to file a report or pay an assessment under section 16 of this 2003 Act by the date the report or payment is due shall be subject to a penalty of $500 per day of delinquency. The total amount of penalties imposed under this section for each reporting period may not exceed five percent of the assessment for the reporting period for which penalties are being imposed.
+      409.802 Rate of assessment; refund of overage. (1) On or before June 15 of each year, the Director of Human Services shall establish an assessment rate for long term care facilities that are not exempt for the assessment year from the assessment imposed under ORS 409.801. The assessment rate shall apply prospectively to the assessment year. The assessment rate shall be a rate estimated to collect an amount that does not exceed six percent of the annual gross revenue of all long term care facilities in this state, as determined from the financial statements or revenue reports, prescribed by the director by rule, filed by long term care facilities for the period ending June 30 of the previous year. For purposes of establishing an assessment rate pursuant to this subsection, the director shall exclude the annual gross revenue of long term care facilities that are exempt from the assessment imposed under ORS 409.801.
 
-      (2) Penalties imposed under this section shall be collected by the Department of Human Services and deposited in the Department of Human Services Account established under ORS 409.060.
+      (2) On or before October 15 of each year, the Department of Human Services shall refund any overage in tax dollars collected under ORS 409.801 that exceeds the maximum percentage of the projected annual gross revenue of all long term care facilities in this state as described in subsection (1) of this section. The department shall refund any overage described in this subsection by crediting the percentage of the overage attributable to each long term care facility subject to the assessment described in ORS 409.801 against taxes owed by that facility in succeeding assessment periods. The department may collect any delinquent assessments, but may not collect any underages in actual collections through an adjustment in assessment rates. [2003 c.736 §17; 2005 c.757 §5; 2007 c.780 §9]
 
-      (3) Penalties paid under this section are in addition to and not in lieu of the assessment imposed under section 16 of this 2003 Act. [2003 c.736 §19]
+ 
 
-      Sec. 20. (1) A long term care facility that has paid an amount that is not required under sections 15 to 22 of this 2003 Act may file a claim for refund with the Department of Human Services.
+      Note: 409.802 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
 
-      (2) Any long term care facility aggrieved by an action of the Department of Human Services or by an action of the Director of Human Services taken under sections 15 to 22 of this 2003 Act shall be entitled to notice and an opportunity for a contested case hearing under ORS chapter 183. [2003 c.736 §20]
+ 
 
-      Sec. 21. (1) Each long term care facility subject to assessment under section 16 of this 2003 Act shall maintain records sufficient to determine the amount of the assessment under section 16 of this 2003 Act.
+      409.803 Oregon Veterans’ Home exempt from assessment. The Oregon Veterans’ Home is exempt from the assessment imposed under ORS 409.801. [2003 c.736 §18; 2003 c.736 §34; 2005 c.757 §7; 2007 c.780 §10; 2013 c.608 §18]
+
+ 
+
+      Note: 409.803 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
+
+ 
+
+      409.804 Assessment subject to use of specified reimbursement methodology. Notwithstanding any other provision of law, an assessment under ORS 409.800 to 409.816 and 409.900 may be imposed only in a calendar quarter for which the long term care facility reimbursement rate that is part of the Oregon Medicaid reimbursement system was calculated according to the methodology described in ORS 409.815 (4). The Department of Human Services may make retroactive increases in payments for the first six months the assessment is imposed. [2003 c.736 §29; 2007 c.780 §13]
+
+ 
+
+      Note: 409.804 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
+
+ 
+
+      409.805 Requirement to maintain records; audits. (1) Each long term care facility subject to assessment under ORS 409.801 shall maintain records sufficient to determine the amount of the assessment under ORS 409.801.
 
       (2) Unless otherwise exempt, a long term care facility shall report the payment of the assessment as an allowable cost for Medicaid reimbursement purposes.
 
-      (3) The Department of Human Services may audit the records of any long term care facility in this state to determine compliance with sections 15 to 22 of this 2003 Act. The department may audit records at any time for a period of three years following the date an assessment is due to be reported and paid under section 16 of this 2003 Act. [2003 c.736 §21]
-
-      Sec. 22. Amounts collected by the Department of Human Services from the assessment under section 16, chapter 736, Oregon Laws 2003 shall be deposited in the Long Term Care Facility Quality Assurance Fund established under section 24, chapter 736, Oregon Laws 2003. [2003 c.736 §22; 2005 c.757 §10]
-
-      Sec. 23. Sections 15 to 22, chapter 736, Oregon Laws 2003, apply to long term care facility assessments imposed in calendar quarters beginning on or after November 26, 2003, and before July 1, 2020. [2003 c.736 §23; 2005 c.757 §8; 2007 c.780 §11; 2013 c.608 §19]
-
-      Sec. 24. (1) The Long Term Care Facility Quality Assurance Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Long Term Care Facility Quality Assurance Fund shall be credited to the fund.
-
-      (2) Amounts in the Long Term Care Facility Quality Assurance Fund are continuously appropriated to the Department of Human Services for the purposes of paying refunds due under section 20, chapter 736, Oregon Laws 2003, and funding long term care facilities, as defined in section 15, chapter 736, Oregon Laws 2003, that are a part of the Oregon Medicaid reimbursement system.
-
-      (3) Funds in the Long Term Care Facility Quality Assurance Fund and the matching federal financial participation under Title XIX of the Social Security Act may be used to fund Medicaid-certified long term care facilities using only the reimbursement methodology described in subsections (4) and (5) of this section to achieve a rate of reimbursement greater than the rate in effect on June 30, 2003.
-
-      (4) The reimbursement methodology used to make additional payments to Medicaid-certified long term care facilities includes but is not limited to:
-
-      (a) Rebasing on July 1 of each year;
-
-      (b) Continuing the use of the pediatric rate;
-
-      (c) Continuing the use of the complex medical needs additional payment; and
-
-      (d) Discontinuing the use of the relationship percentage, except when calculating the pediatric rate in paragraph (b) of this subsection.
-
-      (5)(a) In addition to the reimbursement methodology described in subsection (4) of this section, the department may:
-
-      (A) Make additional payments of $9.75 per resident who receives medical assistance to a long term care facility that submits to the department an acquisition plan to purchase long term care bed capacity under section 15, chapter 608, Oregon Laws 2013, on or after October 1, 2013, and on or before June 30, 2016. The payments may be made for a period of four years from the date when the department approves an acquisition plan to purchase long term care bed capacity under section 15, chapter 608, Oregon Laws 2013. The department may not make additional payments under this section until the Medicaid-certified long term care facility is found by the department to meet quality standards adopted by the department by rule.
-
-      (B) Establish a separate pediatric subacute reimbursement rate for pediatric services that are in excess of services customarily provided by pediatric nursing facilities.
-
-      (b) The department may adopt rules relating to the submission and approval of acquisition plans to purchase long term care bed capacity and the verification of bed capacity purchases.
-
-      (6)(a) The department shall reimburse costs using the methodology described in subsections (4) and (5) of this section at a rate not lower than a percentile of allowable costs for the period for which the reimbursement is made.
-
-      (b) For the period beginning July 1, 2013, and ending June 30, 2016, the department shall reimburse costs at a rate not lower than the 63rd percentile of rebased allowable costs for that period.
-
-      (c) For each three-month period beginning on or after July 1, 2016, in which the reduction in bed capacity in Medicaid-certified long term care facilities is less than the goal established in section 15, chapter 608, Oregon Laws 2013, the department shall reimburse costs at a rate not lower than the percentile of allowable costs according to the following schedule:
-
-      (A) 62nd percentile for a reduction of 1,350 or more beds.
-
-      (B) 61st percentile for a reduction of 1,200 or more beds but less than 1,350 beds.
-
-      (C) 60th percentile for a reduction of 1,050 or more beds but less than 1,200 beds.
-
-      (D) 59th percentile for a reduction of 900 or more beds but less than 1,050 beds.
-
-      (E) 58th percentile for a reduction of 750 or more beds but less than 900 beds.
-
-      (F) 57th percentile for a reduction of 600 or more beds but less than 750 beds.
-
-      (G) 56th percentile for a reduction of 450 or more beds but less than 600 beds.
-
-      (H) 55th percentile for a reduction of 300 or more beds but less than 450 beds.
-
-      (I) 54th percentile for a reduction of 150 or more beds but less than 300 beds.
-
-      (J) 53rd percentile for a reduction of 1 to 49 beds.
-
-      (7) A reduction in the percentile of allowable costs reimbursed under subsection (6) of this section is not subject to ORS 410.555. [2003 c.736 §24; 2005 c.757 §11; 2007 c.780 §12; 2013 c.608 §20; 2016 c.113 §3]
+      (3) The Department of Human Services may audit the records of any long term care facility in this state to determine compliance with ORS 409.800 to 409.816 and 409.900. The department may audit records at any time for a period of three years following the date an assessment is due to be reported and paid under ORS 409.801. [2003 c.736 §21]
 
  
 
-      Note: The amendments to section 24, chapter 736, Oregon Laws 2003, by section 24, chapter 608, Oregon Laws 2013, become operative June 30, 2020. See section 26, chapter 608, Oregon Laws 2013. The text that is operative on and after June 30, 2020, is set forth for the user’s convenience.
+      Note: 409.805 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
 
-      Sec. 24. (1) The Long Term Care Facility Quality Assurance Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Long Term Care Facility Quality Assurance Fund shall be credited to the fund.
+ 
 
-      (2) Amounts in the Long Term Care Facility Quality Assurance Fund are continuously appropriated to the Department of Human Services for the purposes of paying refunds due under section 20, chapter 736, Oregon Laws 2003, and funding long term care facilities, as defined in section 15, chapter 736, Oregon Laws 2003, that are a part of the Oregon Medicaid reimbursement system.
+      409.810 Claim for refund; right to hearing. (1) A long term care facility that has paid an amount that is not required under ORS 409.800 to 409.816 and 409.900 may file a claim for refund with the Department of Human Services.
+
+      (2) Any long term care facility aggrieved by an action of the Department of Human Services or by an action of the Director of Human Services taken under ORS 409.800 to 409.816 and 409.900 shall be entitled to notice and an opportunity for a contested case hearing under ORS chapter 183. [2003 c.736 §20]
+
+ 
+
+      Note: 409.810 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
+
+ 
+
+      409.815 Long Term Care Facility Quality Assurance Fund established. (1) The Long Term Care Facility Quality Assurance Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Long Term Care Facility Quality Assurance Fund shall be credited to the fund.
+
+      (2) Amounts in the Long Term Care Facility Quality Assurance Fund are continuously appropriated to the Department of Human Services for the purposes of paying refunds due under ORS 409.810 and funding long term care facilities, as defined in ORS 409.800, that are a part of the Oregon Medicaid reimbursement system.
 
       (3) Funds in the Long Term Care Facility Quality Assurance Fund and the matching federal financial participation under Title XIX of the Social Security Act may be used to fund Medicaid-certified long term care facilities using only the reimbursement methodology described in subsection (4) of this section to achieve a rate of reimbursement greater than the rate in effect on June 30, 2003.
 
-      (4) The reimbursement methodology used to make additional payments to Medicaid-certified long term care facilities includes but is not limited to:
+      (4)(a) The department shall make additional payments to Medicaid-certified long term care facilities using a reimbursement methodology that includes, but is not limited to, all of the following:
 
-      (a) Rebasing on July 1 of each year;
+      (A) Rebasing on July 1 of each year;
 
-      (b) Continuing the use of the pediatric rate;
+      (B) Continuing the use of the pediatric rate;
 
-      (c) Continuing the use of the complex medical needs additional payment; and
+      (C) Continuing the use of the complex medical needs additional payment; and
 
-      (d) Discontinuing the use of the relationship percentage, except when calculating the pediatric rate in paragraph (b) of this subsection.
+      (D) Discontinuing the use of the relationship percentage, except when calculating the pediatric rate in subparagraph (B) of this paragraph.
 
-      (5)(a) The department shall reimburse costs using the methodology described in subsection (4) of this section at a rate not lower than a percentile of allowable costs for the period for which the reimbursement is made.
+      (b) In addition to the reimbursement methodology described in paragraph (a) of this subsection, the department may adopt and implement rates applicable to patients with complex medical needs for which the reimbursement methodology described in paragraph (a) of this subsection is insufficient.
 
-      (b) For the period beginning July 1, 2013, and ending June 30, 2016, the department shall reimburse costs at a rate not lower than the 63rd percentile of rebased allowable costs for that period.
-
-      (c) For each three-month period beginning on or after July 1, 2016, in which the reduction in bed capacity in Medicaid-certified long term care facilities is less than 1,500 in bed capacity statewide that existed on the effective date of this 2013 Act [October 7, 2013], the department shall reimburse costs at a rate not lower than the percentile of allowable costs according to the following schedule:
-
-      (A) 62nd percentile for a reduction of 1,350 or more beds.
-
-      (B) 61st percentile for a reduction of 1,200 or more beds but less than 1,350 beds.
-
-      (C) 60th percentile for a reduction of 1,050 or more beds but less than 1,200 beds.
-
-      (D) 59th percentile for a reduction of 900 or more beds but less than 1,050 beds.
-
-      (E) 58th percentile for a reduction of 750 or more beds but less than 900 beds.
-
-      (F) 57th percentile for a reduction of 600 or more beds but less than 750 beds.
-
-      (G) 56th percentile for a reduction of 450 or more beds but less than 600 beds.
-
-      (H) 55th percentile for a reduction of 300 or more beds but less than 450 beds.
-
-      (I) 54th percentile for a reduction of 150 or more beds but less than 300 beds.
-
-      (J) 53rd percentile for a reduction of 1 to 149 beds.
-
-      (6) A reduction in the percentile ceiling of allowable costs reimbursed under subsection (5) of this section is not subject to ORS 410.555.
-
-      Sec. 29. Notwithstanding any other provision of law, an assessment under sections 15 to 22, chapter 736, Oregon Laws 2003, may be imposed only in a calendar quarter for which the long term care facility reimbursement rate that is part of the Oregon Medicaid reimbursement system was calculated according to the methodology described in section 24 (4), chapter 736, Oregon Laws 2003. The Department of Human Services may make retroactive increases in payments for the first six months the assessment is imposed. [2003 c.736 §29; 2007 c.780 §13]
-
-      Sec. 31. Sections 15 to 22, 24 and 29, chapter 736, Oregon Laws 2003, are repealed on January 2, 2021. [2003 c.736 §31; 2005 c.757 §9; 2007 c.780 §14; 2009 c.11 §49; 2013 c.608 §21]
+      (5) For the period beginning July 1, 2018, and ending June 30, 2026, the department shall reimburse costs at a rate not lower than the 62nd percentile of rebased allowable costs for that period. [2003 c.736 §24; 2005 c.757 §11; 2007 c.780 §12; 2013 c.608 §§20, 24; 2016 c.113 §3; 2018 c.66 §4]
 
  
 
-      Note: Section 21, chapter 780, Oregon Laws 2007, provides:
+      Note: 409.815 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
 
-      Sec. 21. Sections 22 and 23 of this 2007 Act and sections 24 and 29, chapter 736, Oregon Laws 2003, are added to and made a part of sections 15 to 22, chapter 736, Oregon Laws 2003. [2007 c.780 §21]
+ 
+
+      409.816 Assessments to be deposited to Long Term Care Quality Assurance Fund. Amounts collected by the Department of Human Services from the assessment under ORS 409.801 shall be deposited in the Long Term Care Facility Quality Assurance Fund established under ORS 409.815. [2003 c.736 §22; 2005 c.757 §10]
+
+ 
+
+      Note: 409.816 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (second note under 409.900).
+
+ 
+
+      409.900 Civil penalties for failure to report. (1) A long term care facility that fails to file a report or pay an assessment under ORS 409.801 by the date the report or payment is due shall be subject to a penalty of $500 per day of delinquency.
+
+      (2) Penalties imposed under this section shall be collected by the Department of Human Services and deposited in the Department of Human Services Account established under ORS 409.060.
+
+      (3) Penalties paid under this section are in addition to and not in lieu of the assessment imposed under ORS 409.801. [2003 c.736 §19; 2018 c.66 §1]
+
+ 
+
+      Note: 409.900 is repealed January 2, 2028, and applies to long term care facility assessments imposed before July 1, 2026. See sections 23 and 31, chapter 736, Oregon Laws 2003, as amended (see following note).
+
+ 
+
+      Note: Sections 23 and 31, chapter 736, Oregon Laws 2003, provide:
+
+      Sec. 23. Sections 15 to 22, chapter 736, Oregon Laws 2003 [409.800 to 409.816 and 409.900], apply to long term care facility assessments imposed in calendar quarters beginning on or after November 26, 2003, and before July 1, 2026. [2003 c.736 §23; 2005 c.757 §8; 2007 c.780 §11; 2013 c.608 §19; 2018 c.66 §2]
+
+      Sec. 31. Sections 15 to 22, 24 and 29, chapter 736, Oregon Laws 2003 [409.800 to 409.816 and 409.900], are repealed on January 2, 2028. [2003 c.736 §31; 2005 c.757 §9; 2007 c.780 §14; 2009 c.11 §49; 2013 c.608 §21; 2018 c.66 §3]
+
+ 
+
+      Note: Sections 5 and 8, chapter 66, Oregon Laws 2018, provide:
+
+      Sec. 5. (1) In addition to the reimbursement methodology described in section 24, chapter 736, Oregon Laws 2003 [409.815], the Department of Human Services shall pay long term care facilities an additional $9.75 per resident who receives medical assistance if:
+
+      (a) The long term care facility is Medicaid certified;
+
+      (b) The long term care facility submitted to the department an acquisition plan to purchase long term care bed capacity under section 15, chapter 608, Oregon Laws 2013, on or after October 1, 2013, and on or before June 30, 2016; and
+
+      (c) The department finds the long term care facility meets quality standards adopted by the department.
+
+      (2) The department shall continue making the payments described in subsection (1) of this section for a period of four years from the date on which the department approved an acquisition plan under section 15, chapter 608, Oregon Laws 2013. [2018 c.66 §5]
+
+      Sec. 8. Section 5 of this 2018 Act is repealed on January 2, 2021. [2018 c.66 §8]
 
 _______________
 

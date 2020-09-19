@@ -4,14 +4,6 @@ Chapter 433 — Disease and Condition Control; Mass Gatherings; Indoor Air
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
-
- 
 
  
 
@@ -42,6 +34,8 @@ GENERAL PROVISIONS
  
 
 433.008     Confidentiality of disclosure; exceptions; privilege
+
+ 
 
 433.009     Reporting by law enforcement unit
 
@@ -151,7 +145,7 @@ PUBLIC HEALTH MEASURES
 
  
 
-433.110     Duties of physicians, physician assistants, naturopathic physicians and nurses in controlling communicable disease
+433.110     Duty to prevent spread of communicable diseases; rules
 
  
 
@@ -243,7 +237,7 @@ DISEASE CONTROL IN SCHOOLS
 
  
 
-433.269     Immunization by local health departments; rules; records and reports
+433.269     Local public health authority to ensure availability of immunizations; reports and records
 
  
 
@@ -256,6 +250,8 @@ DISEASE CONTROL IN SCHOOLS
  
 
 433.280     Status of immunization records as public records
+
+ 
 
 433.281     Post-secondary institution of education that provides student housing to provide information about vaccine-preventable diseases
 
@@ -273,7 +269,11 @@ DISEASE CONTROL IN SCHOOLS
 
  
 
-CONTROL OF METABOLIC DISEASES
+SERVICES FOR NEWBORNS
+
+ 
+
+(Metabolic Diseases)
 
  
 
@@ -287,7 +287,9 @@ CONTROL OF METABOLIC DISEASES
 
 433.295     Report of cases required; forms to be furnished
 
-CONGENITAL CYTOMEGALOVIRUS
+ 
+
+(Congenital Cytomegalovirus)
 
  
 
@@ -295,7 +297,23 @@ CONGENITAL CYTOMEGALOVIRUS
 
  
 
-VITAMIN K FOR NEWBORNS
+(Bloodspot Screening)
+
+ 
+
+433.299     Newborn Bloodspot Screening Advisory Board; members; term; meetings; reports
+
+ 
+
+(Nurse Home Visiting)
+
+ 
+
+433.301     Newborn nurse home visiting services program; rules
+
+ 
+
+(Vitamin K)
 
  
 
@@ -315,13 +333,15 @@ VITAMIN K FOR NEWBORNS
 
  
 
-NEWBORN PULSE OXIMETRY SCREENING
+(Pulse Oximetry Screening)
 
  
 
 433.318     Newborn pulse oximetry screening
 
-NEWBORN HEARING SCREENING TEST
+ 
+
+(Hearing Screening Tests)
 
  
 
@@ -411,6 +431,8 @@ RABIES CONTROL
 
 433.390     County dog control fund; sources and uses
 
+ 
+
 PROCEDURE WHERE WORKERS EXPOSED TO INFECTIOUS DISEASE
 
  
@@ -452,6 +474,8 @@ PUBLIC HEALTH EMERGENCIES
  
 
 433.444     Authority of Public Health Director during disease outbreak
+
+ 
 
 433.446     Authority of Governor during state of public health emergency
 
@@ -525,7 +549,7 @@ REGULATION OF OUTDOOR MASS GATHERINGS
 
  
 
-433.750     Permit application; procedure for issuance of permit; fee
+433.750     Application for outdoor mass gathering for which county decides land use permit is not required; criteria; procedure; fee
 
  
 
@@ -537,11 +561,11 @@ REGULATION OF OUTDOOR MASS GATHERINGS
 
  
 
-433.763     Compliance with land use regulations required; criteria for approval
+433.763     Application for outdoor mass gathering for which county decides land use permit is required; criteria; procedure
 
  
 
-433.765     Effect on county ordinances or regulations adopted under county charter
+433.765     Right of county to enact ordinances or regulations
 
  
 
@@ -617,10 +641,6 @@ OREGON INDOOR CLEAN AIR ACT
 
  
 
-Note          Report to Legislative Assembly on laws related to regulation of inhalant delivery systems and inhalants--2015 c.158 §§29,31
-
- 
-
 433.860     Enforcement
 
  
@@ -630,6 +650,8 @@ Note          Report to Legislative Assembly on laws related to regulation of in
  
 
 433.875     Short title
+
+ 
 
 PENALTIES
 
@@ -681,6 +703,8 @@ GENERAL PROVISIONS
 
       (14) “Toxic substance” has the meaning given that term in ORS 431A.005. [1973 c.259 §2; 1987 c.600 §1; 2001 c.900 §155; 2007 c.445 §6; 2009 c.268 §1; 2009 c.595 §624; 2011 c.721 §1; 2015 c.736 §76]
 
+ 
+
       433.003 [1973 c.259 §4 (enacted in lieu of 433.005); repealed by 1987 c.600 §18]
 
  
@@ -695,7 +719,7 @@ GENERAL PROVISIONS
 
       (d) Prescribe measures and methods for investigating the source and controlling reportable diseases.
 
-      (2) Persons required under the rules to report reportable diseases shall do so by reporting to the local public health administrator. The local public health administrator shall transmit such reports to the authority.
+      (2) Persons required under the rules to report reportable diseases shall report to the authority or the local public health administrator as specified by the authority by rule. A local public health administrator that receives a report under this subsection shall transmit the report to the authority as specified by the authority by rule.
 
       (3) The authority or local public health administrator may investigate a case of a reportable disease, disease outbreak or epidemic. The investigation may include, but is not limited to:
 
@@ -733,7 +757,61 @@ GENERAL PROVISIONS
 
       (5) In addition to other grounds for which a state agency may exercise disciplinary action against its licensees or certificate holders, the substantial or repeated failure of a licensee or certificate holder to report when required to do so under subsection (2) or (3) of this section shall be cause for the exercise of any of the agency’s disciplinary powers.
 
-      (6) Any person making a report or providing information under this section is immune from any civil or criminal liability that might otherwise be incurred or imposed with respect to the making of a report or providing information under this section. [1987 c.600 §3; 2007 c.445 §6a; 2009 c.268 §2; 2009 c.828 §17]
+      (6) Any person making a report or providing information under this section is immune from any civil or criminal liability that might otherwise be incurred or imposed with respect to the making of a report or providing information under this section. [1987 c.600 §3; 2007 c.445 §6a; 2009 c.268 §2; 2009 c.828 §17; 2019 c.456 §31]
+
+ 
+
+      Note: The amendments to 433.004 by section 3, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of a license for a long term care facility, conversion facility, residential care facility or adult foster home on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies to the issuance or renewal of a license for a long term care facility, conversion facility, residential care facility or adult foster home on and after January 1, 2021, is set forth for the user’s convenience.
+
+      433.004. (1) The Oregon Health Authority shall by rule:
+
+      (a) Specify reportable diseases and when the diseases must be reported under this section;
+
+      (b) Identify those categories of persons who must report reportable diseases and the circumstances under which the reports must be made;
+
+      (c) Prescribe the procedures and forms for making such reports and transmitting the reports to the authority; and
+
+      (d) Prescribe measures and methods for investigating the source and controlling reportable diseases.
+
+      (2) Persons required under the rules to report reportable diseases shall report to the authority or the local public health administrator as specified by the authority by rule. A local public health administrator that receives a report under this subsection shall transmit the report to the authority as specified by the authority by rule.
+
+      (3) The authority or local public health administrator may investigate a case of a reportable disease, disease outbreak or epidemic. The investigation may include, but is not limited to:
+
+      (a) Interviews of:
+
+      (A) The subject of a reportable disease report;
+
+      (B) Controls;
+
+      (C) Health care providers; or
+
+      (D) Employees of a health care facility.
+
+      (b) Requiring a health care provider, any public or private entity, or an individual who has information necessary for the investigation to:
+
+      (A) Permit inspection of the information by the authority or local public health administrator; and
+
+      (B) Release the information to the authority or local public health administrator.
+
+      (c) Inspection, sampling and testing of real or personal property with consent of the owner or custodian of the property or with an administrative warrant.
+
+      (4)(a) The authority shall establish by rule the manner in which information may be requested and obtained under subsection (3) of this section.
+
+      (b) Information requested may include, but is not limited to, individually identifiable health information related to:
+
+      (A) The case;
+
+      (B) An individual who may be the potential source of exposure or infection;
+
+      (C) An individual who has been or may have been exposed to or affected by the disease;
+
+      (D) Policies, practices, systems or structures that may have affected the likelihood of disease transmission; and
+
+      (E) Factors that may influence an individual’s susceptibility to the disease or likelihood of being diagnosed with the disease.
+
+      (5) In addition to other grounds for which a state agency may exercise disciplinary action against its licensees or certificate holders, the substantial or repeated failure of a licensee or certificate holder to report when required to do so under subsection (2) or (3) of this section shall be cause for the exercise of any of the agency’s disciplinary powers.
+
+      (6) Any person making a report or providing information under this section is immune from any civil or criminal liability that might otherwise be incurred or imposed with respect to the making of a report or providing information under this section.
 
  
 
@@ -883,7 +961,7 @@ HIV TESTING
 
       433.045 Notice of HIV test required; exceptions. (1) As used in this section:
 
-      (a) “Health care provider” means an individual licensed by a health professional regulatory board, as defined in ORS 676.160, the Nursing Home Administrators Board, the Board of Licensed Dietitians or the Behavior Analysis Regulatory Board.
+      (a) “Health care provider” means an individual licensed by a health professional regulatory board, as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians or the Behavior Analysis Regulatory Board.
 
       (b) “HIV test” means a test of an individual for the presence of HIV, or for antibodies or antigens that result from HIV infection, or for any other substance specifically indicating infection with HIV.
 
@@ -893,7 +971,7 @@ HIV TESTING
 
       (e) “Insurer” has the meaning given that term in ORS 731.106.
 
-      (2) Except as provided in ORS 433.017, 433.055 (3) and 433.080, a health care provider or the provider’s designee shall, before subjecting an individual to an HIV test:
+      (2) Except as provided in ORS 433.017, 433.055 (2) and 433.080, a health care provider or the provider’s designee shall, before subjecting an individual to an HIV test:
 
       (a) Notify the individual being tested; and
 
@@ -907,15 +985,13 @@ HIV TESTING
 
       (5) A person who complies with the requirements of this section is not subject to an action for civil damages.
 
-      (6) Whenever an insurer, insurance producer or insurance-support organization asks an applicant for insurance to take an HIV test in connection with an application for insurance, the insurer, insurance producer or insurance-support organization must reveal the use of the test to the applicant and obtain the written consent of the applicant. The consent form must disclose the purpose of the test and the persons to whom the results may be disclosed. [1987 c.600 §17; 1989 c.878 §6; 1997 c.854 §14; 2003 c.14 §245; 2003 c.364 §51; 2005 c.516 §1; 2009 c.30 §1; 2009 c.828 §19; 2012 c.26 §1; 2017 c.101 §12]
+      (6) Whenever an insurer, insurance producer or insurance-support organization asks an applicant for insurance to take an HIV test in connection with an application for insurance, the insurer, insurance producer or insurance-support organization must reveal the use of the test to the applicant and obtain the written consent of the applicant. The consent form must disclose the purpose of the test and the persons to whom the results may be disclosed. [1987 c.600 §17; 1989 c.878 §6; 1997 c.854 §14; 2003 c.14 §245; 2003 c.364 §51; 2005 c.516 §1; 2009 c.30 §1; 2009 c.828 §19; 2012 c.26 §1; 2017 c.101 §12; 2018 c.61 §15; 2019 c.456 §32]
 
  
 
-      433.055 Prevalence studies. (1) The Oregon Health Authority shall conduct studies of the prevalence of the HIV infection in this state. Its findings shall be reported to the Oregon Public Health Advisory Board, the Conference of Local Health Officials, the Emergency Board and other interested bodies at regular intervals, commencing in January 1988. The authority may cause the prevalence study of persons sentenced to the Department of Corrections of this state, as defined in ORS 421.005, to be made.
+      433.055 Prevalence studies. (1) The Oregon Health Authority shall conduct studies of the prevalence of the HIV infection in this state. The authority shall report findings to the Oregon Public Health Advisory Board, the Conference of Local Health Officials, the Emergency Board and other interested bodies at regular intervals, commencing in January 1988. The authority may cause the prevalence study of persons sentenced to the Department of Corrections of this state, as defined in ORS 421.005, to be made.
 
-      (2) The authority shall contract with an appropriate education agency to prepare a curriculum regarding HIV infection, acquired immune deficiency syndrome (AIDS) and prevention of the spread of AIDS for all school districts and offer workshops to prepare teachers and parents to implement the curriculum. The authority shall award incentive grants from funds available therefor to school districts to encourage use of the curriculum in the schools.
-
-      (3) Prior consent to HIV antibody testing need not be obtained from an individual if the test is for the purpose of research as authorized by the authority and if the testing is performed in a manner by which the identity of the test subject is not known, and may not be retrieved by the researcher. [1987 c.600 §19; 2009 c.595 §634; 2011 c.720 §192; 2012 c.26 §2]
+      (2) Prior consent to HIV antibody testing need not be obtained from an individual if the test is for the purpose of research as authorized by the authority and if the testing is performed in a manner by which the identity of the test subject is not known, and may not be retrieved by the researcher. [1987 c.600 §19; 2009 c.595 §634; 2011 c.720 §192; 2012 c.26 §2; 2019 c.456 §33]
 
  
 
@@ -971,11 +1047,11 @@ HIV TESTING
 
       433.075 Responsibility for cost of test; confidentiality. (1) When an HIV test is performed pursuant to ORS 433.080 or rules adopted under ORS 433.065, the exposed person requesting the test, or the exposed person’s employer in the case of an occupational exposure, shall be responsible for the cost of the testing.
 
-      (2) If an employer provides a program of prevention, education and testing for HIV exposures for its employees, an employee to be tested under ORS 433.060 to 433.080 shall comply with the procedures provided by the program. The program must be approved by the Oregon Health Authority.
+      (2) If an employer provides a program of prevention, education and testing for HIV exposures for its employees, an employee to be tested under ORS 433.060 to 433.080 shall comply with the procedures provided by the program.
 
       (3) When an HIV test is performed pursuant to ORS 433.080 or rules adopted under ORS 433.065, the results shall be reported confidentially to the person who suffered the substantial exposure giving rise to the test.
 
-      (4) The confidentiality provisions of ORS 433.045 (4) apply to any person who receives an HIV test result pursuant to ORS 433.080 or rules adopted under ORS 433.065. A person who complies with the requirements of this subsection is not subject to an action for damages. [1989 c.878 §4; 2009 c.595 §637; 2012 c.26 §4]
+      (4) The confidentiality provisions of ORS 433.045 (4) apply to any person who receives an HIV test result pursuant to ORS 433.080 or rules adopted under ORS 433.065. A person who complies with the requirements of this subsection is not subject to an action for damages. [1989 c.878 §4; 2009 c.595 §637; 2012 c.26 §4; 2019 c.456 §34]
 
  
 
@@ -1139,7 +1215,7 @@ IMMUNIZATION REGISTRY AND TRACKING SYSTEM
 
  
 
-      433.095 Reporting information to registry; rules. The Oregon Health Authority shall adopt rules requiring pharmacists to report information about the administration of vaccines to the immunization registry created under ORS 433.094. [2009 c.250 §2; 2011 c.720 §194]
+      433.095 Reporting information to registry; rules. The Oregon Health Authority shall adopt rules requiring dentists and pharmacists to report information about the administration of vaccines to the immunization registry created under ORS 433.094. [2009 c.250 §2; 2011 c.720 §194; 2019 c.58 §3]
 
  
 
@@ -1219,7 +1295,7 @@ IMMUNIZATION REGISTRY AND TRACKING SYSTEM
 
 PUBLIC HEALTH MEASURES
 
-      433.110 Duties of physicians, physician assistants, naturopathic physicians and nurses in controlling communicable disease. Every physician, physician assistant, naturopathic physician or nurse attending a person affected with any communicable disease shall use all precautionary measures to prevent the spread of the disease as the Oregon Health Authority may prescribe by rule. [Amended by 1973 c.259 §10; 2005 c.471 §3; 2009 c.595 §643; 2014 c.45 §54; 2017 c.356 §63]
+      433.110 Duty to prevent spread of communicable diseases; rules. Every physician, physician assistant, naturopathic physician or nurse attending a person affected with any communicable disease shall use all precautionary measures to prevent the spread of the disease as the Oregon Health Authority may prescribe by rule. [Amended by 1973 c.259 §10; 2005 c.471 §3; 2009 c.595 §643; 2014 c.45 §54; 2017 c.356 §63]
 
  
 
@@ -1727,17 +1803,21 @@ DISEASE CONTROL IN SCHOOLS
 
  
 
-      433.269 Immunization by local health departments; rules; records and reports. (1) Local health departments shall make immunizations available for administration under the direction of a local health officer in convenient areas and at convenient times. A local health department may not refuse to administer an immunization to a person because the person is unable to pay for the immunization.
+      433.269 Local public health authority to ensure availability of immunizations; reports and records. (1) A local public health authority shall ensure that immunizations required under ORS 433.282 and 433.283 and the rules adopted pursuant to ORS 433.273 for attendance at a school, children’s facility or post-secondary educational institution are available through local health care providers or the local public health authority or its contractors:
 
-      (2)(a) Each local health department, school and children’s facility shall report annually to the Oregon Health Authority on:
+      (a) To the entire population of the area served by the local public health authority in convenient areas and at convenient times.
 
-      (A) The number of children in the area served by the local health department, school or children’s facility; and
+      (b) Regardless of whether a child or student is able to pay for the immunization.
 
-      (B) The number of children in the area served by the local health department, school or children’s facility who are susceptible to restrictable disease as prescribed by the authority’s rules pursuant to ORS 433.273.
+      (2)(a) Each local public health authority, school and children’s facility shall report annually to the Oregon Health Authority on:
 
-      (b) Each school and children’s facility shall report annually to the authority on the number of children in the area served by the school or children’s facility who are in attendance at the school or children’s facility conditionally because of an incomplete immunization schedule.
+      (A) The number of children in the area served by the local public health authority, school or children’s facility; and
 
-      (c) Each local health department shall make available to each school and children’s facility in the area served by the local health department data on the immunization rate, by disease, of children in the area. Upon request, the authority shall assist local health departments in compiling data for purposes of this paragraph.
+      (B) The number of children in the area served by the local public health authority, school or children’s facility who are susceptible to restrictable disease as prescribed by the Oregon Health Authority’s rules pursuant to ORS 433.273.
+
+      (b) Each school and children’s facility shall report annually to the Oregon Health Authority on the number of children in the area served by the school or children’s facility who are in attendance at the school or children’s facility conditionally because of an incomplete immunization schedule.
+
+      (c) Each local public health authority shall make available to each school and children’s facility in the area served by the local public health authority data on the immunization rate, by disease, of children in the area. Upon request, the Oregon Health Authority shall assist local public health authorities in compiling data for purposes of this paragraph.
 
       (d) A child exempted under ORS 433.267 is susceptible to restrictable disease for purposes of this subsection.
 
@@ -1751,7 +1831,7 @@ DISEASE CONTROL IN SCHOOLS
 
       (b) The information required to be made available under paragraph (a) of this subsection must be made available at the beginning of each school year and not later than one month after the date that children may be excluded as provided by ORS 433.267.
 
-      (4) The administrator of a school or children’s facility shall maintain immunization records of children, including children who are in attendance at the school or children’s facility conditionally because of an incomplete immunization schedule and children who are exempted as described in ORS 433.267 (1)(b) and (c). [1973 c.566 §3; 1981 c.78 §5; 1991 c.255 §6; 2009 c.595 §652; 2015 c.802 §1]
+      (4) The administrator of a school or children’s facility shall maintain immunization records of children, including children who are in attendance at the school or children’s facility conditionally because of an incomplete immunization schedule and children who are exempted as described in ORS 433.267 (1)(b) and (c). [1973 c.566 §3; 1981 c.78 §5; 1991 c.255 §6; 2009 c.595 §652; 2015 c.802 §1; 2019 c.456 §35]
 
  
 
@@ -1796,6 +1876,8 @@ DISEASE CONTROL IN SCHOOLS
       (c) The safety and efficacy of vaccines; and
 
       (11) Documentation required to verify completion of a vaccine educational module, including the qualifications of persons who may certify the completion. [1973 c.566 §4; 1977 c.457 §2; 1981 c.78 §6; 1991 c.255 §7; 2009 c.595 §654; 2013 c.516 §2; 2015 c.802 §2]
+
+ 
 
       433.275 [1973 c.566 §5; repealed by 1981 c.78 §15]
 
@@ -1863,7 +1945,11 @@ DISEASE CONTROL IN SCHOOLS
 
  
 
-CONTROL OF METABOLIC DISEASES
+SERVICES FOR NEWBORNS
+
+ 
+
+(Metabolic Diseases)
 
  
 
@@ -1895,7 +1981,7 @@ CONTROL OF METABOLIC DISEASES
 
  
 
-CONGENITAL CYTOMEGALOVIRUS
+(Congenital Cytomegalovirus)
 
  
 
@@ -1917,7 +2003,137 @@ CONGENITAL CYTOMEGALOVIRUS
 
  
 
-VITAMIN K FOR NEWBORNS
+(Bloodspot Screening)
+
+ 
+
+      433.299 Newborn Bloodspot Screening Advisory Board; members; term; meetings; reports. (1) The Newborn Bloodspot Screening Advisory Board is established in the Oregon Health Authority.
+
+      (2) The board consists of 13 voting members appointed by the Director of the Oregon Health Authority as follows:
+
+      (a) One member who is a person affected by a disorder included in the newborn screening panel or a family member of a person affected by a disorder included in the newborn screening panel;
+
+      (b) One member who is a licensed physician who by contract provides expert medical advice and consulting services to the Northwest Regional Newborn Bloodspot Screening Program;
+
+      (c) One member who is a representative of Medicaid or the insurance industry;
+
+      (d) Two members who are representatives of birthing centers or hospitals;
+
+      (e) One member who is a representative of an entity that contracts with the Northwest Regional Newborn Bloodspot Screening Program for newborn bloodspot screening services;
+
+      (f) Three members who are representatives of advocacy associations regarding newborns with medical conditions or rare disorders;
+
+      (g) One member who is a representative of a statewide association of nurses;
+
+      (h) One member who is a representative of a statewide association of midwives; and
+
+      (i) Two members who are representatives of a statewide association of pediatricians.
+
+      (3) In addition the requirements provided in subsection (2) of this section, one or more of the following professions must be represented as a voting member of the board:
+
+      (a) Neonatal intensive care specialist;
+
+      (b) Licensed physician or nurse practitioner who is board certified in obstetrics, pediatrics or neonatology;
+
+      (c) Obstetrician or gynecologist;
+
+      (d) Nurse;
+
+      (e) Ethicist;
+
+      (f) Geneticist;
+
+      (g) Dietician; and
+
+      (h) Educator.
+
+      (4) To the greatest extent practicable, the director shall appoint members from a diverse range of socioeconomic, racial and ethnic backgrounds.
+
+      (5) In addition to the 13 voting members provided for in subsection (2) of this section, members of the Legislative Assembly or employees of the Oregon Health Authority may serve as nonvoting members.
+
+      (6) The term of office of each voting member of the board is four years, but a member serves at the pleasure of the director. Before the expiration of the term of a member, the director shall appoint a successor whose term begins on July 1 next following. A member is eligible for reappointment. If there is a vacancy for any cause, the director shall make an appointment to become immediately effective for the unexpired term.
+
+      (7) A voting member of the board is entitled to compensation and expenses as provided in ORS 292.495.
+
+      (8) The board shall select two of its members to jointly serve as chairpersons and another as vice chairperson, for terms and with duties and powers necessary for the performance of the functions of the offices as the board determines. One chairperson must be a voting member and the other chairperson must be the manager of the Northwest Regional Newborn Bloodspot Screening Program or the manager’s designee. The manager or manager’s designee must be a nonvoting member.
+
+      (9) A majority of the voting members of the board constitutes a quorum for the transaction of business.
+
+      (10) The board shall meet at least once every six months at a time and place determined by the board. The board also may meet at other times and places specified by the call of one or both chairpersons or of a majority of the voting members of the board.
+
+      (11) The board shall report its findings and recommendations for legislative changes to the committees or interim committees of the Legislative Assembly related to health in the manner provided under ORS 192.245 no later than September 15 of each even-numbered year. [2019 c.109 §1]
+
+ 
+
+      Note: 433.299 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 433 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+(Nurse Home Visiting)
+
+ 
+
+      433.301 Newborn nurse home visiting services program; rules. (1) As used in this section, “community” means a geographic region, county, tribe or other group of individuals living in proximity as defined by the Oregon Health Authority by rule.
+
+      (2) The authority shall design, implement and maintain a voluntary statewide program to provide universal newborn nurse home visiting services to all families with newborns residing in this state to support healthy child development and strengthen families. The authority shall design the universal newborn nurse home visiting program to be flexible so as to meet the needs of the communities where the program operates.
+
+      (3) In designing the program described in subsection (2) of this section, the authority shall consult, coordinate and collaborate, as necessary, with insurers that offer health benefit plans in this state, hospitals, local public health authorities, the Early Learning Division, existing early childhood home visiting programs, community-based organizations and social service providers.
+
+      (4) The program must provide nurse home visiting services that are:
+
+      (a) Based on criteria established by the United States Department of Health and Human Services for an evidence-based early childhood home visiting service delivery model;
+
+      (b) Provided by registered nurses licensed in this state to families caring for newborns up to the age of six months, including foster and adoptive newborns;
+
+      (c) Provided in the family’s home; and
+
+      (d) Aimed at improving outcomes in one or more of the following domains:
+
+      (A) Child health;
+
+      (B) Child development and school readiness;
+
+      (C) Family economic self-sufficiency;
+
+      (D) Maternal health;
+
+      (E) Positive parenting;
+
+      (F) Reducing child mistreatment;
+
+      (G) Reducing juvenile delinquency;
+
+      (H) Reducing family violence; or
+
+      (I) Reducing crime.
+
+      (5) The services provided in the program must:
+
+      (a) Be voluntary and carry no negative consequences for a family that declines to participate;
+
+      (b) Be offered in every community in this state;
+
+      (c) Include an evidence-based assessment of the physical, social and emotional factors affecting the family;
+
+      (d) Be offered to all families with newborns residing in the community where the program operates;
+
+      (e) Include at least one visit during a newborn’s first three months of life with the opportunity for the family to choose up to three additional visits;
+
+      (f) Include a follow-up visit no later than three months after the last visit; and
+
+      (g) Provide information and referrals to address each family’s identified needs.
+
+      (6) The authority shall collect and analyze data generated by the program to assess the effectiveness of the program in meeting the aims described in subsection (4)(d) of this section and shall work with other state agencies to develop protocols for sharing data, including the timely sharing of data with primary care providers of care to the families with newborns receiving the services.
+
+      (7) In collaboration with the Department of Consumer and Business Services, the authority shall adopt by rule, consistent with the provisions of this section, criteria for universal newborn nurse home visiting services that must be covered by health benefit plans in accordance with ORS 743A.078. [2019 c.552 §1]
+
+ 
+
+      Note: 433.301 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 433 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+(Vitamin K)
 
  
 
@@ -1971,7 +2187,7 @@ VITAMIN K FOR NEWBORNS
 
  
 
-NEWBORN PULSE OXIMETRY SCREENING
+(Pulse Oximetry Screening)
 
  
 
@@ -1989,7 +2205,7 @@ NEWBORN PULSE OXIMETRY SCREENING
 
  
 
-NEWBORN HEARING SCREENING TEST
+(Hearing Screening Tests)
 
  
 
@@ -2931,13 +3147,13 @@ REGULATION OF OUTDOOR MASS GATHERINGS
 
       433.735 Definitions for ORS 433.735 to 433.770. As used in ORS 433.735 to 433.770 and 433.990 (7):
 
-      (1) “Outdoor mass gathering,” unless otherwise defined by county ordinance, means an actual or reasonably anticipated assembly of more than 3,000 persons which continues or can reasonably be expected to continue for more than 24 consecutive hours but less than 120 hours within any three-month period and which is held primarily in open spaces and not in any permanent structure.
+      (1) “Organizer” includes any person who holds, stages or sponsors an outdoor mass gathering and the owner, lessee or possessor of the real property upon which the outdoor mass gathering is to take place.
 
-      (2) “Organizer” includes any person who holds, stages or sponsors an outdoor mass gathering and the owner, lessee or possessor of the real property upon which the outdoor mass gathering is to take place.
+      (2) “Outdoor mass gathering,” unless otherwise defined by county ordinance, means an actual or reasonably anticipated assembly of more than 3,000 persons which is held primarily in open spaces and not in any permanent structure and within any three-month period is expected to continue for more than 24 hours and not more than 120 hours, excluding hours required for ingress to and egress from a gathering that is located on lands zoned for exclusive farm use that are 60 miles or farther from the nearest interstate highway.
 
       (3) “Permanent structure” includes a stadium, an arena, an auditorium, a coliseum, a fairgrounds or other similar established places for assemblies.
 
-      (4) “Temporary structure” includes tents, trailers, chemical toilet facilities and other structures customarily erected or sited for temporary use. [1971 c.597 §1a; 1981 c.82 §3; 1985 c.758 §1; 2001 c.104 §157; 2007 c.445 §32]
+      (4) “Temporary structure” includes tents, trailers, chemical toilet facilities and other structures customarily erected or sited for temporary use. [1971 c.597 §1a; 1981 c.82 §3; 1985 c.758 §1; 2001 c.104 §157; 2007 c.445 §32; 2019 c.408 §2]
 
  
 
@@ -2951,7 +3167,7 @@ REGULATION OF OUTDOOR MASS GATHERINGS
 
  
 
-      433.750 Permit application; procedure for issuance of permit; fee. (1) The governing body of a county in which an outdoor mass gathering is to take place shall issue a permit upon application when the organizer demonstrates compliance with or the ability to comply with the health and safety rules governing outdoor mass gatherings to be regulated according to the anticipated crowd and adopted by the Oregon Health Authority. The application shall include all of the following:
+      433.750 Application for outdoor mass gathering for which county decides land use permit is not required; criteria; procedure; fee. (1) Unless a county decides that a land use permit is required, the county in which an outdoor mass gathering is to take place shall issue a permit upon application if the organizer demonstrates compliance with or the ability to comply with the health and safety rules governing outdoor mass gatherings to be regulated according to the anticipated crowd and adopted by the Oregon Health Authority. The application must include all of the following:
 
       (a) Name and address of the applicant.
 
@@ -2963,23 +3179,23 @@ REGULATION OF OUTDOOR MASS GATHERINGS
 
       (e) Nature of the proposed gathering.
 
-      (f) Such other appropriate information as the county governing body may require in order to insure compliance with rules of the authority.
+      (f) Such other appropriate information as the county may require in order to ensure compliance with rules of the authority.
 
-      (2) Notice of the application shall be sent by the county governing body to the county sheriff or county chief law enforcement officer, the local health officer and the chief of the fire district in which the gathering is to be held.
+      (2) Notice of the application must be sent by the county to the county sheriff or county chief law enforcement officer, the local health officer and the chief of the fire district in which the gathering is to be held.
 
-      (3) Each officer receiving notice of the application under subsection (2) of this section who wishes to comment on the application shall submit such comment in writing to the county governing body not later than the hearing date. The comment may include recommendations related to the official functions of the officer as to granting the permit and any recommended conditions that should be imposed.
+      (3) Each officer receiving notice of the application under subsection (2) of this section may comment in writing to the county not later than the hearing date. The comment may include recommendations related to the official functions of the officer as to granting the permit and any recommended conditions that should be imposed.
 
-      (4) The county governing body shall hold a public hearing on the issue of compliance with this section. Notice of the time and place of such hearing including a general explanation of the matter to be considered shall be published at least 10 calendar days before the hearing in a newspaper of general circulation in the county or, if there is none, it shall be posted in at least three public places in the county.
+      (4) The county shall hold a public hearing on the issue of compliance with this section. Notice of the time and place of the hearing including a general explanation of the matter to be considered must be published at least 10 calendar days before the hearing in a newspaper of general circulation in the county or, if there is none, it must be posted in at least three public places in the county.
 
-      (5) Any decision of a county governing body on an application for a permit to hold an outdoor mass gathering may be appealed to a circuit court for the county as provided in ORS 34.020 to 34.100.
+      (5) Except as provided in ORS 433.763, a decision of a county on an application for a permit to hold an outdoor mass gathering may be appealed to a circuit court for the county as provided in ORS 34.020 to 34.100.
 
-      (6) A county governing body may charge permit applicants a fee reasonably calculated to reimburse the county for its reasonable and necessary costs in receiving, processing and reviewing applications for permits to hold outdoor mass gatherings. However, a fee authorized by this subsection shall not exceed $5,000 and shall not be charged when the governing body finds, by a preponderance of the evidence presented to the governing body, that the applicant is unable to reimburse the governing body. [1971 c.597 §3; 1985 c.758 §4; 1993 c.779 §1; 2009 c.595 §681; 2015 c.736 §83]
+      (6) A county may charge permit applicants a fee reasonably calculated to reimburse the county for its reasonable and necessary costs in receiving, processing and reviewing applications for permits to hold outdoor mass gatherings. However, a fee authorized by this subsection may not exceed the greater of $5,000 or $2 per anticipated attendee of the gathering. [1971 c.597 §3; 1985 c.758 §4; 1993 c.779 §1; 2009 c.595 §681; 2015 c.736 §83; 2019 c.408 §3]
 
  
 
-      433.755 Additional information required before permit issued; liability of permit holder; casualty insurance; county as additional insured. (1) In reviewing an application for a permit to hold an outdoor mass gathering, the county governing body may require such plans, specifications and reports as it may deem necessary for proper review and it may request and shall receive from all public officers, departments and agencies of the state and its political subdivisions such cooperation and assistance as it may deem necessary. If the county governing body determines upon examination of the permit application that the outdoor mass gathering creates a potential for injury to persons or property, the county governing body may require organizers to obtain an insurance policy in an amount commensurate with the risk, but not exceeding $1 million. The policy of casualty insurance shall provide coverage against liability for death, injury or disability of any human or for damage to property arising out of the outdoor mass gathering. The county shall be named as an additional insured under the policy.
+      433.755 Additional information required before permit issued; liability of permit holder; casualty insurance; county as additional insured. (1) In reviewing an application for a permit to hold an outdoor mass gathering, the county governing body may require such plans, specifications and reports as it may deem necessary for proper review and it may request and shall receive from all public officers, departments and agencies of the state and its political subdivisions such cooperation and assistance as it may deem necessary. If the county governing body determines upon examination of the permit application that the outdoor mass gathering creates a potential for injury to persons or property, the county governing body may require organizers to obtain an insurance policy in an amount commensurate with the risk, but not exceeding the limitation for liability of a local public body under ORS 30.272 (3). The policy of casualty insurance shall provide coverage against liability for death, injury or disability of any human or for damage to property arising out of the outdoor mass gathering. The county shall be named as an additional insured under the policy.
 
-      (2) In the event of failure to remove all debris or residue and repair any damage to personal or real property arising out of the outdoor mass gathering within 72 hours after its termination and to remove any temporary structures used at the outdoor mass gathering within three weeks after its termination, the county governing body may file suit against the organizer for financial settlement as is needed to remove debris, residue or temporary structures and to repair such damage to real or personal property of persons not attending the outdoor mass gathering. The organizer shall be wholly responsible for payment of any fines imposed under ORS 433.990 (7). [1971 c.597 §4; 1985 c.758 §5; 1993 c.779 §2; 2001 c.104 §158; 2007 c.445 §33]
+      (2) In the event of failure to remove all debris or residue and repair any damage to personal or real property arising out of the outdoor mass gathering within 72 hours after its termination and to remove any temporary structures used at the outdoor mass gathering within three weeks after its termination, the county governing body may file suit against the organizer for financial settlement as is needed to remove debris, residue or temporary structures and to repair such damage to real or personal property of persons not attending the outdoor mass gathering. The organizer shall be wholly responsible for payment of any fines imposed under ORS 433.990 (7). [1971 c.597 §4; 1985 c.758 §5; 1993 c.779 §2; 2001 c.104 §158; 2007 c.445 §33; 2019 c.340 §1]
 
  
 
@@ -3001,35 +3217,29 @@ REGULATION OF OUTDOOR MASS GATHERINGS
 
  
 
-      433.763 Compliance with land use regulations required; criteria for approval. (1) Any gathering of more than 3,000 persons which continues or can reasonably be expected to continue for more than 120 hours within any three-month period and any part of which is held in open spaces shall be allowed by a county planning commission if all of the following occur:
+      433.763 Application for outdoor mass gathering for which county decides land use permit is required; criteria; procedure. (1) An application for an outdoor mass gathering for which the county decides that a land use permit is required, or for any gathering of more than 3,000 persons any part of which is held outdoors and which continues or can reasonably be expected to continue for a period exceeding that allowable for an outdoor mass gathering, shall be allowed by a county if:
 
-      (a) The organizer makes application for a permit to the county planning commission.
+      (a) The applicant has complied or can comply with the requirements for an outdoor mass gathering permit set out in ORS 433.750 and 433.755;
 
-      (b) The applicant demonstrates to the county planning commission that the applicant has complied or can comply with the requirements for an outdoor mass gathering permit set out in ORS 433.750.
+      (b) Permits required by the applicable land use regulations have been granted; and
 
-      (c) The county planning commission shall make findings that:
+      (c) The proposed gathering:
 
-      (A) Any permits required by the applicable land use regulations have been granted; and
+      (A) Is compatible with existing land uses; and
 
-      (B) The proposed gathering:
+      (B) Does not materially alter the stability of the overall land use pattern of the area.
 
-      (i) Is compatible with existing land uses; and
+      (2) A hearings officer, county planning commission or other person or body that the county designates may make findings and approve or deny an application for a permit under this section. A decision granting or denying a permit under this section may be appealed to the county governing body as provided in ORS 215.402 to 215.438.
 
-      (ii) Does not materially alter the stability of the overall land use pattern of the area.
-
-      (2) The provisions of ORS 433.755 apply to any gatherings reviewed or approved under this section.
-
-      (3) A decision granting or denying a permit under this section may be appealed to the county governing body as provided in ORS 215.402 to 215.438.
-
-      (4) If a county has not created a planning commission as provided in ORS 215.030, the county governing body, or such other person as the governing body designates shall receive the application and make the findings and decision required by this section. [1985 c.758 §7]
+      (3) Notwithstanding subsection (1) of this section, a county may not require a permit under ORS 433.750 for events otherwise permitted under ORS 215.213 (11), 215.283 (4), 215.449, 215.451 or 215.452. [1985 c.758 §7; 2019 c.408 §1a]
 
  
 
-      433.765 Effect on county ordinances or regulations adopted under county charter. Ordinances or regulations of a county enacted under a county charter adopted pursuant to section 10, Article VI, Oregon Constitution, and not inconsistent with ORS 433.735 to 433.770 and 433.990 (7) or any rules adopted under ORS 433.735 to 433.770 and 433.990 (7), are not superseded by ORS 433.735 to 433.770 and 433.990 (7) or such rules. Nothing in ORS 433.735 to 433.770 and 433.990 (7) or any rules adopted under ORS 433.735 to 433.770 and 433.990 (7) precludes the right of a county to enact ordinances or regulations under a county charter if such ordinances or regulations are not inconsistent with ORS 433.735 to 433.770 and 433.990 (7) or any rules adopted under ORS 433.735 to 433.770 and 433.990 (7). [1971 c.597 §6; 2001 c.104 §159; 2007 c.445 §34]
+      433.765 Right of county to enact ordinances or regulations. ORS 433.735 to 433.770 and 433.990 (7) and any rules adopted under ORS 433.735 to 433.770 and 433.990 (7) do not preempt the right of a county to enact ordinances or regulations not inconsistent with ORS 433.735 to 433.770 and 433.990 (7) or any rules adopted under ORS 433.735 to 433.770 and 433.990 (7), except that a county may not, under ORS 433.750 or 433.763, require a land use permit for a gathering of 3,000 people or fewer, any part of which is held outdoors. [1971 c.597 §6; 2001 c.104 §159; 2007 c.445 §34; 2019 c.408 §5]
 
  
 
-      433.767 Application to gatherings defined by county ordinance. ORS 433.735 to 433.770 and 433.990 (7) apply to outdoor mass gatherings defined by county ordinance as well as to those defined by ORS 433.735 (1). [1981 c.82 §2; 2001 c.104 §160; 2007 c.445 §35]
+      433.767 Application to gatherings defined by county ordinance. ORS 433.735 to 433.770 and 433.990 (7) apply to outdoor mass gatherings defined by county ordinance as well as to those defined by ORS 433.735. [1981 c.82 §2; 2001 c.104 §160; 2007 c.445 §35; 2019 c.408 §4]
 
  
 
@@ -3225,7 +3435,7 @@ OREGON INDOOR CLEAN AIR ACT
 
  
 
-      433.847 Smoke shop certification; rules. (1) The Oregon Health Authority shall adopt rules establishing a certification system for smoke shops. In adopting such rules, the authority shall prohibit the smoking, aerosolizing or vaporizing of inhalants that are not tobacco products in smoke shops.
+      433.847 Smoke shop certification; rules. (1) The Oregon Health Authority shall adopt rules establishing a certification system for smoke shops and any rules necessary for the implementation, administration and enforcement of ORS 433.835 to 433.875. In adopting rules under this section, the authority shall prohibit the smoking, aerosolizing or vaporizing of inhalants that are not tobacco products in smoke shops.
 
       (2) The authority shall issue a smoke shop certification to a business that:
 
@@ -3235,7 +3445,11 @@ OREGON INDOOR CLEAN AIR ACT
 
       (C) Does not offer video lottery games as authorized under ORS 461.217, social gaming or betting on the premises;
 
-      (D) Does not sell or offer food or beverages and does not sell, offer or allow on-premises consumption of alcoholic beverages;
+      (D) Does not:
+
+      (i) Sell or offer food or beverages, including alcoholic beverages, for on-premises consumption; or
+
+      (ii) Allow on-premises consumption of alcoholic beverages;
 
       (E) Is a stand-alone business with no other businesses or residential property attached to the premises;
 
@@ -3251,9 +3465,17 @@ OREGON INDOOR CLEAN AIR ACT
 
       (ii) Had a ventilation system that exhausted smoke from the business and was designed and terminated in accordance with the state building code standards for the occupancy classification in use; or
 
-      (c)(A) Was certified as a smoke shop under ORS 433.835, as in effect immediately before June 30, 2011, by the authority on or before December 31, 2012; and
+      (c)(A) Was certified as a smoke shop under ORS 433.835, as in effect immediately before June 30, 2011, by the authority on or before December 31, 2012;
 
-      (B) Allows the smoking of cigarettes only if at least 75 percent of the gross revenues of the business results from the sale of cigarettes.
+      (B) Allows the smoking of cigarettes only if at least 75 percent of the gross revenues of the business results from the sale of cigarettes;
+
+      (C) Does not:
+
+      (i) Sell or offer alcoholic beverages for on-premises consumption; or
+
+      (ii) Allow on-premises consumption of alcoholic beverages; and
+
+      (D) Prohibits persons under 21 years of age from entering the premises.
 
       (3) A smoke shop certified under subsection (2)(b) of this section must renew the smoke shop certification every five years by demonstrating to the satisfaction of the authority that the smoke shop:
 
@@ -3267,9 +3489,17 @@ OREGON INDOOR CLEAN AIR ACT
 
       (4) A smoke shop certified under subsection (2)(c) of this section must renew the smoke shop certification every five years by demonstrating to the satisfaction of the authority that the smoke shop:
 
-      (a) Meets the requirements of ORS 433.835, as in effect immediately before June 30, 2011; and
+      (a) Meets the requirements of ORS 433.835, as in effect immediately before June 30, 2011;
 
-      (b) Allows the smoking of cigarettes only if at least 75 percent of the gross revenues of the business results from the sale of cigarettes.
+      (b) Allows the smoking of cigarettes only if at least 75 percent of the gross revenues of the business results from the sale of cigarettes;
+
+      (c) Does not:
+
+      (A) Sell or offer alcoholic beverages for on-premises consumption; or
+
+      (B) Allow on-premises consumption of alcoholic beverages; and
+
+      (d) Prohibits persons under 21 years of age from entering the premises.
 
       (5) The owner of a smoke shop certified under subsection (2)(b) or (c) of this section may transfer the certification with ownership of the smoke shop if the transfer is made in accordance with rules adopted by the authority.
 
@@ -3297,11 +3527,23 @@ OREGON INDOOR CLEAN AIR ACT
 
       (b) The smoke shop as operated in the new location:
 
-      (A) Meets the requirements of ORS 433.835, as in effect immediately before June 30, 2011; and
+      (A) Meets the requirements of ORS 433.835, as in effect immediately before June 30, 2011;
 
-      (B) Allows the smoking of cigarettes only if at least 75 percent of the gross revenues of the business results from the sale of cigarettes.
+      (B) Allows the smoking of cigarettes only if at least 75 percent of the gross revenues of the business results from the sale of cigarettes;
 
-      (8) Rules adopted under this section must provide that, in order to obtain a smoke shop certification, a business must agree to allow the authority to make unannounced inspections of the business to determine compliance with ORS 433.835 to 433.875. [2011 c.601 §3; 2015 c.51 §1; 2015 c.158 §17; 2017 c.701 §12]
+      (C) Does not:
+
+      (i) Sell or offer alcoholic beverages for on-premises consumption; or
+
+      (ii) Allow on-premises consumption of alcoholic beverages; and
+
+      (D) Prohibits persons under 21 years of age from entering the premises.
+
+      (8) Rules adopted under this section must provide that, in order to obtain a smoke shop certification, a business must agree to allow the authority to make unannounced inspections of the business to determine compliance with ORS 433.835 to 433.875.
+
+      (9)(a) Subject to ORS chapter 183, the authority may revoke or refuse to issue or renew a certification to a smoke shop for a violation of any provision of ORS 433.835 to 433.875 or a violation of any rule adopted under ORS 433.835 to 433.875.
+
+      (b) If the authority revokes the certification or denies the renewal of the certification of a smoke shop that was certified under subsection (2)(b) or (c) of this section, the authority may not issue a new certification to the smoke shop under subsection (2)(b) or (c) of this section. [2011 c.601 §3; 2015 c.51 §1; 2015 c.158 §17; 2017 c.701 §12; 2019 c.456 §9]
 
  
 
@@ -3350,26 +3592,6 @@ OREGON INDOOR CLEAN AIR ACT
       (3) In public places that the authority regularly inspects, the authority shall check for compliance with the provisions of ORS 433.835 to 433.875. In other public places and places of employment, the authority shall respond to complaints, notifying the proprietor or person in charge of the requirements of ORS 433.835 to 433.875. If repeated complaints are received, the authority may take appropriate action to ensure compliance.
 
       (4) When a county has assumed responsibility of the duties and responsibilities under ORS 446.425 and 448.100, or contracted with the authority under ORS 190.110, the county is responsible for enforcing the provisions of ORS 433.835 to 433.875 and has the same enforcement power as the authority. [1981 c.384 §6; 1991 c.734 §21; 2001 c.104 §162; 2001 c.990 §6; 2003 c.309 §6; 2007 c.445 §36; 2007 c.602 §5; 2009 c.595 §686; 2011 c.597 §84a; 2015 c.158 §19]
-
- 
-
-      Note: Sections 29 and 31, chapter 158, Oregon Laws 2015, provide:
-
-      Sec. 29. Report to Legislative Assembly on laws related to regulation of inhalant delivery systems and inhalants. (1) After July 1, 2018, the Oregon Health Authority shall make a report on the laws and rules of this state related to the regulation of inhalant delivery systems, as defined in ORS 431.840 [renumbered 431A.175], and inhalants, as defined in ORS 433.835, that are used with inhalant delivery systems. The authority shall include in the report:
-
-      (a) A review of medical research conducted on inhalant delivery systems and of health impacts associated with the use of inhalant delivery systems; and
-
-      (b) A review of any federal law or regulation related to regulating inhalant delivery systems, including any applicable regulations related to the labeling and packaging of inhalant delivery systems adopted by the United States Food and Drug Administration.
-
-      (2) The authority shall review the consistency of the laws and rules of this state with respect to those federal laws and regulations and determine where the laws and rules of this state are inconsistent or duplicative.
-
-      (3) For the purpose of facilitating review by the Legislative Assembly of the laws and rules of this state related to the regulation of inhalant delivery systems and inhalants that are used with inhalant delivery systems, the authority shall report the authority’s findings:
-
-      (a) To the Legislative Assembly in the manner required by ORS 192.245 on or before February 1, 2019; and
-
-      (b) To the committees of the Legislative Assembly related to health during the 2019 regular session of the Legislative Assembly. [2015 c.158 §29]
-
-      Sec. 31. Section 29 of this 2015 Act is repealed on January 2, 2020. [2015 c.158 §31]
 
  
 

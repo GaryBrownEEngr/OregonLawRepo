@@ -4,20 +4,6 @@ Chapter 571 — Nursery Stock; Licensed Agricultural Crops
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0116
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0116
-
- 
-
- 
-
 
  
 
@@ -139,35 +125,59 @@ NURSERY STOCK GROWERS, DEALERS AND AGENTS
 
  
 
-INDUSTRIAL HEMP GROWERS AND HANDLERS
+INDUSTRIAL HEMP GROWERS, HANDLERS AND PROCESSORS
 
  
 
-571.300     Definitions for ORS 571.300 to 571.348
+571.260     Short title
 
  
 
-571.303     Regulation by department; commodities
+571.263     Oregon Industrial Hemp Agricultural Pilot Program; rules
 
  
 
-571.305     Grower and handler registration; applications; records; inspections; fees
+571.266     Exclusion from ORS 571.260 to 571.348
 
  
 
-571.315     Revocation or refusal of registration
+571.269     Definitions for ORS 571.260 to 571.348; rules
 
  
 
-571.318     Industrial hemp propagation
+571.272     Regulation by department; commodities
 
  
 
-571.321     Crop location
+571.275     Commission powers regarding industrial hemp; notice
 
  
 
-571.324     Seed retention
+571.278     Industrial Hemp Fund
+
+ 
+
+571.281     Grower and handler registration; records; inspection; nonconforming crop; fees; rules
+
+ 
+
+571.285     Revocation or refusal of registration
+
+ 
+
+571.288     Industrial hemp propagation
+
+ 
+
+571.291     Crop location
+
+ 
+
+571.294     Charges for sampling or testing; fee
+
+ 
+
+571.302     Agricultural hemp seed labeling and certification; rules
 
  
 
@@ -187,7 +197,19 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
  
 
+571.337     Processor, retailer and wholesaler transaction involving industrial hemp commodity or product; rules
+
+ 
+
 571.339     Industrial hemp retail sales
+
+ 
+
+571.341     Limit on tetrahydrocannabinol content; rules
+
+ 
+
+571.345     Remediation for unintentional violation; rules
 
  
 
@@ -335,8 +357,6 @@ PENALTIES
 
  
 
- 
-
 NURSERY STOCK GROWERS, DEALERS AND AGENTS
 
  
@@ -405,7 +425,7 @@ NURSERY STOCK GROWERS, DEALERS AND AGENTS
 
       (3) The functions of the committee shall be to advise and counsel with the department in the administration of ORS 564.040, 564.991, 571.005 to 571.230 and 571.991 and review the nursery inspection program.
 
-      (4) The committee shall meet at the call of the chairperson or the director of the State Department of Agriculture. A majority of the members present at any meeting shall constitute a quorum, and a majority vote of the quorum at any meeting shall constitute an official act of the committee. [1963 c.461 §3; 1967 c.208 §3; 1979 c.309 §1; 1993 c.683 §1]
+      (4) The committee shall meet at the call of the chairperson or the director. A majority of the members present at any meeting shall constitute a quorum, and a majority vote of the quorum at any meeting shall constitute an official act of the committee. [1963 c.461 §3; 1967 c.208 §3; 1979 c.309 §1; 1993 c.683 §1]
 
  
 
@@ -733,11 +753,45 @@ NURSERY STOCK GROWERS, DEALERS AND AGENTS
 
  
 
-INDUSTRIAL HEMP GROWERS AND HANDLERS
+INDUSTRIAL HEMP GROWERS, HANDLERS AND PROCESSORS
 
  
 
-      571.300 Definitions for ORS 571.300 to 571.348. As used in ORS 571.300 to 571.348:
+      571.260 Short title. ORS 571.260 to 571.348 shall be known and may be cited as the Oregon Industrial Hemp Agricultural Pilot Program and Research Act. [2018 c.116 §2]
+
+ 
+
+      Note: 571.260 to 571.348 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 571 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      571.263 Oregon Industrial Hemp Agricultural Pilot Program; rules. The State Department of Agriculture shall administer an Oregon Industrial Hemp Agricultural Pilot Program for the purpose of studying the growth, cultivation and marketing of industrial hemp in this state. In carrying out the program, the department:
+
+      (1) Shall administer ORS 571.260 to 571.348;
+
+      (2) Shall adopt by rule any record keeping and reporting requirements necessary to administer the program;
+
+      (3) May purchase, possess, seize or dispose of industrial hemp products or commodities as the department deems necessary to enforce and ensure compliance with ORS 571.260 to 571.348 or department rules relating to ORS 571.260 to 571.348; and
+
+      (4) May exercise any other power or perform any other function necessary to administer the program. [2018 c.116 §3]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.266 Exclusion from ORS 571.260 to 571.348. (1) ORS 571.260 to 571.348 do not apply to the production or storage of homegrown plants in the genus Cannabis within the plant family Cannabaceae at a household by one or more persons 21 years of age or older, if the total amount of homegrown plants at the household does not exceed four plants at any time.
+
+      (2) As used in this section, “homegrown” and “household” have the meanings given those terms in ORS 475B.015. [2018 c.116 §20]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.269 Definitions for ORS 571.260 to 571.348; rules. As used in ORS 571.260 to 571.348:
 
       (1) “Agricultural hemp seed” means Cannabis seed:
 
@@ -753,7 +807,7 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
       (5) “Industrial hemp”:
 
-      (a) Means all nonseed parts and varieties of the Cannabis plant, whether growing or not, that contain an average tetrahydrocannabinol concentration that does not exceed 0.3 percent on a dry weight basis.
+      (a) Except as provided in this paragraph, means all nonseed parts and varieties of the Cannabis plant, whether growing or not, that contain an average tetrahydrocannabinol concentration that does not exceed 0.3 percent on a dry weight basis. The State Department of Agriculture, by rule, may adopt any higher average tetrahydrocannabinol concentration limit established in federal law.
 
       (b) Means any Cannabis seed:
 
@@ -777,7 +831,7 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
       (c) A chemical extraction process using carbon dioxide, provided that the process does not involve the use of high heat or pressure; or
 
-      (d) Any other process identified by the State Department of Agriculture by rule.
+      (d) Any other process identified by the department by rule.
 
       (7) “Industrial hemp extract” means an industrial hemp product obtained by separating cannabinoids from industrial hemp by:
 
@@ -785,31 +839,53 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
       (b) A chemical extraction process using carbon dioxide, if the process uses high heat or pressure; or
 
-      (c) Any other process identified by the department by rule. [2009 c.897 §1; 2015 c.503 §1; 2016 c.71 §1; 2017 c.531 §1]
+      (c) Any other process identified by the department by rule. [Formerly 571.300]
 
  
 
-      Note: 571.300 to 571.348 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 571 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: See note under 571.260.
 
  
 
-      571.303 Regulation by department; commodities. (1) Industrial hemp is an agricultural product that is subject to regulation by the State Department of Agriculture.
+      571.272 Regulation by department; commodities. (1) Industrial hemp is an agricultural product that is subject to regulation by the State Department of Agriculture.
 
-      (2) For purposes of ORS chapter 616, the department may not consider industrial hemp or industrial hemp commodities or products to be an adulterant. [2016 c.71 §4]
-
- 
-
-      Note: See note under 571.300.
+      (2) For purposes of ORS chapter 616, the department may not consider industrial hemp or industrial hemp commodities or products to be an adulterant. [Formerly 571.303]
 
  
 
-      571.305 Grower and handler registration; applications; records; inspections; fees. (1) To grow or handle industrial hemp, a person must be registered with the State Department of Agriculture as a grower or handler.
+      Note: See note under 571.260.
+
+ 
+
+      571.275 Commission powers regarding industrial hemp; notice. (1) The Oregon Liquor Control Commission may purchase, possess, seize or dispose of industrial hemp products or commodities located on a premises licensed under ORS 475B.070, 475B.090, 475B.100, 475B.105 or 475B.560 or other area under the control of the premises licensee as the commission deems necessary to enforce and ensure compliance with:
+
+      (a) ORS 475B.010 to 475B.545, 475B.550 to 475B.590 or 475B.600 to 475B.655 or rules adopted by the commission relating to ORS 475B.010 to 475B.545, 475B.550 to 475B.590 or 475B.600 to 475B.655; or
+
+      (b) Any provision in ORS 571.260 to 571.348 or in rules adopted by the commission or State Department of Agriculture under ORS 571.260 to 571.348 that makes a requirement, restriction or other provision of ORS 475B.010 to 475B.545, 475B.550 to 475B.590 or 475B.600 to 475B.655 applicable to industrial hemp.
+
+      (2) If the commission purchases, possesses, seizes or disposes of industrial hemp products or commodities under this section to enforce or ensure compliance with a provision of ORS 571.260 to 571.348 or rule adopted by the department under ORS 571.260 to 571.348 that makes a requirement, restriction or other provision of ORS 475B.010 to 475B.545, 475B.550 to 475B.590 or 475B.600 to 475B.655 applicable to industrial hemp, the commission shall notify the department of the commission action as soon as practicable. [2018 c.116 §14]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.278 Industrial Hemp Fund. There is established in the State Treasury, separate and distinct from the General Fund, the Industrial Hemp Fund. Interest earned by the fund shall be credited to the fund. The fund shall consist of all moneys credited to or deposited in the fund. Moneys in the fund are continuously appropriated to the State Department of Agriculture for the purposes of implementing, administering and enforcing ORS 571.260 to 571.348. [2018 c.116 §30]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.281 Grower and handler registration; records; inspection; nonconforming crop; fees; rules. (1) To grow or handle industrial hemp, a person must be registered with the State Department of Agriculture as a grower or handler.
 
       (2)(a) Only a grower or handler registered under this section may produce agricultural hemp seed. For a grower or handler to produce agricultural hemp seed, the grower or handler must be registered with the department as an agricultural hemp seed producer.
 
       (b) Notwithstanding paragraph (a) of this subsection:
 
-      (A) A grower registered under this section that retains agricultural hemp seed as described in ORS 571.324 is not required to register with the department as an agricultural hemp seed producer; and
+      (A) A grower registered under this section that retains agricultural hemp seed for the purpose of personally propagating industrial hemp in a subsequent year is not required to register with the department as an agricultural hemp seed producer; and
 
       (B) A grower or handler registered under this section that produces Cannabis seeds that are incapable of germination, or a handler registered under this section that processes Cannabis seeds that are incapable of germination into commodities or products, is not required to register with the department as an agricultural hemp seed producer.
 
@@ -827,71 +903,121 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
       (6) A grower or handler registered under this section must keep records as required by the department by rule. Upon not less than three days’ notice, the department may subject the records to inspection or audit during normal business hours. The department may make an inspection or audit for the purpose of ensuring compliance with:
 
-      (a) A provision of ORS 571.300 to 571.348;
+      (a) A provision of ORS 571.260 to 571.348;
 
-      (b) A rule adopted under a provision of ORS 571.300 to 571.348; or
+      (b) A rule adopted under a provision of ORS 571.260 to 571.348; or
 
-      (c) An order issued by the department pursuant to a provision of ORS 571.300 to 571.348 or a rule adopted under a provision of ORS 571.300 to 571.348.
+      (c) An order issued by the department pursuant to a provision of ORS 571.260 to 571.348 or a rule adopted under a provision of ORS 571.260 to 571.348.
 
-      (7) In addition to any inspection conducted pursuant to ORS 561.275, the department may inspect any crop during the crop’s growth phase and take a representative composite sample for field analysis. If a crop contains an average tetrahydrocannabinol concentration exceeding 0.3 percent on a dry weight basis, the department may detain, seize or embargo the crop as provided under ORS 561.605 to 561.620.
+      (7) In addition to any inspection conducted pursuant to ORS 561.275, the department may inspect any crop during the crop’s growth phase and take a representative composite sample for field analysis. If a crop contains an average tetrahydrocannabinol concentration exceeding 0.3 percent on a dry weight basis or a tetrahydrocannabinol concentration exceeding the concentration allowed under federal law, whichever is greater, the department may detain, seize or embargo the crop as provided under ORS 561.605 to 561.620, subject to any process established under ORS 571.345.
 
-      (8) The department may charge growers, handlers and agricultural hemp seed producers application, registration and renewal of registration fees reasonably calculated by the department to pay the cost of administering ORS 571.300 to 571.348. Moneys from fees charged under this subsection shall be deposited in the Department of Agriculture Service Fund and are continuously appropriated to the department for purposes of carrying out the duties of the department under ORS 571.300 to 571.348. [2009 c.897 §2; 2015 c.503 §2; 2016 c.71 §2]
+      (8) The department may charge growers, handlers and agricultural hemp seed producers application fees, registration and renewal of registration fees, administrative change fees and fees for other services in amounts reasonably calculated by the department to pay the cost of administering ORS 571.260 to 571.348. Moneys from fees charged under this subsection shall be deposited in the Industrial Hemp Fund established under ORS 571.278.
 
- 
-
-      Note: See note under 571.300.
+      (9) The department may adopt rules establishing public health and safety standards and industry best practices for growers and handlers registered under this section. [Formerly 571.305]
 
  
 
-      571.315 Revocation or refusal of registration. (1) Subject to the provisions of ORS chapter 183, the State Department of Agriculture may revoke the registration of a grower, handler or agricultural hemp seed producer or refuse to register or renew the registration if a grower, handler or agricultural hemp seed producer violates:
+      Note: See note under 571.260.
 
-      (a) A provision of ORS 571.300 to 571.348;
+ 
 
-      (b) A rule adopted under a provision of ORS 571.300 to 571.348;
+      571.285 Revocation or refusal of registration. (1) Subject to the provisions of ORS chapter 183, the State Department of Agriculture may revoke the registration of a grower, handler or agricultural hemp seed producer or refuse to register or renew the registration if a grower, handler or agricultural hemp seed producer violates:
 
-      (c) An order issued by the department pursuant to a provision of ORS 571.300 to 571.348 or a rule adopted under a provision of ORS 571.300 to 571.348; or
+      (a) A provision of ORS 571.260 to 571.348;
+
+      (b) A rule adopted under a provision of ORS 571.260 to 571.348;
+
+      (c) An order issued by the department pursuant to a provision of ORS 571.260 to 571.348 or a rule adopted under a provision of ORS 571.260 to 571.348; or
 
       (d) Any statutory law or department rule related to agricultural activities other than industrial hemp operations.
 
-      (2) The department may not discipline a grower, handler or agricultural hemp seed producer under this section on the basis that possessing, delivering and manufacturing industrial hemp are prohibited by federal law. [2009 c.897 §3; 2015 c.1 §80; 2016 c.71 §10]
+      (2) The department may not discipline a grower, handler or agricultural hemp seed producer under this section on the basis that possessing, delivering and manufacturing industrial hemp are prohibited by federal law. [Formerly 571.315]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.318 Industrial hemp propagation. A grower registered under ORS 571.305 may use any propagation method, including planting seeds or starts or the use of clones or cuttings, to produce industrial hemp. [2016 c.71 §5]
+      571.288 Industrial hemp propagation. A grower registered under ORS 571.281 may use any propagation method, including planting seeds or starts or the use of clones or cuttings, to produce industrial hemp. [Formerly 571.318]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.321 Crop location. A grower shall provide the State Department of Agriculture, in a time, form and manner prescribed by the department, with an accurate description and global positioning system coordinates of the property on which the grower’s crop is or will be located. [2016 c.71 §6]
+      571.291 Crop location. A grower shall provide the State Department of Agriculture, in a time, form and manner prescribed by the department, with an accurate description and global positioning system coordinates of the property on which the grower’s crop is or will be located. [Formerly 571.321]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.324 Seed retention. (1) A grower registered under ORS 571.305 may retain agricultural hemp seed for the purpose of propagating industrial hemp in future years.
-
-      (2) A grower registered under ORS 571.305 that produces agricultural hemp seed only for the purpose of retaining the agricultural hemp seed as described in subsection (1) of this section:
-
-      (a) Does not need to register with the State Department of Agriculture under ORS 571.305 as an agricultural hemp seed producer; and
-
-      (b) Does not need to comply with any rule adopted by the department under ORS 571.327. [2016 c.71 §7]
+      571.294 Charges for sampling or testing; fee. The State Department of Agriculture may charge growers and handlers registered under ORS 571.281 fees reasonably calculated by the department to pay the cost of sampling or testing industrial hemp or industrial hemp commodities or products under ORS 571.330 and 571.333. Moneys from fees charged under this section shall be deposited in the Industrial Hemp Fund established under ORS 571.278. [2018 c.116 §10]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.327 Hemp seed sales; packaging; rules. (1) An agricultural hemp seed producer registered under ORS 571.305:
+      571.300 [2009 c.897 §1; 2015 c.503 §1; 2016 c.71 §1; 2017 c.531 §1; 2018 c.116 §27; renumbered 571.269 in 2019]
+
+ 
+
+      571.302 Agricultural hemp seed labeling and certification; rules. (1) For purposes of ORS 633.511 to 633.750, agricultural hemp seed is an agricultural seed or a flower seed, as those terms are defined in ORS 633.511.
+
+      (2) The Director of Agriculture, or the director’s agent, and the Dean of the College of Agricultural Sciences of Oregon State University, or the dean’s agent, shall establish a program for the labeling and certification of agricultural hemp seed. For purposes of the program:
+
+      (a) The director and the dean shall perform their respective duties under ORS 633.511 to 633.750 with respect to agricultural hemp seed in the same manner that the director and dean perform their respective duties under ORS 633.511 to 633.750 with respect to other agricultural seed or flower seed, including but not limited to those duties related to labeling, testing and certifying seeds; and
+
+      (b) The director and the dean shall exercise their respective functions and powers under ORS 633.511 to 633.750 with respect to agricultural hemp seed in the same manner that the director and dean exercise their respective functions and powers under ORS 633.511 to 633.750 with respect to other agricultural seed or flower seed, including but not limited to inspecting and sampling seeds and making rules and regulations under ORS 633.680.
+
+      (3) Notwithstanding subsections (1) and (2) of this section, if the director in consultation with the dean determines that a specific provision of ORS 633.511 to 633.750, or a specific rule or regulation made under ORS 633.511 to 633.750, that applies to other agricultural seed or flower seed is inadequate or not suitable for the regulation of agricultural hemp seed, the director may by rule exempt agricultural hemp seed from the provision, rule or regulation and make rules providing more adequate or suitable regulation of agricultural hemp seed.
+
+      (4)(a) The director and the dean shall collaborate with growers registered under ORS 571.281 in performing their respective duties and exercising their respective functions and powers under ORS 633.511 to 633.750 with respect to agricultural hemp seed.
+
+      (b) The director and the dean may collaborate with growers registered under ORS 571.281 and other stakeholders to develop a heritage agricultural hemp seed for this state.
+
+      (5) The director and the dean may collaborate with entities authorized to certify seeds under the laws of other states in performing their respective duties and exercising their respective functions and powers under ORS 633.511 to 633.750 with respect to agricultural hemp seed.
+
+      (6) A grower registered under ORS 571.281 is not required, for purposes related to growing industrial hemp, to use an agricultural hemp seed variety certified under the program described in this section.
+
+      (7) The State Department of Agriculture may establish by rule waivers to, or exemptions from, tests that would otherwise be conducted to determine a crop’s average tetrahydrocannabinol concentration for crops planted with agricultural hemp seed varieties certified pursuant to the program described in this section. [2018 c.116 §7]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.303 [2016 c.71 §4; renumbered 571.272 in 2019]
+
+ 
+
+      571.305 [2009 c.897 §2; 2015 c.503 §2; 2016 c.71 §2; 2018 c.116 §28; renumbered 571.281 in 2019]
+
+ 
+
+      571.315 [2009 c.897 §3; 2015 c.1 §80; 2016 c.71 §10; renumbered 571.285 in 2019]
+
+ 
+
+      571.318 [2016 c.71 §5; renumbered 571.288 in 2019]
+
+ 
+
+      571.321 [2016 c.71 §6; renumbered 571.291 in 2019]
+
+ 
+
+      571.324 [2016 c.71 §7; repealed by 2018 c.116 §32]
+
+ 
+
+      571.327 Hemp seed sales; packaging; rules. (1) An agricultural hemp seed producer registered under ORS 571.281:
 
       (a) Must sell agricultural hemp seed in a manner that complies with any standard established by the Director of Agriculture under ORS 633.511 to 633.750; and
 
@@ -899,51 +1025,61 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
       (2) The director may adopt rules establishing packaging requirements, labeling requirements and quality standards for agricultural hemp seed.
 
-      (3) The State Department of Agriculture shall make available to growers registered under ORS 571.305 information that identifies agricultural hemp seed producers registered under ORS 571.305 from whom the growers may purchase agricultural hemp seed. [2016 c.71 §8]
+      (3) The State Department of Agriculture shall make available to growers registered under ORS 571.281 information that identifies agricultural hemp seed producers registered under ORS 571.281 from whom the growers may purchase agricultural hemp seed. [2016 c.71 §8]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
       571.330 Laboratory testing; rules. (1) For purposes of this section, “consumption” means to ingest, inhale or topically apply to the skin or hair.
 
-      (2) A laboratory licensed by the Oregon Liquor Control Commission under ORS 475B.560 and accredited by the Oregon Health Authority pursuant to ORS 475B.565 may test industrial hemp and industrial hemp commodities and products produced or processed by a grower, handler or agricultural hemp seed producer registered under ORS 571.305.
+      (2)(a) A laboratory licensed by the Oregon Liquor Control Commission under ORS 475B.560 and accredited by the Oregon Health Authority pursuant to ORS 475B.565 may test industrial hemp and industrial hemp commodities and products produced or processed by a grower, handler or agricultural hemp seed producer registered under ORS 571.281.
 
-      (3) A handler registered under ORS 571.305 may not sell an industrial hemp commodity or product that is intended for human consumption unless the commodity or product is tested by a laboratory described in subsection (2) of this section to ensure that the commodity or product meets the requirements adopted by the Oregon Health Authority under ORS 475B.555 (1)(a) and (b) and (2) for testing marijuana items.
+      (b) An accredited independent testing laboratory that has been approved by the authority or the State Department of Agriculture may test industrial hemp and industrial hemp commodities and products produced or processed by a grower, handler or agricultural hemp seed producer registered under ORS 571.281.
 
-      (4) For purposes of this section, the State Department of Agriculture shall adopt rules:
+      (3) A grower or handler may not sell or transfer an industrial hemp commodity or product that is intended for human consumption unless the commodity or product is tested by a laboratory described in subsection (2) of this section to ensure that the commodity or product meets the requirements adopted by the Oregon Health Authority under ORS 475B.555 (1)(a) and (b) and (2) for testing marijuana items.
+
+      (4) For purposes of this section, the department shall adopt rules:
 
       (a) Establishing protocols for the testing of industrial hemp commodities and products; and
 
-      (b) Establishing procedures for determining batch sizes and for sampling industrial hemp commodities and products. [2016 c.71 §9]
+      (b) Establishing procedures for determining batch sizes and for sampling industrial hemp commodities and products.
+
+      (5) This section does not apply to:
+
+      (a) Agricultural hemp seed;
+
+      (b) Seeds of the plant genus Cannabis within the plant family Cannabaceae that are incapable of germination;
+
+      (c) Products derived from seeds described in paragraph (b) of this subsection; or
+
+      (d) Other parts of industrial hemp that the department identifies by rule as exempt. [2016 c.71 §9; 2018 c.116 §11]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.333 Concentration standards; test results. (1) The State Department of Agriculture may enter into an agreement with the Oregon Health Authority for the purpose of developing standards for investigating and testing an industrial hemp crop to ensure that the crop contains an average tetrahydrocannabinol concentration that does not exceed 0.3 percent on a dry weight basis.
+      571.333 Concentration standards; test results. (1) The State Department of Agriculture may enter into an agreement with the Oregon Health Authority for the purpose of developing standards for investigating and testing an industrial hemp crop to determine the average tetrahydrocannabinol concentration of the crop.
 
-      (2) In accordance with standards developed under subsection (1) of this section, a laboratory licensed by the Oregon Liquor Control Commission under ORS 475B.560 and accredited by the authority pursuant to ORS 475B.565 may test an industrial hemp crop for the purpose of determining the average tetrahydrocannabinol concentration of the crop.
-
-      (3) A laboratory described in subsection (2) of this section must provide the test results to the department in a form and manner prescribed by the department. [2016 c.71 §9a]
+      (2) In accordance with standards developed under subsection (1) of this section, a laboratory described in ORS 571.330 may test an industrial hemp crop for the purpose of determining the average tetrahydrocannabinol concentration of the crop. The laboratory must provide the test results to the department in a form and manner prescribed by the department. [2016 c.71 §9a; 2018 c.116 §12]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
       571.336 Delivery of industrial hemp to marijuana processor; processing and delivery of hemp marijuana supplements; fee; appropriation. (1) As used in this section, “licensee,” “marijuana,” “marijuana item” and “marijuana processor” have the meanings given those terms in ORS 475B.015.
 
-      (2) A grower registered under ORS 571.305 may deliver industrial hemp, and a handler registered under ORS 571.305 may deliver industrial hemp concentrates and industrial hemp extracts, to a marijuana processor that holds a license issued under ORS 475B.090, if:
+      (2) A grower registered under ORS 571.281 may deliver industrial hemp, and a handler registered under ORS 571.281 may deliver industrial hemp concentrates and industrial hemp extracts, to a marijuana processor that holds a license issued under ORS 475B.090, if:
 
       (a) The grower or handler and the marijuana processor are registered with the Oregon Liquor Control Commission, in a form and manner prescribed by the commission, for the purpose of processing industrial hemp, industrial hemp concentrates and industrial hemp extracts;
 
-      (b) The marijuana processor is provided with the results of any test conducted on the industrial hemp, industrial hemp concentrate or industrial hemp extract pursuant to ORS 571.300 to 571.348 as a condition of the marijuana processor’s receiving the industrial hemp, industrial hemp concentrate or industrial hemp extract;
+      (b) The marijuana processor is provided with the results of any test conducted on the industrial hemp, industrial hemp concentrate or industrial hemp extract pursuant to ORS 571.260 to 571.348 as a condition of the marijuana processor’s receiving the industrial hemp, industrial hemp concentrate or industrial hemp extract;
 
       (c) The marijuana processor keeps the results of any test that the marijuana processor receives pursuant to paragraph (b) of this subsection in a form and manner prescribed by the commission;
 
@@ -959,33 +1095,87 @@ INDUSTRIAL HEMP GROWERS AND HANDLERS
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.339 Industrial hemp retail sales. A person may not make a retail sale of industrial hemp commodities or products in this state unless the industrial hemp commodities or products and the industrial hemp used to process the industrial hemp commodities or products meet the same or substantially the same requirements for processing industrial hemp commodities or products or growing industrial hemp set forth in ORS 571.300 to 571.348 and rules adopted under ORS 571.300 to 571.348. This section does not apply to the retail sale of industrial hemp commodities or products by a marijuana retailer, as defined in ORS 475B.015, that holds a license issued under ORS 475B.105. [2017 c.531 §4]
+      571.337 Processor, retailer and wholesaler transaction involving industrial hemp commodity or product; rules. (1) As used in this section:
+
+      (a) “Consumption” has the meaning given that term in ORS 571.330.
+
+      (b) “Processor” means a person licensed under ORS 475B.090.
+
+      (c) “Retailer” means a person licensed under ORS 475B.105.
+
+      (d) “Wholesaler” means a person licensed under ORS 475B.100.
+
+      (2) Except as provided in ORS 571.341, a processor, retailer or wholesaler may purchase, receive, transfer, sell or transport industrial hemp, or an industrial hemp commodity or product that contains cannabinoids and is intended for human consumption, only if:
+
+      (a) The processor, retailer or wholesaler received the hemp, commodity or product from a grower or handler registered under ORS 571.281 or a processor;
+
+      (b) The grower, handler or processor under paragraph (a) of this subsection is registered by the Oregon Liquor Control Commission as provided under ORS 571.336; and
+
+      (c) The hemp, commodity or product meets the requirements for marijuana items under ORS 475B.010 to 475B.545, 475B.550 to 475B.590 and 475B.600 to 475B.655 and rules adopted by the commission.
+
+      (3) A grower, handler or processor registered as described under ORS 571.336 (2)(a) shall enter hemp, commodity or product that contains cannabinoids, is intended for human consumption and is intended for transfer, sale or transport to a processor, retailer or wholesaler licensed under ORS 475B.010 to 475B.545 into the tracking system described in ORS 475B.177 before the hemp, commodity or product is transferred to a laboratory described in ORS 571.330 (2) for testing of a type described under ORS 475B.555. The commission shall continue to track the hemp, commodity or product entered into the system under this subsection when the hemp, commodity or product is transferred, sold or transported to a premises licensed under ORS 475B.010 to 475B.545, or to other areas under the control of the premises licensee.
+
+      (4) The State Department of Agriculture shall adopt rules regarding the activities of growers and handlers under this section.
+
+      (5) The commission shall adopt rules regarding the activities of processors, retailers, wholesalers and laboratories under this section. [2018 c.116 §15]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
 
  
 
-      571.348 Civil penalty; appropriation. (1) Subject to the provisions of ORS chapter 183, the State Department of Agriculture may impose a civil penalty not to exceed $2,500 on a grower, handler or agricultural hemp seed producer for violating:
-
-      (a) A provision of ORS 571.300 to 571.348;
-
-      (b) A rule adopted under a provision of ORS 571.300 to 571.348; or
-
-      (c) An order issued by the department pursuant to a provision of ORS 571.300 to 571.348 or a rule adopted under a provision of ORS 571.300 to 571.348.
-
-      (2) The department may not discipline a grower, handler or agricultural hemp seed producer under this section on the basis that possessing, delivering and manufacturing industrial hemp are prohibited by federal law.
-
-      (3) All moneys collected by the department under this section shall be deposited in the General Fund in the State Treasury to the credit of the Department of Agriculture Account. All moneys deposited in the account pursuant to this section are continuously appropriated to the department for the purpose of administering ORS 571.300 to 571.348. [2016 c.71 §12]
+      571.339 Industrial hemp retail sales. A person may not make a retail sale of industrial hemp commodities or products in this state unless the industrial hemp commodities or products and the industrial hemp used to process the industrial hemp commodities or products meet the requirements for processing industrial hemp commodities or products or growing industrial hemp set forth in ORS 571.260 to 571.348 and rules adopted under ORS 571.260 to 571.348. This section does not apply to the retail sale of industrial hemp commodities or products by a marijuana retailer, as defined in ORS 475B.015, that holds a license issued under ORS 475B.105. [2017 c.531 §4; 2018 c.116 §16]
 
  
 
-      Note: See note under 571.300.
+      Note: See note under 571.260.
+
+ 
+
+      571.341 Limit on tetrahydrocannabinol content; rules. (1) As used in this section:
+
+      (a) “Consumer” has the meaning given that term in ORS 475B.015.
+
+      (b) “Retailer” means a person licensed under ORS 475B.105.
+
+      (2) Industrial hemp products that contain more than 0.3 percent tetrahydrocannabinol may not be sold to a consumer by a person other than a retailer.
+
+      (3) The Oregon Liquor Control Commission shall adopt rules establishing measures the commission deems necessary for ensuring compliance with this section. [2018 c.116 §15a]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.345 Remediation for unintentional violation; rules. The State Department of Agriculture may by rule or order establish a process providing for the remediation of a violation of ORS 571.330 or 571.333 that is committed by a grower or handler registered under ORS 571.281 and is not committed intentionally. [2018 c.116 §9]
+
+ 
+
+      Note: See note under 571.260.
+
+ 
+
+      571.348 Civil penalty; appropriation. (1) Subject to the provisions of ORS chapter 183, the State Department of Agriculture may impose a civil penalty not to exceed $2,500 on a person for violating:
+
+      (a) A provision of ORS 571.260 to 571.348;
+
+      (b) A rule adopted under a provision of ORS 571.260 to 571.348; or
+
+      (c) An order issued by the department pursuant to a provision of ORS 571.260 to 571.348 or a rule adopted under a provision of ORS 571.260 to 571.348.
+
+      (2) The department may not discipline a person under this section on the basis that possessing, delivering and manufacturing industrial hemp are prohibited by federal law.
+
+      (3) All moneys collected by the department under this section shall be deposited in the General Fund in the State Treasury to the credit of the Industrial Hemp Fund established under ORS 571.278. [2016 c.71 §12; 2018 c.116 §31]
+
+ 
+
+      Note: See note under 571.260.
 
  
 
@@ -1109,9 +1299,9 @@ CHRISTMAS TREE GROWERS
 
       (4) The functions of the committee are to advise and counsel with the department in the administration of ORS 571.505 to 571.580.
 
-      (5) The committee shall meet at the call of the chairperson or the director of the State Department of Agriculture. A majority of the members present at any meeting constitutes a quorum, and a majority vote of the quorum at any meeting constitutes an official act of the committee.
+      (5) The committee shall meet at the call of the chairperson or the director. A majority of the members present at any meeting constitutes a quorum, and a majority vote of the quorum at any meeting constitutes an official act of the committee.
 
-      (6) At the first meeting in each year the committee shall select a chairperson. The Dean of the College of Agricultural Sciences, Oregon State University, and the director of the State Department of Agriculture, or their representatives, shall be ex officio members without the right to vote. [1985 c.197 §3; 1995 c.79 §310; 2005 c.22 §389]
+      (6) At the first meeting in each year the committee shall select a chairperson. The Dean of the College of Agricultural Sciences, Oregon State University, and the director, or their representatives, shall be ex officio members without the right to vote. [1985 c.197 §3; 1995 c.79 §310; 2005 c.22 §389]
 
  
 

@@ -95,6 +95,8 @@ PARTNERSHIPS
 
 (Nature of Partnership)
 
+ 
+
 67.050       Partnership as entity
 
  
@@ -337,6 +339,8 @@ LIMITED LIABILITY PARTNERSHIPS
 
 67.625       Limited liability partnership name
 
+ 
+
 (Service of Process)
 
  
@@ -446,6 +450,8 @@ FOREIGN LIMITED LIABILITY PARTNERSHIPS
  
 
 67.770       Action by Attorney General
+
+ 
 
 MISCELLANEOUS
 
@@ -563,25 +569,43 @@ GENERAL PROVISIONS
 
  
 
-      67.011 Filing requirements. (1) For the Secretary of State to file a document under this chapter, the document must satisfy the requirements set forth in this section and any other requirements in this chapter that supplement or modify the requirements set forth in this section.
+      67.011 Filing requirements. (1)(a) For the Secretary of State to file a document under this chapter, the document must:
 
-      (2) This chapter must require or permit filing the document with the office of the Secretary of State.
+      (A) Satisfy the requirements set forth in this section and any other requirements in this chapter that supplement or modify the requirements set forth in this section.
 
-      (3) The document must contain the information required by this chapter and may contain other information.
+      (B) Be a type of document that this chapter or another law requires or permits a person to file with the Secretary of State.
 
-      (4) The document must be legible.
+      (C) Include the information this chapter requires.
 
-      (5) The document must be in the English language.
+      (D) Be legibly written in the English language and in the alphabet used to write the English language, except as provided in subsection (3) of this section.
 
-      (6) A document or report required by this chapter to be filed with the office of the Secretary of State must be executed by one or more partners or by an agent of a partner, if the partner authorizes the agent to execute the document. If the limited liability partnership is in the hands of a receiver, trustee or other court-appointed fiduciary, a document or report must be signed by the receiver, trustee or fiduciary.
+      (E) Be delivered to the Secretary of State along with required fees. Delivery occurs only when the Secretary of State actually receives the document.
 
-      (7) The person that executes the document shall state beneath or opposite the signature the person’s name and the capacity in which the person signs. The document may, but is not required to, contain acknowledgment, verification or proof.
+      (b) The document may include:
 
-      (8) If the Secretary of State has prescribed a mandatory form for the document, the document must be in or on the prescribed form.
+      (A) Information other than the information required under paragraph (a) of this subsection;
 
-      (9) The document must be delivered to the office of the Secretary of State accompanied by the required fees.
+      (B) Arabic or Roman numerals and incidental punctuation; or
 
-      (10) Delivery of a document to the office of the Secretary of State is accomplished only when the office of the Secretary of State actually receives the document. [Formerly 67.520]
+      (C) An acknowledgement, verification or proof.
+
+      (2)(a) A person that executes a document for filing under this section must be:
+
+      (A) A partner;
+
+      (B) A receiver, trustee or other court-appointed fiduciary, if the partnership or limited liability partnership is subject to the control of the receiver, trustee or fiduciary; or
+
+      (C) An agent of a person identified in this paragraph, if the person authorizes the agent to execute the document.
+
+      (b) The person that executes the document shall state beneath or opposite the person’s signature the person’s name and the capacity in which the person signs.
+
+      (3)(a) If the Secretary of State has prescribed a mandatory form for a document, including an electronic form, the document must be in or on the prescribed form.
+
+      (b) The Secretary of State shall make versions of the form described in paragraph (a) of this subsection available in at least the five languages that are most commonly spoken and written in this state by persons with limited proficiency in the English language. Each version of the form must include an English translation of the form’s contents.
+
+      (c) For the purpose described in paragraph (b) of this subsection, the Secretary of State shall specify Spanish, Chinese, Vietnamese, Russian and Korean as the five languages that are most commonly spoken and written in this state by persons with limited proficiency in the English language. The Secretary of State shall review the specification in this paragraph after the completion of the 2030 United States Census and each subsequent decennial census and shall recommend in a report to the Joint Committee on Ways and Means any changes in the specification that the Secretary of State deems necessary. The Secretary of State may change the specification only after receiving the approval of the Legislative Assembly and an appropriation in an amount that is sufficient to pay the costs of updating each version of the mandatory form and any system the Secretary of State uses to process the mandatory form.
+
+      (d) If a person completes with, or attaches to, a form described in paragraph (a) or (b) of this subsection information written in a language other than English, the person shall submit a reasonably authenticated English translation of the information along with the form. [Formerly 67.520; 2019 c.597 §6]
 
  
 
@@ -747,7 +771,7 @@ PARTNERSHIPS
 
 (Nature of Partnership)
 
-     
+ 
 
       67.050 Partnership as entity. (1) A partnership is an entity distinct from its partners.
 
@@ -857,8 +881,6 @@ PARTNERSHIPS
 
       (2) If, in the course of the partnership’s business or while acting with authority of the partnership, a partner receives or causes the partnership to receive money or property of a person not a partner, and the money or property is misapplied by a partner, the partnership is liable to such person for the loss. [1997 c.775 §13]
 
-     
-
       67.105 Partner’s liability. (1) Except as otherwise provided in this section, all partners are liable jointly and severally for all obligations of the partnership unless otherwise agreed by the claimant or provided by law.
 
       (2) A person admitted as a partner into an existing partnership is not personally liable for any partnership obligation incurred before the person’s admission as a partner.
@@ -871,7 +893,7 @@ PARTNERSHIPS
 
       (4) Notwithstanding subsection (3) of this section, the partners of a limited liability partnership who are professionals shall be personally liable in their capacity as partners to the same extent and in the same manner as provided for shareholders of a domestic professional corporation under ORS 58.185 and 58.187 and as otherwise provided in this chapter. [1997 c.775 §14]
 
-     
+ 
 
       67.110 Actions by and against partnership and partners. (1) A partnership may sue and be sued in the name of the partnership.
 
@@ -905,15 +927,11 @@ PARTNERSHIPS
 
       (d) Liability is imposed on the partner by law or contract independently of the person’s status as a partner. [1997 c.775 §15]
 
-     
-
       67.115 Liability of purported partner. (1) If a person, by words or conduct, purports to be a partner or consents to being represented by another as a partner in a partnership or with one or more persons not partners, the purported partner is liable to a person to whom the representation is made if that person relying on the false representation enters into a transaction with the actual or purported partnership. If the false representation is made in a public manner, the purported partner is liable to a person who relies upon it even if the purported partner is not aware of being held out as a partner to the claimant. If partnership liability results, the purported partner is liable with respect to that liability as if the purported partner were a partner. If no partnership liability results, the purported partner is liable with respect to that liability jointly and severally with any other person consenting to the representation.
 
       (2) A person falsely represented to be a partner is an agent of persons consenting to the representation to bind them to the same extent and in the same manner as if the purported partner were a partner, with respect to persons who enter into transactions in reliance upon the representation. If all the partners of the existing partnership consent to the representation, a partnership act or obligation results. If fewer than all the partners of the existing partnership consent to the representation, the person acting and the partners consenting to the representation are jointly and severally liable.
 
       (3) Except as otherwise provided in subsections (1) and (2) of this section, persons who are not partners to each other are not liable as partners to other persons. [1997 c.775 §16]
-
- 
 
 (Relations of Partners to Each Other and to Partnership)
 
@@ -949,7 +967,7 @@ PARTNERSHIPS
 
       (13) This section does not affect the obligations of a partnership to other persons under ORS 67.090. [1997 c.775 §17]
 
-     
+ 
 
       67.145 Distributions in kind. A partner has no right to receive, and may not be required to accept, a distribution in kind. [1997 c.775 §18]
 

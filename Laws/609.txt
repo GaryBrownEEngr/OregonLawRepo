@@ -221,6 +221,14 @@ DESTRUCTION OF ANIMALS
 
  
 
+609.410     Disposition of dogs and cats by research facility
+
+ 
+
+609.411     Preemption of ORS 609.410
+
+ 
+
 ANIMAL RESCUE ENTITIES
 
  
@@ -297,7 +305,7 @@ PENALTIES
 
  
 
-609.992     Penalties for ORS 609.319; transfer of rights in exotic animal
+609.992     Penalties for ORS 609.341; transfer of rights in exotic animal
 
  
 
@@ -897,6 +905,58 @@ DESTRUCTION OF ANIMALS
 
  
 
+      609.410 Disposition of dogs and cats by research facility. (1)(a) A research facility that uses dogs or cats for laboratory research, before euthanizing a dog or cat that is no longer needed for research purposes, shall offer the dog or cat for adoption, provided that euthanizing the dog or cat is not required for health or safety reasons or is not necessary to complete laboratory research.
+
+      (b) The research facility shall use a veterinarian or similarly qualified staff to determine whether the dog or cat is healthy and safe for adoption.
+
+      (c) The research facility may consider and determine if other animals used by the research facility are adoptable.
+
+      (d) To carry out the duties described in paragraph (a) of this subsection, a research facility may:
+
+      (A) Establish and maintain a private adoption process.
+
+      (B) Offer the dog or cat to an animal shelter approved by the research facility that is willing to accept the dog or cat, if the research facility is unable to place the dog or cat through its private adoption process.
+
+      (C) Enter into a written agreement with an animal shelter to facilitate the adoption process.
+
+      (2) A research facility that provides a dog or cat to an animal shelter pursuant to subsection (1) of this section is immune from civil liability for or resulting from the transfer of the dog or cat, provided that the research facility acted in good faith concerning the health and physical condition of the dog or cat.
+
+      (3)(a) Not later than December 31 of each year, all research facilities described in subsection (1) of this section that are not public bodies as defined in ORS 192.311 shall submit to the Secretary of State an annual report that includes the following information for the preceding year:
+
+      (A) The total number of dogs and cats owned by the research facility;
+
+      (B) The total number of dogs and cats that are used for research that is conducted at the facility;
+
+      (C) The total number of dogs and cats released to animal shelters for adoption;
+
+      (D) The name and address of each animal shelter to which a dog or cat was released; and
+
+      (E) The name and address of each animal shelter with which the research facility has entered into an agreement under subsection (1) of this section.
+
+      (b) Reports received by the Secretary of State under this subsection are confidential and exempt from disclosure under ORS 192.311 to 192.478 except that the Secretary of State shall make the aggregate data available to the public upon request.
+
+      (4) As used in this section:
+
+      (a) “Animal shelter” means an organization or facility, in this or another state, that:
+
+      (A) Is maintained by or under contract with a state, county or city or is tax-exempt under section 501(c)(3) of the Internal Revenue Code; and
+
+      (B) Is operated for the primary purpose of:
+
+      (i) Providing shelter and other care for lost, homeless or injured animals; or
+
+      (ii) Placing animals into permanent homes or rescue organizations.
+
+      (b) “Laboratory research” means research, tests or experiments conducted for educational, scientific, medical or experimental purposes.
+
+      (c) “Research facility” means any institution of higher education or any facility, whether privately or publicly owned, leased or operated, where laboratory research is performed. [2019 c.374 §1]
+
+ 
+
+      609.411 Preemption of ORS 609.410. Federal requirements supersede any inconsistent provisions of ORS 609.410 to the extent of the inconsistency. [2019 c.374 §2]
+
+ 
+
 ANIMAL RESCUE ENTITIES
 
  
@@ -905,9 +965,9 @@ ANIMAL RESCUE ENTITIES
 
       (a) “Animal” means any nonhuman mammal, bird, reptile, amphibian or fish.
 
-      (b) “Animal rescue entity” means an individual or organization, including but not limited to an animal control agency, humane society, animal shelter, animal sanctuary or boarding kennel not subject to ORS 167.374, but excluding a veterinary facility, that keeps, houses and maintains in its legal custody 10 or more animals, whether physically located at a facility operated by the entity or kept, housed or maintained elsewhere, and that solicits or accepts donations in any form.
+      (b) “Animal rescue entity” means an individual or organization, including but not limited to an animal control agency, humane society, animal shelter, animal sanctuary or boarding kennel not subject to ORS 167.374, but excluding a veterinary facility, that keeps, houses and maintains in the individual’s or organization’s legal custody 10 or more animals, whether physically located at a facility operated by the individual or organization or kept, housed or maintained elsewhere, and that solicits or accepts donations in any form.
 
-      (c) “Enforcing agency” means the agency that operates a city or county dog licensing and control program under ORS 609.035 to 609.110 or under any city or county ordinances or regulations that operate in lieu of ORS 609.035 to 609.110, or any other agency designated the enforcing agency by the city or county governing body.
+      (c) “Enforcing agency” means the State Veterinarian.
 
       (2) Any animal rescue entity shall comply with all of the following record-keeping requirements:
 
@@ -951,7 +1011,7 @@ ANIMAL RESCUE ENTITIES
 
       (C) Allow for the opportunity for judicial review of the imposition of civil penalties.
 
-      (9) Moneys raised by the enforcing agency under this section are dedicated to and shall be used for enforcing agency operations undertaken pursuant to this section and ORS 609.420. [2013 c.719 §10; 2015 c.267 §1]
+      (9) Moneys raised by the enforcing agency under this section are dedicated to and shall be used for enforcing agency operations undertaken pursuant to this section and ORS 609.420. [2013 c.719 §10; 2015 c.267 §1; 2019 c.557 §1]
 
  
 
@@ -1277,7 +1337,7 @@ PENALTIES
 
  
 
-      609.992 Penalties for ORS 609.319; transfer of rights in exotic animal. (1) Violation of ORS 609.341 is a Class B misdemeanor.
+      609.992 Penalties for ORS 609.341; transfer of rights in exotic animal. (1) Violation of ORS 609.341 is a Class B misdemeanor.
 
       (2) In addition to and not in lieu of any jail sentence or fine it may impose, a court may require a defendant convicted under ORS 609.341 to forfeit any rights of the defendant in any exotic animal kept in violation thereof and to repay reasonable costs incurred by any person, city, county or state agency in caring for the animal prior to judgment.
 

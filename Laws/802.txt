@@ -4,16 +4,6 @@ Chapter 802 — Administrative Provisions
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0076
-
- 
-
- 
-
 
  
 
@@ -155,7 +145,7 @@ RECORDS
 
  
 
-802.200     Required records
+802.200     Required records; rules
 
  
 
@@ -163,7 +153,7 @@ RECORDS
 
  
 
-802.210     Records of notices of approaching expiration of registration or license not required
+802.210     Records of notification of approaching expiration of registration or license not required
 
  
 
@@ -307,11 +297,11 @@ GENERAL PROVISIONS
 
       (e) The administration of ORS 820.130 and 820.140.
 
-      (f) The administration of the provisions relating to proof of financial responsibility and future responsibility filings.
+      (f) The administration of the provisions relating to proof of compliance with financial responsibility requirements and future responsibility filings.
 
       (2) The Director of Transportation shall act as a reciprocity officer for the purposes of ORS 802.500 and 802.520.
 
-      (3) The director shall have the authority to execute or make such arrangements, agreements or declarations to carry out the provisions of ORS 802.500 and 802.520. The director shall receive no additional compensation for service performed under this subsection but shall be allowed actual and necessary expenses incurred in the performance of the duties to be paid from the account of the department. [1983 c.338 §114; 1985 c.16 §30; 1985 c.668 §1; 1991 c.407 §20; 1993 c.741 §71; 1995 c.733 §82; 2001 c.104 §297; 2005 c.654 §37]
+      (3) The director shall have the authority to execute or make such arrangements, agreements or declarations to carry out the provisions of ORS 802.500 and 802.520. The director shall receive no additional compensation for service performed under this subsection but shall be allowed actual and necessary expenses incurred in the performance of the duties to be paid from the account of the department. [1983 c.338 §114; 1985 c.16 §30; 1985 c.668 §1; 1991 c.407 §20; 1993 c.741 §71; 1995 c.733 §82; 2001 c.104 §297; 2005 c.654 §37; 2019 c.312 §8]
 
  
 
@@ -521,7 +511,7 @@ FINANCIAL ADMINISTRATION
 
  
 
-      802.112 Surcharge for certain transactions; rules. The Department of Transportation may impose a surcharge on any fee the department is authorized to collect if the fee is imposed for a transaction that can be accomplished by a customer of the department in more than one way and the customer chooses the more expensive way. A surcharge imposed under this section may not exceed the lesser of the additional cost to the department, rounded to the nearest dollar, or $10. No surcharge may be imposed under this section until the department adopts rules specifying transactions for which the surcharge will be imposed. [1993 c.751 §9]
+      802.112 Surcharge for certain transactions; rules. The Department of Transportation may impose a surcharge on any fee the department is authorized to collect if the fee is imposed for a transaction that can be accomplished by a customer of the department in more than one way and the customer chooses the more expensive way. A surcharge imposed under this section may be added to the amount tendered by the customer to offset fees charged to the department for acceptance and use of a credit card. A surcharge may not be imposed under this section until the department adopts rules specifying transactions for which the surcharge will be imposed. [1993 c.751 §9; 2019 c.312 §35]
 
  
 
@@ -579,11 +569,13 @@ FINANCIAL ADMINISTRATION
 
       802.170 Uncollectible tender of payment; procedures. If any person pays the Department of Transportation any fee or tax with a bank check and the check is returned to the department as uncollectible, or if a person pays the department with a credit or debit card and for any reason the department does not get payment from the issuer of the card, the department may charge the person the fee for dishonored checks or other orders for the payment of money under ORS 30.701 (5). If the person does not pay the fee charged under this section, the department may do all of the following:
 
-      (1) Suspend or cancel, or refuse to issue or renew, any vehicle registration or title, vehicle permit, driver license or driver permit in payment of which the check or other order for the payment of money was presented.
+      (1) Suspend or cancel, or refuse to issue or renew, any vehicle registration, vehicle title or vehicle permit in payment of which the check or other order for the payment of money was presented.
 
-      (2) Authorize any department employee or police officer to seize and recover any evidence of the registration, title, license or permit suspended or canceled.
+      (2) Cancel, or refuse to issue or renew, any driver license or driver permit in payment of which the check or other order for the payment of money was presented.
 
-      (3) If evidence of the suspended or canceled registration, title, license or permit is not recovered, refuse to conduct any further transactions with the person until the fee charged under this section is paid. [1983 c.338 §134; 1985 c.669 §10; 1991 c.702 §21; 1993 c.751 §12; 1997 c.583 §6; 1999 c.59 §234]
+      (3) Authorize any department employee or police officer to seize and recover any evidence of the registration, title, license or permit suspended or canceled.
+
+      (4) If evidence of the suspended or canceled registration, title, license or permit is not recovered, refuse to conduct any further transactions with the person until the fee charged under this section is paid. [1983 c.338 §134; 1985 c.669 §10; 1991 c.702 §21; 1993 c.751 §12; 1997 c.583 §6; 1999 c.59 §234; 2018 c.76 §21]
 
  
 
@@ -787,7 +779,39 @@ RECORDS
 
  
 
-      802.200 Required records. In addition to any other records the Department of Transportation may establish, the department is subject to the following provisions concerning records:
+      Note: The amendments to 802.195 by section 14, chapter 701, Oregon Laws 2019, become operative January 1, 2021, and apply to driver licenses, driver permits and identification cards issued, renewed or replaced on or after January 1, 2021. See sections 25 and 26, chapter 701, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      802.195. (1) As used in this section:
+
+      (a) “Motor vehicle record” means any record that pertains to a grant of driving privileges, an identification card issued by the Department of Transportation, a vehicle title or a vehicle registration.
+
+      (b) “Person” has the meaning given that term in ORS 802.175.
+
+      (2) Neither the Department of Transportation nor any officer, employee or contractor of the department may knowingly disclose or otherwise make available to any person:
+
+      (a) An individual’s Social Security number that is obtained by the department in connection with a motor vehicle record; or
+
+      (b) Whether a person provided a Social Security number to the department when applying for a driver license, driver permit or identification card.
+
+      (3) Notwithstanding subsection (2) of this section, the department may, upon the request of another government agency, or shall, as required by law, disclose an individual’s Social Security number or lack thereof from a motor vehicle record to the other agency for use in carrying out the other agency’s governmental functions.
+
+      (4) An Oregon government agency that receives an individual’s Social Security number under subsection (3) of this section may not redisclose the Social Security number except as required by law. An Oregon government agency that rediscloses a Social Security number as authorized by this subsection shall keep for five years records that identify each other government agency that receives the Social Security number. Records kept in accordance with this subsection must be made available to the department upon request.
+
+      (5) The department may establish fees reasonably calculated to reimburse the department for the actual cost of making an individual’s Social Security number available to a government agency as required in subsection (3) of this section.
+
+      (6) Nothing in this section prohibits an individual from having access to that individual’s own Social Security number that is contained in motor vehicle records.
+
+      (7) Knowingly obtaining or using a Social Security number from a motor vehicle record in violation of this section is a Class A misdemeanor.
+
+      (8) A person aggrieved by violation of this section may bring a civil action against a person who has knowingly obtained or used the aggrieved person’s Social Security number in violation of this section. The action shall be for actual damages or $2,500, whichever is greater, plus attorney fees and court costs reasonably incurred in the action.
+
+      (9) A person aggrieved by a violation of this section, a district attorney or the Attorney General may obtain appropriate relief to enforce this section, together with attorney fees and costs reasonably incurred in an action.
+
+      (10) Any person whose use or acquisition of a Social Security number in violation of this section subjects the State of Oregon to any liability or claim shall indemnify and hold harmless this state from all such liabilities and claims, including attorney fees and court costs, incurred in any action brought under this section.
+
+ 
+
+      802.200 Required records; rules. In addition to any other records the Department of Transportation may establish, the department is subject to the following provisions concerning records:
 
       (1) The department shall maintain records concerning the titling of vehicles in this state. The records under this subsection shall include the following:
 
@@ -849,7 +873,7 @@ RECORDS
 
       (c) Every application for a driver license, driver permit or identification card.
 
-      (d) All driver licenses or driver permits that have been suspended or revoked.
+      (d) All driver licenses or driver permits that have been suspended, revoked or canceled.
 
       (e) For each driver license, driver permit or identification card, the Social Security number of the person to whom the driver license, driver permit or identification card is issued or proof that the person is not eligible for a Social Security number.
 
@@ -857,17 +881,9 @@ RECORDS
 
       (9) The Department of Transportation shall maintain a two-part driving record consisting of an employment driving record and a nonemployment driving record for each person as required under this subsection. All of the following apply to the records required under this subsection:
 
-      (a) The department shall maintain driving records on:
+      (a) The department shall maintain driving records on each person the department determines requires an Oregon driving record to comply with federal regulations or provisions of the vehicle code. The department shall establish rules for maintaining driving records under this subsection.
 
-      (A) Every person who is granted driving privileges under a driver license, driver permit or a statutory grant of driving privileges under ORS 807.020;
-
-      (B) Every person whose driving privileges have been suspended, revoked or canceled under this vehicle code;
-
-      (C) Every person who has filed an accident report under ORS 811.725 or 811.730; and
-
-      (D) Every person who is required to provide future responsibility filings under ORS 806.200, 806.220, 806.230 or 806.240.
-
-      (b) In addition to other information required by this paragraph, the employment driving record shall include all reports of drug test results that are made to the department under ORS 825.410 or 825.415. Notwithstanding any other provision of law, release of the portion of the employment driving record that shows drug test results reported under ORS 825.410 or 825.415 is permitted only in accordance with ORS 802.202. The employment driving record shall also include all motor vehicle accidents that the person is required to report under ORS 811.720, all suspensions of driving privileges required to be placed on the record under ORS 809.280, all suspensions of the person’s commercial driving privileges that result from operation or use of a commercial motor vehicle and all convictions of the person for violation of motor vehicle laws except convictions for offenses requiring mandatory revocation or suspension of driving privileges under ORS 809.409, 809.411, 809.510 to 809.545 and 813.400, but shall include only such accidents, suspensions and convictions that occur while the person is driving a motor vehicle:
+      (b) In addition to other information required by this paragraph, the employment driving record shall include all reports of drug test results that are made to the department under ORS 825.410 or 825.415. Notwithstanding any other provision of law, release of the portion of the employment driving record that shows drug test results reported under ORS 825.410 or 825.415 is permitted only in accordance with ORS 802.202. The employment driving record shall also include all motor vehicle accidents that the person is required to report under ORS 811.720, all suspensions of driving privileges required to be placed on the record under ORS 809.280, all suspensions of the person’s commercial driving privileges that result from operation or use of a commercial motor vehicle and all convictions, as determined by the department by rule, of the person for violation of motor vehicle laws except convictions for offenses requiring mandatory revocation or suspension of driving privileges under ORS 809.409, 809.411, 809.510 to 809.545 and 813.400, but shall include only such accidents, suspensions and convictions that occur while the person is driving a motor vehicle:
 
       (A) In the course of the person’s employment when the person is employed by another for the principal purpose of driving a motor vehicle;
 
@@ -887,25 +903,23 @@ RECORDS
 
       (B) Suspensions, cancellations and revocations of licenses, permits and driving privileges;
 
-      (C) Convictions for violation of the motor vehicle laws other than those included in the employment driving record including, for each violation of ORS 811.100 or 811.111, the speed at which the person was convicted of traveling and the posted speed, the speed limit or the speed that constitutes prima facie evidence of violation of the basic speed rule, as appropriate; and
+      (C) Judgments and convictions, as determined by the department by rule, for violation of the motor vehicle laws including, for each violation of ORS 811.100 or 811.111, the speed at which the person was convicted of traveling and the posted speed, the speed limit or the speed that constitutes prima facie evidence of violation of the basic speed rule, as appropriate; and
 
       (D) Diversion agreements entered into under ORS 813.220 within the preceding 15 years.
 
       (d) The department may record other entries to indicate correspondence, interviews, participation in driver improvement programs or other matters concerning the status of the driving privileges of the person.
 
-      (e) When a person from another jurisdiction applies for a driver license or driver permit issued by this state, the department shall request a copy of the person’s driving record from the other jurisdiction. At the time the person is issued a license in Oregon, the record from the other jurisdiction shall become part of the driver’s record in this state with the same force and effect as though entered on the driver’s record in this state in the original instance. The department by rule may specify methods for converting entries from out-of-state records for use in Oregon.
+      (e) When a person is issued a driver license or driver permit by this state, the department may request a copy of driving records that exist for the person in any other jurisdiction. The department shall adopt rules specifying when the department may request driving records from other jurisdictions and may apply entries from out-of-state records for use in Oregon.
 
       (f) When a suspension of a driver permit, driver license or other driving privilege is placed on the driving record under ORS 809.280 for failure to appear in court on a traffic crime, the department shall note on the record that the suspension was for failure to appear in court and shall also note the offense charged against the person on which the person failed to appear.
 
       (g) The Department of Transportation, in consultation with the Department of State Police, shall devise and implement a method of noting suspensions and revocations of driving privileges on the record in such a way that police agencies can determine directly from the record what class of offense, as provided by law, is committed by a person who drives in violation of the suspension or revocation. If the Department of Transportation and the Department of State Police devise a mutually agreeable alternative method of informing police agencies of the nature of a suspension or revocation and the consequences of its violation, the implementation of that method shall satisfy the duty of the Department of Transportation under this paragraph.
 
-      (10) The Department of Transportation shall maintain records of judgments or convictions sent to the department under ORS 810.375.
+      (10) The department shall maintain accident reports filed with the department under ORS 810.460 and 811.725 to 811.735.
 
-      (11) The department shall maintain accident reports filed with the department under ORS 810.460 and 811.725 to 811.735.
+      (11) The department shall maintain records of bank checks or money orders returned under ORS 802.110.
 
-      (12) The department shall maintain records of bank checks or money orders returned under ORS 802.110.
-
-      (13) The department shall maintain records of trip permits issued by the department under ORS 803.600, as provided under this subsection. The records required by this subsection shall include the following:
+      (12) The department shall maintain records of trip permits issued by the department under ORS 803.600, as provided under this subsection. The records required by this subsection shall include the following:
 
       (a) A description of the vehicle sufficient to identify the vehicle.
 
@@ -917,7 +931,143 @@ RECORDS
 
       (e) For registration weight trip permits, the maximum allowable registration weight permitted for operation under the permit.
 
-      (f) Any other information the department determines appropriate or convenient. [1983 c.338 §124; 1985 c.16 §34; 1985 c.175 §1; 1985 c.251 §11a; 1985 c.313 §1; 1985 c.402 §5b; 1985 c.668 §2; 1987 c.5 §1; 1987 c.137 §5; 1987 c.730 §9; 1987 c.887 §6; 1989 c.636 §10; 1989 c.723 §6; 1991 c.284 §12; 1991 c.407 §21; 1991 c.820 §11; 1993 c.174 §10; 1993 c.233 §12; 1993 c.751 §14; 1995 c.733 §82a; 1999 c.230 §1; 1999 c.1051 §86; 1999 c.1099 §3; 2003 c.330 §2; 2003 c.402 §10; 2003 c.655 §97; 2003 c.819 §13; 2005 c.405 §§2,3; 2008 c.1 §8; 2009 c.515 §2; 2013 c.163 §4; 2013 c.237 §36; 2013 c.659 §2]
+      (f) Any other information the department determines appropriate or convenient. [1983 c.338 §124; 1985 c.16 §34; 1985 c.175 §1; 1985 c.251 §11a; 1985 c.313 §1; 1985 c.402 §5b; 1985 c.668 §2; 1987 c.5 §1; 1987 c.137 §5; 1987 c.730 §9; 1987 c.887 §6; 1989 c.636 §10; 1989 c.723 §6; 1991 c.284 §12; 1991 c.407 §21; 1991 c.820 §11; 1993 c.174 §10; 1993 c.233 §12; 1993 c.751 §14; 1995 c.733 §82a; 1999 c.230 §1; 1999 c.1051 §86; 1999 c.1099 §3; 2003 c.330 §2; 2003 c.402 §10; 2003 c.655 §97; 2003 c.819 §13; 2005 c.405 §§2,3; 2008 c.1 §8; 2009 c.515 §2; 2013 c.163 §4; 2013 c.237 §36; 2013 c.659 §2; 2019 c.312 §19]
+
+ 
+
+Note: The amendments to 802.200 by section 16, chapter 701, Oregon Laws 2019, become operative January 1, 2021, and apply to driver licenses, driver permits and identification cards issued, renewed or replaced on or after January 1, 2021. See sections 25 and 26, chapter 701, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      802.200. In addition to any other records the Department of Transportation may establish, the department is subject to the following provisions concerning records:
+
+      (1) The department shall maintain records concerning the titling of vehicles in this state. The records under this subsection shall include the following:
+
+      (a) For vehicles issued a title by this state, the records shall identify the vehicle and contain the following:
+
+      (A) The name of the vehicle owner and any security interest holders in order of priority, except that a security interest holder need not be identified if the debtor who granted the interest is in the business of selling vehicles and the vehicles constitute inventory held for sale;
+
+      (B) The name of any lessor of the vehicle;
+
+      (C) The vehicle description; and
+
+      (D) Whether a certificate of title was issued for the vehicle.
+
+      (b) If the vehicle is an antique vehicle that is reconstructed, the records shall indicate that the vehicle is reconstructed.
+
+      (c) If the vehicle is a replica, the records shall indicate that the vehicle is a replica.
+
+      (d) Any other information concerning the titling of vehicles that the department considers convenient or appropriate.
+
+      (e) All odometer disclosures and readings for a vehicle that are reported to the department under provisions of the vehicle code. The department shall keep the most recent version of records required under this paragraph in electronic form.
+
+      (f) If the vehicle has been reported to the department as a totaled vehicle under the provisions of ORS 819.012 or 819.014, the records shall indicate that the vehicle is a totaled vehicle unless the reason for the report was theft and the vehicle has been recovered.
+
+      (2) If a vehicle that has been registered or titled in another jurisdiction is registered or titled in this state, the department shall retain a record of any odometer readings shown on the title or registration documents submitted to the department at the time of registration or title.
+
+      (3) Except as otherwise provided in ORS 826.003, the department shall maintain records concerning the registration of vehicles required to be registered by the department. The records concerning the registration of vehicles may be stored along with records concerning the titling of vehicles. The records under this subsection shall include the following:
+
+      (a) For vehicles registered by the department, the records shall identify the vehicle and contain the following:
+
+      (A) The registration plate number assigned by the department to the vehicle;
+
+      (B) The name of the vehicle owner;
+
+      (C) The vehicle description and vehicle identification number; and
+
+      (D) An indication that the vehicle is a totaled vehicle if it has been reported to the department as a totaled vehicle under the provisions of ORS 819.012 or 819.014, unless the reason for the report was theft and the vehicle has been recovered.
+
+      (b) Any other information concerning the registration of vehicles that the department considers convenient or appropriate.
+
+      (4) The department shall maintain separate records for the regulation of vehicle dealers. The records required under this subsection shall include the following information about persons issued dealer certificates:
+
+      (a) The person’s application for a vehicle dealer certificate.
+
+      (b) An alphabetical index of the name of each person applying for a vehicle dealer certificate.
+
+      (c) A numerical index according to the distinctive number assigned to each vehicle dealer.
+
+      (5) The department shall maintain a file on vehicles for which the title record is canceled under ORS 819.030. The records required under this subsection shall disclose the last registered owner of each vehicle, any security interest holder or holders and lessors of each vehicle as shown by the canceled title record for each vehicle and the make and year model for each vehicle.
+
+      (6) The department shall maintain a record of each agreement or declaration under ORS 802.500 and 802.520.
+
+      (7) The department shall maintain separate and comprehensive records of all transactions affecting the Revolving Account for Emergency Cash Advances described under ORS 802.100.
+
+      (8) The department shall maintain suitable records of driver licenses, driver permits and identification cards. The records required under this subsection shall include all of the following:
+
+      (a) An index by name and number.
+
+      (b) Supporting documentation of all driver licenses, driver permits or identification cards issued.
+
+      (c) Every application for a driver license, driver permit or identification card.
+
+      (d) All driver licenses or driver permits that have been suspended, revoked or canceled.
+
+      (e)(A) For each driver license, driver permit or identification card, the Social Security number of the person to whom the driver license, driver permit or identification card is issued or the written statement that the person has not been assigned a Social Security number.
+
+      (B) As used in this paragraph, a “driver license,” “driver permit” or “identification card” means a driver license, driver permit or identification card that is not a:
+
+      (i) Real ID;
+
+      (ii) Commercial driver license; or
+
+      (iii) Commercial learner driver permit.
+
+      (f) For each commercial driver license and commercial learner driver permit, the Social Security number of the person to whom the license or permit is issued, or any other number or identifying information that the Secretary of the United States Department of Transportation determines appropriate to identify the person.
+
+      (g) For each Real ID, the Social Security number of the person to whom the Real ID is issued, or proof that the person is not eligible for a Social Security number.
+
+      (9) The Department of Transportation shall maintain a two-part driving record consisting of an employment driving record and a nonemployment driving record for each person as required under this subsection. All of the following apply to the records required under this subsection:
+
+      (a) The department shall maintain driving records on each person the department determines requires an Oregon driving record to comply with federal regulations or provisions of the vehicle code. The department shall establish rules for maintaining driving records under this subsection.
+
+      (b) In addition to other information required by this paragraph, the employment driving record shall include all reports of drug test results that are made to the department under ORS 825.410 or 825.415. Notwithstanding any other provision of law, release of the portion of the employment driving record that shows drug test results reported under ORS 825.410 or 825.415 is permitted only in accordance with ORS 802.202. The employment driving record shall also include all motor vehicle accidents that the person is required to report under ORS 811.720, all suspensions of driving privileges required to be placed on the record under ORS 809.280, all suspensions of the person’s commercial driving privileges that result from operation or use of a commercial motor vehicle and all convictions, as determined by the department by rule, of the person for violation of motor vehicle laws except convictions for offenses requiring mandatory revocation or suspension of driving privileges under ORS 809.409, 809.411, 809.510 to 809.545 and 813.400, but shall include only such accidents, suspensions and convictions that occur while the person is driving a motor vehicle:
+
+      (A) In the course of the person’s employment when the person is employed by another for the principal purpose of driving a motor vehicle;
+
+      (B) Carrying persons or property for compensation;
+
+      (C) In the course of the person’s employment in the collection, transportation or delivery of mail if the vehicle is government owned or marked for the collection, transportation or delivery of mail in accordance with government rules;
+
+      (D) That is an authorized emergency vehicle;
+
+      (E) That is a commercial motor vehicle; or
+
+      (F) In the course of the person’s employment with a federal, state or local government in a public works project involving repair or maintenance of water, sewer or road systems.
+
+      (c) The nonemployment driving record shall include the person’s:
+
+      (A) Motor vehicle accidents that the person is required to report under ORS 811.720, other than the motor vehicle accidents that are included on the person’s employment driving record;
+
+      (B) Suspensions, cancellations and revocations of licenses, permits and driving privileges;
+
+      (C) Judgments and convictions, as determined by the department by rule, for violation of the motor vehicle laws including, for each violation of ORS 811.100 or 811.111, the speed at which the person was convicted of traveling and the posted speed, the speed limit or the speed that constitutes prima facie evidence of violation of the basic speed rule, as appropriate; and
+
+      (D) Diversion agreements entered into under ORS 813.220 within the preceding 15 years.
+
+      (d) The department may record other entries to indicate correspondence, interviews, participation in driver improvement programs or other matters concerning the status of the driving privileges of the person.
+
+      (e) When a person is issued a driver license or driver permit by this state, the department may request a copy of driving records that exist for the person in any other jurisdiction. The department shall adopt rules specifying when the department may request driving records from other jurisdictions and may apply entries from out-of-state records for use in Oregon.
+
+      (f) When a suspension of a driver permit, driver license or other driving privilege is placed on the driving record under ORS 809.280 for failure to appear in court on a traffic crime, the department shall note on the record that the suspension was for failure to appear in court and shall also note the offense charged against the person on which the person failed to appear.
+
+      (g) The Department of Transportation, in consultation with the Department of State Police, shall devise and implement a method of noting suspensions and revocations of driving privileges on the record in such a way that police agencies can determine directly from the record what class of offense, as provided by law, is committed by a person who drives in violation of the suspension or revocation. If the Department of Transportation and the Department of State Police devise a mutually agreeable alternative method of informing police agencies of the nature of a suspension or revocation and the consequences of its violation, the implementation of that method shall satisfy the duty of the Department of Transportation under this paragraph.
+
+      (10) The department shall maintain accident reports filed with the department under ORS 810.460 and 811.725 to 811.735.
+
+      (11) The department shall maintain records of bank checks or money orders returned under ORS 802.110.
+
+      (12) The department shall maintain records of trip permits issued by the department under ORS 803.600, as provided under this subsection. The records required by this subsection shall include the following:
+
+      (a) A description of the vehicle sufficient to identify the vehicle.
+
+      (b) The person to whom the permit was issued.
+
+      (c) When the permit was issued.
+
+      (d) The type of permit issued.
+
+      (e) For registration weight trip permits, the maximum allowable registration weight permitted for operation under the permit.
+
+      (f) Any other information the department determines appropriate or convenient.
 
  
 
@@ -925,11 +1075,11 @@ RECORDS
 
  
 
-      802.210 Records of notices of approaching expiration of registration or license not required. The Department of Transportation is not required to maintain records on any of the following:
+      802.210 Records of notification of approaching expiration of registration or license not required. The Department of Transportation is not required to maintain records on any of the following:
 
-      (1) The preparation and sending of notices required on approaching expiration of registration under ORS 803.450.
+      (1) The preparation and notification required on approaching expiration of registration under ORS 803.450.
 
-      (2) The preparation and mailing of notices required on approaching expiration of driver license or driver permit under ORS 807.140. [1983 c.338 §125; 1985 c.16 §35; 2015 c.404 §4]
+      (2) The preparation and notification required on approaching expiration of driver license or driver permit under ORS 807.140. [1983 c.338 §125; 1985 c.16 §35; 2015 c.404 §4; 2019 c.312 §21]
 
  
 
@@ -1087,7 +1237,7 @@ RECORDS
 
       (j) Any judge of a court of this state.
 
-      (k) An employee of the Oregon Youth Authority whose duties include personal contact with persons committed to the legal or physical custody of the authority.
+      (k) An employee of the Oregon Youth Authority or of a county juvenile department whose duties include personal contact with persons committed to the legal or physical custody of the authority or of the county juvenile department.
 
       (L) A district attorney, as defined in ORS 131.005, or deputy district attorney.
 
@@ -1107,7 +1257,7 @@ RECORDS
 
       (p) An employee whose duties include personal contact with criminal offenders and who is employed by a law enforcement unit, as defined in ORS 181A.355.
 
-      (q) A civil code enforcement officer, as defined in ORS 192.345. [1985 c.563 §§2,3; 1989 c.695 §1; 1991 c.67 §211; 1991 c.523 §1; 1991 c.789 §1; 1993 c.741 §76; 1993 c.751 §17; 1997 c.872 §11; 2003 c.399 §1; 2005 c.22 §513; 2005 c.292 §1a; 2007 c.71 §244; 2007 c.169 §1; 2009 c.595 §1138; 2011 c.297 §1; 2012 c.54 §31; 2013 c.56 §1; 2015 c.313 §4; 2015 c.614 §167]
+      (q) A civil code enforcement officer, as defined in ORS 192.345. [1985 c.563 §§2,3; 1989 c.695 §1; 1991 c.67 §211; 1991 c.523 §1; 1991 c.789 §1; 1993 c.741 §76; 1993 c.751 §17; 1997 c.872 §11; 2003 c.399 §1; 2005 c.22 §513; 2005 c.292 §1a; 2007 c.71 §244; 2007 c.169 §1; 2009 c.595 §1138; 2011 c.297 §1; 2012 c.54 §31; 2013 c.56 §1; 2015 c.313 §4; 2015 c.614 §167; 2019 c.61 §4]
 
  
 
@@ -1481,7 +1631,9 @@ RECIPROCAL AGREEMENTS AND INTERSTATE COMPACTS
 
       802.540 Driver License Compact. The Driver License Compact is enacted into law and entered into on behalf of this state with all other states legally joining therein in a form substantially as follows:
 
-______________________________________________________________________________
+ 
+
+ 
 
 ARTICLE I
 
@@ -1581,7 +1733,9 @@ CONSTRUCTION AND SEVERABILITY
 
       This compact shall be liberally construed so as to effectuate the purposes thereof. The provisions of this compact shall be severable and if any phrase, clause, sentence or provision of this compact is declared to be contrary to the constitution of any party state or of the United States or the applicability thereof to any government, agency, person or circumstance is held invalid, the validity of the remainder of this compact and the applicability thereof to any government, agency, person or circumstance shall not be affected thereby. If this compact shall be held contrary to the constitution of any state party thereto, the compact shall remain in full force and effect as to the remaining states and in full force and effect as to the state affected as to all severable matters.
 
-______________________________________________________________________________ [1983 c.338 §168]
+ 
+
+[1983 c.338 §168]
 
  
 
@@ -1593,23 +1747,25 @@ ______________________________________________________________________________ [
 
       (3) When reference in the compact is made to the licensing authority in this state, the reference applies to the Department of Transportation.
 
-      (4) In accordance with subdivision (c) of Article IV of the compact, the following offenses or violations provided by Oregon law hereby are designated as offenses or violations of a substantially similar nature as the respective denominations and descriptions of conduct appearing in subdivision (a) of Article IV of the compact.
+      (4) In accordance with subdivision (c) of Article IV of the compact, the following offenses or violations provided by Oregon law hereby are designated as offenses or violations of a substantially similar nature as the respective denominations and descriptions of conduct appearing in subdivision (a) of Article IV of the compact:
 
       (a) ORS 809.409 (1) and (2) - Article IV (a) (1).
 
       (b) ORS 813.400 - Article IV (a) (2).
 
-      (c) ORS 809.409 (5) - Article IV (a) (3).
+      (c) ORS 809.409 (4) - Article IV (a) (3).
 
       (d) ORS 809.409 (3) - Article IV (a) (4).
 
-      (5) Offenses or violations other than those referred to in subsection (4) of this section reported to the department pursuant to Article III of the compact shall be given effect within the purpose of Article IV (b) of the compact as the other laws of this state provide. [1983 c.338 §169; 2003 c.402 §11]
+      (5) Offenses or violations other than those referred to in subsection (4) of this section reported to the department pursuant to Article III of the compact shall be given effect within the purpose of Article IV (b) of the compact as the other laws of this state provide. [1983 c.338 §169; 2003 c.402 §11; 2018 c.76 §22]
 
  
 
       802.560 Multistate Highway Transportation Agreement. The Multistate Highway Transportation Agreement is hereby enacted into law and entered into on behalf of this state with all other jurisdictions legally joining therein in a form substantially as follows:
 
-______________________________________________________________________________
+ 
+
+ 
 
 ARTICLE I
 
@@ -1709,23 +1865,23 @@ PARTICIPATING JURISDICTIONS
 
  
 
-W =                 500 ((LN/N - 1) + 12N + 36)
+W =  500 ((LN/N - 1) + 12N + 36)
 
-where W =      maximum weight in pounds
+where W =  maximum weight in pounds
 
-                        carried on any group of two or more
+         carried on any group of two or more
 
-                        axles computed to nearest 500 pounds.
+         axles computed to nearest 500 pounds.
 
-L =                   distance in feet between
+L =   distance in feet between
 
-                        the extremes of any group of two
+         the extremes of any group of two
 
-                        or more consecutive axles.
+         or more consecutive axles.
 
-N =                  number of axles in group
+N =   number of axles in group
 
-                        under consideration.
+         under consideration.
 
  
 
@@ -1783,7 +1939,9 @@ WITH COOPERATING COMMITTEE
 
       SECTION 1. Within appropriations available therefor, the departments, agencies and officers of the government of this state shall cooperate with and assist the cooperating committee within the scope contemplated by Article IV, section 1(a) and (b) of the agreement. The departments, agencies and officers of the government of this state are authorized generally to cooperate with said cooperating committee.
 
-______________________________________________________________________________ [1983 c.338 §172; 1985 c.172 §5; 2001 c.610 §1]
+ 
+
+[1983 c.338 §172; 1985 c.172 §5; 2001 c.610 §1]
 
  
 

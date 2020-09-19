@@ -4,18 +4,6 @@ Chapter 818 — Vehicle Limits
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0093
-
- 
-
 
  
 
@@ -241,13 +229,15 @@ WEIGHT
 
       (1) A vehicle exceeds the maximum allowable weight if the loaded weight of an axle or tandem axle is in excess of that determined by the formula in the following table:
 
-______________________________________________________________________________
+ 
+
+ 
 
 Table I
 
-      The manufacturer’s side wall tire rating (but not to exceed 600 pounds) ´the sum of the tire widths, in inches, of the wheels of the axle or tandem axles = maximum allowable weight.
+      The manufacturer’s side wall tire rating (but not to exceed 600 pounds) ´ the sum of the tire widths, in inches, of the wheels of the axle or tandem axles = maximum allowable weight.
 
-______________________________________________________________________________
+ 
 
  
 
@@ -259,29 +249,33 @@ For purposes of the table in this subsection tire width is determined by measuri
 
       (2) A vehicle or combination of vehicles exceeds the maximum allowable weight if the loaded weight measured at any of the places designated on the following table exceeds the maximum allowable weight established on the table for measurement at that place:
 
-______________________________________________________________________________
+ 
+
+ 
 
 Table II
 
  
 
-Place for measurement           Maximum allowable
+Place for measurement                       Maximum allowable
 
-of weight                                 weight in pounds
+of weight                                             weight in pounds
+
+      Any individual wheel                            10,000
+
+      Any axle                                                20,000
+
+      Any tandem axles                                  34,000
 
  
 
-      Any individual wheel       10,000
-
-      Any axle                           20,000
-
-      Any tandem axles             34,000
-
-______________________________________________________________________________
+ 
 
       (3) A vehicle, group of axles or combination of vehicles exceeds the maximum allowable weight if the loaded weight is in excess of maximum allowable weight as determined by the method in the following table that produces the lower allowable maximum weight:
 
-______________________________________________________________________________
+ 
+
+ 
 
 Table III
 
@@ -313,13 +307,13 @@ last axle           for number of axles in group of axles:
 
 in group
 
-of axles:          2                   3                   4                     5                       6                      7 or
-
-                        Axles            Axles            Axles             Axles                Axles      More        
-
-                                                                                                                        Axles
-
  
+
+of axles:          2                      3                      4                      5                      6                      7 or
+
+                        Axles               Axles               Axles               Axles               Axles               More     
+
+                                                                                                                                                Axles
 
 4                      34,000
 
@@ -331,115 +325,115 @@ of axles:          2                   3                   4                    
 
 8 and
 
-less                  34,000          34,000
+less                  34,000             34,000
 
 More
 
-than 8              38,000          42,000
+than 8              38,000             42,000
 
- 
+9                      39,000             42,500
 
-9                      39,000          42,500
+10                    40,000             43,500
 
-10                    40,000          43,500
+11                    40,000             44,000
 
-11                    40,000          44,000
+12                    40,000             45,000             50,000
 
-12                    40,000          45,000          50,000
+13                    40,000             45,500             50,500
 
-13                    40,000          45,500          50,500
+14                    40,000             46,500             51,500
 
-14                    40,000          46,500          51,500
+15                    40,000             47,000             52,000
 
-15                    40,000          47,000          52,000
+16                    40,000             48,000             52,500             58,000
 
-16                    40,000          48,000          52,500            58,000
+17                    40,000             48,500             53,500             58,500
 
-17                    40,000          48,500          53,500            58,500
+18                    40,000             49,500             54,000             59,000
 
-18                    40,000          49,500          54,000            59,000
+19                    40,000             50,000             54,500             60,000
 
-19                    40,000          50,000          54,500            60,000
+20                    40,000             51,000             55,500             60,500             66,000
 
-20                    40,000          51,000          55,500            60,500              66,000
+21                    40,000             51,500             56,000             61,000             66,500
 
-21                    40,000          51,500          56,000            61,000              66,500
+22                    40,000             52,500             56,500             61,500             67,000
 
-22                    40,000          52,500          56,500            61,500              67,000
+23                    40,000             53,000             57,500             62,500             68,000
 
-23                    40,000          53,000          57,500            62,500              68,000
+24                    40,000             54,000             58,000             63,000             68,500                        74,000
 
-24                    40,000          54,000          58,000            63,000              68,500                        74,000
+25                    40,000             54,500             58,500             63,500             69,000                        74,500
 
-25                    40,000          54,500          58,500            63,500              69,000                        74,500
+26                    40,000             55,500             59,500             64,000             69,500                        75,000
 
-26                    40,000          55,500          59,500            64,000              69,500                        75,000
+27                    40,000             56,000             60,000             65,000             70,000                        75,500
 
-27                    40,000          56,000          60,000            65,000              70,000                        75,500
+28                    40,000             57,000             60,500             65,500             71,000                        76,500
 
-28                    40,000          57,000          60,500            65,500              71,000                        76,500
+29                    40,000             57,500             61,500             66,000             71,500                        77,000
 
-29                    40,000          57,500          61,500            66,000              71,500                        77,000
+30                    40,000             58,500             62,000             66,500             72,000                        77,500
 
-30                    40,000          58,500          62,000            66,500              72,000                        77,500
+31                    40,000             59,000             62,500             67,500             72,500                        78,000
 
-31                    40,000          59,000          62,500            67,500              72,500                        78,000
+32                    40,000             60,000             63,500             68,000             73,000                        78,500
 
-32                    40,000          60,000          63,500            68,000              73,000                        78,500
+33                    40,000             60,000             64,000             68,500             74,000                        79,000
 
-33                    40,000          60,000          64,000            68,500              74,000                        79,000
+34                    40,000             60,000             64,500             69,000             74,500                        80,000
 
-34                    40,000          60,000          64,500            69,000              74,500                        80,000
+35                    40,000             60,000             65,500             70,000             75,000                        80,000
 
-35                    40,000          60,000          65,500            70,000              75,000                        80,000
+36                    40,000             60,000             66,000             70,500             75,500                        80,000
 
-36                    40,000          60,000          66,000            70,500              75,500                        80,000
+37                    40,000             60,000             66,500             71,000             76,000                        80,000
 
-37                    40,000          60,000          66,500            71,000              76,000                        80,000
+38                    40,000             60,000             67,500             71,500             77,000                        80,000
 
-38                    40,000          60,000          67,500            71,500              77,000                        80,000
+39                    40,000             60,000             68,000             72,500             77,500                        80,000
 
-39                    40,000          60,000          68,000            72,500              77,500                        80,000
+40                    40,000             60,000             68,500             73,000             78,000                        80,000
 
-40                    40,000          60,000          68,500            73,000              78,000                        80,000
+41                    40,000             60,000             69,500             73,500             78,500                        80,000
 
-41                    40,000          60,000          69,500            73,500              78,500                        80,000
+42                    40,000             60,000             70,000             74,000             79,000                        80,000
 
-42                    40,000          60,000          70,000            74,000              79,000                        80,000
+43                    40,000             60,000             70,500             75,000             80,000                        80,000
 
-43                    40,000          60,000          70,500            75,000              80,000                        80,000
+44                    40,000             60,000             71,500             75,500             80,000                        80,000
 
-44                    40,000          60,000          71,500            75,500              80,000                        80,000
+45                    40,000             60,000             72,000             76,000             80,000                        80,000
 
-45                    40,000          60,000          72,000            76,000              80,000                        80,000
+46                    40,000             60,000             72,500             76,500             80,000                        80,000
 
-46                    40,000          60,000          72,500            76,500              80,000                        80,000
+47                    40,000             60,000             73,500             77,500             80,000                        80,000
 
-47                    40,000          60,000          73,500            77,500              80,000                        80,000
+48                    40,000             60,000             74,000             78,000             80,000                        80,000
 
-48                    40,000          60,000          74,000            78,000              80,000                        80,000
+49                    40,000             60,000             74,500             78,500             80,000                        80,000
 
-49                    40,000          60,000          74,500            78,500              80,000                        80,000
+50                    40,000             60,000             75,500             79,000             80,000                        80,000
 
-50                    40,000          60,000          75,500            79,000              80,000                        80,000
+51                    40,000             60,000             76,000             80,000             80,000                        80,000
 
-51                    40,000          60,000          76,000            80,000              80,000                        80,000
+52                    40,000             60,000             76,500             80,000             80,000                        80,000
 
-52                    40,000          60,000          76,500            80,000              80,000                        80,000
+53                    40,000             60,000             77,500             80,000             80,000                        80,000
 
-53                    40,000          60,000          77,500            80,000              80,000                        80,000
+54                    40,000             60,000             78,000             80,000             80,000                        80,000
 
-54                    40,000          60,000          78,000            80,000              80,000                        80,000
+55                    40,000             60,000             78,500             80,000             80,000                        80,000
 
-55                    40,000          60,000          78,500            80,000              80,000                        80,000
-
-56                    40,000          60,000          79,500            80,000              80,000                        80,000
+56                    40,000             60,000             79,500             80,000             80,000                        80,000
 
 57 or
 
-over                 40,000          60,000          80,000            80,000              80,000                        80,000
+over                 40,000             60,000             80,000             80,000             80,000                        80,000
 
-______________________________________________________________________________
+ 
+
+ 
 
 For the purpose of the table in this subsection, the distance between axles shall be measured to the nearest foot. When a fractional measurement is exactly one-half foot the next larger whole number shall be used.
 
@@ -467,11 +461,13 @@ group of          Maximum allowable weight in pounds
 
 consecutive
 
-axles:              2                   3                   4                     5 or
+ 
 
-                        Axles            Axles            Axles             More
+axles:              2                      3                      4                      5 or
 
-                                             Axles
+                        Axles               Axles               Axles               More
+
+                                                                                                Axles
 
  
 
@@ -483,81 +479,81 @@ axles:              2                   3                   4                   
 
 7                      37,800
 
-8                      37,800          42,000
+8                      37,800             42,000
 
-9                      37,800          42,400
+9                      37,800             42,400
 
-10                    37,800          43,500
+10                    37,800             43,500
 
-11                                         44,000
+11                                            44,000
 
-12                                         45,000          50,000
+12                                            45,000             50,000
 
-13                                         56,470          56,470            56,470
+13                                            56,470             56,470             56,470
 
-14                                         57,940          57,940            57,940
+14                                            57,940             57,940             57,940
 
-15                                         59,400          59,400            59,400
+15                                            59,400             59,400             59,400
 
-16                                         60,610          60,610            60,610
+16                                            60,610             60,610             60,610
 
-17                                         61,820          61,820            61,820
+17                                            61,820             61,820             61,820
 
-18                                         63,140          63,140            63,140
+18                                            63,140             63,140             63,140
 
-19                                         64,530          64,530            64,530
+19                                            64,530             64,530             64,530
 
-20                                         65,450          65,450            65,450
+20                                            65,450             65,450             65,450
 
-21                                         66,000          66,000            66,330
+21                                            66,000             66,000             66,330
 
-22                                         66,000          66,000            67,250
+22                                            66,000             66,000             67,250
 
-23                                         66,000          66,000            67,880
+23                                            66,000             66,000             67,880
 
-24                                         66,000          66,000            68,510
+24                                            66,000             66,000             68,510
 
-25                                         66,000          66,000            69,150
+25                                            66,000             66,000             69,150
 
-26                                         66,000          66,000            69,770
+26                                            66,000             66,000             69,770
 
-27                                         66,000          66,000            70,400
+27                                            66,000             66,000             70,400
 
-28                                         66,000          66,000            70,950
+28                                            66,000             66,000             70,950
 
-29                                         66,000          66,000            71,500
+29                                            66,000             66,000             71,500
 
-30                                                                                     72,050
+30                                                                                            72,050
 
-31                                                                                     72,600
+31                                                                                            72,600
 
-32                                                                                     73,150
+32                                                                                            73,150
 
-33                                                                                     73,700
+33                                                                                            73,700
 
-34                                                                                     74,250
+34                                                                                            74,250
 
-35                                                                                     74,800
+35                                                                                            74,800
 
-36                                                                                     75,350
+36                                                                                            75,350
 
-37                                                                                     75,900
+37                                                                                            75,900
 
-38                                                                                     76,450
+38                                                                                            76,450
 
-39                                                                                     77,000
+39                                                                                            77,000
 
-40                                                                                     77,550
+40                                                                                            77,550
 
-41                                                                                     78,100
+41                                                                                            78,100
 
-42                                                                                     78,650
+42                                                                                            78,650
 
 43 and
 
-over                                                                                  80,000
+over                                                                                         80,000
 
-______________________________________________________________________________
+ 
 
  
 
@@ -571,7 +567,9 @@ Weights authorized under this subsection are authorized only if the vehicle is t
 
  
 
-      818.020 Violating maximum weight limits; civil liability; penalties. (1) A person commits the offense of violating maximum weight limits if the person does any of the following:
+      818.020 Violating maximum weight limits; civil liability;
+
+penalties. (1) A person commits the offense of violating maximum weight limits if the person does any of the following:
 
       (a) Drives or moves on a highway any vehicle or combination of vehicles that exceed the weight limits established under ORS 818.010.
 
@@ -597,7 +595,7 @@ Weights authorized under this subsection are authorized only if the vehicle is t
 
       (3) The maximum weight limitations do not apply to any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (4) The maximum weight limitations do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.390, provided the weight of the vehicles is approved by the road authority for the roads.
+      (4) The maximum weight limitations do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.394, provided the weight of the vehicles is approved by the road authority for the roads.
 
       (5) Subject to the maximum weight limitations under Tables I and III of ORS 818.010, any vehicle with a single rear axle specially equipped with a self-compactor and used exclusively for garbage or refuse operations may have a loaded weight upon a single axle of not more than 22,000 pounds when laden with garbage or refuse. When unladen or when operating on any highway that is part of the federal interstate highway system such vehicles shall comply with the weight limitations under Table II of ORS 818.010.
 
@@ -613,7 +611,7 @@ Weights authorized under this subsection are authorized only if the vehicle is t
 
       (10) The maximum weight limitations do not apply to a vehicle equipped with a fully functional idle reduction system designed to reduce fuel use and emissions from engine idling. The vehicle may exceed the weight limitations established under ORS 818.010 by not more than 550 pounds.
 
-      (11) The maximum weight limitations do not apply to a vehicle that uses natural gas as its fuel source. The vehicle may exceed the weight limitations established under ORS 818.010 by not more than 2,000 pounds. [1983 c.338 §509; 1985 c.172 §7; 1989 c.723 §19; 1995 c.489 §2; 2007 c.92 §1; 2017 c.156 §1]
+      (11) The maximum weight limitations do not apply to a vehicle that uses natural gas as its fuel source or a vehicle powered primarily by means of an electric battery. The vehicle may exceed the weight limitations established under ORS 818.010 by not more than 2,000 pounds. [1983 c.338 §509; 1985 c.172 §7; 1989 c.723 §19; 1995 c.489 §2; 2007 c.92 §1; 2017 c.156 §1; 2019 c.331 §1]
 
  
 
@@ -641,7 +639,7 @@ Weights authorized under this subsection are authorized only if the vehicle is t
 
       (3) Posted weight limits do not apply to any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (4) Posted weight limits do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.390, provided the weight of the vehicles is approved by the road authority for that road.
+      (4) Posted weight limits do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.394, provided the weight of the vehicles is approved by the road authority for that road.
 
       (5) Operations authorized to exceed weight limits by a variance permit issued under ORS 818.200 are subject to the terms of the permit. It shall be a defense to any charge of violation of ORS 818.040 if the person so charged produces a variance permit issued under ORS 818.200 authorizing the operation of the vehicle or combination of vehicles issued prior to and valid at the time of the offense. [1983 c.338 §511]
 
@@ -677,7 +675,7 @@ WEIGHT AND SIZE
 
       (3) Any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (4) Vehicles while being used on the roads of a road authority by a mass transit district for the purposes authorized under ORS 267.010 to 267.390, provided the weight or size is approved by the road authority for its roads.
+      (4) Vehicles while being used on the roads of a road authority by a mass transit district for the purposes authorized under ORS 267.010 to 267.394, provided the weight or size is approved by the road authority for its roads.
 
       (5) Operations authorized to exceed weight or size limitations by a variance permit issued under ORS 818.200 are subject to the terms of the permit. It shall be a defense to any charge of violation of ORS 818.060 if the person so charged produces a variance permit issued under ORS 818.200 that authorized the operation and that was issued prior to and valid at the time of the offense. [1983 c.338 §513]
 
@@ -691,7 +689,7 @@ SIZE
 
       (1) A vehicle or combination of vehicles, as appropriate, exceeds the maximum allowable size if a dimension of the vehicle, combination of vehicles or load thereon is beyond an applicable maximum size allowable on the following table:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -699,7 +697,9 @@ TABLE I
 
  
 
-Dimension                                 Limit applicable to:             Maximum
+ 
+
+Dimension                              Limit applicable to:                Maximum
 
 limited:                                                                                   allowable
 
@@ -711,59 +711,61 @@ limited:                                                                        
 
                                                                                                 limited:
 
-(1) Total
+ 
 
-      outside
+(1)       Total
 
-      width................................... Any vehicle........................ 8 1/2
+            outside
 
-(2) Height,
+            width.......................... Any vehicle........................... 8½
 
-      including
+(2)       Height,
 
-      load..................................... Any vehicle........................ 14
+            including
 
-(3) Length................................. Any vehicle
+            load............................ Any vehicle........................... 14
 
-                                                   operating singly.................. 40
+(3)       Length........................ Any vehicle
 
-                                                   Vehicle in
+                                                operating singly..................... 40
 
-                                                   combination
+                                                Vehicle in
 
-                                                   of vehicles.......................... 40
+                                                combination
 
-                                                   Combination of
+                                                of vehicles............................. 40
 
-                                                   vehicles,
+                                                Combination of
 
-                                                   including load..................... 60
+                                                vehicles,
 
-                                                   Combination of
+                                                including load........................ 60
 
-                                                   vehicles that includes
+                                                Combination of
 
-                                                   a stinger-steered
+                                                vehicles that includes
 
-                                                   pole trailer.......................... 65
+                                                a stinger-steered
 
-(4) Length of
+                                                pole trailer............................. 65
 
-      load on
+ (4)      Length of
 
-      vehicle................................ Any vehicle
+            load on
 
-                                                   operating
+            vehicle....................... Any vehicle
 
-                                                   singly or as a
+                                                operating
 
-                                                   unit in
+                                                singly or as a
 
-                                                   a combination
+                                                unit in
 
-                                                   of vehicles.......................... 40
+                                                a combination
 
-______________________________________________________________________________
+                                                of vehicles............................. 40
+
+ 
 
  
 
@@ -771,7 +773,7 @@ The maximum limit on height under the table in this subsection does not relieve 
 
       (2) A vehicle or combination of vehicles, as appropriate, exceeds the maximum allowable size if a portion of the vehicle, combination of vehicles or load thereon is subject to a limitation under the following table and that portion extends farther than the maximum limit of allowable extension beyond a designated point as determined by the following table:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -779,9 +781,7 @@ TABLE II
 
  
 
- 
-
-Designated point:                      Limit applicable to:             Maximum
+Designated point:                   Limit applicable to:                Maximum
 
                                                                                                 limit of
 
@@ -791,21 +791,19 @@ Designated point:                      Limit applicable to:             Maximum
 
                                                                                                 beyond
 
-                                                                                                designated      
+                                                                                                designated
 
                                                                                                 point:
 
- 
+ (1)      Line of left
 
-(1) Line of left
+            fenders of
 
-      fenders of
+            vehicle....................... Load on any
 
-      vehicle................................ Load on any
+                                                passenger
 
-                                                   passenger
-
-                                                   vehicle................................ No
+                                                vehicle................................... No
 
                                                                                                 allowable
 
@@ -817,37 +815,37 @@ Designated point:                      Limit applicable to:             Maximum
 
                                                                                                 point.
 
-(2) Line of right
+ (2)      Line of right
 
-      fenders of
+            fenders of
 
-      vehicle................................ Load on any
+            vehicle....................... Load on any
 
-                                                   passenger
+                                                passenger
 
-                                                   vehicle................................ 6 inches
+                                                vehicle................................... 6 inches
 
-(3) Front of
+ (3)      Front of
 
-      vehicle................................ Load on
+            vehicle....................... Load on
 
-                                                   any vehicle
+                                                any vehicle
 
-                                                   or combination
+                                                or combination
 
-                                                   of vehicles.......................... 4 feet
+                                                of vehicles............................. 4 feet
 
-(4) Last axle of
+ (4)      Last axle of
 
-      vehicle
+            vehicle
 
-      operating
+            operating
 
-      singly.................................. Any portion of
+            singly......................... Any portion of
 
-                                                   vehicle or any
+                                                vehicle or any
 
-                                                   load thereon........................ Three-
+                                                load thereon........................... Three-
 
                                                                                                 fourths the
 
@@ -861,17 +859,17 @@ Designated point:                      Limit applicable to:             Maximum
 
                                                                                                 vehicle.
 
-(5) Last axle of
+ (5)      Last axle of
 
-      combination
+            combination
 
-      of vehicles.......................... Any portion of
+            of vehicles................. Any portion of
 
-                                                   combination of
+                                                combination of
 
-                                                   vehicles or any
+                                                vehicles or any
 
-                                                   load thereon........................ One-third
+                                                load thereon........................... One-third
 
                                                                                                 of the
 
@@ -887,11 +885,15 @@ Designated point:                      Limit applicable to:             Maximum
 
                                                                                                 of vehicles.
 
-______________________________________________________________________________ [1983 c.338 §515; 1985 c.16 §265; 1995 c.488 §2; 2001 c.574 §3]
+ 
+
+[1983 c.338 §515; 1985 c.16 §265; 1995 c.488 §2; 2001 c.574 §3]
 
  
 
-      818.090 Violation of maximum size limits; civil liability; penalties. (1) A person commits the offense of violation of maximum size limits if the
+      818.090 Violation of maximum size limits; civil liability;
+
+penalties. (1) A person commits the offense of violation of maximum size limits if the
 
 person does any of the
 
@@ -919,7 +921,7 @@ that exceeds the size limits established under ORS 818.080.
 
       (3) The maximum size limits do not apply to any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (4) The maximum size limits do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.390, provided the size of the vehicles is approved by the road authority for the roads.
+      (4) The maximum size limits do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.394, provided the size of the vehicles is approved by the road authority for the roads.
 
       (5) Size limits are not applicable in any place and to the extent size limits are modified by a road authority under ORS 810.060. The exemption under this subsection is subject to the limitations imposed by the road authority exercising the powers granted under ORS 810.060.
 
@@ -1061,7 +1063,7 @@ VEHICLE COMBINATIONS
 
       (3) The limit on the number of vehicles that may be operated in combination does not apply to any vehicles, combination of vehicles, articles, machines or other equipment while being used by the federal government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (4) The limit on the number of vehicles that may be operated in combination does not apply to any vehicles while being used on the roads of a road authority by mass transit districts for purposes authorized under ORS 267.010 to 267.390, provided the use of the vehicles is approved by the road authority for its roads.
+      (4) The limit on the number of vehicles that may be operated in combination does not apply to any vehicles while being used on the roads of a road authority by mass transit districts for purposes authorized under ORS 267.010 to 267.394, provided the use of the vehicles is approved by the road authority for its roads.
 
       (5) Operations authorized to exceed the limit on the number of vehicles that may be operated in combination by a variance permit issued under ORS 818.200 are subject to the terms of the permit. It shall be a defense to any charge of violation of ORS 818.110 if the person so charged produces a variance permit issued under ORS 818.200 authorizing the operation of the combination of vehicles issued prior to and valid at the time of the offense.
 
@@ -1103,7 +1105,7 @@ POSTED USE LIMITS
 
       (3) Posted use limits do not apply to any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal government, the State of Oregon or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (4) Posted use limits do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.390, provided the use of the vehicles is approved by the road authority for that road.
+      (4) Posted use limits do not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.394, provided the use of the vehicles is approved by the road authority for that road.
 
       (5) Operations authorized by a variance permit issued under ORS 818.200 are subject to the terms of the permit. It shall be a defense to any charge of violation of ORS 818.130 if the person so charged produces a variance permit issued under ORS 818.200 authorizing the operation of the vehicle or combination of vehicles issued prior to and valid at the time of the offense. [1983 c.338 §520]
 
@@ -1243,7 +1245,7 @@ PERMITS
 
       (b) The loaded weight of any group of axles of any vehicle or combination of vehicles, when the distance between the first and last axles of any group of axles is 18 feet or less, and the loaded weight of any vehicle when the distance between the first and last axles of all of the axles of the vehicle is 18 feet or less, shall not exceed that set forth in the following table of weights, or the sum of the permissible axle or tandem axle weights, whichever is less:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -1289,13 +1291,13 @@ the axles of any vehicle:
 
       18                                                  50,000
 
-______________________________________________________________________________
+ 
 
  
 
       (c) The loaded weight of any vehicle or combination of vehicles, where the distance between the first and last axles of the vehicle or combination of vehicles is more than 18 feet, shall not exceed that set forth in the following table of weights, or the sum of the permissible axle, tandem axle or group of axles weights, whichever is less:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -1323,11 +1325,11 @@ of vehicles:
 
  
 
-Wheel             Max              5 Axles         6 Axles          7 Axles             8 or
+Wheel             Max                 5 Axles            6 Axles            7 Axles            8 or
 
-Base                Weight                                                                              More
+Base                Weight                                                                                    More
 
-                                                                                                                                          Axles
+                                                                                                                        Axles
 
  
 
@@ -1373,85 +1375,87 @@ Base                Weight                                                      
 
 39                    68,000
 
-40                    70,000          73,000
+40                    70,000             73,000
 
-41                    72,000          73,500
+41                    72,000             73,500
 
-42                    73,280          74,500
+42                    73,280             74,500
 
-43                    73,280          75,000
+43                    73,280             75,000
 
-44                    73,280          75,500
+44                    73,280             75,500
 
-45                    73,280          76,000
+45                    73,280             76,000
 
-46                    73,280          77,000
+46                    73,280             77,000
 
-47                    73,280          77,500          81,000            81,000              81,000
+47                    73,280             77,500             81,000             81,000             81,000
 
-48                    73,280          78,000          82,000            82,000              82,000
+48                    73,280             78,000             82,000             82,000             82,000
 
-49                    73,280          78,500          83,000            83,000              83,000
+49                    73,280             78,500             83,000             83,000             83,000
 
-50                    73,280          79,500          84,000            84,000              84,000
+50                    73,280             79,500             84,000             84,000             84,000
 
-51                    73,280          80,000          84,500            85,000              85,000
+51                    73,280             80,000             84,500             85,000             85,000
 
-52                    73,600          80,500          85,000            86,000              86,000
+52                    73,600             80,500             85,000             86,000             86,000
 
-53                    74,400          81,000          86,000            87,000              87,000
+53                    74,400             81,000             86,000             87,000             87,000
 
-54                    75,200          81,500          86,500            88,000              91,000
+54                    75,200             81,500             86,500             88,000             91,000
 
-55                    76,000          82,500          87,000            89,000              92,000
+55                    76,000             82,500             87,000             89,000             92,000
 
-56                    -                    83,000          87,500            90,000              93,000
+56                    -                       83,000             87,500             90,000             93,000
 
-57                    -                    83,500          88,000            91,000              94,000
+57                    -                       83,500             88,000             91,000             94,000
 
-58                    -                    84,000          89,000            92,000              95,000
+58                    -                       84,000             89,000             92,000             95,000
 
-59                    -                    85,000          89,500            93,000              96,000
+59                    -                       85,000             89,500             93,000             96,000
 
-60                    -                    85,500          90,000            94,000              97,000
+60                    -                       85,500             90,000             94,000             97,000
 
-61                    -                    86,000          90,500            95,000              98,000
+61                    -                       86,000             90,500             95,000             98,000
 
-62                    -                    87,000          91,000            96,000              99,000
+62                    -                       87,000             91,000             96,000             99,000
 
-63                    -                    87,500          92,000            97,000              100,000
+63                    -                       87,500             92,000             97,000             100,000
 
-64                    -                    88,000          92,500            97,500              101,000
+64                    -                       88,000             92,500             97,500             101,000
 
-65                    -                    88,500          93,000            98,000              102,000
+65                    -                       88,500             93,000             98,000             102,000
 
-66                    -                    89,000          93,500            98,500              103,000
+66                    -                       89,000             93,500             98,500             103,000
 
-67                    -                    90,000          94,000            99,000              104,000
+67                    -                       90,000             94,000             99,000             104,000
 
-68                    -                    90,000          95,000            99,500              105,000
+68                    -                       90,000             95,000             99,500             105,000
 
-69                    -                    90,000          95,500            100,000            105,500
+69                    -                       90,000             95,500             100,000           105,500
 
-70                    -                    90,000          96,000            101,000            105,500
+70                    -                       90,000             96,000             101,000           105,500
 
-71                    -                    90,000          96,500            101,500            105,500
+71                    -                       90,000             96,500             101,500           105,500
 
-72                    -                    90,000          96,500            102,000            105,500
+72                    -                       90,000             96,500             102,000           105,500
 
-73                    -                    90,000          96,500            102,500            105,500
+73                    -                       90,000             96,500             102,500           105,500
 
-74                    -                    90,000          96,500            103,000            105,500
+74                    -                       90,000             96,500             103,000           105,500
 
-75                    -                    90,000          96,500            104,000            105,500
+75                    -                       90,000             96,500             104,000           105,500
 
-76                    -                    90,000          96,500            104,500            105,500
+76                    -                       90,000             96,500             104,500           105,500
 
-77                    -                    90,000          96,500            105,000            105,500
+77                    -                       90,000             96,500             105,000           105,500
 
-78                    -                    90,000          96,500            105,500            105,500
+78                    -                       90,000             96,500             105,500           105,500
 
-______________________________________________________________________________
+ 
+
+ 
 
       (4) Any vehicle, combination of vehicles, load, article, property, machine or thing that:
 
@@ -1479,7 +1483,15 @@ ______________________________________________________________________________
 
       (11) A vehicle engaged in hauling poplar logs or the processing residual from the logs, which may be issued an annual overwidth permit for a vehicle and load with a combined width of not more than 12 feet. The annual permit shall allow movement of the vehicle only on Patterson Ferry Road and Frontage Road in Morrow County and only for a distance of 5,000 feet or less.
 
-      (12) A vehicle or combination of vehicles engaged in hauling bagged grass seed or mint leaves in sacks, which may be issued a permit to allow the load to be up to nine feet six inches wide. A permit issued under this subsection shall be valid for one year and shall specify the routes over which the overwidth load may be hauled. [1983 c.338 §536; 1985 c.16 §275; 1989 c.431 §1; 1991 c.261 §1; 1991 c.880 §5; 1993 c.416 §1; 1995 c.488 §1; 1997 c.360 §1; 1997 c.466 §1; 1999 c.59 §244; 1999 c.352 §1; 2001 c.335 §3; 2015 c.77 §1]
+      (12) A vehicle or combination of vehicles engaged in hauling bagged grass seed or mint leaves in sacks, which may be issued a permit to allow the load to be up to nine feet six inches wide. A permit issued under this subsection shall be valid for one year and shall specify the routes over which the overwidth load may be hauled.
+
+      (13) A combination of a truck tractor and two property-carrying units that exceeds the maximum length established under ORS 818.080 if:
+
+      (a) The combined length of the two property-carrying units does not exceed 82 feet 8 inches;
+
+      (b) The combination is used only to transport sugar beets; and
+
+      (c) The combination is operated on U.S. Highway 20, U.S. Highway 26, U.S. Highway 30 or State Highway 201 in the vicinity of or between the cities of Vale, Ontario and Nyssa. [1983 c.338 §536; 1985 c.16 §275; 1989 c.431 §1; 1991 c.261 §1; 1991 c.880 §5; 1993 c.416 §1; 1995 c.488 §1; 1997 c.360 §1; 1997 c.466 §1; 1999 c.59 §244; 1999 c.352 §1; 2001 c.335 §3; 2015 c.77 §1; 2019 c.490 §1]
 
  
 
@@ -1573,9 +1585,9 @@ ______________________________________________________________________________
 
       (A) For the period beginning on January 1, 2018, and ending on December 31, 2019, eight and five-tenths cents.
 
-      (B) For the period beginning on January 1, 2020, and ending on December 31, 2021, nine and five-tenths cents.
+      (B) For the period beginning on January 1, 2020, and ending on December 31, 2021, nine and three-tenths cents.
 
-      (C) For the period beginning on January 1, 2022, and ending on December 31, 2023, ten and five-tenths cents.
+      (C) For the period beginning on January 1, 2022, and ending on December 31, 2023, ten and three-tenths cents.
 
       (b) If the road use assessment fee is not collected at the time of issuance of the permit, the department shall bill the permittee for the amount due. The account shall be considered delinquent if not paid within 60 days of billing.
 
@@ -1585,15 +1597,15 @@ ______________________________________________________________________________
 
       (a) To standardize the determination of equivalent single-axle load computation based on average highway conditions; and
 
-      (b) To establish procedures for payment, collection and enforcement of the fees and assessments established by this chapter. [1989 c.992 §15; 1991 c.497 §12; 1995 c.447 §4; 1995 c.733 §91; 2003 c.618 §3; 2009 c.865 §51; 2017 c.750 §51]
+      (b) To establish procedures for payment, collection and enforcement of the fees and assessments established by this chapter. [1989 c.992 §15; 1991 c.497 §12; 1995 c.447 §4; 1995 c.733 §91; 2003 c.618 §3; 2009 c.865 §51; 2017 c.750 §51; 2018 c.93 §26]
 
  
 
-      Note: The amendments to 818.225 by section 52, chapter 750, Oregon Laws 2017, become operative January 1, 2024, and apply to road use assessment fees imposed on or after January 1, 2024. See sections 53 and 139, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2024, is set forth for the user’s convenience.
+      Note: The amendments to 818.225 by section 52, chapter 750, Oregon Laws 2017, become operative January 1, 2024, and apply to road use assessment fees imposed on or after January 1, 2024. See section 53, chapter 750, Oregon Laws 2017, and section 139, chapter 750, Oregon Laws 2017, as amended by section 31, chapter 93, Oregon Laws 2018. The text that is operative on and after January 1, 2024, including amendments by section 27, chapter 93, Oregon Laws 2018, is set forth for the user’s convenience.
 
       818.225. (1) As used in this section, “equivalent single-axle load” means the relationship between actual or requested weight and an 18,000 pound single-axle load as determined by the American Association of State Highway and Transportation Officials Road Tests reported at the Proceedings Conference of 1962.
 
-      (2)(a) In addition to any fee for a single-trip nondivisible load permit, a person who is issued the permit or who operates a vehicle in a manner that requires the permit is liable for payment of a road use assessment fee of eleven and eight-tenths cents per equivalent single-axle load mile traveled.
+      (2)(a) In addition to any fee for a single-trip nondivisible load permit, a person who is issued the permit or who operates a vehicle in a manner that requires the permit is liable for payment of a road use assessment fee of ten and nine-tenths cents per equivalent single-axle load mile traveled.
 
       (b) If the road use assessment fee is not collected at the time of issuance of the permit, the department shall bill the permittee for the amount due. The account shall be considered delinquent if not paid within 60 days of billing.
 
@@ -1673,43 +1685,13 @@ Note: 818.235 was enacted into law by the Legislative Assembly but was not added
 
  
 
-      818.270 Fees for permits. (1) For the period beginning on January 1, 2018, and ending on December 31, 2019:
+      818.270 Fees for permits. (1) The fee for issuance of a variance permit under ORS 818.200 may be any amount determined by a road authority, not to exceed $8. If the variance permit is issued by a private contractor, the contractor may charge an additional fee not to exceed $5.
 
-      (a) The fee for issuance of a variance permit under ORS 818.200 may be any amount determined by a road authority, not to exceed $8.50. If the variance permit is issued by a private contractor, the contractor may charge an additional fee not to exceed $5.50.
+      (2) The fee for issuance of a sifting or leaking load permit under ORS 818.230 is $8.
 
-      (b) The fee for issuance of a sifting or leaking load permit under ORS 818.230 is $8.50.
+      (3) The fee for issuance of a dragging permit under ORS 818.240 is $8.
 
-      (c) The fee for issuance of a dragging permit under ORS 818.240 is $8.50.
-
-      (2) For the period beginning on January 1, 2020, and ending on December 31, 2021:
-
-      (a) The fee for issuance of a variance permit under ORS 818.200 may be any amount determined by a road authority, not to exceed $9. If the variance permit is issued by a private contractor, the contractor may charge an additional fee not to exceed $6.
-
-      (b) The fee for issuance of a sifting or leaking load permit under ORS 818.230 is $9.
-
-      (c) The fee for issuance of a dragging permit under ORS 818.240 is $9.
-
-      (3) For the period beginning on January 1, 2022, and ending on December 31, 2023:
-
-      (a) The fee for issuance of a variance permit under ORS 818.200 may be any amount determined by a road authority, not to exceed $9.50. If the variance permit is issued by a private contractor, the contractor may charge an additional fee not to exceed $6.50.
-
-      (b) The fee for issuance of a sifting or leaking load permit under ORS 818.230 is $9.50.
-
-      (c) The fee for issuance of a dragging permit under ORS 818.240 is $9.50.
-
-      (4) The fee for issuance of a permit under ORS 818.260 for the use of bus safety lights is a fee established by rule by the Department of Transportation. Any fee established for purposes of this subsection may not exceed the actual costs of issuing the permit. [1983 c.338 §542; 1985 c.16 §278; 1985 c.736 §5; 1989 c.992 §13; 1995 c.123 §2; 1997 c.232 §1; 2017 c.750 §54]
-
- 
-
-      Note: The amendments to 818.270 by section 55, chapter 750, Oregon Laws 2017, become operative January 1, 2024, and apply to fees imposed on or after January 1, 2024. See sections 56 and 139, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2024, is set forth for the user’s convenience.
-
-      818.270. (1) The fee for issuance of a variance permit under ORS 818.200 may be any amount determined by a road authority, not to exceed $10. If the variance permit is issued by a private contractor, the contractor may charge an additional fee not to exceed $7.
-
-      (2) The fee for issuance of a sifting or leaking load permit under ORS 818.230 is $10.
-
-      (3) The fee for issuance of a dragging permit under ORS 818.240 is $10.
-
-      (4) The fee for issuance of a permit under ORS 818.260 for the use of bus safety lights is a fee established by rule by the Department of Transportation. Any fee established for purposes of this subsection may not exceed the actual costs of issuing the permit.
+      (4) The fee for issuance of a permit under ORS 818.260 for the use of bus safety lights is a fee established by rule by the Department of Transportation. Any fee established for purposes of this subsection may not exceed the actual costs of issuing the permit. [1983 c.338 §542; 1985 c.16 §278; 1985 c.736 §5; 1989 c.992 §13; 1995 c.123 §2; 1997 c.232 §1; 2017 c.750 §§54,55; 2018 c.93 §28]
 
  
 
@@ -1781,7 +1763,7 @@ PERMIT OFFENSES
 
       (b) The person is operating a vehicle with a fully functional idle reduction system designed to reduce fuel use and emissions from engine idling; and
 
-      (c) The total weight of the vehicle is not more than 400 pounds greater than the weight authorized by the variance permit.
+      (c) The total weight of the vehicle is not more than 550 pounds greater than the weight authorized by the variance permit.
 
       (5) Violation of the offense described in this section is subject to civil liability under ORS 818.410.
 
@@ -1793,7 +1775,7 @@ PERMIT OFFENSES
 
       (c) Violation of any weight provision by a vehicle listed in ORS 818.210 is subject to penalty under Schedule I of the penalties in ORS 818.430.
 
-      (d) Violation related to the required number of pilot vehicles or routing in accordance with the terms, limits or conditions established on a permit under ORS 818.220 (1)(c) is a Class A traffic violation. [1983 c.338 §528; 1985 c.16 §272; 1995 c.339 §1; 1997 c.360 §2; 1999 c.352 §2; 2007 c.92 §2; 2007 c.664 §2; 2008 c.10 §1]
+      (d) Violation related to the required number of pilot vehicles or routing in accordance with the terms, limits or conditions established on a permit under ORS 818.220 (1)(c) is a Class A traffic violation. [1983 c.338 §528; 1985 c.16 §272; 1995 c.339 §1; 1997 c.360 §2; 1999 c.352 §2; 2007 c.92 §2; 2007 c.664 §2; 2008 c.10 §1; 2019 c.491 §13]
 
  
 
@@ -1928,8 +1910,6 @@ ENFORCEMENT
  
 
       818.450 Civil penalty for violations of chapter. In addition to any penalty provided in a specific statute in this chapter, any person who violates a provision of this chapter is subject to civil penalty as provided in ORS 825.950. [1997 c.722 §3]
-
- 
 
 _______________
 

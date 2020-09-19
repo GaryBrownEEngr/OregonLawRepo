@@ -4,20 +4,6 @@ Chapter 419B — Juvenile Code: Dependency
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0089
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0074; 2018 Session Laws 0075; 2018 Session Laws 0089
-
- 
-
- 
-
 
  
 
@@ -31,7 +17,7 @@ HUMAN SERVICES; JUVENILE CODE; CORRECTIONS
 
  
 
-REPORTING OF CHILD ABUSE
+REPORTING AND INVESTIGATION OF CHILD ABUSE
 
  
 
@@ -59,7 +45,11 @@ REPORTING OF CHILD ABUSE
 
  
 
-419B.020  Duty of department or law enforcement agency receiving report; investigation; notice to parents; physical examination; child’s consent; notice at conclusion of investigation
+419B.019  Investigation of report involving school; notification; rules
+
+ 
+
+419B.020  Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigation
 
  
 
@@ -67,15 +57,7 @@ REPORTING OF CHILD ABUSE
 
  
 
-419B.022  Short title
-
- 
-
 419B.023  Duties of person conducting investigation under ORS 419B.020
-
- 
-
-419B.024  Critical Incident Response Team for child fatality; rules
 
  
 
@@ -95,7 +77,7 @@ REPORTING OF CHILD ABUSE
 
  
 
-419B.035  Confidentiality of records; when available to others
+419B.035  Confidentiality of records; when available to others; rules
 
  
 
@@ -179,7 +161,11 @@ JUVENILE COURT
 
  
 
-419B.150  When protective custody authorized; disposition of runaway child taken into protective custody
+419B.150  When protective custody authorized; protective custody order
+
+ 
+
+419B.152  Protective custody of runaway child
 
  
 
@@ -191,11 +177,11 @@ JUVENILE COURT
 
  
 
-419B.160  Place of detention; record; parental notice required
+419B.160  Prohibition on detention; exceptions; place of holding; record; parental notice required
 
  
 
-419B.165  Release of child taken into custody
+419B.165  Release of child taken into custody; rules
 
  
 
@@ -203,11 +189,11 @@ JUVENILE COURT
 
  
 
-419B.171  Report required when child is taken into custody
+419B.171  Report required when child is taken into protective custody
 
  
 
-419B.175  Initial disposition of child taken into custody
+419B.175  Initial disposition of child taken into protective custody
 
  
 
@@ -215,7 +201,7 @@ JUVENILE COURT
 
  
 
-419B.180  Shelter and detention facilities
+419B.180  Shelter facilities
 
  
 
@@ -327,6 +313,10 @@ JUVENILE COURT
 
  
 
+419B.335  Department of Human Services reports regarding out-of-state placements
+
+ 
+
 419B.337  Commitment to custody of Department of Human Services
 
  
@@ -348,6 +338,26 @@ JUVENILE COURT
  
 
 419B.352  Hospitalization; mental health examination
+
+ 
+
+(Congregate Care)
+
+ 
+
+419B.354  Placement in congregate care residential setting; limitations
+
+ 
+
+419B.356  Qualified residential treatment program
+
+ 
+
+419B.358  Independent assessment
+
+ 
+
+419B.360  Court approval of placement
 
  
 
@@ -556,6 +566,10 @@ JUVENILE COURT
  
 
 419B.530  Representation by Attorney General
+
+ 
+
+419B.532  Reinstatement of parental rights; rules
 
  
 
@@ -799,7 +813,7 @@ MISCELLANEOUS
 
  
 
-REPORTING OF CHILD ABUSE
+REPORTING AND INVESTIGATION OF CHILD ABUSE
 
  
 
@@ -849,7 +863,11 @@ REPORTING OF CHILD ABUSE
 
       (d) A private institution of higher education located in Oregon.
 
-      (4) “Law enforcement agency” means:
+      (4)(a) “Investigation” means a detailed inquiry into or assessment of the safety of a child alleged to have experienced abuse.
+
+      (b) “Investigation” does not include screening activities conducted upon the receipt of a report.
+
+      (5) “Law enforcement agency” means:
 
       (a) A city or municipal police department.
 
@@ -861,7 +879,7 @@ REPORTING OF CHILD ABUSE
 
       (e) A county juvenile department.
 
-      (5) “Public or private official” means:
+      (6) “Public or private official” means:
 
       (a) Physician or physician assistant licensed under ORS chapter 677 or naturopathic physician, including any intern or resident.
 
@@ -871,7 +889,7 @@ REPORTING OF CHILD ABUSE
 
       (d) Licensed practical nurse, registered nurse, nurse practitioner, nurse’s aide, home health aide or employee of an in-home health service.
 
-      (e) Employee of the Department of Human Services, Oregon Health Authority, Early Learning Division, Youth Development Division, Office of Child Care, the Oregon Youth Authority, a local health department, a community mental health program, a community developmental disabilities program, a county juvenile department, a child-caring agency as that term is defined in ORS 418.205 or an alcohol and drug treatment program.
+      (e) Employee of the Department of Human Services, Oregon Health Authority, Early Learning Division, Department of Education, Youth Development Division, Office of Child Care, the Oregon Youth Authority, a local health department, a community mental health program, a community developmental disabilities program, a county juvenile department, a child-caring agency as that term is defined in ORS 418.205 or an alcohol and drug treatment program.
 
       (f) Peace officer.
 
@@ -925,9 +943,15 @@ REPORTING OF CHILD ABUSE
 
       (cc) A coach, assistant coach or trainer of an amateur, semiprofessional or professional athlete, if compensated and if the athlete is a child.
 
-      (dd) Personal support worker, as defined by rule adopted by the Home Care Commission.
+      (dd) Personal support worker, as defined in ORS 410.600.
 
-      (ee) Home care worker, as defined in ORS 410.600. [1993 c.546 §12; 1993 c.622 §1a; 1995 c.278 §50; 1995 c.766 §1; 1997 c.127 §1; 1997 c.561 §3; 1997 c.703 §3; 1997 c.873 §30; 1999 c.743 §22; 1999 c.954 §4; 2001 c.104 §148; 2003 c.191 §1; 2005 c.562 §26; 2005 c.708 §4; 2009 c.199 §1; 2009 c.442 §36; 2009 c.518 §1; 2009 c.570 §6; 2009 c.595 §364; 2009 c.633 §10; 2009 c.708 §3; 2010 c.60 §§4,5; 2011 c.151 §12; 2011 c.506 §38; 2011 c.703 §34; 2012 c.37 §60; 2012 c.92 §1; 2013 c.129 §26; 2013 c.180 §40; 2013 c.623 §17; 2013 c.624 §82; 2013 c.720 §11; 2015 c.98 §7; 2015 c.179 §1; 2015 c.736 §65; 2016 c.106 §39; 2017 c.21 §55]
+      (ee) Home care worker, as defined in ORS 410.600.
+
+      (ff) Animal control officer, as defined in ORS 609.500.
+
+      (gg) Member of a school district board or public charter school governing body.
+
+      (hh) An individual who is paid by a public body, in accordance with ORS 430.215, to provide a service identified in an individualized written service plan of a child with a developmental disability. [1993 c.546 §12; 1993 c.622 §1a; 1995 c.278 §50; 1995 c.766 §1; 1997 c.127 §1; 1997 c.561 §3; 1997 c.703 §3; 1997 c.873 §30; 1999 c.743 §22; 1999 c.954 §4; 2001 c.104 §148; 2003 c.191 §1; 2005 c.562 §26; 2005 c.708 §4; 2009 c.199 §1; 2009 c.442 §36; 2009 c.518 §1; 2009 c.570 §6; 2009 c.595 §364; 2009 c.633 §10; 2009 c.708 §3; 2010 c.60 §§4,5; 2011 c.151 §12; 2011 c.506 §38; 2011 c.703 §34; 2012 c.37 §60; 2012 c.92 §1; 2013 c.129 §26; 2013 c.180 §40; 2013 c.623 §17; 2013 c.624 §82; 2013 c.720 §11; 2015 c.98 §7; 2015 c.179 §1; 2015 c.736 §65; 2016 c.106 §39; 2017 c.21 §55; 2018 c.75 §21; 2019 c.137 §§1,2; 2019 c.176 §§1,2; 2019 c.455 §§3,4; 2019 c.618 §§16,17]
 
  
 
@@ -949,19 +973,23 @@ REPORTING OF CHILD ABUSE
 
       419B.015 Report form and content; notice. (1)(a) A person making a report of child abuse, whether the report is made voluntarily or is required by ORS 419B.010, shall make an oral report by telephone or otherwise to the local office of the Department of Human Services, to the designee of the department or to a law enforcement agency within the county where the person making the report is located at the time of the contact. The report shall contain, if known, the names and addresses of the child and the parents of the child or other persons responsible for care of the child, the child’s age, the nature and extent of the abuse, including any evidence of previous abuse, the explanation given for the abuse and any other information that the person making the report believes might be helpful in establishing the cause of the abuse and the identity of the perpetrator.
 
-      (b) When a report of child abuse is received by the department, the department shall notify a law enforcement agency within the county where the report was made. When a report of child abuse is received by a designee of the department, the designee shall notify, according to the contract, either the department or a law enforcement agency within the county where the report was made. When a report of child abuse is received by a law enforcement agency, the agency shall notify the local office of the department within the county where the report was made.
+      (b)(A) When a report of alleged child abuse is received by the department, the department shall notify a law enforcement agency within the county where the alleged abuse occurred or, if that county is unknown, the county where the child resides or, if that county is unknown, the county where the reporter came into contact with the child or the alleged perpetrator of the abuse.
 
-      (c) When a report of child abuse is received by the department or by a law enforcement agency, the department or law enforcement agency, or both, may collect information concerning the military status of the parent or guardian of the child who is the subject of the report and may share the information with the appropriate military authorities. Disclosure of information under this paragraph is subject to ORS 419B.035 (7).
+      (B) When a report of alleged child abuse is received by a designee of the department, the designee shall notify, according to the contract, either the department or a law enforcement agency within the county where the alleged abuse occurred or, if that county is unknown, the county where the child resides or, if that county is unknown, the county where the reporter came into contact with the child or the alleged perpetrator of the abuse.
 
-      (2) When a report of child abuse is received under subsection (1)(a) of this section, the entity receiving the report shall make the notification required by subsection (1)(b) of this section according to rules adopted by the department under ORS 419B.017.
+      (C) When a report of alleged child abuse is received by a law enforcement agency, the agency shall notify the department by making a report of the alleged child abuse to the child abuse reporting hotline.
+
+      (c) When a report of alleged child abuse is received by the department or by a law enforcement agency, the department or law enforcement agency, or both, may collect information concerning the military status of the parent or guardian of the child who is the subject of the report and may share the information with the appropriate military authorities. Disclosure of information under this paragraph is subject to ORS 419B.035 (7).
+
+      (2) When a report of alleged child abuse is received under subsection (1)(a) of this section, the entity receiving the report shall make the notification required by subsection (1)(b) of this section according to rules adopted by the department under ORS 419B.017.
 
       (3)(a) When a report alleging that a child or ward in substitute care may have been subjected to abuse is received by the department, the department shall notify the attorney for the child or ward, the child’s or ward’s court appointed special advocate, the parents of the child or ward and any attorney representing a parent of the child or ward that a report has been received.
 
       (b) The name and address of and other identifying information about the person who made the report may not be disclosed under this subsection. Any person or entity to whom notification is made under this subsection may not release any information not authorized by this subsection.
 
-      (c) The department shall make the notification required by this subsection within three business days of receiving the report of abuse.
+      (c) The department shall make the notification required by this subsection within three business days of receiving the report of alleged child abuse.
 
-      (d) Notwithstanding the obligation imposed by this subsection, the department is not required under this subsection to notify the parent or parent’s attorney that a report of abuse has been received if the notification may interfere with an investigation or assessment or jeopardize the child’s or ward’s safety. [1993 c.546 §15; 1993 c.734 §1a; 2005 c.250 §1; 2007 c.237 §1; 2017 c.210 §1]
+      (d) Notwithstanding the obligation imposed by this subsection, the department is not required under this subsection to notify the parent or parent’s attorney that a report of alleged child abuse has been received if the notification may interfere with an investigation or assessment or jeopardize the child’s or ward’s safety. [1993 c.546 §15; 1993 c.734 §1a; 2005 c.250 §1; 2007 c.237 §1; 2017 c.210 §1; 2019 c.181 §1]
 
  
 
@@ -981,7 +1009,7 @@ REPORTING OF CHILD ABUSE
 
       419B.017 Time limits for notification between law enforcement agencies and Department of Human Services; rules. (1) The Department of Human Services shall adopt rules establishing:
 
-      (a) The time within which the notification required by ORS 419B.015 (1)(a) must be made. At a minimum, the rules shall:
+      (a) The time within which the notification required by ORS 419B.015 (1)(b) must be made. At a minimum, the rules shall:
 
       (A) Establish which reports of child abuse require notification within 24 hours after receipt;
 
@@ -993,9 +1021,7 @@ REPORTING OF CHILD ABUSE
 
       (2) The department shall appoint an advisory committee to advise the department in adopting rules required by this section. The department shall include as members of the advisory committee representatives of law enforcement agencies and multidisciplinary teams formed pursuant to ORS 418.747 and other interested parties.
 
-      (3) In adopting rules required by this section, the department shall balance the need for providing other entities with the information contained in a report received under ORS 419B.015 with the resources required to make the notification.
-
-      (4) The department may recommend practices and procedures to local law enforcement agencies to meet the requirements of rules adopted under this section. [2005 c.250 §3]
+      (3) The department may recommend practices and procedures to local law enforcement agencies to meet the requirements of rules adopted under this section. [2005 c.250 §3; 2019 c.181 §2]
 
  
 
@@ -1003,23 +1029,81 @@ REPORTING OF CHILD ABUSE
 
  
 
-      419B.020 Duty of department or law enforcement agency receiving report; investigation; notice to parents; physical examination; child’s consent; notice at conclusion of investigation. (1) If the Department of Human Services or a law enforcement agency receives a report of child abuse, the department or the agency shall immediately:
+      419B.019 Investigation of report involving school; notification; rules. (1) As used in this section:
+
+      (a) “Agent” means a person who:
+
+      (A) Acts as an agent for an education provider in a manner that requires the person to have direct, unsupervised contact with children; and
+
+      (B) Interacts with a child because of the person’s status as an agent for an education provider.
+
+      (b) “Contractor” means a person who:
+
+      (A) Provides services to an education provider under a contract in a manner that requires the person to have direct, unsupervised contact with children; and
+
+      (B) Interacts with a child because of the person’s status as a contractor for an education provider.
+
+      (c) “Education provider” has the meaning given that term in ORS 339.370.
+
+      (d) “School employee” means a person who:
+
+      (A) Is an employee of an education provider; and
+
+      (B) Interacts with a child because of the person’s status as an employee of an education provider.
+
+      (e) “Volunteer” means a person who:
+
+      (A) Acts as a volunteer for an education provider in a manner that requires the person to have direct, unsupervised contact with children; and
+
+      (B) Interacts with a child because of the person’s status as a volunteer of an education provider.
+
+      (2) A law enforcement agency or the Department of Human Services must conduct an investigation as provided by ORS 419B.020 if the law enforcement agency or department receives a report of abuse that involves a child and a person who is a school employee, contractor, agent or volunteer.
+
+      (3) A law enforcement agency shall notify the department as provided by ORS 419B.015 if the law enforcement agency receives a report described in subsection (2) of this section. The department shall notify a law enforcement agency as provided by ORS 419B.015 if the department receives a report described in subsection (2) of this section. The department shall ensure that an investigation related to the report is conducted if the report is not investigated by a law enforcement agency.
+
+      (4)(a) Within three business days of receiving a report or notification of a report described in subsection (2) of this section, the department shall notify:
+
+      (A) The Teacher Standards and Practices Commission, if the department believes the school employee, contractor, agent or volunteer is licensed or registered by the commission; or
+
+      (B) The Department of Education, if the Department of Human Services believes the report of suspected abuse:
+
+      (i) Occurred in a school or was related to a school-sponsored activity; or
+
+      (ii) Involves a child and a person who is a school employee, contractor, agent or volunteer.
+
+      (b) For the purpose of notification made under this subsection, the Department of Human Services may not disclose the name and address of, and other identifying information about, the person who made the report, but the department shall make available any information necessary to ensure the safety of the child, including the name of the school and the name of the person who may have conducted the suspected abuse. Any person or entity to whom notification is made under this subsection may not release any information not authorized by this subsection.
+
+      (c) When the Department of Education receives notification under this subsection, the department shall immediately notify the appropriate education providers to ensure the safety of the child.
+
+      (5) The Department of Human Services may adopt any rules necessary for the administration of this section. [2019 c.618 §14]
+
+Note: 419B.019 was added to and made a part of 419B.005 to 419B.050 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      419B.020 Duty of department or law enforcement agency receiving report; investigation; notice; physical examination; child’s consent; notice at conclusion of investigation. (1) If the Department of Human Services or a law enforcement agency receives a report of child abuse, the department or the agency shall immediately:
 
       (a) Cause an investigation to be made to determine the nature and cause of the abuse of the child; and
 
-      (b) Notify the Office of Child Care if the alleged child abuse occurred in a child care facility as defined in ORS 329A.250.
+      (b) Make the following notifications:
 
-      (2) If the abuse reported in subsection (1) of this section is alleged to have occurred at a child care facility:
+      (A) To the Office of Child Care if the alleged child abuse occurred in a child care facility as defined in ORS 329A.250; or
 
-      (a) The department and the law enforcement agency shall jointly determine the roles and responsibilities of the department and the agency in their respective investigations; and
+      (B) To the Department of Education if the alleged child abuse occurred in a school or was related to a school-sponsored activity.
 
-      (b) The department and the agency shall each report the outcomes of their investigations to the Office of Child Care.
+      (2) The Department of Human Services shall ensure that an investigation required by subsection (1) of this section is completed if the report is not investigated by a law enforcement agency.
 
-      (3) If the law enforcement agency conducting the investigation finds reasonable cause to believe that abuse has occurred, the law enforcement agency shall notify by oral report followed by written report the local office of the department. The department shall provide protective social services of its own or of other available social agencies if necessary to prevent further abuses to the child or to safeguard the child’s welfare.
+      (3) If the abuse reported in subsection (1) of this section is alleged to have occurred at a child care facility or in a school or was related to a school-sponsored activity:
 
-      (4) If a child is taken into protective custody by the department, the department shall promptly make reasonable efforts to ascertain the name and address of the child’s parents or guardian.
+      (a) The Department of Human Services and the law enforcement agency shall jointly determine the roles and responsibilities of the department and the agency in their respective investigations; and
 
-      (5)(a) If a child is taken into protective custody by the department or a law enforcement official, the department or law enforcement official shall, if possible, make reasonable efforts to advise the parents or guardian immediately, regardless of the time of day, that the child has been taken into custody, the reasons the child has been taken into custody and general information about the child’s placement, and the telephone number of the local office of the department and any after-hours telephone numbers.
+      (b) The department and the agency shall each report the outcomes of their investigations to the Office of Child Care or to the Department of Education.
+
+      (4) If the law enforcement agency conducting the investigation finds reasonable cause to believe that abuse has occurred, the law enforcement agency shall notify by oral report followed by written report the local office of the department. The Department of Human Services shall provide protective social services of its own or of other available social agencies if necessary to prevent further abuses to the child or to safeguard the child’s welfare.
+
+      (5) If a child is taken into protective custody by the department, the department shall promptly make reasonable efforts to ascertain the name and address of the child’s parents or guardian.
+
+      (6)(a) If a child is taken into protective custody by the department or a law enforcement official, the department or law enforcement official shall, if possible, make reasonable efforts to advise the parents or guardian immediately, regardless of the time of day, that the child has been taken into custody, the reasons the child has been taken into custody and general information about the child’s placement, and the telephone number of the local office of the department and any after-hours telephone numbers.
 
       (b) Notice may be given by any means reasonably certain of notifying the parents or guardian, including but not limited to written, telephonic or in-person oral notification. If the initial notification is not in writing, the information required by paragraph (a) of this subsection also shall be provided to the parents or guardian in writing as soon as possible.
 
@@ -1027,29 +1111,25 @@ REPORTING OF CHILD ABUSE
 
       (d) If a child is taken into custody while under the care and supervision of a person or organization other than the parent, the department, if possible, shall immediately notify the person or organization that the child has been taken into protective custody.
 
-      (6) If a law enforcement officer or the department, when taking a child into protective custody, has reasonable cause to believe that the child has been affected by sexual abuse and rape of a child as defined in ORS 419B.005 (1)(a)(C) and that physical evidence of the abuse exists and is likely to disappear, the court may authorize a physical examination for the purposes of preserving evidence if the court finds that it is in the best interest of the child to have such an examination. Nothing in this section affects the authority of the department to consent to physical examinations of the child at other times.
+      (7) If a law enforcement officer or the department, when taking a child into protective custody, has reasonable cause to believe that the child has been affected by sexual abuse and rape of a child as defined in ORS 419B.005 (1)(a)(C) and that physical evidence of the abuse exists and is likely to disappear, the court may authorize a physical examination for the purposes of preserving evidence if the court finds that it is in the best interest of the child to have such an examination. Nothing in this section affects the authority of the department to consent to physical examinations of the child at other times.
 
-      (7) A minor child of 12 years of age or older may refuse to consent to the examination described in subsection (6) of this section. The examination shall be conducted by or under the supervision of a physician licensed under ORS chapter 677, a physician assistant licensed under ORS 677.505 to 677.525, a naturopathic physician licensed under ORS chapter 685 or a nurse practitioner licensed under ORS chapter 678 and, whenever practicable, trained in conducting such examinations.
+      (8) A minor child of 12 years of age or older may refuse to consent to the examination described in subsection (7) of this section. The examination shall be conducted by or under the supervision of a physician licensed under ORS chapter 677, a physician assistant licensed under ORS 677.505 to 677.525 or a nurse practitioner licensed under ORS chapter 678 and, whenever practicable, trained in conducting such examinations.
 
-      (8) When the department completes an investigation under this section, if the person who made the report of child abuse provided contact information to the department, the department shall notify the person about whether contact with the child was made, whether the department determined that child abuse occurred and whether services will be provided. The department is not required to disclose information under this subsection if the department determines that disclosure is not permitted under ORS 419B.035. [1993 c.546 §16; 1993 c.622 §7a; 1997 c.130 §13; 1997 c.703 §1; 1997 c.873 §33; 2007 c.501 §4; 2007 c.781 §1; 2013 c.624 §83; 2014 c.45 §41; 2017 c.356 §41]
+      (9) When the department completes an investigation under this section, if the person who made the report of child abuse provided contact information to the department, the department shall notify the person about whether contact with the child was made, whether the department determined that child abuse occurred and whether services will be provided. The department is not required to disclose information under this subsection if the department determines that disclosure is not permitted under ORS 419B.035. [1993 c.546 §16; 1993 c.622 §7a; 1997 c.130 §13; 1997 c.703 §1; 1997 c.873 §33; 2007 c.501 §4; 2007 c.781 §1; 2013 c.624 §83; 2014 c.45 §41; 2017 c.356 §41; 2019 c.141 §24; 2019 c.618 §18]
 
  
 
-      419B.021 Degree requirements for persons conducting investigation or making determination regarding child. (1) Except as provided in subsection (2) of this section, the following persons must possess a bachelor’s, master’s or doctoral degree from an accredited institution of higher education:
+      419B.021 Degree requirements for persons conducting investigation or making determination regarding child. (1) Except as provided in subsection (2) of this section, a person who conducts an investigation under ORS 419B.020, makes a determination that a child must be taken into protective custody under ORS 419B.150 or 419B.152 or makes a determination that a child should not be released to the child’s parent or other responsible person under ORS 419B.165 (1)(b) must have:
 
-      (a) A person who conducts an investigation under ORS 419B.020; and
+      (a) At least a bachelor’s degree in:
 
-      (b) A person who makes the following determinations:
+      (A) Human services or a field related to human services; or
 
-      (A) That a child must be taken into protective custody under ORS 419B.150; and
+      (B) A field other than one described in subparagraph (A) of this paragraph, if the Department of Human Services determines by rule that the coursework completed by the person is equivalent to a bachelor’s degree in human services and that the person has sufficient training in providing human services; or
 
-      (B) That the child should not be released to the child’s parent or other responsible person under ORS 419B.165 (2).
+      (b) An associate degree with additional training or additional certification in human services or a field related to human services, as determined by the department by rule.
 
-      (2) Subsection (1) of this section does not apply to:
-
-      (a) A person who was employed or otherwise engaged by the Department of Human Services for the purpose of conducting investigations or making determinations before January 1, 2012, provided the person’s employment or engagement for these purposes has been continuous and uninterrupted.
-
-      (b) A law enforcement official as that term is defined in ORS 147.005. [2011 c.431 §1]
+      (2) Subsection (1) of this section does not apply to a law enforcement official as defined in ORS 147.005. [2011 c.431 §1; 2019 c.153 §1; 2019 c.594 §6a; 2019 c.631 §3]
 
  
 
@@ -1057,11 +1137,7 @@ REPORTING OF CHILD ABUSE
 
  
 
-      419B.022 Short title. ORS 419B.023 and 419B.024 shall be known and may be cited as “Karly’s Law.” [2007 c.674 §1]
-
- 
-
-      Note: 419B.022 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+419B.022 [2007 c.674 §1; 2019 c.555 §7; renumbered 418.804 in 2019]
 
  
 
@@ -1069,7 +1145,9 @@ REPORTING OF CHILD ABUSE
 
       (a) “Designated medical professional” means the person described in ORS 418.747 (9) or the person’s designee.
 
-      (b) “Suspicious physical injury” includes, but is not limited to:
+      (b) “Medical assessment” has the meaning given that term in ORS 418.782.
+
+      (c) “Suspicious physical injury” includes, but is not limited to:
 
       (A) Burns or scalds;
 
@@ -1093,11 +1171,13 @@ REPORTING OF CHILD ABUSE
 
       (K) Any other injury that threatens the physical well-being of the child.
 
-      (2) If a person conducting an investigation under ORS 419B.020 observes a child who has suffered suspicious physical injury and the person is certain or has a reasonable suspicion that the injury is or may be the result of abuse, the person shall, in accordance with the protocols and procedures of the county multidisciplinary child abuse team described in ORS 418.747:
+      (2)(a) If a person conducting an investigation under ORS 419B.020 observes a child who has suffered suspicious physical injury and the person is certain or has a reasonable suspicion that the injury is or may be the result of abuse, the person shall, in accordance with the protocols and procedures of the county child abuse multidisciplinary team described in ORS 418.747:
 
-      (a) Immediately photograph or cause to have photographed the suspicious physical injuries in accordance with ORS 419B.028; and
+      (A) Immediately photograph or cause to have photographed the suspicious physical injuries in accordance with ORS 419B.028; and
 
-      (b) Ensure that a designated medical professional conducts a medical assessment within 48 hours, or sooner if dictated by the child’s medical needs.
+      (B) Ensure that a designated medical professional conducts a medical assessment within 48 hours, or sooner if dictated by the child’s medical needs.
+
+      (b) Notwithstanding ORS 419B.150, the person described in paragraph (a) of this subsection may take the child into protective custody, without a court order, only for the period of time necessary to ensure compliance with the requirements of this subsection.
 
       (3) The requirement of subsection (2) of this section shall apply:
 
@@ -1109,7 +1189,7 @@ REPORTING OF CHILD ABUSE
 
       (b) Regardless of whether the child has previously been photographed or assessed during an investigation of an allegation of abuse.
 
-      (4)(a) Department or law enforcement personnel shall make a reasonable effort to locate a designated medical professional. If after reasonable efforts a designated medical professional is not available to conduct a medical assessment within 48 hours, the child shall be evaluated by an available physician, a physician assistant licensed under ORS 677.505 to 677.525, naturopathic physician licensed under ORS chapter 685 or a nurse practitioner licensed under ORS 678.375 to 678.390.
+      (4)(a) Department or law enforcement personnel shall make a reasonable effort to locate a designated medical professional. If after reasonable efforts a designated medical professional is not available to conduct a medical assessment within 48 hours, the child shall be evaluated by an available physician, a physician assistant licensed under ORS 677.505 to 677.525 or a nurse practitioner licensed under ORS 678.375 to 678.390.
 
       (b) If the child is evaluated by a health care provider as defined in ORS 127.505 other than a designated medical professional, the health care provider shall make photographs, clinical notes, diagnostic and testing results and any other relevant materials available to the designated medical professional for consultation within 72 hours following evaluation of the child.
 
@@ -1117,9 +1197,9 @@ REPORTING OF CHILD ABUSE
 
       (5) Nothing in this section prevents a person conducting a child abuse investigation from seeking immediate medical treatment from a hospital emergency room or other medical provider for a child who is physically injured or otherwise in need of immediate medical care.
 
-      (6) If the child described in subsection (2) of this section is less than five years of age, the designated medical professional may, within 14 days, refer the child for a screening for early intervention services or early childhood special education, as those terms are defined in ORS 343.035. The referral may not indicate the child is subject to a child abuse investigation unless written consent is obtained from the child’s parent authorizing such disclosure. If the child is already receiving those services, or is enrolled in the Head Start program, a person involved in the delivery of those services to the child shall be invited to participate in the county multidisciplinary child abuse team’s review of the case and shall be provided with paid time to do so by the person’s employer.
+      (6) If the child described in subsection (2) of this section is less than five years of age, the designated medical professional may, within 14 days, refer the child for a screening for early intervention services or early childhood special education, as those terms are defined in ORS 343.035. The referral may not indicate the child is subject to a child abuse investigation unless written consent is obtained from the child’s parent authorizing such disclosure. If the child is already receiving those services, or is enrolled in the Head Start program, a person involved in the delivery of those services to the child shall be invited to participate in the county child abuse multidisciplinary team’s review of the case and shall be provided with paid time to do so by the person’s employer.
 
-      (7) Nothing in this section limits the rights provided to minors in ORS chapter 109 or the ability of a minor to refuse to consent to the medical assessment described in this section. [2007 c.674 §3; 2009 c.296 §1; 2014 c.45 §42; 2017 c.356 §42]
+      (7) Nothing in this section limits the rights provided to minors in ORS chapter 109 or the ability of a minor to refuse to consent to the medical assessment described in this section. [2007 c.674 §3; 2009 c.296 §1; 2014 c.45 §42; 2017 c.356 §42; 2019 c.141 §25; 2019 c.594 §5]
 
  
 
@@ -1127,85 +1207,7 @@ REPORTING OF CHILD ABUSE
 
  
 
-      419B.024 Critical Incident Response Team for child fatality; rules. (1) The Department of Human Services shall assign a Critical Incident Response Team after the department becomes aware of a child fatality that was likely the result of child abuse or neglect within timelines for assignment established by rules adopted by the department if:
-
-      (a) The child was in the custody of the department at the time of death;
-
-      (b) The child, the child’s sibling or any other child living in the household with the child was the subject of a child protective services assessment by the department within the 12 months preceding the fatality;
-
-      (c) The child, the child’s sibling or any other child living in the household with the child had a pending child welfare or adoption case with the department within the 12 months preceding the fatality; or
-
-      (d) The child, the child’s sibling or any other child living in the household with the child was the subject of a report of abuse or neglect made to the department or a law enforcement agency within the 12 months preceding the fatality, whether or not the report was closed at screening without an investigation being commenced.
-
-      (2)(a) Members of the Critical Incident Response Team shall include, at a minimum, the following:
-
-      (A) The Director of Human Services;
-
-      (B) The lead Department of Human Services personnel responsible for the administration and oversight of the child welfare system within the department; and
-
-      (C) The department personnel responsible for media and communications.
-
-      (b) The following may be assigned to a Critical Incident Response Team:
-
-      (A) Members of the public, appointed by the Director of Human Services, as appropriate;
-
-      (B) A juvenile court judge appointed by the Chief Justice of the Supreme Court; and
-
-      (C) A state Senator appointed by the President of the Senate and a state Representative appointed by the Speaker of the House of Representatives.
-
-      (3)(a) During the course of its review of the case, the Critical Incident Response Team may include or consult with the district attorney from the county in which the incident resulting in the fatality occurred.
-
-      (b) All members of the team must attend meetings of the team in person, by telephone or by other two-way electronic communication device. A team member may not send a delegate to meetings of the team to appear on the member’s behalf. Notwithstanding the provisions of this paragraph, a meeting of the team may be convened and held even if one or more members are unable to attend the meeting.
-
-      (4) All information and records available to the Department of Human Services regarding the incident that led to the fatality shall be provided to Critical Incident Response Team members. Information and records under this subsection include, but are not limited to, medical records, hospital records, records maintained by any state, county or local agency, police investigative data, coroner or medical examiner investigative data and social services records, as necessary to complete a case review under this section. Information and records provided to team members are confidential and may be disclosed only as necessary to carry out the purposes of the team’s case review.
-
-      (5) In reviewing the case to which the Critical Incident Response Team has been assigned, the team shall, with the assistance and cooperation of the Department of Human Services:
-
-      (a) Review and investigate the case with the primary focus on the safety and well-being of the child who was involved in the incident that led to the fatality and any other children who may be impacted by the circumstances surrounding the incident.
-
-      (b) Document and make a part of the record of the case review all team conclusions and decisions.
-
-      (c) Complete the case review even if the team concludes that the incident that led to the fatality was the result of the actions of one or more department employees or staff and that such actions were inconsistent with department policy or administrative rule.
-
-      (d) Subject to subsection (6) of this section, submit an initial written report to the department that includes information about the team’s case review status, team conclusions and recommendations at the time of the initial report and identification of systemic issues that the team has concluded led to the fatality. The initial report may not contain confidential information or records that may not be disclosed to members of the public. The initial report must be submitted as soon as possible but no later than 60 days following assignment of the team under this section.
-
-      (e) Subject to subsection (6) of this section and if the team’s case review is not complete prior to preparation of an initial report, submit a progress report to the department every 30 days following submission of the initial report.
-
-      (f) Subject to subsection (6) of this section, submit a detailed final written report to the department upon conclusion of the team’s case review that includes, but is not limited to:
-
-      (A) A description of the incident that resulted in the fatality and of the events that led to the incident;
-
-      (B) A description of any concerns raised by actions taken or not taken by the department or law enforcement agencies in response to the incident or to the events that led to the incident;
-
-      (C) Recommendations for improvements in the administration and oversight of the child welfare system that are specific to the case reviewed by the team;
-
-      (D) A description of actions that are necessary to implement the recommendations and of timelines, tasks and responsible individuals to implement the recommendations; and
-
-      (E) Methods to evaluate implementation of the recommendations and expected outcomes.
-
-      (g) Prepare a version of the final written report described in paragraph (f) of this subsection that does not contain confidential information or records that may not be disclosed and that may be made accessible to members of the public.
-
-      (6)(a) Prior to submitting an initial report, a progress report or a final report to the department as described in subsection (5) of this section, the Critical Incident Response Team shall take into consideration the following:
-
-      (A) Whether submission of the report is likely to compromise an ongoing investigation of a law enforcement agency, after the team has communicated with and obtained agreement of appropriate law enforcement agency representatives and the district attorney;
-
-      (B) Whether the report can be modified so as to permit submission of the report to the department without compromising a law enforcement agency investigation; and
-
-      (C) Whether, as determined by the team with the advice and consultation of the Director of Human Services, the public interest outweighs the potential consequences to a law enforcement agency investigation as provided in ORS 192.345 (3).
-
-      (b) The director may extend the deadline for submission of an initial report, a progress report or a final report if the director determines that a delay is reasonable or if the report, even if modified, will compromise a law enforcement agency investigation and the public interest does not outweigh the potential consequences.
-
-      (c) If the director delays the submission of a report under this subsection, the department’s website must reflect the status of and expected submission date for the report.
-
-      (7) If the Critical Incident Response Team concludes that the incident that led to the fatality involves personnel matters relevant to the Department of Human Services, the team shall refer the matters to the human resources or personnel divisions of the department.
-
-      (8) The Critical Incident Response Team may meet, upon conclusion of a criminal investigation or prosecution arising out of a child fatality to which the team was assigned for review, with members of law enforcement that investigated the child fatality or with the prosecuting attorneys who prosecuted the case for the purpose of reviewing the conclusions and recommendations of the team and the reports prepared and submitted by the team.
-
-      (9) The Department of Human Services shall adopt rules necessary to carry out the provisions of this section. The rules adopted by the department shall substantially conform with the department’s child welfare protocol regarding Notification and Review of Critical Incidents. [2007 c.674 §4; 2017 c.469 §1]
-
- 
-
-      Note: 419B.024 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 419B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+419B.024 [2007 c.674 §4; 2017 c.469 §1; 2019 c.555 §6; renumbered 418.811 in 2019]
 
  
 
@@ -1257,11 +1259,11 @@ REPORTING OF CHILD ABUSE
 
  
 
-      419B.035 Confidentiality of records; when available to others. (1) Notwithstanding the provisions of ORS 192.001 to 192.170, 192.210 to 192.478 and 192.610 to 192.810 relating to confidentiality and accessibility for public inspection of public records and public documents, reports and records compiled under the provisions of ORS 419B.010 to 419B.050 are confidential and may not be disclosed except as provided in this section. The Department of Human Services shall make the records available to:
+      419B.035 Confidentiality of records; when available to others; rules. (1) Notwithstanding the provisions of ORS 192.001 to 192.170, 192.210 to 192.478 and 192.610 to 192.810 relating to confidentiality and accessibility for public inspection of public records and public documents, reports and records compiled under the provisions of ORS 419B.010 to 419B.050 are confidential and may not be disclosed except as provided in this section. The Department of Human Services shall make the records available to:
 
       (a) Any law enforcement agency or a child abuse registry in any other state for the purpose of subsequent investigation of child abuse;
 
-      (b) Any physician, physician assistant licensed under ORS 677.505 to 677.525, naturopathic physician licensed under ORS chapter 685 or nurse practitioner licensed under ORS 678.375 to 678.390, at the request of the physician, physician assistant, naturopathic physician or nurse practitioner, regarding any child brought to the physician, physician assistant, naturopathic physician or nurse practitioner or coming before the physician, physician assistant, naturopathic physician or nurse practitioner for examination, care or treatment;
+      (b) Any physician, physician assistant licensed under ORS 677.505 to 677.525 or nurse practitioner licensed under ORS 678.375 to 678.390, at the request of the physician, physician assistant or nurse practitioner, regarding any child brought to the physician, physician assistant or nurse practitioner or coming before the physician, physician assistant or nurse practitioner for examination, care or treatment;
 
       (c) Attorneys of record for the child or child’s parent or guardian in any juvenile court proceeding;
 
@@ -1273,13 +1275,17 @@ REPORTING OF CHILD ABUSE
 
       (g) The Office of Children’s Advocate;
 
-      (h) The Teacher Standards and Practices Commission for investigations conducted under ORS 342.176 involving any child or any student in grade 12 or below;
+      (h) The Teacher Standards and Practices Commission for investigations conducted under ORS 339.390 or 342.176 involving any child or any student;
 
       (i) Any person, upon request to the Department of Human Services, if the reports or records requested regard an incident in which a child, as the result of abuse, died or suffered serious physical injury as defined in ORS 161.015. Reports or records disclosed under this paragraph must be disclosed in accordance with ORS 192.311 to 192.478;
 
-      (j) The Office of Child Care for purposes of ORS 329A.030 (10)(g), (h) and (i); and
+      (j) The Office of Child Care for purposes of ORS 329A.030 (10)(g), (h) and (i);
 
-      (k) With respect to a report of abuse occurring at a school or in an educational setting that involves a child with a disability, Disability Rights Oregon.
+      (k) With respect to a report of abuse occurring at a school or in an educational setting that involves a child with a disability, Disability Rights Oregon;
+
+      (L) The Department of Education for purposes of investigations conducted under ORS 339.391; and
+
+      (m) An education provider for the purpose of making determinations under ORS 339.388.
 
       (2)(a) When disclosing reports and records pursuant to subsection (1)(i) of this section, the Department of Human Services may exempt from disclosure the names, addresses and other identifying information about other children, witnesses, victims or other persons named in the report or record if the department determines, in written findings, that the safety or well-being of a person named in the report or record may be jeopardized by disclosure of the names, addresses or other identifying information, and if that concern outweighs the public’s interest in the disclosure of that information.
 
@@ -1291,7 +1297,7 @@ REPORTING OF CHILD ABUSE
 
       (5) A law enforcement agency, upon completing an investigation and closing the file in a specific case relating to child abuse or neglect, shall make reports and records in the case available upon request to any law enforcement agency or community corrections agency in this state, to the Department of Corrections or to the State Board of Parole and Post-Prison Supervision for the purpose of managing and supervising offenders in custody or on probation, parole, post-prison supervision or other form of conditional or supervised release. A law enforcement agency may make reports and records compiled under the provisions of ORS 419B.010 to 419B.050 available to law enforcement, community corrections, corrections or parole agencies in an open case when the law enforcement agency determines that the disclosure will not interfere with an ongoing investigation in the case. The name, address and other identifying information about the person who made the report may not be disclosed under this subsection or subsection (6)(b) of this section.
 
-      (6)(a) Any record made available to a law enforcement agency or community corrections agency in this state, to the Department of Corrections or the State Board of Parole and Post-Prison Supervision or to a physician, physician assistant, naturopathic physician or nurse practitioner in this state, as authorized by subsections (1) to (5) of this section, shall be kept confidential by the agency, department, board, physician, physician assistant, naturopathic physician or nurse practitioner. Any record or report disclosed by the Department of Human Services to other persons or entities pursuant to subsections (1) and (3) of this section shall be kept confidential.
+      (6)(a) Any record made available to a law enforcement agency or community corrections agency in this state, to the Department of Corrections or the State Board of Parole and Post-Prison Supervision or to a physician, physician assistant or nurse practitioner in this state, as authorized by subsections (1) to (5) of this section, shall be kept confidential by the agency, department, board, physician, physician assistant or nurse practitioner. Any record or report disclosed by the Department of Human Services to other persons or entities pursuant to subsections (1) and (3) of this section shall be kept confidential.
 
       (b) Notwithstanding paragraph (a) of this subsection:
 
@@ -1303,7 +1309,7 @@ REPORTING OF CHILD ABUSE
 
       (8) As used in this section, “law enforcement agency” has the meaning given that term in ORS 181A.010.
 
-      (9) A person who violates subsection (6)(a) or (7) of this section commits a Class A violation. [1993 c.546 §§20,20a; 1995 c.278 §51; 1997 c.328 §8; 1999 c.1051 §181; 2003 c.14 §224; 2003 c.412 §1; 2003 c.591 §8; 2005 c.317 §1; 2005 c.659 §2; 2009 c.348 §§3,4; 2009 c.393 §1; 2012 c.3 §2; 2013 c.624 §84; 2014 c.45 §43; 2017 c.108 §5; 2017 c.356 §43; 2017 c.377 §1; 2017 c.616 §2]
+      (9) A person who violates subsection (6)(a) or (7) of this section commits a Class A violation. [1993 c.546 §§20,20a; 1995 c.278 §51; 1997 c.328 §8; 1999 c.1051 §181; 2003 c.14 §224; 2003 c.412 §1; 2003 c.591 §8; 2005 c.317 §1; 2005 c.659 §2; 2009 c.348 §§3,4; 2009 c.393 §1; 2012 c.3 §2; 2013 c.624 §84; 2014 c.45 §43; 2017 c.108 §5; 2017 c.356 §43; 2017 c.377 §1; 2017 c.616 §2; 2019 c.141 §26; 2019 c.618 §19]
 
  
 
@@ -1313,17 +1319,39 @@ REPORTING OF CHILD ABUSE
 
  
 
-      419B.045 Investigation conducted on school premises; notification; role of school personnel. (1) If an investigation of a report of child abuse is conducted on school premises, the school administrator shall first be notified that the investigation is to take place, unless the school administrator is a subject of the investigation. The Department of Human Services or the law enforcement agency conducting the investigation is not required to reveal information about the investigation to the school as a condition of conducting the investigation. The school administrator or a school staff member designated by the administrator may, at the investigator’s discretion, be present to facilitate the investigation. The investigator shall be advised by a school administrator or a school staff member of a child’s disabling conditions, if any, prior to any interview with the child. A school administrator or school staff member may not notify any person, including a child’s parents or guardian, other than the department or law enforcement agency of an investigation described in this section and may not disclose any information obtained during an investigation, nor shall the information become part of the child’s school records. The school administrator or school staff member may testify at any subsequent court proceeding relating to the investigation and may be interviewed by the respective litigants prior to any court proceeding.
+      419B.045 Investigation conducted on school premises; notification; role of school personnel. (1) The Department of Human Services or a law enforcement agency has the authority to conduct an investigation, on school premises, of a report of child abuse.
 
-      (2) A school district, school administrator or school staff member may not be held liable for civil damages as a result of compliance with the notification and disclosure prohibitions in subsection (1) of this section.
+      (2) When an investigation of a report of child abuse is conducted on school premises, the school administrator shall first be notified that the investigation is to take place, unless the school administrator is a subject of the investigation.
 
-      (3) Subsections (1) and (2) of this section apply solely to an investigation that involves an interview of the suspected victim in the report of child abuse or witnesses and do not apply to an investigation or interview of a person who is suspected of having committed the abuse that is the subject of the report. [1993 c.546 §22; 2003 c.14 §225; 2017 c.515 §1]
+      (3) The department or the law enforcement agency conducting the investigation shall present adequate identification to school staff members.
+
+      (4) After the department or law enforcement agency presents adequate identification, school staff members shall cooperate with the investigation by, at a minimum:
+
+      (a) Allowing the department or law enforcement agency access to the child who is the suspected victim in the report of child abuse; and
+
+      (b) Providing a private space in which to conduct an interview of the child.
+
+      (5) The department or the law enforcement agency conducting the investigation is not required to reveal information about the investigation to the school as a condition of conducting the investigation.
+
+      (6) The school administrator or a school staff member designated by the administrator may, at the investigator’s discretion, be present to facilitate the investigation.
+
+      (7) The investigator shall be advised by a school administrator or a school staff member of the child’s disabling conditions, if any, prior to any interview with the child.
+
+      (8)(a) A school administrator or school staff member may not notify any person, including the child’s parents or guardian, other than the department or law enforcement agency and any school employee necessary to enable the investigation, of an investigation described in this section and may not disclose any information obtained during an investigation.
+
+      (b) Information obtained during an investigation is not part of the child’s school records.
+
+      (9) A school administrator or school staff member may testify at any subsequent court proceeding relating to the investigation and may be interviewed by the respective litigants prior to any court proceeding.
+
+      (10) A school district, school administrator or school staff member may not be held liable for civil damages as a result of compliance with this section.
+
+      (11) This section applies solely to an investigation that involves an interview of the suspected victim in the report of child abuse or witnesses and does not apply to an investigation or interview of a person who is suspected of having committed the abuse that is the subject of the report. [1993 c.546 §22; 2003 c.14 §225; 2017 c.515 §1; 2018 c.77 §1]
 
  
 
-      419B.050 Authority of health care provider to disclose information; immunity from liability. (1) Upon notice by a law enforcement agency, the Department of Human Services, a member agency of a county multidisciplinary child abuse team or a member of a county multidisciplinary child abuse team that a child abuse investigation is being conducted under ORS 419B.020, a health care provider must permit the law enforcement agency, the department, the member agency of the county multidisciplinary child abuse team or the member of the county multidisciplinary child abuse team to inspect and copy medical records, including, but not limited to, prenatal and birth records, of the child involved in the investigation without the consent of the child, or the parent or guardian of the child. A health care provider who in good faith disclosed medical records under this section is not civilly or criminally liable for the disclosure.
+      419B.050 Authority of health care provider to disclose information; immunity from liability. (1) Upon notice by a law enforcement agency, the Department of Human Services, a member agency of a county child abuse multidisciplinary team or a member of a county child abuse multidisciplinary team that a child abuse investigation is being conducted under ORS 419B.020, a health care provider must permit the law enforcement agency, the department, the member agency of the county child abuse multidisciplinary team or the member of the county child abuse multidisciplinary team to inspect and copy medical records, including, but not limited to, prenatal and birth records, of the child involved in the investigation without the consent of the child, or the parent or guardian of the child. A health care provider who in good faith disclosed medical records under this section is not civilly or criminally liable for the disclosure.
 
-      (2) As used in this section, “health care provider” has the meaning given that term in ORS 192.556. [1997 c.873 §27; 1999 c.537 §3; 2001 c.104 §150; 2005 c.562 §27]
+      (2) As used in this section, “health care provider” has the meaning given that term in ORS 192.556. [1997 c.873 §27; 1999 c.537 §3; 2001 c.104 §150; 2005 c.562 §27; 2019 c.141 §27]
 
  
 
@@ -1349,11 +1377,11 @@ REPORTING OF CHILD ABUSE
 
       (a) Conduct a child abuse investigation under ORS 419B.020;
 
-      (b) Make a determination that a child must be taken into protective custody under ORS 419B.150;
+      (b) Make a determination that a child must be taken into protective custody under ORS 419B.150 or 419B.152;
 
-      (c) Make a determination that a child should not be released to the child’s parent or other responsible person under ORS 419B.165 (2); and
+      (c) Make a determination that a child should not be released to the child’s parent or other responsible person under ORS 419B.165 (1)(b); and
 
-      (d) Are involved in developing a case plan or making a placement decision for a child in the legal custody of the department. [2015 c.653 §1]
+      (d) Are involved in developing a case plan or making a placement decision for a child in the legal custody of the department. [2015 c.653 §1; 2019 c.594 §7; 2019 c.631 §4]
 
  
 
@@ -1393,9 +1421,9 @@ JUVENILE COURT
 
       (c) Discipline their children.
 
-      (5) It is the policy of the State of Oregon, in those cases not described as extreme conduct under ORS 419B.502, to offer appropriate reunification services to parents and guardians to allow them the opportunity to adjust their circumstances, conduct or conditions to make it possible for the child to safely return home within a reasonable time. Although there is a strong preference that children live in their own homes with their own families, the state recognizes that it is not always possible or in the best interests of the child or the public for children who have been abused or neglected to be reunited with their parents or guardians. In those cases, the State of Oregon has the obligation to create or provide an alternative, safe and permanent home for the child.
+      (5) It is the policy of the State of Oregon, in those cases not described as extreme conduct under ORS 419B.502, to offer appropriate reunification services to parents and guardians to allow them the opportunity to adjust their circumstances, conduct or conditions to make it possible for the child to safely return home within a reasonable time. The state shall provide to parents and guardians with disabilities opportunities to benefit from or participate in reunification services that are equal to those extended to individuals without disabilities. The state shall provide aids, benefits and services different from those provided to parents and guardians without disabilities, when necessary to ensure that parents and guardians with disabilities are provided with an equal opportunity under this subsection. Although there is a strong preference that children live in their own homes with their own families, the state recognizes that it is not always possible or in the best interests of the child or the public for children who have been abused or neglected to be reunited with their parents or guardians. In those cases, the State of Oregon has the obligation to create or provide an alternative, safe and permanent home for the child.
 
-      (6) The State of Oregon recognizes the value of the Indian Child Welfare Act and hereby incorporates the policies of that Act. [1997 c.873 §2a; 1999 c.859 §22; 2001 c.686 §21; 2007 c.71 §112; 2007 c.806 §3; 2015 c.795 §1]
+      (6) The State of Oregon recognizes the value of the Indian Child Welfare Act and hereby incorporates the policies of that Act. [1997 c.873 §2a; 1999 c.859 §22; 2001 c.686 §21; 2007 c.71 §112; 2007 c.806 §3; 2015 c.795 §1; 2019 c.514 §1]
 
  
 
@@ -1419,7 +1447,7 @@ JUVENILE COURT
 
       (D) Failed to provide the person with the care, guidance and protection necessary for the physical, mental or emotional well-being of the person;
 
-      (f) Who has run away from the home of the person;
+      (f) Who is a runaway;
 
       (g) Who has filed a petition for emancipation pursuant to ORS 419B.550 to 419B.558; or
 
@@ -1435,7 +1463,7 @@ JUVENILE COURT
 
       (b) Upon the petition of either parent, the Indian custodian or the Indian child’s tribe, the juvenile court, absent good cause to the contrary and absent objection by either parent, shall transfer a proceeding for the foster care placement of, or termination of parental rights to, an Indian child not domiciled or residing within the reservation of the Indian child’s tribe, to the jurisdiction of the tribe.
 
-      (c) The juvenile court shall give full faith and credit to the public acts, records and judicial proceedings of an Indian tribe applicable to an Indian child custody proceeding to the same extent that the juvenile court gives full faith and credit to the public acts, records and judicial proceedings of any other entity. [1993 c.33 §53; 1993 c.546 §10; 1993 c.643 §5; 2005 c.843 §31; 2011 c.291 §5; 2013 c.1 §61]
+      (c) The juvenile court shall give full faith and credit to the public acts, records and judicial proceedings of an Indian tribe applicable to an Indian child custody proceeding to the same extent that the juvenile court gives full faith and credit to the public acts, records and judicial proceedings of any other entity. [1993 c.33 §53; 1993 c.546 §10; 1993 c.643 §5; 2005 c.843 §31; 2011 c.291 §5; 2013 c.1 §61; 2019 c.594 §8]
 
  
 
@@ -1475,7 +1503,7 @@ JUVENILE COURT
 
  
 
-      419B.115 [1993 c.546 §25; 1997 c.479 §2; 1997 c.873 §21; 1999 c.859 §7; 2001 c.214 §1; 2001 c.622 §§39,39a; 2001 c.962 §83; renumbered 419B.875 in 2001]
+419B.115 [1993 c.546 §25; 1997 c.479 §2; 1997 c.873 §21; 1999 c.859 §7; 2001 c.214 §1; 2001 c.622 §§39,39a; 2001 c.962 §83; renumbered 419B.875 in 2001]
 
  
 
@@ -1589,7 +1617,9 @@ JUVENILE COURT
 
  
 
-      419B.121 Return of runaway children to another state. Notwithstanding ORS 419C.145, the court may order the detention of a child who resides in another state if the court finds probable cause to believe that the child has run away from home or from a placement. If a child is ordered detained under this section, the court shall make such orders as are necessary to cause the child to be immediately returned to the child’s state of residence. [1993 c.33 §55]
+      419B.121 Return of runaway children to another state. (1) As used in this section, “home state” and “out-of-state runaway” have the meanings given those terms in ORS 419C.156.
+
+      (2) Notwithstanding any provisions in ORS chapter 419A, 419B or 419C prohibiting the detention of children or wards, if the court determines that a child or ward is an out-of-state runaway, the court may place the out-of-state runaway in a placement that the court determines to be the least restrictive setting, including detention, necessary to ensure that the out-of-state runaway is not a danger to self or others pending the return of the out-of-state runaway to the out-of-state runaway’s home state. [1993 c.33 §55; 2019 c.382 §7]
 
  
 
@@ -1653,31 +1683,85 @@ JUVENILE COURT
 
  
 
-      419B.150 When protective custody authorized; disposition of runaway child taken into protective custody. (1) A child may be taken into protective custody by a peace officer, counselor, employee of the Department of Human Services or any other person authorized by the juvenile court of the county in which the child is found, in the following circumstances:
+      419B.150 When protective custody authorized; protective custody order. (1) As used in this section:
 
-      (a) When the child’s condition or surroundings reasonably appear to be such as to jeopardize the child’s welfare;
+      (a) “Abuse” has the meaning given that term in ORS 419B.005.
 
-      (b) When the juvenile court, by order indorsed on the summons as provided in ORS 419B.839 or otherwise, has ordered that the child be taken into protective custody; or
+      (b) “Reasonable cause” means a subjectively and objectively reasonable belief, given all of the circumstances and based on specific and articulable facts.
 
-      (c) When it reasonably appears that the child has run away from home.
+      (c) “Severe harm” means:
 
-      (2)(a) Before issuing an order under subsection (1)(b) of this section, the court shall review an affidavit sworn on information and belief provided by a peace officer, counselor or employee of the department or other person authorized by the juvenile court that sets forth with particularity the facts and circumstances on which the request for protective custody is based, why protective custody is in the best interests of the child and the reasonable efforts or, if the Indian Child Welfare Act applies, active efforts made by the department to eliminate the need for protective custody of the child.
+      (A) Life-threatening damage; or
 
-      (b) Except as provided in paragraph (c) of this subsection, an order directing that a child be taken into protective custody under subsection (1) of this section shall contain written findings, including a brief description of the reasonable efforts or, if the Indian Child Welfare Act applies, active efforts to eliminate the need for protective custody of the child that the department has made and why protective custody is in the best interests of the child.
+      (B) Significant or acute injury to a person’s physical, sexual or psychological functioning.
 
-      (c) The court may issue an order even though no services have been provided if the court makes written findings that no existing services could eliminate the need for protective custody of the child and that protective custody is in the best interests of the child.
+      (2) The following persons are authorized to take a child into protective custody under this section:
 
-      (3) When a child is taken into protective custody as a runaway under subsection (1) of this section, the peace officer or other person who takes the child into custody:
+      (a) A peace officer, as defined in ORS 420.905;
 
-      (a)(A) Shall release the child without unnecessary delay to the custody of the child’s parent or guardian or to a shelter facility that has agreed to provide care and services to children who have run away from home and that has been designated by the juvenile court to provide such care and services; or
+      (b) A counselor; or
+
+      (c) An employee of the Department of Human Services.
+
+      (3)(a) Except as provided in paragraph (b) of this subsection, a child may be taken into protective custody without a court order only when there is reasonable cause to believe that:
+
+      (A) There is an imminent threat of severe harm to the child;
+
+      (B) The child poses an imminent threat of severe harm to self or others; or
+
+      (C) There is an imminent threat that the child’s parent or guardian will cause the child to be beyond the reach of the juvenile court before the court can order that the child be taken into protective custody under subsection (6) of this section.
+
+      (b) If there is reason to know that the child is an Indian child, the child may be taken into protective custody without a court order only when it is necessary to prevent imminent physical damage or harm to the child.
+
+      (4) A person authorized to take a child into protective custody shall apply for a protective custody order, as described in subsection (6) of this section, by submitting a declaration based on information and belief that sets forth with particularity:
+
+      (a) Why protective custody is necessary and the least restrictive means available to:
+
+      (A) Protect the child from abuse;
+
+      (B) Prevent the child from inflicting harm on self or others;
+
+      (C) Ensure that the child remains within the reach of the juvenile court to protect the child from abuse or to prevent the child from inflicting harm on self or others; or
+
+      (D) If the department knows or has reason to know that the child is an Indian child, prevent imminent physical damage or harm to the child.
+
+      (b) Why protective custody is in the best interests of the child.
+
+      (5)(a) The applicant under subsection (4) of this section shall deliver the declaration described in subsection (4) of this section to the juvenile court.
+
+      (b) At the applicant’s request, instead of the declaration described in subsection (4) of this section, the judge may take an oral statement under oath. If the applicant makes the oral statement to the judge out of court, the applicant shall record the oral statement and retain a copy of the recording. The recording constitutes a declaration for the purposes of subsection (4) of this section.
+
+      (6) The juvenile court may order that a child be taken into protective custody if, after reviewing the declaration described in subsection (4) of this section, the court determines that:
+
+      (a) Protective custody is necessary and the least restrictive means available to:
+
+      (A) Protect the child from abuse;
+
+      (B) Prevent the child from inflicting harm on self or others;
+
+      (C) Ensure that the child remains within the reach of the juvenile court to protect the child from abuse or prevent the child from inflicting harm on self or others;
+
+      (D) Ensure the safety of a child who has run away from home; or
+
+      (E) If the department knows or has reason to know that the child is an Indian child, prevent imminent physical damage or harm to the child; and
+
+      (b) Protective custody is in the best interests of the child.
+
+      (7) When the court issues a protective custody order under subsection (6) of this section, the court may transmit the signed order to the applicant by a form of electronic communication approved by the court that delivers a complete printable image of the signed order. The court shall file the original order in the court record. [1993 c.33 §61; 1993 c.546 §27; 1997 c.873 §10; 1999 c.691 §1; amendments by 1999 c.691 §2 repealed by 2001 c.484 §1; 2001 c.622 §§46,47; 2001 c.686 §§1,2; 2019 c.382 §8; 2019 c.594 §3a]
+
+ 
+
+      419B.152 Protective custody of runaway child. (1) If it reasonably appears that a child is a runaway, the child may be taken into protective custody by a peace officer, counselor, employee of the Department of Human Services or any other person authorized by the juvenile court of the county in which the child is found.
+
+      (2) When a child is taken into protective custody as a runaway under subsection (1) of this section, the peace officer or other person who takes the child into custody:
+
+      (a)(A) Shall release the child without unnecessary delay to the custody of the child’s parent or guardian or to a shelter care facility that has agreed to provide care and services to runaway children and that has been designated by the juvenile court to provide such care and services; or
 
       (B) Shall follow the procedures described in ORS 419B.160, 419B.165, 419B.168 and 419B.171;
 
-      (b) Shall, if possible, determine the preferences of the child and the child’s parent or guardian as to whether the best interests of the child are better served by placement in a shelter facility that has agreed to provide care and services to children who have run away from home and that has been designated by the juvenile court to provide such care and services or by release to the child’s parent or guardian; and
+      (b) Shall, if possible, determine the preferences of the child and the child’s parent or guardian as to whether the best interests of the child are better served by placement in a shelter care facility that has agreed to provide care and services to runaway children and that has been designated by the juvenile court to provide such care and services or by release to the child’s parent or guardian; and
 
-      (c) Notwithstanding ORS 419B.165 and subsection (1) of this section, shall release the child to a shelter facility that has agreed to provide care and services to children who have run away from home and that has been designated by the juvenile court to provide such care and services if it reasonably appears that the child would not willingly remain at home if released to the child’s parent or guardian. [1993 c.33 §61; 1993 c.546 §27; 1997 c.873 §10; 1999 c.691 §1; amendments by 1999 c.691 §2 repealed by 2001 c.484 §1; 2001 c.622 §§46,47; 2001 c.686 §§1,2]
-
- 
+      (c) Notwithstanding ORS 419B.165 and subsection (1) of this section, shall release the child to a shelter care facility that has agreed to provide care and services to runaway children and that has been designated by the juvenile court to provide such care and services if it reasonably appears that the child would not willingly remain at home if released to the child’s parent or guardian. [2019 c.594 §2; 2019 c.594 §2a]
 
       419B.155 Protective custody not arrest. (1) Protective custody shall not be deemed an arrest so far as the child is concerned.
 
@@ -1689,27 +1773,41 @@ JUVENILE COURT
 
  
 
-      419B.160 Place of detention; record; parental notice required. (1) A child or ward may not be detained at any time in a police station, jail, prison or other place where adults are detained, except that a child or ward may be detained in a police station for up to five hours when necessary to obtain the child or ward’s name, age, residence and other identifying information.
+      419B.160 Prohibition on detention; exceptions; place of holding; record; parental notice required. (1)(a) A child or ward taken into protective custody may not be placed in detention except as provided in ORS chapter 419C for a person over whom the juvenile court has jurisdiction under ORS 419C.005.
+
+      (b) Except as provided in ORS 419C.130, a child or ward may not be held at any time in a police station, jail, prison or other place where adults are held, except that a child or ward may be held in a police station for up to five hours when necessary to obtain the child or ward’s name, age, residence and other identifying information.
 
       (2) All peace officers shall keep a record of children taken into protective custody and shall promptly notify the juvenile court or counselor of all children taken into protective custody.
 
-      (3) As soon as practicable after the child is taken into custody, the person taking the child into custody shall notify the child’s parent, guardian or other person responsible for the child. The notice shall inform the parent, guardian or other person of the action taken and the time and place of the hearing. [1993 c.33 §64; 1993 c.320 §1; 1993 c.546 §30; 2003 c.396 §40]
+      (3) As soon as practicable after the child is taken into protective custody, the person taking the child into protective custody shall notify the child’s parent, guardian or other person responsible for the child. The notice shall inform the parent, guardian or other person of the action taken and the time and place of the hearing.
+
+      (4) Nothing in this section prohibits the detention of a child or ward under a material witness order, as defined in ORS 136.608. [1993 c.33 §64; 1993 c.320 §1; 1993 c.546 §30; 2003 c.396 §40; 2019 c.382 §9]
 
  
 
-      419B.165 Release of child taken into custody. The person taking the child into custody shall release the child to the custody of the child’s parent or other responsible person in this state, except in the following cases:
+      419B.165 Release of child taken into custody; rules. (1) Subject to subsection (2) of this section, the person taking the child into protective custody shall release the child to the custody of the child’s parent or other responsible person in this state, except in the following cases:
 
-      (1) Where the court has issued an order directing that the child be taken into protective custody.
+      (a) Where the court has issued an order directing that the child be taken into protective custody.
 
-      (2) Where the person taking the child into custody has probable cause to believe that the welfare of the child or others may be immediately endangered by the release of the child. [1993 c.33 §65; 1993 c.546 §31]
+      (b) Where the person taking the child into protective custody has probable cause to believe that the welfare of the child or others may be immediately endangered by the release of the child.
+
+      (2)(a) Prior to releasing a child to the custody of the child’s noncustodial parent, a person who has taken a child into protective custody shall request the Department of Human Services to conduct a criminal records check on:
+
+      (A) The noncustodial parent; and
+
+      (B) All adults in the same home as the noncustodial parent.
+
+      (b) The department shall conduct a criminal records check under ORS 181A.200 (3) based on a request received under paragraph (a) of this subsection.
+
+      (c) The department shall adopt rules consistent with this subsection and the requirements of the Department of State Police for use of the Law Enforcement Data System. [1993 c.33 §65; 1993 c.546 §31; 2019 c.382 §10; 2019 c.631 §1]
 
  
 
-      419B.168 Procedure when child is not released. (1) If a child taken into protective custody is not released as provided in ORS 419B.165 and the juvenile court for the county has not established the alternative procedure authorized in subsection (4) of this section, the person taking the child into custody shall, without unnecessary delay, do one of the following:
+      419B.168 Procedure when child is not released. (1) If a child taken into protective custody is not released as provided in ORS 419B.165 and the juvenile court for the county has not established the alternative procedure authorized in subsection (4) of this section, the person taking the child into protective custody shall, without unnecessary delay, do one of the following:
 
       (a) Take the child before the court or a person appointed by the court to effect disposition under ORS 419B.165.
 
-      (b) Take the child to a place of detention or shelter care or a public or private agency designated by the court and as soon as possible thereafter notify the court that the child has been taken into custody.
+      (b) Take the child to a place of shelter care or a public or private agency designated by the court and as soon as possible thereafter notify the court that the child has been taken into protective custody.
 
       (2) Where a child residing in some other county is taken into protective custody the child may be:
 
@@ -1717,19 +1815,19 @@ JUVENILE COURT
 
       (b) Delivered to a peace officer or juvenile counselor in the county in which the child resides, if such delivery can be made without unnecessary delay. In such event, the person to whom the child is delivered shall assume protective custody of the child and shall proceed as provided in this chapter.
 
-      (3) Where a child is released or delivered as provided in subsection (2) of this section, the jurisdiction of the juvenile court of the county in which the child resides shall attach from the time the child is taken into custody.
+      (3) Where a child is released or delivered as provided in subsection (2) of this section, the jurisdiction of the juvenile court of the county in which the child resides shall attach from the time the child is taken into protective custody.
 
       (4) The juvenile court may establish, as an alternative to the provisions of subsection (1) of this section, that if a child taken into protective custody is not released as provided in ORS 419B.165, procedures shall be followed that comply with the following:
 
-      (a) The person taking the child into custody may communicate, by telecommunications or otherwise, with the person appointed by the court to effect disposition under ORS 419B.175.
+      (a) The person taking the child into protective custody may communicate, by telecommunications or otherwise, with the person appointed by the court to effect disposition under ORS 419B.175.
 
-      (b) After interviewing the person taking the child into custody and obtaining such other information as is considered necessary, the person appointed by the court under ORS 419B.175 to effect disposition may exercise the authority granted under that section and shall, in such case, direct that the person taking the child into custody release the child or deliver the child in accordance with such direction.
+      (b) After interviewing the person taking the child into protective custody and obtaining such other information as is considered necessary, the person appointed by the court under ORS 419B.175 to effect disposition may exercise the authority granted under that section and shall, in such case, direct that the person taking the child into protective custody release the child or deliver the child in accordance with such direction.
 
-      (c) The person taking the child into custody shall comply with the direction of the person appointed by the court to effect disposition. [1993 c.33 §66; 1993 c.546 §32]
+      (c) The person taking the child into protective custody shall comply with the direction of the person appointed by the court to effect disposition. [1993 c.33 §66; 1993 c.546 §32; 2019 c.382 §11]
 
  
 
-      419B.171 Report required when child is taken into custody. Except where the child is taken into custody pursuant to an order of the court, the person taking the child into custody shall promptly file with the court or a counselor a brief written report stating all of the following:
+      419B.171 Report required when child is taken into protective custody. Except where the child is taken into protective custody pursuant to an order of the court, the person taking the child into protective custody shall promptly file with the court or a counselor a brief written report stating all of the following:
 
       (1) The child’s name, age and address.
 
@@ -1745,11 +1843,11 @@ JUVENILE COURT
 
       (7) If the child is not taken to court, why the type of placement was chosen.
 
-      (8) Efforts to determine whether the child or the parents have any Indian heritage and the results of those efforts. If the child is an Indian child, the placement of the child shall be according to the preferences and criteria set out in the Indian Child Welfare Act. [1993 c.33 §67; 1993 c.546 §33]
+      (8) Efforts to determine whether the child or the parents have any Indian heritage and the results of those efforts. If the child is an Indian child, the placement of the child shall be according to the preferences and criteria set out in the Indian Child Welfare Act. [1993 c.33 §67; 1993 c.546 §33; 2019 c.382 §12]
 
  
 
-      419B.175 Initial disposition of child taken into custody. (1) This subsection establishes the authority and procedures that apply to a person designated by a court to effect disposition of a child taken into protective custody or brought before the court under ORS 419B.160, 419B.165, 419B.168 or 419B.171. The person shall, when the person has taken custody of a child or has authority to effect disposition of a child taken into custody:
+      419B.175 Initial disposition of child taken into protective custody. (1) This subsection establishes the authority and procedures that apply to a person designated by a court to effect disposition of a child taken into protective custody or brought before the court under ORS 419B.160, 419B.165, 419B.168 or 419B.171. The person shall, when the person has taken protective custody of a child or has authority to effect disposition of a child taken into protective custody:
 
       (a) Release the child to the custody of a parent, guardian or other responsible person;
 
@@ -1759,7 +1857,7 @@ JUVENILE COURT
 
       (d) Pursuant to order of the court made after the filing of a petition, hold, retain or place the child in shelter care subject to further order.
 
-      (2) If the child is released under subsection (1)(a) of this section, the person releasing the child shall inform the juvenile court. [1993 c.33 §69; 1993 c.546 §35]
+      (2) If the child is released under subsection (1)(a) of this section, the person releasing the child shall inform the juvenile court. [1993 c.33 §69; 1993 c.546 §35; 2019 c.382 §13]
 
  
 
@@ -1767,15 +1865,15 @@ JUVENILE COURT
 
  
 
-      419B.180 Shelter and detention facilities. The juvenile court of each county shall designate the place or places in which children are to be placed in detention or shelter care when taken into protective custody. If the county is adjacent to another state, the court may designate a place or places in the adjoining state where children, pursuant to an agreement between such place or places and the juvenile department of the county, may be placed in detention when taken into custody. A county juvenile department shall not enter into an agreement with an out-of-state place for detention of juveniles, as provided in this section, unless the place or places conform to standards of this state for such a place and unless the agreement includes a provision that the place be subject to inspection by officers of this state under ORS 419A.061. [1993 c.33 §68; 1993 c.546 §34]
+      419B.180 Shelter facilities. The juvenile court of each county shall designate the place or places in which children are to be placed in shelter care when taken into protective custody. [1993 c.33 §68; 1993 c.546 §34; 2019 c.382 §14]
 
  
 
-      419B.183 Speedy hearing required. A child or ward may not be held in detention or shelter care more than 24 hours, excluding Saturdays, Sundays and judicial holidays, except on order of the court made pursuant to a hearing. [1993 c.33 §70; 2003 c.396 §41]
+      419B.183 Speedy hearing required. A child or ward may not be held in shelter care more than 24 hours, excluding Saturdays, Sundays and judicial holidays, except on order of the court made pursuant to a hearing. [1993 c.33 §70; 2003 c.396 §41; 2019 c.382 §15]
 
  
 
-      419B.185 Evidentiary hearing. (1) When a child or ward is taken, or is about to be taken, into protective custody pursuant to ORS 419B.150, 419B.160, 419B.165, 419B.168 and 419B.171 and placed in detention or shelter care, a parent, child or ward shall be given the opportunity to present evidence to the court at the hearings specified in ORS 419B.183, and at any subsequent review hearing, that the child or ward can be returned home without further danger of suffering physical injury or emotional harm, endangering or harming others, or not remaining within the reach of the court process prior to adjudication. At the hearing:
+      419B.185 Evidentiary hearing. (1) When a child or ward is taken, or is about to be taken, into protective custody pursuant to ORS 419B.150, 419B.160, 419B.165, 419B.168 and 419B.171 or ORS 419B.152 and placed in shelter care, a parent, child or ward shall be given the opportunity to present evidence to the court at the hearings specified in ORS 419B.183, and at any subsequent review hearing, that the child or ward can be returned home without further danger of suffering physical injury or emotional harm, endangering or harming others, or not remaining within the reach of the court process prior to adjudication. At the hearing:
 
       (a) The court shall make written findings as to whether the Department of Human Services has made reasonable efforts or, if the Indian Child Welfare Act applies, active efforts to prevent or eliminate the need for removal of the child or ward from the home and to make it possible for the child or ward to safely return home. When the court finds that no services were provided but that reasonable services would not have eliminated the need for protective custody, the court shall consider the department to have made reasonable efforts or, if the Indian Child Welfare Act applies, active efforts to prevent or eliminate the need for protective custody. The court shall include in the written findings a brief description of the preventive and reunification efforts made by the department.
 
@@ -1797,11 +1895,11 @@ JUVENILE COURT
 
       (b) The efforts the department made pursuant to ORS 419B.192; and
 
-      (c) Why protective custody is in the best interests of the child or ward. [1993 c.33 §71; 1993 c.295 §5; 1993 c.546 §123; 1997 c.873 §19; 1999 c.859 §8; 2001 c.686 §3; 2003 c.355 §1; 2003 c.396 §42; 2007 c.806 §4]
+      (c) Why protective custody is in the best interests of the child or ward. [1993 c.33 §71; 1993 c.295 §5; 1993 c.546 §123; 1997 c.873 §19; 1999 c.859 §8; 2001 c.686 §3; 2003 c.355 §1; 2003 c.396 §42; 2007 c.806 §4; 2019 c.382 §16; 2019 c.594 §10]
 
  
 
-      419B.190 [1993 c.295 §2; 1997 c.863 §3; 1999 c.65 §1; 2001 c.622 §37; renumbered 419B.845 in 2001]
+419B.190 [1993 c.295 §2; 1997 c.863 §3; 1999 c.65 §1; 2001 c.622 §37; renumbered 419B.845 in 2001]
 
  
 
@@ -1949,7 +2047,7 @@ JUVENILE COURT
 
  
 
-      419B.230 [1993 c.33 §85; 1993 c.546 §39; repealed by 2001 c.622 §57]
+419B.230 [1993 c.33 §85; 1993 c.546 §39; repealed by 2001 c.622 §57]
 
  
 
@@ -1991,7 +2089,7 @@ JUVENILE COURT
 
  
 
-      419B.233 [1993 c.33 §87; repealed by 2001 c.622 §57]
+419B.233 [1993 c.33 §87; repealed by 2001 c.622 §57]
 
  
 
@@ -2045,7 +2143,7 @@ JUVENILE COURT
 
  
 
-      419B.236 [1993 c.33 §88; repealed by 2001 c.622 §57]
+419B.236 [1993 c.33 §88; repealed by 2001 c.622 §57]
 
  
 
@@ -2067,55 +2165,55 @@ JUVENILE COURT
 
  
 
-      419B.239 [1993 c.33 §89; 1993 c.546 §40; repealed by 2001 c.622 §57]
+419B.239 [1993 c.33 §89; 1993 c.546 §40; repealed by 2001 c.622 §57]
 
  
 
-      419B.242 [1993 c.33 §90; 1993 c.546 §41; repealed by 2001 c.622 §57]
+419B.242 [1993 c.33 §90; 1993 c.546 §41; repealed by 2001 c.622 §57]
 
  
 
-      419B.245 [1993 c.33 §91; 2001 c.622 §38; renumbered 419B.872 in 2001]
+419B.245 [1993 c.33 §91; 2001 c.622 §38; renumbered 419B.872 in 2001]
 
  
 
-      419B.260 [1993 c.546 §43 (enacted in lieu of 1993 c.33 §92); 1997 c.707 §31; 1997 c.873 §12; 1999 c.302 §1; 2001 c.622 §36; renumbered 419B.806 in 2001]
+419B.260 [1993 c.546 §43 (enacted in lieu of 1993 c.33 §92); 1997 c.707 §31; 1997 c.873 §12; 1999 c.302 §1; 2001 c.622 §36; renumbered 419B.806 in 2001]
 
  
 
-      419B.265 [1993 c.33 §93; 1993 c.546 §44; 1995 c.273 §21; repealed by 2001 c.622 §57]
+419B.265 [1993 c.33 §93; 1993 c.546 §44; 1995 c.273 §21; repealed by 2001 c.622 §57]
 
  
 
-      419B.268 [1993 c.33 §94; 1993 c.295 §3; 1993 c.546 §45; repealed by 2001 c.622 §57]
+419B.268 [1993 c.33 §94; 1993 c.295 §3; 1993 c.546 §45; repealed by 2001 c.622 §57]
 
  
 
-      419B.271 [1993 c.33 §95; 1993 c.295 §4; 1993 c.546 §46; 1995 c.273 §22; repealed by 2001 c.622 §57]
+419B.271 [1993 c.33 §95; 1993 c.295 §4; 1993 c.546 §46; 1995 c.273 §22; repealed by 2001 c.622 §57]
 
  
 
-      419B.274 [1993 c.33 §96; repealed by 2001 c.622 §57]
+419B.274 [1993 c.33 §96; repealed by 2001 c.622 §57]
 
  
 
-      419B.277 [1993 c.33 §97; 1993 c.546 §47; repealed by 2001 c.622 §57]
+419B.277 [1993 c.33 §97; 1993 c.546 §47; repealed by 2001 c.622 §57]
 
  
 
-      419B.280 [1993 c.33 §98; renumbered 419B.827 in 2001]
+419B.280 [1993 c.33 §98; renumbered 419B.827 in 2001]
 
  
 
-      419B.282 [1993 c.33 §99; 2001 c.622 §48; renumbered 419B.842 in 2001]
+419B.282 [1993 c.33 §99; 2001 c.622 §48; renumbered 419B.842 in 2001]
 
  
 
-      419B.285 [1993 c.33 §100; 1993 c.546 §48; 2001 c.622 §41; renumbered 419B.914 in 2001]
+419B.285 [1993 c.33 §100; 1993 c.546 §48; 2001 c.622 §41; renumbered 419B.914 in 2001]
 
  
 
-      419B.300 [1993 c.546 §50; 2001 c.622 §40; renumbered 419B.881 in 2001]
+419B.300 [1993 c.546 §50; 2001 c.622 §40; renumbered 419B.881 in 2001]
 
  
 
@@ -2141,15 +2239,15 @@ JUVENILE COURT
 
  
 
-      419B.315 [1993 c.546 §53; 2001 c.622 §55; renumbered 419B.884 in 2001]
+419B.315 [1993 c.546 §53; 2001 c.622 §55; renumbered 419B.884 in 2001]
 
  
 
-      419B.317 [1993 c.33 §102; repealed by 2001 c.622 §57]
+419B.317 [1993 c.33 §102; repealed by 2001 c.622 §57]
 
  
 
-      419B.320 [1993 c.33 §103; 2001 c.104 §151; 2001 c.338 §1; 2001 c.962 §48; renumbered 419B.908 in 2001]
+419B.320 [1993 c.33 §103; 2001 c.104 §151; 2001 c.338 §1; 2001 c.962 §48; renumbered 419B.908 in 2001]
 
  
 
@@ -2186,6 +2284,32 @@ JUVENILE COURT
       419B.334 Placement out of state. When the court determines it would be in the best interest and welfare of a ward, the court may, if there is an interstate compact or agreement or an informal arrangement with another state permitting the ward to reside in another state while under protective supervision, or to be placed in an institution or with an agency in another state, place the ward under protective supervision in such other state. [1993 c.33 §107; 2003 c.396 §56]
 
  
+
+      419B.335 Department of Human Services reports regarding out-of-state placements. The Department of Human Services shall provide the following information regarding out-of-state placements of children and wards on a website maintained by the department and updated monthly:
+
+      (1) The name of each out-of-state facility in which children or wards placed by the department are currently receiving services;
+
+      (2) The city and state in which each facility is located;
+
+      (3) The name of any parent organization for each facility;
+
+      (4) The name of each facility’s accreditation agency;
+
+      (5) The number of children or wards placed by the department currently receiving services from each facility;
+
+      (6) The total number of children or wards currently receiving services from each facility;
+
+      (7) The daily rate charged by each facility for each child or ward;
+
+      (8) The name of the face-to-face contracting agency, including the city and state in which it is located;
+
+      (9) Whether each facility provides services to youth offenders or the resident state’s equivalent of youth offenders;
+
+      (10) Demographic information about all children or wards the department currently has placed in out-of-state facilities, including but not limited to age, gender or gender identity, race, ethnicity, tribal status and, if known, sexual orientation;
+
+      (11) The number of children or wards the department currently has placed in out-of-state facilities who have autism, intellectual disabilities or developmental disabilities; and
+
+      (12) Aggregate travel costs for the department to support out-of-state placements during the previous month. [2019 c.619 §4]
 
       419B.337 Commitment to custody of Department of Human Services. (1) When the court determines it would be in the best interest and for the welfare of a ward, the court may place the ward in the legal custody of the Department of Human Services for care, placement and supervision. When the court enters an order removing a ward from the ward’s home or an order continuing care, the court shall make a written finding as to whether:
 
@@ -2317,11 +2441,205 @@ JUVENILE COURT
 
  
 
-      419B.350 [1997 c.873 §15; 1999 c.859 §13; repealed by 2001 c.686 §25]
+419B.350 [1997 c.873 §15; 1999 c.859 §13; repealed by 2001 c.686 §25]
 
  
 
       419B.352 Hospitalization; mental health examination. The court may direct that the child or ward be examined or treated by a physician, psychiatrist, psychologist, physician assistant licensed under ORS 677.505 to 677.525, naturopathic physician licensed under ORS chapter 685 or nurse practitioner licensed under ORS 678.375 to 678.390, or receive other special care or treatment in a hospital or other suitable facility. If the court determines that mental health examination and treatment should be provided by services delivered through the Department of Human Services, the department shall determine the appropriate placement or services in consultation with the court and other affected agencies. If an affected agency objects to the type of placement or services, the court shall determine the appropriate type of placement or service. During the examination or treatment of the child or ward, the department may, if appropriate, be appointed guardian of the child or ward. [1993 c.33 §113; 2001 c.900 §123; 2003 c.396 §62; 2014 c.45 §44; 2017 c.356 §44]
+
+ 
+
+(Congregate Care)
+
+ 
+
+      419B.354 Placement in congregate care residential setting; limitations. (1) As used in this section:
+
+      (a) “Congregate care residential setting” means any setting that cares for more than one child or ward and is not a setting described in ORS 418.205 (2)(b)(A), (D) or (E) or (10).
+
+      (b) “Sex trafficking” means the recruitment, harboring, transportation, provision, obtaining, patronizing or soliciting of a person under 18 years of age for the purpose of a commercial sex act, as defined in ORS 163.266, or the recruitment, harboring, transportation, provision or obtaining of a person over 18 years of age using force, fraud or coercion for the purpose of a commercial sex act, as defined in ORS 163.266.
+
+      (2) The Department of Human Services may place a child or ward in a congregate care residential setting in this state only if the setting is:
+
+      (a) A child-caring agency, as defined in ORS 418.205, a hospital, as defined in ORS 442.015, or a rural hospital, as defined in ORS 442.470; and
+
+      (b) A qualified residential treatment program described in ORS 419B.356.
+
+      (3) Notwithstanding subsection (2) of this section, the department may place a child or ward in a child-caring agency that is not a qualified residential treatment program if:
+
+      (a) The child-caring agency is providing prenatal, postpartum or parenting supports to the child or ward.
+
+      (b) The child or ward is placed in an independent residence facility described in ORS 418.475 that is licensed by the department as a child-caring agency.
+
+      (c) The child or ward is, or is at risk of becoming, a victim of sex trafficking and the child-caring agency is providing high-quality residential care and supportive services to the child or ward.
+
+      (d) The child-caring agency is a residential care facility that is also licensed by the Oregon Health Authority and accredited by a national organization to provide psychiatric treatment to children.
+
+      (e) The child-caring agency is an adolescent residential drug and alcohol treatment program licensed or certified by the State of Oregon to provide residential care.
+
+      (f) The placement with the child-caring agency is for the purpose of placing the child or ward in a proctor foster home.
+
+      (g) The child-caring agency is a residential care facility licensed by the department that provides short-term assessment and stabilization services.
+
+      (h) The child-caring agency is a shelter-care home, as defined in ORS 418.470, that provides short-term assessment and stabilization services.
+
+      (i) The child-caring agency is a homeless, runaway or transitional living shelter licensed by the department that provides short-term assessment and stabilization services.
+
+      (4) The department may not place a child or ward in a residential care facility or shelter-care home described in subsection (3)(g) or (h) of this section:
+
+      (a) For more than 60 consecutive days or 90 cumulative days in a 12-month period; or
+
+      (b) If the residential care facility or shelter-care home also serves youth or youth offenders served by the county juvenile department or youth offenders committed to the custody of the Oregon Youth Authority by the court.
+
+      (5) The department may not place a child or ward in a homeless, runaway or transitional living shelter described in subsection (3)(i) of this section for more than 60 consecutive or 90 cumulative days in any 12-month period.
+
+      (6) Calculations of the number of days a child or ward is placed in a shelter-care home under subsection (3)(h) of this section or a homeless, runaway or transitional living shelter under subsection (3)(i) of this section exclude the days the child or ward is in the shelter-care home or shelter if the child or ward:
+
+      (a) Accessed the shelter-care home or shelter without the support or direction of the department; and
+
+      (b) Is homeless or a runaway, as defined by the department by rule.
+
+      (7)(a) Nothing in this section prohibits the Oregon Youth Authority from placing a youth offender committed to its custody in a placement that is not a qualified residential treatment program.
+
+      (b) Nothing in this section prohibits the Oregon Youth Authority or a county juvenile department from placing a youth offender or a youth served by the Oregon Youth Authority or the county juvenile department in shelter care or detention under ORS chapter 419C. [2019 c.619 §3; 2019 c.619 §3a]
+
+ 
+
+      Note: The amendments to 419B.354 by section 3a, chapter 619, Oregon Laws 2019, become operative July 1, 2020, and apply to placements of children or wards occurring on or after July 1, 2020. See sections 17 and 18, chapter 619, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      419B.354. (1) As used in this section, “congregate care residential setting” means any setting that cares for more than one child or ward and is not a setting described in ORS 418.205 (2)(b)(A), (D) or (E) or (10).
+
+      (2) The Department of Human Services may place a child or ward in a congregate care residential setting in this state only if the setting is a child-caring agency, as defined in ORS 418.205, a hospital, as defined in ORS 442.015, or a rural hospital, as defined in ORS 442.470.
+
+ 
+
+      Note: Section 17 (1), chapter 619, Oregon Laws 2019, provides:
+
+      Sec. 17. (1) Section 3 of this 2019 Act [419B.354] applies to placements of children or wards occurring on or after September 1, 2019. [2019 c.619 §17(1)]
+
+ 
+
+      419B.356 Qualified residential treatment program. A program is a qualified residential treatment program if it:
+
+      (1) Provides residential care and treatment to a child who, based on an independent assessment described in ORS 419B.358, requires specialized, evidence-based, as defined by the Department of Human Services by rule, supports and services related to the effects of trauma or mental, emotional or behavioral health needs.
+
+      (2) Uses a trauma-informed treatment model that is designed to address the needs, including clinical needs as appropriate, of the child.
+
+      (3) Ensures that the staff at the facility includes licensed or registered nurses licensed under ORS chapter 678 and other licensed clinical staff who:
+
+      (a) Provide care within their licensed scope of practice;
+
+      (b) Are on site according to the treatment model identified in subsection (2) of this section; and
+
+      (c) Are available 24 hours per day and seven days per week.
+
+      (4) Facilitates the involvement of the child’s family, as defined in ORS 418.575, in the child’s treatment program, to the extent appropriate and in the child’s best interests.
+
+      (5) Facilitates outreach to the child’s family, as defined in ORS 418.575, documents how outreach is made and maintains contact information for any known biological relatives or fictive kin, as defined by the department by rule.
+
+      (6) Documents how the program integrates family into the child’s treatment process, including after discharge, and how sibling connections are maintained.
+
+      (7) Provides discharge planning and family-based after-care support for at least six months following the child’s discharge from the program.
+
+      (8) Is licensed and accredited in accordance with requirements adopted by the department by rule, consistent with federal licensure and accreditation requirements for qualified residential treatment programs. [2019 c.619 §5]
+
+ 
+
+      Note: 419B.356, 419B.358 and 419B.360 become operative July 1, 2020, and apply to placements of children or wards occurring on or after July 1, 2020. See sections 17 and 18, chapter 619, Oregon Laws 2019.
+
+ 
+
+      419B.358 Independent assessment. (1) The Department of Human Services shall ensure that an independent, qualified individual assesses the strengths and needs of each child or ward the department places in a qualified residential treatment program described in ORS 419B.356.
+
+      (2) The assessment described in this section may occur prior to the child’s or ward’s placement in the program, but shall occur no later than 30 days following the date of placement.
+
+      (3) The assessment described in this section must, at a minimum:
+
+      (a) Assess the strengths and needs of the child or ward using an age-appropriate, evidence-based, validated, functional assessment tool;
+
+      (b) Determine whether the needs of the child or ward can be met with family members or through placement in a foster family home or, if not, which setting would provide the most effective and appropriate level of care for the child or ward in the least restrictive environment and be consistent with the short-term and long-term goals for the child or ward, as specified in the permanency plan for the child or ward; and
+
+      (c) Develop a list of individualized, specific short-term and long-term mental and behavioral health goals.
+
+      (4)(a) The qualified individual conducting the assessment shall work in conjunction with the child’s or ward’s family and permanency team, including:
+
+      (A) Appropriate biological family members, relatives and fictive kin of the child or ward;
+
+      (B) Appropriate professionals who are a resource to the family of the child or ward, including teachers and medical or mental health providers who have treated the child or ward;
+
+      (C) Clergy; or
+
+      (D) If the child or ward has attained the age of 14 years, individuals selected by the child or ward.
+
+      (b) The department shall document the following in the child’s or ward’s case plan:
+
+      (A) The reasonable and good faith efforts of the department to identify and include all of the individuals identified in paragraph (a) of this subsection on the child’s or ward’s family and permanency team.
+
+      (B) Contact information for members of the child’s or ward’s family and permanency team and for any of the child’s or ward’s family members or fictive kin who are not part of the child’s or ward’s family and permanency team.
+
+      (C) Evidence that meetings of the family and permanency team, including meetings related to the required assessment, are held at a time and place convenient for the child’s or ward’s family.
+
+      (D) If reunification is the goal, evidence demonstrating that the parent from whom the child or ward was removed provided input on the members of the family and permanency team.
+
+      (E) Evidence that the assessment is determined in conjunction with the family and permanency team.
+
+      (F) If the setting recommended by the qualified individual conducting the assessment is different than the placement preferences of the family and permanency team and of the child or ward, the reasons why the preferences of the team and of the child or ward were not recommended.
+
+      (5) If the qualified individual conducting the assessment determines the child or ward should not be placed in a foster family home, the qualified individual shall specify in writing the reasons why the needs of the child or ward cannot be met by the family of the child or ward or in a foster family home. A shortage or lack of foster family homes is not a valid reason for not placing a child or ward in a foster family home under this subsection. The qualified individual shall specify in writing why the recommended placement in a qualified residential treatment program is the setting that will provide the child or ward with the most effective and appropriate level of care in the least restrictive environment and how that placement is consistent with the short-term and long-term goals for the child or ward, as specified in the child’s or ward’s permanency plan.
+
+      (6) As used in this section:
+
+      (a) “Fictive kin” has the meaning given that term by the department by rule.
+
+      (b) Unless the department receives a federal waiver, “qualified individual” means an individual who is:
+
+      (A) A trained professional or licensed clinician;
+
+      (B) Not an employee of the department or of the Oregon Health Authority; and
+
+      (C) Not connected to, or affiliated with, any placement setting in which children or wards are placed by the department. [2019 c.619 §6]
+
+ 
+
+      Note: See note under 419B.356.
+
+ 
+
+      419B.360 Court approval of placement. (1) The Department of Human Services shall move the court for approval of a placement no later than 30 days following the date the department placed, or will place, a child or ward in a qualified residential treatment program described in ORS 419B.356.
+
+      (2)(a) The motion for approval of the placement must include, at a minimum:
+
+      (A) The date of the placement;
+
+      (B) To the extent practicable, the parties’ placement preferences; and
+
+      (C) A copy of the child’s or ward’s independent assessment described in ORS 419B.358.
+
+      (b) Notwithstanding paragraph (a)(C) of this subsection, if the independent assessment is not completed at the time the department files the motion under subsection (1) of this section, the department may file the motion under this section without the assessment and shall supplement the motion with a copy of the completed assessment immediately following the department’s receipt of the completed assessment.
+
+      (3) The department shall provide an exact copy of the motion to each of the parties listed in ORS 419B.875.
+
+      (4) Upon receipt of a motion under this section, the court shall schedule a hearing to occur no later than 60 days following the date the child or ward is placed in the qualified residential treatment program.
+
+      (5)(a) The court shall enter an order approving or disapproving the placement and make specific determinations regarding the following:
+
+      (A) Whether the needs of the child or ward can be met through placement in a foster family home or in a proctor foster home as defined in ORS 418.205.
+
+      (B) If the court determines that the needs of the child or ward cannot be met through placement in a foster family home or proctor foster home, whether placement of the child or ward in the qualified residential treatment program:
+
+      (i) Provides the least restrictive setting to provide the most effective and appropriate level of care for the child or ward; and
+
+      (ii) Is consistent with the child’s or ward’s case plan.
+
+      (b) The court may receive testimony, reports or other material relating to the child’s or ward’s mental, physical and social history and prognosis without regard to the competency or relevancy of the testimony, reports or other material under the rules of evidence.
+
+      (6) The court shall enter an order under subsection (5) of this section no later than 60 days following the date the child or ward is placed in the qualified residential treatment program.
+
+      (7) If the court enters an order disapproving the child’s or ward’s placement, the department shall move the child or ward to a placement consistent with the court’s order no later than 30 days following the date the court enters the order. [2019 c.619 §7]
+
+ 
+
+      Note: See note under 419B.356.
 
  
 
@@ -2373,11 +2691,11 @@ ______________________________________________________________________________
 
  
 
-State of Oregon,          )
+State of Oregon,             )
 
-                                    ) LETTERS OF
+                                       ) LETTERS OF
 
-County of ___             ) GUARDIANSHIP
+County of ___                ) GUARDIANSHIP
 
  
 
@@ -2385,15 +2703,17 @@ County of ___             ) GUARDIANSHIP
 
       BY THESE LETTERS OF GUARDIANSHIP be informed:
 
-      That on ______ (month) ___(day), 2___, the ______ Court,
+      That on ______ (month) ___ (day), 2___, the ______ Court,
 
-______County, State of Oregon, appointed ________ (name of guardian) guardian for ________ (name of ward) and that the named guardian has qualified and has the authority and duties of guardian for the named ward including legal custody of the ward, except as provided below.
+______ County, State of Oregon, appointed ________ (name of guardian) guardian for ________ (name of ward) and that the named guardian has qualified and has the authority and duties of guardian for the named ward including legal custody of the ward, except as provided below.
 
  
 
-      IN TESTIMONY WHEREOF, I have subscribed my name and affixed the seal of the court at my office on ______ (month) ___(day), 2___.
+      IN TESTIMONY WHEREOF, I have subscribed my name and affixed the seal of the court at my office on ______ (month) ___ (day), 2___.
 
- (Seal)
+ 
+
+(Seal)
 
  
 
@@ -2489,7 +2809,7 @@ ______________________________________________________________________________
 
  
 
-      419B.370 [1993 c.33 §114; 1993 c.367 §3; 2003 c.229 §10; 2003 c.396 §64; renumbered 419B.372 in 2013]
+419B.370 [1993 c.33 §114; 1993 c.367 §3; 2003 c.229 §10; 2003 c.396 §64; renumbered 419B.372 in 2013]
 
  
 
@@ -2635,7 +2955,7 @@ ______________________________________________________________________________
 
       (2) At least 21 days before the hearing, the court shall notify the Administrator of the Division of Child Support of the Department of Justice, or the branch office providing support services to the county where the hearing will be held, of the hearing. Before the hearing the administrator shall inform the court, to the extent known:
 
-      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child or ward, including a proceeding brought under ORS 25.287, 107.085, 107.135, 107.431, 108.110, 109.100, 109.103, 109.165, 125.025, 416.400 to 416.465 or 419C.590 or ORS chapter 110; and
+      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child or ward, including a proceeding brought under ORS 25.287, 25.501 to 25.556, 107.085, 107.135, 107.431, 108.110, 109.100, 109.103, 109.165, 125.025 or 419C.590 or ORS chapter 110; and
 
       (b) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the child or ward.
 
@@ -2663,15 +2983,15 @@ ______________________________________________________________________________
 
  
 
-      419B.420 [1993 c.33 §126; repealed by 2001 c.622 §57]
+419B.420 [1993 c.33 §126; repealed by 2001 c.622 §57]
 
  
 
-      419B.423 [1993 c.33 §127; 1993 c.546 §125; repealed by 2001 c.622 §57]
+419B.423 [1993 c.33 §127; 1993 c.546 §125; repealed by 2001 c.622 §57]
 
  
 
-      419B.426 [1993 c.33 §128; repealed by 2001 c.622 §57]
+419B.426 [1993 c.33 §128; repealed by 2001 c.622 §57]
 
  
 
@@ -2707,7 +3027,61 @@ ______________________________________________________________________________
 
  
 
-      419B.443 Time and content of reports. (1) An agency described in ORS 419B.440 shall file the reports required by ORS 419B.440 (1)(b) at the end of the initial six-month period and no less frequently than each six months thereafter. The agency shall file reports more frequently if the court so orders. The reports shall include, but not be limited to:
+      419B.443 Time and content of reports. (1) An agency described in ORS 419B.440 shall file the reports required by ORS 419B.440 (1)(b) at the end of the initial six-month period and no less frequently than each six months thereafter. The agency shall file reports more frequently if the court so orders. The reports must include, but not be limited to:
+
+      (a) A description of the problems or offenses that necessitated the placement of the child or ward with the agency;
+
+      (b) A description of the type and an analysis of the effectiveness of the care, treatment and supervision that the agency has provided for the child or ward;
+
+      (c) A list of all placements made since the child or ward has been in the guardianship or legal custody of an agency and the length of time the child or ward has spent in each placement;
+
+      (d) For a child or ward in substitute care, a list of all schools the child or ward has attended since the child or ward has been in the guardianship or legal custody of the agency, the length of time the child or ward has spent in each school and, for a child or ward 14 years of age or older, the number of high school credits the child or ward has earned;
+
+      (e) A list of dates of face-to-face contacts the assigned case worker has had with the child or ward since the child or ward has been in the guardianship or legal custody of the agency and, for a child or ward in substitute care, the place of each contact;
+
+      (f) For a child or ward in substitute care, a list of the visits the child or ward has had with the child’s or ward’s parents or siblings since the child or ward has been in the guardianship or legal custody of the agency and the place and date of each visit;
+
+      (g) For a child or ward in substitute care, the steps the Department of Human Services is taking to ensure that:
+
+      (A) The child’s or ward’s substitute care provider is following the reasonable and prudent parent standard; and
+
+      (B) The child or ward has regular, ongoing opportunities to engage in age-appropriate or developmentally appropriate activities, including consultation with the child or ward in an age-appropriate manner about the opportunities the child or ward has to participate in the activities;
+
+      (h) A description of agency efforts to return the child or ward to the parental home or find permanent placement for the child or ward, including, when applicable, efforts to assist the parents in remedying factors which contributed to the removal of the child or ward from the home;
+
+      (i) A proposed treatment plan or proposed continuation or modification of an existing treatment plan, including a proposed visitation plan or proposed continuation or modification of an existing visitation plan and a description of efforts expected of the child or ward and the parents to remedy factors that have prevented the child or ward from safely returning home within a reasonable time;
+
+      (j) If continued substitute care is recommended, a proposed timetable for the child’s or ward’s return home or other permanent placement or a justification of why extended substitute care is necessary;
+
+      (k) If the child or ward has been placed in foster care outside the state, whether the child or ward has been visited not less frequently than every six months by a state or private agency; and
+
+      (L) If the child or ward is placed in a qualified residential treatment program:
+
+      (A) A determination that the strengths and needs of the child or ward cannot be met through placement in a foster home, that the placement in a qualified residential treatment program provides the least restrictive setting to provide the most effective and appropriate level of care for the child or ward, and that the placement is consistent with the short-term and long-term goals for the child or ward, as specified in the permanency plan for the child or ward;
+
+      (B) Documentation of the specific treatment or service needs that will be met for the child or ward in the placement and the length of time the child or ward is expected to need the treatment or services; and
+
+      (C) Documentation of the efforts made by the agency to prepare the child or ward to return home or be placed with a fit and willing relative, a legal guardian, an adoptive parent or in a less restrictive foster home setting.
+
+      (2) In addition to the information required in a report made under subsection (1) of this section, for a ward who is in the legal custody of the department pursuant to ORS 419B.337 but who will be or recently has been placed in the physical custody of a parent or a person who was appointed the ward’s legal guardian prior to placement of the ward in the legal custody of the department, a report required under ORS 419B.440 (1)(a) shall include:
+
+      (a) A recommended timetable for dismissal of the department’s legal custody of the ward and termination of the wardship; and
+
+      (b) A description of the services that the department will provide to the ward and the ward’s physical custodian to eliminate the need for the department to continue legal custody.
+
+      (3) In addition to the information required in a report made under subsection (1) of this section, if the report is made by the department under ORS 419B.440 (1)(b)(C), the report shall include:
+
+      (a) A recommended timetable for dismissal of the department’s legal custody of the ward and termination of the wardship; and
+
+      (b) A description of the services that the department has provided to the ward and the ward’s physical custodian to eliminate the need for the department to continue legal custody.
+
+      (4) Notwithstanding the requirements of subsection (1) of this section, reports need not contain information contained in prior reports. [1993 c.33 §130; 2001 c.686 §22; 2003 c.396 §75; 2007 c.610 §2; 2007 c.611 §6; 2007 c.806 §8; 2015 c.254 §3; 2015 c.795 §8; 2019 c.619 §13]
+
+ 
+
+      Note: The amendments to 419B.443 by section 13, chapter 619, Oregon Laws 2019, become operative July 1, 2020, and apply to placements of children or wards occurring on or after July 1, 2020. See sections 17 and 18, chapter 619, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      419B.443. (1) An agency described in ORS 419B.440 shall file the reports required by ORS 419B.440 (1)(b) at the end of the initial six-month period and no less frequently than each six months thereafter. The agency shall file reports more frequently if the court so orders. The reports shall include, but not be limited to:
 
       (a) A description of the problems or offenses that necessitated the placement of the child or ward with the agency;
 
@@ -2747,7 +3121,7 @@ ______________________________________________________________________________
 
       (b) A description of the services that the department has provided to the ward and the ward’s physical custodian to eliminate the need for the department to continue legal custody.
 
-      (4) Notwithstanding the requirements of subsection (1) of this section, reports need not contain information contained in prior reports. [1993 c.33 §130; 2001 c.686 §22; 2003 c.396 §75; 2007 c.610 §2; 2007 c.611 §6; 2007 c.806 §8; 2015 c.254 §3; 2015 c.795 §8]
+      (4) Notwithstanding the requirements of subsection (1) of this section, reports need not contain information contained in prior reports.
 
  
 
@@ -2827,13 +3201,15 @@ ______________________________________________________________________________
 
       (4) If a ward has been surrendered for adoption or the parents’ rights have been terminated and the department has not physically placed the ward for adoption or initiated adoption proceedings within six months after the surrender or entry of an order terminating parental rights, the court shall conduct a permanency hearing within 30 days after receipt of the report required by ORS 419B.440 (1)(b)(B).
 
-      (5) Unless good cause otherwise is shown, the court shall also conduct a permanency hearing at any time upon the request of the department, an agency directly responsible for care or placement of the child or ward, parents whose parental rights have not been terminated, an attorney for the child or ward, a court appointed special advocate, a citizen review board, a tribal court or upon its own motion. The court shall schedule the hearing as soon as possible after receiving a request.
+      (5) If an order reinstating parental rights is entered under ORS 419B.532, the court shall conduct a permanency hearing within 60 days after entry of the order.
 
-      (6) After the initial permanency hearing conducted under subsection (1) or (2) of this section or any permanency hearing conducted under subsections (3) to (5) of this section, the court shall conduct subsequent permanency hearings not less frequently than once every 12 months for as long as the child or ward remains in substitute care.
+      (6) Unless good cause otherwise is shown, the court shall also conduct a permanency hearing at any time upon the request of the department, an agency directly responsible for care or placement of the child or ward, parents whose parental rights have not been terminated, an attorney for the child or ward, a court appointed special advocate, a citizen review board, a tribal court or upon its own motion. The court shall schedule the hearing as soon as possible after receiving a request.
 
-      (7) After the permanency hearing conducted under subsection (4) of this section, the court shall conduct subsequent permanency hearings at least every six months for as long as the ward is not physically placed for adoption or adoption proceedings have not been initiated.
+      (7) After the initial permanency hearing conducted under subsection (1) or (2) of this section or any permanency hearing conducted under subsections (3) to (6) of this section, the court shall conduct subsequent permanency hearings not less frequently than once every 12 months for as long as the child or ward remains in substitute care.
 
-      (8) If a child returns to substitute care after a court’s previously established jurisdiction over the child has been dismissed or terminated, a permanency hearing shall be conducted no later than 12 months after the child is found within the jurisdiction of the court on a newly filed petition or 14 months after the child’s most recent placement in substitute care, whichever is the earlier. [1993 c.33 §135; 1993 c.546 §127; 1999 c.859 §14; 2001 c.686 §7; 2003 c.396 §79; 2007 c.806 §10; 2015 c.795 §11]
+      (8) After the permanency hearing conducted under subsection (4) of this section, the court shall conduct subsequent permanency hearings at least every six months for as long as the ward is not physically placed for adoption or adoption proceedings have not been initiated.
+
+      (9) If a child returns to substitute care after a court’s previously established jurisdiction over the child has been dismissed or terminated, a permanency hearing shall be conducted no later than 12 months after the child is found within the jurisdiction of the court on a newly filed petition or 14 months after the child’s most recent placement in substitute care, whichever is the earlier. [1993 c.33 §135; 1993 c.546 §127; 1999 c.859 §14; 2001 c.686 §7; 2003 c.396 §79; 2007 c.806 §10; 2015 c.795 §11; 2018 c.89 §3]
 
  
 
@@ -2983,19 +3359,23 @@ ______________________________________________________________________________
 
  
 
-      419B.504 Termination upon finding of unfitness. The rights of the parent or parents may be terminated as provided in ORS 419B.500 if the court finds that the parent or parents are unfit by reason of conduct or condition seriously detrimental to the child or ward and integration of the child or ward into the home of the parent or parents is improbable within a reasonable time due to conduct or conditions not likely to change. In determining such conduct and conditions, the court shall consider but is not limited to the following:
+      419B.504 Termination upon finding of unfitness. The rights of the parent or parents may be terminated as provided in ORS 419B.500 if the court finds that the parent or parents are unfit by reason of conduct or condition seriously detrimental to the child or ward and integration of the child or ward into the home of the parent or parents is improbable within a reasonable time due to conduct or conditions not likely to change. In determining such conduct and conditions:
 
-      (1) Emotional illness, mental illness or mental retardation of the parent of such nature and duration as to render the parent incapable of providing proper care for the child or ward for extended periods of time.
+      (1) The court shall consider but is not limited to the following:
 
-      (2) Conduct toward any child of an abusive, cruel or sexual nature.
+      (a) Conduct toward any child of an abusive, cruel or sexual nature.
 
-      (3) Addictive or habitual use of intoxicating liquors, cannabis or controlled substances to the extent that parental ability has been substantially impaired.
+      (b) Addictive or habitual use of intoxicating liquors, cannabis or controlled substances to the extent that parental ability has been substantially impaired.
 
-      (4) Physical neglect of the child or ward.
+      (c) Physical neglect of the child or ward.
 
-      (5) Lack of effort of the parent to adjust the circumstances of the parent, conduct, or conditions to make it possible for the child or ward to safely return home within a reasonable time or failure of the parent to effect a lasting adjustment after reasonable efforts by available social agencies for such extended duration of time that it appears reasonable that no lasting adjustment can be effected.
+      (d) Lack of effort of the parent to adjust the circumstances of the parent, conduct, or conditions to make it possible for the child or ward to safely return home within a reasonable time or failure of the parent to effect a lasting adjustment after reasonable efforts by available social agencies for such extended duration of time that it appears reasonable that no lasting adjustment can be effected.
 
-      (6) Criminal conduct that impairs the parent’s ability to provide adequate care for the child or ward. [1993 c.33 §140; 1997 c.873 §7; 2001 c.686 §24; 2003 c.396 §85; 2007 c.70 §199; 2017 c.21 §56]
+      (e) Criminal conduct that impairs the parent’s ability to provide adequate care for the child or ward.
+
+      (f) A mental health condition of the parent of such nature and duration as to render the parent incapable of providing proper care for the child or ward for extended periods of time.
+
+      (2) The court may not consider a parent’s disability, as that term is defined in the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), unless the parent’s conduct related to the disability is of such nature and duration as to render the parent incapable of providing proper care for the child or ward for extended periods of time. [1993 c.33 §140; 1997 c.873 §7; 2001 c.686 §24; 2003 c.396 §85; 2007 c.70 §199; 2017 c.21 §56; 2018 c.74 §1]
 
  
 
@@ -3021,7 +3401,7 @@ ______________________________________________________________________________
 
  
 
-      419B.515 [1993 c.33 §143; 1993 c.546 §57; repealed by 2001 c.622 §57]
+419B.515 [1993 c.33 §143; 1993 c.546 §57; repealed by 2001 c.622 §57]
 
  
 
@@ -3053,7 +3433,7 @@ ______________________________________________________________________________
 
  
 
-      419B.524 Effect of termination order. Unless there is an appeal from the order terminating the rights of the parent or parents, the order permanently terminates all rights of the parent or parents whose rights are terminated and the parent or parents have no standing to appear as such in any legal proceeding concerning the ward. [1993 c.33 §146; 2003 c.396 §89]
+      419B.524 Effect of termination order. Except as provided in ORS 419B.532, unless there is an appeal from the order terminating the rights of the parent or parents, the order permanently terminates all rights of the parent or parents whose rights are terminated and the parent or parents have no standing to appear as such in any legal proceeding concerning the ward. [1993 c.33 §146; 2003 c.396 §89; 2018 c.89 §4]
 
  
 
@@ -3100,6 +3480,64 @@ ______________________________________________________________________________
       (2) Whenever an action to terminate parental rights is before a juvenile court pursuant to ORS 419B.500, 419B.502, 419B.504, 419B.506 and 419B.508, the Attorney General shall have the same authority to assist the court as is granted to the district attorney under ORS 8.685. [1993 c.33 §148]
 
  
+
+      419B.532 Reinstatement of parental rights; rules. (1) As used in this section, “former parent” means a person who was previously the legal parent of a ward and whose parental rights to the ward have been terminated.
+
+      (2)(a) In a proceeding under ORS 419B.500, the Department of Human Services or a ward may file a motion to reinstate the parental rights of a former parent if:
+
+      (A)(i) The ward has not been adopted; or
+
+      (ii) The ward was previously adopted but no longer has a legal parent;
+
+      (B) No legal action to achieve the adoption of the ward has been initiated under ORS 109.309 or 419B.529;
+
+      (C) At least 18 months have passed since entry of the judgment terminating the former parent’s parental rights to the ward or, in the event of an appeal, at least six months have passed since issuance of an appellate judgment affirming the termination judgment, whichever is later; and
+
+      (D) Except as provided in paragraph (b) of this subsection, the ward is at least 12 years of age at the time the motion to reinstate parental rights is filed.
+
+      (b) If the ward is under 12 years of age at the time the motion to reinstate parental rights is filed, the court may allow the motion upon a showing of good cause.
+
+      (3) A motion to reinstate parental rights under this section must be in writing and state with particularity the factual and legal grounds for the motion.
+
+      (4) The moving party shall provide a copy of the motion to reinstate parental rights to the former parent and shall notify the court, the parties and, if the Indian Child Welfare Act applies, the tribe that a copy of the motion has been provided.
+
+      (5) If a motion to reinstate parental rights does not state a prima facie case as to the facts that must be proved under subsection (6) of this section, the court may deny the motion without a hearing.
+
+      (6)(a) If a motion to reinstate parental rights states a prima facie case as to the facts that must be proved under this subsection, the court shall hold a hearing on the merits of the motion. The court shall grant the motion if the moving party proves by clear and convincing evidence that:
+
+      (A) The former parent’s conduct and conditions that led to the termination of parental rights have been ameliorated and the former parent is presently fit;
+
+      (B) The former parent wishes to have parental rights reinstated;
+
+      (C) The ward consents to the reinstatement of parental rights; and
+
+      (D) Reinstatement of parental rights is in the ward’s best interests.
+
+      (b) In determining whether reinstatement of parental rights is in the ward’s best interests under paragraph (a) of this subsection, the court shall consider:
+
+      (A) The ward’s health, safety, permanency, age, maturity and ability to express the ward’s preferences;
+
+      (B) The reasons that the former parent’s parental rights were terminated;
+
+      (C) The former parent’s stated reasons for wishing to have parental rights reinstated; and
+
+      (D) The likely impact on the ward of the former parent’s past abuse or neglect.
+
+      (c) The moving party shall provide notice to the former parent of a hearing on the merits under paragraph (a) of this subsection.
+
+      (d) The department shall establish by rule procedures for investigating the present fitness of the former parent and for providing appropriate reunification services.
+
+      (7) If the court grants the motion to reinstate parental rights under subsection (6) of this section:
+
+      (a) The court shall enter an order reinstating parental rights that shall restore all parental rights and duties of the former parent as to the ward;
+
+      (b) The ward shall continue as a ward of the court for at least six months after entry of the order reinstating parental rights; and
+
+      (c) The court shall conduct a permanency hearing as provided in ORS 419B.470 within 60 days after entering the order under paragraph (a) of this subsection.
+
+      (8) An order reinstating parental rights under this section does not vacate or otherwise affect the validity of the original judgment terminating the parental rights of the former parent except to the extent that the order reinstates parental rights.
+
+      (9) In any proceeding under this section, the ward is entitled to have counsel appointed at state expense if the ward is determined to be financially eligible under the policies, procedures, standards and guidelines of the Public Defense Services Commission. [2018 c.89 §2]
 
 (Emancipation of Minor)
 
@@ -3201,13 +3639,13 @@ JUVENILE COURT DEPENDENCY PROCEDURE
 
       (c) If the judges do not agree on the circuit court in which the actions should be consolidated, the actions must be consolidated in the court in which the juvenile action is filed or, if more than one juvenile action is pending, in the court in which the first juvenile action was filed.
 
-      (8) Nothing in this section requires the consolidation of any administrative proceeding under ORS chapter 25 or 416 with a juvenile court or other action. [Formerly 419B.260; 2003 c.396 §92; 2007 c.547 §12]
+      (8) Nothing in this section requires the consolidation of any administrative proceeding under ORS 25.501 to 25.556 or ORS chapter 25 with a juvenile court or other action. [Formerly 419B.260; 2003 c.396 §92; 2007 c.547 §12; 2019 c.13 §47]
 
  
 
       419B.809 Petition; contents; form; dismissal. (1) Any person may file a petition in the juvenile court alleging that a child named therein is within the jurisdiction of the court under ORS 419B.100.
 
-      (2) The petition and all subsequent court documents in the proceeding must be entitled “In the matter of_____, a child.” The petition must be in writing, signed by the petitioner or the petitioner’s attorney and verified.
+      (2) The petition and all subsequent court documents in the proceeding must be entitled “In the matter of _____, a child.” The petition must be in writing, signed by the petitioner or the petitioner’s attorney and verified.
 
       (3) When the petition is filed by a peace officer, district attorney, attorney general, juvenile department counselor, employee of the Department of Human Services or employee of the Oregon Youth Authority, the petition may be verified upon the information and belief of the petitioner. In all other cases, the petition must be based on the personal knowledge of the petitioner.
 
@@ -3245,19 +3683,15 @@ FOR ____________ COUNTY
 
  
 
-In the Matter of                       )
+In the Matter of                                   )
 
-                                                )           No.
+                                                            )           No.
 
-                                                )           Petition No.
+                                                            )           Petition No.
 
-                                                )
+                                                            )
 
-      A Child.                            )           PETITION
-
- 
-
- 
+      A Child.                                        )           PETITION
 
  
 
@@ -3267,29 +3701,41 @@ TO THE ABOVE-ENTITLED COURT:
 
 Petitioner, whose name appears below, respectfully represents to the Court as follows:
 
-1.   The name, age and residence of the above-named child are as follows: (name); (age);
+ 
 
-      (DOB); (resides at), _______________, Oregon. (Alternative: The name and age of the above-named
+      1.   The name, age and residence of the above-named child are as follows: (name); (age);
 
-      child are as follows:________. The child’s residence is provided in a sealed document because
+(DOB); (resides at), _______________, Oregon. (Alternative: The name and age of the above-named
 
-      providing that information would jeopardize the health, safety or liberty of the child or of
+child are as follows: ________. The child’s residence is provided in a sealed document because
 
-      a party to the case. ORS 109.767.)
+providing that information would jeopardize the health, safety or liberty of the child or of
 
-2.   The child is within the jurisdiction of the Court by reason of the following facts:
+a party to the case. ORS 109.767.)
+
+ 
+
+      2.   The child is within the jurisdiction of the Court by reason of the following facts:
+
+ 
 
       A.  _______________
 
       B.  _______________
 
-3.   Uniform Child Custody Jurisdiction and Enforcement Act information:
+ 
 
-      A.  Child(ren)’s present address: _______________(Alternative: The child’s present address is
+      3.   Uniform Child Custody Jurisdiction and Enforcement Act information:
 
-      provided in a sealed document because providing that information would jeopardize the
+ 
 
-      health, safety or liberty of the child or of a party to the case. ORS 109.767.)
+      A.  Child(ren)’s present address: _______________ (Alternative: The child’s present address is
+
+provided in a sealed document because providing that information would jeopardize the
+
+health, safety or liberty of the child or of a party to the case. ORS 109.767.)
+
+ 
 
       B.  Places the child(ren) has lived during the previous five years:
 
@@ -3297,43 +3743,57 @@ Petitioner, whose name appears below, respectfully represents to the Court as fo
 
       _______________
 
-C.  Names and present addresses of persons with whom child(ren) has lived during that
+ 
 
-      period:
+      C.  Names and present addresses of persons with whom child(ren) has lived during that
 
-      _______________
-
-      _______________
-
-D.  The petitioner has/has not participated as a party or witness or in any other
-
-      capacity in any other proceeding concerning the custody of or parenting time or visitation
-
-      with the child. Court, case number and date of any child custody determination:
+period:
 
       _______________
 
-E.   Petitioner knows/does not know of any proceeding that could affect the current
+      _______________
 
-      proceeding. Court, case number and date of the proceeding:
+ 
+
+      D.  The petitioner has/has not participated as a party or witness or in any other
+
+capacity in any other proceeding concerning the custody of or parenting time or visitation
+
+with the child. Court, case number and date of any child custody determination:
 
       _______________
 
-F.   Petitioner knows/does not know of any person who has physical custody of the
+ 
 
-      child(ren) or claims rights of legal custody, physical custody, parenting time or visitation
+      E.   Petitioner knows/does not know of any proceeding that could affect the current
 
-      with the child(ren). Names and addresses of such persons:
-
-      _______________
-
-4.   The child resides in ___________ County.
-
-5.   The name and present address of each parent is as follows:
+proceeding. Court, case number and date of the proceeding:
 
       _______________
 
-6.   The petition is not filed pursuant to the direction of this Court.
+ 
+
+      F.   Petitioner knows/does not know of any person who has physical custody of the
+
+child(ren) or claims rights of legal custody, physical custody, parenting time or visitation
+
+with the child(ren). Names and addresses of such persons:
+
+      _______________
+
+ 
+
+      4.   The child resides in ___________ County.
+
+ 
+
+      5.   The name and present address of each parent is as follows:
+
+      _______________
+
+ 
+
+      6.   The petition is not filed pursuant to the direction of this Court.
 
  
 
@@ -3343,13 +3803,13 @@ F.   Petitioner knows/does not know of any person who has physical custody of th
 
  
 
+      DATED: ____________, 2___.
+
+__________________
+
  
 
-      DATED:    ____________, 2___.
-
-                        __________________
-
-                                         Petitioner
+Petitioner
 
  
 
@@ -3357,9 +3817,7 @@ STATE OF OREGON            )
 
                                                 )           ss.
 
-County of        ______            )
-
- 
+County of ______                   )
 
  
 
@@ -3367,9 +3825,9 @@ County of        ______            )
 
  
 
-                        __________________
+__________________
 
-                                         Petitioner
+Petitioner
 
  
 
@@ -3381,15 +3839,11 @@ SEAL (Alternate Verification)
 
  
 
- 
-
 STATE OF OREGON            )
 
                                                 )           ss.
 
-County of        ______            )
-
- 
+County of ______                   )
 
  
 
@@ -3397,31 +3851,25 @@ County of        ______            )
 
  
 
-                        __________________
+__________________
 
-                                         Petitioner
+Petitioner
 
  
 
       SIGNED AND SWORN to before me on ____________, 2___.
 
- 
+_____________________
 
-                        _____________________
+SEAL
 
-                                    SEAL
-
- 
-
-______________________________________________________________________________
-
-[2001 c.622 §4]
+______________________________________________________________________________ [2001 c.622 §4]
 
  
 
       419B.812 Issuance of summons; time for hearing on petition. (1) As used in this section and ORS 419B.815, 419B.819 and 419B.824, a “true copy” of a summons or petition means an exact and complete copy of the original summons or petition with a certificate upon the copy signed by an attorney of record or a party that indicates that the copy is exact and complete.
 
-      (2) A summons under ORS 419B.815 or 419B.819 must be titled “In the matter of_____, a child” and must contain the name of the person to be served and the address at which the summons and petition may be served.
+      (2) A summons under ORS 419B.815 or 419B.819 must be titled “In the matter of _____, a child” and must contain the name of the person to be served and the address at which the summons and petition may be served.
 
       (3) The summons must be issued no later than 30 days after the filing of a petition alleging jurisdiction under ORS 419B.100, a petition to establish a permanent guardianship under ORS 419B.365 or a petition seeking termination of parental rights under ORS 419B.500, 419B.502, 419B.504, 419B.506 or 419B.508.
 
@@ -3471,13 +3919,9 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
- 
-
 You have a right to be represented by an attorney. If you wish to be represented by an attorney, please retain one as soon as possible to represent you in this proceeding. If you are the child or the parent or legal guardian of the child and you cannot afford to hire an attorney and you meet the state’s financial guidelines, you are entitled to have an attorney appointed for you at state expense. To request appointment of an attorney to represent you at state expense, you must contact the juvenile court immediately. Phone ________ for further information.
 
 ______________________________________________________________________________
-
- 
 
       (c) A statement that, if the person is represented by an attorney, the person has the responsibility to maintain contact with the person’s attorney and to keep the attorney advised of the person’s whereabouts.
 
@@ -3523,8 +3967,6 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
- 
-
 IN THE CIRCUIT COURT
 
 OF THE STATE OF OREGON
@@ -3555,15 +3997,15 @@ You are directed:
 
  
 
-_____To appear in person before this Court at _______________ (address), Courtroom #_____, ____________, Oregon, on: the _____ day of_____, 2___, at ___ o’clock__.m. for a hearing on the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place. However, if you are the child at issue in this proceeding and you have an attorney, you may rely upon your attorney to appear at the hearing on your behalf.
+_____ To appear in person before this Court at _______________ (address), Courtroom #_____, ____________, Oregon, on: the _____ day of _____, 2___, at ___ o’clock __.m. for a hearing on the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place. However, if you are the child at issue in this proceeding and you have an attorney, you may rely upon your attorney to appear at the hearing on your behalf.
 
  
 
-_____To appear in person before this Court at _______________ (address), Courtroom #_____, ____________, Oregon, on the _____ day of_____, 2___, at ___ o’clock__.m. to admit or deny the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place. However, if you are the child at issue in this proceeding and you have an attorney, you may rely upon your attorney to appear at the hearing on your behalf.
+_____ To appear in person before this Court at _______________ (address), Courtroom #_____, ____________, Oregon, on the _____ day of _____, 2___, at ___ o’clock __.m. to admit or deny the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place. However, if you are the child at issue in this proceeding and you have an attorney, you may rely upon your attorney to appear at the hearing on your behalf.
 
  
 
-_____To file a written answer to the petition no later than 30 days after the date you were served with this summons and to appear at any court-ordered hearing. An attorney may not attend any court-ordered hearing in your place. However, if you are the child at issue in this proceeding and you have an attorney, you may rely upon your attorney to file and to appear at the hearing on your behalf.
+_____ To file a written answer to the petition no later than 30 days after the date you were served with this summons and to appear at any court-ordered hearing. An attorney may not attend any court-ordered hearing in your place. However, if you are the child at issue in this proceeding and you have an attorney, you may rely upon your attorney to file and to appear at the hearing on your behalf.
 
  
 
@@ -3582,8 +4024,6 @@ No later than 30 days from the date the petition is filed, each person about who
  
 
 If you do not appear or file a written answer as directed above, or do not appear at any subsequent court-ordered hearing, the Court may proceed without further notice and take jurisdiction of the child(ren) either on the date specified in this summons or on a future date, and make such orders and take such action as authorized by law including, but not limited to, establishing wardship over the child, ordering the removal of the child(ren) from the legal and physical custody of the parent(s) or guardian(s) and, if the petition alleges that the child(ren) has (have) been physically or sexually abused, restraining you from having contact with, or attempting to contact, the child(ren) and requiring you to move from the household in which the child(ren) resides (reside).
-
- 
 
  
 
@@ -3613,9 +4053,7 @@ By: (Name and Title)
 
 Date Issued: ____________
 
-______________________________________________________________________________
-
-[2001 c.622 §7; 2003 c.73 §68; 2003 c.205 §8; 2007 c.497 §5; 2011 c.116 §1]
+______________________________________________________________________________ [2001 c.622 §7; 2003 c.73 §68; 2003 c.205 §8; 2007 c.497 §5; 2011 c.116 §1]
 
  
 
@@ -3646,8 +4084,6 @@ ______________________________________________________________________________
 You have a right to be represented by an attorney. If you wish to be represented by an attorney, please retain one as soon as possible to represent you in this proceeding. If you cannot afford to hire an attorney and you meet the state’s financial guidelines, you are entitled to have an attorney appointed for you at state expense. To request appointment of an attorney to represent you at state expense, you must contact the juvenile court immediately. Phone ________ for further information.
 
 ______________________________________________________________________________
-
- 
 
       (d) A statement that, if the parent is represented by an attorney, the parent has the responsibility to maintain contact with the parent’s attorney and to keep the attorney advised of the parent’s whereabouts.
 
@@ -3705,8 +4141,6 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
- 
-
 IN THE CIRCUIT COURT
 
 OF THE STATE OF OREGON
@@ -3737,15 +4171,15 @@ You are directed:
 
  
 
-___To appear in person before this Court at _______________ (address), Courtroom #_____, _______________, Oregon, on: the _____ day of_____, 2___, at ___ o’clock__.m. for a hearing on the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place.
+___ To appear in person before this Court at _______________ (address), Courtroom #_____, _______________, Oregon, on: the _____ day of _____, 2___, at ___ o’clock __.m. for a hearing on the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place.
 
  
 
-___To appear in person before this Court at _______________ (address), Courtroom #_____, _______________, Oregon, on: the _____ day of_____, 2___, at ___ o’clock__.m. to admit or deny the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place.
+___ To appear in person before this Court at _______________ (address), Courtroom #_____, _______________, Oregon, on: the _____ day of _____, 2___, at ___ o’clock __.m. to admit or deny the allegations of the petition and at any subsequent court-ordered hearing. You must appear personally in the courtroom on the date and at the time listed above. An attorney may not attend the hearing in your place.
 
  
 
-___To file a written answer to the petition no later than 30 days after the date you were served with this summons and to appear at any court-ordered hearing. An attorney may not attend any court-ordered hearing in your place.
+___ To file a written answer to the petition no later than 30 days after the date you were served with this summons and to appear at any court-ordered hearing. An attorney may not attend any court-ordered hearing in your place.
 
  
 
@@ -3759,11 +4193,11 @@ A petition has been filed to:
 
  
 
-___Establish a permanent guardianship under ORS 419B.365.
+___ Establish a permanent guardianship under ORS 419B.365.
 
  
 
-___Terminate your parental rights under ORS 419B.500, 419B.502, 419B.504, 419B.506 or 419B.508.
+___ Terminate your parental rights under ORS 419B.500, 419B.502, 419B.504, 419B.506 or 419B.508.
 
  
 
@@ -3787,17 +4221,11 @@ If this summons requires you to appear before the court to admit or deny the all
 
  
 
- 
-
- 
-
 By: (Name and Title)
 
 Date Issued: ____________
 
-______________________________________________________________________________
-
-[2003 c.205 §7; 2007 c.497 §8]
+______________________________________________________________________________ [2003 c.205 §7; 2007 c.497 §8]
 
  
 
@@ -3863,31 +4291,23 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
- 
-
 AFFIDAVIT OF PUBLICATION
-
- 
 
  
 
 STATE OF OREGON            )
 
-                                                ) ss.
+                                                )           ss.
 
-County of______                    )
-
- 
+County of ______                   )
 
  
 
-I, ________, being first duly sworn, depose and say that I am the ________ (here set forth the title or job description of the person making the affidavit), of the________, a newspaper of general circulation published at ________ in the aforesaid county and state; that I know from my personal knowledge that the________, a printed copy of which is hereto annexed, was published in the entire issue of said newspaper three times in the following issues: (here set forth dates of issues in which the same was published).
+I, ________, being first duly sworn, depose and say that I am the ________ (here set forth the title or job description of the person making the affidavit), of the ________, a newspaper of general circulation published at ________ in the aforesaid county and state; that I know from my personal knowledge that the ________, a printed copy of which is hereto annexed, was published in the entire issue of said newspaper three times in the following issues: (here set forth dates of issues in which the same was published).
 
  
 
-Subscribed and sworn to before me this _____ day of____________, 2___.
-
- 
+Subscribed and sworn to before me this _____ day of ____________, 2___.
 
 __________________
 
@@ -3895,13 +4315,9 @@ Notary Public for Oregon
 
  
 
-My commission expires:
-
-____________.
+My commission expires: ____________.
 
 ______________________________________________________________________________
-
- 
 
       (3) The affidavit of service may be made and certified before a notary public or other official authorized to administer oaths by the United States, any state or territory of the United States or the District of Columbia. The notary public or official shall affix the notary’s or official’s official seal, if any, to the affidavit. The signature of the notary or other official, when attested by the affixing of the official seal of the person, is prima facie evidence of authority to make and certify the affidavit.
 
@@ -4207,12 +4623,6 @@ ______________________________________________________________________________
 
  
 
-      Note: Section 4, chapter 436, Oregon Laws 2013, provides:
-
-      Sec. 4. Section 3 of this 2013 Act [419B.876] and the amendments to ORS 419B.875 by section 1 of this 2013 Act apply to juvenile dependency proceedings pending or commenced on or after the effective date of this 2013 Act [January 1, 2014]. [2013 c.436 §4]
-
- 
-
       419B.876 Visitation or other contact between grandparent and ward; findings; order; appeal. (1) The grandparent of a ward who has been placed in the legal custody of the Department of Human Services for care, placement and supervision pursuant to ORS 419B.337 and who is in substitute care as defined in ORS 419A.004 may, at any hearing concerning the ward except for a hearing under ORS 419B.500, request that the court order visitation or other contact or communication between the grandparent and the ward, provided the grandparent has notified the department and parties in the proceeding of the grandparent’s intent to make the request at the hearing at least 30 days before the date of the hearing.
 
       (2) If the notice required under subsection (1) of this section has been given, the court may grant the grandparent’s request in whole or in part if the court finds that:
@@ -4240,10 +4650,6 @@ ______________________________________________________________________________
       (5) The court may receive testimony, reports or other material relating to the ward’s mental, physical and social history and prognosis without regard to the competency or relevancy of the testimony, reports or other material under the rules of evidence for the purpose of making the findings required by subsection (2) of this section.
 
       (6) As used in this section, “grandparent” means the legal parent of the child’s or ward’s legal parent, regardless of whether the parental rights of the child’s or ward’s legal parent have been terminated under ORS 419B.500 to 419B.524. [2013 c.436 §3; 2015 c.216 §2]
-
- 
-
-      Note: See note under 419B.875.
 
  
 
@@ -4310,12 +4716,6 @@ ______________________________________________________________________________
       (d) Refuse to receive in evidence the material that was not disclosed; or
 
       (e) Enter such other order as the court considers appropriate. [Formerly 419B.300; 2005 c.450 §9; 2013 c.439 §1]
-
- 
-
-      Note: Section 6, chapter 439, Oregon Laws 2013, provides:
-
-      Sec. 6. The amendments to ORS 419A.255 and 419B.881 by sections 1 and 7 of this 2013 Act apply to dependency proceedings commenced or pending before, on or after the effective date of this 2013 Act [January 1, 2014]. [2013 c.439 §6; 2013 c.439 §10]
 
  
 

@@ -253,15 +253,25 @@ DESTROYED AND TOTALED VEHICLES
 
       819.030 Department procedure on receipt of title or notice. The Department of Transportation shall comply with the following procedures upon receiving a certificate of title or other notice in accordance with the provisions of ORS 819.010, 819.012 or 819.014:
 
-      (1) If the department is satisfied that the vehicle is totaled, wrecked, dismantled, disassembled or substantially altered, the department shall cancel and retire the registration and title of the vehicle. Except for issuance of a salvage title, the department shall not register or title the vehicle again unless:
+      (1) If the department is satisfied that the vehicle is wrecked, dismantled or disassembled, the department shall cancel and retire the registration and title of the vehicle. Except for issuance of a salvage title, the department may not register or title the vehicle again unless:
 
-      (a) The department is satisfied that the original title certificate, if any, was surrendered in error or that notice was submitted in error and the record canceled in error;
+      (a) The department is satisfied that the original title certificate, if any, was surrendered in error or that notice was submitted in error and the record canceled in error; or
 
-      (b) The vehicle is registered or titled as an assembled vehicle, a reconstructed vehicle or a replica; or
+      (b) The vehicle is registered or titled as an assembled vehicle, a reconstructed vehicle or a replica.
 
-      (c) The vehicle is recovered after a theft if the theft is the reason that the vehicle was considered a totaled vehicle.
+      (2) If the department is satisfied that the vehicle is wrecked, dismantled or disassembled, the department may issue a proof of compliance form if no salvage title is issued for the vehicle.
 
-      (2) If the department is satisfied that the vehicle is totaled, wrecked, dismantled or disassembled, the department may issue a proof of compliance form if no salvage title is issued for the vehicle. [1983 c.338 §196; 1985 c.176 §2; 1985 c.401 §3; 1987 c.119 §6; 1991 c.820 §8; 1991 c.873 §38; 1993 c.233 §62]
+      (3) If the department is satisfied that the vehicle is totaled or substantially altered, the department may:
+
+      (a) Issue a salvage title, retire the vehicle’s registration and cancel the title; or
+
+      (b) Issue a branded title.
+
+      (4) If a vehicle is recovered after a theft and the theft is the reason that the vehicle was considered a totaled vehicle or the department issues a branded title for a totaled or substantially altered vehicle, a person may apply with the department to keep the same registration plates and the remaining registration period represented by the plates with that vehicle. The department may allow the owner to keep the registration plates if the plates are legible and capable of being used for identification purposes.
+
+      (5) A person may apply with the department to transfer plates from a vehicle for which the department previously received a totaled or substantially altered notification. A plate transfer request must be in accordance with the provisions of ORS 803.530.
+
+      (6) The owner of a vehicle whose title and registration have been canceled and retired due to the department being notified it is totaled, wrecked, dismantled, disassembled or substantially altered is entitled to an administrative review to determine whether the notification was correct. [1983 c.338 §196; 1985 c.176 §2; 1985 c.401 §3; 1987 c.119 §6; 1991 c.820 §8; 1991 c.873 §38; 1993 c.233 §62; 2019 c.17 §2]
 
  
 
@@ -403,13 +413,13 @@ ABANDONED VEHICLES
 
       (c) A vehicle left parked or standing in violation of ORS 811.555 or 811.570.
 
-      (2) A lien established under this section shall be on the vehicle and its contents for the just and reasonable charges for the towing service performed and any storage provided. However, if the person that tows the vehicle fails to comply with the notice requirements of subsection (3) of this section, the amount of any lien claimed under this section is limited to an amount equal to the just and reasonable charges for the towing service performed and storage provided for a period not exceeding 20 days from the date the vehicle and its contents were placed in storage. The lien is subject to the provisions for liens under ORS 98.812. The person holding the lien may retain possession of the vehicle and contents until the charges on which the lien is based are paid. A lien described under this section does not attach:
+      (2) A lien established under this section shall be on the vehicle and its contents for the just and reasonable charges for the towing service performed and any storage provided. However, the storage charge is limited subject to ORS 98.812 (3). A lien described under this section does not attach:
 
       (a) To the contents of any vehicle taken from public property until 15 days after taking the vehicle into custody.
 
       (b) To the contents of any vehicle that is taken into custody for violation of ORS 811.555 or 811.570.
 
-      (3) A person that tows any vehicle at the request of an authority under ORS 819.110 or 819.120 shall transmit by first class mail with a certificate of mailing, within 20 days after the vehicle and its contents are placed in storage, written notice, approved by the authority, containing information on the procedures necessary to obtain a hearing under ORS 819.190. The notice shall be provided to the owner, a person entitled to possession or any person with an interest recorded on the title to the vehicle. This subsection does not apply to a person that tows an abandoned vehicle that is appraised at a value of $500 or less by a person who holds a certificate issued under ORS 819.480. [1983 c.338 §422; 1985 c.16 §223; 1993 c.326 §5; 1993 c.385 §6; 1995 c.79 §379; 1995 c.758 §12; 2007 c.538 §15; 2009 c.11 §99; 2009 c.371 §10]
+      (3) A person that tows any vehicle at the request of an authority under ORS 819.110 or 819.120 shall transmit by first class mail with a certificate of mailing, no later than the third business day after the vehicle and its contents are placed in storage, written notice, approved by the authority, containing information on the procedures necessary to obtain a hearing under ORS 819.190. The notice shall be provided to the owner, a person entitled to possession or any person with an interest recorded on the title to the vehicle. This subsection does not apply to a person that tows an abandoned vehicle that is appraised at a value of $500 or less by a person who holds a certificate issued under ORS 819.480. [1983 c.338 §422; 1985 c.16 §223; 1993 c.326 §5; 1993 c.385 §6; 1995 c.79 §379; 1995 c.758 §12; 2007 c.538 §15; 2009 c.11 §99; 2009 c.371 §10; 2019 c.547 §4]
 
  
 
@@ -721,11 +731,11 @@ VEHICLE APPRAISERS
 
       (b) A person from another jurisdiction who holds a vehicle appraiser certificate requiring qualifications substantially similar to qualifications required for the certification of a vehicle appraiser in this state;
 
-      (c) An insurance adjuster authorized to do business under ORS 744.505 or 744.515; or
+      (c) An insurance adjuster authorized to do business under ORS 744.515 or 744.521; or
 
       (d) A person licensed or certified to appraise real estate under ORS 674.310 and who appraises the value of manufactured structures.
 
-      (3) The offense described in this section, acting as a vehicle appraiser without a certificate, is a Class A violation. [2007 c.630 §2]
+      (3) The offense described in this section, acting as a vehicle appraiser without a certificate, is a Class A violation. [2007 c.630 §2; 2019 c.151 §42]
 
 _______________
 

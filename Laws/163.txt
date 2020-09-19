@@ -4,16 +4,6 @@ Chapter 163 — Offenses Against Persons
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0036; 2018 Session Laws 0076; 2018 Session Laws 0084
-
- 
-
- 
-
 
  
 
@@ -39,19 +29,21 @@ HOMICIDE
 
  
 
-163.098     Alternative proof of certain victims of aggravated murder
-
- 
-
-163.103     Pleading, proof and stipulation regarding previous conviction element in prosecution for aggravated murder
-
- 
-
 163.105     Sentencing options for aggravated murder
 
  
 
-163.115     Murder; affirmative defense to certain felony murders; sentence of life imprisonment required; minimum term
+163.107     Murder in the first degree; sentence of life imprisonment required; minimum term
+
+ 
+
+163.109     Alternative proof of certain victims of murder in the first degree
+
+ 
+
+163.111     Pleading, proof and stipulation regarding previous conviction element in prosecution for murder in the first degree
+
+163.115     Murder in the second degree; affirmative defense to certain felony murders; sentence of life imprisonment required; minimum term
 
  
 
@@ -67,7 +59,7 @@ HOMICIDE
 
  
 
-163.135     Extreme emotional disturbance as affirmative defense to murder; notice of expert testimony; right of state to psychiatric or psychological examination
+163.135     Extreme emotional disturbance as affirmative defense to murder in the second degree; notice of expert testimony; right of state to psychiatric or psychological examination
 
  
 
@@ -477,8 +469,6 @@ INVASION OF PRIVACY
 
 163.701     Invasion of personal privacy in the first degree
 
- 
-
 163.702     Exceptions to ORS 163.700 and 163.701
 
  
@@ -555,7 +545,7 @@ SEXUAL ABUSE RESTRAINING ORDERS
 
  
 
-163.765     Restraining order; service of order; request for hearing
+163.765     Restraining order; service of order; request for hearing; duration of order
 
  
 
@@ -631,13 +621,79 @@ HOMICIDE
 
  
 
-      163.095 “Aggravated murder” defined. As used in ORS 163.105 and this section, “aggravated murder” means murder as defined in ORS 163.115 which is committed under, or accompanied by, any of the following circumstances:
+      163.095 “Aggravated murder” defined. As used in ORS 163.105 and this section, “aggravated murder” means:
 
-      (1)(a) The defendant committed the murder pursuant to an agreement that the defendant receive money or other thing of value for committing the murder.
+      (1) Criminal homicide of two or more persons that is premeditated and committed intentionally and with the intent to:
+
+      (a) Intimidate, injure or coerce a civilian population;
+
+      (b) Influence the policy of a government by intimidation or coercion; or
+
+      (c) Affect the conduct of a government through destruction of property, murder, kidnapping or aircraft piracy; or
+
+      (2) Murder in the second degree, as defined in ORS 163.115, that is:
+
+      (a)(A) Committed while the defendant was confined in a state, county or municipal penal or correctional facility or was otherwise in custody; and
+
+      (B) Committed after the defendant was previously convicted in any jurisdiction of any homicide, the elements of which constitute the crime of aggravated murder under this section or murder in the first degree under ORS 163.107;
+
+      (b) Premeditated and committed intentionally against a person under 14 years of age;
+
+      (c) Premeditated, committed intentionally against a police officer as defined in ORS 801.395, and related to the performance of the victim’s official duties; or
+
+      (d) Premeditated, committed intentionally against a correctional, parole and probation officer or other person charged with the duty of custody, control or supervision of convicted persons, and related to the performance of the victim’s official duties. [1977 c.370 §1; 1981 c.873 §1; 1991 c.742 §13; 1991 c.837 §12; 1993 c.185 §20; 1993 c.623 §2; 1997 c.850 §1; 2005 c.264 §17; 2012 c.54 §26; 2015 c.614 §149; 2019 c.635 §1]
+
+ 
+
+      Note: Section 30, chapter 635, Oregon Laws 2019, provides:
+
+      Sec. 30. Section 3 of this 2019 Act [163.107] and the amendments to ORS 40.355, 133.705, 136.450, 137.635, 137.700, 137.707, 144.079, 144.085, 144.110, 161.005, 161.405, 161.535, 163.095, 163.098, 163.103, 163.115, 163.135, 163.150, 163.707, 342.143, 419A.260, 419C.349, 419C.352, 419C.501, 421.121, 443.004 and 671.610 by sections 1 and 4 to 29 of this 2019 Act apply to crimes committed before, on or after the effective date of this 2019 Act [September 29, 2019] that are the subject of sentencing proceedings occurring on or after the effective date of this 2019 Act. [2019 c.635 §30]
+
+ 
+
+      163.098 [2014 c.73 §5; 2019 c.635 §17; renumbered 163.109 in 2019]
+
+ 
+
+      163.100 [Amended by 1967 c.372 §12; repealed by 1971 c.743 §432]
+
+ 
+
+      163.103 [1981 c.873 §3; 2019 c.635 §18; renumbered 163.111 in 2019]
+
+ 
+
+      163.105 Sentencing options for aggravated murder. Notwithstanding the provisions of ORS chapter 144 and ORS 421.450 to 421.490:
+
+      (1)(a) Except as otherwise provided in ORS 137.707, when a defendant is convicted of aggravated murder as defined by ORS 163.095, the defendant shall be sentenced, pursuant to ORS 163.150, to death, life imprisonment without the possibility of release or parole or life imprisonment.
+
+      (b) A person sentenced to life imprisonment without the possibility of release or parole under this section shall not have that sentence suspended, deferred or commuted by any judicial officer, and the State Board of Parole and Post-Prison Supervision may not parole the prisoner nor reduce the period of confinement in any manner whatsoever. The Department of Corrections or any executive official may not permit the prisoner to participate in any sort of release or furlough program.
+
+      (c) If sentenced to life imprisonment, the court shall order that the defendant shall be confined for a minimum of 30 years without possibility of parole or release to post-prison supervision except as provided in ORS 144.397, and without the possibility of release on work release or any form of temporary leave or employment at a forest or work camp.
+
+      (2) At any time after completion of a minimum period of confinement pursuant to subsection (1)(c) of this section, the State Board of Parole and Post-Prison Supervision, upon the petition of a prisoner so confined, shall hold a hearing to determine if the prisoner is likely to be rehabilitated within a reasonable period of time. The sole issue is whether or not the prisoner is likely to be rehabilitated within a reasonable period of time. At the hearing, the prisoner has:
+
+      (a) The burden of proving by a preponderance of the evidence the likelihood of rehabilitation within a reasonable period of time;
+
+      (b) The right, if the prisoner is without sufficient funds to employ an attorney, to be represented by legal counsel, appointed by the board, at board expense; and
+
+      (c) The right to a subpoena upon a showing of the general relevance and reasonable scope of the evidence sought, provided that any subpoena issued on behalf of the prisoner must be issued by the State Board of Parole and Post-Prison Supervision pursuant to rules adopted by the board.
+
+      (3) If, upon hearing all of the evidence, the board, upon a unanimous vote of three board members or, if the chairperson requires all voting members to participate, a unanimous vote of all voting members, finds that the prisoner is capable of rehabilitation and that the terms of the prisoner’s confinement should be changed to life imprisonment with the possibility of parole, release to post-prison supervision or work release, it shall enter an order to that effect and the order shall convert the terms of the prisoner’s confinement to life imprisonment with the possibility of parole, release to post-prison supervision or work release and may set a release date. Otherwise the board shall deny the relief sought in the petition.
+
+      (4) If the board denies the relief sought in the petition, the board shall determine the date of the subsequent hearing, and the prisoner may petition for an interim hearing, in accordance with ORS 144.285.
+
+      (5) The board’s final order shall be accompanied by findings of fact and conclusions of law. The findings of fact shall consist of a concise statement of the underlying facts supporting the findings as to each contested issue of fact and as to each ultimate fact required to support the board’s order. [1977 c.370 §2; 1981 c.873 §4; 1985 c.3 §1; 1987 c.158 §23; 1987 c.803 §20; 1989 c.720 §1; 1991 c.126 §8; 1995 c.421 §2; 1999 c.59 §31; 1999 c.782 §5; 2007 c.717 §1; 2009 c.660 §6; 2015 c.820 §45; 2019 c.634 §27]
+
+ 
+
+      163.107 Murder in the first degree; sentence of life imprisonment required; minimum term. (1) “Murder in the first degree” means murder in the second degree as defined in ORS 163.115 which is committed under, or accompanied by, any of the following circumstances:
+
+      (a) The defendant committed the murder pursuant to an agreement that the defendant receive money or other thing of value for committing the murder.
 
       (b) The defendant solicited another to commit the murder and paid or agreed to pay the person money or other thing of value for committing the murder.
 
-      (c) The defendant committed murder after having been convicted previously in any jurisdiction of any homicide, the elements of which constitute the crime of murder as defined in ORS 163.115 or manslaughter in the first degree as defined in ORS 163.118.
+      (c) The defendant committed murder after having been convicted previously in any jurisdiction of any homicide, the elements of which constitute the crime of aggravated murder as defined in ORS 163.095, murder in the first degree under this section, murder in the second degree as defined in ORS 163.115 or manslaughter in the first degree as defined in ORS 163.118.
 
       (d) There was more than one murder victim in the same criminal episode as defined in ORS 131.505.
 
@@ -645,7 +701,7 @@ HOMICIDE
 
       (f) The victim of the intentional homicide was a person under the age of 14 years.
 
-      (2)(a) The victim was one of the following and the murder was related to the performance of the victim’s official duties in the justice system:
+      (g) The victim was one of the following and the murder was related to the performance of the victim’s official duties in the justice system:
 
       (A) A police officer as defined in ORS 181A.355;
 
@@ -663,75 +719,57 @@ HOMICIDE
 
       (H) A regulatory specialist.
 
-      (b) The defendant was confined in a state, county or municipal penal or correctional facility or was otherwise in custody when the murder occurred.
+      (h) The defendant was confined in a state, county or municipal penal or correctional facility or was otherwise in custody when the murder occurred.
 
-      (c) The defendant committed murder by means of an explosive as defined in ORS 164.055.
+      (i) The defendant committed murder by means of an explosive as defined in ORS 164.055.
 
-      (d) Notwithstanding ORS 163.115 (1)(b), the defendant personally and intentionally committed the homicide under the circumstances set forth in ORS 163.115 (1)(b).
+      (j) Notwithstanding ORS 163.115 (1)(b), the defendant personally and intentionally committed the homicide under the circumstances set forth in ORS 163.115 (1)(b).
 
-      (e) The murder was committed in an effort to conceal the commission of a crime, or to conceal the identity of the perpetrator of a crime.
+      (k) The murder was committed in an effort to conceal the commission of a crime, or to conceal the identity of the perpetrator of a crime.
 
-      (f) The murder was committed after the defendant had escaped from a state, county or municipal penal or correctional facility and before the defendant had been returned to the custody of the facility. [1977 c.370 §1; 1981 c.873 §1; 1991 c.742 §13; 1991 c.837 §12; 1993 c.185 §20; 1993 c.623 §2; 1997 c.850 §1; 2005 c.264 §17; 2012 c.54 §26; 2015 c.614 §149]
+      (L) The murder was committed after the defendant had escaped from a state, county or municipal penal or correctional facility and before the defendant had been returned to the custody of the facility.
 
- 
+      (2)(a) Except as otherwise provided in ORS 163.155 and paragraph (b) of this subsection, the court shall sentence a person convicted of murder in the first degree, who was at least 15 years of age at the time of committing the murder, to life imprisonment. The court shall order that the defendant be confined for a minimum of 30 years without possibility of parole or release to post-prison supervision except as provided in ORS 144.397, and without the possibility of release on work release or any form of temporary leave or employment at a forest or work camp.
 
-      163.098 Alternative proof of certain victims of aggravated murder. Notwithstanding ORS 163.095, when an element of a crime charged is that the victim of the crime is a police officer as defined in ORS 181A.355 and the crime was related to the officer’s performance of official duties, the state may alternatively prove that the victim of the crime is a certified reserve officer or a reserve officer, as those terms are defined in ORS 181A.355, and the crime was related to the officer’s performance of official duties. [2014 c.73 §5]
+      (b) The court may sentence the person to life imprisonment without the possibility of parole if the person was at least 18 years of age at the time of committing the murder. The court shall state on the record the reasons for imposing the sentence. A person sentenced to life imprisonment without the possibility of release or parole under this paragraph shall not have that sentence suspended, deferred or commuted by any judicial officer, and the State Board of Parole and Post-Prison Supervision may not parole the prisoner nor reduce the period of confinement in any manner whatsoever. The Department of Corrections or any executive official may not permit the prisoner to participate in any sort of release or furlough program.
 
- 
+      (3)(a) For a person sentenced to life imprisonment, at any time after completion of the minimum period of confinement described in subsection (2)(a) of this section, the State Board of Parole and Post-Prison Supervision, upon the petition of a prisoner so confined, shall hold a hearing to determine if the prisoner is likely to be rehabilitated within a reasonable period of time. The sole issue is whether the prisoner is likely to be rehabilitated within a reasonable period of time. At the hearing the prisoner has:
 
-      Note: 163.098 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 163 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      (A) The burden of proving by a preponderance of the evidence the likelihood of rehabilitation within a reasonable period of time;
 
- 
+      (B) The right, if the prisoner is without sufficient funds to employ an attorney, to be represented by legal counsel, appointed by the board, at board expense; and
 
-      163.100 [Amended by 1967 c.372 §12; repealed by 1971 c.743 §432]
+      (C) The right to a subpoena upon a showing of the general relevance and reasonable scope of the evidence sought, provided that any subpoena issued on behalf of the prisoner must be issued by the State Board of Parole and Post-Prison Supervision pursuant to rules adopted by the board.
 
- 
+      (b) If, upon hearing all of the evidence, the board, upon a unanimous vote of three board members or, if the chairperson requires all voting members to participate, a unanimous vote of all voting members, finds that the prisoner is capable of rehabilitation and that the terms of the prisoner’s confinement should be changed to life imprisonment with the possibility of parole, release to post-prison supervision or work release, it shall enter an order to that effect and the order shall convert the terms of the prisoner’s confinement to life imprisonment with the possibility of parole, release to post-prison supervision or work release and may set a release date. Otherwise, the board shall deny the relief sought in the petition.
 
-      163.103 Pleading, proof and stipulation regarding previous conviction element in prosecution for aggravated murder. (1) In a prosecution for aggravated murder under ORS 163.095 (1)(c), the state shall plead the previous conviction, and shall prove the previous conviction unless the defendant stipulates to that fact prior to trial. If the defendant so stipulates and the trial is by jury:
+      (c) If the board denies the relief sought in the petition, the board shall determine the date of the subsequent hearing, and the prisoner may petition for an interim hearing, in accordance with ORS 144.285.
 
-      (a) The court shall accept the stipulation regardless of whether or not the state agrees to it;
+      (d) The board’s final order shall be accompanied by findings of fact and conclusions of law. The findings of fact shall consist of a concise statement of the underlying facts supporting the findings as to each contested issue of fact and as to each ultimate fact required to support the board’s order. [2019 c.635 §3; 2019 c.635 §3a]
 
-      (b) The defendant’s stipulation to the previous conviction constitutes a judicial admission to that element of the accusatory instrument. The stipulation shall be made a part of the record of the case, but shall not be offered or received in the presence of the jury;
+      163.109 Alternative proof of certain victims of murder in the first degree. Notwithstanding ORS 163.107, when an element of a crime charged is that the victim of the crime is a police officer as defined in ORS 181A.355 and the crime was related to the officer’s performance of official duties, the state may alternatively prove that the victim of the crime is a certified reserve officer or a reserve officer, as those terms are defined in ORS 181A.355, and the crime was related to the officer’s performance of official duties. [Formerly 163.098]
 
-      (c) For the purpose of establishing the prior conviction solely as an element of the crime under ORS 163.095 (1)(c), neither the court nor the state shall reveal to the jury the previous conviction, but the previous conviction is established in the record by the defendant’s stipulation; and
-
-      (d) The court shall not submit the accusatory instrument or evidence of the previous conviction to the jury.
-
-      (2) In a proceeding under ORS 163.095 (1)(c), the state may offer, and the court may receive and submit to the jury, evidence of the previous conviction for impeachment of the defendant or another purpose, other than establishing the conviction as an element of the offense, when the evidence of the previous conviction is otherwise admissible for that purpose. When evidence of the previous conviction has been admitted by the court, the state may comment upon, and the court may give instructions about, the evidence of the previous conviction only to the extent that the comments or instructions relate to the purpose for which the evidence was admitted.
-
-      (3) When the defendant stipulates to the prior conviction required as an element of aggravated murder under ORS 163.095 (1)(c), if the jury finds the defendant guilty upon instruction regarding the balance of the elements of the crime, the court shall enter a judgment of guilty of aggravated murder. [1981 c.873 §3]
-
- 
-
-      163.105 Sentencing options for aggravated murder. Notwithstanding the provisions of ORS chapter 144 and ORS 421.450 to 421.490:
-
-      (1)(a) Except as otherwise provided in ORS 137.707, when a defendant is convicted of aggravated murder as defined by ORS 163.095, the defendant shall be sentenced, pursuant to ORS 163.150, to death, life imprisonment without the possibility of release or parole or life imprisonment.
-
-      (b) A person sentenced to life imprisonment without the possibility of release or parole under this section shall not have that sentence suspended, deferred or commuted by any judicial officer, and the State Board of Parole and Post-Prison Supervision may not parole the prisoner nor reduce the period of confinement in any manner whatsoever. The Department of Corrections or any executive official may not permit the prisoner to participate in any sort of release or furlough program.
-
-      (c) If sentenced to life imprisonment, the court shall order that the defendant shall be confined for a minimum of 30 years without possibility of parole, release to post-prison supervision, release on work release or any form of temporary leave or employment at a forest or work camp.
-
-      (2) At any time after completion of a minimum period of confinement pursuant to subsection (1)(c) of this section, the State Board of Parole and Post-Prison Supervision, upon the petition of a prisoner so confined, shall hold a hearing to determine if the prisoner is likely to be rehabilitated within a reasonable period of time. The sole issue is whether or not the prisoner is likely to be rehabilitated within a reasonable period of time. At the hearing, the prisoner has:
-
-      (a) The burden of proving by a preponderance of the evidence the likelihood of rehabilitation within a reasonable period of time;
-
-      (b) The right, if the prisoner is without sufficient funds to employ an attorney, to be represented by legal counsel, appointed by the board, at board expense; and
-
-      (c) The right to a subpoena upon a showing of the general relevance and reasonable scope of the evidence sought, provided that any subpoena issued on behalf of the prisoner must be issued by the State Board of Parole and Post-Prison Supervision pursuant to rules adopted by the board.
-
-      (3) If, upon hearing all of the evidence, the board, upon a unanimous vote of three board members or, if the chairperson requires all voting members to participate, a unanimous vote of all voting members, finds that the prisoner is capable of rehabilitation and that the terms of the prisoner’s confinement should be changed to life imprisonment with the possibility of parole, release to post-prison supervision or work release, it shall enter an order to that effect and the order shall convert the terms of the prisoner’s confinement to life imprisonment with the possibility of parole, release to post-prison supervision or work release and may set a release date. Otherwise the board shall deny the relief sought in the petition.
-
-      (4) If the board denies the relief sought in the petition, the board shall determine the date of the subsequent hearing, and the prisoner may petition for an interim hearing, in accordance with ORS 144.285.
-
-      (5) The board’s final order shall be accompanied by findings of fact and conclusions of law. The findings of fact shall consist of a concise statement of the underlying facts supporting the findings as to each contested issue of fact and as to each ultimate fact required to support the board’s order. [1977 c.370 §2; 1981 c.873 §4; 1985 c.3 §1; 1987 c.158 §23; 1987 c.803 §20; 1989 c.720 §1; 1991 c.126 §8; 1995 c.421 §2; 1999 c.59 §31; 1999 c.782 §5; 2007 c.717 §1; 2009 c.660 §6; 2015 c.820 §45]
-
- 
+Note: 163.109 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 163 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
       163.110 [Repealed by 1971 c.743 §432]
 
  
 
-      163.115 Murder; affirmative defense to certain felony murders; sentence of life imprisonment required; minimum term. (1) Except as provided in ORS 163.118 and 163.125, criminal homicide constitutes murder:
+      163.111 Pleading, proof and stipulation regarding previous conviction element in prosecution for murder in the first degree. (1) In a prosecution for murder in the first degree under ORS 163.107 (1)(c), the state shall plead the previous conviction, and shall prove the previous conviction unless the defendant stipulates to that fact prior to trial. If the defendant so stipulates and the trial is by jury:
+
+      (a) The court shall accept the stipulation regardless of whether or not the state agrees to it;
+
+      (b) The defendant’s stipulation to the previous conviction constitutes a judicial admission to that element of the accusatory instrument. The stipulation shall be made a part of the record of the case, but shall not be offered or received in the presence of the jury;
+
+      (c) For the purpose of establishing the prior conviction solely as an element of the crime under ORS 163.107 (1)(c), neither the court nor the state shall reveal to the jury the previous conviction, but the previous conviction is established in the record by the defendant’s stipulation; and
+
+      (d) The court shall not submit the accusatory instrument or evidence of the previous conviction to the jury.
+
+      (2) In a proceeding under ORS 163.107 (1)(c), the state may offer, and the court may receive and submit to the jury, evidence of the previous conviction for impeachment of the defendant or another purpose, other than establishing the conviction as an element of the offense, when the evidence of the previous conviction is otherwise admissible for that purpose. When evidence of the previous conviction has been admitted by the court, the state may comment upon, and the court may give instructions about, the evidence of the previous conviction only to the extent that the comments or instructions relate to the purpose for which the evidence was admitted.
+
+      (3) When the defendant stipulates to the prior conviction required as an element of murder in the first degree under ORS 163.107 (1)(c), if the jury finds the defendant guilty upon instruction regarding the balance of the elements of the crime, the court shall enter a judgment of guilty of murder in the first degree. [Formerly 163.103]
+
+      163.115 Murder in the second degree; affirmative defense to certain felony murders; sentence of life imprisonment required; minimum term. (1) Except as provided in ORS 163.095, 163.118 and 163.125, criminal homicide constitutes murder in the second degree:
 
       (a) When it is committed intentionally, except that it is an affirmative defense that, at the time of the homicide, the defendant was under the influence of an extreme emotional disturbance;
 
@@ -779,11 +817,11 @@ HOMICIDE
 
       (4) It is an affirmative defense to a charge of violating subsection (1)(c)(B) of this section that the victim was a dependent person who was at least 18 years of age and was under care or treatment solely by spiritual means pursuant to the religious beliefs or practices of the dependent person or the guardian of the dependent person.
 
-      (5) Except as otherwise provided in ORS 163.155:
+      (5) Except as otherwise provided in ORS 144.397 and 163.155:
 
-      (a) A person convicted of murder, who was at least 15 years of age at the time of committing the murder, shall be punished by imprisonment for life.
+      (a) A person convicted of murder in the second degree, who was at least 15 years of age at the time of committing the murder, shall be punished by imprisonment for life.
 
-      (b) When a defendant is convicted of murder under this section, the court shall order that the defendant shall be confined for a minimum of 25 years without possibility of parole, release to post-prison supervision, release on work release or any form of temporary leave or employment at a forest or work camp.
+      (b) When a defendant is convicted of murder in the second degree under this section, the court shall order that the defendant shall be confined for a minimum of 25 years without possibility of parole, release to post-prison supervision, release on work release or any form of temporary leave or employment at a forest or work camp.
 
       (c) At any time after completion of a minimum period of confinement pursuant to paragraph (b) of this subsection, the State Board of Parole and Post-Prison Supervision, upon the petition of a prisoner so confined, shall hold a hearing to determine if the prisoner is likely to be rehabilitated within a reasonable period of time. The sole issue is whether the prisoner is likely to be rehabilitated within a reasonable period of time. At the hearing the prisoner has:
 
@@ -807,7 +845,7 @@ HOMICIDE
 
       (c) “Pattern or practice” means one or more previous episodes.
 
-      (d) “Torture” means the intentional infliction of intense physical pain upon an unwilling victim as a separate objective apart from any other purpose. [1971 c.743 §88; 1975 c.577 §1; 1979 c.2 §1; 1981 c.873 §5; 1985 c.763 §1; 1989 c.985 §1; 1993 c.664 §1; 1995 c.421 §3; 1995 c.657 §1; 1997 c.850 §2; 1999 c.782 §4; 2007 c.717 §2; 2009 c.660 §7; 2009 c.785 §1; 2011 c.291 §1; 2015 c.820 §46]
+      (d) “Torture” means the intentional infliction of intense physical pain upon an unwilling victim as a separate objective apart from any other purpose. [1971 c.743 §88; 1975 c.577 §1; 1979 c.2 §1; 1981 c.873 §5; 1985 c.763 §1; 1989 c.985 §1; 1993 c.664 §1; 1995 c.421 §3; 1995 c.657 §1; 1997 c.850 §2; 1999 c.782 §4; 2007 c.717 §2; 2009 c.660 §7; 2009 c.785 §1; 2011 c.291 §1; 2015 c.820 §46; 2019 c.634 §28; 2019 c.635 §4]
 
  
 
@@ -881,7 +919,7 @@ HOMICIDE
 
  
 
-      163.135 Extreme emotional disturbance as affirmative defense to murder; notice of expert testimony; right of state to psychiatric or psychological examination. (1) It is an affirmative defense to murder for purposes of ORS 163.115 (1)(a) that the homicide was committed under the influence of extreme emotional disturbance if the disturbance is not the result of the person’s own intentional, knowing, reckless or criminally negligent act and if there is a reasonable explanation for the disturbance. The reasonableness of the explanation for the disturbance must be determined from the standpoint of an ordinary person in the actor’s situation under the circumstances that the actor reasonably believed them to be. Extreme emotional disturbance does not constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the first degree or any other crime.
+      163.135 Extreme emotional disturbance as affirmative defense to murder in the second degree; notice of expert testimony; right of state to psychiatric or psychological examination. (1) It is an affirmative defense to murder in the second degree for purposes of ORS 163.115 (1)(a) that the homicide was committed under the influence of extreme emotional disturbance if the disturbance is not the result of the person’s own intentional, knowing, reckless or criminally negligent act and if there is a reasonable explanation for the disturbance. The reasonableness of the explanation for the disturbance must be determined from the standpoint of an ordinary person in the actor’s situation under the circumstances that the actor reasonably believed them to be. Extreme emotional disturbance does not constitute a defense to a prosecution for, or preclude a conviction of, manslaughter in the first degree or any other crime.
 
       (2) The defendant may not introduce in the defendant’s case in chief expert testimony regarding extreme emotional disturbance under this section unless the defendant gives notice of the defendant’s intent to do so.
 
@@ -889,7 +927,7 @@ HOMICIDE
 
       (4) If the defendant fails to file notice, the defendant may not introduce evidence for the purpose of proving extreme emotional disturbance under ORS 163.115 unless the court, in its discretion, determines that there was just cause for failure to file notice.
 
-      (5) After the defendant files notice as provided in this section, the state may have at least one psychiatrist or licensed psychologist of its selection examine the defendant in the same manner and subject to the same provisions as provided in ORS 161.315. [1971 c.743 §90; 1977 c.235 §1; 1981 c.873 §7; 2003 c.127 §1]
+      (5) After the defendant files notice as provided in this section, the state may have at least one psychiatrist or licensed psychologist of its selection examine the defendant in the same manner and subject to the same provisions as provided in ORS 161.315. [1971 c.743 §90; 1977 c.235 §1; 1981 c.873 §7; 2003 c.127 §1; 2019 c.635 §19]
 
  
 
@@ -939,23 +977,21 @@ HOMICIDE
 
  
 
-      163.150 Sentencing for aggravated murder; proceedings; issues for jury. (1)(a) Upon a finding that the defendant is guilty of aggravated murder, the court, except as otherwise provided in subsection (3) of this section, shall conduct a separate sentencing proceeding to determine whether the defendant shall be sentenced to life imprisonment, as described in ORS 163.105 (1)(c), life imprisonment without the possibility of release or parole, as described in ORS 163.105 (1)(b), or death. The proceeding shall be conducted in the trial court before the trial jury as soon as practicable. If a juror for any reason is unable to perform the function of a juror, the juror shall be dismissed from the sentencing proceeding. The court shall cause to be drawn the name of one of the alternate jurors, who shall then become a member of the jury for the sentencing proceeding notwithstanding the fact that the alternate juror did not deliberate on the issue of guilt. If the defendant has pleaded guilty, the sentencing proceeding shall be conducted before a jury impaneled for that purpose. In the proceeding, evidence may be presented as to any matter that the court deems relevant to sentence including, but not limited to, victim impact evidence relating to the personal characteristics of the victim or the impact of the crime on the victim’s family and any aggravating or mitigating evidence relevant to the issue in paragraph (b)(D) of this subsection; however, neither the state nor the defendant shall be allowed to introduce repetitive evidence that has previously been offered and received during the trial on the issue of guilt. The court shall instruct the jury that all evidence previously offered and received may be considered for purposes of the sentencing hearing. This paragraph shall not be construed to authorize the introduction of any evidence secured in violation of the Constitution of the United States or of the State of Oregon. The state and the defendant or the counsel of the defendant shall be permitted to present arguments for or against a sentence of death and for or against a sentence of life imprisonment with or without the possibility of release or parole.
+      163.150 Sentencing for aggravated murder; proceedings; issues for jury. (1)(a) Upon a finding that the defendant is guilty of aggravated murder, the court, except as otherwise provided in subsection (3) of this section, shall conduct a separate sentencing proceeding to determine whether the defendant shall be sentenced to life imprisonment, as described in ORS 163.105 (1)(c), life imprisonment without the possibility of release or parole, as described in ORS 163.105 (1)(b), or death. The proceeding shall be conducted in the trial court before the trial jury as soon as practicable. If a juror for any reason is unable to perform the function of a juror, the juror shall be dismissed from the sentencing proceeding. The court shall cause to be drawn the name of one of the alternate jurors, who shall then become a member of the jury for the sentencing proceeding notwithstanding the fact that the alternate juror did not deliberate on the issue of guilt. If the defendant has pleaded guilty, the sentencing proceeding shall be conducted before a jury impaneled for that purpose. In the proceeding, evidence may be presented as to any matter that the court deems relevant to sentence including, but not limited to, victim impact evidence relating to the personal characteristics of the victim or the impact of the crime on the victim’s family and any aggravating or mitigating evidence relevant to the issue in paragraph (b)(C) of this subsection; however, neither the state nor the defendant shall be allowed to introduce repetitive evidence that has previously been offered and received during the trial on the issue of guilt. The court shall instruct the jury that all evidence previously offered and received may be considered for purposes of the sentencing hearing. This paragraph shall not be construed to authorize the introduction of any evidence secured in violation of the Constitution of the United States or of the State of Oregon. The state and the defendant or the counsel of the defendant shall be permitted to present arguments for or against a sentence of death and for or against a sentence of life imprisonment with or without the possibility of release or parole.
 
       (b) Upon the conclusion of the presentation of the evidence, the court shall submit the following issues to the jury:
 
       (A) Whether the conduct of the defendant that caused the death of the deceased was committed deliberately and with the reasonable expectation that death of the deceased or another would result;
 
-      (B) Whether there is a probability that the defendant would commit criminal acts of violence that would constitute a continuing threat to society;
+      (B) If raised by the evidence, whether the conduct of the defendant in killing the deceased was unreasonable in response to the provocation, if any, by the deceased; and
 
-      (C) If raised by the evidence, whether the conduct of the defendant in killing the deceased was unreasonable in response to the provocation, if any, by the deceased; and
-
-      (D) Whether the defendant should receive a death sentence.
+      (C) Whether the defendant should receive a death sentence.
 
       (c)(A) The court shall instruct the jury to consider, in determining the issues in paragraph (b) of this subsection, any mitigating circumstances offered in evidence, including but not limited to the defendant’s age, the extent and severity of the defendant’s prior criminal conduct and the extent of the mental and emotional pressure under which the defendant was acting at the time the offense was committed.
 
-      (B) The court shall instruct the jury to answer the question in paragraph (b)(D) of this subsection “no” if, after considering any aggravating evidence and any mitigating evidence concerning any aspect of the defendant’s character or background, or any circumstances of the offense and any victim impact evidence as described in paragraph (a) of this subsection, one or more of the jurors believe that the defendant should not receive a death sentence.
+      (B) The court shall instruct the jury to answer the question in paragraph (b)(C) of this subsection “no” if, after considering any aggravating evidence and any mitigating evidence concerning any aspect of the defendant’s character or background, or any circumstances of the offense and any victim impact evidence as described in paragraph (a) of this subsection, one or more of the jurors believe that the defendant should not receive a death sentence.
 
-      (d) The state must prove each issue submitted under paragraph (b)(A) to (C) of this subsection beyond a reasonable doubt, and the jury shall return a special verdict of “yes” or “no” on each issue considered.
+      (d) The state must prove each issue submitted under paragraph (b) of this subsection beyond a reasonable doubt, and the jury shall return a special verdict of “yes” or “no” on each issue considered.
 
       (e) The court shall charge the jury that it may not answer any issue “yes,” under paragraph (b) of this subsection unless it agrees unanimously.
 
@@ -987,11 +1023,11 @@ HOMICIDE
 
       (B) Imprisonment for life without the possibility of release or parole as provided in ORS 163.105 (1)(b); or
 
-      (C) Imprisonment for life in the custody of the Department of Corrections as provided in ORS 163.105 (1)(c). [1985 c.3 §3; 1987 c.320 §86; 1987 c.557 §1; 1989 c.720 §2; 1989 c.790 §135b; 1991 c.725 §2; 1991 c.885 §2; 1995 c.531 §2; 1995 c.657 §23; 1997 c.784 §1; 1999 c.1055 §1; 2001 c.306 §1; 2005 c.480 §1; 2017 c.359 §4]
+      (C) Imprisonment for life in the custody of the Department of Corrections as provided in ORS 163.105 (1)(c). [1985 c.3 §3; 1987 c.320 §86; 1987 c.557 §1; 1989 c.720 §2; 1989 c.790 §135b; 1991 c.725 §2; 1991 c.885 §2; 1995 c.531 §2; 1995 c.657 §23; 1997 c.784 §1; 1999 c.1055 §1; 2001 c.306 §1; 2005 c.480 §1; 2017 c.359 §4; 2019 c.635 §5]
 
  
 
-      163.155 Sentencing for murder of pregnant victim; proceeding; issues for jury. (1) When a defendant, who was at least 15 years of age at the time of committing the murder, is convicted of murdering a pregnant victim under ORS 163.115 (1)(a) and the defendant knew that the victim was pregnant, the defendant shall be sentenced to life imprisonment without the possibility of release or parole or to life imprisonment. The court shall conduct a sentencing proceeding to determine whether the defendant shall be sentenced to life imprisonment without the possibility of release or parole as described in subsection (4) of this section or to life imprisonment as described in subsection (5) of this section. If the defendant waives all rights to a jury sentencing proceeding, the court shall conduct the sentencing proceeding as the trier of fact. The procedure for the sentencing proceeding, whether before a court or a jury, shall follow the procedure of ORS 163.150 (1)(a), as modified by this section.
+      163.155 Sentencing for murder of pregnant victim; proceeding; issues for jury. (1) When a defendant, who was at least 15 years of age at the time of committing the murder, is convicted of murdering a pregnant victim under ORS 163.115 (1)(a) and the defendant knew that the victim was pregnant, the defendant shall be sentenced to life imprisonment without the possibility of release or parole if the person was at least 18 years of age at the time of committing the offense or to life imprisonment. The court shall conduct a sentencing proceeding to determine whether the defendant shall be sentenced to life imprisonment without the possibility of release or parole as described in subsection (4) of this section or to life imprisonment as described in subsection (5) of this section. If the defendant waives all rights to a jury sentencing proceeding, the court shall conduct the sentencing proceeding as the trier of fact. The procedure for the sentencing proceeding, whether before a court or a jury, shall follow the procedure of ORS 163.150 (1)(a), as modified by this section.
 
       (2) Following the presentation of evidence and argument under subsection (1) of this section, the court shall instruct the jury that the trial court shall sentence the defendant to life imprisonment without the possibility of release or parole as described in subsection (4) of this section, unless after considering all of the evidence submitted, 10 or more members of the jury find there are sufficient mitigating circumstances to warrant life imprisonment with the possibility of release or parole as described in subsection (5) of this section. If 10 or more members of the jury do not find there are sufficient mitigating circumstances to warrant life imprisonment with the possibility of release or parole, the trial court shall sentence the defendant to life imprisonment without the possibility of release or parole as described in subsection (4) of this section. If 10 or more members of the jury find there are sufficient mitigating circumstances to warrant life imprisonment with the possibility of release or parole, the trial court shall sentence the defendant to life imprisonment as described in subsection (5) of this section.
 
@@ -999,7 +1035,7 @@ HOMICIDE
 
       (4) A sentence of life imprisonment without the possibility of release or parole under this section may not be suspended, deferred or commuted by any judicial officer, and the State Board of Parole and Post-Prison Supervision may neither parole the prisoner nor reduce the period of confinement in any manner whatsoever. The Department of Corrections or any executive official may not permit the prisoner to participate in any sort of release or furlough program.
 
-      (5) If the defendant is sentenced to life imprisonment, the court shall order that the defendant be confined for a minimum of 30 years without possibility of parole, release to post-prison supervision, release on work release or any form of temporary leave or employment at a forest or work camp.
+      (5) If the defendant is sentenced to life imprisonment, the court shall order that the defendant be confined for a minimum of 30 years without possibility of parole or release to post-prison supervision except as provided in ORS 144.397, and without the possibility of release on work release or any form of temporary leave or employment at a forest or work camp.
 
       (6) At any time after completion of the minimum period of confinement pursuant to subsection (5) of this section, the board, upon the petition of a prisoner so confined, shall hold a hearing to determine if the prisoner is likely to be rehabilitated within a reasonable period of time. The sole issue shall be whether the prisoner is likely to be rehabilitated within a reasonable period of time. The proceeding shall be conducted in the manner prescribed for a contested case hearing under ORS chapter 183, except that:
 
@@ -1011,7 +1047,7 @@ HOMICIDE
 
       (7) If, upon hearing all of the evidence, the board, upon a unanimous vote of three board members or, if the chairperson requires all voting members to participate, a unanimous vote of all voting members, finds that the prisoner is capable of rehabilitation and that the terms of the prisoner’s confinement should be changed to life imprisonment with the possibility of parole, release on post-prison supervision or work release, it shall enter an order to that effect and the order shall convert the terms of the prisoner’s confinement to life imprisonment with the possibility of parole, release on post-prison supervision or work release and may set a release date. Otherwise the board shall deny the relief sought in the petition.
 
-      (8) Not less than two years after the denial of the relief sought in a petition under this section, the prisoner may petition again for a change in the terms of confinement. Further petitions for a change may be filed at intervals of not less than two years thereafter. [2009 c.785 §1a; 2015 c.820 §47]
+      (8) Not less than two years after the denial of the relief sought in a petition under this section, the prisoner may petition again for a change in the terms of confinement. Further petitions for a change may be filed at intervals of not less than two years thereafter. [2009 c.785 §1a; 2015 c.820 §47; 2019 c.634 §29]
 
  
 
@@ -1085,11 +1121,11 @@ ASSAULT AND RELATED OFFENSES
 
       (c) “Staff member” means:
 
-      (A) A corrections officer as defined in ORS 181A.355, a youth correction officer, a youth correction facility staff member, a Department of Corrections or Oregon Youth Authority staff member or a person employed pursuant to a contract with the department or youth authority to work with, or in the vicinity of, inmates, youth or youth offenders; and
+      (A) A corrections officer as defined in ORS 181A.355, a youth correction officer, a youth correction facility staff member, a Department of Corrections or Oregon Youth Authority staff member or a person employed pursuant to a contract with the department or youth authority to work with, or in the vicinity of, adults in custody, youth or youth offenders; and
 
-      (B) A volunteer authorized by the department, youth authority or other entity in charge of a corrections facility to work with, or in the vicinity of, inmates, youth or youth offenders.
+      (B) A volunteer authorized by the department, youth authority or other entity in charge of a corrections facility to work with, or in the vicinity of, adults in custody, youth or youth offenders.
 
-      (d) “Youth correction facility” has the meaning given that term in ORS 162.135. [1971 c.743 §92; 1977 c.297 §3; 1991 c.475 §1; 1991 c.564 §1; 1995 c.738 §1; 1997 c.249 §49; 1999 c.1011 §1; 2001 c.104 §50; 2001 c.830 §1; 2001 c.851 §4; 2009 c.660 §39; 2009 c.783 §3; 2011 c.529 §1; 2011 c.703 §27; 2017 c.658 §1]
+      (d) “Youth correction facility” has the meaning given that term in ORS 162.135. [1971 c.743 §92; 1977 c.297 §3; 1991 c.475 §1; 1991 c.564 §1; 1995 c.738 §1; 1997 c.249 §49; 1999 c.1011 §1; 2001 c.104 §50; 2001 c.830 §1; 2001 c.851 §4; 2009 c.660 §39; 2009 c.783 §3; 2011 c.529 §1; 2011 c.703 §27; 2017 c.658 §1; 2019 c.213 §119]
 
  
 
@@ -1151,7 +1187,7 @@ ASSAULT AND RELATED OFFENSES
 
       163.187 Strangulation. (1) A person commits the crime of strangulation if the person knowingly impedes the normal breathing or circulation of the blood of another person by:
 
-      (a) Applying pressure on the throat or neck of the other person; or
+      (a) Applying pressure on the throat, neck or chest of the other person; or
 
       (b) Blocking the nose or mouth of the other person.
 
@@ -1165,21 +1201,21 @@ ASSAULT AND RELATED OFFENSES
 
       (b) The victim is under 10 years of age;
 
-      (c) During the commission of the crime, the person used, attempted to use or threatened to use a dangerous or deadly weapon, as those terms are defined in ORS 161.015, unlawfully against another;
+      (c) The victim is a family or household member, as defined in ORS 135.230, of the person;
 
-      (d) The person has been previously convicted of violating this section or ORS 163.160, 163.165, 163.175, 163.185 or 163.190, or of committing an equivalent crime in another jurisdiction, and the victim in the previous conviction is the same person who is the victim of the current crime;
+      (d) During the commission of the crime, the person used, attempted to use or threatened to use a dangerous or deadly weapon, as those terms are defined in ORS 161.015, unlawfully against another;
 
-      (e) The person has at least three previous convictions for violating this section or ORS 163.160, 163.165, 163.175, 163.185 or 163.190 or for committing an equivalent crime in another jurisdiction, in any combination; or
+      (e) The person has been previously convicted of violating this section or ORS 163.160, 163.165, 163.175, 163.185 or 163.190, or of committing an equivalent crime in another jurisdiction, and the victim in the previous conviction is the same person who is the victim of the current crime;
 
-      (f) The person commits the strangulation knowing that the victim is pregnant.
+      (f) The person has at least three previous convictions for violating this section or ORS 163.160, 163.165, 163.175, 163.185 or 163.190 or for committing an equivalent crime in another jurisdiction, in any combination; or
 
-      (5) For purposes of subsection (4)(a) of this section, a strangulation is witnessed if the strangulation is seen or directly perceived in any other manner by the child. [2003 c.577 §2, 2011 c.666 §1; 2012 c.82 §1; 2015 c.639 §1]
+      (g) The person commits the strangulation knowing that the victim is pregnant.
 
- 
+      (5) For purposes of subsection (4)(a) of this section, a strangulation is witnessed if the strangulation is seen or directly perceived in any other manner by the child.
 
-      Note: 163.187 was added to and made a part of 163.160 to 163.208 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+      (6) The Oregon Criminal Justice Commission shall classify strangulation committed under the circumstances described in subsection (4)(c) of this section as crime category 5 of the sentencing guidelines grid of the commission. [2003 c.577 §2, 2011 c.666 §1; 2012 c.82 §1; 2015 c.639 §1; 2018 c.84 §1]
 
- 
+Note: 163.187 was added to and made a part of 163.160 to 163.208 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
       163.190 Menacing. (1) A person commits the crime of menacing if by word or conduct the person intentionally attempts to place another person in fear of imminent serious physical injury.
 
@@ -1207,13 +1243,13 @@ ASSAULT AND RELATED OFFENSES
 
       (2) This section does not apply to a person:
 
-      (a) Acting pursuant to a court order, an advance directive or power of attorney for health care pursuant to ORS 127.505 to 127.660 or a POLST, as defined in ORS 127.663;
+      (a) Acting pursuant to a court order, an advance directive or a form for appointing a health care representative pursuant to ORS 127.505 to 127.660 or a POLST, as defined in ORS 127.663;
 
       (b) Withholding or withdrawing life-sustaining procedures or artificially administered nutrition and hydration pursuant to ORS 127.505 to 127.660; or
 
       (c) Acting in accordance with the provisions of ORS 127.800 to 127.897.
 
-      (3) Assisting another person to commit suicide is a Class B felony. [2011 c.552 §2; 2013 c.1 §10]
+      (3) Assisting another person to commit suicide is a Class B felony. [2011 c.552 §2; 2013 c.1 §10; 2018 c.36 §27]
 
  
 
@@ -1227,11 +1263,11 @@ ASSAULT AND RELATED OFFENSES
 
  
 
-      163.196 Aggravated driving while suspended or revoked. (1) A person commits the crime of aggravated driving while suspended or revoked if the person operates a motor vehicle that causes serious physical injury to, or the death of, another person while knowingly violating ORS 811.175 or 811.182, if the suspension or revocation resulted from, or if the hardship or probationary permit violated is based upon a suspension or revocation that resulted from, a conviction for a criminal offense involving the use of a motor vehicle.
+      163.196 Aggravated driving while suspended or revoked. (1) A person commits the crime of aggravated driving while suspended or revoked if the person operates a motor vehicle that causes serious physical injury to, or the death of, another person while knowingly violating ORS 811.175 or 811.182, if the suspension or revocation resulted from, or if the hardship permit violated is based upon a suspension or revocation that resulted from, a conviction for a criminal offense involving the use of a motor vehicle.
 
       (2) Aggravated driving while suspended or revoked is a Class C felony.
 
-      (3) The Oregon Criminal Justice Commission shall classify aggravated driving while suspended or revoked as crime category 7 of the sentencing guidelines grid of the commission. [2009 c.783 §5]
+      (3) The Oregon Criminal Justice Commission shall classify aggravated driving while suspended or revoked as crime category 7 of the sentencing guidelines grid of the commission. [2009 c.783 §5; 2018 c.76 §3]
 
  
 
@@ -1323,7 +1359,7 @@ ASSAULT AND RELATED OFFENSES
 
       163.206 Exceptions to criminal mistreatment. ORS 163.200 and 163.205 do not apply:
 
-      (1) To a person acting pursuant to a court order, an advance directive or a power of attorney for health care pursuant to ORS 127.505 to 127.660 or a POLST, as defined in ORS 127.663;
+      (1) To a person acting pursuant to a court order, an advance directive or a form for appointing a health care representative pursuant to ORS 127.505 to 127.660 or a POLST, as defined in ORS 127.663;
 
       (2) To a person withholding or withdrawing life-sustaining procedures or artificially administered nutrition and hydration pursuant to ORS 127.505 to 127.660;
 
@@ -1331,7 +1367,7 @@ ASSAULT AND RELATED OFFENSES
 
       (4) To a person who provides an elderly person or a dependent person who is at least 18 years of age with spiritual treatment through prayer from a duly accredited practitioner of spiritual treatment as provided in ORS 124.095, in lieu of medical treatment, in accordance with the tenets and practices of a recognized church or religious denomination of which the elderly or dependent person is a member or an adherent; or
 
-      (5) To a duly accredited practitioner of spiritual treatment as provided in ORS 124.095. [1993 c.364 §3; 1995 c.79 §51; 1999 c.954 §5; 2009 c.595 §1190; 2011 c.291 §4]
+      (5) To a duly accredited practitioner of spiritual treatment as provided in ORS 124.095. [1993 c.364 §3; 1995 c.79 §51; 1999 c.954 §5; 2009 c.595 §1190; 2011 c.291 §4; 2018 c.36 §28]
 
  
 
@@ -1375,9 +1411,9 @@ ASSAULT AND RELATED OFFENSES
 
       (b) “Staff member” means:
 
-      (A) A corrections officer as defined in ORS 181A.355, a youth correction officer, a Department of Corrections or Oregon Youth Authority staff member or a person employed pursuant to a contract with the department or youth authority to work with, or in the vicinity of, inmates or youth offenders; and
+      (A) A corrections officer as defined in ORS 181A.355, a youth correction officer, a Department of Corrections or Oregon Youth Authority staff member or a person employed pursuant to a contract with the department or youth authority to work with, or in the vicinity of, adults in custody or youth offenders; and
 
-      (B) A volunteer authorized by the department, youth authority or other entity in charge of a corrections facility to work with, or in the vicinity of, inmates or youth offenders. [1981 c.783 §2; 1993 c.14 §21; 1993 c.358 §1; 1995 c.651 §4; 1999 c.1040 §14; 2001 c.104 §51; 2001 c.828 §1; 2003 c.327 §1]
+      (B) A volunteer authorized by the department, youth authority or other entity in charge of a corrections facility to work with, or in the vicinity of, adults in custody or youth offenders. [1981 c.783 §2; 1993 c.14 §21; 1993 c.358 §1; 1995 c.651 §4; 1999 c.1040 §14; 2001 c.104 §51; 2001 c.828 §1; 2003 c.327 §1; 2019 c.213 §120]
 
  
 
@@ -1665,7 +1701,7 @@ SEXUAL OFFENSES
 
  
 
-      Note: Legislative Counsel has substituted “chapter 743, Oregon Laws 1971,” for the words “this Act” in section 104, chapter 743, Oregon Laws 1971, compiled as 163.305. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1971 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 743, Oregon Laws 1971,” for the words “this Act” in section 104, chapter 743, Oregon Laws 1971, compiled as 163.305. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1971 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1995,7 +2031,7 @@ SEXUAL OFFENSES
 
       (B) Confined or detained in a correctional facility;
 
-      (C) Participating in an inmate or offender work crew or work release program; or
+      (C) Participating in an adult in custody or offender work crew or work release program; or
 
       (D) On probation, parole, post-prison supervision or other form of conditional or supervised release; and
 
@@ -2013,7 +2049,7 @@ SEXUAL OFFENSES
 
       (3) Lack of supervisory authority over the other person is an affirmative defense to a prosecution under this section when the other person is on probation, parole, post-prison supervision or other form of conditional or supervised release.
 
-      (4) Custodial sexual misconduct in the first degree is a Class C felony. [2005 c.488 §3; 2017 c.318 §9]
+      (4) Custodial sexual misconduct in the first degree is a Class C felony. [2005 c.488 §3; 2017 c.318 §9; 2019 c.213 §41]
 
  
 
@@ -2025,7 +2061,7 @@ SEXUAL OFFENSES
 
       (B) Confined or detained in a correctional facility;
 
-      (C) Participating in an inmate or offender work crew or work release program; or
+      (C) Participating in an adult in custody or offender work crew or work release program; or
 
       (D) On probation, parole, post-prison supervision or other form of conditional or supervised release; and
 
@@ -2043,7 +2079,7 @@ SEXUAL OFFENSES
 
       (3) Lack of supervisory authority over the other person is an affirmative defense to a prosecution under this section when the other person is on probation, parole, post-prison supervision or other form of conditional or supervised release.
 
-      (4) Custodial sexual misconduct in the second degree is a Class A misdemeanor. [2005 c.488 §4]
+      (4) Custodial sexual misconduct in the second degree is a Class A misdemeanor. [2005 c.488 §4; 2019 c.213 §42]
 
  
 
@@ -2059,13 +2095,15 @@ SEXUAL OFFENSES
 
       (a) An act of sexual intercourse;
 
-      (b) An act of oral or anal sexual intercourse; or
+      (b) An act of oral or anal sexual intercourse;
 
-      (c) An act of exposing the genitals of the person with the intent of arousing the sexual desire of the person or another person.
+      (c) Masturbation; or
+
+      (d) An act of exposing the genitals of the person with the intent of arousing the sexual desire of the person or another person.
 
       (2)(a) Public indecency is a Class A misdemeanor.
 
-      (b) Notwithstanding paragraph (a) of this subsection, public indecency is a Class C felony if the person has a prior conviction for public indecency or a crime described in ORS 163.355 to 163.445 or for a crime in another jurisdiction that, if committed in this state, would constitute public indecency or a crime described in ORS 163.355 to 163.445. [1971 c.743 §120; 1999 c.962 §1; 2005 c.434 §1; 2017 c.318 §10]
+      (b) Notwithstanding paragraph (a) of this subsection, public indecency is a Class C felony if the person has a prior conviction for public indecency or a crime described in ORS 163.355 to 163.445 or for a crime in another jurisdiction that, if committed in this state, would constitute public indecency or a crime described in ORS 163.355 to 163.445. [1971 c.743 §120; 1999 c.962 §1; 2005 c.434 §1; 2017 c.318 §10; 2019 c.65 §1]
 
  
 
@@ -2101,7 +2139,7 @@ SEXUAL OFFENSES
 
       163.472 Unlawful dissemination of an intimate image. (1) A person commits the crime of unlawful dissemination of an intimate image if:
 
-      (a) The person, with the intent to harass, humiliate or injure another person, knowingly causes to be disclosed through an Internet website an identifiable image of the other person whose intimate parts are visible or who is engaged in sexual conduct;
+      (a) The person, with the intent to harass, humiliate or injure another person, knowingly causes to be disclosed an identifiable image of the other person whose intimate parts are visible or who is engaged in sexual conduct;
 
       (b) The person knows or reasonably should have known that the other person does not consent to the disclosure;
 
@@ -2117,15 +2155,17 @@ SEXUAL OFFENSES
 
       (a) “Disclose” includes, but is not limited to, transfer, publish, distribute, exhibit, advertise and offer.
 
-      (b) “Image” includes, but is not limited to, a photograph, film, videotape, recording, digital picture and other visual reproduction, regardless of the manner in which the image is stored.
+      (b) “Identifiable” means that a reasonable person would be able to recognize the individual depicted in the image as the other person.
 
-      (c) “Information content provider” has the meaning given that term in 47 U.S.C. 230(f).
+      (c) “Image” includes, but is not limited to, a photograph, film, videotape, recording, digital picture and other visual reproduction, regardless of the manner in which the image is stored.
 
-      (d) “Interactive computer service” has the meaning given that term in 47 U.S.C. 230(f).
+      (d) “Information content provider” has the meaning given that term in 47 U.S.C. 230(f).
 
-      (e) “Intimate parts” means uncovered human genitals, pubic areas or female nipples.
+      (e) “Interactive computer service” has the meaning given that term in 47 U.S.C. 230(f).
 
-      (f) “Sexual conduct” means sexual intercourse or oral or anal sexual intercourse, as those terms are defined in ORS 163.305, or masturbation.
+      (f) “Intimate parts” means uncovered human genitals, pubic areas or female nipples.
+
+      (g) “Sexual conduct” means sexual intercourse or oral or anal sexual intercourse, as those terms are defined in ORS 163.305, or masturbation.
 
       (4) This section does not apply to:
 
@@ -2145,7 +2185,7 @@ SEXUAL OFFENSES
 
       (B) Originally created for a commercial purpose with the consent of the other person; or
 
-      (g) The provider of an interactive computer service for an image of intimate parts provided by an information content provider. [2015 c.379 §1; 2017 c.318 §11]
+      (g) The provider of an interactive computer service for an image of intimate parts provided by an information content provider. [2015 c.379 §1; 2017 c.318 §11; 2019 c.304 §1]
 
  
 
@@ -2161,7 +2201,7 @@ SEXUAL OFFENSES
 
       (a)(A) Has been designated a sexually violent dangerous offender under ORS 137.765;
 
-      (B) Has been classified as a level three sex offender under ORS 163A.100 (3), is an unclassified adult sex offender designated as predatory prior to January 1, 2014, or is a person whom the State Board of Parole and Post-Prison Supervision or the Psychiatric Security Review Board has classified as a level three sex offender under section 7 (2)(b), chapter 708, Oregon Laws 2013, and does not have written approval from the State Board of Parole and Post-Prison Supervision or the person’s supervisory authority or supervising officer to be in or upon the specific premises;
+      (B) Has been classified as a level three sex offender under ORS 163A.100 (3) or is an unclassified adult sex offender designated as predatory prior to January 1, 2014, and does not have written approval from the State Board of Parole and Post-Prison Supervision or the person’s supervisory authority or supervising officer to be in or upon the specific premises;
 
       (C) Has been sentenced as a dangerous offender under ORS 161.725 upon conviction of a sex crime; or
 
@@ -2175,35 +2215,11 @@ SEXUAL OFFENSES
 
       (b) “Sex crime” has the meaning given that term in ORS 163A.005.
 
-      (3) Unlawfully being in a location where children regularly congregate is a Class A misdemeanor. [2005 c.811 §1; 2013 c.708 §12; 2015 c.820 §17; 2017 c.442 §34]
+      (3) Unlawfully being in a location where children regularly congregate is a Class A misdemeanor. [2005 c.811 §1; 2013 c.708 §12; 2015 c.820 §§17,24; 2017 c.442 §34; 2019 c.430 §5]
 
  
 
-Note 1: The amendments to 163.476 by section 34, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      163.476. (1) A person commits the crime of unlawfully being in a location where children regularly congregate if the person:
-
-      (a)(A) Has been designated a sexually violent dangerous offender under ORS 137.765;
-
-      (B) Has been classified as a level three sex offender under ORS 163A.100 (3), is an unclassified adult sex offender designated as predatory prior to January 1, 2014, or is a person whom the State Board of Parole and Post-Prison Supervision, the Psychiatric Security Review Board or the Oregon Health Authority has classified as a level three sex offender under section 7 (2)(b), chapter 708, Oregon Laws 2013, and does not have written approval from the State Board of Parole and Post-Prison Supervision or the person’s supervisory authority or supervising officer to be in or upon the specific premises;
-
-      (C) Has been sentenced as a dangerous offender under ORS 161.725 upon conviction of a sex crime; or
-
-      (D) Has been given a similar designation or been sentenced under a similar law of another jurisdiction; and
-
-      (b) Knowingly enters or remains in or upon premises where persons under 18 years of age regularly congregate.
-
-      (2) As used in this section:
-
-      (a) “Premises where persons under 18 years of age regularly congregate” means schools, child care centers, playgrounds, other places intended for use primarily by persons under 18 years of age and places where persons under 18 years of age gather for regularly scheduled educational and recreational programs.
-
-      (b) “Sex crime” has the meaning given that term in ORS 163A.005.
-
-      (3) Unlawfully being in a location where children regularly congregate is a Class A misdemeanor.
-
- 
-
-Note 2: The amendments to 163.476 by section 24, chapter 820, Oregon Laws 2015, become operative January 1, 2019. See section 26, chapter 820, Oregon Laws 2015. The text that is operative on and after January 1, 2019, is set forth for the user’s convenience.
+      Note: The amendments to 163.476 by section 9, chapter 430, Oregon Laws 2019, become operative January 1, 2022. See section 21, chapter 430, Oregon Laws 2019. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
 
       163.476. (1) A person commits the crime of unlawfully being in a location where children regularly congregate if the person:
 
@@ -2227,7 +2243,7 @@ Note 2: The amendments to 163.476 by section 24, chapter 820, Oregon Laws 2015, 
 
  
 
-Note 3: 163.476 and 163.479 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 163 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 163.476 and 163.479 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 163 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -2241,7 +2257,7 @@ Note 3: 163.476 and 163.479 were enacted into law by the Legislative Assembly bu
 
       (B) Has been classified as a level three sex offender under ORS 163A.100 (3);
 
-      (C) Is an unclassified adult sex offender designated as predatory prior to January 1, 2014, or a person whom the State Board of Parole and Post-Prison Supervision or the Psychiatric Security Review Board has classified as a level three sex offender under section 7 (2)(b), chapter 708, Oregon Laws 2013;
+      (C) Is an unclassified adult sex offender designated as predatory prior to January 1, 2014;
 
       (D) Has been sentenced as a dangerous offender under ORS 161.725 upon conviction of a sex crime; or
 
@@ -2257,39 +2273,11 @@ Note 3: 163.476 and 163.479 were enacted into law by the Legislative Assembly bu
 
       (c) “Sex crime” has the meaning given that term in ORS 163A.005.
 
-      (3) Unlawful contact with a child is a Class C felony. [2005 c.811 §2; 2013 c.708 §13; 2015 c.820 §18; 2017 c.442 §35]
+      (3) Unlawful contact with a child is a Class C felony. [2005 c.811 §2; 2013 c.708 §13; 2015 c.820 §§18,25; 2017 c.442 §35; 2019 c.430 §6]
 
  
 
-Note 1: The amendments to 163.479 by section 35, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      163.479. (1) A person commits the crime of unlawful contact with a child if the person:
-
-      (a)(A) Has been designated a sexually violent dangerous offender under ORS 137.765;
-
-      (B) Has been classified as a level three sex offender under ORS 163A.100 (3);
-
-      (C) Is an unclassified adult sex offender designated as predatory prior to January 1, 2014, or a person whom the State Board of Parole and Post-Prison Supervision, the Psychiatric Security Review Board or the Oregon Health Authority has classified as a level three sex offender under section 7 (2)(b), chapter 708, Oregon Laws 2013;
-
-      (D) Has been sentenced as a dangerous offender under ORS 161.725 upon conviction of a sex crime; or
-
-      (E) Has been given a similar designation or been sentenced under a similar law of another jurisdiction; and
-
-      (b) Knowingly contacts a child with the intent to commit a crime or for the purpose of arousing or satisfying the sexual desires of the person or another person.
-
-      (2) As used in this section:
-
-      (a) “Child” means a person under 18 years of age.
-
-      (b) “Contact” means to communicate in any manner.
-
-      (c) “Sex crime” has the meaning given that term in ORS 163A.005.
-
-      (3) Unlawful contact with a child is a Class C felony.
-
- 
-
-Note 2: The amendments to 163.479 by section 25, chapter 820, Oregon Laws 2015, become operative January 1, 2019. See section 26, chapter 820, Oregon Laws 2015. The text that is operative on and after January 1, 2019, is set forth for the user’s convenience.
+      Note: The amendments to 163.479 by section 10, chapter 430, Oregon Laws 2019, become operative January 1, 2022. See section 21, chapter 430, Oregon Laws 2019. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
 
       163.479. (1) A person commits the crime of unlawful contact with a child if the person:
 
@@ -2315,7 +2303,7 @@ Note 2: The amendments to 163.479 by section 25, chapter 820, Oregon Laws 2015, 
 
  
 
-Note 3: See note 3 under 163.476.
+      Note: See second note under 163.476.
 
  
 
@@ -2849,7 +2837,7 @@ MISCELLANEOUS
 
       (a) Aggravated murder under ORS 163.095;
 
-      (b) Murder under ORS 163.115;
+      (b) Murder in any degree under ORS 163.107 or 163.115;
 
       (c) Manslaughter in any degree under ORS 163.118 or 163.125;
 
@@ -2861,7 +2849,7 @@ MISCELLANEOUS
 
       (g) Assaulting a public safety officer under ORS 163.208; or
 
-      (h) Intimidation in any degree under ORS 166.155 or 166.165. [1999 c.870 §1; 2009 c.78 §57]
+      (h) A bias crime in any degree under ORS 166.155 or 166.165. [1999 c.870 §1; 2009 c.78 §57; 2019 c.553 §14; 2019 c.635 §20]
 
  
 
@@ -3271,7 +3259,9 @@ ______________________________________________________________________________
 
  
 
-SEXUAL ABUSE RESTRAINING ORDERS
+SEXUAL ABUSE
+
+RESTRAINING ORDERS
 
  
 
@@ -3307,19 +3297,11 @@ SEXUAL ABUSE RESTRAINING ORDERS
 
       (A) The petitioner reasonably fears for the petitioner’s physical safety with respect to the respondent; and
 
-      (B) The respondent subjected the petitioner to sexual abuse within the 180 days preceding the filing of the petition.
+      (B) The respondent subjected the petitioner to sexual abuse.
 
       (c) The petition must include allegations made under oath or affirmation or a declaration under penalty of perjury.
 
-      (d) The petitioner has the burden of proving a claim under ORS 163.760 to 163.777 by a preponderance of the evidence.
-
-      (3) The following periods of time may not be counted for the purpose of computing the 180-day period described in this section and ORS 163.765:
-
-      (a) Any time during which the respondent is incarcerated.
-
-      (b) Any time during which the respondent has a principal residence more than 100 miles from the principal residence of the petitioner.
-
-      (c) Any time during which the respondent is subject to an order described in subsection (1)(c) of this section. [2013 c.687 §2; 2015 c.121 §22]
+      (d) The petitioner has the burden of proving a claim under ORS 163.760 to 163.777 by a preponderance of the evidence. [2013 c.687 §2; 2015 c.121 §22; 2019 c.353 §1]
 
  
 
@@ -3327,7 +3309,7 @@ SEXUAL ABUSE RESTRAINING ORDERS
 
  
 
-      163.765 Restraining order; service of order; request for hearing. (1) When a petition is filed in accordance with ORS 163.763, the circuit court shall hold an ex parte hearing in person or by telephone on the day the petition is filed or on the following judicial day. Upon a finding that it is objectively reasonable for a person in the petitioner’s situation to fear for the person’s physical safety if an order granting relief under ORS 163.760 to 163.777 is not entered and that the respondent has subjected the petitioner to sexual abuse within the 180 days preceding the filing of the petition, the circuit court:
+      163.765 Restraining order; service of order; request for hearing; duration of order. (1) When a petition is filed in accordance with ORS 163.763, the circuit court shall hold an ex parte hearing in person or by telephone on the day the petition is filed or on the following judicial day. Upon a finding that it is objectively reasonable for a person in the petitioner’s situation to fear for the person’s physical safety if an order granting relief under ORS 163.760 to 163.777 is not entered and that the respondent has subjected the petitioner to sexual abuse, the circuit court:
 
       (a) Shall enter an order restraining the respondent from contacting the petitioner and from intimidating, molesting, interfering with or menacing the petitioner, or attempting to intimidate, molest, interfere with or menace the petitioner.
 
@@ -3353,11 +3335,13 @@ SEXUAL ABUSE RESTRAINING ORDERS
 
       (b) The county sheriff shall serve the respondent personally unless the petitioner elects to have the respondent served personally by another party. Proof of service shall be made in accordance with ORS 163.773. When the restraining order does not contain the respondent’s date of birth and service is effected by the sheriff, the sheriff shall verify the respondent’s date of birth with the respondent and shall record that date on the restraining order or proof of service entered into the Law Enforcement Data System under ORS 163.773.
 
-      (5) If the county sheriff:
+      (5)(a) If the county sheriff:
 
-      (a) Determines that the restraining order and petition are incomplete, the sheriff shall return the restraining order and petition to the clerk of the court. The clerk of the court shall notify the petitioner, at the address provided by the petitioner, of the error or omission.
+      (A) Determines that the restraining order and petition are incomplete, the sheriff shall return the restraining order and petition to the clerk of the court. The clerk of the court shall notify the petitioner, at the address provided by the petitioner, of the error or omission.
 
-      (b) Cannot complete service within 10 days after accepting the restraining order and petition, the sheriff shall notify the petitioner, at the address provided by the petitioner, that the documents have not been served. If the petitioner does not respond within 10 days, the sheriff shall hold the restraining order and petition for future service and file a return to the clerk of the court showing that service was not completed.
+      (B) Cannot complete service within 10 days after accepting the restraining order and petition, the sheriff shall notify the petitioner, at the address provided by the petitioner, that the documents have not been served. If the petitioner does not respond within 10 days, the sheriff shall hold the restraining order and petition for future service and file a return to the clerk of the court showing that service was not completed.
+
+      (b) If a petitioner receives notice of incomplete service under paragraph (a)(B) of this subsection and cannot effect service on the respondent within 30 days after the granting or renewal of the restraining order, the circuit court may order service by an alternative method in accordance with ORCP 7 D(6) on proof of the petitioner’s due diligence in attempting to effect service.
 
       (6)(a) Within 30 days after a restraining order is served under this section, the respondent may request a circuit court hearing upon any relief granted.
 
@@ -3365,7 +3349,17 @@ SEXUAL ABUSE RESTRAINING ORDERS
 
       (7) If the respondent fails to request a hearing within 30 days after a restraining order is served, the restraining order is confirmed by operation of law.
 
-      (8) A restraining order entered under this section is effective for a period of one year, unless the restraining order is renewed, modified or terminated in accordance with ORS 163.760 to 163.777. [2013 c.687 §3]
+      (8)(a) A restraining order entered under this section is effective for a period of five years or, if the petitioner is under 18 years of age at the time of entry, until the person attains 19 years of age, whichever occurs later, except as otherwise provided in paragraph (b) or (c) of this subsection or unless the restraining order is renewed, modified or terminated in accordance with ORS 163.760 to 163.777.
+
+      (b) The circuit court shall enter a permanent restraining order if, at the time of the petition or renewal of the order, the respondent has been convicted of a crime described in ORS 163.355 to 163.445 committed against the petitioner.
+
+      (c) The circuit court may enter a permanent restraining order if the court finds that it is objectively reasonable for a person in the petitioner’s situation to fear for the person’s physical safety and that the passage of time or a change in circumstances would not dissipate that fear. In making the finding, the court shall consider any information offered by the petitioner to support the request for a permanent restraining order, including but not limited to:
+
+      (A) Information that the respondent has a history of engaging in sexual abuse or domestic violence as defined in ORS 135.230;
+
+      (B) If the petitioner is a minor, the fact that the respondent is related to the petitioner by blood or marriage; or
+
+      (C) Any vulnerability of the petitioner that is not likely to change over time. [2013 c.687 §3; 2019 c.353 §2]
 
  
 
@@ -3397,7 +3391,7 @@ ______________________________________________________________________________
 
       (4) The circuit court may approve a consent agreement if the court determines that the agreement provides sufficient protections to the petitioner. The circuit court may not approve a term in a consent agreement that provides for restraint of a party to the agreement unless the other party petitioned for and was granted a restraining order issued under ORS 163.765.
 
-      (5) A restraining order entered under this section, or a consent agreement entered into under this section, shall continue for a period of one year from the date of the restraining order issued under ORS 163.765, unless the restraining order is renewed, modified or terminated in accordance with ORS 163.775. [2013 c.687 §4]
+      (5) A restraining order entered under this section, or a consent agreement entered into under this section, shall continue for a period of five years from the date of the restraining order issued under ORS 163.765 or, if the petitioner is under 18 years of age at the time of issuance, until the petitioner attains 19 years of age, whichever occurs later, unless the court enters a permanent order under ORS 163.765 (8) or the restraining order is renewed, modified or terminated in accordance with ORS 163.775. [2013 c.687 §4; 2019 c.353 §3]
 
  
 

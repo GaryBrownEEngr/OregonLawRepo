@@ -217,11 +217,19 @@ REQUIREMENTS RELATING TO SALES
 
  
 
-689.555     Agricultural drugs, nonprescription drugs and certain other substances
+689.555     Agricultural drugs and certain other substances
 
  
 
 689.557     Disposal of marijuana item left at retail drug outlet; rules; exemption from criminal liability
+
+ 
+
+689.561     Prescription readers; compatible labels; exception; rules
+
+ 
+
+689.564     Language requirements for prescription drug labels; exceptions; interpretation and translation services; rules
 
  
 
@@ -269,7 +277,19 @@ MISCELLANEOUS
 
  
 
+689.686     Notice of availability of naloxone; rules
+
+ 
+
 689.689     Prescription and administration or dispensation of certain contraceptives; rules; insurance coverage
+
+ 
+
+689.692     Dispensation of prescription drug containing cannabinoids; rules
+
+ 
+
+689.696     Prescription and dispensation of emergency refills of insulin; limitations; requirements; rules
 
  
 
@@ -314,8 +334,6 @@ PENALTIES
  
 
 689.995     Criminal penalties
-
- 
 
  
 
@@ -435,9 +453,11 @@ GENERAL PROVISIONS
 
       (j) Patient care services, including medication therapy management and comprehensive medication review;
 
-      (k) The offering or performing of those acts, services, operations or transactions necessary in the conduct, operation, management and control of pharmacy; and
+      (k) The offering or performing of those acts, services, operations or transactions necessary in the conduct, operation, management and control of pharmacy;
 
-      (L) The prescribing and administering of injectable hormonal contraceptives and the prescribing and dispensing of self-administered hormonal contraceptives pursuant to ORS 689.689.
+      (L) The prescribing and administering of injectable hormonal contraceptives and the prescribing and dispensing of self-administered hormonal contraceptives pursuant to ORS 689.689; and
+
+      (m) The prescribing and dispensing of emergency refills of insulin and associated insulin-related devices and supplies pursuant to ORS 689.696.
 
       (32) “Practitioner” means a person licensed and operating within the scope of such license to prescribe, dispense, conduct research with respect to or administer drugs in the course of professional practice or research:
 
@@ -467,7 +487,7 @@ GENERAL PROVISIONS
 
       (39) “Unit dose” means a sealed single-unit container so designed that the contents are administered to the patient as a single dose, direct from the container. Each unit dose container must bear a separate label, be labeled with the name and strength of the medication, the name of the manufacturer or distributor, an identifying lot number and, if applicable, the expiration date of the medication.
 
-      (40) “Wholesale drug outlet” means a person who imports, stores, distributes or sells for resale drugs, including legend drugs and nonprescription drugs. [1979 c.777 §5; 1983 c.402 §1; 1985 c.565 §94; 1987 c.108 §1; 1989 c.608 §1; 1991 c.682 §1; 1993 c.272 §1; 1993 c.571 §1; 1997 c.729 §1; 1999 c.350 §2; 2001 c.623 §6; 2005 c.313 §11; 2009 c.326 §1; 2009 c.756 §71; 2011 c.245 §2; 2015 c.362 §3; 2015 c.649 §4; 2017 c.289 §1; 2017 c.356 §93]
+      (40) “Wholesale drug outlet” means a person who imports, stores, distributes or sells for resale drugs, including legend drugs and nonprescription drugs. [1979 c.777 §5; 1983 c.402 §1; 1985 c.565 §94; 1987 c.108 §1; 1989 c.608 §1; 1991 c.682 §1; 1993 c.272 §1; 1993 c.571 §1; 1997 c.729 §1; 1999 c.350 §2; 2001 c.623 §6; 2005 c.313 §11; 2009 c.326 §1; 2009 c.756 §71; 2011 c.245 §2; 2015 c.362 §3; 2015 c.649 §4; 2017 c.289 §1; 2017 c.356 §93; 2019 c.95 §4]
 
  
 
@@ -1371,6 +1391,64 @@ REQUIREMENTS RELATING TO SALES
 
  
 
+      Note: The amendments to 689.505 by section 3, chapter 465, Oregon Laws 2019, become operative January 1, 2021. See section 4, chapter 465, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      689.505. (1)(a) Except as specifically provided by law and in compliance with ORS 689.564, a person may not distribute or dispense any drug without affixing to the authorized container a clear and legible label, either printed or written, bearing the name of the drug and the name and place of business of the person distributing or dispensing the drug, and any other information required by state law or rules or federal law or regulations under whose supervision the drug is delivered or dispensed.
+
+      (b) Labeling requirements regarding any drug may be changed or exemption therefrom granted by the State Board of Pharmacy in the form of a special permit if the board determines that a change or exemption is in the best interest of public health and safety.
+
+      (2)(a) A manufacturer or wholesaler subject to ORS 689.305 may not sell or otherwise distribute, or offer to sell or otherwise distribute, any drug for use in a:
+
+      (A) Parcel, package or container not bearing a label specifying the name, active ingredients or contents, quality and quantity of the drug.
+
+      (B) Misbranded parcel, package or container.
+
+      (b) A parcel, package or container is misbranded:
+
+      (A) If its labeling is false or misleading in any particular.
+
+      (B) Unless it bears a label containing the name and business address of the manufacturer, packer, distributor or wholesaler, and an accurate statement of the quantity of the drug in terms of weight, measure or numerical count, exclusive of wrappers, cartons, containers or other materials packed with such drug.
+
+      (C) In case it contains controlled substances that the board finds and by rule designates after reasonable notice and opportunity for hearing to be habit forming, unless it bears the statement “Warning--May Be Habit Forming.”
+
+      (D) Unless it bears a label with adequate directions for the safe use of the drug for specified conditions, and adequate warning against use in those pathological conditions or by children where such use may be dangerous to the health or welfare of a user.
+
+      (E) Unless it bears a label with true representations of the intended uses of the drug and no false claims or representations are made of the drug in accompanying literature or advertising.
+
+      (3) This section does not apply to parcels, packages or containers containing:
+
+      (a) Drugs prepared and packaged solely for use by a pharmacist in compounding prescriptions or for dispensing in dosage unit form upon a prescription, except that such parcels, packages or containers must bear the name and business address of the manufacturer and, if different, the name and business address of the distributor of the drug, and the legend “Caution: Federal Law Prohibits Dispensing Without Prescription” or an equivalent legend.
+
+      (b) Drugs intended solely for use in the professional diagnosis of disease, except that such parcels, packages or containers shall bear the statement “Diagnostic Reagent--For Professional Use Only.”
+
+      (c) Coloring agents, emulsifiers, excipients, flavorings, lubricants, preservatives and other like inactive ingredients used in the manufacture of drugs.
+
+      (4) The board shall by rule exempt from any labeling or packaging requirement of this section drugs that are, in accordance with the practice of the trade, to be processed, labeled or repacked in substantial quantities at establishments other than those where originally processed or packed. However, such drugs must not be adulterated or misbranded upon removal from such processing, labeling or repacking establishment.
+
+      (5) A pharmacist or pharmacy intern may not dispense, on the prescription of a practitioner, any drug without affixing to the container thereof a clear and legible label. The label may be printed or written. Except as provided in subsection (6) of this section, the pharmacist or pharmacy intern shall state or cause to be stated on the label the following:
+
+      (a) The name of the drug. If the dispensed drug does not have a brand name, the prescription label shall indicate the generic name of the drug dispensed along with the name of the drug distributor or manufacturer, its quantity per unit and the directions for its use stated in the prescription. However, if the drug is a compound, the quantity per unit need not be stated.
+
+      (b) The name of the practitioner prescribing the drug.
+
+      (c) The name and place of business of the pharmacist or the name and place of business of the pharmacy for which the pharmacist or pharmacy intern is acting.
+
+      (d) The name of the patient, unless the drug is prescribed to a partner of a patient as defined in ORS 676.350 in accordance with rules adopted under ORS 676.350 authorizing the practice of expedited partner therapy.
+
+      (e) When applicable and as determined by the board, an expiration date after which the patient should not use the drug.
+
+      (6) If the prescribing practitioner so directs, the prescription label may not state the name and quantity per unit of the drug.
+
+      (7) The board shall determine those drugs that must bear an expiration date under subsection (5)(e) of this section.
+
+      (8) As used in this section, “compound” means a drug containing two or more medically active ingredients.
+
+      (9) A person may not deliver or dispense any drug for use by the ultimate consumer without labeling the drug container as required in this section.
+
+      (10) In addition to the labeling requirements imposed by subsections (1) to (9) of this section, the board may impose by rule requirements for drug code imprints on solid dose legend drugs.
+
+ 
+
       689.508 Prescription records. The original record of every prescription filled by a pharmacy must be kept on file for three years at the pharmacy or as specified by State Board of Pharmacy rule. The prescription record must contain the date of the transaction and the brand name, or if the drug has no brand name, the generic name and the name of the manufacturer of any drug substituted pursuant to ORS 689.515. If the prescription may be communicated to the pharmacy by oral or electronic means, the prescription information may be recorded and stored in an electronic form that allows for ready retrieval. Prescriptions maintained in the file required under this section must be readily accessible to the board for inspection. [2003 c.103 §2; 2009 c.756 §80]
 
  
@@ -1561,7 +1639,7 @@ REQUIREMENTS RELATING TO SALES
 
  
 
-      689.555 Agricultural drugs, nonprescription drugs and certain other substances. (1) Nothing in this chapter prohibits the sale by any person of agricultural or garden spray, sheep dip, blue stone, copperas, squirrel poison, fly paper, ant poison, gopher poison, insect powder, poultry vermifuge and arsenic sprays when they are in original unbroken packages, prepared and labeled with official poison labels and showing antidotes.
+      689.555 Agricultural drugs and certain other substances. (1) Nothing in this chapter prohibits the sale by any person of agricultural or garden spray, sheep dip, blue stone, copperas, squirrel poison, fly paper, ant poison, gopher poison, insect powder, poultry vermifuge and arsenic sprays when they are in original unbroken packages, prepared and labeled with official poison labels and showing antidotes.
 
       (2) Nothing in this chapter requires or authorizes the licensing or regulation of the sale of economic poisons, which includes any substance or mixture of substances intended to be used for preventing, destroying, repelling or mitigating any and all insects, fungi, weeds, parasites, or other plant or animal pest, collectively or individually, which may infest or be detrimental to vegetation or any domestic animal or fowl life. [1979 c.777 §40; 1985 c.565 §112]
 
@@ -1580,6 +1658,60 @@ REQUIREMENTS RELATING TO SALES
  
 
       689.560 [Amended by 1969 c.514 §42; repealed by 1977 c.842 §45 and 1979 c.777 §59]
+
+ 
+
+      689.561 Prescription readers; compatible labels; exception; rules. (1) As used in this section:
+
+      (a) “Person who is blind” means a person who is:
+
+      (A) Visually impaired;
+
+      (B) Print disabled; or
+
+      (C) A person who is blind as that term is defined in ORS 346.510.
+
+      (b) “Prescription reader” means a device that is designed to audibly convey the information contained on the label of a prescription drug.
+
+      (2) Except as provided in subsection (4) of this section, a pharmacy shall notify each person to whom a prescription drug is dispensed that a prescription reader is available to the person upon request. If a person informs the pharmacy that the person identifies as a person who is blind, the pharmacy shall provide to the person a prescription reader that is:
+
+      (a) Available to the person for at least the duration of the prescription; and
+
+      (b) Appropriate to address the person’s visual impairment.
+
+      (3) A pharmacy that provides a prescription reader under subsection (2) of this section shall ensure that the prescription label is compatible with the prescription reader.
+
+      (4) The requirements of this section do not apply to prescription drugs dispensed by an institutional drug outlet.
+
+      (5) The State Board of Pharmacy shall adopt rules to carry out this section. [2019 c.438 §2]
+
+ 
+
+      689.564 Language requirements for prescription drug labels; exceptions; interpretation and translation services; rules. (1) The State Board of Pharmacy shall adopt rules to require that, if a patient is of limited English proficiency and the prescribing practitioner, patient or an authorized representative of the patient so requests, a prescription drug dispensed by a pharmacy bear a label in both English and in the language requested and, if authorized by the board by rule, include an informational insert in both English and the language requested. The rules adopted under this section must:
+
+      (a) Define “limited English proficiency.”
+
+      (b) Determine the pharmacies to which the requirements of this section apply, and include at least retail drug outlets and other drug outlets that dispense prescription drugs.
+
+      (c) Determine for which prescription drugs it is appropriate to include an informational insert in addition to the label. In adopting rules under this paragraph, the board shall consider the complexity and length of the directions for use of the prescription drug.
+
+      (d)(A) Require that labels and informational inserts be available in at least 14 languages other than English that are spoken in Oregon by individuals who are of limited English proficiency, as determined by the most recent American Community Survey from the United States Census Bureau and in consultation with the Oregon Health Authority and other necessary resources.
+
+      (B) Require the board to reassess, and update as necessary, the languages described in this paragraph at least once every 10 years, in consultation with the authority and other stakeholders.
+
+      (2)(a) A pharmacy may contract with a third party for the translation of the labels and informational inserts required under subsection (1) of this section.
+
+      (b) A pharmacy, pharmacist or pharmacy intern that dispenses a prescription drug in compliance with the requirements of subsection (1) of this section may not be held liable for injuries resulting from the actions of a third party if the pharmacy from which the label or informational insert was dispensed entered into a contract with the third party in good faith, and the pharmacy, pharmacist or pharmacy intern was not negligent with regard to the alleged misconduct of the third party.
+
+      (3) This section does not apply to an institutional drug outlet.
+
+      (4) The board may adopt other rules as necessary to carry out this section.
+
+      (5) The board shall, in consultation with the Oregon Health Authority, adopt rules to require that a pharmacy post signage to provide notification of the right to free, competent oral interpretation and translation services for patients who are of limited English proficiency. Rules adopted under this subsection must comply with any relevant federal laws and regulations. [2019 c.465 §2]
+
+ 
+
+      Note: 689.564 becomes operative January 1, 2021. See section 4, chapter 465, Oregon Laws 2019.
 
  
 
@@ -1679,7 +1811,7 @@ MISCELLANEOUS
 
       (2) The board may adopt rules allowing a pharmacist to prescribe vaccines, provide patient care services and submit protocol concepts under subsection (1) of this section. The rules related to the prescription of vaccines may be only as broad as necessary to enable pharmacists to enroll and participate in the Vaccines for Children Program administered by the Centers for Disease Control and Prevention.
 
-      (3) The board is authorized to issue, to licensed pharmacists who have completed training accredited by the Centers for Disease Control and Prevention, the American Council on Pharmaceutical Education or a similar health authority or professional body, certificates of special competency in the prescription and administration of vaccines.
+      (3) The board is authorized to issue, to licensed pharmacists who have completed training accredited by the Centers for Disease Control and Prevention, the Accreditation Council for Pharmacy Education or a similar health authority or professional body, certificates of special competency in the prescription and administration of vaccines.
 
       (4) The board shall adopt rules relating to the reporting of the prescription and administration of vaccines to a patient’s primary health care provider and to the Oregon Health Authority.
 
@@ -1771,7 +1903,9 @@ MISCELLANEOUS
 
       689.681 Opiate overdose; treatments; administration of naloxone; rules. (1) As used in this section:
 
-      (a) “Opiate” means a narcotic drug that contains:
+      (a) “Kit” means a dose of naloxone and the necessary medical supplies to administer the naloxone.
+
+      (b) “Opiate” means a narcotic drug that contains:
 
       (A) Opium;
 
@@ -1779,27 +1913,33 @@ MISCELLANEOUS
 
       (C) Any synthetic or semisynthetic drug with opium-like effects.
 
-      (b) “Opiate overdose” means a medical condition that causes depressed consciousness and mental functioning, decreased movement, depressed respiratory function and the impairment of the vital functions as a result of ingesting opiates in an amount larger than can be physically tolerated.
+      (c) “Opiate overdose” means a medical condition that causes depressed consciousness and mental functioning, decreased movement, depressed respiratory function and the impairment of the vital functions as a result of ingesting opiates in an amount larger than can be physically tolerated.
 
-      (2) Notwithstanding any other provision of law, a pharmacy, a health care professional or a pharmacist with prescription and dispensing privileges or any other person designated by the State Board of Pharmacy by rule may distribute and administer naloxone and distribute the necessary medical supplies to administer the naloxone.
+      (2) Notwithstanding any other provision of law, a pharmacy, a health care professional or a pharmacist with prescription and dispensing privileges or any other person designated by the State Board of Pharmacy by rule may distribute and administer naloxone and distribute the necessary medical supplies to administer the naloxone. The pharmacy, health care professional or pharmacist may also distribute multiple kits to social service agencies under ORS 689.684 or to other persons who work with individuals who have experienced an opiate overdose. The social services agencies or other persons may redistribute the kits to individuals likely to experience an opiate overdose or to family members of the individuals.
 
-      (3) A person acting in good faith, if the act does not constitute wanton misconduct, is immune from civil liability for any act or omission of an act committed during the course of distributing and administering naloxone and distributing the necessary medical supplies to administer the naloxone under this section. [2013 c.340 §2; 2016 c.100 §2; 2017 c.683 §1]
-
- 
-
-      689.682 Prescription of naloxone. In accordance with rules adopted by the State Board of Pharmacy under ORS 689.205, a pharmacist may prescribe naloxone and the necessary medical supplies to administer the naloxone. [2016 c.100 §4; 2017 c.683 §2]
+      (3) A person acting in good faith, if the act does not constitute wanton misconduct, is immune from civil liability for any act or omission of an act committed during the course of distributing and administering naloxone and distributing the necessary medical supplies to administer the naloxone under this section. [2013 c.340 §2; 2016 c.100 §2; 2017 c.683 §1; 2019 c.470 §8]
 
  
 
-      689.683 [2015 c.649 §2; 2017 c.289 §2; renumbered 689.689 in 2017]
+      689.682 Prescription of naloxone. (1) In accordance with rules adopted by the State Board of Pharmacy under ORS 689.205, a pharmacist may prescribe naloxone and the necessary medical supplies to administer the naloxone.
+
+      (2) If a prescription is presented to a pharmacist for dispensing an opiate or opioid in excess of a morphine equivalent dose established by rule by the board, the pharmacist may offer to prescribe and provide, in addition to the prescribed opiate or opioid, a naloxone kit consisting of a dose of naloxone and the necessary medical supplies to administer the naloxone. [2016 c.100 §4; 2017 c.683 §2; 2019 c.470 §9]
+
+ 
+
+      689.683 [2015 c.649 §2; 2015 c.649 §3; 2017 c.289 §§2,3; renumbered 689.689 in 2017]
 
  
 
       689.684 Administration of naloxone by certain persons; rules. (1) For purposes of this section, “social services agency” includes, but is not limited to, homeless shelters and crisis centers.
 
-      (2) An employee of a social services agency may administer to an individual naloxone that was not distributed to the employee if the individual appears to be experiencing an opiate overdose as defined in ORS 689.681.
+      (2) A person may administer to an individual naloxone that was not distributed to the person if:
 
-      (3) For the purposes of protecting public health and safety, the Oregon Health Authority may adopt rules for the administration of naloxone under this section. [2016 c.100 §6; 2017 c.683 §3]
+      (a) The individual to whom the naloxone is being administered appears to be experiencing an opiate overdose as defined in ORS 689.681; and
+
+      (b) The person who administers the naloxone is an employee of a social services agency or is trained under rules adopted by the State Board of Education pursuant to ORS 339.869.
+
+      (3) For the purposes of protecting public health and safety, the Oregon Health Authority may adopt rules for the administration of naloxone by employees of a social services agency under this section. [2016 c.100 §6; 2017 c.683 §3; 2019 c.375 §4]
 
  
 
@@ -1807,41 +1947,15 @@ MISCELLANEOUS
 
  
 
-      689.689 Prescription and administration or dispensation of certain contraceptives; rules; insurance coverage. (1) In accordance with rules adopted by the State Board of Pharmacy under ORS 689.205, a pharmacist may prescribe and administer injectable hormonal contraceptives and prescribe and dispense self-administered hormonal contraceptives to a person who is:
+      689.686 Notice of availability of naloxone; rules. (1) A retail or hospital outpatient pharmacy shall provide written notice in a conspicuous manner that naloxone and the necessary medical supplies to administer naloxone are available at the pharmacy.
 
-      (a) At least 18 years of age, regardless of whether the person has evidence of a previous prescription from a primary care practitioner or women’s health care practitioner for an injectable hormonal contraceptive or a self-administered hormonal contraceptive; or
-
-      (b) Under 18 years of age, only if the person has evidence of a previous prescription from a primary care practitioner or women’s health care practitioner for an injectable hormonal contraceptive or a self-administered hormonal contraceptive.
-
-      (2)(a) The board shall adopt rules to establish, in consultation with the Oregon Medical Board, the Oregon State Board of Nursing and the Oregon Health Authority, and in consideration of guidelines established by the American Congress of Obstetricians and Gynecologists, standard procedures for the prescribing of injectable hormonal contraceptives and self-administered hormonal contraceptives by pharmacists.
-
-      (b) The rules adopted under this subsection must require a pharmacist to:
-
-      (A) Complete a training program approved by the State Board of Pharmacy that is related to prescribing injectable hormonal contraceptives and self-administered hormonal contraceptives;
-
-      (B) Provide a self-screening risk assessment tool that the patient must use prior to the pharmacist’s prescribing the injectable hormonal contraceptive or self-administered hormonal contraceptive;
-
-      (C) Refer the patient to the patient’s primary care practitioner or women’s health care practitioner upon prescribing and administering the injectable hormonal contraceptive or prescribing and dispensing the self-administered hormonal contraceptive;
-
-      (D) Provide the patient with a written record of the injectable hormonal contraceptive prescribed and administered or the self-administered hormonal contraceptive prescribed and dispensed and advise the patient to consult with a primary care practitioner or women’s health care practitioner; and
-
-      (E) Administer the injectable hormonal contraceptive or dispense the self-administered hormonal contraceptive to the patient as soon as practicable after the pharmacist issues the prescription.
-
-      (c) The rules adopted under this subsection must prohibit a pharmacist from:
-
-      (A) Requiring a patient to schedule an appointment with the pharmacist for the prescribing or administering of an injectable hormonal contraceptive or the prescribing or dispensing of a self-administered hormonal contraceptive; and
-
-      (B) Prescribing and administering an injectable hormonal contraceptive or prescribing and dispensing a self-administered hormonal contraceptive to a patient who does not have evidence of a clinical visit for women’s health within the three years immediately following the initial prescription and administration of an injectable hormonal contraceptive or the initial prescription and dispensation of a self-administered hormonal contraceptive by a pharmacist to the patient.
-
-      (3) All state and federal laws governing insurance coverage of contraceptive drugs, devices, products and services shall apply to injectable hormonal contraceptives and self-administered hormonal contraceptives prescribed by a pharmacist under this section. [Formerly 689.683]
+      (2) The State Board of Pharmacy may adopt rules to carry out this section. [2019 c.470 §2]
 
  
 
-      Note: The amendments to 689.689 (formerly 689.683) by section 3, chapter 649, Oregon Laws 2015, become operative January 1, 2020. See section 6, chapter 649, Oregon Laws 2015. The text that is operative on and after January 1, 2020, including amendments by section 3, chapter 289, Oregon Laws 2017, is set forth for the user’s convenience.
+      689.689 Prescription and administration or dispensation of certain contraceptives; rules; insurance coverage. (1) In accordance with rules adopted by the State Board of Pharmacy under ORS 689.205, a pharmacist may prescribe and administer injectable hormonal contraceptives and prescribe and dispense self-administered hormonal contraceptives.
 
-      689.689 (1) In accordance with rules adopted by the State Board of Pharmacy under ORS 689.205, a pharmacist may prescribe and administer injectable hormonal contraceptives and prescribe and dispense self-administered hormonal contraceptives.
-
-      (2)(a) The board shall adopt rules to establish, in consultation with the Oregon Medical Board, the Oregon State Board of Nursing and the Oregon Health Authority, and in consideration of guidelines established by the American Congress of Obstetricians and Gynecologists, standard procedures for the prescribing of injectable hormonal contraceptives and self-administered hormonal contraceptives by pharmacists.
+      (2)(a) The board shall adopt rules to establish, in consultation with the Oregon Medical Board, the Oregon State Board of Nursing and the Oregon Health Authority, and in consideration of guidelines established by the American College of Obstetricians and Gynecologists or its successor organization, standard procedures for the prescribing of injectable hormonal contraceptives and self-administered hormonal contraceptives by pharmacists.
 
       (b) The rules adopted under this subsection must require a pharmacist to:
 
@@ -1861,7 +1975,7 @@ MISCELLANEOUS
 
       (B) Prescribing and administering an injectable hormonal contraceptive or prescribing and dispensing a self-administered hormonal contraceptive to a patient who does not have evidence of a clinical visit for women’s health within the three years immediately following the initial prescription and administration of an injectable hormonal contraceptive or the initial prescription and dispensation of a self-administered hormonal contraceptive by a pharmacist to the patient.
 
-      (3) All state and federal laws governing insurance coverage of contraceptive drugs, devices, products and services shall apply to injectable hormonal contraceptives and self-administered hormonal contraceptives prescribed by a pharmacist under this section.
+      (3) All state and federal laws governing insurance coverage of contraceptive drugs, devices, products and services apply to injectable hormonal contraceptives and self-administered hormonal contraceptives prescribed by a pharmacist under this section. [Formerly 689.683; 2019 c.13 §§65,66]
 
  
 
@@ -1869,7 +1983,73 @@ MISCELLANEOUS
 
  
 
+      689.692 Dispensation of prescription drug containing cannabinoids; rules. (1) A pharmacist may dispense to a patient, pursuant to a prescription from a practitioner, a prescription drug that is approved by the United States Food and Drug Administration and that contains one or more cannabinoids.
+
+      (2) The State Board of Pharmacy may adopt rules to carry out this section. [2019 c.391 §3]
+
+ 
+
       689.695 [1975 c.686 §7; repealed by 1977 c.842 §45 and 1979 c.777 §59]
+
+ 
+
+      689.696 Prescription and dispensation of emergency refills of insulin; limitations; requirements; rules. (1) As used in this section:
+
+      (a) “Insulin” includes various types of insulin analogs and insulin-like medications, regardless of activation period or whether the solution is mixed before or after dispensation.
+
+      (b) “Insulin-related devices and supplies”:
+
+      (A) Includes needles, syringes, cartridge systems, prefilled pen systems, glucose meters and test strips.
+
+      (B) Does not include insulin pump devices.
+
+      (2)(a) A pharmacist may prescribe and dispense emergency refills of insulin and associated insulin-related devices and supplies to a person who has evidence of a previous prescription from a licensed health care provider.
+
+      (b) The insulin prescribed and dispensed under this section must be the lesser of a 30-day supply or the smallest available package.
+
+      (c) A person may be prescribed and receive not more than three emergency refills of insulin and associated insulin-related devices and supplies in a calendar year.
+
+      (3) A pharmacist who prescribes and dispenses emergency refills of insulin and associated insulin-related devices and supplies under this section shall:
+
+      (a) Complete a training program approved by the State Board of Pharmacy that is related to prescribing emergency refills of insulin and associated insulin-related devices and supplies;
+
+      (b) Complete a patient assessment to determine whether the prescription of emergency refills of insulin and associated insulin-related devices and supplies is appropriate;
+
+      (c) Document the patient visit and include notations regarding evidence of the patient’s previous prescription from the patient’s licensed health care provider, information relating to the patient’s diabetes management and other relevant information; and
+
+      (d) Make a reasonable attempt to inform the person’s primary care provider, and the licensed health care provider who made the previous prescription, of the pharmacist’s prescription for emergency refills of insulin and associated insulin-related devices and supplies.
+
+      (4) The board shall adopt rules to carry out this section. In approving the training program described in subsection (3)(a) of this section, the board shall consult with and approve a training program accredited by the Accreditation Council for Pharmacy Education or its successor organization. [2019 c.95 §2]
+
+ 
+
+      Note: The amendments to 689.696 by section 3, chapter 95, Oregon Laws 2019, become operative January 1, 2023. See section 8, chapter 95, Oregon Laws 2019. The text that is operative on and after January 1, 2023, is set forth for the user’s convenience.
+
+      689.696. (1) As used in this section:
+
+      (a) “Insulin” includes various types of insulin analogs and insulin-like medications, regardless of activation period or whether the solution is mixed before or after dispensation.
+
+      (b) “Insulin-related devices and supplies”:
+
+      (A) Includes needles, syringes, cartridge systems, prefilled pen systems, glucose meters and test strips.
+
+      (B) Does not include insulin pump devices.
+
+      (2)(a) A pharmacist may prescribe and dispense emergency refills of insulin and associated insulin-related devices and supplies to a person who has evidence of a previous prescription from a licensed health care provider.
+
+      (b) The insulin prescribed and dispensed under this section must be the lesser of a 30-day supply or the smallest available package.
+
+      (c) A person may be prescribed and receive not more than three emergency refills of insulin and associated insulin-related devices and supplies in a calendar year.
+
+      (3) A pharmacist who prescribes and dispenses emergency refills of insulin and associated insulin-related devices and supplies under this section shall:
+
+      (a) Complete a patient assessment to determine whether the prescription of emergency refills of insulin and associated insulin-related devices and supplies is appropriate;
+
+      (b) Document the patient visit and include notations regarding evidence of the patient’s previous prescription from the patient’s licensed health care provider, information relating to the patient’s diabetes management and other relevant information; and
+
+      (c) Make a reasonable attempt to inform the person’s primary care provider, and the licensed health care provider who made the previous prescription, of the pharmacist’s prescription for emergency refills of insulin and associated insulin-related devices and supplies.
+
+      (4) The board shall adopt rules to carry out this section.
 
  
 

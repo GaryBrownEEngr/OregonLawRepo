@@ -41,6 +41,10 @@ GENERAL PROVISIONS
 
  
 
+742.008     Health savings account exemption from prohibition on deductible
+
+ 
+
 742.009     Regulation of sales material; rules
 
  
@@ -473,7 +477,7 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
  
 
-742.450     Contents of motor vehicle liability policy; permitted exclusions
+742.450     Contents of motor vehicle liability policy; permitted exclusions; rules
 
  
 
@@ -633,7 +637,7 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
  
 
-742.538     Subrogation rights of insurers to certain amounts received by claimant; recovery actions against persons causing injury
+742.538     Subrogation rights of insurers to certain amounts received by injured person; recovery actions against persons causing injury
 
  
 
@@ -645,7 +649,7 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
  
 
-742.544     Reimbursement for personal injury protection benefits paid
+742.544     Reimbursement for benefits paid
 
  
 
@@ -766,8 +770,6 @@ CANCELLATION AND NONRENEWAL OF CASUALTY OR COMMERCIAL LIABILITY POLICIES
  
 
 742.710     Exemptions from provisions of ORS 742.700 to 742.708
-
- 
 
  
 
@@ -904,6 +906,32 @@ GENERAL PROVISIONS
       (a) A form subject to an order of suspension under subsection (2) of this section, after the effective date of the order and until the director withdraws the order.
 
       (b) A form for which the director has withdrawn approval, after the effective date of such withdrawal. The effective date of withdrawal shall be as the director may prescribe but not less than 30 days after the giving of notice of withdrawal. [Formerly 743.012]
+
+ 
+
+      742.008 Health savings account exemption from prohibition on deductible. (1) As used in this section:
+
+      (a) “Health benefit plan” has the meaning given that term in ORS 743B.005.
+
+      (b) “Health savings account” means an account established under section 223 of the Internal Revenue Code.
+
+      (2) This section applies to a health benefit plan that is:
+
+      (a) Offered by a carrier as a plan that qualifies for a health savings account distribution; and
+
+      (b) Subject to a provision of the Insurance Code that prohibits a health benefit plan from applying a deductible to a specified health care service that is reimbursed by the health benefit plan.
+
+      (3) The Department of Consumer and Business Services may approve a filing under ORS 742.003 for a health benefit plan described in subsection (2) of this section if:
+
+      (a) The health benefit plan would be approved but for the failure of the plan to comply with the provision described in subsection (2)(b) of this section;
+
+      (b) A deductible must be applied to the specified health care service for the plan to qualify for a distribution from a health savings account; and
+
+      (c) The health benefit plan complies with all other applicable provisions of the Insurance Code. [2018 c.43 §3]
+
+ 
+
+      Note: 742.008 was added to and made a part of the Insurance Code by legislative action but was not added to ORS chapter 742 or any series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1337,7 +1365,7 @@ FIRE INSURANCE
 
  
 
-      742.206 Insuring agreement. A fire insurance policy shall contain provisions as follows: “In consideration of the provisions and stipulations herein or added hereto and of _____ dollars ($_____) premium this company, for the term of _____ from the _____ day of_____, 2___, to the ___ day of_____, 2___, at 12:01 a.m., at location of property involved, to an amount not exceeding _____ dollars ($_____), does insure _____ and legal representatives, to the extent of the actual cash value of the property at the time of loss, but not exceeding the amount which it would cost to repair or replace the property with material of like kind and quality within a reasonable time after such loss, without allowance for any increased cost of repair or reconstruction by reason of any ordinance or law regulating construction or repair, and without compensation for loss resulting from interruption of business or manufacture, nor in any event for more than the interest of the insured, against all direct loss by fire, lightning and by removal from premises endangered by the perils insured against in this policy, except as hereinafter provided, to the property described hereinafter while located or contained as described in this policy, or pro rata for five days at each proper place to which any of the property shall necessarily be removed for preservation from the perils insured against in this policy, but not elsewhere.
+      742.206 Insuring agreement. A fire insurance policy shall contain provisions as follows: “In consideration of the provisions and stipulations herein or added hereto and of _____ dollars ($_____) premium this company, for the term of _____ from the _____ day of _____, 2___, to the ___ day of _____, 2___, at 12:01 a.m., at location of property involved, to an amount not exceeding _____ dollars ($_____), does insure _____ and legal representatives, to the extent of the actual cash value of the property at the time of loss, but not exceeding the amount which it would cost to repair or replace the property with material of like kind and quality within a reasonable time after such loss, without allowance for any increased cost of repair or reconstruction by reason of any ordinance or law regulating construction or repair, and without compensation for loss resulting from interruption of business or manufacture, nor in any event for more than the interest of the insured, against all direct loss by fire, lightning and by removal from premises endangered by the perils insured against in this policy, except as hereinafter provided, to the property described hereinafter while located or contained as described in this policy, or pro rata for five days at each proper place to which any of the property shall necessarily be removed for preservation from the perils insured against in this policy, but not elsewhere.
 
       “Assignment of this policy shall not be valid except with the written consent of this company.
 
@@ -1350,8 +1378,6 @@ FIRE INSURANCE
 __________________
 
 Secretary.
-
- 
 
 __________________
 
@@ -2171,7 +2197,7 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
  
 
-      742.450 Contents of motor vehicle liability policy; permitted exclusions. (1) Every motor vehicle liability insurance policy issued for delivery in this state shall state the name and address of the named insured, the coverage afforded by the policy, the premium charged therefor, the policy period and the limits of liability.
+      742.450 Contents of motor vehicle liability policy; permitted exclusions; rules. (1) Every motor vehicle liability insurance policy issued for delivery in this state shall state the name and address of the named insured, the coverage afforded by the policy, the premium charged therefor, the policy period and the limits of liability.
 
       (2) Every motor vehicle liability insurance policy issued for delivery in this state shall contain an agreement or indorsement stating that, as respects bodily injury and death or property damage, or both, the insurance provides either:
 
@@ -2809,41 +2835,41 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
  
 
-      742.536 Notice of claim or legal action to insurer; insurer to elect manner of recovery of benefits furnished; lien of insurer. (1) When an authorized motor vehicle liability insurer has furnished personal injury protection benefits, or an authorized health insurer has furnished benefits, for a person injured in a motor vehicle accident, if such injured person makes claim, or institutes legal action, for damages for such injuries against any person, such injured person shall give notice of such claim or legal action to the insurer by personal service or by registered or certified mail. Service of a copy of the summons and complaint or copy of other process served in connection with such a legal action shall be sufficient notice to the insurer, in which case a return showing service of such notice shall be filed with the clerk of the court but shall not be a part of the record except to give notice.
+      742.536 Notice of claim or legal action to insurer; insurer to elect manner of recovery of benefits furnished; lien of insurer. (1) If an authorized motor vehicle liability insurer has furnished personal injury protection benefits, or an authorized health insurer has furnished benefits, to a person who was injured in a motor vehicle accident and the injured person makes a claim, or brings legal action, for damages for injuries against any other person, the injured person shall give notice of the claim or legal action to the insurer by personal service or by registered or certified mail. Service of a copy of the summons and complaint or copy of other process served in connection with the legal action is sufficient notice to the insurer, in which case a return showing service of the notice must be filed with the clerk of the court but is not a part of the record except to give notice.
 
-      (2) The insurer may elect to seek reimbursement as provided in this section for benefits it has so furnished, out of any recovery under such claim or legal action, if the insurer has not been a party to an interinsurer reimbursement proceeding with respect to such benefits under ORS 742.534 and is entitled by the terms of its policy to the benefit of this section. The insurer shall give written notice of such election within 30 days from the receipt of notice or knowledge of such claim or legal action to the person making claim or instituting legal action and to the person against whom claim is made or legal action instituted, by personal service or by registered or certified mail. In the case of a legal action, a return showing service of such notice of election shall be filed with the clerk of the court but shall not be a part of the record except to give notice to the claimant and the defendant of the lien of the insurer.
+      (2) An insurer may elect to seek reimbursement as provided in this section for benefits the insurer has furnished to the injured person out of any recovery the injured person obtains from a claim or legal action if the insurer has not been a party under ORS 742.534 to an interinsurer reimbursement proceeding with respect to benefits the insurer furnished to the injured person and the insurer is entitled by the terms of the insurer’s policy to the benefit of this section. The insurer shall give written notice of an election under this subsection by personal service or by registered or certified mail within 30 days after receiving the notice or knowledge of the claim or legal action to the person who made the claim or brought the legal action and to the person against whom the injured person made a claim or brought legal action. In the case of a legal action, a return showing service of the notice of election must be filed with the clerk of the court but is not a part of the record except to give notice to the claimant and the defendant of the lien of the insurer.
 
-      (3) If the insurer so serves such written notice of election and, where applicable, such return is so filed:
+      (3) If the insurer serves a written notice of the insurer’s election under subsection (2) of this section and, if applicable, files a return showing service:
 
-      (a) The insurer has a lien against such cause of action for benefits it has so furnished, less the proportion, not to exceed 100 percent, of expenses, costs and attorney fees incurred by the injured person in connection with the recovery that the amount of the lien before such reduction bears to the amount of the recovery.
+      (a) Subject to ORS 742.544, an insurer has a lien, for not more than the amount of benefits the insurer furnished, against an injured person’s recovery in an action for damages, less a proportionate amount of not more than 100 percent of the expenses, costs and attorney fees the injured person incurred in connection with the recovery. The proportionate amount must be calculated as the ratio between the amount of the lien before a reduction under this paragraph and the amount of the recovery.
 
-      (b) The injured person shall include as damages in such claim or legal action the benefits so furnished by the insurer.
+      (b) The injured person shall include the benefits the insurer furnished as damages in a claim or legal action.
 
-      (c) In the case of a legal action, the action shall be taken in the name of the injured person.
+      (c) In the case of a legal action, the action must be taken in the name of the injured person.
 
-      (4) As used in this section, “makes claim” or “claim” refers to a written demand made and delivered for a specific amount of damages and which meets other requirements reasonably established by the director’s rule. [Formerly 743.828]
+      (4) As used in this section, “makes a claim” means delivers a written demand for a specific amount of damages that meets requirements reasonably established by the director’s rule. [Formerly 743.828; 2019 c.460 §1]
 
  
 
-      742.538 Subrogation rights of insurers to certain amounts received by claimant; recovery actions against persons causing injury. If a motor vehicle liability insurer has furnished personal injury protection benefits, or a health insurer has furnished benefits, for a person injured in a motor vehicle accident, and the interinsurer reimbursement benefit of ORS 742.534 is not available under the terms of that section, and the insurer has not elected recovery by lien as provided in ORS 742.536, and is entitled by the terms of its policy to the benefit of this section:
+      742.538 Subrogation rights of insurers to certain amounts received by injured person; recovery actions against persons causing injury. If a motor vehicle liability insurer has furnished personal injury protection benefits, or a health insurer has furnished benefits, to a person who was injured in a motor vehicle accident and the interinsurer reimbursement benefit of ORS 742.534 is not available under the terms of that section, the insurer has not elected recovery by lien as provided in ORS 742.536, and the insurer is entitled by the terms of the insurer’s policy to the benefit of this section:
 
-      (1) The insurer is entitled to the proceeds of any settlement or judgment that may result from the exercise of any rights of recovery of the injured person against any person legally responsible for the accident, to the extent of such benefits furnished by the insurer less the insurer’s share of expenses, costs and attorney fees incurred by the injured person in connection with such recovery.
+      (1) Subject to ORS 742.544, the insurer is entitled to the proceeds of any settlement or judgment that results from the exercise of any rights of recovery the injured person has against any person legally responsible for the accident, to the extent of the benefits the insurer furnished less the insurer’s share of expenses, costs and attorney fees the injured person incurred in connection with the recovery.
 
-      (2) The injured person shall hold in trust for the benefit of the insurer all such rights of recovery which the injured person has, but only to the extent of such benefits furnished.
+      (2) The injured person shall hold in trust for the benefit of the insurer the amount to which the insurer is entitled under this section, which may not exceed the amount of benefits the insurer furnished.
 
-      (3) The injured person shall do whatever is proper to secure, and shall do nothing after loss to prejudice, such rights.
+      (3) The injured person shall do whatever is proper to secure, and may not prejudice, the rights an insurer has under this section.
 
-      (4) If requested in writing by the insurer, the injured person shall take, through any representative not in conflict in interest with the injured person designated by the insurer, such action as may be necessary or appropriate to recover such benefits furnished as damages from such responsible person, such action to be taken in the name of the injured person, but only to the extent of the benefits furnished by the insurer. In the event of a recovery, the insurer shall also be reimbursed out of such recovery for the injured person’s share of expenses, costs and attorney fees incurred by the insurer in connection with the recovery.
+      (4) If requested in writing by the insurer, the injured person shall take, in the injured person’s name and through any representative the insurer designates who is not in conflict in interest with the injured person, such action as is necessary or appropriate to recover the amounts to which the insurer is entitled under this section, including amounts for the injured person’s share of expenses, costs and attorney fees that the insurer incurred in connection with the recovery.
 
-      (5) In calculating respective shares of expenses, costs and attorney fees under this section, the basis of allocation shall be the respective proportions borne to the total recovery by:
+      (5) In calculating respective shares of expenses, costs and attorney fees under this section, the basis of allocation must be the respective proportions borne to the total recovery by:
 
-      (a) Such benefits furnished by the insurer; and
+      (a) Benefits the insurer furnished; and
 
-      (b) The total recovery less (a).
+      (b) The total recovery less the benefits the insurer furnished.
 
-      (6) The injured person shall execute and deliver to the insurer such instruments and papers as may be appropriate to secure the rights and obligations of the insurer and the injured person as established by this section.
+      (6) The injured person shall execute and deliver to the insurer instruments and papers as are appropriate to secure the rights and obligations of the insurer and the injured person as established by this section.
 
-      (7) Any provisions in a motor vehicle liability insurance policy or health insurance policy giving rights to the insurer relating to subrogation or the subject matter of this section shall be construed and applied in accordance with the provisions of this section. [Formerly 743.830]
+      (7) Any provisions in a motor vehicle liability insurance policy or health insurance policy giving rights to the insurer relating to subrogation or the subject matter of this section must be construed and applied in accordance with the provisions of this section. [Formerly 743.830; 2019 c.460 §2]
 
  
 
@@ -2855,17 +2881,49 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
  
 
-      742.544 Reimbursement for personal injury protection benefits paid. (1) A provider of personal injury protection benefits shall be reimbursed for personal injury protection payments made on behalf of any person only to the extent that the total amount of benefits paid exceeds the damages suffered by that person. As used in this section, “total amount of benefits” means the amount of money recovered by a person from:
+      742.544 Reimbursement for benefits paid. (1)(a) As used in this subsection, “total amount of the recovery” means the amount that a person injured in a motor vehicle accident recovers from:
 
-      (a) Applicable underinsured motorist benefits described in ORS 742.502 (2);
+      (A) Underinsured motorist benefits described in ORS 742.502 (2);
 
-      (b) Liability insurance coverage available to the person receiving the personal injury protection benefits from other parties to the accident;
+      (B) Liability insurance coverage the injured person receives from other parties involved in the motor vehicle accident;
 
-      (c) Personal injury protection payments; and
+      (C) Personal injury protection benefits or health insurance benefits; and
 
-      (d) Any other payments by or on behalf of the party whose fault caused the damages.
+      (D) Any other payment by or on behalf of the party that caused the motor vehicle accident.
 
-      (2) Nothing in this section requires a person to repay more than the amount of personal injury protection benefits actually received. [1993 c.709 §9; 2015 c.5 §5]
+      (b) An insurer may not receive a reimbursement or subrogation for personal injury protection benefits or health benefits the insurer provided to a person injured in a motor vehicle accident from any recovery the injured person obtains in an action for damages except to the extent that:
+
+      (A) The injured person first receives full compensation for the injured person’s injuries; and
+
+      (B) The reimbursement or subrogation is paid only from the total amount of the recovery in excess of the amount that fully compensates for the injured person’s injuries.
+
+      (2) For purposes of this section, the following rebuttable presumptions apply:
+
+      (a) The amount of any judgment that an injured person obtains is the amount necessary to fully compensate for the injured person’s injuries.
+
+      (b) An injured person has received full compensation for the injured person’s injuries if the amount of the recovery is less than the coverage available to the injured person from the sum of benefits paid under another person’s motor vehicle liability policy, under an underinsured motorist policy described in ORS 742.502 (2), as personal injury protection payments and from any other source of payment from or on behalf of the party whose fault caused the injuries.
+
+      (c) An injured person has not received full compensation for the injured person’s injuries if the injured person recovers an amount that is equal to the coverage available to the injured person from the sum of benefits paid under another person’s motor vehicle liability policy, under an underinsured motorist policy described in ORS 742.502 (2), as personal injury protection payments and from any other source of payment from or on behalf of the party whose fault caused the injuries.
+
+      (3) An insurer may not deny or refuse to provide benefits that are otherwise available to an injured person because of the potential the injured person has to make a claim or bring an action against another person or enter into a settlement with another person.
+
+      (4) A person with whom an injured person enters into a settlement or from whom the injured person obtains a judgment in connection with a claim or action may not name an insurer that seeks a reimbursement or subrogation under ORS 742.536 or 742.538 as a payee on a check, draft or other form of payment in satisfaction of the claim or judgment.
+
+      (5) An insurer may not delay, withhold or reduce benefits to an injured person because of an act or omission for which a third party is or may be liable or as a means of enforcing or attempting to enforce a claim for reimbursement or subrogation.
+
+      (6) An insurer that receives a reimbursement for benefits the insurer provided to an injured person shall apply the amount of the reimbursement as a credit against any lifetime maximum benefit set forth for the injured person in the policy, benefit plan or contract under which the insurer paid the benefits.
+
+      (7) A provision in a policy, benefit plan or contract that permits reimbursement or subrogation other than as provided in this section is void and unenforceable.
+
+      (8) This section does not:
+
+      (a) Prohibit insurers from coordinating benefits;
+
+      (b) Limit an insurer’s right to seek reimbursement or subrogation to recover, without reduction, amounts the insurer paid for property damage;
+
+      (c) Limit an insurer that provided coverage against underinsured motorists from pursuing a claim against a party at fault; or
+
+      (d) Require a person to repay more than the amount of personal injury protection benefits that the person actually received. [1993 c.709 §9; 2015 c.5 §5; 2019 c.460 §4]
 
  
 
@@ -2885,13 +2943,9 @@ MOTOR VEHICLE LIABILITY INSURANCE
 
 ______________________________________________________________________________
 
- 
-
       THE DOCUMENT YOU ARE BEING ASKED TO SIGN IS A BINDING CONTRACT THAT CONCLUDES YOUR CLAIM(S) AGAINST THE PARTIES IT IDENTIFIES. AFTER YOU SIGN IT YOU WILL NOT BE ABLE TO MAKE ANY FURTHER CLAIM(S) AGAINST THESE PARTIES.
 
 ______________________________________________________________________________
-
- 
 
       (2) The eligible person may rescind the release if the person provides the insurer written notice of rescission no later than five business days after the execution of the release and then promptly performs all other requisite acts for rescission of a contract. For the purposes of this subsection, notice of rescission is provided to an insurer on the date and time shown on a properly addressed proof of mailing or electronic transmission. [2009 c.545 §3]
 
@@ -3236,8 +3290,6 @@ CANCELLATION AND NONRENEWAL OF CASUALTY OR COMMERCIAL LIABILITY POLICIES
       (e) Any excess liability insurance policy, including any commercial umbrella policy and any excess umbrella policy.
 
       (2) The Director of the Department of Consumer and Business Services may suspend, in whole or in part, the applicability of ORS 742.700 to 742.708 to any insurer if, in the director’s discretion, its application will endanger the ability of the insurer to fulfill its contractual obligations. [Formerly 743.950; 2005 c.185 §15]
-
- 
 
 _______________
 

@@ -1,10 +1,5 @@
 
 
-Chapter 116 — Accounting, Distribution and Closing
-
- 
-
-
  
 
  
@@ -57,7 +52,7 @@ ACCOUNTING AND DISTRIBUTION
 
  
 
-116.083     Accounting by personal representative; rules
+116.083     Accounting by personal representative; statement in lieu of account; rules
 
  
 
@@ -106,6 +101,10 @@ ACCOUNTING AND DISTRIBUTION
  
 
 116.203     Disposition of unclaimed assets
+
+ 
+
+116.208     Motion to close estate with no known assets; judgment; discharge of personal representative
 
  
 
@@ -277,15 +276,17 @@ ACCOUNTING AND DISTRIBUTION
 
  
 
-      116.083 Accounting by personal representative; rules. (1) A personal representative shall make and file in the estate proceeding an account of the personal representative’s administration:
+      116.083 Accounting by personal representative; statement in lieu of account; rules. (1) A personal representative shall make and file in the estate proceeding an account of the personal representative’s administration:
 
       (a) Unless the court orders otherwise, annually within 60 days after the anniversary date of the personal representative’s appointment.
 
-      (b) Within 30 days after the date of the personal representative’s removal or resignation or the revocation of the personal representative’s letters.
+      (b) Within 30 days after the date of the personal representative’s resignation.
 
-      (c) When the estate is ready for final settlement and distribution.
+      (c) Within 30 days after the date of the personal representative’s removal or the revocation of the personal representative’s letters.
 
-      (d) At such other times as the court may order.
+      (d) When the estate is ready for final settlement and distribution.
+
+      (e) At such other times as the court may order.
 
       (2) Each account must include the following information:
 
@@ -309,7 +310,25 @@ ACCOUNTING AND DISTRIBUTION
 
       (g) A declaration under penalty of perjury in the form required by ORCP 1 E, or an unsworn declaration under ORS 194.800 to 194.835, if the declarant is physically outside the boundaries of the United States.
 
-      (3) When the estate is ready for final settlement and distribution, the account must also include:
+      (3)(a) Unless otherwise provided by order of the court, the personal representative may file a statement under this subsection in lieu of the account required under subsection (1)(a) or (b) of this section if the distributees consent in writing.
+
+      (b) A statement under this subsection must include:
+
+      (A) The period of time covered by the statement;
+
+      (B) A description and statement of the value of the money and property on hand at the beginning and ending of the period of time covered by the statement;
+
+      (C) A copy of the most recent statement received before the accounting for each financial account owned by the estate;
+
+      (D) A list of the unpaid claims that are allowed or disputed, including the name of the creditor, a description of the claim, the amount of the claim, the priority of the claim under ORS 115.125 and the reason the claim has not been paid;
+
+      (E) A statement describing why the estate is not ready for final settlement and distribution; and
+
+      (F) A declaration under penalty of perjury in the form required by ORCP 1 E, or an unsworn declaration under ORS 194.800 to 194.835, if the declarant is physically outside the boundaries of the United States.
+
+      (c) Upon filing a statement under this subsection, the personal representative shall mail a copy of the statement to each creditor of the estate whose claim has not been paid in full and is allowed or disputed. Within 30 days after the date of the mailing of the statement, a creditor entitled to receive the statement under this paragraph may, by written notice to the personal representative, require the personal representative to make and file an account of the personal representative’s administration under subsection (1) of this section within 30 days of the date of the creditor’s notice.
+
+      (4) When the estate is ready for final settlement and distribution, the account must also include:
 
       (a) A statement that any required estate tax return has been filed.
 
@@ -321,7 +340,7 @@ ACCOUNTING AND DISTRIBUTION
 
       (e) A petition for a judgment authorizing the personal representative to distribute the estate to the persons and in the portions specified in the judgment.
 
-      (4)(a) The personal representative may file a statement under this subsection in lieu of the final account otherwise required by this section if:
+      (5)(a) The personal representative may file a statement under this subsection in lieu of the final account otherwise required by subsection (4) of this section if:
 
       (A) The distributees, other than distributees whose only distribution is a cash or specific bequest that will be paid or satisfied in full, consent in writing; and
 
@@ -333,13 +352,13 @@ ACCOUNTING AND DISTRIBUTION
 
       (B) A statement that all creditors of the estate, other than creditors owed administrative expenses that require court approval, have been paid in full.
 
-      (C) The statement and petition and any request for a reserve under subsection (3) of this section.
+      (C) The statement and petition and any request for a reserve under subsection (4) of this section.
 
       (D) A declaration under penalty of perjury in the form required by ORCP 1 E, or an unsworn declaration under ORS 194.800 to 194.835, if the declarant is physically outside the boundaries of the United States.
 
-      (5) Notice of time for filing objections to the statement described in subsection (4) of this section is not required.
+      (6) Notice of time for filing objections to the statement described in subsection (5) of this section is not required.
 
-      (6) The Chief Justice of the Supreme Court may by rule specify the form and contents of accounts that must be filed by a personal representative. [1969 c.591 §175; 1973 c.506 §37; 1985 c.304 §1; 1995 c.453 §2; 1997 c.631 §405; 1999 c.592 §2; 2003 c.576 §375; 2005 c.22 §95; 2005 c.123 §1; 2007 c.284 §2; 2011 c.526 §19; 2013 c.218 §14; 2017 c.169 §33]
+      (7) The Chief Justice of the Supreme Court may by rule specify the form and contents of accounts that must be filed by a personal representative. [1969 c.591 §175; 1973 c.506 §37; 1985 c.304 §1; 1995 c.453 §2; 1997 c.631 §405; 1999 c.592 §2; 2003 c.576 §375; 2005 c.22 §95; 2005 c.123 §1; 2007 c.284 §2; 2011 c.526 §19; 2013 c.218 §14; 2017 c.169 §33; 2019 c.414 §10]
 
  
 
@@ -373,7 +392,7 @@ ACCOUNTING AND DISTRIBUTION
 
  
 
-      116.113 Judgment of final distribution. (1) If no objections to the final account and petition for distribution are filed, or if objections are filed, upon the hearing or upon the filing of a statement in lieu of the final account under ORS 116.083 (4), the court shall enter a general judgment of final distribution. In the judgment the court shall designate the persons in whom title to the estate available for distribution is vested and the portion of the estate or property to which each is entitled under the will, by agreement approved by the court or pursuant to intestate succession. The judgment shall also contain any findings of the court in respect to:
+      116.113 Judgment of final distribution. (1) If no objections to the final account and petition for distribution are filed, or if objections are filed, upon the hearing or upon the filing of a statement in lieu of the final account under ORS 116.083 (5), the court shall enter a general judgment of final distribution. In the judgment the court shall designate the persons in whom title to the estate available for distribution is vested and the portion of the estate or property to which each is entitled under the will, by agreement approved by the court or pursuant to intestate succession. The judgment shall also contain any findings of the court in respect to:
 
       (a) Advancements.
 
@@ -397,11 +416,11 @@ ACCOUNTING AND DISTRIBUTION
 
       (k) Attorney fees.
 
-      (L) Approval of the final account or the statement filed in lieu of the final account under ORS 116.083 (4) in whole or in part.
+      (L) Approval of the final account or the statement filed in lieu of the final account under ORS 116.083 (5) in whole or in part.
 
       (2) If, by agreement approved by the court, property is distributed to persons in whom title is vested by the judgment of final distribution otherwise than as provided by the will or pursuant to intestate succession, the judgment operates as a transfer of the property between those persons.
 
-      (3) The judgment of final distribution is a conclusive determination of the persons who are the successors in interest to the estate and of the extent and character of their interest, subject only to the right of appeal and the power of the court to vacate the judgment. [1969 c.591 §178; 1987 c.646 §2; 1989 c.921 §1; 1995 c.453 §3; 1999 c.59 §26; 2003 c.576 §377; 2005 c.568 §34; 2017 c.169 §35]
+      (3) The judgment of final distribution is a conclusive determination of the persons who are the successors in interest to the estate and of the extent and character of their interest, subject only to the right of appeal and the power of the court to vacate the judgment. [1969 c.591 §178; 1987 c.646 §2; 1989 c.921 §1; 1995 c.453 §3; 1999 c.59 §26; 2003 c.576 §377; 2005 c.568 §34; 2017 c.169 §35; 2019 c.414 §11]
 
  
 
@@ -495,15 +514,19 @@ ACCOUNTING AND DISTRIBUTION
 
       116.173 Compensation of personal representative. (1) As used in this section, “property subject to the jurisdiction of the court” means:
 
-      (a) All property owned by the decedent at the time of death that is subject to administration;
+      (a) All property owned by the decedent at the time of death that is subject to administration, including but not limited to amounts recovered on a personal injury claim, as defined in ORS 114.441;
 
       (b) All income received during the course of the administration of the estate;
 
-      (c) All gains realized on the sale or disposition of assets during the course of the administration of the estate, to the extent that the gain realized on each asset sold or disposed of exceeds the value of the asset as provided in subsection (2) of this section; and
+      (c) All gains realized on the sale or disposition of assets during the course of the administration of the estate, to the extent that the gain realized on each asset sold or disposed of exceeds the value of the asset as provided in subsection (2) of this section;
 
-      (d) All unrealized gains on assets acquired during the course of administration of the estate.
+      (d) All unrealized gains on assets acquired during the course of administration of the estate; and
 
-      (2) For purposes of this section, each asset shall be valued at its highest value as reported in the inventory, any amended or supplemental inventory, any interim account or the final account or statement in lieu of the final account filed under ORS 116.083, which may be based upon revaluation of the asset to reflect its then current fair market value.
+      (e) Proceeds recovered in a wrongful death claim, as defined in ORS 114.441, by judgment or settlement.
+
+      (2)(a) For purposes of this section, each asset shall be valued at its highest value as shown in the inventory, any amended or supplemental inventory, any interim account or the final account or statement in lieu of the final account filed under ORS 116.083, which may be based upon revaluation of the asset to reflect its then current fair market value.
+
+      (b) If the highest value of an asset as shown in the inventory, any amended or supplemental inventory, any interim account or the final account or statement in lieu of the final account filed under ORS 116.083 was materially misstated at the time of filing of the document, the value of the asset is the highest correctly stated value of the asset as shown in the inventory, any amended or supplemental inventory, any interim account or the final account or statement in lieu of the final account filed under ORS 116.083.
 
       (3) Unless the court has granted a request for a different determination of the compensation of the personal representative under ORS 113.038, upon application to the court a personal representative is entitled to receive compensation for services as provided in this section. If there is more than one personal representative acting concurrently or consecutively, the compensation may not be increased, but may be divided among the personal representatives as they agree or as the court may order. The compensation is a commission upon the whole estate, as follows:
 
@@ -525,7 +548,7 @@ ACCOUNTING AND DISTRIBUTION
 
       (a) The personal representative is not entitled to any other compensation for services unless prior to appointment the personal representative signs and files with the clerk of the court a written renunciation of the compensation provided by the will.
 
-      (b) If the assets of the estate are insufficient to pay in full all expenses or claims of the estate, the compensation of the personal representative may not exceed the compensation provided by subsections (3) and (4) of this section. [Formerly 117.680; 2005 c.126 §1; 2011 c.526 §20; 2017 c.169 §36]
+      (b) If the assets of the estate are insufficient to pay in full all expenses or claims of the estate, the compensation of the personal representative may not exceed the compensation provided by subsections (3) and (4) of this section. [Formerly 117.680; 2005 c.126 §1; 2011 c.526 §20; 2017 c.169 §36; 2019 c.166 §10]
 
  
 
@@ -565,6 +588,12 @@ ACCOUNTING AND DISTRIBUTION
 
  
 
+      Note: The amendments to 116.193 by section 43, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      116.193. If it appears to the court, at any time after the expiration of four months after the date of the first publication of notice to interested persons, that there is no known person to take by descent the net intestate estate, the court shall order that the estate escheat to the State of Oregon and that the whole of the estate, after payment of claims, taxes and expenses of administration, be distributed to the State Treasurer. There shall be no further proceeding in the administration of the estate, and the estate shall summarily be closed.
+
+ 
+
       116.195 [Repealed by 1969 c.591 §305]
 
  
@@ -573,11 +602,27 @@ ACCOUNTING AND DISTRIBUTION
 
  
 
+      Note: The amendments to 116.203 by section 44, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      116.203. If a report filed in the estate proceeding by the personal representative not less than 30 days after the date of entry of the judgment of distribution shows that payment or delivery of property in the possession of the personal representative or under the control of the personal representative cannot be made to a distributee entitled thereto, either because the distributee refuses to accept the property or because the distributee cannot be found, the court may direct the personal representative to pay or deliver the property to the State Treasurer, to be placed in the escheat funds of the state. The personal representative shall take the receipt of the State Treasurer stating from whom the property was received, a description of the property and the name of the person entitled to the property. The person entitled thereto may apply for and recover the property in the manner provided for recovery of escheat funds.
+
+ 
+
+      116.208 Motion to close estate with no known assets; judgment; discharge of personal representative. (1) If the petition for appointment of the personal representative states that no assets of the estate are known to the petitioner and no assets of the estate have come into the possession or knowledge of the personal representative, the personal representative may move to close the estate no earlier than four months after the latest date of delivery or mailing of the information described in ORS 113.145.
+
+      (2) The motion must state that no assets of the estate have come into the possession or knowledge of the personal representative and that the purpose for filing the petition under ORS 113.035 has been accomplished.
+
+      (3) The personal representative shall set a time for filing objections to the motion to close the estate. Not less than 20 days before the time set, the personal representative shall mail a copy of the motion to close the estate to the persons who would be entitled to receive a copy of the final account under ORS 116.093.
+
+      (4) If the court grants the motion, the court shall enter a general judgment closing the estate and discharging the personal representative. The discharge so entered operates as a release of the personal representative from further duties and as a bar to any action against the personal representative. The court may, in its discretion and upon such terms as may be just, within one year after entry of the judgment of discharge, permit an action to be brought against the personal representative if the judgment of discharge was taken through fraud or misrepresentation of the personal representative or through the mistake, inadvertence, surprise or excusable neglect of the claimant. [2019 c.414 §9]
+
+ 
+
       116.213 Discharge of personal representative. Upon the filing of receipts or other evidence satisfactory to the court that distribution has been made as ordered in the general judgment, the court shall enter a supplemental judgment of discharge. Except as provided in ORS 115.004, the discharge so entered operates as a release of the personal representative from further duties and as a bar to any action against the personal representative and the surety of the personal representative. The court may, in its discretion and upon such terms as may be just, within one year after entry of the supplemental judgment of discharge, permit an action to be brought against the personal representative and the surety of the personal representative if the supplemental judgment of discharge was taken through fraud or misrepresentation of the personal representative or the surety of the personal representative or through the mistake, inadvertence, surprise or excusable neglect of the claimant. [1969 c.591 §188; 1989 c.229 §9; 2003 c.576 §379]
 
  
 
-      116.223 Recording of deed from personal representative. The personal representative shall cause to be recorded in the deed records of any county in which real property belonging to the estate is situated, a deed from the personal representative executed in the manner required by ORS chapter 93. The execution of the deed does not place the personal representative in the chain of title to the property conveyed unless the personal representative is also an heir, devisee or claiming successor to the property conveyed. [1969 c.591 §189; 1991 c.191 §1; 2017 c.169 §38]
+      116.223 Recording of deed from personal representative. The personal representative shall cause to be recorded in the deed records of any county in which real property belonging to the estate is situated, a deed from the personal representative executed in the manner required by ORS chapter 93. The execution of the bargain and sale deed does not place the personal representative in the chain of title to the property conveyed unless the personal representative is also an heir, devisee or claiming successor to the property conveyed. [1969 c.591 §189; 1991 c.191 §1; 2017 c.169 §38; 2019 c.165 §30]
 
  
 
@@ -586,6 +631,12 @@ ACCOUNTING AND DISTRIBUTION
  
 
       116.243 Reports by court clerks, county clerks or court administrators to Department of State Lands. A court clerk of any county in which the county court has judicial functions, the clerk of any county court that has jurisdiction over probate matters under ORS 111.075 or a court administrator, upon request, shall furnish to the Department of State Lands the titles of estates of decedents that have remained open for more than three years and in which no heirs, or only persons whose right to inherit the proceeds thereof is being contested, have appeared to claim the estate. [1969 c.591 §191; 1991 c.230 §24; 1991 c.790 §9a; 2003 c.395 §17; 2017 c.169 §58]
+
+ 
+
+      Note: The amendments to 116.243 by section 45, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      116.243. A court clerk of any county in which the county court has judicial functions, the clerk of any county court that has jurisdiction over probate matters under ORS 111.075 or a court administrator, upon request, shall furnish to the State Treasurer the titles of estates of decedents that have remained open for more than three years and in which no heirs, or only persons whose right to inherit the proceeds thereof is being contested, have appeared to claim the estate.
 
  
 
@@ -610,6 +661,38 @@ ACCOUNTING AND DISTRIBUTION
       (4) If the person whose property escheated or reverted to the state was at any time a patient of a state institution in Oregon for persons with mental illness or of the Eastern Oregon Training Center, the reasonable unpaid cost of the care and maintenance of the person while a ward of the institution, regardless of when the cost was incurred, may be deducted from, or, if necessary, be offset in full against, the amount of the escheated property. The reasonable unpaid cost of care and maintenance shall be determined in accordance with ORS 179.701.
 
       (5) For the purposes of this section, the death of the decedent is presumed to have occurred on the date shown in the decedent’s certified copy of the death record or in any other similar document issued by the jurisdiction in which the death occurred or issued by an agency of the federal government. [Formerly 120.130; 2003 c.395 §18; 2003 c.576 §380a; 2007 c.70 §23; 2007 c.284 §3; 2009 c.595 §83; 2013 c.36 §34; 2013 c.218 §15; 2013 c.366 §61]
+
+ 
+
+      Note: The amendments to 116.253 by section 46, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      116.253. (1) Within 10 years after the death of a decedent whose estate escheated in whole or in part to the state, or within eight years after the entry of a judgment or order escheating property of an estate to the state, a claim may be made for the property escheated, or the proceeds thereof, by or on behalf of a person not having actual knowledge of the escheat or by or on behalf of a person who at the time of the escheat was unable to prove entitlement to the escheated property.
+
+      (2) The claim shall be made by a petition filed with the State Treasurer. The petition must include:
+
+      (a) A declaration by the petitioner under penalty of perjury in the form required by ORCP 1 E or an unsworn declaration under ORS 194.800 to 194.835 if the declarant is physically outside the boundaries of the United States;
+
+      (b) The age and place of residence of the claimant by whom or on whose behalf the petition is filed;
+
+      (c) A brief description of the property or source of funds believed to have been escheated to the state;
+
+      (d) That the claimant lawfully is entitled to the property or proceeds;
+
+      (e) That at the time the property escheated to the state the claimant had no knowledge or notice thereof or was unable to prove entitlement to the escheated property and has subsequently acquired new evidence of that entitlement;
+
+      (f) That the claimant claims the property or proceeds as an heir or devisee or as the personal representative of the estate of an heir or devisee, setting forth any relationship between the claimant and the decedent who at the time of death owned the escheated property;
+
+      (g) That 10 years have not elapsed since the death of the decedent or that eight years have not elapsed since the entry of the judgment or order escheating the property to the state; and
+
+      (h) If the petition is not filed by the claimant, the status of the petitioner.
+
+      (3) If the State Treasurer determines that the claimant is entitled to the property or the proceeds thereof, the State Treasurer shall deliver the property to the petitioner, subject to and charged with any tax on the property and the costs and expenses of the state in connection therewith.
+
+      (4) If the person whose property escheated or reverted to the state was at any time a patient of a state institution in Oregon for persons with mental illness or of the Eastern Oregon Training Center, the reasonable unpaid cost of the care and maintenance of the person while a ward of the institution, regardless of when the cost was incurred, may be deducted from, or, if necessary, be offset in full against, the amount of the escheated property. The reasonable unpaid cost of care and maintenance shall be determined in accordance with ORS 179.701.
+
+      (5) For the purposes of this section, the death of the decedent is presumed to have occurred on the date shown in the decedent’s certified copy of the death record or in any other similar document issued by the jurisdiction in which the death occurred or issued by an agency of the federal government.
+
+      (6) A person aggrieved by a determination of the State Treasurer under this section may seek a contested case hearing under ORS 183.413 to 183.470.
 
  
 
@@ -994,6 +1077,8 @@ APPORTIONMENT OF ESTATE TAXES
  
 
       116.990 [Repealed by 1969 c.591 §305]
+
+_______________
 
 _______________
 

@@ -4,16 +4,6 @@ Chapter 166 — Offenses Against Public Order; Firearms and Other Weapons; Racke
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0005
-
- 
-
- 
-
 
  
 
@@ -83,15 +73,15 @@ RIOT, DISORDERLY CONDUCT, HARASSMENT AND RELATED OFFENSES
 
  
 
-INTIMIDATION
+BIAS CRIME
 
  
 
-166.155     Intimidation in the second degree
+166.155     Bias crime in the second degree
 
  
 
-166.165     Intimidation in the first degree
+166.165     Bias crime in the first degree
 
  
 
@@ -159,6 +149,12 @@ POSSESSION AND USE OF WEAPONS
 
  
 
+166.256     Relinquishment of firearm upon person becoming subject to certain court orders
+
+166.257     Return of relinquished firearm
+
+166.259     Relinquishment of firearm upon conviction of certain offenses
+
 166.260     Persons not affected by ORS 166.250
 
  
@@ -180,8 +176,6 @@ POSSESSION AND USE OF WEAPONS
  
 
 166.273     Relief from firearm prohibitions related to mental health
-
- 
 
 166.274     Relief from prohibition against possessing or receiving firearm; fees
 
@@ -279,7 +273,7 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-166.412     Definitions; firearms transaction record; criminal history record check; liability; rules
+166.412     Definitions; firearms transaction record; criminal history record check; prohibited transfer report; liability; rules
 
  
 
@@ -323,7 +317,7 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-166.434     Application of ORS 166.412 to all firearm transfers by gun dealers; fees for criminal background checks
+166.434     Requirements for criminal background checks; fees
 
  
 
@@ -331,7 +325,7 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-166.436     Department of State Police criminal background checks for gun show firearm transfers; liability
+166.436     Department of State Police criminal background checks for gun show firearm transfers; prohibited transfer report; liability
 
  
 
@@ -571,11 +565,9 @@ RIOT, DISORDERLY CONDUCT, HARASSMENT AND RELATED OFFENSES
 
       (a) Harasses or annoys another person by:
 
-      (A) Subjecting such other person to offensive physical contact;
+      (A) Subjecting such other person to offensive physical contact; or
 
-      (B) Publicly insulting such other person by abusive words or gestures in a manner intended and likely to provoke a violent response; or
-
-      (C) Distributing a visual recording, as defined in ORS 163.665, of the other person engaged in sexually explicit conduct, as defined in ORS 163.665, or in a state of nudity, as defined in ORS 163.700, when the other person is under 18 years of age at the time of the recording;
+      (B) Publicly insulting such other person by abusive words or gestures in a manner intended and likely to provoke a violent response;
 
       (b) Subjects another to alarm by conveying a false report, known by the conveyor to be false, concerning death or serious physical injury to a person, which report reasonably would be expected to cause alarm; or
 
@@ -595,11 +587,9 @@ RIOT, DISORDERLY CONDUCT, HARASSMENT AND RELATED OFFENSES
 
       (B)(i) The victim of the offense is a family or household member of the person; and
 
-      (ii) The offense is committed in the immediate presence of, or is witnessed by, the person’s or the victim’s minor child or stepchild or a minor child residing within the household of the person or victim;
+      (ii) The offense is committed in the immediate presence of, or is witnessed by, the person’s or the victim’s minor child or stepchild or a minor child residing within the household of the person or victim; or
 
-      (b) Subsection (1)(a)(C) of this section; or
-
-      (c) Subsection (1)(c) of this section and:
+      (b) Subsection (1)(c) of this section and:
 
       (A) The person has a previous conviction under subsection (1)(c) of this section and the victim of the current offense was the victim or a member of the family of the victim of the previous offense;
 
@@ -613,17 +603,15 @@ RIOT, DISORDERLY CONDUCT, HARASSMENT AND RELATED OFFENSES
 
       (iii) A reasonable person would believe that the threat was likely to be followed by action.
 
-      (5) It is not a defense to a charge under subsection (1)(a)(C) of this section that the defendant did not know the age of the victim.
+      (5) The Oregon Criminal Justice Commission shall classify harassment as described in subsection (4)(a)(B) of this section as a person Class A misdemeanor under the rules of the commission.
 
-      (6) The Oregon Criminal Justice Commission shall classify harassment as described in subsection (4)(a)(B) of this section as a person Class A misdemeanor under the rules of the commission.
-
-      (7)(a) As used in this section:
+      (6)(a) As used in this section:
 
       (A) “Electronic threat” means a threat conveyed by electronic mail, the Internet, a telephone text message or any other transmission of information by wire, radio, optical cable, cellular system, electromagnetic system or other similar means.
 
       (B) “Family or household member” has the meaning given that term in ORS 135.230.
 
-      (b) For purposes of subsection (4) of this section, an offense is witnessed if the offense is seen or directly perceived in any other manner by the minor child. [1971 c.743 §223; 1981 c.468 §1; 1985 c.498 §1; 1987 c.806 §3; 1995 c.802 §1; 2001 c.870 §2; 2009 c.783 §1; 2013 c.649 §26; 2017 c.430 §1]
+      (b) For purposes of subsection (4) of this section, an offense is witnessed if the offense is seen or directly perceived in any other manner by the minor child. [1971 c.743 §223; 1981 c.468 §1; 1985 c.498 §1; 1987 c.806 §3; 1995 c.802 §1; 2001 c.870 §2; 2009 c.783 §1; 2013 c.649 §26; 2017 c.430 §1; 2019 c.304 §3]
 
  
 
@@ -799,25 +787,29 @@ RIOT, DISORDERLY CONDUCT, HARASSMENT AND RELATED OFFENSES
 
  
 
-INTIMIDATION
+BIAS CRIME
 
  
 
-      166.155 Intimidation in the second degree. (1) A person commits the crime of intimidation in the second degree if the person:
+      166.155 Bias crime in the second degree. (1) A person commits a bias crime in the second degree if the person:
 
-      (a) Tampers or interferes with property, having no right to do so nor reasonable ground to believe that the person has such right, with the intent to cause substantial inconvenience to another because of the person’s perception of the other’s race, color, religion, sexual orientation, disability or national origin;
+      (a) Tampers or interferes with property, having no right to do so nor reasonable ground to believe that the person has such right, with the intent to cause substantial inconvenience to another person because of the person’s perception of the other person’s race, color, religion, gender identity, sexual orientation, disability or national origin;
 
-      (b) Intentionally subjects another to offensive physical contact because of the person’s perception of the other’s race, color, religion, sexual orientation, disability or national origin; or
+      (b) Intentionally subjects another person to offensive physical contact because of the person’s perception of the other person’s race, color, religion, gender identity, sexual orientation, disability or national origin; or
 
-      (c) Intentionally, because of the person’s perception of race, color, religion, sexual orientation, disability or national origin of another or of a member of the other’s family, subjects the other person to alarm by threatening:
+      (c) Intentionally, because of the person’s perception of race, color, religion, gender identity, sexual orientation, disability or national origin of another person or of a member of the other person’s family, subjects the other person to alarm by threatening:
 
-      (A) To inflict serious physical injury upon or to commit a felony affecting the other person, or a member of the person’s family; or
+      (A) To inflict serious physical injury upon or to commit a felony affecting the other person, or a member of the other person’s family; or
 
       (B) To cause substantial damage to the property of the other person or of a member of the other person’s family.
 
-      (2) Intimidation in the second degree is a Class A misdemeanor.
+      (2) A bias crime in the second degree is a Class A misdemeanor.
 
-      (3) For purposes of this section, “property” means any tangible personal property or real property. [1981 c.785 §1; 1983 c.521 §1; 1989 c.1029 §1; 2007 c.100 §18; 2011 c.421 §1]
+      (3) As used in this section and ORS 166.165:
+
+      (a) “Gender identity” means an individual’s gender-related identity, appearance, expression or behavior, regardless of whether the identity, appearance, expression or behavior differs from that associated with the gender assigned to the individual at birth.
+
+      (b) “Property” means any tangible personal property or real property. [1981 c.785 §1; 1983 c.521 §1; 1989 c.1029 §1; 2007 c.100 §18; 2011 c.421 §1; 2019 c.553 §1]
 
  
 
@@ -825,17 +817,15 @@ INTIMIDATION
 
  
 
-      166.165 Intimidation in the first degree. (1) Two or more persons acting together commit the crime of intimidation in the first degree, if the persons:
+      166.165 Bias crime in the first degree. (1) A person commits a bias crime in the first degree if the person:
 
-      (a)(A) Intentionally, knowingly or recklessly cause physical injury to another person because of the actors’ perception of that person’s race, color, religion, sexual orientation, disability or national origin; or
+      (a) Intentionally, knowingly or recklessly causes physical injury to another person because of the person’s perception of the other person’s race, color, religion, gender identity, sexual orientation, disability or national origin;
 
-      (B) With criminal negligence cause physical injury to another person by means of a deadly weapon because of the actors’ perception of that person’s race, color, religion, sexual orientation, disability or national origin;
+      (b) With criminal negligence causes physical injury to another person by means of a deadly weapon because of the person’s perception of the other person’s race, color, religion, gender identity, sexual orientation, disability or national origin; or
 
-      (b) Intentionally, because of the actors’ perception of another person’s race, color, religion, sexual orientation, disability or national origin, place another person in fear of imminent serious physical injury; or
+      (c) Intentionally, because of the person’s perception of another person’s race, color, religion, gender identity, sexual orientation, disability or national origin, places another person in fear of imminent serious physical injury.
 
-      (c) Commit such acts as would constitute the crime of intimidation in the second degree, if undertaken by one person acting alone.
-
-      (2) Intimidation in the first degree is a Class C felony. [1981 c.785 §2; 1983 c.521 §2; 1989 c.1029 §2; 1993 c.332 §1; 1995 c.79 §53; 1997 c.249 §50; 2007 c.100 §19; 2011 c.421 §2]
+      (2) A bias crime in the first degree is a Class C felony. [1981 c.785 §2; 1983 c.521 §2; 1989 c.1029 §2; 1993 c.332 §1; 1995 c.79 §53; 1997 c.249 §50; 2007 c.100 §19; 2011 c.421 §2; 2019 c.553 §2]
 
  
 
@@ -1065,13 +1055,21 @@ POSSESSION AND USE OF WEAPONS
 
       (a) The person is the subject of a court order that:
 
-      (A) Was issued or continued after a hearing for which the person had actual notice and during the course of which the person had an opportunity to be heard;
+      (A)(i) Was issued or continued after a hearing for which the person had actual notice and during the course of which the person had an opportunity to be heard; or
 
-      (B) Restrains the person from stalking, intimidating, molesting or menacing an intimate partner, a child of an intimate partner or a child of the person; and
+      (ii) Was issued, continued or remains in effect, by order or operation of law, after the person received notice of the opportunity to request a hearing in which to be heard on the order, and either requested a hearing but did not attend the hearing or withdrew the request before the hearing occurred, or did not request a hearing during the time period in which the opportunity was available;
 
-      (C) Includes a finding that the person represents a credible threat to the physical safety of an intimate partner, a child of an intimate partner or a child of the person; or
+      (B) Restrains the person from stalking, intimidating, molesting or menacing a family or household member of the person, a child of a family or household member of the person or a child of the person; and
 
-      (b) The person has been convicted of a qualifying misdemeanor and, at the time of the offense, the person was a family member of the victim of the offense.
+      (C) Includes a finding that the person represents a credible threat to the physical safety of a family or household member of the person, a child of a family or household member of the person or a child of the person;
+
+      (b) The person has been convicted of a qualifying misdemeanor and, at the time of the offense, the person was:
+
+      (A) A family or household member of the victim of the offense; or
+
+      (B) A parent or guardian of the victim of the offense; or
+
+      (c) The person has been convicted of stalking under ORS 163.732.
 
       (2) The prohibition described in subsection (1)(a) of this section does not apply with respect to the transportation, shipment, receipt, possession or importation of any firearm or ammunition imported for, sold or shipped to or issued for the use of the United States Government or any federal department or agency, or any state or department, agency or political subdivision of a state.
 
@@ -1087,15 +1085,153 @@ POSSESSION AND USE OF WEAPONS
 
       (b) “Deadly weapon” has the meaning given that term in ORS 161.015.
 
-      (c) “Family member” means, with respect to the victim, the victim’s spouse, the victim’s former spouse, a person with whom the victim shares a child in common, the victim’s parent or guardian, a person cohabiting with or who has cohabited with the victim as a spouse, parent or guardian or a person similarly situated to a spouse, parent or guardian of the victim.
+      (c) “Family or household member” has the meaning given that term in ORS 135.230.
 
-      (d) “Intimate partner” means, with respect to a person, the person’s spouse, the person’s former spouse, a parent of the person’s child or another person who has cohabited or is cohabiting with the person in a relationship akin to a spouse.
+      (d) “Possess” has the meaning given that term in ORS 161.015.
 
-      (e) “Possess” has the meaning given that term in ORS 161.015.
-
-      (f) “Qualifying misdemeanor” means a misdemeanor that has, as an element of the offense, the use or attempted use of physical force or the threatened use of a deadly weapon. [2015 c.497 §2]
+      (e) “Qualifying misdemeanor” means a misdemeanor that has, as an element of the offense, the use or attempted use of physical force or the threatened use of a deadly weapon. [2015 c.497 §2; 2018 c.5 §1; 2019 c.201 §1]
 
  
+
+      166.256 Relinquishment of firearm upon person becoming subject to certain court orders. (1)(a) When a respondent becomes subject to an order described in ORS 166.255 (1)(a) prohibiting the respondent from possessing firearms or ammunition, the court shall:
+
+      (A) Indicate in the order that the respondent is prohibited from possessing firearms and ammunition under ORS 166.250 and 166.255 while the order is in effect.
+
+      (B) Ensure that the respondent is subject to an additional order:
+
+      (i) Requiring the respondent to transfer all firearms and ammunition in the respondent’s possession in accordance with subsection (2) of this section; and
+
+      (ii) Requiring the respondent to file a declaration as described in subsection (4) of this section.
+
+      (b) If the respondent becomes subject to the order while the respondent is present in court, the court shall:
+
+      (A) Inform the respondent, orally and in writing, that the respondent is prohibited from possessing firearms and ammunition;
+
+      (B) Order in writing that the respondent transfer all firearms and ammunition in the respondent’s possession in accordance with subsection (2) of this section; and
+
+      (C) Order that the respondent file a declaration as described in subsection (4) of this section.
+
+      (2)(a) Within 24 hours of becoming subject to the court order under subsection (1)(a)(B) of this section or receiving the court order under subsection (1)(b)(B) of this section, the respondent shall transfer all firearms and ammunition in the respondent’s possession to a local law enforcement agency, to a gun dealer as defined in ORS 166.412 or to a third party who does not reside with the respondent, and shall obtain a proof of transfer under paragraph (b) of this subsection. A transfer to a third party under this subsection must be in accordance with ORS 166.435, except that the criminal background check exceptions in ORS 166.435 (4) do not apply.
+
+      (b) A law enforcement agency, gun dealer or third party receiving a firearm or ammunition pursuant to this subsection shall issue to the respondent a written proof of transfer. The proof of transfer must include the respondent’s name, the date of transfer and the serial number, make and model of each transferred firearm. A proof of transfer issued by a third party must also include the unique approval number from the Department of State Police from the criminal background check conducted under ORS 166.435.
+
+      (c) A respondent transferring a firearm or ammunition to a third party under this subsection shall additionally obtain from the third party a declaration under penalty of perjury confirming receipt of the firearm or ammunition and attesting that:
+
+      (A) The third party understands that the respondent is prohibited from possessing firearms and ammunition; and
+
+      (B) The third party is subject to criminal penalties if the third party allows the respondent access to the firearm or ammunition during the prohibition.
+
+      (3)(a) A law enforcement agency may accept a firearm or ammunition transferred under this section.
+
+      (b) A gun dealer may purchase or may accept for storage a firearm or ammunition transferred under this section.
+
+      (4)(a) Within two judicial days of becoming subject to the court order under subsection (1)(a)(B) of this section or receiving the court order under subsection (1)(b)(B) of this section, the respondent shall file with the court a declaration under penalty of perjury attesting that:
+
+      (A) All firearms and ammunition in the respondent’s possession have been transferred under subsection (2) of this section to:
+
+      (i) A law enforcement agency;
+
+      (ii) A gun dealer; or
+
+      (iii) A third party;
+
+      (B) The respondent was not in possession of any firearms at the time of the court’s order and continues to not possess any firearms; or
+
+      (C) The respondent is asserting the respondent’s constitutional right against self-incrimination.
+
+      (b) The respondent shall file with the declaration a copy of the proof of transfer, if applicable, and a copy of the third party declaration, if applicable.
+
+      (5) The respondent shall concurrently file with the district attorney copies of the declaration, proof of transfer and third party declaration filed with the court under subsection (4) of this section.
+
+      (6) A respondent in possession of a firearm or ammunition in violation of ORS 166.255 (1)(a) may not be prosecuted under ORS 166.250 if:
+
+      (a) The respondent is in possession of a court order described in subsection (1)(a)(B) or (1)(b)(B) of this section that went into effect or was issued within the previous 24 hours;
+
+      (b) The firearm is unloaded; and
+
+      (c) The respondent is transporting the firearm or ammunition to a law enforcement agency, gun dealer or third party for transfer in accordance with subsection (2) of this section.
+
+      (7) Upon the expiration or termination of the order described in ORS 166.255 (1)(a), at the request of the respondent:
+
+      (a) A law enforcement agency shall return any stored firearms and ammunition to the respondent in accordance with ORS 166.257.
+
+      (b) A gun dealer shall return any stored firearms and ammunition to the respondent after performing a criminal background check as defined in ORS 166.432 to confirm that the respondent is not prohibited from possessing a firearm or ammunition under state or federal law.
+
+      (c) A third party shall return any stored firearms and ammunition to the respondent only after requesting a criminal background check in accordance with ORS 166.435, except that the criminal background check exceptions in ORS 166.435 (4) do not apply.
+
+      (8) If the respondent does not file a declaration described in subsection (4) of this section, the district attorney may commence contempt proceedings under ORS 33.015 to 33.155. [2019 c.201 §4]
+
+Note: 166.256 and 166.257 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 166 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      166.257 Return of relinquished firearm. (1) Upon receiving a request to return a firearm or ammunition relinquished to a law enforcement agency pursuant to ORS 166.256, the law enforcement agency shall:
+
+      (a) Notify the Department of Justice of the return request for the purposes of notifying the petitioner of the order; and
+
+      (b) Hold the firearm or ammunition for 72 hours after receiving the request.
+
+      (2) Prior to returning the firearm or ammunition, the law enforcement agency shall:
+
+      (a) Confirm that the person to whom the law enforcement agency will return the firearm or ammunition is the lawful owner of the firearm or ammunition, or a person with a possessory right to the firearm or ammunition; and
+
+      (b) Perform a criminal background check as defined in ORS 166.432 to confirm that the person is not prohibited from possessing a firearm or ammunition under state or federal law. [2019 c.201 §5]
+
+Note: See note under 166.256.
+
+ 
+
+      166.259 Relinquishment of firearm upon conviction of certain offenses. (1) When a person is convicted of an offense described in ORS 166.255 (1)(b) or (c), the court shall, at the time of conviction:
+
+      (a) Indicate in the judgment of conviction that the person is prohibited from possessing firearms and ammunition under ORS 166.250 and 166.255;
+
+      (b) Inform the person, orally and in writing, that the person is prohibited from possessing firearms and ammunition;
+
+      (c) Order in writing that the person transfer all firearms and ammunition in the person’s possession in accordance with subsection (2) of this section; and
+
+      (d) Order that the person file a declaration as described in subsection (4) of this section.
+
+      (2)(a) Within 24 hours of the court’s order under subsection (1) of this section, the person shall transfer all firearms and ammunition in the person’s possession to a local law enforcement agency, to a gun dealer as defined in ORS 166.412 or to a third party who does not reside with the person, and shall obtain a proof of transfer under paragraph (b) of this subsection. A transfer to a third party under this subsection must be in accordance with ORS 166.435, except that the criminal background check exceptions in ORS 166.435 (4) do not apply.
+
+      (b) A law enforcement agency, gun dealer or third party receiving a firearm or ammunition pursuant to this subsection shall issue to the person a written proof of transfer. The proof of transfer must include the person’s name, the date of transfer and the serial number, make and model of each transferred firearm. A proof of transfer issued by a third party must also include the unique approval number from the Department of State Police from the criminal background check conducted under ORS 166.435.
+
+      (c) A person transferring a firearm or ammunition to a third party under this subsection shall additionally obtain from the third party a declaration under penalty of perjury confirming receipt of the firearm or ammunition and attesting that:
+
+      (A) The third party understands that the person is prohibited from possessing firearms and ammunition; and
+
+      (B) The third party is subject to criminal penalties if the third party allows the person access to the firearm or ammunition during the prohibition.
+
+      (3)(a) A law enforcement agency may accept a firearm or ammunition transferred under this section.
+
+      (b) A gun dealer may purchase or may accept for storage a firearm or ammunition transferred under this section.
+
+      (4)(a) Within two judicial days of the court’s order under subsection (1) of this section, the person shall file with the court a declaration under penalty of perjury attesting that:
+
+      (A) All firearms and ammunition in the person’s possession have been transferred under subsection (2) of this section to:
+
+      (i) A law enforcement agency;
+
+      (ii) A gun dealer; or
+
+      (iii) A third party;
+
+      (B) The person was not in possession of any firearms at the time of the court’s order and continues to not possess any firearms; or
+
+      (C) The person is asserting the person’s constitutional right against self-incrimination.
+
+      (b) The person shall file with the declaration a copy of the proof of transfer, if applicable, and a copy of the third party declaration, if applicable.
+
+      (5) The person shall concurrently file with the district attorney copies of the declaration, proof of transfer and third party declaration filed with the court under subsection (4) of this section.
+
+      (6) A person in possession of a firearm or ammunition in violation of ORS 166.255 (1)(b) or (c) may not be prosecuted under ORS 166.250 if:
+
+      (a) The person is in possession of a court order described in subsection (1) of this section issued within the previous 24 hours;
+
+      (b) The firearm is unloaded; and
+
+      (c) The person is transporting the firearm or ammunition to a law enforcement agency, gun dealer or third party for transfer in accordance with subsection (2) of this section.
+
+      (7) If the person does not file the declaration required under subsection (4) of this section, the district attorney may commence contempt proceedings under ORS 33.015 to 33.155. [2019 c.201 §3]
 
       166.260 Persons not affected by ORS 166.250. (1) ORS 166.250 does not apply to or affect:
 
@@ -1385,7 +1521,7 @@ POSSESSION AND USE OF WEAPONS
 
 ______________________________________________________________________________
 
-APPLICATION FOR LICENSE TO CARRY
+APPLICATION FOR LICENSE TO CARRY:LEND
 
 CONCEALED HANDGUN
 
@@ -1881,7 +2017,7 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-      166.412 Definitions; firearms transaction record; criminal history record check; liability; rules. (1) As used in this section:
+      166.412 Definitions; firearms transaction record; criminal history record check; prohibited transfer report; liability; rules. (1) As used in this section:
 
       (a) “Antique firearm” has the meaning given that term in 18 U.S.C. 921;
 
@@ -1893,15 +2029,13 @@ SALE OR TRANSFER OF FIREARMS
 
       (e) “Firearms transaction thumbprint form” means a form provided by the department under subsection (11) of this section;
 
-      (f) “Gun dealer” means a person engaged in the business, as defined in 18 U.S.C. 921, of selling, leasing or otherwise transferring a firearm, whether the person is a retail dealer, pawnbroker or otherwise;
+      (f) “Gun dealer” means a person engaged in the business, as defined in 18 U.S.C. 921, of selling, leasing or otherwise transferring a firearm, whether the person is a retail dealer, pawnbroker or otherwise; and
 
-      (g) “Handgun” has the meaning given that term in ORS 166.210; and
+      (g) “Purchaser” means a person who buys, leases or otherwise receives a firearm from a gun dealer.
 
-      (h) “Purchaser” means a person who buys, leases or otherwise receives a firearm from a gun dealer.
+      (2) Except as provided in subsections (3)(c) and (12) of this section, a gun dealer shall comply with the following before a firearm is delivered to a purchaser:
 
-      (2) Except as provided in subsections (3)(c) and (12) of this section, a gun dealer shall comply with the following before a handgun is delivered to a purchaser:
-
-      (a) The purchaser shall present to the dealer current identification meeting the requirements of subsection (4) of this section.
+      (a) The purchaser shall present to the gun dealer current identification meeting the requirements of subsection (4) of this section.
 
       (b) The gun dealer shall complete the firearms transaction record and obtain the signature of the purchaser on the record.
 
@@ -1917,7 +2051,7 @@ SALE OR TRANSFER OF FIREARMS
 
       (D) The name of the person making the transfer;
 
-      (E) The make, model, caliber and manufacturer’s number of the handgun being transferred;
+      (E) The make, model, caliber and manufacturer’s number of the firearm being transferred;
 
       (F) The name and date of birth of the purchaser;
 
@@ -1933,11 +2067,11 @@ SALE OR TRANSFER OF FIREARMS
 
       (A) Determine, from criminal records and other information available to it, whether the purchaser is disqualified under ORS 166.470 from completing the purchase; and
 
-      (B) Notify the dealer when a purchaser is disqualified from completing the transfer or provide the dealer with a unique approval number indicating that the purchaser is qualified to complete the transfer.
+      (B) Notify the gun dealer when a purchaser is disqualified from completing the transfer or provide the gun dealer with a unique approval number indicating that the purchaser is qualified to complete the transfer.
 
-      (b) If the department is unable to determine if the purchaser is qualified or disqualified from completing the transfer within 30 minutes, the department shall notify the dealer and provide the dealer with an estimate of the time when the department will provide the requested information.
+      (b) If the department is unable to determine if the purchaser is qualified or disqualified from completing the transfer within 30 minutes, the department shall notify the gun dealer and provide the gun dealer with an estimate of the time when the department will provide the requested information.
 
-      (c) If the department fails to provide a unique approval number to a gun dealer or to notify the gun dealer that the purchaser is disqualified under paragraph (a) of this subsection before the close of the gun dealer’s next business day following the request by the dealer for a criminal history record check, the dealer may deliver the handgun to the purchaser.
+      (c) If the department fails to provide a unique approval number to a gun dealer or to notify the gun dealer that the purchaser is disqualified under paragraph (a) of this subsection before the close of the gun dealer’s next business day following the request by the gun dealer for a criminal history record check, the gun dealer may deliver the firearm to the purchaser.
 
       (4)(a) Identification required of the purchaser under subsection (2) of this section shall include one piece of current identification bearing a photograph and the date of birth of the purchaser that:
 
@@ -1947,9 +2081,9 @@ SALE OR TRANSFER OF FIREARMS
 
       (b) If the identification presented by the purchaser under paragraph (a) of this subsection does not include the current address of the purchaser, the purchaser shall present a second piece of current identification that contains the current address of the purchaser. The Superintendent of State Police may specify by rule the type of identification that may be presented under this paragraph.
 
-      (c) The department may require that the dealer verify the identification of the purchaser if that identity is in question by sending the thumbprints of the purchaser to the department.
+      (c) The department may require that the gun dealer verify the identification of the purchaser if that identity is in question by sending the thumbprints of the purchaser to the department.
 
-      (5) The department shall establish a telephone number that shall be operational seven days a week between the hours of 8 a.m. and 10 p.m. for the purpose of responding to inquiries from dealers for a criminal history record check under this section.
+      (5) The department shall establish a telephone number that shall be operational seven days a week between the hours of 8 a.m. and 10 p.m. for the purpose of responding to inquiries from gun dealers for a criminal history record check under this section.
 
       (6) No public employee, official or agency shall be held criminally or civilly liable for performing the investigations required by this section provided the employee, official or agency acts in good faith and without malice.
 
@@ -1957,11 +2091,31 @@ SALE OR TRANSFER OF FIREARMS
 
       (b) The record of the information obtained during a request for a criminal history record check by a gun dealer is exempt from disclosure under public records law.
 
-      (c) If the department determines that a purchaser is prohibited from possessing a firearm under ORS 166.250 (1)(c), as soon as practicable, the department may report the attempted transfer and the purchaser’s name to the appropriate law enforcement agency.
+      (c) If the department determines that a purchaser is prohibited from possessing a firearm under ORS 166.250 (1)(c), the department shall report the attempted transfer, the purchaser’s name and any other personally identifiable information to all federal, state and local law enforcement agencies and district attorneys that have jurisdiction over the location or locations where the attempted transfer was made and where the purchaser resides.
 
-      (8) A law enforcement agency may inspect the records of a gun dealer relating to transfers of handguns with the consent of a gun dealer in the course of a reasonable inquiry during a criminal investigation or under the authority of a properly authorized subpoena or search warrant.
+      (d) If the department determines that, based on the judgment of conviction, the purchaser is prohibited from possessing a firearm as a condition of probation or that the purchaser is currently on post-prison supervision or parole, the department shall report the attempted transfer to the purchaser’s supervising officer and the district attorney of the county in which the conviction occurred.
 
-      (9) When a handgun is delivered, it shall be unloaded.
+      (e) If the department determines that the purchaser is prohibited from possessing a firearm due to a court order described in ORS 166.255 (1)(a), the department shall report the attempted transfer to the court that issued the order.
+
+      (f) If the department determines that the purchaser is under the jurisdiction of the Psychiatric Security Review Board, the department shall report the attempted transfer to the board.
+
+      (g) Reports required by paragraphs (c) to (f) of this subsection shall be made within 24 hours after the determination is made, unless a report would compromise an ongoing investigation, in which case the report may be delayed as long as necessary to avoid compromising the investigation.
+
+      (h) On or before January 31 of each year, a law enforcement agency or a prosecuting attorney’s office that received a report pursuant to paragraph (c) of this subsection during the previous calendar year shall inform the department of any action that was taken concerning the report and the outcome of the action.
+
+      (i) The department shall annually publish a written report, based on any information received under paragraph (h) of this subsection, detailing the following information for the previous year:
+
+      (A) The number of purchasers whom the department determined were prohibited from possessing a firearm under ORS 166.250 (1)(c), arranged by category of prohibition;
+
+      (B) The number of reports made pursuant to paragraph (c) of this subsection;
+
+      (C) The number of investigations arising from the reports made pursuant to paragraph (c) of this subsection, the number of investigations concluded and the number of investigations referred for prosecution, all arranged by category of prohibition; and
+
+      (D) The number of criminal charges arising from the reports made pursuant to paragraph (c) of this subsection and the disposition of the charges, both arranged by category of prohibition.
+
+      (8) A law enforcement agency may inspect the records of a gun dealer relating to transfers of firearms with the consent of a gun dealer in the course of a reasonable inquiry during a criminal investigation or under the authority of a properly authorized subpoena or search warrant.
+
+      (9) When a firearm is delivered, it shall be unloaded.
 
       (10) In accordance with applicable provisions of ORS chapter 183, the Superintendent of State Police may adopt rules necessary for:
 
@@ -1969,7 +2123,7 @@ SALE OR TRANSFER OF FIREARMS
 
       (b) The maintenance of a procedure to correct errors in the criminal records of the department;
 
-      (c) The provision of a security system to identify dealers who request a criminal history record check under subsection (2) of this section; and
+      (c) The provision of a security system to identify gun dealers that request a criminal history record check under subsection (2) of this section; and
 
       (d) The creation and maintenance of a database of the business hours of gun dealers.
 
@@ -1979,7 +2133,7 @@ SALE OR TRANSFER OF FIREARMS
 
       (13)(a) If requested by a transferor who is not a gun dealer, a gun dealer may request a criminal background check pursuant to ORS 166.435 or 166.438 and may charge a reasonable fee for providing the service.
 
-      (b) A gun dealer that requests a criminal background check under this subsection is immune from civil liability for any use of the firearm by the recipient or transferee, provided that the gun dealer requests the criminal background check as described in this section. [1995 c.729 §1; 2001 c.900 §25; 2009 c.595 §114; 2009 c.826 §17; 2015 c.50 §4]
+      (b) A gun dealer that requests a criminal background check under this subsection is immune from civil liability for any use of the firearm by the recipient or transferee, provided that the gun dealer requests the criminal background check as described in this section. [1995 c.729 §1; 2001 c.900 §25; 2009 c.595 §114; 2009 c.826 §17; 2015 c.50 §4; 2018 c.5 §4; 2018 c.120 §15]
 
  
 
@@ -2007,9 +2161,9 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-      166.418 Improperly transferring a firearm. (1) A person commits the crime of improperly transferring a firearm if the person is a gun dealer as defined in ORS 166.412 and sells, leases or otherwise transfers a firearm and intentionally violates ORS 166.412 or 166.434.
+      166.418 Improperly transferring a firearm. (1) A person commits the crime of improperly transferring a firearm if the person is a gun dealer as defined in ORS 166.412 and sells, leases or otherwise transfers a firearm and intentionally violates ORS 166.412.
 
-      (2) Improperly transferring a firearm is a Class A misdemeanor. [1995 c.729 §4; 2001 c.1 §10]
+      (2) Improperly transferring a firearm is a Class A misdemeanor. [1995 c.729 §4; 2001 c.1 §10; 2018 c.5 §7]
 
  
 
@@ -2071,11 +2225,11 @@ SALE OR TRANSFER OF FIREARMS
 
       (e) Stolen guns system.
 
-      (2) As used in ORS 166.433, 166.434, 166.435, 166.436, 166.438 and 166.441:
+      (2) As used in ORS 166.433, 166.435, 166.436, 166.438 and 166.441:
 
       (a) “Gun dealer” has the meaning given that term in ORS 166.412.
 
-      (b) “Gun show” means an event at which more than 25 firearms are on site and available for transfer. [2001 c.1 §3; 2015 c.50 §6]
+      (b) “Gun show” means an event at which more than 25 firearms are on site and available for transfer. [2001 c.1 §3; 2015 c.50 §6; 2018 c.5 §8]
 
  
 
@@ -2095,15 +2249,13 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-      166.434 Application of ORS 166.412 to all firearm transfers by gun dealers; fees for criminal background checks. (1) Notwithstanding the fact that ORS 166.412 requires a gun dealer to request a criminal history record check only when transferring a handgun, a gun dealer shall comply with the requirements of ORS 166.412 before transferring any firearm to a purchaser. The provisions of ORS 166.412 apply to the transfer of firearms other than handguns to the same extent that they apply to the transfer of handguns.
+      166.434 Requirements for criminal background checks; fees. (1) In addition to the determination required by ORS 166.412 (3)(a)(A), in conducting a criminal background check or criminal history record check, the Department of State Police shall also determine whether the recipient is otherwise prohibited by state or federal law from possessing a firearm.
 
-      (2) In addition to the determination required by ORS 166.412 (3)(a)(A), in conducting a criminal background check or criminal history record check, the Department of State Police shall also determine whether the recipient is otherwise prohibited by state or federal law from possessing a firearm.
+      (2) Notwithstanding ORS 166.412 (5), the department is not required to operate the telephone number established under ORS 166.412 (5) on Thanksgiving Day or Christmas Day.
 
-      (3) Notwithstanding ORS 166.412 (5), the department is not required to operate the telephone number established under ORS 166.412 (5) on Thanksgiving Day or Christmas Day.
+      (3)(a) The department may charge a fee, not to exceed the amount authorized under ORS 166.414, for criminal background checks required under this section or ORS 166.435 or 166.436.
 
-      (4)(a) The department may charge a fee, not to exceed the amount authorized under ORS 166.414, for criminal background checks required under this section or ORS 166.435 or 166.436.
-
-      (b) The department shall establish a reduced fee for subsequent criminal background checks on the same recipient that are performed during the same day between the hours of 8 a.m. and 10 p.m. [2001 c.1 §5; 2015 c.50 §8]
+      (b) The department shall establish a reduced fee for subsequent criminal background checks on the same recipient that are performed during the same day between the hours of 8 a.m. and 10 p.m. [2001 c.1 §5; 2015 c.50 §8; 2018 c.5 §6]
 
  
 
@@ -2193,7 +2345,7 @@ SALE OR TRANSFER OF FIREARMS
 
  
 
-      166.436 Department of State Police criminal background checks for gun show firearm transfers; liability. (1) The Department of State Police shall make the telephone number established under ORS 166.412 (5) available for requests for criminal background checks under this section from persons who are not gun dealers and who are transferring firearms at gun shows.
+      166.436 Department of State Police criminal background checks for gun show firearm transfers; prohibited transfer report; liability. (1) The Department of State Police shall make the telephone number established under ORS 166.412 (5) available for requests for criminal background checks under this section from persons who are not gun dealers and who are transferring firearms at gun shows.
 
       (2) Prior to transferring a firearm at a gun show, a transferor who is not a gun dealer may request by telephone that the department conduct a criminal background check on the recipient and shall provide the following information to the department:
 
@@ -2223,7 +2375,27 @@ SALE OR TRANSFER OF FIREARMS
 
       (b) The record of the information obtained during a request for a criminal background check under this section is exempt from disclosure under public records law.
 
-      (c) If the department determines that a recipient is prohibited from possessing a firearm under ORS 166.250 (1)(c), as soon as practicable, the department may report the attempted transfer and the recipient’s name to the appropriate law enforcement agency.
+      (c) If the department determines that a recipient is prohibited from possessing a firearm under ORS 166.250 (1)(c), the department shall report the attempted transfer, the recipient’s name and any other personally identifiable information to all federal, state and local law enforcement agencies and district attorneys that have jurisdiction over the location or locations where the attempted transfer was made and where the recipient resides.
+
+      (d) If the department determines that, based on the judgment of conviction, the recipient is prohibited from possessing a firearm as a condition of probation or that the recipient is currently on post-prison supervision or parole, the department shall report the attempted transfer to the recipient’s supervising officer and the district attorney of the county in which the conviction occurred.
+
+      (e) If the department determines that the recipient is prohibited from possessing a firearm due to a court order described in ORS 166.255 (1)(a), the department shall report the attempted transfer to the court that issued the order.
+
+      (f) If the department determines that the recipient is under the jurisdiction of the Psychiatric Security Review Board, the department shall report the attempted transfer to the board.
+
+      (g) Reports required by paragraphs (c) to (f) of this subsection shall be made within 24 hours after the determination is made, unless a report would compromise an ongoing investigation, in which case the report may be delayed as long as necessary to avoid compromising the investigation.
+
+      (h) On or before January 31 of each year, a law enforcement agency or a prosecuting attorney’s office that received a report pursuant to paragraph (c) of this subsection during the previous calendar year shall inform the department of any action that was taken concerning the report and the outcome of the action.
+
+      (i) The department shall annually publish a written report, based on any information received under paragraph (h) of this subsection, detailing the following information for the previous year:
+
+      (A) The number of recipients whom the department determined were prohibited from possessing a firearm under ORS 166.250 (1)(c), arranged by category of prohibition;
+
+      (B) The number of reports made pursuant to paragraph (c) of this subsection;
+
+      (C) The number of investigations arising from the reports made pursuant to paragraph (c) of this subsection, the number of investigations concluded and the number of investigations referred for prosecution, all arranged by category of prohibition; and
+
+      (D) The number of criminal charges arising from the reports made pursuant to paragraph (c) of this subsection and the disposition of the charges, both arranged by category of prohibition.
 
       (6) The recipient of the firearm must be present when the transferor requests a criminal background check under this section.
 
@@ -2233,7 +2405,7 @@ SALE OR TRANSFER OF FIREARMS
 
       (A) If the transferor knows, or reasonably should know, that the recipient of the firearm intends to deliver the firearm to a third person who the transferor knows, or reasonably should know, may not lawfully possess the firearm; or
 
-      (B) In any product liability civil action under ORS 30.900 to 30.920. [2001 c.1 §6; 2015 c.50 §3]
+      (B) In any product liability civil action under ORS 30.900 to 30.920. [2001 c.1 §6; 2015 c.50 §3; 2018 c.5 §5; 2018 c.120 §16]
 
  
 
@@ -2959,7 +3131,7 @@ RACKETEERING
 
       (RR) ORS 166.015, relating to riot;
 
-      (SS) ORS 166.155 and 166.165, relating to intimidation;
+      (SS) ORS 166.155 and 166.165, relating to bias crimes;
 
       (TT) ORS chapter 696, relating to real estate and escrow;
 
@@ -2997,7 +3169,7 @@ RACKETEERING
 
       (b) In gambling activity in violation of federal law or in the business of lending money at a rate usurious under federal or state law.
 
-      (8) Notwithstanding contrary provisions in ORS 174.060, when this section references a statute in the Oregon Revised Statutes that is substantially different in the nature of its essential provisions from what the statute was when this section was enacted, the reference shall extend to and include amendments to the statute. [1981 c.769 §2; 1983 c.338 §898; 1983 c.715 §1; 1985 c.176 §5; 1985 c.557 §8; 1987 c.158 §31; 1987 c.249 §7; 1987 c.789 §20; 1987 c.907 §12; 1989 c.384 §2; 1989 c.839 §27; 1989 c.846 §13; 1989 c.982 §6; 1991 c.398 §3; 1991 c.962 §6; 1993 c.95 §13; 1993 c.215 §1; 1993 c.508 §45; 1993 c.680 §29; 1995 c.301 §35; 1995 c.440 §13; 1995 c.768 §10; 1997 c.631 §420; 1997 c.789 §1; 1997 c.867 §23; 1999 c.722 §8; 1999 c.878 §4; 2001 c.146 §1; 2001 c.147 §3; 2003 c.111 §1; 2003 c.484 §8; 2003 c.801 §15; 2003 c.804 §66; 2007 c.498 §3; 2007 c.585 §26; 2007 c.811 §7; 2007 c.869 §7; 2009 c.717 §25; 2011 c.597 §166; 2011 c.681 §6; 2013 c.584 §27; 2013 c.688 §23; 2017 c.21 §46; 2017 c.235 §21]
+      (8) Notwithstanding contrary provisions in ORS 174.060, when this section references a statute in the Oregon Revised Statutes that is substantially different in the nature of its essential provisions from what the statute was when this section was enacted, the reference shall extend to and include amendments to the statute. [1981 c.769 §2; 1983 c.338 §898; 1983 c.715 §1; 1985 c.176 §5; 1985 c.557 §8; 1987 c.158 §31; 1987 c.249 §7; 1987 c.789 §20; 1987 c.907 §12; 1989 c.384 §2; 1989 c.839 §27; 1989 c.846 §13; 1989 c.982 §6; 1991 c.398 §3; 1991 c.962 §6; 1993 c.95 §13; 1993 c.215 §1; 1993 c.508 §45; 1993 c.680 §29; 1995 c.301 §35; 1995 c.440 §13; 1995 c.768 §10; 1997 c.631 §420; 1997 c.789 §1; 1997 c.867 §23; 1999 c.722 §8; 1999 c.878 §4; 2001 c.146 §1; 2001 c.147 §3; 2003 c.111 §1; 2003 c.484 §8; 2003 c.801 §15; 2003 c.804 §66; 2007 c.498 §3; 2007 c.585 §26; 2007 c.811 §7; 2007 c.869 §7; 2009 c.717 §25; 2011 c.597 §166; 2011 c.681 §6; 2013 c.584 §27; 2013 c.688 §23; 2017 c.21 §46; 2017 c.235 §21; 2019 c.553 §15]
 
  
 

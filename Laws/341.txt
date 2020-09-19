@@ -4,20 +4,6 @@ Chapter 341 — Community Colleges
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0017; 2018 Session Laws 0054; 2018 Session Laws 0082
-
- 
-
- 
-
 
  
 
@@ -40,6 +26,10 @@ GENERAL PROVISIONS
  
 
 341.009     Policy
+
+ 
+
+341.013     Applied baccalaureate degrees; approval process; rules
 
  
 
@@ -157,15 +147,11 @@ DISTRICT BOARDS
 
 341.283     Organization; meetings; quorum; rules; journal; expenses
 
- 
-
 (Status)
 
  
 
 341.287     Status; official title of board
-
- 
 
 (Powers)
 
@@ -203,7 +189,7 @@ DISTRICT BOARDS
 
  
 
-341.317     Educational services to inmates at correctional institutions; reimbursement
+341.317     Educational services to adults in custody at correctional institutions; reimbursement
 
  
 
@@ -223,7 +209,7 @@ DISTRICT BOARDS
 
  
 
-341.327     Mode of election of board
+341.327     Method of electing board
 
  
 
@@ -587,11 +573,11 @@ FINANCE
 
  
 
-(Temporary provisions relating to lottery bonds are compiled as notes following ORS 341.721)
+(Temporary provisions relating to lottery bonds to provide funding for Facility for Agricultural Resource Management Fund are compiled as notes following ORS 341.721)
 
  
 
-(Temporary provisions relating to general obligation bonds issued for the 2017-2019 biennium are compiled as notes following ORS 341.721)
+(Temporary provisions relating to general obligation bonds issued for the 2019-2021 biennium are compiled as notes following ORS 341.721)
 
  
 
@@ -627,7 +613,13 @@ GENERAL PROVISIONS
 
       (3) “Board member” means a member of the board of education of a community college district.
 
-      (4) “Community college” means a public institution operated by a community college district for the purposes of providing courses of study limited to not more than two years’ full-time attendance, with the exception of technical programs in which the curriculum may require more than two years of attendance but less than four years, and designed to meet the needs of a geographical area by providing educational services, including but not limited to career and technical education programs or lower division collegiate programs.
+      (4)(a) Except as provided in paragraph (b) of this subsection, “community college” means a public institution operated by a community college district for the purposes of providing courses of study limited to not more than two years’ full-time attendance and designed to meet the needs of a geographical area by providing educational services, including but not limited to career and technical education programs or lower division collegiate programs.
+
+      (b) The two-year limitation described in paragraph (a) of this subsection does not apply to:
+
+      (A) Technical programs in which the curriculum may require more than two years of attendance but less than four years; or
+
+      (B) Applied baccalaureate degree programs approved under ORS 341.013.
 
       (5) “Community college district” or “district” means a district formed under this chapter to operate one or more community colleges or to secure educational services available at a community college. “Community college district” includes a community college service district.
 
@@ -639,7 +631,7 @@ GENERAL PROVISIONS
 
       (9) “Petitioning territory” means a community college district petitioning to have an area outside the district included in the district or to have an area inside the district excluded from the district, or an area outside the district petitioning to be included within the district.
 
-      (10) “Principal county” means the county in which the chief administrative officer of the community college district maintains the administrative office. [Formerly 341.510; 1971 c.513 §1; 1981 c.173 §52; 1987 c.474 §4; 1993 c.45 §§127,128; 1995 c.67 §1; 1997 c.271 §3; 2009 c.94 §11; 2013 c.747 §43; 2015 c.366 §12]
+      (10) “Principal county” means the county in which the chief administrative officer of the community college district maintains the administrative office. [Formerly 341.510; 1971 c.513 §1; 1981 c.173 §52; 1987 c.474 §4; 1993 c.45 §§127,128; 1995 c.67 §1; 1997 c.271 §3; 2009 c.94 §11; 2013 c.747 §43; 2015 c.366 §12; 2019 c.255 §3]
 
  
 
@@ -651,9 +643,9 @@ GENERAL PROVISIONS
 
       (3) The community college should establish its organizational patterns to maintain a unique quality of flexibility and the ability to change to meet changing needs.
 
-      (4) The community college is a post-high-school institution. It should not be a “starter” institution intended to evolve into a four-year baccalaureate institution. It should be concerned with programs terminating before reaching the baccalaureate degree.
+      (4) The community college is a post-high-school institution. It should not be a “starter” institution intended to evolve into a four-year baccalaureate institution. Except as provided in ORS 341.013, it should be concerned with programs terminating before reaching the baccalaureate degree.
 
-      (5) The community college should continue to be prohibited by law from becoming a baccalaureate degree granting institution.
+      (5) Except as provided in ORS 341.013, the community college should continue to be prohibited by law from becoming a baccalaureate degree granting institution.
 
       (6) Admission to the community college should be open to high school graduates or to persons who have not graduated from high school who can profit from the instruction offered.
 
@@ -681,11 +673,35 @@ GENERAL PROVISIONS
 
       (16) The cost of education to the individual should be sufficiently low to permit students of low-income families to attend. This is particularly true of tuition costs. However, students should pay an amount sufficient to provide an incentive to profit from the instructional program offered.
 
-      (17) Any eligible Oregon resident should have the right to attend a community college even though not residing in a district operating one, subject to the right of the governing board to limit the size of classes and to give preference to students residing in the district. Local school districts and education service districts should have the authority to negotiate the terms and conditions with the governing boards for the enrollment of students residing in such areas. [1971 c.513 §97; 1993 c.45 §130; 1995 c.67 §2; 2007 c.858 §36; 2009 c.94 §12; 2011 c.637 §122; 2013 c.747 §44]
+      (17) Any eligible Oregon resident should have the right to attend a community college even though not residing in a district operating one, subject to the right of the governing board to limit the size of classes and to give preference to students residing in the district. Local school districts and education service districts should have the authority to negotiate the terms and conditions with the governing boards for the enrollment of students residing in such areas. [1971 c.513 §97; 1993 c.45 §130; 1995 c.67 §2; 2007 c.858 §36; 2009 c.94 §12; 2011 c.637 §122; 2013 c.747 §44; 2019 c.255 §4]
 
  
 
       341.010 [Repealed by 1965 c.100 §456]
+
+ 
+
+      341.013 Applied baccalaureate degrees; approval process; rules. (1) As used in this section, “applied baccalaureate degree” has the meaning given that term in ORS 348.910.
+
+      (2) A community college may offer applied baccalaureate degrees under the provisions of this section.
+
+      (3) For each applied baccalaureate degree program a community college wants to offer to its students, the community college shall submit to the Higher Education Coordinating Commission:
+
+      (a) A description of the program to be offered;
+
+      (b) The method by which the program will be created, including any necessary accreditation by the relevant accrediting agency;
+
+      (c) Documentation of local unmet workforce needs that would be addressed by offering the program; and
+
+      (d) Documentation that the community college has the expertise, resources and student interest necessary to make the program successful.
+
+      (4) A proposed applied baccalaureate degree program must be approved by the commission. The commission shall approve a proposed applied baccalaureate degree program if:
+
+      (a) The community college submits all of the information and documentation required under subsection (3) of this section; and
+
+      (b) The commission determines that the criteria set forth in ORS 350.075 (3)(g) are satisfied.
+
+      (5) The commission may adopt rules to implement this section. [2019 c.255 §2]
 
  
 
@@ -772,8 +788,6 @@ DIRECT AND CONTRACT SERVICES
  
 
 COMMUNITY COLLEGE DISTRICTS
-
- 
 
 (Formation)
 
@@ -899,8 +913,6 @@ COMMUNITY COLLEGE DISTRICTS
 
       (3) Upon receipt of the final recommendation, the Legislative Assembly shall approve or disapprove the recommendation. If the recommendation is approved, an election under ORS 341.085 shall be held. If the recommendation is disapproved, the commission may revise its recommendation and resubmit a final recommendation to the Legislative Assembly but not sooner than 60 days after the action of disapproval was taken. [1969 c.673 §6 (enacted in lieu of 341.075); 1971 c.513 §75; 1977 c.827 §1; 2003 c.574 §1; 2013 c.747 §53]
 
- 
-
       341.080 [Repealed by 1965 c.100 §456]
 
  
@@ -939,13 +951,15 @@ COMMUNITY COLLEGE DISTRICTS
 
  
 
-      341.125 First board. (1) The first board of education of a district shall be elected at the same election as the election at which votes are cast for the formation of the district. Nominations for the board of education positions to be filled by nomination and election at-large shall be made by petition requesting that such person’s name be placed on the ballot and signed with the signatures of at least 50 electors registered in the proposed district. If the district has been zoned and the position is to be filled by nomination or election by zone, the petition shall be signed by at least 25 electors registered in the zone. The petition shall be presented to the Higher Education Coordinating Commission at least 70 days prior to the election. Upon receipt of petitions that comply with applicable law, the commission shall cause the names of the nominees to be placed upon the ballot.
+      341.125 First board. Except as provided in ORS 255.400 to 255.424:
+
+      (1) The first board of education of a district shall be elected at the same election as the election at which votes are cast for the formation of the district. Nominations for the board of education positions to be filled by nomination and election at-large shall be made by petition requesting that such person’s name be placed on the ballot and signed with the signatures of at least 50 electors registered in the proposed district. If the district has been zoned and the position is to be filled by nomination or election by zone, the petition shall be signed by at least 25 electors registered in the zone. The petition shall be presented to the Higher Education Coordinating Commission at least 70 days prior to the election. Upon receipt of petitions that comply with applicable law, the commission shall cause the names of the nominees to be placed upon the ballot.
 
       (2) Seven members shall be elected to the first board, to serve terms of four and two years respectively in accordance with the number of votes each receives with the three members receiving the largest number of votes serving the four-year terms. The terms of office of the members of the first board shall be computed from the date of June 30 subsequent to the date of their election, but the members shall take office immediately following the election. If for any reason a district is not formed, the election of board members for that proposed district is void.
 
       (3) If the district has been zoned, the commission shall designate the positions to be nominated or elected by zone and shall specify the length of the term to be served by each member of the first board elected by zone.
 
-      (4) If the election is at large, the length of the term of office of members of the first board elected shall be determined in accordance with the number of votes each receives in the election. Those receiving the highest number of votes may serve the four-year terms, subject to any term designations made by the commission under subsection (3) of this section. [Formerly 341.800; 1971 c.513 §79; 1973 c.796 §52; 1983 c.83 §74; 1995 c.258 §8; 2013 c.747 §57]
+      (4) If the election is at large, the length of the term of office of members of the first board elected shall be determined in accordance with the number of votes each receives in the election. Those receiving the highest number of votes may serve the four-year terms, subject to any term designations made by the commission under subsection (3) of this section. [Formerly 341.800; 1971 c.513 §79; 1973 c.796 §52; 1983 c.83 §74; 1995 c.258 §8; 2013 c.747 §57; 2019 c.449 §37]
 
  
 
@@ -963,13 +977,11 @@ COMMUNITY COLLEGE DISTRICTS
 
 (Zones)
 
- 
-
-      341.175 Adjustment of zone boundaries. The board shall adjust the boundaries of zones established within a district as necessary to make them as nearly equal in population as is feasible according to the latest federal census. The board also shall adjust boundaries of zones as necessary to reflect boundary changes of the district. [Formerly 341.916; 1969 c.220 §3; 1971 c.513 §28; 1983 c.350 §199]
+      341.175 Adjustment of zone boundaries. Except as provided in ORS 255.400 to 255.424, the board shall adjust the boundaries of zones established within a district as necessary to make them as nearly equal in population as is feasible according to the latest federal census. The board also shall adjust boundaries of zones as necessary to reflect boundary changes of the district. [Formerly 341.916; 1969 c.220 §3; 1971 c.513 §28; 1983 c.350 §199; 2019 c.449 §38]
 
  
 
-      341.185 Review of zone boundaries. Any elector of a district aggrieved by the adjustment of or failure to adjust boundaries of a zone pursuant to ORS 341.175 on the basis that population is not as nearly equal as is feasible is entitled to appear before the board at a public hearing to present the case. If the board refuses to make the requested adjustment in the boundaries, the aggrieved elector may appeal from the decision of the board to the circuit court. The appeal shall be by writ of review. [1971 c.513 §29; 1983 c.350 §200]
+      341.185 Review of zone boundaries. Except as provided in ORS 255.400 to 255.424, any elector of a district aggrieved by the adjustment of or failure to adjust boundaries of a zone pursuant to ORS 341.175 on the basis that population is not as nearly equal as is feasible is entitled to appear before the board at a public hearing to present the case. If the board refuses to make the requested adjustment in the boundaries, the aggrieved elector may appeal from the decision of the board to the circuit court. The appeal shall be by writ of review. [1971 c.513 §29; 1983 c.350 §200; 2019 c.449 §39]
 
  
 
@@ -1022,8 +1034,6 @@ COMMUNITY COLLEGE DISTRICTS
  
 
 DISTRICT BOARDS
-
- 
 
 (Composition)
 
@@ -1081,7 +1091,7 @@ DISTRICT BOARDS
 
       341.290 General powers; rules. The board of education of a community college district shall be responsible for the general supervision and control of any and all community colleges operated by the district. Consistent with any applicable rules of the Higher Education Coordinating Commission, the board of education of a community college district may:
 
-      (1) Subject to ORS chapters 238 and 238A, employ administrative officers, professional personnel and other employees, define their duties, terms and conditions of employment and prescribe compensation therefor, pursuant to ORS 243.650 to 243.782.
+      (1) Subject to ORS chapters 238 and 238A, employ administrative officers, professional personnel and other employees, define their duties, terms and conditions of employment and prescribe compensation therefor, pursuant to ORS 243.650 to 243.806.
 
       (2) Enact rules for the government of the community college, including professional personnel and other employees and students of the community college.
 
@@ -1183,13 +1193,13 @@ DISTRICT BOARDS
 
  
 
-      341.317 Educational services to inmates at correctional institutions; reimbursement. (1) Reimbursement from the Community College Support Fund established in ORS 341.620 may be made available to community colleges that deliver educational services to inmates confined to the state-operated correctional facilities and to locally operated correctional facilities. The reimbursement shall be distributed as directed in ORS 341.626 and the rules of the Higher Education Coordinating Commission.
+      341.317 Educational services to adults in custody at correctional institutions; reimbursement. (1) Reimbursement from the Community College Support Fund established in ORS 341.620 may be made available to community colleges that deliver educational services to adults in custody confined to the state-operated correctional facilities and to locally operated correctional facilities. The reimbursement shall be distributed as directed in ORS 341.626 and the rules of the Higher Education Coordinating Commission.
 
       (2) The commission shall review and approve services to correctional institutions at least once biennially.
 
       (3) The enrollment limitation, as provided by ORS 341.022, does not apply to persons receiving services under this section.
 
-      (4) Reimbursement from the Community College Support Fund established in ORS 341.620 may not be made available to community colleges for delivering educational services to inmates confined in federal prisons. Neither shall local property taxes be used to support the services. A host community college shall support the services through a contractual arrangement with the federal government. [1987 c.204 §3; 1989 c.256 §1; 1995 c.67 §15; 2013 c.747 §60]
+      (4) Reimbursement from the Community College Support Fund established in ORS 341.620 may not be made available to community colleges for delivering educational services to adults in custody confined in federal prisons. Neither shall local property taxes be used to support the services. A host community college shall support the services through a contractual arrangement with the federal government. [1987 c.204 §3; 1989 c.256 §1; 1995 c.67 §15; 2013 c.747 §60; 2019 c.213 §130]
 
  
 
@@ -1217,19 +1227,21 @@ DISTRICT BOARDS
 
 (Nomination and Election)
 
- 
+      341.326 Qualification. Except as provided in ORS 255.400 to 255.424:
 
-      341.326 Qualification. (1) At each regular district election, board members shall be elected for a term of four years to succeed the board members whose terms of office expire on June 30 of that year.
+      (1) At each regular district election, board members shall be elected for a term of four years to succeed the board members whose terms of office expire on June 30 of that year.
 
       (2) A person shall be qualified to be a candidate for election to the board if the person is an elector who resides in the district. If the district is zoned and the position sought is one elected or nominated by zone, the person also must reside in the zone from which the person is nominated.
 
       (3) Members of a board shall be nominated and elected at large or by zones according to a method described in ORS 341.327 and determined under ORS 341.025 or 341.331.
 
-      (4) A board member must qualify for office by taking an oath of office. [Formerly 341.333]
+      (4) A board member must qualify for office by taking an oath of office. [Formerly 341.333; 2019 c.449 §24]
 
  
 
-      341.327 Mode of election of board. (1) The board members may be elected in one of the following methods or a combination thereof:
+      341.327 Method of electing board. Except as provided in ORS 255.400 to 255.424:
+
+      (1) The board members may be elected in one of the following methods or a combination thereof:
 
       (a) Elected by electors of zones as nearly equal in population as possible according to the latest federal census.
 
@@ -1237,7 +1249,7 @@ DISTRICT BOARDS
 
       (2) Candidates for election from zones shall be nominated by electors of the zones. Candidates for election at large may be nominated by electors of zones or by electors of the district, as determined under subsection (3) of this section.
 
-      (3) Where the method selected under subsection (2) of this section includes a combination of nomination of candidates from and by zones and of nomination of candidates at large, the number of candidates to be nominated in each manner shall be specified in the petition submitted under ORS 341.025 or under ORS 341.331. [Formerly 341.280]
+      (3) Where the method selected under subsection (2) of this section includes a combination of nomination of candidates from and by zones and of nomination of candidates at large, the number of candidates to be nominated in each manner shall be specified in the petition submitted under ORS 341.025 or under ORS 341.331. [Formerly 341.280; 2019 c.449 §25]
 
  
 
@@ -1249,7 +1261,9 @@ DISTRICT BOARDS
 
  
 
-      341.331 Change in method of nominating and electing board. (1) This section establishes the procedure for determining whether the method adopted in a district for nominating and electing board members should be changed to another method described in ORS 341.327. The question shall be decided by election. The district board shall order an election on the question when a petition is filed as provided in this section.
+      341.331 Change in method of nominating and electing board. Except as provided in ORS 255.400 to 255.424:
+
+      (1) This section establishes the procedure for determining whether the method adopted in a district for nominating and electing board members should be changed to another method described in ORS 341.327. The question shall be decided by election. The district board shall order an election on the question when a petition is filed as provided in this section.
 
       (2) Except as otherwise provided in this section, the requirements for preparing, circulating and filing a petition under this section shall be as provided for an initiative petition in ORS 255.135 to 255.205.
 
@@ -1271,7 +1285,7 @@ DISTRICT BOARDS
 
       (6) Before submitting to election a question to which subsection (3) of this section applies, the district board shall adjust the proposed boundaries of the zones to make them as nearly equal in population as feasible according to the latest federal census. The district board shall amend the ballot title as necessary to reflect its adjustment of the boundaries.
 
-      (7) If the electors of the district approve the establishment of zones or a change in the number of existing zones, board members shall continue to serve until their terms of office expire. As vacancies occur, positions to be filled by nomination or election by zone shall be filled by persons who reside within zones which are not represented on the board. If more than one zone is not represented on the board when a vacancy occurs, the zone entitled to elect a board member shall be decided by lot. [Formerly 341.165; 1995 c.79 §186; 1995 c.534 §15]
+      (7) If the electors of the district approve the establishment of zones or a change in the number of existing zones, board members shall continue to serve until their terms of office expire. As vacancies occur, positions to be filled by nomination or election by zone shall be filled by persons who reside within zones which are not represented on the board. If more than one zone is not represented on the board when a vacancy occurs, the zone entitled to elect a board member shall be decided by lot. [Formerly 341.165; 1995 c.79 §186; 1995 c.534 §15; 2019 c.449 §26]
 
  
 
@@ -1335,9 +1349,9 @@ DISTRICT BOARDS
 
 ELECTIONS GENERALLY
 
- 
+      341.356 Election laws applicable. Except as provided in ORS 255.400 to 255.424:
 
-      341.356 Election laws applicable. (1) ORS chapter 255 governs the following:
+      (1) ORS chapter 255 governs the following:
 
       (a) The nomination and election of board members.
 
@@ -1345,7 +1359,7 @@ ELECTIONS GENERALLY
 
       (2) The electors of a community college district may exercise the powers of the initiative and referendum regarding a district measure, in accordance with ORS 255.135 to 255.205.
 
-      (3) ORS 249.865 to 249.877 govern the recall of board members. [1983 c.350 §206]
+      (3) ORS 249.865 to 249.877 govern the recall of board members. [1983 c.350 §206; 2019 c.449 §27]
 
  
 
@@ -1355,7 +1369,7 @@ ELECTIONS GENERALLY
 
       (3) The board may also cause broadcasting of any notice required to be published in the manner provided in ORS 193.310 to 193.360.
 
-      (4) The board shall cause the time and place of publishing each of the notices required by subsection (1) of this section and the content of such notices to be recorded in the minutes of the board. [1971 c.513 §11; 1973 c.796 §56; 1983 c.350 §207; 2015 c.841 §4]
+      (4) The board shall cause the time and place of publishing each of the notices required by subsection (1) of this section and the content of such notices to be recorded in the minutes of the board. [1971 c.513 §11; 1973 c.796 §56; 1983 c.350 §207; 2015 c.841 §4; 2019 c.449 §28]
 
  
 
@@ -1543,10 +1557,6 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
  
 
-      Note: 341.470 first applies to the 2018-2019 academic year. See section 3, chapter 267, Oregon Laws 2017.
-
- 
-
       341.475 Student loan fund. A community college district may establish a student loan fund and apply to and receive from the federal government such grants or loans as may be available for such loans. [Formerly 341.815]
 
  
@@ -1655,7 +1665,7 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (c) If the student elects to withdraw from the community college, the right to be readmitted and reenrolled at the community college within one year after release from active duty without a requirement of redetermination of admission eligibility; and
 
-      (d) The right to continuation of scholarships and grants awarded to the student that were funded by the community college or the Office of Student Access and Completion before the student was ordered to active duty.
+      (d) The right to continuation of scholarships and grants awarded to the student that were funded by the community college or the Office of Student Access and Completion before the student was ordered to active duty. The Higher Education Coordinating Commission may adopt rules for the administration of scholarships and grants described in this paragraph that are funded by the Office of Student Access and Completion.
 
       (2) If the student elects to withdraw from a course under subsection (1)(a)(A) of this section, the community college may not:
 
@@ -1673,13 +1683,25 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (c) A letter grade or a grade of pass may be awarded only if, in the opinion of the teacher of the course, the student completes sufficient work and demonstrates sufficient progress toward meeting course requirements to justify the grade.
 
-      (4) Boards of education of community college districts shall adopt rules for the administration of this section.
+      (4) If a student at a community college who is a member of the military, a member of the commissioned corps of the National Oceanic and Atmospheric Administration or a member of the Public Health Service of the United States Department of Health and Human Services detailed by proper authority for duty with the Army or Navy of the United States is ordered to federal or state active duty for 30 or fewer consecutive days and misses a course session, assignment, examination or other course work due to serving on active duty or receiving medical treatment for an injury sustained on active duty:
 
-      (5) As used in this section, “member of the military” means a person who is a member of:
+      (a)(A) In accordance with a policy or practice of the community college for excused absences, the student may complete any missed course assignment, examination or other course work after the student has returned from active duty or medical treatment and has been provided a reasonable amount of time to complete the assignment or other course work or prepare for and take the examination; or
+
+      (B) The teacher may award a letter grade or grade of pass without requiring the student to complete the missed assignment, examination or other course work if the teacher determines that the student has completed sufficient work and demonstrated sufficient progress toward meeting course requirements to justify the student’s grade without completion of the missed assignment, examination or other course work;
+
+      (b) The student’s grade may not be adversely impacted solely due to the late completion of an assignment, examination or other course work if the assignment, examination or other course work is timely completed under the provisions of paragraph (a)(A) of this subsection; and
+
+      (c) Course sessions the student misses due to active duty or medical treatment shall be counted as excused absences and may not adversely impact the student’s grade for the course or rank in the student’s class.
+
+      (5) Boards of education of community college districts shall adopt rules for the administration of this section.
+
+      (6) Nothing in this section prevents a community college from providing rights in addition to those provided in this section to students who are ordered to federal or state active duty.
+
+      (7) As used in this section, “member of the military” means a person who is a member of:
 
       (a) The Oregon National Guard or the National Guard of any other state or territory; or
 
-      (b) The reserves of the Army, Navy, Air Force, Marine Corps or Coast Guard of the United States. [Formerly 341.531]
+      (b) The reserves of the Army, Navy, Air Force, Marine Corps or Coast Guard of the United States. [Formerly 341.531; 2018 c.82 §1]
 
  
 
@@ -1833,7 +1855,33 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (b) In addition to the situation described in paragraph (a) of this subsection, the commission may waive the requirement set forth in subsection (3)(d) of this section for a person who shows that the person was unable to timely enroll in courses described in subsection (3)(a) of this section due to a significant hardship. The commission may adopt rules to implement this paragraph.
 
-      (5) A member of the Oregon National Guard who has completed initial active duty training is not required to comply with the criteria set forth in subsection (3)(d) of this section in order to receive a grant, provided that the member first enrolls in courses described in subsection (3)(a) of this section within six months after completing initial active duty training, as evidenced by an official form issued by the United States Department of Defense.
+      (5)(a) A member of the Oregon National Guard who has completed initial active duty training is not required to comply with the criteria set forth in subsection (3)(d) of this section in order to receive a grant, provided that the member first enrolls in courses described in subsection (3)(a) of this section within six months after completing initial active duty training, as evidenced by an official form issued by the United States Department of Defense.
+
+      (b)(A) A person who completes the highest level of education as described in subsection (3)(c) of this section while confined in a correctional facility, either serving a sentence of incarceration or as a young person, youth or youth offender, is not required to comply with the criteria set forth in subsection (3)(d) of this section in order to receive a grant, provided that the person first enrolls in courses described in subsection (3)(a) of this section within six months after the date on which the person is first released from a correctional facility following completion of the highest level of education described in subsection (3)(c) of this section.
+
+      (B) The eligibility requirements described in subsection (6)(a)(C) of this section may be waived by the office according to rules adopted by the commission for a person who receives a grant under this section in the manner described in subparagraph (A) of this paragraph.
+
+      (C) As used in this paragraph:
+
+      (i) “Correctional facility” means any place used for the confinement of young persons, youth or youth offenders or persons charged with or convicted of a crime or otherwise confined under a court order, including a:
+
+      (I) Youth correction facility;
+
+      (II) Detention facility;
+
+      (III) Department of Corrections institution;
+
+      (IV) Local correctional facility; or
+
+      (V) State hospital or a secure intensive community inpatient facility, with respect to persons detained therein who are youth or youth offenders, who are charged with or convicted of a crime or who are detained therein after having been found guilty except for insanity of a crime under ORS 161.290 to 161.373 or having been found responsible except for insanity under ORS 419C.411.
+
+      (ii) “Department of Corrections institution” has the meaning given that term in ORS 421.005.
+
+      (iii) “Detention facility,” “young person,” “youth” and “youth offender” have the meanings given those terms in ORS 419A.004.
+
+      (iv) “Local correctional facility” has the meaning given that term in ORS 169.005.
+
+      (v) “Youth correction facility” has the meaning given that term in ORS 420.005.
 
       (6)(a) A person continues to remain eligible to receive a grant under this section if the person, in addition to satisfying the criteria specified in subsection (3) of this section, meets the following criteria:
 
@@ -1863,9 +1911,13 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (b) The amount of a grant, as calculated under paragraph (a) of this subsection, shall be reduced by $50 for each term that the person receives a grant under this section.
 
-      (c) The minimum amount of a grant, as calculated under paragraph (a) of this subsection, may be prorated for a person who is enrolled in courses described in subsection (3)(a) of this section for a sufficient number of credit hours to be considered at least a half-time student but not a full-time student.
+      (c)(A) If the office determines both that the person’s actual cost for tuition exceeds the amount set forth in paragraph (a)(A)(i) of this subsection and that the person’s actual cost for tuition exceeds the average cost of tuition at a community college in this state, the person shall be eligible for a grant in an amount that equals the average cost of tuition at a community college in this state.
 
-      (d) The commission may prescribe by rule whether to include fees, and any limitations related to the inclusion of fees, when determining the actual cost of tuition or the average cost of tuition under this subsection.
+      (B) If the office determines that the person’s actual cost for tuition is less than the amount set forth in paragraph (a)(A)(i) of this subsection, the person shall be eligible for a grant in an amount that equals the amount set forth in paragraph (a)(A)(i) of this subsection.
+
+      (d) The minimum amount of a grant, as calculated under paragraphs (a) to (c) of this subsection, may be prorated for a person who is enrolled in courses described in subsection (3)(a) of this section for a sufficient number of credit hours to be considered at least a half-time student but not a full-time student.
+
+      (e) The commission may prescribe by rule whether to include fees, and any limitations related to the inclusion of fees, when determining the actual cost of tuition or the average cost of tuition under this subsection.
 
       (8) The commission may adopt by rule the priority by which grants are awarded, which may allow for preference to be given to persons enrolled in school districts or high schools that meet specified criteria.
 
@@ -1907,131 +1959,7 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (d) The financial impact and the enrollment impact of the program on community colleges and public universities in this state; and
 
-      (e) The overall success rate of the program and financial impact of the program. [2015 c.697 §2; 2016 c.75 §1; 2017 c.66 §18; 2017 c.697 §§1,2]
-
- 
-
-      Note: The amendments to 341.522 by section 2, chapter 697, Oregon Laws 2017, first apply to Oregon Promise program grants awarded for the 2018-2019 academic year. See section 3, chapter 697, Oregon Laws 2017. The text that applies prior to the 2018-2019 academic year, including amendments by section 1, chapter 75, Oregon Laws 2016, section 18, chapter 66, Oregon Laws 2017, and section 1, chapter 697, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      341.522. (1) The Office of Student Access and Completion shall administer the Oregon Promise program as provided by this section.
-
-      (2) Subject to subsections (6) to (9) of this section, the office shall provide a grant for community college courses to a person who meets the criteria described in subsections (3) to (5) of this section. The grant shall be limited as provided by subsections (6) to (9) of this section.
-
-      (3) A grant shall be awarded under this section to a person who meets the following criteria:
-
-      (a) Is enrolled in courses that are:
-
-      (A) Offered at a community college in this state; and
-
-      (B) Determined by the office, in accordance with rules adopted by the Higher Education Coordinating Commission, to be required for completion of:
-
-      (i) A one-year curriculum for students who plan to transfer to another post-secondary institution of education;
-
-      (ii) An associate degree; or
-
-      (iii) A program in career and technical education;
-
-      (b) Has been a resident of this state for at least 12 months prior to enrolling in the courses described in paragraph (a) of this subsection;
-
-      (c) Attained the person’s highest level of education in this state prior to:
-
-      (A) Receiving a diploma under ORS 329.451;
-
-      (B) Receiving a certificate for passing an approved high school equivalency test such as the General Educational Development (GED) test as provided by ORS 350.175;
-
-      (C) Completing grade 12 in compliance with the requirements of ORS 339.035; or
-
-      (D) Completing grade 12 at a private or parochial school, as described in ORS 339.030 (1)(a);
-
-      (d) Except as provided in subsection (4) of this section, attained the person’s highest level of education as described in paragraph (c) of this subsection within six months from the date that the person first enrolls in courses described in paragraph (a) of this subsection for the purpose of receiving a grant under this section;
-
-      (e) Earned a cumulative grade point average of 2.5 or better in high school or otherwise demonstrated an equivalent academic ability, as determined by the office according to rules adopted by the commission;
-
-      (f) Completed and submitted the Free Application for Federal Student Aid for each academic year and accepted all state and federal aid grants available to the person, if eligible to file the application; and
-
-      (g) Has not completed either of the following:
-
-      (A) More than a total of 90 credit hours, or the equivalent, at a post-secondary institution of education; or
-
-      (B) A curriculum, degree or program, as described in paragraph (a)(B) of this subsection.
-
-      (4)(a) If a person otherwise meets the required criteria and has been awarded a grant under subsection (3) of this section, but the person enters into service with a career and technical student organization relating to agriculture or farming that is approved by the Department of Education under ORS 344.077 within six months after the person attained the person’s highest level of education as described in subsection (3)(c) of this section, the person will continue to be eligible to receive the grant if the person first enrolls in courses described in subsection (3)(a) of this section within six months of finishing the person’s service with the career and technical student organization.
-
-      (b) In addition to the situation described in paragraph (a) of this subsection, the commission may waive the requirement set forth in subsection (3)(d) of this section for a person who shows that the person was unable to timely enroll in courses described in subsection (3)(a) of this section due to a significant hardship. The commission may adopt rules to implement this paragraph.
-
-      (5)(a) A person continues to remain eligible to receive a grant under this section if the person, in addition to satisfying the criteria specified in subsection (3) of this section, meets the following criteria:
-
-      (A) Maintains at least the minimum cumulative grade point average prescribed by the commission based on federal aid grant requirements;
-
-      (B) Makes satisfactory academic progress toward a curriculum, degree or program, as described in subsection (3)(a)(B) of this section, as prescribed by the commission based on federal aid grant requirements;
-
-      (C) Enrolls in courses described in subsection (3)(a) of this section for a sufficient number of credit hours to be considered at least a half-time student each term for at least three terms in each consecutive academic year; and
-
-      (D) Completes a first-year experience, as identified by the community college and reported by the community college to the commission.
-
-      (b) A person who fails to meet an eligibility requirement described in paragraph (a) of this subsection becomes ineligible to receive a grant under this section for the term after which the person fails to meet the eligibility requirement, unless the eligibility requirement is waived by the office according to rules adopted by the commission.
-
-      (6)(a) The total amount of a grant awarded under this section shall be based on each term that a person is enrolled in courses described in subsection (3)(a) of this section. Except as provided in subsections (8) and (9) of this section, after the amount of tuition for the person for the term is reduced by any amounts received by the person in state and federal aid grants, the person shall be eligible for a grant under this section in an amount that equals:
-
-      (A) Except as provided by paragraphs (b) and (c) of this subsection, not less than the greater of:
-
-      (i) $1,000; and
-
-      (ii) The person’s actual cost for tuition.
-
-      (B) Not more than the lesser of:
-
-      (i) The average cost of tuition at a community college in this state, as determined by the office; and
-
-      (ii) The person’s actual cost for tuition.
-
-      (b) The amount of a grant, as calculated under paragraph (a) of this subsection, shall be reduced by $50 for each term that the person receives a grant under this section.
-
-      (c) The minimum amount of a grant, as calculated under paragraph (a) of this subsection, may be prorated for a person who is enrolled in courses described in subsection (3)(a) of this section for a sufficient number of credit hours to be considered at least a half-time student but not a full-time student.
-
-      (d) The commission may prescribe by rule whether to include fees, and any limitations related to the inclusion of fees, when determining the actual cost of tuition or the average cost of tuition under this subsection.
-
-      (7) The commission may adopt by rule the priority by which grants are awarded, which may allow for preference to be given to persons enrolled in school districts or high schools that meet specified criteria.
-
-      (8) Prior to the start of the fall term of each academic year, the commission shall determine whether there are sufficient moneys to award a grant under this section to each person who meets the criteria described in subsections (3) to (5) of this section. On the basis of this determination the commission may:
-
-      (a) Limit eligibility to receive a grant under this section to a person whose family contribution, as determined by the commission by rule, is at or below the level the commission determines is necessary to allow the commission to operate the Oregon Promise program with available moneys; or
-
-      (b) Reduce or eliminate any limitation on eligibility previously imposed by the commission under paragraph (a) of this subsection.
-
-      (9)(a) If at any time the commission determines that there are insufficient moneys to provide a grant to each person who has been awarded a grant under this section, the commission may:
-
-      (A) Decrease the total amount of the grant awarded; or
-
-      (B) Increase the amount that a person must pay under subsection (6)(b) of this section for each term that the person receives a grant under this section.
-
-      (b) If at any time the commission determines that the amount of moneys available to operate the Oregon Promise program exceeds the amount determined under subsection (8) of this section, the commission may reduce or eliminate any limitation on eligibility to receive a grant under this section that was previously imposed by the commission under subsection (8)(a) of this section.
-
-      (c) The commission shall promptly notify the interim committees of the Legislative Assembly responsible for higher education each time the commission takes any action under paragraph (a) or (b) of this subsection.
-
-      (10) The commission shall adopt any rules necessary for the administration of this section, including any requirements related to:
-
-      (a) Specifying the form and timelines for submitting an application for a grant under this section;
-
-      (b) Determining whether a person is eligible for a grant under this section, including whether the person shall be given priority as allowed under subsection (7) of this section;
-
-      (c) Implementing programs or policies that improve the academic success or completion rates for persons who receive a grant under this section;
-
-      (d) Prescribing eligibility requirements and grant calculations for persons dually enrolled in a community college and a public university; and
-
-      (e) Evaluating the impact of the program established under this section, including any requirements for reporting data needed for evaluations.
-
-      (11) No later than December 31 of each even-numbered year, the commission shall submit to an interim legislative committee related to education a report that summarizes the commission’s findings on the impact of the program established under this section. The report shall include:
-
-      (a) Student completion rates of curricula, degrees and programs described in subsection (3)(a)(B) of this section;
-
-      (b) The amount of federal aid grants received by persons who received a grant under this section;
-
-      (c) The financial impact of the program on school districts that had students receive a grant under this section;
-
-      (d) The financial impact and the enrollment impact of the program on community colleges and public universities in this state; and
-
-      (e) The overall success rate of the program and financial impact of the program.
+      (e) The overall success rate of the program and financial impact of the program. [2015 c.697 §2; 2016 c.75 §1; 2017 c.66 §18; 2017 c.697 §§1,2; 2019 c.384 §2; 2019 c.596 §1]
 
  
 
@@ -2137,6 +2065,48 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (4) An administrative employee may elect to participate in the optional retirement plan only if at the time the election becomes effective the employee is not concurrently employed in a position with any participating public employer other than the community college district in a position that entitles the employee to membership in the Public Employees Retirement System. Except as provided in subsection (9) of this section, employees who elect to participate in the optional retirement plan are ineligible for active membership in the Public Employees Retirement System for as long as those employees are employed by a community college district that participates in the plan, whether by reason of employment by the district or any other participating public employer.
 
+      (5)(a) An administrative employee who elects to participate in the optional retirement plan, who has creditable service under ORS chapter 238 as defined by ORS 238.005 and who is not vested shall be considered by the Public Employees Retirement Board to be a terminated member under the provisions of ORS 238.095 as of the effective date of the election, and the amounts credited to the member accounts of the member established under ORS 238.250, 238.260, 238A.350 and 238A.353 shall be transferred directly to the optional retirement plan by the Public Employees Retirement Board in the manner provided by subsection (6) of this section.
+
+      (b) An administrative employee who elects to participate in the optional retirement plan, who has creditable service under ORS chapter 238 as defined by ORS 238.005 and who is vested shall be considered to be an inactive member by the Public Employees Retirement Board and shall retain all the rights, privileges and options under ORS chapter 238 unless the employee makes a written request to the Public Employees Retirement Board for a transfer of the amounts credited to the member accounts of the member established under ORS 238.250, 238.260, 238A.350 and 238A.353 to the optional retirement plan. A request for a transfer must be made at the time the member elects to participate in the optional retirement plan. Upon receiving the request, the Public Employees Retirement Board shall transfer all amounts credited to the member accounts of the member established under ORS 238.250, 238.260, 238A.350 and 238A.353 directly to the optional retirement plan in the manner provided by subsection (6) of this section and shall terminate all rights, privileges and options of the employee under the Public Employees Retirement System.
+
+      (c) An administrative employee who elects to participate in the optional retirement plan and who is a member of the pension program of the Oregon Public Service Retirement Plan as described in ORS 238A.100 on the date that the election becomes effective, but who has not vested in the program under ORS 238A.115 on the date that the election becomes effective, shall be considered to be a terminated member of the Public Employees Retirement System by the Public Employees Retirement Board as of the effective date of the election. The board shall transfer the amounts credited to the member accounts of the member established under ORS 238A.350 and 238A.353 directly to the optional retirement plan in the manner provided by subsection (6) of this section.
+
+      (d) An administrative employee who elects to participate in the optional retirement plan and who is a vested member of the pension program of the Oregon Public Service Retirement Plan as described in ORS 238A.115 on the date that the election becomes effective shall be considered an inactive member of the pension program by the Public Employees Retirement Board as of the effective date of the election. A member who is subject to the provisions of this paragraph retains all the rights, privileges and options of an inactive member of the pension program, unless the member makes a written request to the Public Employees Retirement Board for a transfer of the amounts credited to the member accounts of the member established under ORS 238A.350 and 238A.353 to the optional retirement plan. The request must be made at the time the member elects to participate in the optional retirement plan. Upon receiving the request, the Public Employees Retirement Board shall transfer the amounts credited to the member accounts of the member established under ORS 238A.350 and 238A.353 directly to the optional retirement plan in the manner provided by subsection (6) of this section and shall terminate the membership of the employee in the Public Employees Retirement System.
+
+      (e) Notwithstanding paragraphs (b) and (d) of this subsection, the Public Employees Retirement Board shall not treat any employee as an inactive member under the provisions of this subsection for the purpose of receiving any benefit under ORS chapter 238 or 238A that requires that the employee be separated from all service with participating public employers and with employers who are treated as part of a participating public employer’s controlled group under the federal laws and rules governing the status of the Public Employees Retirement System and the Public Employees Retirement Fund as a qualified governmental retirement plan and trust.
+
+      (6) Any amounts transferred from the Public Employees Retirement Fund under subsection (5) of this section shall be transferred directly to the optional retirement plan by the Public Employees Retirement Board and shall not be made available to the employee.
+
+      (7) An employee participating in the optional retirement plan shall contribute monthly an amount equal to the percentage of the employee’s salary that the employee would otherwise have contributed as an employee contribution to the Public Employees Retirement System if the employee had not elected to participate in the optional retirement plan.
+
+      (8) A participating community college district shall contribute monthly to the optional retirement plan the percentage of salary for each employee participating in the plan that is equal to the percentage of salary that is required to be made as the employer contribution under ORS 238A.220, less any contributions made by reason of unfunded liabilities. The district may make contributions under this subsection only during periods of time in which the employee would be eligible for membership in the Public Employees Retirement System if the employee had not elected to participate in the optional retirement plan.
+
+      (9) An administrative employee who elects to participate in the optional retirement plan may make an election to withdraw from the plan. An employee may make an election under this subsection only once. Upon withdrawing from the plan:
+
+      (a) All contributions made to the plan before the effective date of the withdrawal remain credited to the employee;
+
+      (b) The employee becomes a member of the Public Employees Retirement System under ORS chapter 238A if the member meets all requirements for membership under ORS chapter 238A; and
+
+      (c) The employee is barred from ever again electing to participate in the optional retirement plan.
+
+      (10) For the purposes of this section, “administrative employee” means a president, vice president or dean, or a person holding a position that is the equivalent of a president, vice president or dean. [2005 c.728 §2; 2015 c.366 §23; 2019 c.355 §19]
+
+ 
+
+      Note: The amendments to 341.551 by section 19, chapter 355, Oregon Laws 2019, become operative July 1, 2020. See section 60, chapter 355, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      341.551. (1) Notwithstanding any provision of ORS chapter 238 or 238A, the Office of Community Colleges and Workforce Development may establish and administer an optional retirement plan for administrative employees of community college districts who are eligible for membership in the Public Employees Retirement System. Any community college district may participate in the plan by giving written notice to the office.
+
+      (2) An administrative employee may make an election to participate in the optional retirement plan if the community college district that employs the employee is participating in the plan. The election must be made in the following manner:
+
+      (a) An administrative employee who is an active member of the Public Employees Retirement System may make an election to participate in the plan within 180 days after the community college district commences participation in the plan, effective on the first day of the month following the election.
+
+      (b) An administrative employee who is hired after the community college district commences participation in the plan may make an election to participate in the plan within the first six months of employment, effective on the first day of the month following six full months of employment.
+
+      (3) An administrative employee who does not elect to participate in the optional retirement plan remains or becomes a member of the Public Employees Retirement System in accordance with ORS chapters 238 and 238A.
+
+      (4) An administrative employee may elect to participate in the optional retirement plan only if at the time the election becomes effective the employee is not concurrently employed in a position with any participating public employer other than the community college district in a position that entitles the employee to membership in the Public Employees Retirement System. Except as provided in subsection (9) of this section, employees who elect to participate in the optional retirement plan are ineligible for active membership in the Public Employees Retirement System for as long as those employees are employed by a community college district that participates in the plan, whether by reason of employment by the district or any other participating public employer.
+
       (5)(a) An administrative employee who elects to participate in the optional retirement plan, who has creditable service under ORS chapter 238 as defined by ORS 238.005 and who is not vested shall be considered by the Public Employees Retirement Board to be a terminated member under the provisions of ORS 238.095 as of the effective date of the election, and the amount credited to the member account of the member shall be transferred directly to the optional retirement plan by the Public Employees Retirement Board in the manner provided by subsection (6) of this section.
 
       (b) An administrative employee who elects to participate in the optional retirement plan, who has creditable service under ORS chapter 238 as defined by ORS 238.005 and who is vested shall be considered to be an inactive member by the Public Employees Retirement Board and shall retain all the rights, privileges and options under ORS chapter 238 unless the employee makes a written request to the Public Employees Retirement Board for a transfer of the amounts credited to the member account of the member to the optional retirement plan. A request for a transfer must be made at the time the member elects to participate in the optional retirement plan. Upon receiving the request, the Public Employees Retirement Board shall transfer all amounts credited to the member account of the member directly to the optional retirement plan and shall terminate all rights, privileges and options of the employee under ORS chapter 238.
@@ -2163,7 +2133,7 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (c) The employee is barred from ever again electing to participate in the optional retirement plan.
 
-      (10) For the purposes of this section, “administrative employee” means a president, vice president or dean, or a person holding a position that is the equivalent of a president, vice president or dean. [2005 c.728 §2; 2015 c.366 §23]
+      (10) For the purposes of this section, “administrative employee” means a president, vice president or dean, or a person holding a position that is the equivalent of a president, vice president or dean.
 
  
 
@@ -2187,7 +2157,9 @@ ESTABLISHMENT AND OPERATION OF COMMUNITY COLLEGES
 
       (3) Any compensation described and authorized under subsection (1) of this section is considered official compensation or reimbursement of expenses for purposes of ORS 244.040 and is not considered an honorarium prohibited by ORS 244.042. If authorization or receipt of the compensation creates a potential conflict of interest, the faculty member shall report the potential conflict in writing in accordance with standards of the board. The disclosure is a public record subject to public inspection.
 
-      (4) Each board shall adopt standards governing faculty outside employment and activities, including potential conflicts of interest, as defined by standards of the board and consistent with ORS 244.020, and the public disclosure thereof, and procedures for reporting and hearing potential or actual conflict of interest complaints. [2017 c.413 §2]
+      (4) Compensation described and authorized under subsection (1) of this section that is not paid by the community college employing the faculty member is not salary for purposes of ORS chapter 238 or 238A.
+
+      (5) Each board shall adopt standards governing faculty outside employment and activities, including potential conflicts of interest, as defined by standards of the board and consistent with ORS 244.020, and the public disclosure thereof, and procedures for reporting and hearing potential or actual conflict of interest complaints. [2017 c.413 §2; 2018 c.54 §1]
 
  
 
@@ -2261,7 +2233,9 @@ BOUNDARY CHANGES
 
  
 
-      341.577 Procedure when district annexes new territory that is greater in population than original district. (1) Notwithstanding any other provision of this chapter, when the new territory annexed to an existing community college district is greater in population than the original territory, based upon the latest federal census, the provisions of this section shall govern the community college district for a period of not less than 10 years after the effective date of the boundary change.
+      341.577 Procedure when district annexes new territory that is greater in population than original district. Except as provided in ORS 255.400 to 255.424:
+
+      (1) Notwithstanding any other provision of this chapter, when the new territory annexed to an existing community college district is greater in population than the original territory, based upon the latest federal census, the provisions of this section shall govern the community college district for a period of not less than 10 years after the effective date of the boundary change.
 
       (2) Program access and facilities for students shall be maintained in the original territory for a period of not less than 20 years while programs and facilities for students are developed in the new territory.
 
@@ -2297,7 +2271,7 @@ BOUNDARY CHANGES
 
       (8) After receiving any recommendation of the advisory committee, the board may continue one or more of the provisions of subsections (1) and (3) to (7) of this section in effect for an indefinite period after the expiration of the 10-year period referred to in subsection (1) of this section.
 
-      (9) The original territory shall remain liable for the existing debt of the community college district payable from ad valorem property taxes levied specifically for the payment of such indebtedness. [1995 c.357 §2; 2013 c.747 §68]
+      (9) The original territory shall remain liable for the existing debt of the community college district payable from ad valorem property taxes levied specifically for the payment of such indebtedness. [1995 c.357 §2; 2013 c.747 §68; 2019 c.449 §40]
 
  
 
@@ -2411,8 +2385,6 @@ EXPANSION OF COMMUNITY COLLEGE DISTRICTS
 
 AID FOR OPERATION
 
- 
-
       341.620 Community College Support Fund. There is established a Community College Support Fund in the General Fund. [Derived from 1991 c.162 §1; 1995 c.67 §27]
 
  
@@ -2431,9 +2403,7 @@ AID FOR OPERATION
 
       (c) Procedures that will ensure reasonable year-to-year stability in the delivery of appropriated moneys to the colleges; and
 
-      (d) Procedures to ensure that the full state appropriation is distributed to the colleges.
-
-      (3) Upon compliance with the rules adopted by the commission, the director shall, as soon as practicable following the receipt of required reports from the districts, prepare, certify and transmit to the Oregon Department of Administrative Services the names and the amounts due each district. The Oregon Department of Administrative Services shall audit the amounts certified by the director and draw its warrants on the State Treasury payable out of the General Fund to the districts. [1987 c.474 §10 (enacted in lieu of 341.625); 2013 c.747 §70; 2015 c.366 §24]
+      (d) Procedures to ensure that the full state appropriation is distributed to the colleges. [1987 c.474 §10 (enacted in lieu of 341.625); 2013 c.747 §70; 2015 c.366 §24; 2019 c.384 §17]
 
  
 
@@ -2469,11 +2439,7 @@ AID FOR OPERATION
 
 FINANCE
 
- 
-
 (Finance System)
-
- 
 
       341.670 System for reporting finances. (1) The community college districts of this state shall use the same system for reporting finances.
 
@@ -2541,7 +2507,7 @@ FINANCE
 
       341.690 Tax levy to meet annual bonded indebtedness; bond sinking fund. (1) The board of the district shall ascertain and levy annually, in addition to all other taxes, a direct ad valorem tax on all the taxable property in the district, sufficient to pay the maturing interest and principal of all community college district bonds outstanding promptly when and as such payments become due. The amount of the tax may be increased by an amount sufficient to retire any bonds which may be callable. The board shall annually file a copy of its budget and levies with the paying agent and registrar. The board shall in each year include such taxes in the district budget for such year. Such taxes shall in each year be certified, extended upon the tax rolls and collected by the same officers in the same manner and at the same time as the taxes for general district purposes.
 
-      (2) The funds derived from such tax levies shall be retained by the paying agent and registrar without being paid to the district or to any officer thereof, and shall be kept by the paying agent and registrar in a separate fund to be known as and designated “______Community College District Bond Interest and Sinking Fund,” which shall be irrevocably pledged to and used solely for the payment of the interest accruing on and the principal of the bonds when due, so long as any of the bonds or the coupons thereto appertaining remain outstanding and unpaid. The interest earnings of such fund shall be credited thereto and become a part thereof. For failure to retain and account for such funds, as provided in this section, the paying agent and registrar shall be liable upon the official bond of the paying agent and registrar.
+      (2) The funds derived from such tax levies shall be retained by the paying agent and registrar without being paid to the district or to any officer thereof, and shall be kept by the paying agent and registrar in a separate fund to be known as and designated “______ Community College District Bond Interest and Sinking Fund,” which shall be irrevocably pledged to and used solely for the payment of the interest accruing on and the principal of the bonds when due, so long as any of the bonds or the coupons thereto appertaining remain outstanding and unpaid. The interest earnings of such fund shall be credited thereto and become a part thereof. For failure to retain and account for such funds, as provided in this section, the paying agent and registrar shall be liable upon the official bond of the paying agent and registrar.
 
       (3) The fund shall not be diverted or used for any other purpose; but if a surplus remains after all interest and principal have been paid on all community college district bonds then outstanding and unpaid, the surplus may be transferred to such other fund as the board of the district may direct.
 
@@ -2649,53 +2615,37 @@ FINANCE
 
  
 
-(Temporary provisions relating to lottery bonds)
+(Temporary provisions relating to lottery bonds to provide funding
+
+for Facility for Agricultural Resource Management Fund)
 
  
 
-      Note: Sections 14 and 14a, chapter 121, Oregon Laws 2014, provide:
+      Note: Sections 25 and 26, chapter 671, Oregon Laws 2019, provide:
 
-      Sec. 14. Lottery bonds to provide funding to Central Oregon Community College for Cascades Hall. (1) For the biennium beginning July 1, 2013, at the request of the Oregon Department of Administrative Services, after the department consults with the Office of Community Colleges and Workforce Development, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that does not exceed $1.63 million in net proceeds for the purpose described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
+      Sec. 25. (1) For the biennium beginning July 1, 2019, at the request of the Oregon Department of Administrative Services, after the department consults with the Higher Education Coordinating Commission, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $6.5 million in net proceeds for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
 
-      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $1.63 million in net proceeds and interest earnings must be deposited to the Cascades Hall Reacquisition Fund established under section 14a of this 2014 Act for the purpose of terminating the leasehold on, and remodeling, Cascades Hall on the campus of the Central Oregon Community College.
+      (2) Net proceeds of lottery bonds issued under this section must be transferred to the Higher Education Coordinating Commission for deposit in the Facility for Agricultural Resource Management Fund, established in section 26 of this 2019 Act, to provide a grant to the Blue Mountain Community College to design and construct a new facility for animal science programs, including veterinary technician, livestock breeding and equine health management.
 
-      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that the proceeds will be used to finance public education. [2014 c.121 §14]
+      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the following findings:
 
-      Sec. 14a. Cascades Hall Reacquisition Fund. (1) The Cascades Hall Reacquisition Fund is established in the State Treasury, separate and distinct from the General Fund. Amounts in the Cascades Hall Reacquisition Fund may be invested as provided in ORS 293.701 to 293.857, and interest earned on the fund must be credited to the fund.
+      (a) Providing financing to build a community college agricultural education building expands opportunities for hands-on learning; and
 
-      (2) Amounts credited to the fund are continuously appropriated to the Higher Education Coordinating Commission for the purpose of terminating the leasehold on, and remodeling, Cascades Hall on the campus of the Central Oregon Community College and for the purpose of paying bond-related costs. The commission shall deposit in the fund:
+      (b) Having facilities to prepare students for agricultural careers helps to support Oregon’s rural agricultural economy. [2019 c.671 §25]
 
-      (a) The net proceeds and interest earnings of lottery bonds issued pursuant to section 14, chapter 121, Oregon Laws 2014;
+      Sec. 26. (1) The Facility for Agricultural Resource Management Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Facility for Agricultural Resource Management Fund must be credited to the fund. The Facility for Agricultural Resource Management Fund consists of moneys deposited in the fund under section 25 of this 2019 Act and may include moneys appropriated, allocated, deposited or transferred to the fund by the Legislative Assembly or otherwise and interest earned on moneys in the fund.
 
-      (b) Amounts appropriated or otherwise provided by the Legislative Assembly for deposit in the fund; and
-
-      (c) Gifts, grants or contributions received by the commission for the purpose described in this section.
-
-      (3) The commission may create separate accounts in the fund as appropriate for the management of moneys in the fund. [2014 c.121 §14a; 2015 c.366 §56]
+      (2) Moneys in the fund are continuously appropriated to the Higher Education Coordinating Commission for disbursement for the purposes set forth in section 25 of this 2019 Act. [2019 c.671 §26]
 
  
 
-      Note: Sections 10 and 10a, chapter 812, Oregon Laws 2015, provide:
-
-      Sec. 10. Lottery bonds to provide funding to Linn-Benton Community College for expansion of Advanced Transportation Technology Center. (1) For the biennium beginning July 1, 2015, at the request of the Oregon Department of Administrative Services, after the department consults with the Higher Education Coordinating Commission, the State Treasurer is authorized to issue lottery bonds pursuant to ORS 286A.560 to 286A.585 in an amount that produces $1.5 million in net proceeds and interest earnings for the purposes described in subsection (2) of this section, plus an additional amount estimated by the State Treasurer to be necessary to pay bond-related costs.
-
-      (2) Net proceeds of lottery bonds issued under this section in an amount sufficient to provide $1.5 million in net proceeds and interest earnings must be transferred to the Higher Education Coordinating Commission for deposit in the Linn-Benton Community College Alternative Fuels Fund, established under section 10a of this 2015 Act, to provide grant funding to Linn-Benton Community College for expansion of the Advanced Transportation Technology Center.
-
-      (3) The Legislative Assembly finds that the use of lottery bond proceeds will create jobs, further economic development, finance public education or restore and protect parks, beaches, watersheds and native fish and wildlife, and is authorized based on the finding that energy conservation, renewable energy and general business development projects create jobs and facilitate and encourage economic development. [2015 c.812 §10]
-
-      Sec. 10a. Linn-Benton Community College Alternative Fuels Fund. (1) The Linn-Benton Community College Alternative Fuels Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned on moneys in the Linn-Benton Community College Alternative Fuels Fund shall be credited to the fund. The Linn-Benton Community College Alternative Fuels Fund consists of moneys deposited in the fund under section 10 of this 2015 Act and may include fees, revenues or other income deposited into the fund by the Legislative Assembly.
-
-      (2) Moneys in the fund are continuously appropriated to the Higher Education Coordinating Commission for purposes described in section 10 of this 2015 Act. [2015 c.812 §10a]
+(Temporary provisions relating to general obligation bonds issued for the 2019-2021 biennium)
 
  
 
-(Temporary provisions relating to general obligation bonds issued for the 2017-2019 biennium)
+      Note: Sections 1, 5, 6 and 8, chapter 661, Oregon Laws 2019, provide:
 
- 
-
-      Note: Sections 1 and 9, chapter 570, Oregon Laws 2017, provide:
-
-      Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issuance of general obligation bonds of the state during the 2017-2019 biennium, notwithstanding section 10, chapter 705, Oregon Laws 2013, are as follows:
+      Sec. 1. The amounts authorized, as provided by ORS 286A.035, for issuance of general obligation bonds of the state during the 2019-2021 biennium, notwithstanding section 9, chapter 570, Oregon Laws 2017, are as follows:
 
  
 
@@ -2705,405 +2655,295 @@ FINANCE
 
       General Fund Obligations
 
-      (1)             Higher Education Coordinating
+      (1)  Higher Education Coordinating
 
-                        Commission (Art. XI-G):
+      Commission (Art. XI-G):
 
-      (a)             Oregon Institute of
+      (a)  Blue Mountain Community
 
-                        Technology, Center for
+      College, Facility for
 
-                        Excellence in Engineering
+      Agricultural Resource
 
-                        and Technology/Cornett
+      Management         $          6,615,000
 
-                        Hall Renovation                                 $          2,050,000
+      (b)  Central Oregon Community
 
-      (b)             Oregon State University:
+      College, Classroom Building
 
-      (A)             Quality Foods and Beverage
+      Redmond Campus $          8,125,000
 
-                        Center                                                 $          9,100,000
+      (c)  Clatsop Community College,
 
-      (B)             Gilkey Hall Renovation                      $          2,050,000
+      Maritime Science Building           $          8,120,000
 
-      (c)             Portland State University,
+      (d) Klamath Community College,
 
-                        Graduate School of
+      Apprenticeship and Industrial
 
-                        Education Facility                              $          36,485,000
+      Trades Center       $          3,965,000
 
-      (d)             University of Oregon,
+      (e)  Lane Community College,
 
-                        Campus for Accelerating
+      Health Care Village Facility         $          8,125,000
 
-                        Scientific Impact                                $          50,620,000
+      (f)  Mt. Hood Community College,
 
-      (e)             Western Oregon University:
+      Maywood Park Center      $          8,125,000
 
-      (A)             Information Technology
+      (g)  Oregon Coast Community
 
-                        Center Renovation                              $          540,000
+      College, Workforce Education
 
-      (B)             Oregon Military Building
+      and Resiliency Center       $          8,125,000
 
-                        Renovation                                         $          540,000
+      (h)  Portland Community College,
 
-      (f)              Blue Mountain Community
+      Health Technology Building
 
-                        College, Facility for
+      Renovation            $          8,125,000
 
-                        Agricultural Resource
+      (i)   Southwestern Oregon
 
-                        Management                                       $          5,115,000
+      Community College,
 
-      (g)             Chemeketa Community
+      Sumner and Coaledo Halls
 
-                        College, Agricultural
+      Remodel    $          2,800,000
 
-                        Complex                                             $          6,125,000
+      (j)   Treasure Valley Community
 
-      (h)             Clackamas Community College:
+      College, Nursing-Allied
 
-      (A)             DeJardin Building Addition               $          8,140,000
+      Health Professions Center $          5,015,000
 
-      (B)             Student Services and
+      (k)  Umpqua Community College,
 
-                        Community Commons                       $          8,140,000
+      Industrial Technology
 
-      (i)              Clatsop Community College,
+      Building    $          8,125,000
 
-                        Marine Science Center
+      (2)  Oregon Business Development
 
-                        Renovation and Expansion                 $          8,135,000
+      Department (Art. XI-M)   $          101,240,000
 
-      (j)              Columbia Gorge Community
+      (3)  Oregon Business Development
 
-                        College, Middle College
+      Department (Art. XI-N)    $          20,270,000
 
-                        Prototype Facility                               $          7,400,000
+      (4)  Department of Education
 
-      (k)             Lane Community College,
+      (Art. XI-P) $          126,090,000
 
-                        Health Care Village Facility              $          8,140,000
+      (5)  Oregon Department of
 
-      (L)             Linn-Benton Community
+      Administrative
 
-                        College, Student Advising
+      Services (Art. XI-Q):
 
-                        and Campus Safety Center                 $          7,635,000
+      (a)  State Fair Horse Barn $          3,050,000
 
-      (m)             Mt. Hood Community College,
+      (b)  State Fair Poultry Barn           $          2,045,000
 
-                        Maywood Park Center                        $          8,140,000
+      (c)  State Fair Facilities
 
-      (n)             Oregon Coast Community
+      Capital Improvement        $          5,430,000
 
-                        College, Workforce Education
+      (d) Department of Corrections:
 
-                        and Resiliency Center                         $          8,140,000
+      (A) Capital Improvement and
 
-      (o)             Portland Community College,
+      Renewal    $          24,810,000
 
-                        Health Technology
+      (B) Radio System  $          14,235,000
 
-                        Building Renovation                          $          8,140,000
+      (C) Camera System           $          8,790,000
 
-      (p)             Rogue Community College,
+      (e)  Department of Human
 
-                        Elk Building Science Facility
+      Services, ONE Integrated
 
-                        Renovation and Expansion                 $          6,125,000
+      Eligibility and Medicaid
 
-      (q)             Southwestern Oregon
+      Eligibility System $          38,165,000
 
-                        Community College,
+      (f)  Housing and Community
 
-                        Dellwood Hall Remodel and
+      Services Department:
 
-                        Expansion                                           $          2,805,000
+      (A) Local Innovation and Fast
 
-      (r)              Treasure Valley Community
+      Track Housing Program    $          151,550,000
 
-                        College, Workforce
+      (B) Permanent Supportive
 
-                        Vocational Center                               $          2,865,000
+      Housing     $          50,730,000
 
-      (s)              Umpqua Community College,
+      (g)  Higher Education
 
-                        Industrial Technology
+      Coordinating Commission:
 
-                        Building                                              $          8,140,000
+      (A) Public Universities Capital
 
-      (2)             Department of Environmental
+      Improvement and Renewal           $          65,715,000
 
-                        Quality (Art. XI-H)                             $          10,300,000
+      (B) Oregon Institute of
 
-      (3)             Oregon Business Development
+      Technology, OMIC R&D Rapid
 
-                        Department (Art. XI-M)                     $          101,180,000
+      Toolmaking Center, Rapid
 
-      (4)             Oregon Business Development
+      Prototyping Education Lab
 
-                        Department (Art. XI-N)                      $          20,430,000
+      and Sinter HIP Equipment            $          12,905,000
 
-      (5)             Department of Education
+      (h)  Oregon Military Department:
 
-                        (Art. XI-P)                                          $          100,985,000
+      (A) Salem and Pendleton
 
-      (6)             Oregon Department of
+      Aviation Facility Emergency
 
-                        Administrative
+      Enhancement        $          9,985,000
 
-                        Services (Art. XI-Q):
+      (B) Portland Jackson Armory
 
-      (a)             Department of Corrections:
+      Service Life Extension     $          4,335,000
 
-      (A)             Capital Improvements and
+      (C) Salem Owen Summers and
 
-                        Renewal                                              $          26,770,000
+      Anderson Readiness Center
 
-      (B)             Technology Infrastructure                  $          12,445,000
+      Service Life Extension     $          5,910,000
 
-      (b)             Department of Education,
+      (D) Oregon Military Museum       $          2,045,000
 
-                        Oregon School for the Deaf
+      (i)   Oregon Youth Authority:
 
-                        Facility Improvements                       $          4,365,000
+      (A) Oak Creek Medical and
 
-      (c)             Department of Human
+      Dental Renovations          $          1,345,000
 
-                        Services, ONE Integrated
+      (B) Tillamook Medical and
 
-                        Eligibility and Medicaid
+      Dental Renovations          $          1,595,000
 
-                        Eligibility System                               $          34,045,000
+      (C) MacLaren Infirmary and
 
-      (d)             Department of Justice,
+      Pharmacy Renovation and
 
-                        Child Support Enforcement
+      Expansion $          1,875,000
 
-                        Automated System                             $          16,585,000
+      (D) MacLaren West Cottages
 
-      (e)             Department of Revenue,
+      Renovation            $          14,325,000
 
-                        Core Tax Revenue Systems
+      (E) Rogue Valley Facility
 
-                        Replacement                                       $          4,855,000
+      Improvements       $          8,135,000
 
-      (f)              Department of Veterans’
+      (F) Control Room Renovations    $          1,850,000
 
-                        Affairs:
+      (G) Capital Improvements $          5,305,000
 
-      (A)             Lebanon Veteran’s Home
+      (j)   State Forestry Department,
 
-                        Parking Lot                                         $          1,345,000
+      Toledo Facility Replacement        $          1,249,223
 
-      (B)             The Dalles Veterans’ Home
+      (k)  Department of
 
-                        Capital Improvements                        $          1,195,000
+      Environmental Quality,
 
-      (C)             Roseburg Veterans’ Home                 $          10,720,000
+      Environmental Data
 
-      (g)             Housing and Community
+      Management System        $          5,065,000
 
-                        Services Department, Local
+      (L) Legislative Administration
 
-                        Innovation and Fast Track
+      Committee, Document
 
-                        Housing Program                               $          81,090,000
+      Publishing and
 
-      (h)             Higher Education
+      Management System        $          9,280,000
 
-                        Coordinating Commission:
+      (m) Judicial Department:
 
-      (A)             Public Universities Capital
+      (A) Clackamas County
 
-                        Improvement and Renewal                 $          50,620,000
+      Courthouse            $          31,935,000
 
-      (B)             Eastern Oregon University,
+      (B) Lane County Courthouse        $          88,455,000
 
-                        Loso Hall Renovation                        $          5,575,000
+      (C) Linn County Courthouse        $          16,180,000
 
-      (C)             Oregon Institute of
+      (D) Multnomah County
 
-                        Technology:
+      Courthouse            $          8,625,000
 
-      (i)              Center for Excellence in
+      (E) Supreme Court
 
-                        Engineering and Technology/
-
-                        Cornett Hall Renovation                    $          38,475,000
-
-      (ii)             Oregon Manufacturing
-
-                        Innovation Center, Research
-
-                        and Development Facility                  $          3,940,000
-
-      (D)             Oregon State University:
-
-      (i)              Cordley Hall Renovation                    $          15,250,000
-
-      (ii)             Fairbanks Hall Renovation                 $          11,220,000
-
-      (iii)            Gilkey Hall Renovation                      $          1,045,000
-
-      (iv)             Cascades Expansion Site
-
-                        Reclamation                                       $          9,145,000
-
-      (E)             Portland State University,
-
-                        Graduate School of
-
-                        Education Facility                              $          9,145,000
-
-      (F)             Southern Oregon
-
-                        University, Central Hall
-
-                        Capital Improvements                         $          6,125,000
-
-      (G)             Western Oregon University:
-
-      (i)              Information Technology
-
-                        Center Renovation                              $          5,070,000
-
-      (ii)             Oregon Military Building
-
-                        Renovation                                         $          7,335,000
-
-      (i)              Legislative Administration
-
-                        Committee, Capitol
-
-                        Accessibility, Maintenance,
-
-                        and Safety                                          $          13,960,000
-
-      (j)              Oregon Judicial Department:
-
-      (A)             Lane County Courthouse                    $          5,115,000
-
-      (B)             Multnomah County
-
-                        Courthouse                                         $          102,495,000
-
-      (C)             Oregon Supreme Court
-
-                        Building Renovation                          $          6,125,000
-
-      (k)             Oregon Military Department:
-
-      (A)             Grants Pass Armory
-
-                        Service Life Extension                       $          3,330,000
-
-      (B)             Regional Armory Emergency
-
-                        Enhancement Project                          $          8,675,000
-
-      (C)             Regional Training Institute                $          6,630,000
-
-      (D)             Resiliency Grant Fund                        $          5,070,000
-
-      (E)             Youth Challenge Armory                   $          5,095,000
-
-      (L)             Oregon Youth Authority:
-
-      (A)             Capital Improvements                        $          17,450,000
-
-      (B)             MacLaren West Cottages
-
-                        Renovation                                         $          15,450,000
-
-      (C)             Rogue Valley Facility
-
-                        Improvements                                     $          7,095,000
-
-      (m)             State Department of Fish
-
-                        and Wildlife                                       $          10,215,000
-
-      (n)             State Forestry Department,
-
-                        Toledo Facility Replacement             $          774,225
+      Building Renovation         $          28,230,000
 
       Dedicated Fund Obligations
 
-      (7)             Department of Veterans’
+      (6)  Department of Veterans’
 
-                        Affairs (Art. XI-A)                             $          120,000,000
+      Affairs (Art. XI-A)           $          180,000,000
 
-      (8)             Higher Education Coordinating
+      (7)  Department of Environmental
 
-                        Commission (Art. XI-F(1)):
+      Quality (Art. XI-H)          $          10,000,000
 
-      (a)             Portland State University:
+      (8)  Housing and Community
 
-      (A)             Land Acquisition for
+      Services Department
 
-                        University Center Building                $          15,260,000
+      (Art. XI-I(2))        $          50,000,000
 
-      (B  )           12th & Market
+      (9)  Oregon Department of
 
-                        Residence Hall                                    $          54,225,000
+      Administrative Services
 
-      (C)             Graduate School of
+      (Art. XI-Q):
 
-                        Education Facility                              $          6,080,000
+      (a)  Revenue Building Electrical
 
-      (D)             Corbett Building Purchase                 $          5,100,000
+      System Upgrades  $          10,240,000
 
-      (b)             Oregon Institute of
+      (b)  Justice Building
 
-                        Technology, Student
+      Exterior Renovations        $          5,105,000
 
-                        Recreation Center                              $          5,115,000
+      (c)  Portland State Office
 
-      (c)             Eastern Oregon University,
+      Building Improvements    $          8,725,000
 
-                        Track and Field Facilities
+      (d) Wilsonville Building
 
-                        Restoration                                         $          790,000
+      Purchase    $          24,330,000
 
-      (9)             Department of Environmental
+      (e)  State Forestry Department,
 
-                        Quality (Art. XI-H)                             $          10,000,000
-
-      (10)           Housing and Community
-
-                        Services Department
-
-                        (Art. XI-I(2))                                       $          25,000,000
-
-      (11)           Oregon Department of
-
-                        Administrative Services
-
-                        (Art. XI-Q):
-
-      (a)             Portland State Office
-
-                        Building Improvements                      $          13,360,000
-
-      (b)             State Forestry Department,
-
-                        Toledo Facility Replacement             $          1,075,775
+      Toledo Facility Replacement        $          1,735,777
 
  
 
       Total General Obligation
 
-      Bonds                                                                    $          1,257,310,000
+      Bonds        $          1,236,150,000 [2019 c.661 §1]
 
-[2017 c.570 §1]
+      Sec. 5. For purposes of Article XI-G, section 1, of the Oregon Constitution, the Legislative Assembly determines that the projects authorized to be financed pursuant to section 1 (1) of this 2019 Act with bonds issued under Article XI-G of the Oregon Constitution will benefit higher education institutions or activities or community colleges authorized by law to receive state aid. [2019 c.661 §5]
 
-      Sec. 9. (1) A community college for which one project to be funded with general obligation bonds authorized to be issued under Article XI-G of the Oregon Constitution is approved in this 2017 Act may not request approval of an additional project to be funded with general obligation bonds authorized to be issued under Article XI-G of the Oregon Constitution until the beginning of the regular session of the Legislative Assembly held in 2021, unless the community college withdraws the project approved under this 2017 Act.
+      Sec. 6. Bonds authorized under section 1 (1) of this 2019 Act may not be issued until the constructing authority certifies that the constructing authority has matching funds available for the same or similar purposes as the Article XI-G bonds that will fund the grant to the constructing authority, that the match funds are not proceeds of indebtedness incurred by the state under any other article of the Oregon Constitution, and that the match funds are available to the constructing authority in an amount at least equal to the amount of indebtedness incurred by the state through the issuance of the Article XI-G bonds. [2019 c.661 §6]
 
-      (2) A community college for which two projects to be funded with general obligation bonds authorized to be issued under Article XI-G of the Oregon Constitution is approved in this 2017 Act may not request approval of an additional project to be funded with general obligation bonds authorized to be issued under Article XI-G of the Oregon Constitution until the beginning of the regular session of the Legislative Assembly held in 2025, unless the community college withdraws a project approved under this 2017 Act. [2017 c.570 §9]
+      Sec. 8. (1) Out of the amount specified in section 1 (5)(m)(A) of this 2019 Act, the State Treasurer may issue Article XI-Q bonds in an amount not to exceed $31,500,000 of net proceeds for the purposes and in the manner specified in section 8, chapter 705, Oregon Laws 2013, plus an amount estimated by the State Treasurer to pay estimated bond-related costs.
+
+      (2) Out of the amount specified in section 1 (5)(m)(B) of this 2019 Act, the State Treasurer may issue Article XI-Q bonds in an amount not to exceed $87,600,000 of net proceeds for the purposes and in the manner specified in section 8, chapter 705, Oregon Laws 2013, plus an amount estimated by the State Treasurer to pay estimated bond-related costs.
+
+      (3) Out of the amount specified in section 1 (5)(m)(C) of this 2019 Act, the State Treasurer may issue Article XI-Q bonds in an amount not to exceed $15,900,000 of net proceeds for the purposes and in the manner specified in section 8, chapter 705, Oregon Laws 2013, plus an amount estimated by the State Treasurer to pay estimated bond-related costs.
+
+      (4) For purposes of sections 8 and 9, chapter 705, Oregon Laws 2013, and section 64, chapter 723, Oregon Laws 2013, bonds issued pursuant to this section are considered to be bonds issued pursuant to section 8, chapter 705, Oregon Laws 2013.
+
+      (5) Bonds may not be issued pursuant to section 1 (5)(m)(A), (B) or (C) of this 2019 Act except as provided in this section. [2019 c.661 §8]
 
  
 
@@ -3208,8 +3048,6 @@ FINANCE
  
 
       341.779 [2005 c.787 §32; 2011 c.2 §26; 2015 c.366 §52; repealed by 2017 c.9 §17]
-
- 
 
       341.780 [1959 c.641 §13; 1961 c.602 §14; 1965 c.100 §309; renumbered 341.115]
 

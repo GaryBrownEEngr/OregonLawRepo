@@ -201,6 +201,10 @@ EVIDENCE
 
  
 
+136.437     Use of evidence in prosecution of prostitution offense
+
+ 
+
 136.440     Testimony of accomplice; corroboration; “accomplice” defined
 
  
@@ -907,7 +911,7 @@ EVIDENCE
 
  
 
-      136.433 Proving previous conviction; stipulation; presentation to jury. (1) Except as provided in ORS 163.103 and 813.326, if an accusatory instrument or the written notice described in ORS 136.765 (2) alleges that the defendant has previously been convicted of an offense, the state has the burden of proving the previous conviction unless the defendant stipulates to that fact. The stipulation must:
+      136.433 Proving previous conviction; stipulation; presentation to jury. (1) Except as provided in ORS 163.111 and 813.326, if an accusatory instrument or the written notice described in ORS 136.765 (2) alleges that the defendant has previously been convicted of an offense, the state has the burden of proving the previous conviction unless the defendant stipulates to that fact. The stipulation must:
 
       (a) Be in writing;
 
@@ -977,6 +981,22 @@ EVIDENCE
 
  
 
+      136.437 Use of evidence in prosecution of prostitution offense. (1) If a person contacts an emergency communications system or a law enforcement agency to report the commission of a person felony, any statements or other evidence relating to the crime of prostitution under ORS 167.007 obtained as a result of the person making the report may not be used in the prosecution of the person for prostitution or attempted prostitution.
+
+      (2) The prohibition on the use of statements or other evidence described in this section does not apply to evidence relating to a criminal offense other than prostitution, or to the prosecution of an offense other than prostitution or attempted prostitution.
+
+      (3) As used in this section:
+
+      (a) “Emergency communications system” has the meaning given that term in ORS 403.105.
+
+      (b) “Person felony” has the meaning given that term in the rules of the Oregon Criminal Justice Commission. [2019 c.179 §1]
+
+ 
+
+      Note: 136.437 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 136 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       136.440 Testimony of accomplice; corroboration; “accomplice” defined. (1) A conviction cannot be had upon the testimony of an accomplice unless it is corroborated by other evidence that tends to connect the defendant with the commission of the offense. The corroboration is not sufficient if it merely shows the commission of the offense or the circumstances of the commission.
 
       (2) As used in this section, an “accomplice” means a witness in a criminal action who, according to the evidence adduced in the action, is criminally liable for the conduct of the defendant under ORS 161.155 and 161.165, or, if the witness is a juvenile, has committed a delinquent act, which, if committed by an adult, would make the adult criminally liable for the conduct of the defendant. [Formerly 136.550]
@@ -991,13 +1011,15 @@ EVIDENCE
 
  
 
+      Note: ORCP 55 was repealed and replaced by the Council on Court Procedures Amendments promulgated on December 8, 2018, and effective January 1, 2020. The text of 136.447 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 136.447 for the repeal of ORCP 55 has not been made. See the ORCP 55 Cross-Reference Chart available from the Council on Court Procedures.
+
+ 
+
 VERDICT AND JUDGMENT
 
  
 
-      136.450 Number of jurors required for verdict. (1) Except as otherwise provided in subsection (2) of this section, the verdict of a trial jury in a criminal action shall be by concurrence of at least 10 of 12 jurors.
-
-      (2) Except when the state requests a unanimous verdict, a verdict of guilty for murder or aggravated murder shall be by concurrence of at least 11 of 12 jurors. [Formerly 136.610; 1997 c.313 §25]
+      136.450 Number of jurors required for verdict. The verdict of a trial jury in a criminal action shall be by concurrence of at least 10 of 12 jurors. [Formerly 136.610; 1997 c.313 §25; 2019 c.635 §8]
 
  
 
@@ -1380,6 +1402,10 @@ ______________________________________________________________________________ [
  
 
       136.600 Certain civil procedures applicable in criminal context. The provisions of ORS 44.150 and ORCP 39 B and 55 E and G apply in criminal actions, examinations and proceedings. [Formerly 139.110; 1979 c.284 §115; 1989 c.980 §6]
+
+ 
+
+      Note: ORCP 55 was repealed and replaced by the Council on Court Procedures Amendments promulgated on December 8, 2018, and effective January 1, 2020. The text of 136.600 was not amended by enactment of the Legislative Assembly to reflect the repeal. Editorial adjustment of 136.600 for the repeal of ORCP 55 has not been made. See the ORCP 55 Cross-Reference Chart available from the Council on Court Procedures.
 
  
 
@@ -1864,8 +1890,6 @@ As used in ORS 136.765 to 136.785:
  
 
       136.851 [1971 c.565 §18 (136.851 enacted in lieu of 136.850); 1973 c.836 §253; renumbered 136.535]
-
- 
 
 _______________
 

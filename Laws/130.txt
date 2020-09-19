@@ -145,6 +145,10 @@ CREATION, VALIDITY, MODIFICATION AND TERMINATION OF TRUST
 
  
 
+130.193     Stewardship trust
+
+ 
+
 130.195     UTC 410. Modification or termination of trust; proceedings for approval or disapproval
 
  
@@ -619,7 +623,7 @@ GENERAL PROVISIONS AND DEFINITIONS
 
       (a) A trust that is part of an employee benefit arrangement or an individual retirement account.
 
-      (b) A trust account established under a qualified tuition savings program pursuant to ORS 178.300 to 178.355.
+      (b) A trust account established under a qualified tuition savings program pursuant to ORS 178.300 to 178.360.
 
       (c) Trust accounts maintained on behalf of clients or customers by licensed service professionals, including trust accounts maintained by attorneys pursuant to rules of professional conduct adopted under ORS 9.490 and by licensed real estate property managers or principal real estate brokers pursuant to ORS 696.241.
 
@@ -729,7 +733,9 @@ GENERAL PROVISIONS AND DEFINITIONS
 
       130.020 UTC 105. Default and mandatory rules. (1) Except as otherwise provided in the terms of the trust, this chapter governs the duties and powers of a trustee, relations among trustees, and the rights and interests of a beneficiary.
 
-      (2) The terms of a trust prevail over the provisions of this chapter except:
+      (2) Except as provided in subsection (3) of this section, the terms of a trust may expand, restrict, eliminate or otherwise vary any laws of general application to trustees pertaining to the manner in which the trustee should invest assets, including whether to engage in one or more sustainable or socially responsible investment strategies in addition to or in place of other investment strategies, with or without regard to investment performance.
+
+      (3) The terms of a trust prevail over the provisions of this chapter except:
 
       (a) The requirements of ORS 130.150 to 130.190 governing the creation of a trust.
 
@@ -745,9 +751,9 @@ GENERAL PROVISIONS AND DEFINITIONS
 
       (g) The power of the court under ORS 130.635 (2) to adjust a trustee’s compensation specified in the terms of the trust if the compensation is unreasonably low or high.
 
-      (h) Subject to subsection (3) of this section, the duty under ORS 130.710 (2)(b) and (c) to notify qualified beneficiaries of an irrevocable trust of the existence of the trust, of the identity of the trustee and of their right to request trustee reports.
+      (h) Subject to subsection (4) of this section, the duty under ORS 130.710 (2)(b) and (c) to notify qualified beneficiaries of an irrevocable trust of the existence of the trust, of the identity of the trustee and of their right to request trustee reports.
 
-      (i) Subject to subsection (3) of this section, the duty under ORS 130.710 (1) to respond to the request of a qualified beneficiary of an irrevocable trust for trustee reports and other information reasonably related to the administration of a trust.
+      (i) Subject to subsection (4) of this section, the duty under ORS 130.710 (1) to respond to the request of a qualified beneficiary of an irrevocable trust for trustee reports and other information reasonably related to the administration of a trust.
 
       (j) The effect of an exculpatory term under ORS 130.835.
 
@@ -759,13 +765,13 @@ GENERAL PROVISIONS AND DEFINITIONS
 
       (n) The subject-matter jurisdiction of the court and venue for commencing a proceeding as provided in ORS 130.060 and 130.065.
 
-      (3) Except as provided in subsection (4) of this section, the settlor, in the trust instrument or in another writing delivered to the trustee, may waive or modify the duties of a trustee under ORS 130.710 to give notice, information and reports to qualified beneficiaries by:
+      (4) Except as provided in subsection (5) of this section, the settlor, in the trust instrument or in another writing delivered to the trustee, may waive or modify the duties of a trustee under ORS 130.710 to give notice, information and reports to qualified beneficiaries by:
 
       (a) Waiving or modifying those duties during the period that either the settlor is alive and financially capable, or the settlor’s spouse, if a qualified beneficiary, is alive and financially capable; or
 
       (b) Designating a person or persons to act in good faith to protect the interests of qualified beneficiaries and to receive any notice, information or reports required under ORS 130.710 (1), (2)(b) to (d) and (3) in lieu of providing the notice, information or reports to the qualified beneficiaries.
 
-      (4) All reports under ORS 130.710 (3) that contain information relating to termination of the trust must be provided to the qualified beneficiaries and to any person or persons designated under subsection (3)(b) of this section. [2005 c.348 §5; 2009 c.275 §2]
+      (5) All reports under ORS 130.710 (3) that contain information relating to termination of the trust must be provided to the qualified beneficiaries and to any person or persons designated under subsection (4)(b) of this section. [2005 c.348 §5; 2009 c.275 §2; 2019 c.546 §1]
 
  
 
@@ -835,7 +841,9 @@ GENERAL PROVISIONS AND DEFINITIONS
 
       (2) A person appointed to enforce a trust created for the care of an animal or another noncharitable purpose as provided in ORS 130.185 or 130.190 has the rights of a qualified beneficiary under this chapter.
 
-      (3) The Attorney General has the rights of a qualified beneficiary with respect to a charitable trust having its principal place of administration in Oregon. [2005 c.348 §10; 2009 c.275 §5]
+      (3) A person appointed as a trust enforcer of a stewardship trust as provided in ORS 130.193 has the rights of a qualified beneficiary under this chapter.
+
+      (4) The Attorney General has the rights of a qualified beneficiary with respect to a charitable trust having its principal place of administration in Oregon. [2005 c.348 §10; 2009 c.275 §5; 2019 c.162 §3]
 
  
 
@@ -845,9 +853,11 @@ GENERAL PROVISIONS AND DEFINITIONS
 
       (b) All qualified beneficiaries;
 
-      (c) Any acting trustee of the trust; and
+      (c) Any acting trustee of the trust;
 
-      (d) The Attorney General if the trust is a charitable trust.
+      (d) The Attorney General if the trust is a charitable trust; and
+
+      (e) All members of a trust stewardship committee acting pursuant to ORS 130.193.
 
       (2) If the trust or a portion of the trust is a charitable trust and is irrevocable, and the settlor retains a power to change the beneficiaries of the charitable trust during the settlor’s lifetime or upon the settlor’s death, the Attorney General shall be substituted as the sole interested person to represent all charitable trust beneficiaries whose beneficial interests are subject to the settlor’s retained power.
 
@@ -891,13 +901,13 @@ ______________________________________________________________________________
 
  
 
-CAPTION                  NOTICE OF FILING OF
+CAPTION       NOTICE OF FILING OF
 
-OF CASE                    SETTLEMENT AGREEMENT
+OF CASE        SETTLEMENT AGREEMENT
 
-                                    OR MEMORANDUM OF
+                        OR MEMORANDUM OF
 
-                                    SETTLEMENT AGREEMENT
+                        SETTLEMENT AGREEMENT
 
  
 
@@ -939,7 +949,7 @@ ______________________________________________________________________________
 
       (e) Beneficiaries entitled to notice under subsection (6)(c) of this section may waive the notice.
 
-      (8) The clerk of the circuit court shall collect in advance the filing fees established under ORS 21.135 for the filing of an agreement or memorandum of agreement under subsection (6) of this section and for the filing of objections under subsection (7) of this section. [2005 c.348 §11; 2009 c.275 §6; 2011 c.595 §30; 2013 c.529 §2]
+      (8) The clerk of the circuit court shall collect in advance the filing fees established under ORS 21.135 for the filing of an agreement or memorandum of agreement under subsection (6) of this section and for the filing of objections under subsection (7) of this section. [2005 c.348 §11; 2009 c.275 §6; 2011 c.595 §30; 2013 c.529 §2; 2019 c.162 §4]
 
  
 
@@ -1047,7 +1057,7 @@ CREATION, VALIDITY, MODIFICATION AND TERMINATION OF TRUST
 
       (a) A trustee may be named as beneficiary of any death benefits, and the death benefits shall be paid to the trustee and be held and disposed of by the trustee as provided in a trust created by the designator during the lifetime of the designator. A trust is valid even though the trust does not have a trust corpus other than the right of the trustee to receive death benefits as beneficiary.
 
-      (b) A trustee named by will may be designated as beneficiary of death benefits if the designation is made in accordance with the provisions of the policy, contract, plan, trust or other governing instrument. Upon probate of the will, or upon the filing of an affidavit under ORS 114.515, the death benefits are payable to the trustee to be held and disposed of under the terms of the designator’s will in the same manner as other testamentary trusts are administered. Unless otherwise provided by the designator, an obligor may make payment of death benefits to the personal representative of the designator, or to the persons who are otherwise entitled to the death benefits, if a qualified trustee does not claim the death benefits within one year after the death of the designator, or if satisfactory evidence is furnished within the one-year period showing that there is no trustee who can qualify to receive the death benefits. The obligor is discharged from any liability for the death benefits upon making the payment.
+      (b) A trustee named by will may be designated as beneficiary of death benefits if the designation is made in accordance with the provisions of the policy, contract, plan, trust or other governing instrument. Upon probate of the will, or upon the filing of a small estate affidavit under ORS 114.515, the death benefits are payable to the trustee to be held and disposed of under the terms of the designator’s will in the same manner as other testamentary trusts are administered. Unless otherwise provided by the designator, an obligor may make payment of death benefits to the personal representative of the designator, or to the persons who are otherwise entitled to the death benefits, if a qualified trustee does not claim the death benefits within one year after the death of the designator, or if satisfactory evidence is furnished within the one-year period showing that there is no trustee who can qualify to receive the death benefits. The obligor is discharged from any liability for the death benefits upon making the payment.
 
       (c) Death benefits received by the trustee are not subject to the debts of the designator or to inheritance or estate taxes to any greater extent than if the death benefits were payable to the beneficiaries named in the trust and not to the estate of the designator.
 
@@ -1059,7 +1069,7 @@ CREATION, VALIDITY, MODIFICATION AND TERMINATION OF TRUST
 
       (b) “Designator” means the person entitled to designate the beneficiary of death benefits upon the death of the person.
 
-      (c) “Obligor” means the insurer or other person obligated to pay death benefits. [2005 c.348 §21; 2009 c.275 §8]
+      (c) “Obligor” means the insurer or other person obligated to pay death benefits. [2005 c.348 §21; 2009 c.275 §8; 2019 c.165 §24]
 
  
 
@@ -1073,9 +1083,11 @@ CREATION, VALIDITY, MODIFICATION AND TERMINATION OF TRUST
 
       (A) A charitable trust;
 
-      (B) A trust for the care of an animal, as provided in ORS 130.185; or
+      (B) A trust for the care of an animal, as provided in ORS 130.185;
 
-      (C) A trust for a noncharitable purpose, as provided in ORS 130.190.
+      (C) A trust for a noncharitable purpose, as provided in ORS 130.190; or
+
+      (D) A stewardship trust, as provided in ORS 130.193.
 
       (d) The trustee has duties to perform.
 
@@ -1083,7 +1095,7 @@ CREATION, VALIDITY, MODIFICATION AND TERMINATION OF TRUST
 
       (2) A beneficiary is definite for the purposes of subsection (1)(c) of this section if the beneficiary can be ascertained when the trust is created or at any time thereafter, subject to any applicable rule against perpetuities.
 
-      (3) A power of a trustee to select a beneficiary from an indefinite class is valid. If the power is not exercised within a reasonable time, the power fails and the property subject to the power passes to the persons who would have taken the property had the power not been conferred. [2005 c.348 §22]
+      (3) A power of a trustee to select a beneficiary from an indefinite class is valid. If the power is not exercised within a reasonable time, the power fails and the property subject to the power passes to the persons who would have taken the property had the power not been conferred. [2005 c.348 §22; 2019 c.162 §5]
 
  
 
@@ -1140,6 +1152,60 @@ CREATION, VALIDITY, MODIFICATION AND TERMINATION OF TRUST
       (2) A trust authorized by this section may be enforced by a person appointed in the terms of the trust or, if a person is not appointed in the terms of the trust, by a person appointed by the court.
 
       (3) Property of a trust authorized by this section may be applied only to its intended use, except to the extent the court determines that the value of the trust property exceeds the amount required for the intended use. Trust property not required for the intended use must be distributed to those persons designated in the trust. In the absence of a designation, the property shall be distributed to the settlor if the settlor is living when the distribution is made, or to the settlor’s successors in interest if the settlor is not living when the distribution is made. [2005 c.348 §29]
+
+ 
+
+      130.193 Stewardship trust. (1) A stewardship trust may be created under this section for a business purpose without a definite or definitely ascertainable beneficiary. The business purpose may seek economic and noneconomic benefits.
+
+      (2) A stewardship trust may hold an ownership interest of any corporation, partnership, limited partnership, cooperative, limited liability company, limited liability partnership or joint venture.
+
+      (3) A stewardship trust may be enforced by one or more trust enforcers appointed in the terms of the trust, and the terms of the trust may provide a process for appointing successor trust enforcers. If at any time no person is acting as trust enforcer, the court shall name one or more trust enforcers. Each trust enforcer shall enforce the purpose and the terms of the trust and shall exercise authority as a fiduciary. If more than one person is acting as a trust enforcer, action may be taken by a majority of the persons acting as trust enforcers. A trust enforcer is not a beneficiary of a trust created pursuant to this section, but a trust enforcer has the rights of a qualified beneficiary.
+
+      (4) A stewardship trust must have a trust stewardship committee with at least three persons as members. Each member of the trust stewardship committee shall exercise authority as a fiduciary. The terms of the trust may appoint the initial members of the trust stewardship committee and may provide a process for appointing successor members. A vacancy on the trust stewardship committee must be filled if the trust stewardship committee has fewer than three members.
+
+      (5) A vacancy on the trust stewardship committee that is required to be filled must be filled in the following order of priority:
+
+      (a) By a person designated in the terms of the trust or selected through a process provided in the terms of the trust;
+
+      (b) By a person appointed by unanimous agreement of the trust enforcers; or
+
+      (c) By a person appointed by the court.
+
+      (6) Unless the terms of the trust provide otherwise and except as provided in subsections (7)(d) and (11) of this section, the trust stewardship committee may take action by a majority vote of its members.
+
+      (7) Unless the terms of the trust provide otherwise, the trust stewardship committee has the power, in carrying out the purposes of the trust and after notice to the trust enforcers, to:
+
+      (a) Remove a trustee, with or without cause;
+
+      (b) Appoint one or more successor trustees or cotrustees;
+
+      (c) Remove a trust enforcer, with or without cause;
+
+      (d) Remove a member of the stewardship committee, by unanimous vote of all other members of the trust stewardship committee;
+
+      (e) Direct distributions from the trust; and
+
+      (f) Exercise all rights belonging to the trustee, including the right to vote stock owned by the trust.
+
+      (8) Unless the trust agreement provides otherwise, a member of the trust stewardship committee or a trust enforcer may resign:
+
+      (a) After at least 30 days’ notice to the trustee, all trust enforcers and all members of the trust stewardship committee; or
+
+      (b) At any time with the approval of a court.
+
+      (9) The trust stewardship committee must send a report to the trustee and to the trust enforcers at least annually showing receipts and disbursements and listing trust property and liabilities. The trust stewardship committee shall keep the trustee and the trust enforcers reasonably informed about the administration of the trust and of the material facts necessary for the trustee to comply with the trustee’s duties under ORS 130.710 and for the trust enforcers to protect the purposes of the trust.
+
+      (10) A trustee of a stewardship trust shall act in accordance with a direction from the trust stewardship committee unless the action is manifestly contrary to the terms of the trust or the trustee knows that the action would constitute a serious breach of a fiduciary duty that the trust stewardship committee, the trust enforcer or the trustee owes to the trust. A trustee is liable only for willful misconduct and is not liable for reliance on documents provided by the trust stewardship committee or the trust enforcer.
+
+      (11) Unless the terms of the trust provide otherwise, the trust stewardship committee and the trust enforcers, acting together, may modify or terminate a stewardship trust by unanimous agreement of the members of the trust stewardship committee and unanimous agreement of the trust enforcers.
+
+      (12) Upon termination of a stewardship trust, the trustee shall distribute all remaining trust property as the terms of the trust provide, or if the terms of the trust do not provide for complete distribution of the property, as a court determines to be consistent with the purposes for which the trust was created.
+
+      (13) A person serving as a trustee may not serve as a trust enforcer or as a member of the trust stewardship committee, and a person serving as a trust enforcer may not serve as a member of the trust stewardship committee.
+
+      (14) A stewardship trust may be enforced for more than 90 years if the terms of the trust provide that the trust will be enforceable for a specific period not less than 90 years or in perpetuity.
+
+      (15) This section does not apply to trusts created pursuant to ORS 60.254. [2019 c.162 §2]
 
  
 
@@ -2443,15 +2509,19 @@ UNIFORM PRUDENT INVESTOR ACT
 
       (f) Other resources of the beneficiaries;
 
-      (g) Needs for liquidity, regularity of income and preservation or appreciation of capital; and
+      (g) Needs for liquidity, regularity of income and preservation or appreciation of capital;
 
-      (h) An asset’s special relationship or special value, if any, to the purposes of the trust or to one or more of the beneficiaries.
+      (h) An asset’s special relationship or special value, if any, to the purposes of the trust or to one or more of the beneficiaries;
+
+      (i) The intent, desire and personal values of the settlor, including the settlor’s desire to engage in sustainable or socially responsible investment strategies that align with the settlor’s social, environmental, governance or other values or beliefs to the extent known by the trustee; and
+
+      (j) The needs of the beneficiaries, including but not limited to the beneficiaries’ personal values and desire that the trustee engage in sustainable or socially responsible investing strategies that align with the beneficiaries’ social, environmental, governance or other values or beliefs, as well as the financial needs of the beneficiaries.
 
       (4) A trustee shall make a reasonable effort to verify facts relevant to the investment and management of trust assets.
 
       (5) A trustee may invest in any kind of property or type of investment consistent with the standards of ORS 130.750 to 130.775.
 
-      (6) A trustee who has special skills or expertise, or is named trustee in reliance upon the trustee’s representation that the trustee has special skills or expertise, has a duty to use those special skills or expertise in investing and managing trust assets. [2005 c.348 §78]
+      (6) A trustee who has special skills or expertise, or is named trustee in reliance upon the trustee’s representation that the trustee has special skills or expertise, has a duty to use those special skills or expertise in investing and managing trust assets. [2005 c.348 §78; 2019 c.546 §2]
 
  
 

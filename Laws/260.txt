@@ -4,12 +4,6 @@ Chapter 260 — Campaign Finance Regulation; Election Offenses
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -39,9 +33,11 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
-(Treasurers, Statements of Organization and Accounts)
+260.011     Prohibition on using cryptocurrency to make contribution
 
  
+
+(Treasurers, Statements of Organization and Accounts)
 
 260.035     Treasurer and statement of organization for political committees and candidates; change in information
 
@@ -149,8 +145,6 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
 (Administration and Enforcement)
 
- 
-
 260.200     Secretary of State rules for accounts, forms, material to be retained and material not subject to disclosure
 
  
@@ -195,13 +189,29 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
+(Disclosure of Source of Communication or Donation)
+
+ 
+
+260.266     Statement of persons who paid for communication in support of or in opposition to clearly identified candidate; requirements; rules
+
+ 
+
+260.275     Definitions for ORS 260.275 to 260.285
+
+ 
+
+260.281     Donor identification lists; contents; updates; rules
+
+ 
+
+260.285     Civil penalty for failure to file donor identification list or to include required information; notice; rules
+
+ 
+
 ELECTION OFFENSES
 
- 
-
 (Administration and Enforcement)
-
- 
 
 260.315     Distribution of copies of law
 
@@ -243,11 +253,15 @@ ELECTION OFFENSES
 
  
 
+260.413     Prohibition on committee providing consideration in connection with nondisclosure agreement relating to workplace harassment
+
+ 
+
 260.422     Acceptance of employment where compensation to be contributed
 
  
 
-260.432     Solicitation of public employees; activities of public employees during working hours
+260.432     Solicitation of public employees; activities of public employees during working hours; recognized student government exception
 
  
 
@@ -431,17 +445,15 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (c) “Communication in support of or in opposition to a clearly identified candidate or measure” means:
 
-      (A)(i) The communication, taken in its context, clearly and unambiguously urges the election or defeat of a clearly identified candidate for nomination or election to public office, or the passage or defeat of a clearly identified measure;
+      (A)(i) The communication, when taken as a whole and with limited reference to external events, such as the proximity to the election, could only be interpreted by a reasonable person as containing advocacy for the election or defeat of a clearly identified candidate for nomination or election to public office, or the passage or defeat of a clearly identified measure; and
 
-      (ii) The communication, as a whole, seeks action rather than simply conveying information; and
+      (ii) The electoral portion of the communication is unmistakable, unambiguous and suggestive of only one meaning; or
 
-      (iii) It is clear what action the communication advocates; or
+      (B)(i) The communication involves aggregate expenditures of more than $250 by a person;
 
-      (B)(i) The communication contains aggregate expenditures of $750 or more by a person;
+      (ii) The communication refers to a clearly identified candidate or measure that will appear on the ballot or to a political party; and
 
-      (ii) The communication refers to a clearly identified candidate who will appear on the ballot or to a political party; and
-
-      (iii) The communication is published and disseminated to the relevant electorate within 30 calendar days before a primary election or 60 calendar days before a general election.
+      (iii) The communication is published and disseminated to the relevant electorate within 60 calendar days before a primary election, 120 calendar days before a general election or 90 calendar days before an election other than a primary election or a general election.
 
       (d) “Made with the cooperation or with the prior consent of, or in consultation with, or at the request or suggestion of, a candidate or any agent or authorized committee of the candidate, or any political committee or agent of a political committee supporting or opposing a measure”:
 
@@ -499,7 +511,7 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (22) “Regular district election” means the regular district election described in ORS 255.335.
 
-      (23) “State office” means the office of Governor, Secretary of State, State Treasurer, Attorney General, Commissioner of the Bureau of Labor and Industries, state Senator, state Representative, judge or district attorney. [1971 c.749 §1; 1973 c.744 §1; 1975 c.683 §6; 1977 c.678 §1; 1979 c.190 §339; 1983 c.350 §81; 1983 c.392 §8; 1985 c.808 §52; 1987 c.727 §1; 1989 c.80 §1; 1989 c.503 §41; 1991 c.87 §4; 1991 c.719 §61; 1993 c.18 §44; 1993 c.493 §52; 1993 c.710 §1; 1993 c.797 §30; 1995 c.1 §1; 1995 c.607 §56; 1997 c.249 §77; 1999 c.318 §42; 1999 c.999 §1; 2001 c.82 §11; 2003 c.542 §9; 2005 c.797 §1; 2005 c.809 §§20,21; 2007 c.848 §28; 2009 c.818 §1; 2011 c.652 §3; 2011 c.731 §16; 2013 c.756 §8; 2013 c.758 §1; 2017 c.419 §1]
+      (23) “State office” means the office of Governor, Secretary of State, State Treasurer, Attorney General, Commissioner of the Bureau of Labor and Industries, state Senator, state Representative, judge or district attorney. [1971 c.749 §1; 1973 c.744 §1; 1975 c.683 §6; 1977 c.678 §1; 1979 c.190 §339; 1983 c.350 §81; 1983 c.392 §8; 1985 c.808 §52; 1987 c.727 §1; 1989 c.80 §1; 1989 c.503 §41; 1991 c.87 §4; 1991 c.719 §61; 1993 c.18 §44; 1993 c.493 §52; 1993 c.710 §1; 1993 c.797 §30; 1995 c.1 §1; 1995 c.607 §56; 1997 c.249 §77; 1999 c.318 §42; 1999 c.999 §1; 2001 c.82 §11; 2003 c.542 §9; 2005 c.797 §1; 2005 c.809 §§20,21; 2007 c.848 §28; 2009 c.818 §1; 2011 c.652 §3; 2011 c.731 §16; 2013 c.756 §8; 2013 c.758 §1; 2017 c.419 §1; 2018 c.70 §14; 2019 c.637 §7]
 
  
 
@@ -548,6 +560,12 @@ ELECTION CAMPAIGN FINANCE REGULATION
  
 
       260.010 [Amended by 1969 c.279 §2; 1971 c.749 §25; renumbered 260.305]
+
+ 
+
+      260.011 Prohibition on using cryptocurrency to make contribution. (1) A person may not make a contribution to a political candidate, a political committee or a petition committee using cryptocurrency.
+
+      (2) As used in this section, “cryptocurrency” means digital or virtual currency that relies on cryptography to effect transfers and a decentralized network to record transactions. [2019 c.50 §3]
 
  
 
@@ -621,17 +639,17 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (D) The name and address of any other political committee of which two or more committee directors are also directors of the committee filing the statement.
 
-      (c) The name of the financial institution in which the campaign account required under ORS 260.054 is established, the name of the account, the name of the account holder and the names of all individuals who have signature authority for the account. The Secretary of State may not disclose information received by the secretary under this paragraph except as necessary for purposes of enforcing the provisions of ORS chapters 246 to 260.
+      (2) In addition to the information listed in subsection (1) of this section, the statement of organization must include, or be amended within five business days to include, the name of the financial institution in which the campaign account required under ORS 260.054 is established, the name of the account, the name of the account holder and the names of all individuals who have signature authority for the account. The Secretary of State may not disclose information received by the secretary under this subsection except as necessary for purposes of enforcing the provisions of ORS chapters 246 to 260.
 
-      (2) A candidate or treasurer may designate an individual to receive any notice provided by a filing officer under ORS chapters 246 to 260. The candidate or treasurer shall include the name and address of the individual in the statement of organization filed under this section. A filing officer who provides any notice under ORS chapters 246 to 260 to the candidate or treasurer shall also provide the notice to the individual designated by the candidate or treasurer under this subsection.
+      (3) A candidate or treasurer may designate an individual to receive any notice provided by a filing officer under ORS chapters 246 to 260. The candidate or treasurer shall include the name and address of the individual in the statement of organization filed under this section. A filing officer who provides any notice under ORS chapters 246 to 260 to the candidate or treasurer shall also provide the notice to the individual designated by the candidate or treasurer under this subsection.
 
-      (3) Except as provided in ORS 260.043, a candidate who serves as the candidate’s own treasurer shall file the statement of organization not later than the third business day after the candidate first receives a contribution or makes an expenditure. The treasurer of a principal campaign committee shall file the statement of organization not later than the date specified in ORS 260.035.
+      (4) Except as provided in ORS 260.043, a candidate who serves as the candidate’s own treasurer shall file the statement of organization not later than the third business day after the candidate first receives a contribution or makes an expenditure. The treasurer of a principal campaign committee shall file the statement of organization not later than the date specified in ORS 260.035.
 
-      (4) Any change in information submitted in a statement of organization under subsection (1) of this section shall be indicated in an amended statement of organization filed not later than the 10th day after the change in information.
+      (5) Except as provided in subsection (2) of this section, any change in information submitted in a statement of organization under subsections (1) and (2) of this section shall be indicated in an amended statement of organization filed not later than the 10th day after the change in information.
 
-      (5) Except as provided in ORS 260.043, a candidate who serves as the candidate’s own treasurer or the treasurer of the principal campaign committee of the candidate shall file a statement of organization under this section not later than the deadline for the candidate to file a nominating petition or declaration of candidacy under ORS 249.037 or a certificate of nomination under ORS 249.722.
+      (6) Except as provided in ORS 260.043, a candidate who serves as the candidate’s own treasurer or the treasurer of the principal campaign committee of the candidate shall file a statement of organization under this section not later than the deadline for the candidate to file a nominating petition or declaration of candidacy under ORS 249.037 or a certificate of nomination under ORS 249.722.
 
-      (6) Except as provided in ORS 260.043, a candidate who serves as the candidate’s own treasurer or the treasurer of the principal campaign committee of a candidate shall file a new or amended statement of organization not later than the date that the candidate files a nominating petition, declaration of candidacy or certificate of nomination. [1987 c.727 §12; 1989 c.503 §18; 1991 c.107 §16; 1991 c.719 §53; 1993 c.493 §55; 1999 c.999 §4; 2001 c.965 §53; 2005 c.797 §3; 2005 c.809 §4; 2007 c.570 §3; 2009 c.818 §2; 2013 c.756 §9]
+      (7) Except as provided in ORS 260.043, a candidate who serves as the candidate’s own treasurer or the treasurer of the principal campaign committee of a candidate shall file a new or amended statement of organization not later than the date that the candidate files a nominating petition, declaration of candidacy or certificate of nomination. [1987 c.727 §12; 1989 c.503 §18; 1991 c.107 §16; 1991 c.719 §53; 1993 c.493 §55; 1999 c.999 §4; 2001 c.965 §53; 2005 c.797 §3; 2005 c.809 §4; 2007 c.570 §3; 2009 c.818 §2; 2013 c.756 §9; 2018 c.70 §5]
 
  
 
@@ -645,9 +663,9 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
-      260.042 Content of statement of organization of political committee. (1) The treasurer of a political committee shall file a statement of organization with the filing officer. The statement shall include:
+      260.042 Content of statement of organization of political committee. (1) The treasurer of a political committee shall file a statement of organization with the filing officer. The statement must include:
 
-      (a) The name, address and nature of the committee. The address shall be the address of a residence, office, headquarters or similar location where the political committee or a responsible officer of the political committee may be conveniently located.
+      (a) The name, address and nature of the committee. The address must be the address of a residence, office, headquarters or similar location where the political committee or a responsible officer of the political committee may be conveniently located.
 
       (b) The name, address and occupation of the committee director or directors.
 
@@ -659,19 +677,19 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (f) A designation of any measure that the committee is opposing or supporting, or intends to support or oppose.
 
-      (g) The name of the financial institution in which the campaign account required under ORS 260.054 is established, the name of the account, the name of the account holder and the names of all individuals who have signature authority for the account. The Secretary of State may not disclose information received by the secretary under this paragraph except as necessary for purposes of enforcing the provisions of ORS chapters 246 to 260.
+      (g) A statement of whether the committee is a controlled committee.
 
-      (h) A statement of whether the committee is a controlled committee.
+      (2) In addition to the information listed in subsection (1) of this section, the statement of organization must include, or be amended within five business days to include, the name of the financial institution in which the campaign account required under ORS 260.054 is established, the name of the account, the name of the account holder and the names of all individuals who have signature authority for the account. The Secretary of State may not disclose information received by the secretary under this subsection except as necessary for purposes of enforcing the provisions of ORS chapters 246 to 260.
 
-      (2) A treasurer may designate an individual to receive any notice provided by a filing officer under ORS chapters 246 to 260. The treasurer shall include the name and address of the individual in a statement of organization filed under this section. A filing officer who provides any notice under ORS chapters 246 to 260 to the treasurer of the political committee shall also provide the notice to the individual designated by the treasurer under this subsection.
+      (3) A treasurer may designate an individual to receive any notice provided by a filing officer under ORS chapters 246 to 260. The treasurer shall include the name and address of the individual in a statement of organization filed under this section. A filing officer who provides any notice under ORS chapters 246 to 260 to the treasurer of the political committee shall also provide the notice to the individual designated by the treasurer under this subsection.
 
-      (3) A treasurer may designate an elector of this state to be liable for any civil penalty imposed under ORS 260.232. The treasurer shall include the name and address of any elector designated under this subsection in a statement of organization filed under this section.
+      (4) A treasurer may designate an elector of this state to be liable for any civil penalty imposed under ORS 260.232. The treasurer shall include the name and address of any elector designated under this subsection in a statement of organization filed under this section.
 
-      (4) The statement of organization shall be filed not later than the date specified in ORS 260.035.
+      (5) The statement of organization must be filed not later than the date specified in ORS 260.035.
 
-      (5) Any change in information submitted in a statement of organization under subsection (1) of this section shall be indicated in an amended statement of organization filed not later than the 10th day after the change in information.
+      (6) Except as provided in subsection (2) of this section, any change in information submitted in a statement of organization under subsections (1) and (2) of this section must be indicated in an amended statement of organization filed not later than the 10th day after the change in information.
 
-      (6) This section does not apply to a political committee that is a principal campaign committee or to a political committee exclusively supporting or opposing one or more candidates for federal or political party office. [1975 c.683 §§2,3; 1979 c.190 §344; 1981 c.234 §1; 1983 c.71 §10; 1985 c.808 §53; 2001 c.965 §54; 2005 c.797 §6; 2005 c.809 §5; 2007 c.570 §4; 2009 c.818 §4; 2013 c.756 §10; 2017 c.517 §2]
+      (7) This section does not apply to a political committee that is a principal campaign committee or to a political committee exclusively supporting or opposing one or more candidates for federal or political party office. [1975 c.683 §§2,3; 1979 c.190 §344; 1981 c.234 §1; 1983 c.71 §10; 1985 c.808 §53; 2001 c.965 §54; 2005 c.797 §6; 2005 c.809 §5; 2007 c.570 §4; 2009 c.818 §4; 2013 c.756 §10; 2017 c.517 §2; 2018 c.70 §15]
 
  
 
@@ -701,7 +719,7 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
-      260.044 Statement of independent expenditures; when person considered political committee or principal campaign committee; electronic filing; time frames; rules. (1) If a person makes independent expenditures in a total amount of more than $750 in a calendar year, the person shall use the electronic filing system adopted under ORS 260.057 to file with the Secretary of State a statement of independent expenditures not later than seven calendar days after the total amount of independent expenditures exceeds $750 in a calendar year.
+      260.044 Statement of independent expenditures; when person considered political committee or principal campaign committee; electronic filing; time frames; rules. (1) If a person makes independent expenditures in a total amount of more than $250 in a calendar year, the person shall use the electronic filing system adopted under ORS 260.057 to file with the Secretary of State a statement of independent expenditures not later than seven calendar days after the total amount of independent expenditures exceeds $250 in a calendar year.
 
       (2) A person who files a statement of independent expenditures under subsection (1) of this section shall use the electronic filing system adopted under ORS 260.057 to file with the secretary additional statements of independent expenditures made by the person, as described in ORS 260.083.
 
@@ -713,7 +731,11 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (B) During the period beginning on the 42nd calendar day before the date of any general election and ending on the date of the general election.
 
-      (b) If the person makes an independent expenditure prior to the 42nd calendar day before the date of the primary or general election and the person has not filed a statement under subsection (3) of this section by the 43rd calendar day before the date of the primary or general election, the person shall file a statement described in subsection (2) of this section not later than the 35th calendar day before the date of the primary or general election.
+      (b) If the person makes an independent expenditure prior to the 42nd calendar day before the date of the primary or general election and the person has not filed a statement under subsection (3) of this section by the 43rd calendar day before the date of the primary or general election, the person shall file a statement described in subsection (2) of this section not later than whichever of the following dates occurs first:
+
+      (A) The date required under subsection (3) of this section; or
+
+      (B) The 35th calendar day before the date of the primary or general election.
 
       (5) For any special election, the secretary by rule may establish a period during which a person must file a statement described in subsection (2) of this section. The period may not extend beyond seven calendar days after an independent expenditure is made.
 
@@ -731,7 +753,7 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (B) Delivered by the person to the designated candidate or political committee not later than seven business days after the contribution is received; and
 
-      (C) Required to be reported as contributions by a candidate or political committee on a statement filed under ORS 260.057, 260.076 or 260.078 or a certificate filed under ORS 260.112. [Formerly 260.158; 1981 c.234 §8; 1981 c.303 §1; 1985 c.808 §54; 1987 c.267 §57; 1987 c.727 §2; 1993 c.493 §§56,57; 1995 c.712 §73; 1999 c.999 §8; 2001 c.82 §3; 2003 c.542 §10; 2005 c.797 §7; 2005 c.809 §§26,28a; 2009 c.818 §6; 2011 c.652 §6; 2013 c.756 §1; 2013 c.758 §3]
+      (C) Required to be reported as contributions by a candidate or political committee on a statement filed under ORS 260.057, 260.076 or 260.078 or a certificate filed under ORS 260.112. [Formerly 260.158; 1981 c.234 §8; 1981 c.303 §1; 1985 c.808 §54; 1987 c.267 §57; 1987 c.727 §2; 1993 c.493 §§56,57; 1995 c.712 §73; 1999 c.999 §8; 2001 c.82 §3; 2003 c.542 §10; 2005 c.797 §7; 2005 c.809 §§26,28a; 2009 c.818 §6; 2011 c.652 §6; 2013 c.756 §1; 2013 c.758 §3; 2018 c.70 §2; 2019 c.637 §8]
 
  
 
@@ -803,11 +825,13 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
-      260.055 Accounts of contributions and expenditures; inspection; preservation. (1) Each candidate, other than a candidate for political party office, the treasurer of each political committee and the treasurer of each petition committee shall keep detailed accounts. The accounts shall be current as of not later than the seventh business day after the date of receiving a contribution or making an expenditure with respect to all contributions received and all expenditures made by or on behalf of the candidate or committee that are required to be reported under ORS 260.057, 260.076 or 260.078. Subject to ORS 260.085, the accounts shall list all information required to be reported under ORS 260.083.
+      260.055 Accounts of contributions and expenditures; inspection; preservation. (1)(a) Each candidate, the treasurer of each political committee, the treasurer of each petition committee and each person that makes independent expenditures in a total amount of more than $250 in a calendar year shall keep detailed accounts. The accounts shall be current as of not later than the seventh business day after the date of receiving a contribution or making an expenditure or independent expenditure with respect to all contributions received and all expenditures or independent expenditures made by or on behalf of the candidate or committee that are required to be reported under ORS 260.044, 260.057, 260.076 or 260.078. Subject to ORS 260.085, the accounts shall list all information required to be reported under ORS 260.083.
 
-      (2) Accounts kept by a candidate or the treasurer of a political committee may be inspected under reasonable circumstances at any time before the election to which the accounts refer or during the period specified for retention of the accounts under subsection (3) of this section by any opposing candidate or the treasurer of any political committee for the same electoral contest. The right of inspection may be enforced by writ of mandamus issued by any court of competent jurisdiction. The treasurers of political committees supporting a candidate may be joined with the candidate as defendants in a mandamus proceeding.
+      (b) This subsection does not apply to candidates for political party office.
 
-      (3) Accounts kept by a candidate or treasurer shall be preserved by the candidate or treasurer for at least two years after the date the statement of the contribution or expenditure is filed under ORS 260.057. [1971 c.749 §5; 1973 c.744 §6; 1977 c.268 §2; 1979 c.190 §347; 1981 c.234 §10; 1991 c.719 §14; 1991 c.911 §9; 1993 c.493 §59; 2001 c.82 §4; 2003 c.542 §12; 2005 c.809 §32; 2009 c.818 §21; 2010 c.9 §8; 2013 c.758 §4; 2017 c.749 §35]
+      (2) Accounts kept by a candidate, a treasurer of a political committee, a treasurer of a petition committee or a person that makes independent expenditures in a total amount of more than $250 in a calendar year may be inspected under reasonable circumstances at any time before the election to which the accounts refer or during the period specified for retention of the accounts under subsection (3) of this section by any opposing candidate or the treasurer of any political committee for the same electoral contest. The right of inspection may be enforced by writ of mandamus issued by any court of competent jurisdiction. The treasurers of political committees supporting a candidate may be joined with the candidate as defendants in a mandamus proceeding.
+
+      (3) Accounts kept by a candidate, a treasurer of a political committee, a treasurer of a petition committee or a person that makes independent expenditures in a total amount of more than $250 in a calendar year shall be preserved by the candidate, treasurer or person for at least two years after the date the statement of the contribution or expenditure is filed under ORS 260.057 or the independent expenditure is made. [1971 c.749 §5; 1973 c.744 §6; 1977 c.268 §2; 1979 c.190 §347; 1981 c.234 §10; 1991 c.719 §14; 1991 c.911 §9; 1993 c.493 §59; 2001 c.82 §4; 2003 c.542 §12; 2005 c.809 §32; 2009 c.818 §21; 2010 c.9 §8; 2013 c.758 §4; 2017 c.749 §35; 2019 c.637 §9]
 
  
 
@@ -841,7 +865,11 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (b) For any special election, the secretary by rule may establish a period during which a candidate for nomination or election at the special election or a political committee supporting or opposing a candidate or measure at the special election must file a statement described in subsection (1) of this section not later than seven calendar days after a contribution is received or an expenditure is made.
 
-      (c) If the candidate or political committee receives a contribution or makes an expenditure prior to the 42nd calendar day before the date of the primary or general election and the candidate or political committee has not filed a statement of the contribution or expenditure under subsection (2) of this section by the 43rd calendar day before the date of the primary or general election, the candidate or political committee shall file a statement described in subsection (1)(a) of this section not later than the 35th calendar day before the date of the primary or general election.
+      (c) If the candidate or political committee receives a contribution or makes an expenditure prior to the 42nd calendar day before the date of the primary or general election and the candidate or political committee has not filed a statement of the contribution or expenditure under subsection (2) of this section by the 43rd calendar day before the date of the primary or general election, the candidate or political committee shall file a statement described in subsection (1)(a) of this section not later than whichever of the following dates occurs first:
+
+      (A) The date required under subsection (2) of this section; or
+
+      (B) The 35th calendar day before the date of the primary or general election.
 
       (4) The electronic filing system shall be provided free of charge by the secretary and shall:
 
@@ -861,7 +889,7 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (b) Candidates who are not required to file a statement of organization under ORS 260.043; or
 
-      (c) Candidates, political committees or petition committees that file certificates under ORS 260.112. [2005 c.809 §14; 2007 c.570 §1; 2007 c.848 §12; 2008 c.41 §1; 2009 c.818 §8; 2013 c.756 §2; 2013 c.758 §5; 2017 c.749 §36]
+      (c) Candidates, political committees or petition committees that file certificates under ORS 260.112. [2005 c.809 §14; 2007 c.570 §1; 2007 c.848 §12; 2008 c.41 §1; 2009 c.818 §8; 2013 c.756 §2; 2013 c.758 §5; 2017 c.749 §36; 2018 c.70 §1]
 
  
 
@@ -1067,47 +1095,51 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
-      260.118 Treasurer and statement of organization of petition committee; filing electronic statements of contributions and expenditures; schedule; rules. (1) The chief petitioners of an initiative, referendum or recall petition shall appoint a treasurer. The treasurer shall be an elector of this state. Contributions shall be received and expenditures made by or through the treasurer.
+      260.118 Treasurer and statement of organization of petition committee; filing electronic statements of contributions and expenditures; schedule; rules. (1) The chief petitioners of an initiative, referendum or recall petition shall appoint a treasurer. The treasurer shall be an elector of this state. Contributions must be received and expenditures made by or through the treasurer.
 
-      (2) The treasurer shall file a statement of organization of a petition committee with the appropriate filing officer. The treasurer shall file the statement not later than the third business day after a chief petitioner or the treasurer receives a contribution or makes an expenditure relating to the initiative, referendum or recall petition. The statement shall include:
+      (2) The treasurer shall file a statement of organization of a petition committee with the appropriate filing officer. The treasurer shall file the statement not later than the third business day after a chief petitioner or the treasurer receives a contribution or makes an expenditure relating to the initiative, referendum or recall petition. The statement must include:
 
       (a) The name and address of the chief petitioners.
 
       (b) The name and address of the treasurer appointed under subsection (1) of this section.
 
-      (c) A designation of the initiative, referendum or recall petition. The designation of the recall petition shall include the name of the officer whose recall is demanded.
+      (c) A designation of the initiative, referendum or recall petition. The designation of the recall petition must include the name of the officer whose recall is demanded.
 
-      (d) The name of the financial institution in which the petition account required under ORS 260.054 is established, the name of the account, the name of the account holder and the names of all individuals who have signature authority for the account. The Secretary of State may not disclose information received by the secretary under this paragraph except as necessary for purposes of enforcing the provisions of ORS chapters 246 to 260.
+      (3) In addition to the information listed in subsection (2) of this section, the statement of organization must include, or be amended within five business days to include, the name of the financial institution in which the petition account required under ORS 260.054 is established, the name of the account, the name of the account holder and the names of all individuals who have signature authority for the account. The Secretary of State may not disclose information received by the secretary under this subsection except as necessary for purposes of enforcing the provisions of ORS chapters 246 to 260.
 
-      (3) A treasurer may designate an elector of this state to be liable for any civil penalty imposed under ORS 260.232. The treasurer shall include the name and address of any elector designated under this subsection in a statement of organization filed under this section.
+      (4) A treasurer may designate an elector of this state to be liable for any civil penalty imposed under ORS 260.232. The treasurer shall include the name and address of any elector designated under this subsection in a statement of organization filed under this section.
 
-      (4) If there is a change in the information submitted in a statement of organization under subsection (2) of this section, the treasurer shall file an amended statement of organization not later than the 10th day after the change in information.
+      (5) Except as provided in subsection (3) of this section, if there is a change in the information submitted in a statement of organization under subsections (2) and (3) of this section, the treasurer shall file an amended statement of organization not later than the 10th day after the change in information.
 
-      (5) The treasurer of an initiative, referendum or recall petition committee shall use the electronic filing system adopted under ORS 260.057 to file with the Secretary of State statements of contributions received and expenditures made by the petition committee, as described in ORS 260.083.
+      (6) The treasurer of an initiative, referendum or recall petition committee shall use the electronic filing system adopted under ORS 260.057 to file with the Secretary of State statements of contributions received and expenditures made by the petition committee, as described in ORS 260.083.
 
-      (6) The treasurer of an initiative petition committee shall file a statement described in subsection (5) of this section not later than seven calendar days after a contribution is received or an expenditure is made. This subsection applies to contributions received and expenditures made:
+      (7) The treasurer of an initiative petition committee shall file a statement described in subsection (6) of this section not later than seven calendar days after a contribution is received or an expenditure is made. This subsection applies to contributions received and expenditures made:
 
       (a) During the period beginning on the 42nd calendar day before the date that is four months before a general election and ending on the date that is four months before a general election; and
 
       (b) During the period beginning on the 42nd calendar day before the date of any primary election and ending on the date of the primary election and the period beginning on the 42nd calendar day before the date of any general election and ending on the date of the general election.
 
-      (7) The treasurer of a referendum petition committee or a recall petition committee shall file a statement described in subsection (5) of this section not later than seven calendar days after a contribution is received or an expenditure is made. This subsection applies:
+      (8) The treasurer of a referendum petition committee or a recall petition committee shall file a statement described in subsection (6) of this section not later than seven calendar days after a contribution is received or an expenditure is made. This subsection applies:
 
       (a) For a referendum petition committee, to contributions received and expenditures made during the period beginning on the date the treasurer is appointed under subsection (1) of this section and ending on the deadline for submitting signatures for verification; and
 
       (b) For a recall petition committee, to contributions received and expenditures made during the period beginning on the day on which the recall petition is filed under ORS 249.865 and ending on the deadline for submitting signatures for verification.
 
-      (8) Except as provided in subsection (9) of this section, during a period not described in subsection (6) or (7) of this section, a treasurer of an initiative, referendum or recall petition committee shall file a statement described in subsection (5) of this section not later than 30 calendar days after a contribution is received or an expenditure is made.
+      (9) Except as provided in subsection (10) of this section, during a period not described in subsection (7) or (8) of this section, a treasurer of an initiative, referendum or recall petition committee shall file a statement described in subsection (6) of this section not later than 30 calendar days after a contribution is received or an expenditure is made.
 
-      (9) If a treasurer of an initiative petition committee receives a contribution or makes an expenditure prior to the 42nd calendar day before the date that is four months before a general election, or the 42nd day before the date of the primary election or general election, and the treasurer has not filed a statement of the contribution or expenditure under subsection (5) of this section by the 43rd calendar day before the date that is four months before a general election, or the 43rd day before the date of the primary election or general election, the treasurer shall file a statement described in subsection (5) of this section not later than the 35th calendar day before the date that is four months before a general election, or the 35th day before the date of the primary election or general election.
+      (10) If a treasurer of an initiative petition committee receives a contribution or makes an expenditure prior to the 42nd calendar day before the date that is four months before a general election, or the 42nd day before the date of the primary election or general election, and the treasurer has not filed a statement of the contribution or expenditure under subsection (6) of this section by the 43rd calendar day before the date that is four months before a general election, or the 43rd day before the date of the primary election or general election, the treasurer shall file a statement described in subsection (6) of this section not later than the 35th calendar day before the date that is four months before a general election, or not later than whichever of the following dates occurs first:
 
-      (10) For an initiative petition committee, the accounting period for the first statement filed under this section begins on the date the treasurer is appointed under subsection (1) of this section.
+      (a) The date required under subsection (9) of this section; or
 
-      (11) Each statement required under this section shall be signed and certified as true by the treasurer. Signatures shall be supplied in the manner specified by the secretary by rule.
+      (b) The 35th day before the date of the primary election or general election.
 
-      (12) Subsections (5) to (11) of this section do not apply to petition committees that file certificates under ORS 260.112.
+      (11) For an initiative petition committee, the accounting period for the first statement filed under this section begins on the date the treasurer is appointed under subsection (1) of this section.
 
-      (13) As used in this section, “contribution” and “expenditure” include a contribution or expenditure to or on behalf of an initiative, referendum or recall petition. [1983 c.71 §6; 1985 c.808 §57; 1987 c.210 §2; 1987 c.727 §8; 1991 c.719 §54; 1993 c.493 §§70,71; 1995 c.607 §57; 1999 c.999 §11; 2001 c.732 §1; 2001 c.965 §56; 2005 c.797 §16; 2005 c.809 §37; 2007 c.848 §13; 2009 c.818 §12; 2013 c.756 §4; 2017 c.517 §3; 2017 c.749 §54]
+      (12) Each statement required under this section must be signed and certified as true by the treasurer. Signatures must be supplied in the manner specified by the secretary by rule.
+
+      (13) Subsections (6) to (12) of this section do not apply to petition committees that file certificates under ORS 260.112.
+
+      (14) As used in this section, “contribution” and “expenditure” include a contribution or expenditure to or on behalf of an initiative, referendum or recall petition. [1983 c.71 §6; 1985 c.808 §57; 1987 c.210 §2; 1987 c.727 §8; 1991 c.719 §54; 1993 c.493 §§70,71; 1995 c.607 §57; 1999 c.999 §11; 2001 c.732 §1; 2001 c.965 §56; 2005 c.797 §16; 2005 c.809 §37; 2007 c.848 §13; 2009 c.818 §12; 2013 c.756 §4; 2017 c.517 §3; 2017 c.749 §54; 2018 c.70 §3]
 
  
 
@@ -1287,21 +1319,19 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
       (4) If upon receiving notification under subsection (2) of this section a person responds by filing a statement or submitting information to correct an insufficient statement, the filing officer shall confirm whether the person’s response is sufficient not later than 90 days after receiving the response. If, within 90 days, the filing officer does not confirm whether a response is sufficient under this subsection, the person is not subject to civil penalty under ORS 260.232 for failure to file or failure to include the required information in the statement. [1971 c.749 §18; 1979 c.190 §357; 1981 c.142 §6; 1985 c.808 §59; 1991 c.719 §18; 1993 c.493 §73; 1999 c.999 §13; 2001 c.732 §6; 2003 c.542 §16; 2005 c.797 §25; 2005 c.809 §38a; 2009 c.818 §22; 2013 c.758 §8]
 
- 
-
       260.210 [Amended by 1971 c.749 §36; renumbered 260.402]
 
  
 
-      260.215 Periodic examination and investigation of statements. (1) For statements filed during each calendar year, each filing officer shall examine each statement filed with the filing officer under ORS 260.044, 260.057, 260.083, 260.112 or 260.118 (5) to determine whether the statement is sufficient. The filing officer shall examine statements under this section not later than 90 days after the end of each calendar quarter for statements filed during the previous calendar quarter.
+      260.215 Periodic examination and investigation of statements. (1) For statements filed during each calendar year, each filing officer shall examine each statement filed with the filing officer under ORS 260.044, 260.057, 260.083, 260.112 or 260.118 (6) to determine whether the statement is sufficient. The filing officer shall examine statements under this section not later than 90 days after the end of each calendar quarter for statements filed during the previous calendar quarter.
 
-      (2) The filing officer may require any person to answer in writing and upon oath or affirmation before a judge, justice of the peace, county clerk or notary public any question within the knowledge of that person concerning the source of any contribution. The filing officer shall advise the person of the penalty for failure to answer. [1971 c.749 §19; 1973 c.744 §19; 1979 c.190 §358; 1981 c.142 §7; 1983 c.71 §7; 1993 c.493 §74; 1995 c.712 §78; 1999 c.999 §14; 2003 c.542 §17; 2005 c.809 §§39,39a; 2007 c.848 §15; 2009 c.818 §13; 2013 c.758 §9; 2017 c.517 §5]
+      (2) The filing officer may require any person to answer in writing and upon oath or affirmation before a judge, justice of the peace, county clerk or notary public any question within the knowledge of that person concerning the source of any contribution. The filing officer shall advise the person of the penalty for failure to answer. [1971 c.749 §19; 1973 c.744 §19; 1979 c.190 §358; 1981 c.142 §7; 1983 c.71 §7; 1993 c.493 §74; 1995 c.712 §78; 1999 c.999 §14; 2003 c.542 §17; 2005 c.809 §§39,39a; 2007 c.848 §15; 2009 c.818 §13; 2013 c.758 §9; 2017 c.517 §5; 2018 c.70 §16]
 
  
 
-      260.218 Subpoena authority. (1) The Secretary of State may issue subpoenas to compel the production of records, documents, books, papers, memoranda or other information necessary to determine compliance with the provisions of this chapter.
+      260.218 Subpoena authority. (1) The Secretary of State, or the Attorney General acting under ORS 260.345, may issue subpoenas to compel the production of records, documents, books, papers, memoranda or other information necessary to determine compliance with the provisions of this chapter.
 
-      (2) If a person fails to comply with any subpoena issued under subsection (1) of this section, a judge of the circuit court of any county, on application of the Secretary of State shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued from the circuit court. [1987 c.727 §13; 1993 c.493 §75; 1999 c.999 §15]
+      (2) If a person fails to comply with any subpoena issued under subsection (1) of this section, a judge of the circuit court of any county, on application of the Secretary of State or Attorney General, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued from the circuit court. [1987 c.727 §13; 1993 c.493 §75; 1999 c.999 §15; 2019 c.637 §6]
 
  
 
@@ -1445,11 +1475,243 @@ ELECTION CAMPAIGN FINANCE REGULATION
 
  
 
+(Disclosure of Source of Communication or Donation)
+
+ 
+
+      260.266 Statement of persons who paid for communication in support of or in opposition to clearly identified candidate; requirements; rules. (1) Except as otherwise provided by a local provision, a communication in support of or in opposition to a clearly identified candidate must state the name of the persons that paid for the communication.
+
+      (2) For the purpose of complying with subsection (1) of this section:
+
+      (a) Except as provided in paragraph (b) of this subsection, a communication in support of or in opposition to a clearly identified candidate by a political committee or petition committee must state:
+
+      (A) The name of the political committee or petition committee; and
+
+      (B) The names of the five persons that have made the largest aggregate contributions of $10,000 or more to the committee in the election cycle in which the communication is made.
+
+      (b) A communication in support of or in opposition to a clearly identified candidate by an individual, a for-profit business entity or a candidate or the principal campaign committee of a candidate must state the name of the individual, for-profit business entity or candidate.
+
+      (c)(A) A communication in support of or in opposition to a clearly identified candidate by a person not described in paragraph (a) or (b) of this subsection must state:
+
+      (i) The name of the person; and
+
+      (ii) Except as provided in subparagraph (B) of this paragraph, the names of the five persons that have made the largest aggregate donations of $10,000 or more to the person in the election cycle in which the communication is made.
+
+      (B) In identifying persons that have made aggregate donations of $10,000 or more, a person described in this paragraph may exclude:
+
+      (i) Donations received from an affiliated charitable organization that is tax exempt under section 501(c)(3) of the Internal Revenue Code; and
+
+      (ii) Donations and grants received from foundations and other persons that may not be used to make a communication in support of or in opposition to a clearly identified candidate.
+
+      (d) Notwithstanding paragraphs (a) to (c) of this subsection, a digital communication may state only the name of the person that made the communication if the digital communication includes an active link to a website that prominently displays the additional information required by this subsection.
+
+      (3) A person that makes communications in support of or in opposition to a clearly identified candidate must consider an anonymous donation of $1,000 or more from a single person to be a donation that may not be used to make a communication in support of or in opposition to a clearly identified candidate.
+
+      (4)(a) If a person is required to disclose the names of five persons under subsection (2)(a)(B) or (c)(A)(ii) of this section and more than five persons qualify as having made the largest aggregate contributions or donations, the person shall disclose the five applicable persons whose contributions or donations were made closest to the date of initial printing or transmission of the communication.
+
+      (b) Except as provided in paragraph (c) of this subsection, the five persons required to be named under subsection (2)(a)(B) or (c)(A)(ii) of this section must be accurate as of 10 days before the most recent payment to print or transmit the communication.
+
+      (c) A person that both makes multiple digital communications in support of or in opposition to a clearly identified candidate and uses the method described in subsection (2)(d) of this section to meet the identification requirements of subsection (2)(a)(B) or (c)(A)(ii) of this section, may use one active link to the same website for all digital communications made by the person, provided that the information on the website is accurate as of 10 days before the most recent payment to print or transmit a communication.
+
+      (5) This section does not apply to:
+
+      (a) Candidates for federal office.
+
+      (b) Candidates other than those described in paragraph (a) of this subsection who are not required to use the electronic filing system adopted under ORS 260.057 to file statements of contributions received or expenditures made.
+
+      (c) Petition committees that are not required to use the electronic filing system adopted under ORS 260.057 to file statements of contributions received or expenditures made.
+
+      (d) Political committees that are not required to use the electronic filing system adopted under ORS 260.057 to file statements of contributions received or expenditures made.
+
+      (e) A person that makes independent expenditures and that is exempt under ORS 260.044 from being required to file statements of independent expenditures using the electronic filing system adopted under ORS 260.057.
+
+      (f) A communication that is excluded from the definition of “expenditure” under ORS 260.007.
+
+      (g) Items of de minimis value relating to a candidate, including but not limited to:
+
+      (A) Lawn signs, pins, pens and other similar items;
+
+      (B) Skywriting; or
+
+      (C) Wearable merchandise.
+
+      (h) Any other item that the Secretary of State by rule determines is too small to feasibly include the identifying information required by this section.
+
+      (6) The Secretary of State by rule shall prescribe the form of statements required on communications described in this section. Rules adopted under this subsection must ensure that the information required to be included in communications under this section is:
+
+      (a) In a font, size and color that are easy for an average person to read, if the communication appears in a print or digital format; and
+
+      (b) Clearly audible to the average person, if the communication appears in an audio format.
+
+      (7) As used in this section:
+
+      (a) “Clearly identified” has the meaning given that term in ORS 260.005 (10)(b).
+
+      (b)(A) Except as provided in subparagraph (B) of this paragraph, “communication in support of or in opposition to a clearly identified candidate” means:
+
+      (i)(I) The communication, when taken as a whole and with limited reference to external events, such as the proximity to the election, could only be interpreted by a reasonable person as containing advocacy for the election or defeat of a clearly identified candidate for nomination or election to public office; and
+
+      (II) The electoral portion of the communication is unmistakable, unambiguous and suggestive of only one meaning; or
+
+      (ii)(I) The communication involves aggregate expenditures by a person of more than the amount provided in ORS 260.044 (1);
+
+      (II) The communication refers to a clearly identified candidate who will appear on the ballot; and
+
+      (III) The communication is printed or transmitted to the relevant electorate within the time frame provided in ORS 260.005 (10)(c)(B)(iii).
+
+      (B)(i) “Communication in support of or in opposition to a clearly identified candidate” includes but is not limited to communications distributed via print, telephone, radio, television or the Internet.
+
+      (ii) “Communication in support of or in opposition to a clearly identified candidate” does not include newspaper editorials, printed advertisements with a fair market value of less than $500 or communications made via telephone that have a fair market value of less than $500.
+
+      (c)(A) “Donation” means the gift or transfer of moneys or any other item of value to a person subject to subsection (2)(c)(A) of this section, including any membership fees, dues or assessments.
+
+      (B) “Donation” does not include moneys or any other item of value received by a person subject to subsection (2)(c)(A) of this section in the ordinary course of a trade or business conducted by the person.
+
+      (d) “Election cycle” means the period of time starting on the day after the date of a general election and ending on the date of the next general election.
+
+      (e) “Local provision” means a charter provision, ordinance, resolution or other provision adopted by a city, county or other local government. [2019 c.636 §2]
+
+ 
+
+      Note: 260.266 becomes operative December 3, 2020. See section 5, chapter 636, Oregon Laws 2019.
+
+ 
+
       260.270 [Amended by 1957 c.644 §1; 1971 c.749 §44; renumbered 260.462]
 
  
 
+      260.275 Definitions for ORS 260.275 to 260.285. As used in ORS 260.275 to 260.285:
+
+      (1) “Anonymous donation” means a donation for which the covered organization does not possess the donor name or address that is required under ORS 260.281.
+
+      (2) “Communication in support of or in opposition to a clearly identified candidate or measure” has the meaning given that phrase in ORS 260.005 (10)(c).
+
+      (3) “Covered organization” means a combination of two or more individuals, or a person other than an individual, political committee, petition committee or a not-for-profit corporation that is tax exempt under section 501(c)(3) of the Internal Revenue Code, that both accepts donations and makes political communications.
+
+      (4)(a) “Donation” means the gift or transfer of moneys or any other item of value to a covered organization, including any membership fees, dues or assessments.
+
+      (b) “Donation” does not include moneys or any other item of value received by a covered organization in the ordinary course of a trade or business conducted by the covered organization.
+
+      (5) “Donor” means a person that makes a donation to a covered organization.
+
+      (6) “Election cycle” means the period of time starting on the day after the date of a general election and ending on the date of the next general election.
+
+      (7) “Electioneering threshold for a legislative race” means political communications made by a covered organization of less than $25,000 for a particular seat of the Legislative Assembly.
+
+      (8)(a) Except as provided in paragraphs (b) and (c) of this subsection, “electioneering threshold for a measure” means political communications made by a covered organization of less than $100,000 for a particular measure.
+
+      (b) For a city measure in a city with a population of less than 60,000, “electioneering threshold for a measure” means political communications made by a covered organization of less than $25,000 for a particular city measure.
+
+      (c) For a county measure in a county with a population of less than 60,000, “electioneering threshold for a measure” means political communications made by a covered organization of less than $25,000 for a particular county measure.
+
+      (9) “Electioneering threshold for a political committee” means political communications made by a covered organization of less than $100,000 for a particular political committee.
+
+      (10) “Electioneering threshold for a statewide race” means political communications made by a covered organization of less than $100,000 for a particular state office as defined in ORS 249.215.
+
+      (11)(a) “Political communication” means a communication in support of or in opposition to a clearly identified candidate or measure.
+
+      (b) “Political communication” does not include:
+
+      (A) A communication by a covered organization to its current members, stockholders or executive or administrative personnel;
+
+      (B) A communication that constitutes lobbying as defined in ORS 171.725; or
+
+      (C) A communication excluded from the definition of “expenditure” under ORS 260.007. [2019 c.637 §2]
+
+ 
+
       260.280 [Amended by 1957 c.605 §1; 1967 c.630 §1; 1971 c.749 §45; renumbered 260.472]
+
+ 
+
+      260.281 Donor identification lists; contents; updates; rules. (1)(a) Except as provided in subsection (5) of this section, a covered organization that during an election cycle exceeds the electioneering threshold for a legislative race, the electioneering threshold for a measure, the electioneering threshold for a political committee or the electioneering threshold for a statewide race shall file with the Secretary of State an initial donor identification list containing the name, address and aggregate amount donated of each donor that donated an aggregate amount of $10,000 or more to the covered organization during that election cycle.
+
+      (b) A covered organization that is required to file an initial donor identification list under this subsection shall file the list no later than seven calendar days after the covered organization makes a political communication that requires the covered organization to make a filing under paragraph (a) of this subsection.
+
+      (2)(a) A covered organization that filed an initial donor identification list under subsection (1) of this section shall, during that election cycle, update the list by filing with the Secretary of State:
+
+      (A) The name, address and aggregate amount donated of each subsequent donor that makes a donation or aggregate donations of $10,000 or more to the covered organization during that election cycle; and
+
+      (B) An updated amount of the aggregate donations the covered organization has received during the election cycle from each donor that was previously listed on an initial donor identification list or updated donor identification list filed under this section.
+
+      (b) An updated donor identification list filed under this subsection must be filed according to the time frame for filing a statement of independent communications under ORS 260.044, except that the time frame for filing starts on the day that:
+
+      (A) The dollar amount received by the covered organization from a single donor not previously on the list, whether by single donation or aggregate donations, equals $10,000 or more; or
+
+      (B) The covered organization receives an additional donation from a donor that was previously listed on an initial donor identification list or updated donor identification list filed under this section.
+
+      (3) Each initial donor identification list and updated donor identification list filed under this section must be signed and certified as true by an authorized representative of the covered organization. Signatures must be supplied in the manner specified by the Secretary of State by rule.
+
+      (4) The Secretary of State shall, upon request, deliver to any person the initial donor identification lists and updated donor identification lists filed under this section. If the Secretary of State receives a request under this subsection, the Secretary of State shall deliver the lists not later than five days after receiving the request.
+
+      (5) In identifying donors who have made aggregate donations of $10,000 or more in the manner described in subsections (1) and (2) of this section, a covered organization may exclude:
+
+      (a) Donations received from an affiliated charitable organization that is tax exempt under section 501(c)(3) of the Internal Revenue Code; and
+
+      (b) Donations and grants received from foundations and other donors that may not be used for political communications.
+
+      (6) A covered organization must consider an anonymous donation of $1,000 or more from a single donor to be a donation that may not be used for political communications.
+
+      (7) The Secretary of State may enact rules necessary to implement this section. [2019 c.637 §3]
+
+ 
+
+      260.285 Civil penalty for failure to file donor identification list or to include required information; notice; rules. (1) The Secretary of State may impose a civil penalty as provided in this section, in addition to any other penalty that may be imposed, for failing to:
+
+      (a) Timely file an initial donor identification list required to be filed under ORS 260.281;
+
+      (b) Timely file an updated donor identification list required to be filed under ORS 260.281; or
+
+      (c) Include all donors or amounts donated that are required to be included in an initial donor identification list or an updated donor identification list that is required to be filed under ORS 260.281.
+
+      (2)(a) For each failure to timely file an initial donor identification list that is required to be filed under ORS 260.281 for exceeding the electioneering threshold for a legislative race, the Secretary of State may impose a civil penalty not to exceed the lesser of:
+
+      (A) 10 percent per day of the total cost for political communications made by the covered organization for the applicable legislative race; or
+
+      (B) 150 percent of the total cost for political communications made by the covered organization for the applicable legislative race.
+
+      (b) For each failure to timely file an initial donor identification list that is required to be filed under ORS 260.281 for exceeding the electioneering threshold for a measure, the Secretary of State may impose a civil penalty not to exceed the lesser of:
+
+      (A) 10 percent per day of the total cost for political communications made by the covered organization for the applicable measure; or
+
+      (B) 150 percent of the total cost for political communications made by the covered organization for the applicable measure.
+
+      (c) For each failure to timely file an initial donor identification list that is required to be filed under ORS 260.281 for exceeding the electioneering threshold for a political committee, the Secretary of State may impose a civil penalty not to exceed the lesser of:
+
+      (A) 10 percent per day of the total cost for political communications made by the covered organization for the applicable political committee; or
+
+      (B) 150 percent of the total cost for political communications made by the covered organization for the applicable political committee.
+
+      (d) For each failure to timely file an initial donor identification list that is required to be filed under ORS 260.281 for exceeding the electioneering threshold for a statewide race, the Secretary of State may impose a civil penalty not to exceed the lesser of:
+
+      (A) 10 percent per day of the total cost for political communications made by the covered organization for the applicable statewide race; or
+
+      (B) 150 percent of the total cost for political communications made by the covered organization for the applicable statewide race.
+
+      (3) For each failure to accurately include the name of a donor or the amount a donor donated to the covered organization in an initial donor identification list or an updated donor identification list that is required to be filed under ORS 260.281, or for each failure to timely file an updated donor identification list that is required to be filed under ORS 260.281, the Secretary of State may impose a civil penalty not to exceed 10 percent of the aggregate donations that were not properly identified.
+
+      (4) Except as otherwise provided by this section, civil penalties under this section shall be imposed as provided in ORS 183.745. In addition to the requirements for a notice of right to a hearing of ORS 183.745, the notice shall include:
+
+      (a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+
+      (b) If the person is an agency, corporation or an unincorporated association, a statement that such person must be represented by an attorney licensed in Oregon.
+
+      (5) A hearing on whether to impose a civil penalty and to consider circumstances in mitigation shall be held by the Secretary of State:
+
+      (a) Upon request of the person against whom the penalty may be assessed, if the request is made not later than the 20th day after the date the person received notice sent under subsection (4) of this section; or
+
+      (b) Upon the Secretary of State’s own motion.
+
+      (6) The person against whom a penalty may be assessed need not appear in person at a hearing held under this section, but instead may submit written testimony or other evidence, sworn to before a notary public, to the Secretary of State for entry in the hearing record. The testimony or other evidence must be received by the Secretary of State not later than three business days before the day of the hearing.
+
+      (7) All hearings under this section shall be held not later than 45 days after the deadline for the person against whom the penalty may be assessed to request a hearing. However, if requested by the person against whom the penalty may be assessed, a hearing under subsection (5) of this section shall be held not later than 60 days after the deadline for the person against whom the penalty may be assessed to request a hearing.
+
+      (8) The Secretary of State shall issue an order not later than 90 days after a hearing or after the deadline for requesting a hearing if no hearing is held.
+
+      (9) All penalties recovered under this section shall be paid into the State Treasury and credited to the General Fund.
+
+      (10) The Secretary of State may adopt rules necessary to implement this section. [2019 c.637 §4]
 
  
 
@@ -1470,8 +1732,6 @@ ELECTION CAMPAIGN FINANCE REGULATION
  
 
 ELECTION OFFENSES
-
- 
 
 (Administration and Enforcement)
 
@@ -1575,17 +1835,21 @@ ELECTION OFFENSES
 
  
 
-      260.402 Contributions in false name. (1) A person may not make a contribution in any name other than that of the person who in truth provides the contribution to:
+      260.402 Contributions in false name. (1) A person may not directly or indirectly reimburse a person for making a contribution or donation, or make a contribution or donation in any name other than that of the person that in truth provides the contribution or donation, to:
 
       (a) Any other person, relating to a nomination or election of any candidate or the support of or opposition to any measure;
 
-      (b) Any political committee; or
+      (b) Any political committee;
 
-      (c) A petition committee required to file a statement under ORS 260.118.
+      (c) Any covered organization required to file a donor identification list under ORS 260.281; or
 
-      (2) Except as provided in subsection (3) of this section, a person, political committee or petition committee may not knowingly receive a contribution prohibited under subsection (1) of this section or enter or cause the contribution to be entered in accounts or records in another name than that of the person by whom it was actually provided.
+      (d) A petition committee required to file a statement under ORS 260.118.
 
-      (3) If a person receives a contribution from a political committee, the person may enter the contribution into accounts or records as received from the political committee. [Formerly 260.210; 1973 c.744 §25; 1979 c.190 §369; 1991 c.911 §1; 2005 c.797 §19; 2005 c.809 §15; 2007 c.848 §30; 2009 c.818 §16]
+      (2) Except as provided in subsection (3) of this section, a person, political committee, covered organization or petition committee may not knowingly receive a contribution or donation prohibited under subsection (1) of this section or enter or cause the contribution or donation to be entered in accounts or records in another name than that of the person that actually provided the contribution or donation.
+
+      (3) If a person receives a contribution from a political committee, the person may enter the contribution into accounts or records as received from the political committee.
+
+      (4) As used in this section, “covered organization” and “donation” have the meanings given those terms in ORS 260.275. [Formerly 260.210; 1973 c.744 §25; 1979 c.190 §369; 1991 c.911 §1; 2005 c.797 §19; 2005 c.809 §15; 2007 c.848 §30; 2009 c.818 §16; 2019 c.637 §5]
 
  
 
@@ -1607,9 +1871,11 @@ ELECTION OFFENSES
 
       (A) Converted by any person to any personal use other than to defray any expenses incurred in connection with the person’s duties as a holder of public office or to repay to a candidate any loan the proceeds of which were used in connection with the candidate’s campaign;
 
-      (B) Except as provided in this subparagraph, used to pay any money award as defined in ORS 18.005 included as part of a judgment in a civil or criminal action or any civil penalty imposed by an agency as defined in ORS 183.310 or by a local government as defined in ORS 174.116. Contributions described in this paragraph may be used to pay a civil penalty imposed under this chapter, other than a civil penalty imposed for a violation of this section or ORS 260.409; or
+      (B) Except as provided in this subparagraph, used to pay any money award as defined in ORS 18.005 included as part of a judgment in a civil or criminal action or any civil penalty imposed by an agency as defined in ORS 183.310 or by a local government as defined in ORS 174.116. Contributions described in this paragraph may be used to pay a civil penalty imposed under this chapter, other than a civil penalty imposed for a violation of this section or ORS 260.409;
 
-      (C) Except as provided in this subparagraph, used to pay any legal expenses incurred by the candidate or public official in any civil, criminal or other legal proceeding or investigation that relates to or arises from the course and scope of the duties of the person as a candidate or public official. Contributions described in this paragraph may be used to pay legal expenses incurred by the candidate or public official in connection with a legal proceeding brought under ORS chapters 246 to 260, other than a proceeding brought under this section or ORS 260.409.
+      (C) Except as provided in this subparagraph, used to pay any legal expenses incurred by the candidate or public official in any civil, criminal or other legal proceeding or investigation that relates to or arises from the course and scope of the duties of the person as a candidate or public official. Contributions described in this paragraph may be used to pay legal expenses incurred by the candidate or public official in connection with a legal proceeding brought under ORS chapters 246 to 260, other than a proceeding brought under this section or ORS 260.409; or
+
+      (D) Used to make payments in connection with a nondisclosure agreement relating to workplace harassment. A nondisclosure agreement made in violation of this subparagraph is void and may not be enforced by a court of this state.
 
       (2)(a) Except as provided in paragraph (b) of this subsection, amounts received as contributions by a political committee that is not a principal campaign committee may be:
 
@@ -1625,9 +1891,11 @@ ELECTION OFFENSES
 
       (A) Converted by any person to any personal use;
 
-      (B) Except as provided in this subparagraph, used to pay any money award as defined in ORS 18.005 included as part of a judgment in a civil or criminal action or any civil penalty imposed by an agency as defined in ORS 183.310 or by a local government as defined in ORS 174.116. Contributions described in this subsection may be used to pay a civil penalty imposed under this chapter, other than a civil penalty imposed for a violation of this section or ORS 260.409; or
+      (B) Except as provided in this subparagraph, used to pay any money award as defined in ORS 18.005 included as part of a judgment in a civil or criminal action or any civil penalty imposed by an agency as defined in ORS 183.310 or by a local government as defined in ORS 174.116. Contributions described in this subsection may be used to pay a civil penalty imposed under this chapter, other than a civil penalty imposed for a violation of this section or ORS 260.409;
 
-      (C) Except as provided in this subparagraph, used to pay any legal expenses incurred by a treasurer or director of a political committee in any civil, criminal or other legal proceeding or investigation that relates to or arises from the course and scope of the duties of the person as a treasurer or director. Contributions described in this subsection may be used to pay legal expenses incurred by a treasurer or director in connection with a legal proceeding brought under ORS chapters 246 to 260, other than a proceeding brought under this section or ORS 260.409.
+      (C) Except as provided in this subparagraph, used to pay any legal expenses incurred by a treasurer or director of a political committee in any civil, criminal or other legal proceeding or investigation that relates to or arises from the course and scope of the duties of the person as a treasurer or director. Contributions described in this subsection may be used to pay legal expenses incurred by a treasurer or director in connection with a legal proceeding brought under ORS chapters 246 to 260, other than a proceeding brought under this section or ORS 260.409; or
+
+      (D) Used to make payments in connection with a nondisclosure agreement relating to workplace harassment. A nondisclosure agreement made in violation of this subparagraph is void and may not be enforced by a court of this state.
 
       (3)(a) Except as provided in paragraph (b) of this subsection, amounts received as contributions by a chief petitioner or treasurer of a petition committee may be:
 
@@ -1643,9 +1911,11 @@ ELECTION OFFENSES
 
       (A) Converted by any person to any personal use;
 
-      (B) Except as provided in this subparagraph, used to pay any money award as defined in ORS 18.005 included as part of a judgment in a civil or criminal action or any civil penalty imposed by an agency as defined in ORS 183.310 or by a local government as defined in ORS 174.116. Contributions described in this subsection may be used to pay a civil penalty imposed under this chapter, other than a civil penalty imposed for a violation of this section or ORS 260.409; or
+      (B) Except as provided in this subparagraph, used to pay any money award as defined in ORS 18.005 included as part of a judgment in a civil or criminal action or any civil penalty imposed by an agency as defined in ORS 183.310 or by a local government as defined in ORS 174.116. Contributions described in this subsection may be used to pay a civil penalty imposed under this chapter, other than a civil penalty imposed for a violation of this section or ORS 260.409;
 
-      (C) Except as provided in this subparagraph, used to pay any legal expenses incurred by a chief petitioner or the treasurer of a petition committee in any civil, criminal or other legal proceeding or investigation that relates to or arises from the course and scope of the duties of the person as a chief petitioner or treasurer. Contributions described in this subsection may be used to pay legal expenses incurred by a chief petitioner or treasurer in connection with a legal proceeding brought under ORS chapters 246 to 260, other than a proceeding brought under this section or ORS 260.409.
+      (C) Except as provided in this subparagraph, used to pay any legal expenses incurred by a chief petitioner or the treasurer of a petition committee in any civil, criminal or other legal proceeding or investigation that relates to or arises from the course and scope of the duties of the person as a chief petitioner or treasurer. Contributions described in this subsection may be used to pay legal expenses incurred by a chief petitioner or treasurer in connection with a legal proceeding brought under ORS chapters 246 to 260, other than a proceeding brought under this section or ORS 260.409; or
+
+      (D) Used to make payments in connection with a nondisclosure agreement relating to workplace harassment. A nondisclosure agreement made in violation of this subparagraph is void and may not be enforced by a court of this state.
 
       (4) As used in this section:
 
@@ -1653,7 +1923,9 @@ ELECTION OFFENSES
 
       (b) “Funds donated” means all funds, including but not limited to gifts, loans, advances, credits or deposits of money that are donated for the purpose of supporting the activities of a holder of public office. “Funds donated” does not mean funds appropriated by the Legislative Assembly or another similar public appropriating body or personal funds of the office holder donated to an account containing only those personal funds.
 
-      (c) “Public office” does not include national or political party office. [1995 c.1 §18; 1999 c.999 §20; 2007 c.877 §14; 2009 c.818 §17; 2010 c.9 §9; 2013 c.758 §14; 2017 c.749 §40]
+      (c) “Public office” does not include national or political party office.
+
+      (d) “Workplace harassment” means conduct that constitutes discrimination prohibited by ORS 659A.030, including conduct that constitutes sexual assault as defined in ORS 181A.323. [1995 c.1 §18; 1999 c.999 §20; 2007 c.877 §14; 2009 c.818 §17; 2010 c.9 §9; 2013 c.758 §14; 2017 c.749 §40; 2019 c.462 §1]
 
  
 
@@ -1666,6 +1938,30 @@ ELECTION OFFENSES
  
 
       260.412 [1971 c.749 §38; 1973 c.744 §26; 1979 c.190 §387; renumbered 260.665]
+
+ 
+
+      260.413 Prohibition on committee providing consideration in connection with nondisclosure agreement relating to workplace harassment. (1) In addition to the requirements set forth in ORS 260.407, a political committee or petition committee may not provide any form of consideration in connection with a nondisclosure agreement relating to workplace harassment.
+
+      (2) As used in this section:
+
+      (a) “Consideration in connection with a nondisclosure agreement” includes any form of consideration provided in exchange for the silence of an individual on issues relating to workplace harassment, including but not limited to:
+
+      (A) Money;
+
+      (B) Stock, personal property or other items with a resale value;
+
+      (C) Severance pay or benefits for an individual who resigned or was fired from a place of employment without cause;
+
+      (D) The promise of a positive reference or assistance in obtaining future employment in a position in which the individual’s salary is paid for with public moneys;
+
+      (E) The promise of a bonus payment of moneys in addition to the individual’s salary;
+
+      (F) Alternative work arrangements that have the effect of reducing the amount of work required to be performed by the individual, or of removing the individual from the workplace; or
+
+      (G) Any agreement that terminates the employment of the individual and includes a waiver of past or future claims against the holder of public office, the public body or any public employee.
+
+      (b) “Workplace harassment” means conduct that constitutes discrimination prohibited by ORS 659A.030, including conduct that constitutes sexual assault as defined in ORS 181A.323. [2019 c.462 §5]
 
  
 
@@ -1685,7 +1981,7 @@ ELECTION OFFENSES
 
  
 
-      260.432 Solicitation of public employees; activities of public employees during working hours. (1) No person shall attempt to, or actually, coerce, command or require a public employee to influence or give money, service or other thing of value to promote or oppose any political committee or to promote or oppose the nomination or election of a candidate, the gathering of signatures on an initiative, referendum or recall petition, the adoption of a measure or the recall of a public office holder.
+      260.432 Solicitation of public employees; activities of public employees during working hours; recognized student government exception. (1) No person shall attempt to, or actually, coerce, command or require a public employee to influence or give money, service or other thing of value to promote or oppose any political committee or to promote or oppose the nomination or election of a candidate, the gathering of signatures on an initiative, referendum or recall petition, the adoption of a measure or the recall of a public office holder.
 
       (2) No public employee shall solicit any money, influence, service or other thing of value or otherwise promote or oppose any political committee or promote or oppose the nomination or election of a candidate, the gathering of signatures on an initiative, referendum or recall petition, the adoption of a measure or the recall of a public office holder while on the job during working hours. However, this section does not restrict the right of a public employee to express personal political views.
 
@@ -1701,19 +1997,31 @@ ATTENTION ALL PUBLIC EMPLOYEES:
 
 ______________________________________________________________________________
 
-      (4) Nothing in this section prohibits an employee of the legislative branch from explaining the vote of a member of the Legislative Assembly on:
+      (4)(a) Notwithstanding subsections (1) and (2) of this section:
 
-      (a) An Act that has been referred to the people by law or petition under section 1 (3), Article IV of the Oregon Constitution;
+      (A) The recognized student government of a community college or public university listed in ORS 352.002, or a member of the recognized student government while acting as a member, may make a statement or issue a resolution to promote or oppose:
+
+      (i) The gathering of signatures on an initiative or referendum petition; or
+
+      (ii) The adoption of a measure.
+
+      (B) A member of the board of education of a community college district, a member of the governing board, as defined in ORS 352.029, of a public university or an employee of a community college or public university may take any action as a public employee that is necessary to allow the recognized student government, or member of the recognized student government, to engage in activities described in subparagraph (A) of this paragraph.
+
+      (b) Except for facilitating the actions described in paragraph (a) of this subsection, the recognized student government of a community college or public university, or a member of the recognized student government while acting as a member, may not use mandatory student-initiated fees, mandatory enrollment fees, mandatory incidental fees or any public moneys to promote or oppose any political committee or promote or oppose the nomination or election of a candidate, the gathering of signatures on an initiative, referendum or recall petition, the adoption of a measure or the recall of a public office holder.
+
+      (5) Nothing in this section prohibits an employee of the legislative branch from explaining the vote of a member of the Legislative Assembly on:
+
+      (a) An Act that has been referred to the people by law or petition under Article IV, section 1 (3), of the Oregon Constitution;
 
       (b) An Act for which a prospective referendum petition has been filed under ORS 250.045; or
 
-      (c) A constitutional amendment or revision proposed under section 1 or 2, Article XVII of the Oregon Constitution.
+      (c) A constitutional amendment or revision proposed under Article XVII, section 1 or 2, of the Oregon Constitution.
 
-      (5) As used in this section:
+      (6) As used in this section:
 
       (a) “Public employee” does not include an elected official or a person appointed as a director to the board of a pilot education service district under ORS 334.108.
 
-      (b) “Public employer” includes any board, commission, committee, department, division or institution in the executive, administrative, legislative or judicial branch of state government, and any county, city, district or other municipal corporation or public corporation organized for a public purpose, including a cooperative body formed between municipal or public corporations. [Formerly 260.231; 1973 c.53 §1; 1973 c.744 §27a; 1979 c.190 §372; 1979 c.519 §35a; 1983 c.71 §9; 1983 c.392 §1; 1985 c.565 §39; 1985 c.808 §62; 1987 c.718 §3; 1993 c.493 §106; 2007 c.589 §§7,8; 2010 c.9 §§15,16; 2013 c.13 §2]
+      (b) “Public employer” includes any board, commission, committee, department, division or institution in the executive, administrative, legislative or judicial branch of state government, and any county, city, district or other municipal corporation or public corporation organized for a public purpose, including a cooperative body formed between municipal or public corporations. [Formerly 260.231; 1973 c.53 §1; 1973 c.744 §27a; 1979 c.190 §372; 1979 c.519 §35a; 1983 c.71 §9; 1983 c.392 §1; 1985 c.565 §39; 1985 c.808 §62; 1987 c.718 §3; 1993 c.493 §106; 2007 c.589 §§7,8; 2010 c.9 §§15,16; 2013 c.13 §2; 2019 c.377 §1]
 
  
 
@@ -2073,9 +2381,11 @@ ______________________________________________________________________________
 
       (f) For persons voting, free transportation to and from places designated for the deposit of ballots under ORS 254.470 or to and from locations described in ORS 254.472 or 254.474; but no means of advertising, solicitation or inducement to influence the vote of persons transported may be used with that transportation;
 
-      (g) Individuals or political committees from providing refreshments incidental to a gathering in support of or in opposition to a candidate, political committee or measure; or
+      (g) Individuals or political committees from providing refreshments incidental to a gathering in support of or in opposition to a candidate, political committee or measure;
 
-      (h) The public distribution of registration cards by a person approved by the Secretary of State under ORS 247.171 to print, copy or otherwise prepare and distribute registration cards, even though the distributor incurs costs in the distribution. [Formerly 260.412; 1983 c.83 §31; 1987 c.464 §1; 1987 c.727 §10; 1989 c.173 §2; 2001 c.960 §1; 2007 c.154 §53; 2009 c.533 §10; 2013 c.520 §20]
+      (h) The public distribution of registration cards by a person approved by the Secretary of State under ORS 247.171 to print, copy or otherwise prepare and distribute registration cards, even though the distributor incurs costs in the distribution; or
+
+      (i) An elections official from providing return identification envelopes for ballots that may be returned by mail at no cost to the elector under ORS 254.473. [Formerly 260.412; 1983 c.83 §31; 1987 c.464 §1; 1987 c.727 §10; 1989 c.173 §2; 2001 c.960 §1; 2007 c.154 §53; 2009 c.533 §10; 2013 c.520 §20; 2019 c.638 §4]
 
  
 
@@ -2271,7 +2581,9 @@ PENALTIES
 
       (2) The secretary or the Attorney General may impose a civil penalty not to exceed:
 
-      (a) $1,000 plus the amount converted to personal use for each violation of ORS 260.407; or
+      (a)(A) Except as provided in subparagraph (B) of this paragraph, $1,000 plus the amount converted to personal use for each violation of ORS 260.407;
+
+      (B) Two times the amount of the penalty provision for violating a nondisclosure agreement that is contained within each nondisclosure agreement entered into in violation of ORS 260.407 or 260.413; or
 
       (b) $10,000 for each violation of ORS 260.555, 260.558, 260.575, 260.695 (1) or 260.715 (1) or section 1b, Article IV of the Oregon Constitution.
 
@@ -2301,7 +2613,51 @@ PENALTIES
 
       (b) Shall pay the civil penalty from personal funds of the person; and
 
-      (c) May not pay the civil penalty from contributions received by a candidate, a candidate’s principal campaign committee, a political committee or a petition committee. [1987 c.718 §1; 1991 c.319 §2; 1991 c.734 §119; 1993 c.493 §83; 2005 c.797 §52; 2005 c.809 §1; 2009 c.533 §11; 2009 c.818 §19; 2010 c.9 §10; 2010 c.35 §2; 2013 c.617 §2]
+      (c) May not pay the civil penalty from contributions received by a candidate, a candidate’s principal campaign committee, a political committee or a petition committee. [1987 c.718 §1; 1991 c.319 §2; 1991 c.734 §119; 1993 c.493 §83; 2005 c.797 §52; 2005 c.809 §1; 2009 c.533 §11; 2009 c.818 §19; 2010 c.9 §10; 2010 c.35 §2; 2013 c.617 §2; 2019 c.462 §6]
+
+ 
+
+      Note: The amendments to 260.995 by section 3, chapter 636, Oregon Laws 2019, become operative December 3, 2020. See section 5, chapter 636, Oregon Laws 2019. The text that is operative on and after December 3, 2020, is set forth for the user’s convenience.
+
+      260.995. (1) Except as provided in subsection (2) of this section, following an investigation under ORS 260.345, the Secretary of State or Attorney General may impose a civil penalty not to exceed $1,000 for each violation of any provision of Oregon Revised Statutes relating to the conduct of any election, any rule adopted by the secretary under ORS chapters 246 to 260 or any other matter preliminary to or relating to an election, for which a civil penalty is not otherwise provided.
+
+      (2) The secretary or the Attorney General may impose a civil penalty not to exceed:
+
+      (a)(A) Except as provided in subparagraph (B) of this paragraph, $1,000 plus the amount converted to personal use for each violation of ORS 260.407;
+
+      (B) Two times the amount of the penalty provision for violating a nondisclosure agreement that is contained within each nondisclosure agreement entered into in violation of ORS 260.407 or 260.413;
+
+      (b) 150 percent of the total cost of printing, transmitting or distributing a communication in support of or in opposition to a clearly identified candidate if the disclosure requirements set forth in ORS 260.266 are not met; or
+
+      (c) $10,000 for each violation of ORS 260.555, 260.558, 260.575, 260.695 (1) or 260.715 (1) or section 1b, Article IV of the Oregon Constitution.
+
+      (3) Except as otherwise provided by this section, civil penalties under this section shall be imposed as provided in ORS 183.745. In addition to the requirements of ORS 183.745, the notice shall include:
+
+      (a) A statement of the authority and jurisdiction under which the hearing is to be held; and
+
+      (b) If the person is an agency, corporation or an unincorporated association, a statement that such person must be represented by an attorney licensed in Oregon, unless the person is a political committee which may be represented by any officer identified in the most recent statement of organization filed with the filing officer.
+
+      (4) A hearing on whether to impose a civil penalty and to consider circumstances in mitigation shall be held by the secretary or Attorney General:
+
+      (a) Upon request of the person against whom the penalty may be assessed, if the request is made not later than the 20th day after the date the person received notice sent under subsection (3) of this section; or
+
+      (b) Upon the secretary’s or Attorney General’s own motion.
+
+      (5) The person against whom a penalty may be assessed need not appear in person at a hearing held under this section, but instead may submit written testimony or other evidence, sworn to before a notary public, to the secretary or Attorney General for entry in the hearing record. The testimony or other evidence must be received by the secretary or Attorney General not later than three business days before the day of the hearing.
+
+      (6) All hearings under this section shall be held not later than 45 days after the deadline for the person against whom the penalty may be assessed to request a hearing. However, if requested by the person against whom the penalty may be assessed, a hearing under subsection (4) of this section shall be held not later than 60 days after the deadline for the person against whom the penalty may be assessed to request a hearing.
+
+      (7) The secretary or Attorney General shall issue an order not later than 90 days after a hearing or after the deadline for requesting a hearing if no hearing is held.
+
+      (8) All penalties recovered under this section shall be paid into the State Treasury and credited to the General Fund.
+
+      (9) In the case of a civil penalty imposed under this section for a violation of ORS 260.407, the person against whom the penalty is assessed:
+
+      (a) Is personally responsible for the payment of the civil penalty;
+
+      (b) Shall pay the civil penalty from personal funds of the person; and
+
+      (c) May not pay the civil penalty from contributions received by a candidate, a candidate’s principal campaign committee, a political committee or a petition committee.
 
  
 

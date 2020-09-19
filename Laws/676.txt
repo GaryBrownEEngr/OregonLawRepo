@@ -4,12 +4,6 @@ Chapter 676 — Health Professions Generally
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -161,8 +155,6 @@ MISCELLANEOUS
 
 676.330     Approved osteopathic residency training and certification included as medical specialty certification
 
- 
-
 676.340     Limitations on liability of health practitioners providing health care services without compensation; requirements; exceptions; attorney fees; applicability
 
  
@@ -215,6 +207,14 @@ MISCELLANEOUS
 
  
 
+676.551     Needlestick injury; blood draw of patient; test results; rules
+
+ 
+
+676.553     Prohibitions relating to provision of substance abuse, problem gambling or mental health services and support
+
+ 
+
 HEALTH LICENSING OFFICE
 
  
@@ -251,7 +251,7 @@ HEALTH LICENSING OFFICE
 
  
 
-676.590     Disclosure of records
+676.590     Disclosure of investigatory information, records
 
  
 
@@ -287,7 +287,7 @@ HEALTH LICENSING OFFICE
 
  
 
-676.622     Electronic and facsimile signatures
+676.622     Exemption from certain requirements for original signatures
 
  
 
@@ -363,7 +363,7 @@ APPLIED BEHAVIOR ANALYSIS
 
  
 
-676.802     Definitions for ORS 676.802 and 676.810 to 676.820
+676.802     Definitions for ORS 676.802, 676.806 and 676.810 to 676.820
 
  
 
@@ -499,7 +499,7 @@ USE OF TITLES IMPORTING HEALTH CARE PROFESSION
 
  
 
-      676.108 Definition of “health professional regulatory board.” For purposes of ORS 676.110, 676.115, 676.120 and 676.130, “health professional regulatory board” means a health professional regulatory board, as defined in ORS 676.160, the Nursing Home Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board. [2017 c.101 §15]
+      676.108 Definition of “health professional regulatory board.” For purposes of ORS 676.110, 676.115, 676.120 and 676.130, “health professional regulatory board” means a health professional regulatory board, as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board. [2017 c.101 §15; 2018 c.61 §18]
 
  
 
@@ -527,9 +527,13 @@ USE OF TITLES IMPORTING HEALTH CARE PROFESSION
 
       676.115 Use of title “nurse.” An individual may not use the title “nurse” unless the individual:
 
-      (1) Has earned a nursing degree or a nursing certificate from an accredited nursing program; and
+      (1) Has earned a nursing degree or a nursing certificate from a nursing education program that is:
 
-      (2) Is licensed by a health professional regulatory board to practice the particular health care profession in which the individual’s nursing degree or nursing certificate was earned. [2015 c.345 §2; 2017 c.101 §17]
+      (a) Approved by the Oregon State Board of Nursing; or
+
+      (b) Accredited or approved by another state or United States territory as described under ORS 678.040 and approved by the board; and
+
+      (2) Is licensed by a health professional regulatory board to practice the particular health care profession in which the individual’s nursing degree or nursing certificate was earned. [2015 c.345 §2; 2017 c.101 §17; 2019 c.358 §19]
 
  
 
@@ -571,7 +575,7 @@ REPORTING OBLIGATIONS
 
       (I) Oregon State Board of Nursing;
 
-      (J) Nursing Home Administrators Board;
+      (J) Long Term Care Administrators Board;
 
       (K) Oregon Board of Optometry;
 
@@ -581,7 +585,7 @@ REPORTING OBLIGATIONS
 
       (N) Occupational Therapy Licensing Board;
 
-      (O) Physical Therapist Licensing Board;
+      (O) Oregon Board of Physical Therapy;
 
       (P) Oregon Board of Psychology;
 
@@ -619,7 +623,11 @@ REPORTING OBLIGATIONS
 
       (6) A licensee who fails to report prohibited conduct as required by subsection (2) of this section commits a Class A violation.
 
-      (7) Notwithstanding any other provision of law, a report under subsection (2) or (3) of this section is confidential under ORS 676.175. A board may disclose a report as provided in ORS 676.177.
+      (7)(a) Notwithstanding any other provision of law, a report under subsection (2) or (3) of this section is confidential under ORS 676.175.
+
+      (b) A board may disclose a report as provided in ORS 676.177.
+
+      (c) If the Health Licensing Office receives a report described in this subsection, the report is confidential and the office may only disclose the report pursuant to ORS 676.595 and 676.599.
 
       (8) Except as part of an application for a license or for renewal of a license and except as provided in subsection (3) of this section, a board may not require a licensee to report the licensee’s criminal conduct.
 
@@ -627,7 +635,7 @@ REPORTING OBLIGATIONS
 
       (10) A licensee who reports to a board in good faith as required by subsection (2) of this section is immune from civil liability for making the report.
 
-      (11) A board and the members, employees and contractors of the board are immune from civil liability for actions taken in good faith as a result of a report received under subsection (2) or (3) of this section. [2009 c.536 §1; 2011 c.630 §21; 2011 c.703 §44; 2011 c.715 §19; 2011 c.720 §213; 2017 c.6 §22]
+      (11) A board and the members, employees and contractors of the board are immune from civil liability for actions taken in good faith as a result of a report received under subsection (2) or (3) of this section. [2009 c.536 §1; 2011 c.630 §21; 2011 c.703 §44; 2011 c.715 §19; 2011 c.720 §213; 2017 c.6 §22; 2018 c.61 §19; 2019 c.43 §5; 2019 c.456 §13]
 
  
 
@@ -663,7 +671,7 @@ PROCESSING OF COMPLAINTS AGAINST HEALTH PROFESSIONALS
 
       (13) Occupational Therapy Licensing Board;
 
-      (14) Physical Therapist Licensing Board;
+      (14) Oregon Board of Physical Therapy;
 
       (15) Oregon Board of Psychology;
 
@@ -671,7 +679,7 @@ PROCESSING OF COMPLAINTS AGAINST HEALTH PROFESSIONALS
 
       (17) Oregon State Veterinary Medical Examining Board; and
 
-      (18) Oregon Health Authority, to the extent that the authority licenses emergency medical services providers. [1997 c.791 §1; 1999 c.537 §4; 2001 c.274 §4; 2009 c.43 §9; 2009 c.442 §44; 2009 c.595 §1051; 2009 c.768 §33; 2009 c.833 §25; 2011 c.630 §22; 2011 c.703 §45; 2015 c.674 §7; 2017 c.6 §23; 2017 c.101 §8]
+      (18) Oregon Health Authority, to the extent that the authority licenses emergency medical services providers. [1997 c.791 §1; 1999 c.537 §4; 2001 c.274 §4; 2009 c.43 §9; 2009 c.442 §44; 2009 c.595 §1051; 2009 c.768 §33; 2009 c.833 §25; 2011 c.630 §22; 2011 c.703 §45; 2015 c.674 §7; 2017 c.6 §23; 2017 c.101 §8; 2019 c.43 §6]
 
  
 
@@ -755,7 +763,7 @@ PROCESSING OF COMPLAINTS AGAINST HEALTH PROFESSIONALS
 
       (e) A law enforcement agency of this state, another state or the federal government.
 
-      (4) Notwithstanding subsections (1) to (3) of this section, the Physical Therapist Licensing Board may disclose information described in subsection (1) of this section to the Physical Therapy Compact Commission established in ORS 688.240. [1999 c.751 §2; 2016 c.13 §3]
+      (4) Notwithstanding subsections (1) to (3) of this section, the Oregon Board of Physical Therapy may disclose information described in subsection (1) of this section to the Physical Therapy Compact Commission established in ORS 688.240. [1999 c.751 §2; 2016 c.13 §3; 2019 c.43 §7]
 
  
 
@@ -963,9 +971,9 @@ EFFECT OF EXPIRATION, LAPSE, SURRENDER, SUSPENSION OR REVOCATION OF LICENSE
 
  
 
-      676.220 Enjoining health care professional from practicing after suspension or revocation of license. (1) If at any time the board suspending or revoking the license of any licentiate of a health care profession determines that such licentiate is continuing to practice the health care profession notwithstanding, the board shall in its own name bring an action to enjoin such licentiate.
+      676.220 Enjoining health care professional from practicing after suspension or revocation of license. (1) If at any time the board suspending or revoking the license of any licensee of a health care profession determines that the licensee is continuing to practice the health care profession notwithstanding, the board shall in its own name bring an action to enjoin the licensee.
 
-      (2) If the court shall find that the licentiate has been or is continuing the practice of the health care profession for which the license has been revoked or suspended it shall issue an injunction restraining the licentiate. The commission of a single act constituting the practice of the respective health care profession shall be prima facie evidence warranting the issuance of such injunction. [1953 c.592 §2; 1979 c.284 §191; 1983 c.769 §5]
+      (2) If the court finds that the licensee has been or is continuing the practice of the health care profession for which the license has been revoked or suspended, the court shall issue an injunction restraining the licensee. The commission of a single act constituting the practice of the respective health care profession shall be prima facie evidence warranting the issuance of an injunction. [1953 c.592 §2; 1979 c.284 §191; 1983 c.769 §5; 2019 c.13 §64]
 
  
 
@@ -1099,13 +1107,13 @@ MISCELLANEOUS
 
       (7) This section applies only to:
 
-      (a) A physician licensed under ORS 677.100 to 677.228;
+      (a) A physician licensed under ORS chapter 677;
 
       (b) A nurse licensed under ORS 678.040 to 678.101;
 
       (c) A nurse practitioner licensed under ORS 678.375 to 678.390;
 
-      (d) A clinical nurse specialist certified under ORS 678.370 and 678.372;
+      (d) A clinical nurse specialist licensed under ORS 678.370 and 678.372;
 
       (e) A physician assistant licensed under ORS 677.505 to 677.525;
 
@@ -1115,15 +1123,17 @@ MISCELLANEOUS
 
       (h) A pharmacist licensed under ORS chapter 689;
 
-      (i) An optometrist licensed under ORS chapter 683; and
+      (i) An optometrist licensed under ORS chapter 683;
 
-      (j) A naturopathic physician licensed under ORS chapter 685. [1999 c.771 §1; 1999 c.771 §3; 2005 c.462 §2; 2012 c.41 §3; 2017 c.356 §84]
+      (j) A naturopathic physician licensed under ORS chapter 685; and
+
+      (k) An acupuncturist licensed under ORS 677.757 to 677.770. [1999 c.771 §1; 1999 c.771 §3; 2005 c.462 §2; 2012 c.41 §3; 2017 c.356 §84; 2019 c.227 §1; 2019 c.358 §20]
 
  
 
       676.345 Registration program for health care professionals claiming liability limitation; program requirements. (1) A health practitioner described in ORS 676.340 (7) may claim the liability limitation provided by ORS 676.340 only if the health practitioner has registered with a health professional regulatory board in the manner provided by this section. Registration under this section must be made:
 
-      (a) By a physician or physician assistant, with the Oregon Medical Board;
+      (a) By a physician, physician assistant or acupuncturist, with the Oregon Medical Board;
 
       (b) By a nurse, nurse practitioner or clinical nurse specialist, with the Oregon State Board of Nursing;
 
@@ -1143,23 +1153,23 @@ MISCELLANEOUS
 
       (c) A statement that the health practitioner will only provide health care services without compensation that are within the scope of the health practitioner’s license.
 
-      (3) Registration under this section must be made annually. The health professional regulatory boards listed in subsection (1) of this section shall charge no fee for registration under this section. [1999 c.771 §2; 1999 c.771 §4; 2005 c.462 §3; 2012 c.41 §4; 2017 c.356 §85]
+      (3) Registration under this section must be made biennially. The health professional regulatory boards listed in subsection (1) of this section may not charge a fee for registration under this section. [1999 c.771 §2; 1999 c.771 §4; 2005 c.462 §3; 2012 c.41 §4; 2017 c.356 §85; 2019 c.227 §2]
 
  
 
       676.350 Authority of health professional regulatory boards to adopt rules permitting expedited partner therapy. (1) As used in this section:
 
-      (a) “Expedited partner therapy” means the practice of prescribing or dispensing antibiotic drugs for the treatment of a sexually transmitted disease to the partner of a patient without first examining the partner of the patient.
+      (a) “Expedited partner therapy” means the practice of prescribing or dispensing antibiotic drugs for the treatment of a sexually transmitted infection to the partner of a patient without first examining the partner of the patient.
 
-      (b) “Partner of a patient” means a person whom a patient diagnosed with a sexually transmitted disease identifies as a sexual partner of the patient.
+      (b) “Partner of a patient” means a person whom a patient diagnosed with a sexually transmitted infection identifies as a sexual partner of the patient.
 
       (c) “Practitioner” has the meaning given that term in ORS 475.005.
 
-      (2) A health professional regulatory board, as defined in ORS 676.160, the Nursing Home Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board may adopt rules permitting practitioners to practice expedited partner therapy. If a board adopts rules permitting practitioners to practice expedited partner therapy, the board shall consult with the Oregon Health Authority to determine which sexually transmitted diseases are appropriately addressed with expedited partner therapy.
+      (2) A health professional regulatory board, as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board may adopt rules permitting practitioners to practice expedited partner therapy. If a board adopts rules permitting practitioners to practice expedited partner therapy, the board shall consult with the Oregon Health Authority to determine which sexually transmitted infections are appropriately addressed with expedited partner therapy.
 
       (3) A prescription issued in the practice of expedited partner therapy authorized by the rules of a board is valid even if the name of the patient for whom the prescription is intended is not on the prescription.
 
-      (4) The authority shall make available informational material about expedited partner therapy that a practitioner may distribute to patients. [2009 c.522 §1; 2011 c.720 §215; 2017 c.101 §20]
+      (4) The authority shall make available informational material about expedited partner therapy that a practitioner may distribute to patients. [2009 c.522 §1; 2011 c.720 §215; 2017 c.101 §20; 2018 c.61 §20; 2019 c.280 §13]
 
  
 
@@ -1199,7 +1209,7 @@ MISCELLANEOUS
 
       (b) Data collected under subsection (4) of this section documenting the ethnic and racial makeup of the applicants and of the professionals regulated by the board.
 
-      (6) For purposes of this section, “health professional regulatory board” means a health professional regulatory board, as defined in ORS 676.160, the Nursing Home Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board. [2001 c.973 §1; 2017 c.101 §21]
+      (6) For purposes of this section, “health professional regulatory board” means a health professional regulatory board, as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians and the Behavior Analysis Regulatory Board. [2001 c.973 §1; 2017 c.101 §21; 2018 c.61 §21]
 
  
 
@@ -1239,7 +1249,7 @@ MISCELLANEOUS
 
       (n) Occupational Therapy Licensing Board;
 
-      (o) Physical Therapist Licensing Board;
+      (o) Oregon Board of Physical Therapy;
 
       (p) Oregon Board of Psychology; and
 
@@ -1277,7 +1287,7 @@ MISCELLANEOUS
 
       (6) In addition to renewal fees that may be imposed by a health care workforce regulatory board, the authority shall establish fees to be paid by individuals applying to renew a license with a health care workforce regulatory board. The amount of fees established under this subsection must be reasonably calculated to reimburse the actual cost of obtaining or reporting information as required by subsection (2) of this section.
 
-      (7) Using information collected under subsection (2) of this section, the authority shall create and maintain a health care workforce database that will provide data, including data related to the diversity of this state’s health care workforce, upon request to state agencies and to the Legislative Assembly. The authority may contract with a private or public entity to establish and maintain the database and to perform data analysis. [2009 c.595 §1175; 2011 c.630 §23; 2013 c.14 §9; 2015 c.318 §40; 2015 c.380 §1; 2017 c.6 §24]
+      (7) Using information collected under subsection (2) of this section, the authority shall create and maintain a health care workforce database. The authority shall provide data from the health care workforce database and may provide data from other relevant sources, including data related to the diversity of this state’s health care workforce, upon request to state agencies and to the Legislative Assembly. The authority may contract with a private or public entity to establish and maintain the database and to perform data analysis. [2009 c.595 §1175; 2011 c.630 §23; 2013 c.14 §9; 2015 c.318 §40; 2015 c.380 §1; 2017 c.6 §24; 2019 c.3 §3; 2019 c.43 §8]
 
  
 
@@ -1301,13 +1311,13 @@ MISCELLANEOUS
 
       (d) Oregon State Board of Nursing;
 
-      (e) Physical Therapist Licensing Board;
+      (e) Oregon Board of Physical Therapy;
 
       (f) State Board of Chiropractic Examiners;
 
       (g) State Board of Pharmacy; and
 
-      (h) Oregon Board of Psychology. [2003 c.325 §1; 2009 c.43 §10; 2017 c.6 §26]
+      (h) Oregon Board of Psychology. [2003 c.325 §1; 2009 c.43 §10; 2017 c.6 §26; 2019 c.43 §9]
 
  
 
@@ -1401,7 +1411,7 @@ MISCELLANEOUS
 
       (e) Other demographic information that the board and the Office of Rural Health determine to be useful in the evaluation.
 
-      (3) To collect the data described in subsection (2) of this section, the board shall use unique provider identifiers and link the identifiers to the provider data reported under ORS 442.466.
+      (3) To collect the data described in subsection (2) of this section, the board shall use unique provider identifiers and link the identifiers to the provider data reported under ORS 442.373.
 
       (4) The board shall compile and analyze the data collected under this section and report its findings and analysis to the interim committees of the Legislative Assembly related to health every two years. [2017 c.718 §2; 2017 c.718 §17]
 
@@ -1447,19 +1457,71 @@ MISCELLANEOUS
 
  
 
-      Note: Section 18, chapter 718, Oregon Laws 2017, provides:
-
-      Sec. 18. (1) The report described in section 1 (2) of this 2017 Act [676.459 (2)] is first due no later than February 1, 2018, and each odd-numbered year thereafter.
-
-      (2) The report described in section 2 (4) of this 2017 Act [676.463 (4)] is first due no later than September 15, 2018. [2017 c.718 §18]
-
- 
-
       676.550 [2011 c.560 §1; repealed by 2015 c.829 §9 and 2017 c.718 §15]
 
  
 
+      676.551 Needlestick injury; blood draw of patient; test results; rules. (1) As used in this section:
+
+      (a) “Health care practitioner” means a person who provides medical care in an emergency setting and who is:
+
+      (A) An emergency medical services provider licensed under ORS chapter 682;
+
+      (B) A physician licensed under ORS chapter 677; or
+
+      (C) A nurse licensed under ORS 678.010 to 678.410.
+
+      (b) “Needlestick injury” means a wound caused by a needle puncturing the skin.
+
+      (2) Notwithstanding ORS 431A.570, a health care practitioner who receives a needlestick injury during the treatment of a patient who is unconscious or otherwise unable to consent may, in compliance with this section, perform a blood draw on the patient for the purpose of testing the blood to determine whether the health care practitioner needs to begin immediate post-exposure prophylactic treatment that may include the administration of medications to the health care practitioner.
+
+      (3) A blood draw described in subsection (2) of this section may be performed if:
+
+      (a) The patient is not expected to regain consciousness or the ability to consent in the amount of time necessary for the health care practitioner to receive appropriate medical treatment;
+
+      (b) There is no other person immediately available who is able to consent on behalf of the patient; and
+
+      (c) The health care practitioner will benefit medically from knowing the results of a test described under subsection (2) of this section.
+
+      (4) A test performed under this section must be anonymous.
+
+      (5) The patient, or patient’s legal guardian, must be informed of the blood draw and the test results.
+
+      (6) The results of a test described in subsection (2) of this section may not be:
+
+      (a) Made available to law enforcement agencies;
+
+      (b) Made available to any person other than the health care practitioner, the individual who performs the test and the patient or the patient’s legal guardian; or
+
+      (c) Included in the medical record of the health care practitioner or the patient.
+
+      (7) The patient, or the patient’s health insurer, may not be charged for the cost of performing a test under this section.
+
+      (8) The Oregon Health Authority may adopt rules to carry out this section. [2019 c.476 §1]
+
+ 
+
       676.552 [2011 c.560 §2; repealed by 2015 c.829 §9 and 2017 c.718 §15]
+
+ 
+
+      676.553 Prohibitions relating to provision of substance abuse, problem gambling or mental health services and support. (1) As used in this section:
+
+      (a) “Advertisement” means a public notice, announcement or communication in any form or by means of any media that describes a mental health or substance abuse treatment service or facility for the purpose of promoting, soliciting the purchase of or selling substance abuse, problem gambling or mental health services and support that a person provides to residents of this state.
+
+      (b)(A) “Person” means a natural person, a partnership, a limited partnership, a limited liability partnership, a corporation, a professional corporation, a nonprofit corporation, a limited liability company, a business trust or another business entity.
+
+      (B) “Person” does not include a public body, as defined in ORS 174.109, or the Oregon Health and Science University.
+
+      (c) “Substance abuse, problem gambling or mental health services and support” means all services and supports necessary to treat substance abuse, problem gambling or other mental health issues, such as outpatient behavioral health services and supports for children and adults, intensive treatment services for children, outpatient and residential substance use disorders treatment services and outpatient and residential problem gambling treatment services.
+
+      (2) A person that provides substance abuse, problem gambling or mental health services and support may not:
+
+      (a) Accept from another person, or pay to another person, a fee, commission, bonus, rebate or other compensation for a referral of, or to refer, a resident of this state for substance abuse, problem gambling or mental health services and support.
+
+      (b) Issue, engage, pay for, disseminate or otherwise make available an advertisement that intentionally falsely states or misrepresents the need for a resident of this state to obtain substance abuse, problem gambling or mental health services and support outside this state or at a facility that is located outside this state.
+
+      (c) Intentionally misrepresent or falsely state in an advertisement a resident of this state’s eligibility to participate in a medical assistance program. [2019 c.363 §1]
 
  
 
@@ -1475,9 +1537,9 @@ HEALTH LICENSING OFFICE
 
  
 
-      676.560 Purpose of Health Licensing Office. (1) To provide for the more effective coordination of administrative and regulatory functions of certain health boards and councils involved in protecting the public through the licensing and regulation of health-related professions and occupations practiced in this state under a uniform mission and uniform goals, the Health Licensing Office is created within the Oregon Health Authority.
+      676.560 Purpose of Health Licensing Office. (1) To provide for the more effective coordination of administrative and regulatory functions of certain health boards, councils and programs involved in protecting the public through the licensing and regulation of health-related professions and occupations practiced in this state under a uniform mission and uniform goals, the Health Licensing Office is created within the Oregon Health Authority.
 
-      (2) The mission of the office is to serve the public by providing a uniform structure and accountability for the boards and councils under its administration to protect the public from harm. The office’s focus is to:
+      (2) The mission of the office is to serve the public by providing a uniform structure and accountability for the boards, councils and programs under its administration to protect the public from harm. The office’s focus is to:
 
       (a) Promote effective health policy that protects the public from incompetent or unauthorized individuals and allows consumers to select a provider from a range of safe options.
 
@@ -1485,9 +1547,9 @@ HEALTH LICENSING OFFICE
 
       (c) Form partnerships and work in collaboration with each constituency, local and state governmental agencies, educators, organizations and other affected entities to encourage diverse opinions and perspectives.
 
-      (d) Provide the boards and councils with a standardized administrative forum and procedures for operation, fiscal services, licensing, enforcement and complaint resolution.
+      (d) Provide the boards, councils and programs with a standardized administrative forum and procedures for operation, fiscal services, licensing, enforcement and complaint resolution.
 
-      (e) Resolve disputes between regulatory entities regarding the scope of practice of persons with authorization by those entities in the professions and occupations overseen by those boards and councils. [Formerly 676.575]
+      (e) Resolve disputes between regulatory entities regarding the scope of practice of persons with authorization by those entities in the professions and occupations overseen by those boards, councils and programs. [Formerly 676.575; 2019 c.456 §14]
 
  
 
@@ -1525,9 +1587,9 @@ HEALTH LICENSING OFFICE
 
       (8) Advisory Council on Hearing Aids, as provided in ORS 694.015 to 694.170;
 
-      (9) Sex Offender Treatment Board, as provided in ORS 675.360 to 675.410;
+      (9) Sexual Offense Treatment Board, as provided in ORS 675.365 to 675.410;
 
-      (10) Nursing Home Administrators Board, as provided in ORS 678.710 to 678.820;
+      (10) Long Term Care Administrators Board, as provided in ORS 678.710 to 678.820;
 
       (11) Board of Licensed Dietitians, as provided in ORS 691.405 to 691.485;
 
@@ -1535,9 +1597,11 @@ HEALTH LICENSING OFFICE
 
       (13) Board of Certified Advanced Estheticians, as provided in ORS 676.630 to 676.660;
 
-      (14) Art therapy, as provided in ORS 681.740 to 681.758; and
+      (14) Art therapy, as provided in ORS 681.740 to 681.758;
 
-      (15) Lactation consultation, as provided in ORS 676.665 to 676.689. [Formerly 676.583]
+      (15) Lactation consultation, as provided in ORS 676.665 to 676.689; and
+
+      (16) Music therapy, as provided in ORS 681.700 to 681.730. [Formerly 676.583; 2018 c.61 §22; 2019 c.68 §14; 2019 c.456 §15]
 
  
 
@@ -1675,9 +1739,9 @@ HEALTH LICENSING OFFICE
 
       (2) The Director of the Health Licensing Office shall provide the boards, councils and programs administered by the office with any services and employees as the office requires to carry out the office’s duties. Subject to any applicable provisions of the State Personnel Relations Law, the Director of the Health Licensing Office shall appoint all subordinate officers and employees of the office, prescribe their duties and fix their compensation.
 
-      (3) The Director of the Health Licensing Office is responsible for carrying out the duties, functions and powers under ORS 675.360 to 675.410, 676.560 to 676.625, 676.665 to 676.689, 676.810, 676.815, 676.825, 676.992, 678.710 to 678.820, 680.500 to 680.565, 681.740 to 681.758, 687.405 to 687.495, 687.895, 688.701 to 688.734, 688.800 to 688.840, 690.005 to 690.225, 690.350 to 690.410, 691.405 to 691.485 and 694.015 to 694.170 and ORS chapter 700.
+      (3) The Director of the Health Licensing Office is responsible for carrying out the duties, functions and powers under ORS 675.365 to 675.410, 676.560 to 676.625, 676.665 to 676.689, 676.810, 676.815, 676.825, 676.992, 678.710 to 678.820, 680.500 to 680.565, 681.700 to 681.730, 681.740 to 681.758, 687.405 to 687.495, 687.895, 688.701 to 688.734, 688.800 to 688.840, 690.005 to 690.225, 690.350 to 690.410, 691.405 to 691.485 and 694.015 to 694.170 and ORS chapter 700.
 
-      (4) The enumeration of duties, functions and powers in subsection (3) of this section is not intended to be exclusive or to limit the duties, functions and powers imposed on or vested in the office by other statutes. [Formerly 676.610]
+      (4) The enumeration of duties, functions and powers in subsection (3) of this section is not intended to be exclusive or to limit the duties, functions and powers imposed on or vested in the office by other statutes. [Formerly 676.610; 2019 c.456 §16]
 
  
 
@@ -1703,23 +1767,31 @@ HEALTH LICENSING OFFICE
 
  
 
-      676.590 Disclosure of records. (1) Upon request, the Health Licensing Office shall disclose to a person against whom disciplinary action is sought information, including complaints and information identifying complainants, but not including information that is otherwise privileged or confidential under state or federal law, obtained by the office as part of an investigation conducted under:
+      676.590 Disclosure of investigatory information, records. (1) Information obtained by the Health Licensing Office as part of an investigation conducted under the following laws and any reports issued by an investigator are exempt from public disclosure:
 
-      (a) ORS 676.630 to 676.660, 681.700 to 681.730, 690.005 to 690.225, 690.350 to 690.410 or 694.015 to 694.170.
+      (a) ORS 676.630 to 676.660, 676.665 to 676.689, 681.700 to 681.730, 681.740 to 681.758, 690.005 to 690.225, 690.350 to 690.410 or 694.015 to 694.170.
 
       (b) ORS 676.560 to 676.625 if the investigation is related to the regulation of:
 
       (A) Advanced nonablative esthetics under ORS 676.630 to 676.660;
 
-      (B) Music therapy under ORS 681.700 to 681.730;
+      (B) Lactation consultation under ORS 676.665 to 676.689;
 
-      (C) Barbering, hair design, esthetics, nail technology or natural hair care under ORS 690.005 to 690.225;
+      (C) Music therapy under ORS 681.700 to 681.730;
 
-      (D) Electrologists and body art practitioners under ORS 690.350 to 690.410; or
+      (D) Art therapy under ORS 681.740 to 681.758;
 
-      (E) Dealing in hearing aids under ORS 694.015 to 694.170.
+      (E) Barbering, hair design, esthetics, nail technology or natural hair care under ORS 690.005 to 690.225;
 
-      (2) The office shall disclose information obtained as part of an investigation described in subsection (1) of this section to a person who demonstrates by clear and convincing evidence that the public interest in disclosure outweighs other interests in nondisclosure, including the public interest in nondisclosure. [Formerly 676.609]
+      (F) Electrologists and body art practitioners under ORS 690.350 to 690.410; or
+
+      (G) Dealing in hearing aids under ORS 694.015 to 694.170.
+
+      (2) The office shall disclose information obtained as part of an investigation described in subsection (1) of this section to a person who demonstrates by clear and convincing evidence that the public interest in disclosure outweighs other interests in nondisclosure, including the public interest in nondisclosure.
+
+      (3) A complaint that forms the basis for an investigation described in subsection (1) of this section shall not be considered information obtained as part of an investigation and is not exempt from public disclosure.
+
+      (4) Upon request, the office shall disclose to a person against whom disciplinary action is sought any information obtained as part of an investigation described in section (1) of this section, if the information is not otherwise privileged or confidential under state or federal law. [Formerly 676.609; 2019 c.456 §17]
 
  
 
@@ -1729,11 +1801,11 @@ HEALTH LICENSING OFFICE
 
       676.595 Disclosure of certain investigatory information; further disclosure; required disclosures; fees. (1) As used in this section, “board” means the:
 
-      (a) Sex Offender Treatment Board established under ORS 675.395.
+      (a) Sexual Offense Treatment Board established under ORS 675.395.
 
       (b) Behavior Analysis Regulatory Board created under ORS 676.806.
 
-      (c) Nursing Home Administrators Board established under ORS 678.800.
+      (c) Long Term Care Administrators Board established under ORS 678.800.
 
       (d) State Board of Denture Technology established under ORS 680.556.
 
@@ -1749,15 +1821,15 @@ HEALTH LICENSING OFFICE
 
       (2) Except to the extent that disclosure is necessary to conduct a full and proper investigation, the Health Licensing Office may not disclose information, including complaints and information identifying complainants, obtained by the office as part of an investigation conducted under:
 
-      (a) ORS 675.360 to 675.410, 676.810 to 676.820, 678.710 to 678.820, 680.500 to 680.565, 687.405 to 687.495, 688.701 to 688.734, 688.800 to 688.840 or 691.405 to 691.485 or ORS chapter 700.
+      (a) ORS 675.365 to 675.410, 676.810 to 676.820, 676.825, 676.830, 678.710 to 678.820, 680.500 to 680.565, 687.405 to 687.495, 688.701 to 688.734, 688.800 to 688.840 or 691.405 to 691.485 or ORS chapter 700.
 
       (b) ORS 676.560 to 676.625 if the investigation is related to the regulation of:
 
-      (A) Sex offender therapy under ORS 675.360 to 675.410;
+      (A) Sexual abuse specific treatment under ORS 675.365 to 675.410;
 
-      (B) Applied behavior analysis under ORS 676.810 to 676.820;
+      (B) Applied behavior analysis under ORS 676.810 to 676.820, 676.825 and 676.830;
 
-      (C) Nursing home administration under ORS 678.710 to 678.820;
+      (C) Nursing home administration and residential care facility administration under ORS 678.710 to 678.820;
 
       (D) The practice of denture technology under ORS 680.500 to 680.565;
 
@@ -1771,13 +1843,13 @@ HEALTH LICENSING OFFICE
 
       (I) Environmental or waste water sanitation under ORS chapter 700.
 
-      (3) Notwithstanding subsection (2) of this section, if the office decides not to impose a disciplinary sanction after conducting an investigation described in subsection (2) of this section:
+      (3) Notwithstanding subsection (2) of this section, if the office or board decides not to impose a disciplinary sanction after conducting an investigation described in subsection (2) of this section:
 
       (a) The office shall disclose information obtained as part of the investigation if the person requesting the information demonstrates by clear and convincing evidence that the public interest in disclosure outweighs other interests in nondisclosure, including the public interest in nondisclosure.
 
-      (b) The office may disclose to a complainant who made a complaint related to the investigation a written summary of information obtained as part of the investigation to the extent that disclosure is necessary to explain the office’s decision. The person who is the subject of the investigation may review and obtain a copy of a written summary disclosed under this paragraph after the office has redacted any information identifying the complainant.
+      (b) The office may disclose to a complainant who made a complaint related to the investigation a written summary of information obtained as part of the investigation to the extent that disclosure is necessary to explain the office’s or board’s decision. The person who is the subject of the investigation may review and obtain a copy of a written summary disclosed under this paragraph after the office has redacted any information identifying the complainant.
 
-      (4) Notwithstanding subsection (2) of this section, if a decision is made to impose a disciplinary sanction and to issue a notice of intent to impose a disciplinary sanction after conducting an investigation described in subsection (2) of this section, upon written request by the person who is the subject of the investigation, the office shall disclose to the person all information obtained by the office during the investigation, except that the office may not disclose:
+      (4) Notwithstanding subsection (2) of this section, if a decision is made to impose a disciplinary sanction and to issue a notice of intent to impose a disciplinary sanction after conducting an investigation described in subsection (2) of this section, upon written request by the person who is the subject of the investigation, the office shall disclose to the person all information obtained by the office or board during the investigation, except that the office may not disclose:
 
       (a) Information that is otherwise privileged or confidential under state or federal law.
 
@@ -1801,7 +1873,7 @@ HEALTH LICENSING OFFICE
 
       (e) Information to further an investigation into board conduct under ORS 192.685.
 
-      (7) The office must summarize the factual basis for the office’s disposition of:
+      (7) The office or board must summarize the factual basis for the office’s or board’s disposition of:
 
       (a) A final order related to the imposition of a disciplinary sanction;
 
@@ -1809,15 +1881,15 @@ HEALTH LICENSING OFFICE
 
       (c) A consent order or stipulated agreement that involves the conduct of a person against whom discipline is sought.
 
-      (8)(a) An office record or order, or any part of an office record or order, that is obtained during an investigation described in subsection (2) of this section, during a contested case proceeding or as a result of entering into a consent order or stipulated agreement is not admissible as evidence and may not preclude an issue or claim in a civil proceeding.
+      (8)(a) An office or board record or order, or any part of an office or board record or order, that is obtained during an investigation described in subsection (2) of this section, during a contested case proceeding or as a result of entering into a consent order or stipulated agreement is not admissible as evidence and may not preclude an issue or claim in a civil proceeding.
 
-      (b) This subsection does not apply to a proceeding between the office and a person against whom discipline is sought as otherwise authorized by law.
+      (b) This subsection does not apply to a proceeding between the office or board and a person against whom discipline is sought as otherwise authorized by law.
 
       (9)(a) Notwithstanding subsection (2) of this section, the office is not publicly disclosing information when the office permits other public officials and members of the press to attend executive sessions where information obtained as part of an investigation is discussed. Public officials and members of the press attending such executive sessions may not disclose information obtained as part of an investigation to any other member of the public.
 
       (b) For purposes of this subsection, “public official” means a member, member-elect or employee of a public entity as defined in ORS 676.177.
 
-      (10) The office may establish fees reasonably calculated to reimburse the actual cost of disclosing information to a person against whom discipline is sought as required by subsection (4) of this section. [2017 c.101 §2]
+      (10) The office may establish fees reasonably calculated to reimburse the actual cost of disclosing information to a person against whom discipline is sought as required by subsection (4) of this section. [2017 c.101 §2; 2018 c.61 §23; 2019 c.68 §15; 2019 c.456 §18]
 
  
 
@@ -1850,6 +1922,8 @@ HEALTH LICENSING OFFICE
       (2)(a) The Health Licensing Office shall carry out the investigatory duties necessary to enforce the provisions of ORS 676.560 to 676.625 and 676.992.
 
       (b) Subject to subsection (12) of this section, the office, upon its own motion, may initiate and conduct investigations of matters relating to the practice of occupations or professions subject to the authority of the boards, councils and programs listed in ORS 676.565.
+
+      (c) Subject to subsection (12) of this section, the office shall investigate all complaints received by the office relating to the practice of occupations or professions subject to the authority of the boards, councils and programs listed in ORS 676.565.
 
       (3) While conducting an investigation authorized under subsection (2) of this section or a hearing related to an investigation, the office may:
 
@@ -1889,7 +1963,7 @@ HEALTH LICENSING OFFICE
 
       (b) Allow the board to prioritize the investigation with respect to other investigations related to the practice of direct entry midwifery; and
 
-      (c) Consult with the board during and after the investigation for the purpose of determining whether to pursue disciplinary action. [2003 c.547 §1; 2005 c.648 §4; 2009 c.701 §10; 2009 c.756 §§5a,92; 2013 c.314 §10; 2013 c.568 §25; 2013 c.657 §5; 2017 c.101 §22; 2017 c.155 §12d; 2017 c.499 §12]
+      (c) Consult with the board during and after the investigation for the purpose of determining whether to pursue disciplinary action. [2003 c.547 §1; 2005 c.648 §4; 2009 c.701 §10; 2009 c.756 §§5a,92; 2013 c.314 §10; 2013 c.568 §25; 2013 c.657 §5; 2017 c.101 §22; 2017 c.155 §12d; 2017 c.499 §12; 2019 c.456 §19]
 
  
 
@@ -1905,7 +1979,7 @@ HEALTH LICENSING OFFICE
 
  
 
-      676.612 Disciplinary authority; authority of office to require fingerprints. (1) Subject to ORS 676.616 and 687.445, and in the manner prescribed in ORS chapter 183 for contested cases and as specified in ORS 675.385, 676.685, 676.825, 678.780, 680.535, 681.755, 687.445, 688.734, 688.836, 690.167, 690.407, 691.477, 694.147 and 700.111, the Health Licensing Office may refuse to issue or renew, may suspend or revoke or may otherwise condition or limit an authorization or may discipline or place on probation an authorization holder for commission of the prohibited acts listed in subsection (2) of this section.
+      676.612 Disciplinary authority; authority of office to require fingerprints. (1) Subject to ORS 676.616 and 687.445, and in the manner prescribed in ORS chapter 183 for contested cases and as specified in ORS 675.385, 676.685, 676.825, 678.780, 680.535, 681.733, 681.755, 687.445, 688.734, 688.836, 690.167, 690.407, 691.477, 694.147 and 700.111, the Health Licensing Office may refuse to issue or renew, may suspend or revoke or may otherwise condition or limit an authorization or may discipline or place on probation an authorization holder for commission of the prohibited acts listed in subsection (2) of this section.
 
       (2) A person subject to the authority of a board, council or program listed in ORS 676.565 commits a prohibited act if the person engages in:
 
@@ -1955,13 +2029,13 @@ HEALTH LICENSING OFFICE
 
       (4) If the office places an authorization holder on probation under subsection (1) of this section, the office, in consultation with the appropriate board, council or program, may determine and at any time modify the conditions of the probation.
 
-      (5) If an authorization is suspended, the authorization holder may not practice during the term of suspension. Upon the expiration of the term of suspension, the authorization may be reinstated by the office if the conditions of suspension no longer exist and the authorization holder has satisfied all requirements in the relevant statutes or administrative rules for issuance, renewal or reinstatement. [2003 c.547 §3; 2005 c.648 §6; 2005 c.730 §66; 2007 c.841 §15; 2009 c.701 §12; 2009 c.768 §29; 2011 c.346 §26; 2011 c.630 §16; 2013 c.314 §12; 2013 c.568 §27; 2013 c.657 §9; 2013 c.771 §13; 2017 c.21 §68; 2017 c.155 §10; 2017 c.499 §14]
+      (5) If an authorization is suspended, the authorization holder may not practice during the term of suspension. Upon the expiration of the term of suspension, the authorization may be reinstated by the office if the conditions of suspension no longer exist and the authorization holder has satisfied all requirements in the relevant statutes or administrative rules for issuance, renewal or reinstatement. [2003 c.547 §3; 2005 c.648 §6; 2005 c.730 §66; 2007 c.841 §15; 2009 c.701 §12; 2009 c.768 §29; 2011 c.346 §26; 2011 c.630 §16; 2013 c.314 §12; 2013 c.568 §27; 2013 c.657 §9; 2013 c.771 §13; 2017 c.21 §68; 2017 c.155 §10; 2017 c.499 §14; 2019 c.456 §20]
 
  
 
-      676.613 Injunctions. (1) In addition to all other remedies, when it appears to the Health Licensing Office that a person is engaged in, has engaged in or is about to engage in any act, practice or transaction that violates any provision of ORS 675.360 to 675.410, 676.665 to 676.689, 676.810, 676.815, 678.710 to 678.820, 680.500 to 680.565, 681.740 to 681.758, 687.405 to 687.495, 688.701 to 688.734, 688.800 to 688.840, 690.005 to 690.225, 690.350 to 690.410, 691.405 to 691.485 or 694.015 to 694.170 or ORS chapter 700, the office may, through the Attorney General or the district attorney of the county in which the act, practice or transaction occurs or will occur, apply to the court for an injunction restraining the person from the act, practice or transaction.
+      676.613 Injunctions. (1) In addition to all other remedies, when it appears to the Health Licensing Office that a person is engaged in, has engaged in or is about to engage in any act, practice or transaction that violates any provision of ORS 675.365 to 675.410, 676.665 to 676.689, 676.810, 676.815, 678.710 to 678.820, 680.500 to 680.565, 681.700 to 681.730, 681.740 to 681.758, 687.405 to 687.495, 688.701 to 688.734, 688.800 to 688.840, 690.005 to 690.225, 690.350 to 690.410, 691.405 to 691.485 or 694.015 to 694.170 or ORS chapter 700, the office may, through the Attorney General or the district attorney of the county in which the act, practice or transaction occurs or will occur, apply to the court for an injunction restraining the person from the act, practice or transaction.
 
-      (2) A court may issue an injunction under this section without proof of actual damages. An injunction issued under this section does not relieve a person from any other prosecution or enforcement action taken for violation of statutes listed in subsection (1) of this section. [2003 c.547 §5; 2005 c.648 §7; 2007 c.841 §16; 2009 c.768 §30; 2011 c.346 §27; 2011 c.630 §17; 2013 c.314 §13; 2013 c.568 §28; 2013 c.771 §14; 2015 c.674 §13; 2017 c.155 §11; 2017 c.499 §15]
+      (2) A court may issue an injunction under this section without proof of actual damages. An injunction issued under this section does not relieve a person from any other prosecution or enforcement action taken for violation of statutes listed in subsection (1) of this section. [2003 c.547 §5; 2005 c.648 §7; 2007 c.841 §16; 2009 c.768 §30; 2011 c.346 §27; 2011 c.630 §17; 2013 c.314 §13; 2013 c.568 §28; 2013 c.771 §14; 2015 c.674 §13; 2017 c.155 §11; 2017 c.499 §15; 2019 c.456 §21]
 
  
 
@@ -1993,9 +2067,9 @@ HEALTH LICENSING OFFICE
 
  
 
-      676.622 Electronic and facsimile signatures. (1) A transaction conducted through a state or local system or network that provides electronic access to the Health Licensing Office information and services is exempt from any requirement under ORS 675.360 to 675.410, 676.560 to 676.625, 676.665 to 676.689, 676.810, 676.815, 676.992, 680.500 to 680.565, 681.740 to 681.758, 687.405 to 687.495, 688.701 to 688.734, 688.800 to 688.840, 690.005 to 690.225, 690.350 to 690.410, 691.405 to 691.485 and 694.015 to 694.170 and ORS chapter 700, and rules adopted thereunder, requiring an original signature or the submission of handwritten materials.
+      676.622 Exemption from certain requirements for original signatures. (1) A transaction conducted through a state or local system or network that provides electronic access to the Health Licensing Office information and services is exempt from any requirement under ORS 675.365 to 675.410, 676.560 to 676.625, 676.665 to 676.689, 676.810, 676.815, 676.992, 680.500 to 680.565, 681.700 to 681.730, 681.740 to 681.758, 687.405 to 687.495, 688.701 to 688.734, 688.800 to 688.840, 690.005 to 690.225, 690.350 to 690.410, 691.405 to 691.485 and 694.015 to 694.170 and ORS chapter 700, and rules adopted thereunder, requiring an original signature or the submission of handwritten materials.
 
-      (2) Electronic signatures subject to ORS 84.001 to 84.061 and facsimile signatures are acceptable and have the same force as original signatures. [2009 c.701 §3; 2011 c.346 §29; 2011 c.630 §18; 2013 c.568 §32; 2013 c.771 §15; 2015 c.674 §14; 2017 c.155 §12; 2017 c.499 §17]
+      (2) Electronic signatures subject to ORS 84.001 to 84.061 and facsimile signatures are acceptable and have the same force as original signatures. [2009 c.701 §3; 2011 c.346 §29; 2011 c.630 §18; 2013 c.568 §32; 2013 c.771 §15; 2015 c.674 §14; 2017 c.155 §12; 2017 c.499 §17; 2019 c.456 §22]
 
  
 
@@ -2093,16 +2167,6 @@ CERTIFIED ADVANCED ESTHETICIANS
 
  
 
-      Note: Section 8, chapter 722, Oregon Laws 2015, provides:
-
-      Sec. 8. Notwithstanding the requirements listed in section 3 (1)(c) of this 2015 Act [676.640 (1)(c)], the Health Licensing Office shall, until January 1, 2018, issue a certificate to practice advanced nonablative esthetics procedures to an applicant who, in lieu of those requirements:
-
-      (1) Provides proof to the office of having been employed for not less than 500 hours as a laser operator under the supervision of a health care professional whose scope of practice includes the practice of advanced nonablative esthetics procedures; or
-
-      (2) Provides proof to the office of having completed 40 hours of education related to laser theory and fundamentals and of having completed 24 hours of practical experience performing each modality listed in section 1 (1) of this 2015 Act [676.630 (1)]. [2015 c.722 §8]
-
- 
-
       676.645 Renewal of certificate; rules. (1) A certificate issued under ORS 676.640 (1) or (3) must be renewed annually. To renew a certificate under this section, a certified advanced esthetician must submit to the Health Licensing Office:
 
       (a) A renewal application;
@@ -2140,22 +2204,6 @@ CERTIFIED ADVANCED ESTHETICIANS
       (7) Official action by the board requires the approval of a majority of the voting members of the board.
 
       (8) The board shall meet at a place, day and hour determined by the board. The board also may meet at other times and places specified by the call of the chairperson or of a majority of the voting members of the board. [2015 c.722 §5]
-
- 
-
-      Note: Section 9, chapter 722, Oregon Laws 2015, provides:
-
-      Sec. 9. (1) Notwithstanding the term of office specified by section 5 of this 2015 Act [676.650], of the members first appointed to the Board of Certified Advanced Estheticians:
-
-      (a) Two shall serve for terms ending December 31, 2016.
-
-      (b) Two shall serve for terms ending December 31, 2017.
-
-      (c) Two shall serve for terms ending December 31, 2018.
-
-      (d) Three shall serve for terms ending December 31, 2019.
-
-      (2) Notwithstanding the requirements for board membership specified by section 5 (2)(a) of this 2015 Act, the members first appointed to the board under section 5 (2)(a) of this 2015 Act may be estheticians who have at least three years’ experience practicing advanced nonablative esthetics procedures. [2015 c.722 §9]
 
  
 
@@ -2225,15 +2273,15 @@ LACTATION CONSULTANTS
 
       (1) Is at least 18 years old;
 
-      (2) Submits sufficient proof, as determined by the office, that the applicant is:
+      (2) Submits sufficient proof, as determined by the office, that the applicant:
 
-      (a) Certified by the International Board of Lactation Consultant Examiners, or its successor organization, as approved by the office by rule, as an International Board Certified Lactation Consultant; and
+      (a) As approved by the office by rule, satisfies the requirements for certification as an International Board Certified Lactation Consultant by the International Board of Lactation Consultant Examiners or its successor organization; and
 
-      (b) In good standing in any other states where the applicant is authorized as a lactation consultant;
+      (b) Is in good standing in any other states where the applicant is authorized as a lactation consultant;
 
       (3) Pays a licensure fee; and
 
-      (4) Meets other qualifications required by the office by rule. [2017 c.499 §2]
+      (4) Meets other qualifications required by the office by rule. [2017 c.499 §2; 2019 c.456 §40]
 
  
 
@@ -2291,19 +2339,11 @@ LACTATION CONSULTANTS
 
       (c) Determine qualifications for applicants for initial licensure and licensure by reciprocity;
 
-      (d) Approve the certification issued by the International Board of Lactation Consultant Examiners or its successor organization, so long as the organization offers:
+      (d) Develop and maintain a publicly available record of lactation consultants; and
 
-      (A) A process to evaluate candidates for certification or education;
+      (e) Establish standards of practice and professional responsibility for lactation consultants that take into consideration the standards established by the International Board of Lactation Consultant Examiners.
 
-      (B) A grievance process for applicants or individuals authorized by the organization; and
-
-      (C) A process for recertification or reauthorization;
-
-      (e) Develop and maintain a publicly available record of lactation consultants; and
-
-      (f) Establish standards of practice and professional responsibility for lactation consultants that reflect the standards established by the International Board of Lactation Consultant Examiners.
-
-      (2) The office may adopt other rules as necessary to carry out the provisions of ORS 676.665 to 676.689. [2017 c.499 §7]
+      (2) The office may adopt other rules as necessary to carry out the provisions of ORS 676.665 to 676.689. [2017 c.499 §7; 2019 c.456 §41]
 
  
 
@@ -2331,13 +2371,13 @@ APPLIED BEHAVIOR ANALYSIS
 
       (d) The Oregon State Board of Nursing;
 
-      (e) The Physical Therapist Licensing Board;
+      (e) The Oregon Board of Physical Therapy;
 
       (f) The State Board of Examiners for Speech-Language Pathology and Audiology;
 
       (g) The State Board of Licensed Social Workers; or
 
-      (h) The Oregon Board of Psychology. [2015 c.674 §1; 2017 c.6 §27]
+      (h) The Oregon Board of Psychology. [2015 c.674 §1; 2017 c.6 §27; 2019 c.43 §10]
 
  
 
@@ -2372,28 +2412,6 @@ APPLIED BEHAVIOR ANALYSIS
       (7) A majority of the members of the board constitutes a quorum for the transaction of business.
 
       (8) The board shall meet at least once every year as determined by the office. The board may also meet at other times and places specified by the call of the chairperson or of a majority of the members of the board. [Formerly 676.800]
-
- 
-
-      Note: Section 4, chapter 771, Oregon Laws 2013, provides:
-
-      Sec. 4. (1) An individual actively practicing applied behavior analysis as defined in section 1 of this 2015 Act [676.802] on August 14, 2013, may continue to claim reimbursement from a health benefit plan, the Public Employees’ Benefit Board or the Oregon Educators Benefit Board for services provided without a license before July 1, 2018.
-
-      (2) An individual may claim reimbursement under subsection (1) of this section only if the individual submits a satisfactory declaration and other required documentation to the Health Licensing Office not later than April 30, 2016. [2013 c.771 §4; 2015 c.674 §11]
-
- 
-
-      Note: Section 10, chapter 674, Oregon Laws 2015, provides:
-
-      Sec. 10. (1) Notwithstanding the term of office specified in ORS 676.800 [renumbered 676.806] or any provision of section 3a, chapter 771, Oregon Laws 2013, of the board members added to the Behavior Analysis Regulatory Board by the amendments to ORS 676.800 by section 2 of this 2015 Act:
-
-      (a) One shall serve for a term ending October 31, 2018.
-
-      (b) One shall serve for a term ending October 31, 2019.
-
-      (2) The terms of office specified in subsection (1) of this section commence on November 1, 2015.
-
-      (3) A person who is a member of the board as of the effective date of this 2015 Act [July 6, 2015] is subject to confirmation by the Senate in the manner prescribed in ORS 171.562 and 171.565. [2015 c.674 §10]
 
  
 
@@ -2479,7 +2497,7 @@ CULTURAL COMPETENCY CONTINUING EDUCATION
 
       (i) Oregon State Board of Nursing;
 
-      (j) Nursing Home Administrators Board;
+      (j) Long Term Care Administrators Board;
 
       (k) Oregon Board of Optometry;
 
@@ -2489,7 +2507,7 @@ CULTURAL COMPETENCY CONTINUING EDUCATION
 
       (n) Occupational Therapy Licensing Board;
 
-      (o) Physical Therapist Licensing Board;
+      (o) Oregon Board of Physical Therapy;
 
       (p) Oregon Board of Psychology;
 
@@ -2517,11 +2535,85 @@ CULTURAL COMPETENCY CONTINUING EDUCATION
 
       (4) A board shall report biennially to the authority on the participation documented under subsection (3) of this section.
 
-      (5) The authority, on or before August 1 of each even-numbered year, shall report to the interim committees of the Legislative Assembly related to health care on the information submitted to the authority under subsection (4) of this section. [2013 c.240 §1; 2017 c.6 §28; 2017 c.499 §19]
+      (5) The authority, on or before August 1 of each even-numbered year, shall report to the interim committees of the Legislative Assembly related to health care on the information submitted to the authority under subsection (4) of this section. [2013 c.240 §1; 2017 c.6 §28; 2017 c.499 §19; 2018 c.61 §24; 2019 c.43 §11]
+
+ 
+
+      Note: The amendments to 676.850 by section 1, chapter 186, Oregon Laws 2019, become operative July 1, 2021, and apply to applicants for initial authorization or renewal of authorization on or after July 1, 2021. See sections 3 and 4, chapter 186, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      676.850. (1) As used in this section, “board” means the:
+
+      (a) State Board of Examiners for Speech-Language Pathology and Audiology;
+
+      (b) State Board of Chiropractic Examiners;
+
+      (c) State Board of Licensed Social Workers;
+
+      (d) Oregon Board of Licensed Professional Counselors and Therapists;
+
+      (e) Oregon Board of Dentistry;
+
+      (f) Board of Licensed Dietitians;
+
+      (g) State Board of Massage Therapists;
+
+      (h) Oregon Board of Naturopathic Medicine;
+
+      (i) Oregon State Board of Nursing;
+
+      (j) Long Term Care Administrators Board;
+
+      (k) Oregon Board of Optometry;
+
+      (L) State Board of Pharmacy;
+
+      (m) Oregon Medical Board;
+
+      (n) Occupational Therapy Licensing Board;
+
+      (o) Oregon Board of Physical Therapy;
+
+      (p) Oregon Board of Psychology;
+
+      (q) Board of Medical Imaging;
+
+      (r) State Board of Direct Entry Midwifery;
+
+      (s) State Board of Denture Technology;
+
+      (t) Respiratory Therapist and Polysomnographic Technologist Licensing Board;
+
+      (u) Home Care Commission;
+
+      (v) Oregon Health Authority, to the extent that the authority licenses emergency medical service providers; and
+
+      (w) Health Licensing Office, to the extent that the office licenses lactation consultants.
+
+      (2)(a) A board shall adopt rules to require a person authorized to practice the profession regulated by the board to complete cultural competency continuing education. Completion of the continuing education described in this subsection shall be a condition of renewal of an authorization to practice the profession regulated by the board every other time that the person’s authorization is subject to renewal.
+
+      (b) Cultural competency continuing education courses may be taken in addition to or, if a board determines that the cultural competency continuing education fulfills existing continuing education requirements, instead of any other continuing education requirement imposed by the board.
+
+      (c) A board shall consider the availability of the continuing education described in this subsection when adopting rules regarding the required number of credits of continuing education.
+
+      (d) A board shall encourage, but may not require, the completion of continuing education approved by the Oregon Health Authority under ORS 413.450. A board shall accept as meeting the requirements of this subsection continuing education that meets the skills requirements established by the authority by rule.
+
+      (3) The requirements of subsection (2) of this section do not apply to a person authorized to practice a profession regulated by a board if the person is:
+
+      (a) Retired and not practicing the profession in any state;
+
+      (b) Not practicing the profession in this state; or
+
+      (c) Residing in this state but not practicing the profession in any state.
 
  
 
       676.855 Authority of public universities and community colleges to require cultural competency continuing education. Each public university listed in ORS 352.002 and each community college, as defined in ORS 341.005, may require persons authorized to practice a profession regulated by a board, as defined in ORS 676.850, who provide services to students at health care facilities located on a campus of the public university or community college to provide proof of participating at least once every two years in a continuing education opportunity relating to cultural competency approved by the Oregon Health Authority under ORS 413.450. [2013 c.240 §18]
+
+ 
+
+      Note: The amendments to 676.855 by section 2, chapter 186, Oregon Laws 2019, become operative July 1, 2021, and apply to applicants for initial authorization or renewal of authorization on or after July 1, 2021. See sections 3 and 4, chapter 186, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      676.855. Each public university listed in ORS 352.002 and each community college, as defined in ORS 341.005, may require persons authorized to practice a profession regulated by a board, as defined in ORS 676.850, who provide services to students at health care facilities located on a campus of the public university or community college to provide proof of completing cultural competency continuing education approved by the Oregon Health Authority under ORS 413.450.
 
  
 
@@ -2543,7 +2635,7 @@ SUICIDE RISK ASSESSMENT, TREATMENT AND MANAGEMENT CONTINUING EDUCATION
 
       (E) Oregon State Board of Nursing;
 
-      (F) Physical Therapist Licensing Board;
+      (F) Oregon Board of Physical Therapy;
 
       (G) State Board of Chiropractic Examiners;
 
@@ -2609,7 +2701,7 @@ SUICIDE RISK ASSESSMENT, TREATMENT AND MANAGEMENT CONTINUING EDUCATION
 
       (6) The authority, on or before August 1 of each even-numbered year, shall report to the interim committees of the Legislative Assembly related to health care on the information submitted to the authority under subsection (5) of this section. The authority shall include in the report information about initiatives by boards to promote awareness about suicide risk assessment, treatment and management and information on how boards are promoting continuing education described in subsection (2) of this section to licensees.
 
-      (7) The authority may use the information submitted to the authority under subsection (5) of this section to develop continuing education opportunities related to suicide risk assessment, treatment and management for licensees and to facilitate improvements in suicide risk assessment, treatment and management efforts in this state. [2017 c.511 §1]
+      (7) The authority may use the information submitted to the authority under subsection (5) of this section to develop continuing education opportunities related to suicide risk assessment, treatment and management for licensees and to facilitate improvements in suicide risk assessment, treatment and management efforts in this state. [2017 c.511 §1; 2019 c.43 §12]
 
  
 
@@ -2727,9 +2819,9 @@ PENALTIES
 
       (h) ORS chapter 700 (environmental sanitation);
 
-      (i) ORS 675.360 to 675.410 (sexual abuse specific treatment);
+      (i) ORS 675.365 to 675.410 (sexual abuse specific treatment);
 
-      (j) ORS 678.710 to 678.820 (nursing home administrators);
+      (j) ORS 678.710 to 678.820 (nursing home administrators and residential care facility administrators);
 
       (k) ORS 691.405 to 691.485 (dietitians);
 
@@ -2761,7 +2853,7 @@ PENALTIES
 
       (5) Civil penalties under this section shall be imposed as provided in ORS 183.745.
 
-      (6) The moneys received by the office from civil penalties under this section shall be deposited in the Health Licensing Office Account and are continuously appropriated to the office for the administration and enforcement of the laws the office is charged with administering and enforcing that govern the person against whom the penalty was imposed. [2003 c.547 §4; 2005 c.648 §14; 2007 c.841 §17; 2009 c.701 §17; 2009 c.768 §31; 2011 c.346 §31; 2011 c.630 §20; 2011 c.715 §21; 2013 c.82 §5; 2013 c.314 §17; 2013 c.568 §33; 2013 c.657 §10; 2013 c.771 §17; 2015 c.632 §6; 2015 c.674 §16; 2015 c.722 §11; 2017 c.155 §13; 2017 c.421 §9; 2017 c.499 §20]
+      (6) The moneys received by the office from civil penalties under this section shall be deposited in the Health Licensing Office Account and are continuously appropriated to the office for the administration and enforcement of the laws the office is charged with administering and enforcing that govern the person against whom the penalty was imposed. [2003 c.547 §4; 2005 c.648 §14; 2007 c.841 §17; 2009 c.701 §17; 2009 c.768 §31; 2011 c.346 §31; 2011 c.630 §20; 2011 c.715 §21; 2013 c.82 §5; 2013 c.314 §17; 2013 c.568 §33; 2013 c.657 §10; 2013 c.771 §17; 2015 c.632 §6; 2015 c.674 §16; 2015 c.722 §11; 2017 c.155 §13; 2017 c.421 §9; 2017 c.499 §20; 2018 c.61 §25]
 
 _______________
 

@@ -4,20 +4,6 @@ Chapter 441 — Health Care Facilities
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0050
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0050; 2018 Session Laws 0075
-
- 
-
- 
-
 
  
 
@@ -31,7 +17,7 @@ PUBLIC HEALTH AND SAFETY
 
  
 
-LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
+LICENSING AND SUPERVISION OF FACILITIES AND HEALTH MAINTENANCE ORGANIZATIONS
 
  
 
@@ -39,7 +25,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-441.020     Application; fees
+441.020     Application; fees; rules
 
  
 
@@ -55,6 +41,10 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
+441.026     Licensing of extended stay centers; rules
+
+ 
+
 441.030     Denial, suspension or revocation of licenses; restrictions on admission; penalties
 
  
@@ -63,23 +53,35 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-441.050     Additional remedies
+441.038     Additional remedies
 
  
+
+441.044     Complaints about standard of care in facility; retaliation prohibited; rules
+
+ 
+
+441.046     Facility prohibited from interfering with employee’s disclosure of abuse, violations of laws or threats to health and safety of resident; rules
+
+ 
+
+441.047     Requirement to provide resident with information about Long Term Care Ombudsman services
+
+ 
+
+441.051     Discharge of patient to care of lay caregiver
 
 441.053     Release of patient presenting with behavioral health crisis
 
  
 
+441.054     Discharge of patients receiving mental health treatment
+
 441.055     Health care facility medical staff and bylaws; rules
 
  
 
-441.056     Credentialing telemedicine providers
-
- 
-
-441.057     Rules concerning complaints about care; reporting by employee
+441.056     Credentialing telemedicine providers; rules
 
  
 
@@ -122,6 +124,8 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 441.077     Revocation of license and other penalties for imposing restrictions upon certain physicians; construction of section
 
  
+
+441.078     Disability discrimination prohibited in provision or insurance coverage of organ transplantation
 
 441.079     Eye, organ and tissue transplants
 
@@ -260,18 +264,6 @@ HOSPITAL NURSING SERVICES
  
 
 441.192     Notice of employment outside of hospital
-
- 
-
-PATIENT DISCHARGE PROCEDURES
-
- 
-
-441.196     Discharge of patients receiving mental health treatment
-
- 
-
-441.198     Discharge to care of lay caregiver
 
  
 
@@ -791,7 +783,7 @@ MISCELLANEOUS
 
  
 
-441.816     Influenza vaccines for patients 65 years of age or older
+441.816     Influenza vaccines for patients 65 years of age or older; rules
 
  
 
@@ -815,7 +807,7 @@ PENALTIES
 
  
 
-      441.005 [Amended by 1971 c.730 §1; 1973 c.840 §1; repealed by 1977 c.751 §57]
+441.005 [Amended by 1971 c.730 §1; 1973 c.840 §1; repealed by 1977 c.751 §57]
 
  
 
@@ -827,7 +819,7 @@ PENALTIES
 
  
 
-LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
+LICENSING AND SUPERVISION OF FACILITIES AND HEALTH MAINTENANCE ORGANIZATIONS
 
  
 
@@ -841,15 +833,15 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.020 Application; fees. (1) Licenses for health care facilities, except long term care facilities as defined in ORS 442.015, must be obtained from the Oregon Health Authority.
+      441.020 Application; fees; rules. (1) Licenses for health care facilities, except long term care facilities as defined in ORS 442.015, must be obtained from the Oregon Health Authority.
 
       (2) Licenses for long term care facilities must be obtained from the Department of Human Services.
 
       (3) Applications shall be upon such forms and shall contain such information as the authority or the department may reasonably require, which may include affirmative evidence of ability to comply with such reasonable standards and rules as may lawfully be prescribed under ORS 441.025.
 
-      (4)(a) Each application submitted to the Oregon Health Authority must be accompanied by the license fee. If the license is denied, the fee shall be refunded to the applicant. If the license is issued, the fee shall be paid into the State Treasury to the credit of the Oregon Health Authority Fund for the purpose of carrying out the functions of the Oregon Health Authority under ORS 441.015 to 441.063 and 441.196; or
+      (4)(a) Each application submitted to the Oregon Health Authority must be accompanied by the license fee. If the license is denied, the fee shall be refunded to the applicant. If the license is issued, the fee shall be paid into the State Treasury to the credit of the Oregon Health Authority Fund for the purpose of carrying out the functions of the Oregon Health Authority under ORS 441.015 to 441.087; or
 
-      (b) Each application submitted to the Department of Human Services must be accompanied by the application fee or the annual renewal fee, as applicable. If the license is denied, the fee shall be refunded to the applicant. If the license is issued, the fee shall be paid into the State Treasury to the credit of the Department of Human Services Account for the purpose of carrying out the functions of the Department of Human Services under ORS 431A.050 to 431A.080, 441.015 to 441.063 and 441.196.
+      (b) Each application submitted to the Department of Human Services must be accompanied by the application fee or the annual renewal fee, as applicable. If the license is denied, the fee shall be refunded to the applicant. If the license is issued, the fee shall be paid into the State Treasury to the credit of the Department of Human Services Account for the purpose of carrying out the functions of the Department of Human Services under ORS 431A.050 to 431A.080 and 441.015 to 441.087.
 
       (5) Except as otherwise provided in subsection (8) of this section, for hospitals with:
 
@@ -893,19 +885,25 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (11) For outpatient renal dialysis facilities, the annual license fee shall be $2,000.
 
-      (12) During the time the licenses remain in force, holders are not required to pay inspection fees to any county, city or other municipality.
+      (12) The authority shall prescribe by rule the fee for licensing an extended stay center, not to exceed:
 
-      (13) Any health care facility license may be indorsed to permit operation at more than one location. If so, the applicable license fee shall be the sum of the license fees that would be applicable if each location were separately licensed. The authority may include hospital satellites on a hospital’s license in accordance with rules adopted by the authority.
+      (a) An application fee of $25,000; and
 
-      (14) Licenses for health maintenance organizations shall be obtained from the Director of the Department of Consumer and Business Services pursuant to ORS 731.072.
+      (b) An annual renewal fee of $5,000.
 
-      (15) All moneys received pursuant to subsection (8) of this section shall be deposited in the Quality Care Fund established in ORS 443.001.
+      (13) During the time the licenses remain in force, holders are not required to pay inspection fees to any county, city or other municipality.
 
-      (16) As used in this section:
+      (14) Any health care facility license may be indorsed to permit operation at more than one location. If so, the applicable license fee shall be the sum of the license fees that would be applicable if each location were separately licensed. The authority may include hospital satellites on a hospital’s license in accordance with rules adopted by the authority.
+
+      (15) Licenses for health maintenance organizations shall be obtained from the Director of the Department of Consumer and Business Services pursuant to ORS 731.072.
+
+      (16) Notwithstanding subsection (4) of this section, all moneys received for approved applications pursuant to subsection (8) of this section shall be deposited in the Quality Care Fund established in ORS 443.001.
+
+      (17) As used in this section:
 
       (a) “Hospital satellite” has the meaning prescribed by the authority by rule.
 
-      (b) “Procedure room” means a room where surgery or invasive procedures are performed. [Amended by 1957 c.697 §1; 1971 c.650 §19; 1971 c.730 §5; 1973 c.840 §5; 1977 c.284 §4; 1977 c.751 §20a; 1979 c.696 §15; 1987 c.428 §3; 1987 c.918 §7; 1995 c.449 §1; 1997 c.249 §139; 2001 c.100 §2; 2001 c.900 §161; 2009 c.595 §720; 2009 c.792 §§53,53a; 2009 c.828 §84; 2017 c.679 §11]
+      (b) “Procedure room” means a room where surgery or invasive procedures are performed. [Amended by 1957 c.697 §1; 1971 c.650 §19; 1971 c.730 §5; 1973 c.840 §5; 1977 c.284 §4; 1977 c.751 §20a; 1979 c.696 §15; 1987 c.428 §3; 1987 c.918 §7; 1995 c.449 §1; 1997 c.249 §139; 2001 c.100 §2; 2001 c.900 §161; 2009 c.595 §720; 2009 c.792 §§53,53a; 2009 c.828 §84; 2017 c.679 §11; 2018 c.50 §4]
 
  
 
@@ -941,9 +939,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (4) As used in this section, “full compliance survey” means a survey conducted by the authority following a complaint investigation to determine a hospital’s compliance with the Centers for Medicare and Medicaid Services Conditions of Participation. [2009 c.792 §4b; 2009 c.792 §54; 2011 c.720 §195a]
 
- 
-
-      Note: 441.021 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 441 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+Note: 441.021 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 441 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -951,7 +947,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.025 License issuance; rules; renewal; disclosure; transfer; posting. (1)(a) Upon receipt of a license fee and an application to operate a health care facility other than a long term care facility, the Oregon Health Authority shall review the application and conduct an on-site inspection of the health care facility. The authority shall issue a license if it finds that the applicant and health care facility comply with ORS 441.015 to 441.063 and 441.196 and the rules of the authority provided that the authority does not receive within the time specified a certificate of noncompliance issued by the State Fire Marshal, deputy, or approved authority pursuant to ORS 479.215.
+      441.025 License issuance; rules; renewal; disclosure; transfer; posting. (1)(a) Upon receipt of a license fee and an application to operate a health care facility other than a long term care facility, the Oregon Health Authority shall review the application and conduct an on-site inspection of the health care facility. The authority shall issue a license if it finds that the applicant and health care facility comply with ORS 441.015 to 441.087 and the rules of the authority provided that the authority does not receive within the time specified a certificate of noncompliance issued by the State Fire Marshal, deputy, or approved authority pursuant to ORS 479.215.
 
       (b) The authority shall, following payment of the fee, annually renew each license issued under this subsection unless:
 
@@ -959,7 +955,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (B) The State Fire Marshal, a deputy or an approved authority has issued a certificate of noncompliance pursuant to ORS 479.215.
 
-      (2)(a) Upon receipt of a license fee and an application to operate a long term care facility, the Department of Human Services shall review the application and conduct an on-site inspection of the long term care facility. The department shall issue a license if the department finds that the applicant and long term care facility comply with ORS 441.015 to 441.063, 441.087 and 441.196 and the rules of the department provided that it does not receive within the time specified a certificate of noncompliance issued by the State Fire Marshal, deputy, or approved authority pursuant to ORS 479.215.
+      (2)(a) Upon receipt of a license fee and an application to operate a long term care facility, the Department of Human Services shall review the application and conduct an on-site inspection of the long term care facility. The department shall issue a license if the department finds that the applicant and long term care facility comply with ORS 441.015 to 441.087 and the rules of the department provided that it does not receive within the time specified a certificate of noncompliance issued by the State Fire Marshal, deputy, or approved authority pursuant to ORS 479.215.
 
       (b) The department shall, following an on-site inspection and payment of the fee, annually renew each license issued under this subsection unless:
 
@@ -1001,7 +997,149 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (b) Assume a descriptive title or represent itself under a descriptive title other than the classification assigned by the authority or department.
 
-      (13) A health care facility must reapply for licensure to change the classification assigned or the type of license issued by the authority or department. [Amended by 1957 c.697 §2; 1961 c.316 §6; 1967 c.89 §3; 1971 c.730 §7; 1973 c.38 §1; 1973 c.840 §7; 1977 c.261 §3; 1977 c.751 §21; 1979 c.336 §1; 1983 c.740 §156; 1985 c.747 §20; 1987 c.428 §5; 1989 c.1034 §4; 2001 c.900 §163; 2009 c.595 §722; 2009 c.792 §56; 2011 c.35 §1]
+      (13) A health care facility must reapply for licensure to change the classification assigned or the type of license issued by the authority or department. [Amended by 1957 c.697 §2; 1961 c.316 §6; 1967 c.89 §3; 1971 c.730 §7; 1973 c.38 §1; 1973 c.840 §7; 1977 c.261 §3; 1977 c.751 §21; 1979 c.336 §1; 1983 c.740 §156; 1985 c.747 §20; 1987 c.428 §5; 1989 c.1034 §4; 2001 c.900 §163; 2009 c.595 §722; 2009 c.792 §56; 2011 c.35 §1; 2018 c.50 §12]
+
+ 
+
+      Note: The amendments to 441.025 by section 4, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of licenses for long term care facilities, conversion facilities, residential care facilities or adult foster homes on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies on and after January 1, 2021, is set forth for the user’s convenience.
+
+      441.025. (1)(a) Upon receipt of a license fee and an application to operate a health care facility other than a long term care facility, the Oregon Health Authority shall review the application and conduct an on-site inspection of the health care facility. The authority shall issue a license if it finds that the applicant and health care facility comply with ORS 441.015 to 441.087 and the rules of the authority provided that the authority does not receive within the time specified a certificate of noncompliance issued by the State Fire Marshal, deputy, or approved authority pursuant to ORS 479.215.
+
+      (b) The authority shall, following payment of the fee, annually renew each license issued under this subsection unless:
+
+      (A) The health care facility’s license has been suspended or revoked; or
+
+      (B) The State Fire Marshal, a deputy or an approved authority has issued a certificate of noncompliance pursuant to ORS 479.215.
+
+      (2)(a) Upon receipt of a license fee and an application to operate a long term care facility, the Department of Human Services shall review the application and conduct an on-site inspection of the long term care facility, including an inspection of the kitchen and other areas where food is prepared for residents. The department shall issue a license if the department finds that the applicant and long term care facility comply with ORS 441.015 to 441.087 and the rules of the department provided that it does not receive within the time specified a certificate of noncompliance issued by the State Fire Marshal, deputy, or approved authority pursuant to ORS 479.215.
+
+      (b) The department shall, following an on-site inspection and payment of the fee, annually renew each license issued under this subsection unless:
+
+      (A) The long term care facility’s license has been suspended or revoked;
+
+      (B) The long term care facility is found not to be in substantial compliance, following the on-site inspection, with ORS 441.015 to 441.087 and 443.012 and the rules of the department;
+
+      (C) The long term care facility has failed an inspection of the kitchen or other areas where food is prepared for residents that was conducted by the department in accordance with ORS 443.417, except as provided in ORS 443.417 (2); or
+
+      (D) The State Fire Marshal, a deputy or an approved authority has issued a certificate of noncompliance pursuant to ORS 479.215.
+
+      (3) Each license shall be issued only for the premises and persons or governmental units named in the application and shall not be transferable or assignable.
+
+      (4) Licenses shall be posted in a conspicuous place on the licensed premises as prescribed by rule of the authority or the department.
+
+      (5) No license shall be issued or renewed for any health care facility or health maintenance organization that is required to obtain a certificate of need under ORS 442.315 until a certificate of need has been granted. An ambulatory surgical center is not subject to the certificate of need requirements in ORS 442.315.
+
+      (6) No license shall be issued or renewed for any skilled nursing facility or intermediate care facility, unless the applicant has included in the application the name and such other information as may be necessary to establish the identity and financial interests of any person who has incidents of ownership in the facility representing an interest of 10 percent or more thereof. If the person having such interest is a corporation, the name of any stockholder holding stock representing an interest in the facility of 10 percent or more shall also be included in the application. If the person having such interest is any other entity, the name of any member thereof having incidents of ownership representing an interest of 10 percent or more in the facility shall also be included in the application.
+
+      (7) A license may be denied to any applicant for a license or renewal thereof or any stockholder of any such applicant who has incidents of ownership in the health care facility representing an interest of 10 percent or more thereof, or an interest of 10 percent or more of a lease agreement for the facility, if during the five years prior to the application the applicant or any stockholder of the applicant had an interest of 10 percent or more in the facility or of a lease for the facility and has divested that interest after receiving from the authority or the department written notice that the authority or the department intends to suspend or revoke the license or to decertify the facility from eligibility to receive payments for services provided under this section.
+
+      (8) The Department of Human Services may not issue or renew a license for a long term care facility, unless the applicant has included in the application the identity of any person who has incident of ownership in the long term care facility who also has a financial interest in any pharmacy, as defined in ORS 689.005.
+
+      (9) The authority shall adopt rules for each type of health care facility, except long term care facilities, to carry out the purposes of ORS 441.015 to 441.087 including, but not limited to:
+
+      (a) Establishing classifications and descriptions for the different types of health care facilities that are licensed under ORS 441.015 to 441.087; and
+
+      (b) Standards for patient care and safety, adequate professional staff organizations, training of staff for whom no other state regulation exists, suitable delineation of professional privileges and adequate staff analyses of clinical records.
+
+      (10) The department shall adopt rules for each type of long term care facility to carry out the purposes of ORS 441.015 to 441.087 including, but not limited to:
+
+      (a) Establishing classifications and descriptions for the different types of long term care facilities that are licensed under ORS 441.015 to 441.087;
+
+      (b) Standards for patient care and safety, adequate professional staff organizations, training of staff for whom no other state regulation exists, suitable delineation of professional privileges and adequate staff analyses of clinical records; and
+
+      (c) Rules to ensure that a long term care facility complies with ORS 443.012.
+
+      (11) The authority or department may not adopt a rule requiring a health care facility to serve a specific food as long as the necessary nutritional food elements are present in the food that is served.
+
+      (12) A health care facility licensed by the authority or department may not:
+
+      (a) Offer or provide services beyond the scope of the license classification assigned by the authority or department; or
+
+      (b) Assume a descriptive title or represent itself under a descriptive title other than the classification assigned by the authority or department.
+
+      (13) A health care facility must reapply for licensure to change the classification assigned or the type of license issued by the authority or department.
+
+ 
+
+      441.026 Licensing of extended stay centers; rules. (1) As used in this section:
+
+      (a) “Extended stay center” means a facility that provides extended stay services.
+
+      (b) “Extended stay services” means post-surgical and post-diagnostic medical and nursing services provided to a patient who is recovering from a surgical procedure performed in an ambulatory surgical center.
+
+      (c) “Local hospital” has the meaning given that term in rules adopted by the Oregon Health Authority that are consistent with federal requirements.
+
+      (d) “Operating room” has the meaning given that term in rules adopted by the authority.
+
+      (2) The authority shall adopt rules and procedures for the licensing of extended stay centers to ensure that each licensed extended stay center:
+
+      (a) Is affiliated with a facility:
+
+      (A) That is licensed by the authority as an ambulatory surgical center;
+
+      (B) Whose license is in good standing with the authority; and
+
+      (C) That meets the criteria in subsection (3) of this section;
+
+      (b) Has no more than two recovery beds for each operating room that is in its affiliated ambulatory surgical center and a total of no more than 10 recovery beds;
+
+      (c) Discharges patients within 48 hours from the time of admission to the ambulatory surgical center;
+
+      (d)(A) Has an agreement with at least one local hospital that has the capabilities to treat patients requiring medical care that exceeds the capabilities of the extended stay center and the agreement complies with the federal requirements applicable to patient transfer agreements between ambulatory surgical centers and local hospitals; or
+
+      (B) Is affiliated with an ambulatory surgical center in which all of the physicians performing surgeries have admitting privileges at a local hospital that has the capabilities to treat patients requiring medical care that exceeds the capabilities of the extended stay center;
+
+      (e) Conforms to all patient safety and facility requirements adopted by the authority by rule;
+
+      (f) Uses admission criteria based only on the extended stay center’s:
+
+      (A) Medical screening criteria;
+
+      (B) Evidence-based surgery guidelines; or
+
+      (C) Patient safety standards;
+
+      (g) Orally and in writing, clearly notifies patients with Medicare coverage of the services provided by the extended stay center that are not covered by Medicare;
+
+      (h) Reports data and metrics to the authority as prescribed by the authority by rule, including but not limited to the:
+
+      (A) Types of procedures performed at the affiliated ambulatory surgical center for which patients are transferred to the extended stay center for recovery;
+
+      (B) Average duration of patient stays at the extended stay center;
+
+      (C) Medical acuity of the patients served by the extended stay center;
+
+      (D) Types of payers that reimburse services provided at the extended stay center and the percentage of each payer type in the total number of payers; and
+
+      (E) Frequency and cause of patient transfers from the extended stay center to a hospital; and
+
+      (i) Is located within an urban area as defined by the Office of Rural Health.
+
+      (3) The ambulatory surgical center that is affiliated with an extended stay center must:
+
+      (a) Not be affiliated with any other licensed extended stay center;
+
+      (b) Be physically contiguous with the extended stay center;
+
+      (c) Have demonstrated safe operating procedures in an outpatient surgery setting for no less than 24 consecutive months;
+
+      (d) Be certified by the Centers for Medicare and Medicaid Services as participating in the ambulatory surgical center quality reporting program administered by the Centers for Medicare and Medicaid Services; and
+
+      (e) Be accredited by a national accrediting organization approved by the authority.
+
+      (4) The authority shall mitigate barriers to and facilitate the reimbursement of extended stay centers with medical assistance funds. [2018 c.50 §2]
+
+Note: Sections 3 and 22, chapter 50, Oregon Laws 2018, provide:
+
+      Sec. 3. (1) The Health Evidence Review Commission established under ORS 414.688 shall develop evidence-based guidelines regarding the patient characteristics and surgical procedures that may be appropriate for ambulatory surgical centers and extended stay centers. The commission shall provide a report of the timeline and plan for implementing the guidelines to the Legislative Assembly during the 2019 regular session.
+
+      (2) No later than December 31, 2022, the Oregon Health Authority shall report to the interim committees of the Legislative Assembly related to health on the implementation of section 2 of this 2018 Act [441.026]. [2018 c.50 §3]
+
+      Sec. 22. Section 3 of this 2018 Act is repealed on January 2, 2023. [2018 c.50 §22]
+
+ 
+
+      Note: 441.026 was added to and made a part of 441.015 to 441.087 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1009,23 +1147,23 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (2) The authority may:
 
-      (a) Assess a civil penalty or deny, suspend or revoke a license of a health care facility other than a long term care facility in any case where it finds that there has been a substantial failure to comply with ORS 441.015 to 441.063 and 441.196 or the rules or minimum standards adopted under ORS 441.015 to 441.063 and 441.196.
+      (a) Assess a civil penalty or deny, suspend or revoke a license of a health care facility other than a long term care facility in any case where it finds that there has been a substantial failure to comply with ORS 441.015 to 441.087 or the rules or minimum standards adopted under ORS 441.015 to 441.087.
 
-      (b) Assess a civil penalty or suspend or revoke a license issued under ORS 441.025 for failure to comply with an authority order arising from a health care facility’s substantial lack of compliance with the provisions of ORS 441.015 to 441.063, 441.152 to 441.177 or 441.196 or the rules adopted under ORS 441.015 to 441.063, 441.152 to 441.177 or 441.196.
+      (b) Assess a civil penalty or suspend or revoke a license issued under ORS 441.025 for failure to comply with an authority order arising from a health care facility’s substantial lack of compliance with the provisions of ORS 441.015 to 441.087 or 441.152 to 441.177 or the rules adopted under ORS 441.015 to 441.087 or 441.152 to 441.177.
 
       (c) Suspend or revoke a license issued under ORS 441.025 for failure to pay a civil penalty imposed under ORS 441.175.
 
       (3) The department may:
 
-      (a) Assess a civil penalty or deny, suspend or revoke a long term care facility’s license in any case where it finds that there has been a substantial failure to comply with ORS 441.015 to 441.063, 441.087 or 441.196 or the rules or minimum standards adopted under ORS 441.015 to 441.063, 441.087 or 441.196.
+      (a) Assess a civil penalty or deny, suspend or revoke a long term care facility’s license in any case where it finds that there has been a substantial failure to comply with ORS 441.015 to 441.087 or the rules or minimum standards adopted under ORS 441.015 to 441.087.
 
-      (b) Assess a civil penalty or suspend or revoke a long term care facility’s license issued under ORS 441.025 for failure to comply with a department order arising from a long term care facility’s substantial lack of compliance with the provisions of ORS 441.015 to 441.063, 441.084, 441.087 or 441.196 or the rules adopted under ORS 441.015 to 441.063, 441.084, 441.087 or 441.196.
+      (b) Assess a civil penalty or suspend or revoke a long term care facility’s license issued under ORS 441.025 for failure to comply with a department order arising from a long term care facility’s substantial lack of compliance with the provisions of ORS 441.015 to 441.087 or the rules adopted under ORS 441.015 to 441.087.
 
       (c) Suspend or revoke a license issued under ORS 441.025 for failure to pay a civil penalty imposed under ORS 441.710.
 
-      (d) Order a long term care facility licensed under ORS 441.025 to restrict the admission of patients when the department finds an immediate threat to patient health and safety arising from failure of the long term care facility to be in compliance with ORS 441.015 to 441.063, 441.084, 441.087 or 441.196 and the rules adopted under ORS 441.015 to 441.063, 441.084, 441.087 or 441.196.
+      (d) Order a long term care facility licensed under ORS 441.025 to restrict the admission of patients when the department finds an immediate threat to patient health and safety arising from failure of the long term care facility to be in compliance with ORS 441.015 to 441.087 and the rules adopted under ORS 441.015 to 441.087.
 
-      (4) Any long term care facility that has been ordered to restrict the admission of patients pursuant to subsection (3)(d) of this section shall post a notice of the restriction, provided by the department, on all doors providing ingress to and egress from the facility, for the duration of the restriction. [Amended by 1959 c.222 §1; 1961 c.316 §7; 1971 c.730 §8; 1977 c.582 §46; 1987 c.428 §6; 1989 c.171 §55; 1991 c.734 §22; 2001 c.609 §8; 2001 c.900 §164; 2007 c.71 §125; 2009 c.595 §723; 2009 c.792 §57; 2015 c.669 §14]
+      (4) Any long term care facility that has been ordered to restrict the admission of patients pursuant to subsection (3)(d) of this section shall post a notice of the restriction, provided by the department, on all doors providing ingress to and egress from the facility, for the duration of the restriction. [Amended by 1959 c.222 §1; 1961 c.316 §7; 1971 c.730 §8; 1977 c.582 §46; 1987 c.428 §6; 1989 c.171 §55; 1991 c.734 §22; 2001 c.609 §8; 2001 c.900 §164; 2007 c.71 §125; 2009 c.595 §723; 2009 c.792 §57; 2015 c.669 §14; 2018 c.50 §13]
 
  
 
@@ -1039,7 +1177,29 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
+      441.038 Additional remedies. (1) Notwithstanding the existence and pursuit of any other remedy, the Oregon Health Authority may, in the manner provided by law, maintain an action in the name of the state for injunction or other process against any person or governmental unit to restrain or prevent the establishment, conduct, management or operation of a health care facility or health maintenance organization without a license.
+
+      (2) Notwithstanding the existence and pursuit of any other remedy, the Department of Human Services may, in the manner provided by law, maintain an action in the name of the state for injunction or other process against any person or governmental unit to restrain or prevent the establishment, conduct, management or operation of a long term care facility without a license. [Formerly 441.050]
+
+ 
+
       441.040 [Amended by 1959 c.222 §3; 1971 c.730 §10; repealed by 1971 c.734 §21]
+
+ 
+
+      441.044 Complaints about standard of care in facility; retaliation prohibited; rules. (1) Rules adopted pursuant to ORS 441.025 shall include procedures for the filing of complaints as to the standard of care in any health care facility and provide for the confidentiality of the identity of any complainant.
+
+      (2) A health care facility, or person acting in the interest of the facility, may not take any disciplinary or other adverse action against any employee who in good faith brings evidence of inappropriate care or any other violation of law or rules to the attention of the proper authority solely because of the employee’s action as described in this subsection.
+
+      (3) Any employee who has knowledge of inappropriate care or any other violation of law or rules shall utilize established reporting procedures of the health care facility administration before notifying the Department of Human Services, Oregon Health Authority or other state agency of the alleged violation, unless the employee believes that patient health or safety is in immediate jeopardy or the employee makes the report to the department or the authority under the confidentiality provisions of subsection (1) of this section.
+
+      (4) The protection of health care facility employees under subsection (2) of this section shall commence with the reporting of the alleged violation by the employee to the administration of the health care facility or to the department, authority or other state agency pursuant to subsection (3) of this section.
+
+      (5) Any person suffering loss or damage due to any violation of subsection (2) of this section has a right of action for damages in addition to other appropriate remedy.
+
+      (6) The provisions of this section do not apply to a nursing staff, as defined in ORS 441.179, who claims to be aggrieved by a violation of ORS 441.181 committed by a hospital.
+
+      (7) Information obtained by the department or the authority during an investigation of a complaint or reported violation under this section is confidential and not subject to public disclosure under ORS 192.311 to 192.478. Upon the conclusion of the investigation, the department or the authority may publicly release a report of the department’s or the authority’s findings but may not include information in the report that could be used to identify the complainant or any patient at the health care facility. The department or the authority may use any information obtained during an investigation in an administrative or judicial proceeding concerning the licensing of a health care facility, and may report information obtained during an investigation to a health professional regulatory board as defined in ORS 676.160, the Long Term Care Administrators Board, the Board of Licensed Dietitians or the Behavior Analysis Regulatory Board as that information pertains to a licensee of the board. [Formerly 441.057]
 
  
 
@@ -1047,9 +1207,97 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.050 Additional remedies. (1) Notwithstanding the existence and pursuit of any other remedy, the Oregon Health Authority may, in the manner provided by law, maintain an action in the name of the state for injunction or other process against any person or governmental unit to restrain or prevent the establishment, conduct, management or operation of a health care facility or health maintenance organization without a license.
+      441.046 Facility prohibited from interfering with employee’s disclosure of abuse, violations of laws or threats to health and safety of resident; rules. (1) A long term care facility may not interfere with the good faith disclosure of information by an employee or a volunteer concerning the abuse or mistreatment of a resident in the long term care facility, violations of licensing or certification requirements, criminal activity at the facility, violations of state or federal laws or any practice that threatens the health and safety of a resident of the facility to:
 
-      (2) Notwithstanding the existence and pursuit of any other remedy, the Department of Human Services may, in the manner provided by law, maintain an action in the name of the state for injunction or other process against any person or governmental unit to restrain or prevent the establishment, conduct, management or operation of a long term care facility without a license. [Amended by 1971 c.730 §12; 1973 c.840 §8; 1977 c.751 §22; 1987 c.428 §8; 2001 c.900 §166; 2009 c.595 §725]
+      (a) The Long Term Care Ombudsman, the Department of Human Services, a law enforcement agency or other entity with legal or regulatory authority over the long term care facility; or
+
+      (b) A family member, guardian, friend or other person who is acting on behalf of the resident.
+
+      (2) Unless performed with the intent to comply with state or federal law, including but not limited to protecting residents’ rights or carrying out a facility’s policies and procedures that are consistent with state and federal law, it is interference with the disclosure of information as described in subsection (1) of this section if a long term care facility:
+
+      (a) Asks or requires the employee or volunteer to sign a nondisclosure or similar agreement prohibiting the employee or volunteer from disclosing the information;
+
+      (b) Trains an employee or volunteer not to disclose the information; or
+
+      (c) Takes actions or communicates to the employee or volunteer that the employee or volunteer may not disclose the information.
+
+      (3) The department may revoke or suspend the license of a long term care facility that is found to have violated subsection (1) of this section.
+
+      (4) The department shall adopt rules to carry out the provisions of this section.
+
+      (5) This section does not authorize the disclosure of protected health information, as defined in ORS 192.556, other than as is permitted by the federal Health Insurance Portability and Accountability Act privacy regulations, 45 C.F.R. parts 160 and 164, ORS 192.553 to 192.581 or by other state or federal laws limiting the disclosure of health information. [2019 c.381 §2]
+
+ 
+
+      Note: Section 22, chapter 381, Oregon Laws 2019, provides:
+
+      Sec. 22. Sections 2 [441.046], 4, 6, 8, 11, 13, 16 and 19 of this 2019 Act apply to statements or conduct occurring on or after the effective date of this 2019 Act [January 1, 2020]. [2019 c.381 §22]
+
+ 
+
+      Note: 441.046 was added to and made a part of ORS chapter 441 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      441.047 Requirement to provide resident with information about Long Term Care Ombudsman services. Upon the admission of a resident to a long term care facility, the facility shall provide the resident with information developed by the Long Term Care Ombudsman describing the availability and services of the ombudsman. [2019 c.117 §2]
+
+Note: 441.047 was added to and made a part of 441.015 to 441.087 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      441.050 [Amended by 1971 c.730 §12; 1973 c.840 §8; 1977 c.751 §22; 1987 c.428 §8; 2001 c.900 §166; 2009 c.595 §725; renumbered 441.038 in 2019]
+
+ 
+
+      441.051 Discharge of patient to care of lay caregiver. (1) As used in this section:
+
+      (a) “Aftercare” includes all of the following:
+
+      (A) Assistance with activities of daily living or instrumental activities of daily living.
+
+      (B) Medical or nursing tasks such as wound care, the administration of medications and the operation of medical equipment.
+
+      (C) Other assistance provided by a caregiver to a patient, following the patient’s discharge, that is related to the patient’s condition at the time of discharge.
+
+      (b) “Discharge” means a patient’s release from a hospital following the patient’s admission to the hospital.
+
+      (c) “Lay caregiver” means an individual who, at the request of a patient, agrees to provide aftercare to the patient in the patient’s residence.
+
+      (2) A hospital shall adopt and maintain written discharge policies. The policies must include the following components:
+
+      (a) Hospital staff assess the patient’s ability for self-care after discharge;
+
+      (b) The patient is provided an opportunity to designate a lay caregiver;
+
+      (c) The patient and lay caregiver are given the opportunity to participate in the discharge planning;
+
+      (d) The patient and lay caregiver are provided instruction or training, prior to discharge, as necessary for the lay caregiver to perform medical and nursing aftercare following discharge; and
+
+      (e) The patient’s lay caregiver is notified of the patient’s discharge or transfer.
+
+      (3) The discharge policies must specify the requirements for documenting:
+
+      (a) The lay caregiver who is designated by the patient; and
+
+      (b) The details of a discharge plan.
+
+      (4) The discharge policies may incorporate established evidence-based practices, including but not limited to:
+
+      (a) Standards for accreditation adopted by the Joint Commission or other nationally recognized hospital accreditation organization; or
+
+      (b) The Conditions of Participation for hospitals adopted by the Centers for Medicare and Medicaid Services.
+
+      (5) The discharge policies must ensure that the discharge planning is appropriate to the condition of the patient and shall be interpreted in a manner and as necessary to meet the needs and acuity of the patient and the abilities of the lay caregiver.
+
+      (6) This section does not require a hospital to adopt discharge policies that would:
+
+      (a) Delay a patient’s discharge or transfer to another facility; or
+
+      (b) Require the disclosure of protected health information without obtaining a patient’s consent as required by state and federal laws governing health information privacy and security. [Formerly 441.198]
+
+ 
+
+      Note: 441.051 was added to and made a part of ORS chapter 441 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1065,11 +1313,43 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (B) Providing information about a suicide intervention hotline.
 
-      (2) A hospital with an emergency department shall adopt and implement policies for the release from the hospital’s emergency department of a patient presenting with a behavioral health crisis including suicide prevention measures, if any, that must be taken. At a minimum, the policies must meet the requirements in ORS 441.196 for hospital policies regarding the discharge of a patient who is admitted for mental health treatment. [2017 c.272 §2]
+      (2) A hospital with an emergency department shall adopt and implement policies for the release from the hospital’s emergency department of a patient presenting with a behavioral health crisis including suicide prevention measures, if any, that must be taken. At a minimum, the policies must meet the requirements in ORS 441.054 for hospital policies regarding the discharge of a patient who is admitted for mental health treatment. [2017 c.272 §2]
+
+Note: 441.053 was added to and made a part of 441.015 to 441.087 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
-      Note: 441.053 was added to and made a part of 441.015 to 441.063 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+      441.054 Discharge of patients receiving mental health treatment. (1) As used in this section:
+
+      (a) “Discharge” means the release of a patient from a hospital following admission to the hospital.
+
+      (b) “Lay caregiver” means:
+
+      (A) For a patient who is younger than 14 years of age, a parent or legal guardian of the patient.
+
+      (B) For a patient who is at least 14 years of age, an individual designated by the patient or a parent or legal guardian of the patient to the extent permitted under ORS 109.640 and 109.675.
+
+      (2) A hospital shall adopt and enforce policies for the discharge of a patient who is hospitalized for mental health treatment. The policies must be publicly available and include, at a minimum, all of the following:
+
+      (a) Encouraging the patient to sign an authorization for the disclosure of information that is necessary for a lay caregiver to participate in the patient’s discharge planning and to provide appropriate support to the patient following discharge including, but not limited to, discussing the patient’s prescribed medications and the circumstances under which the patient or lay caregiver should seek immediate medical attention.
+
+      (b) Assessing the patient’s risk of suicide, with input from the lay caregiver if appropriate.
+
+      (c) Assessing the long-term needs of the patient including:
+
+      (A) The patient’s need for community-based services;
+
+      (B) The patient’s capacity for self-care; and
+
+      (C) To the extent practicable, whether the patient can be properly cared for in the place where the patient was residing when the patient presented at the hospital.
+
+      (d) A process to coordinate the patient’s care and transition the patient from an acute care setting to outpatient treatment that may include community-based providers, peer support, lay caregivers and others who can execute the patient’s care plan following discharge.
+
+      (e) Scheduling follow-up appointments for no later than seven days after discharge or documenting why the seven-day goal could not be met. [Formerly 441.196]
+
+ 
+
+      Note: 441.054 was added to and made a part of 441.015 to 441.087 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1125,7 +1405,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.056 Credentialing telemedicine providers. (1) The Oregon Health Authority shall prescribe by rule the information and documents that a governing body of an originating-site hospital may request for credentialing a telemedicine provider located at a distant-site hospital.
+      441.056 Credentialing telemedicine providers; rules. (1) The Oregon Health Authority shall prescribe by rule the information and documents that a governing body of an originating-site hospital may request for credentialing a telemedicine provider located at a distant-site hospital.
 
       (2) The rules adopted by the authority under subsection (1) of this section must:
 
@@ -1151,19 +1431,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.057 Rules concerning complaints about care; reporting by employee. (1) Rules adopted pursuant to ORS 441.025 shall include procedures for the filing of complaints as to the standard of care in any health care facility and provide for the confidentiality of the identity of any complainant.
-
-      (2) A health care facility, or person acting in the interest of the facility, may not take any disciplinary or other adverse action against any employee who in good faith brings evidence of inappropriate care or any other violation of law or rules to the attention of the proper authority solely because of the employee’s action as described in this subsection.
-
-      (3) Any employee who has knowledge of inappropriate care or any other violation of law or rules shall utilize established reporting procedures of the health care facility administration before notifying the Department of Human Services, Oregon Health Authority or other state agency of the alleged violation, unless the employee believes that patient health or safety is in immediate jeopardy or the employee makes the report to the department or the authority under the confidentiality provisions of subsection (1) of this section.
-
-      (4) The protection of health care facility employees under subsection (2) of this section shall commence with the reporting of the alleged violation by the employee to the administration of the health care facility or to the department, authority or other state agency pursuant to subsection (3) of this section.
-
-      (5) Any person suffering loss or damage due to any violation of subsection (2) of this section has a right of action for damages in addition to other appropriate remedy.
-
-      (6) The provisions of this section do not apply to a nursing staff, as defined in ORS 441.179, who claims to be aggrieved by a violation of ORS 441.181 committed by a hospital.
-
-      (7) Information obtained by the department or the authority during an investigation of a complaint or reported violation under this section is confidential and not subject to public disclosure under ORS 192.311 to 192.478. Upon the conclusion of the investigation, the department or the authority may publicly release a report of the department’s or the authority’s findings but may not include information in the report that could be used to identify the complainant or any patient at the health care facility. The department or the authority may use any information obtained during an investigation in an administrative or judicial proceeding concerning the licensing of a health care facility, and may report information obtained during an investigation to a health professional regulatory board as defined in ORS 676.160, the Nursing Home Administrators Board, the Board of Licensed Dietitians or the Behavior Analysis Regulatory Board as that information pertains to a licensee of the board. [1975 c.360 §2; 1981 c.336 §1; 1987 c.428 §10; 2001 c.609 §16; 2001 c.900 §168; 2009 c.595 §727; 2009 c.792 §59; 2017 c.101 §13]
+      441.057 [1975 c.360 §2; 1981 c.336 §1; 1987 c.428 §10; 2001 c.609 §16; 2001 c.900 §168; 2009 c.595 §727; 2009 c.792 §59; 2017 c.101 §13; 2018 c.61 §16; renumbered 441.044 in 2019]
 
  
 
@@ -1215,10 +1483,6 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      Note: 441.062 was added to and made a part of 441.015 to 441.087 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
       441.063 Use of facilities by licensed podiatric physicians and surgeons; regulation of admission and conduct. The rules of the hospital shall include provisions for the use of the hospital facilities by podiatric physicians and surgeons licensed under ORS 677.805 to 677.840, subject to rules and regulations governing the use established by the medical staff and the podiatric staff of the hospital. The staff shall regulate the admission and the conduct of the podiatric physicians and surgeons while using the facilities of the hospital and shall prescribe procedures whereby a podiatric physician and surgeon’s use of the facilities may be suspended or terminated. [1973 c.279 §2; 2007 c.71 §126; 2013 c.129 §29]
 
  
@@ -1253,15 +1517,15 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (d) Allow the hospital to refuse privileges to a physician assistant based on the refusal of privileges to the physician assistant’s supervising physician.
 
-      (5) Notwithstanding subsection (3) of this section, rules adopted by a hospital that grant privileges to licensed registered nurses who are certified by the Oregon State Board of Nursing as nurse midwife nurse practitioners must:
+      (5) Notwithstanding subsection (3) of this section, rules adopted by a hospital that grant privileges to licensed registered nurses who are licensed by the Oregon State Board of Nursing as nurse practitioners specializing in nurse midwifery must:
 
       (a) Include admitting privileges;
 
       (b) Be consistent with the privileges of the other medical staff; and
 
-      (c) Permit the nurse midwife nurse practitioner to exercise the voting rights of the other members of the medical staff.
+      (c) Permit the nurse practitioner specializing in nurse midwifery to exercise the voting rights of the other members of the medical staff.
 
-      (6) Rules described in this section are subject to hospital and medical staff bylaws and rules governing credentialing and staff privileges. [1993 c.34 §1; 1995 c.763 §2; 2015 c.63 §1; 2017 c.259 §1]
+      (6) Rules described in this section are subject to hospital and medical staff bylaws and rules governing credentialing and staff privileges. [1993 c.34 §1; 1995 c.763 §2; 2015 c.63 §1; 2017 c.259 §1; 2019 c.233 §1; 2019 c.358 §14]
 
  
 
@@ -1269,7 +1533,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.065 Exemption of certain religious institutions. (1) ORS 441.015 to 441.063 and 441.196 or the rules adopted pursuant thereto do not authorize the supervision, regulation or control of the remedial care or treatment of residents or patients in any home or institution that is described under subsection (2) of this section and is conducted for those who rely upon treatment solely by prayer or spiritual means, except as to the sanitary and safe conditions of the premises, cleanliness of operation and its physical equipment. This section does not exempt such a home or institution from the licensing requirements of ORS 441.015 to 441.087, 441.525 to 441.595, 441.815, 441.820, 441.990, 442.342, 442.344 and 442.400 to 442.463.
+      441.065 Exemption of certain religious institutions. (1) ORS 441.015 to 441.087 or the rules adopted pursuant thereto do not authorize the supervision, regulation or control of the remedial care or treatment of residents or patients in any home or institution that is described under subsection (2) of this section and is conducted for those who rely upon treatment solely by prayer or spiritual means, except as to the sanitary and safe conditions of the premises, cleanliness of operation and its physical equipment. This section does not exempt such a home or institution from the licensing requirements of ORS 441.015 to 441.087, 441.525 to 441.595, 441.815, 441.820, 441.990, 442.342 and 442.344.
 
       (2) To qualify under subsection (1) of this section, a home or institution must:
 
@@ -1281,7 +1545,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (a) “Medical health care and services” means medical screening, examination, diagnosis, prognosis, treatment and drug administration. “Medical health care and services” does not include counseling or the provision of social services or dietary services.
 
-      (b) “Nonmedical care and services” means assistance or services, other than medical health care and services, provided by attendants for the physical, mental, emotional or spiritual comfort and well being of residents or patients. [Amended by 1971 c.730 §17; 1973 c.840 §11; 1977 c.751 §24; 1997 c.490 §1; 2009 c.792 §38]
+      (b) “Nonmedical care and services” means assistance or services, other than medical health care and services, provided by attendants for the physical, mental, emotional or spiritual comfort and well being of residents or patients. [Amended by 1971 c.730 §17; 1973 c.840 §11; 1977 c.751 §24; 1997 c.490 §1; 2009 c.792 §38; 2018 c.50 §14]
 
  
 
@@ -1313,13 +1577,89 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      441.077 Revocation of license and other penalties for imposing restrictions upon certain physicians; construction of section. (1) If the governing body of a health care facility or health maintenance organization excludes or expels a person licensed under ORS chapter 677 from staff membership, or limits in any way the professional privilege of the person in the health care facility or health maintenance organization solely because of the school of medicine to which the person belongs, the license of the health care facility shall be subject to revocation in the manner provided in ORS 441.015 to 441.065. A health maintenance organization which violates this section shall be subject to penalties provided in ORS 731.988 and 731.992.
+      441.077 Revocation of license and other penalties for imposing restrictions upon certain physicians; construction of section. (1) If the governing body of a health care facility or health maintenance organization excludes or expels a person licensed under ORS chapter 677 from staff membership, or limits in any way the professional privilege of the person in the health care facility or health maintenance organization solely because of the school of medicine to which the person belongs, the license of the health care facility shall be subject to revocation in the manner provided in ORS 441.030. A health maintenance organization which violates this section shall be subject to penalties provided in ORS 731.988 and 731.992.
 
-      (2) Nothing in this section is intended to limit the authority of the governing body of a health care facility or health maintenance organization with respect to a person who has violated the reasonable rules and regulations of the health care facility or health maintenance organization or who has violated the provisions of ORS chapter 677 if the governing body has reported the violation of ORS chapter 677 to the Oregon Medical Board in writing. [1971 c.274 §1; 1973 c.840 §12; 1977 c.751 §25]
+      (2) Nothing in this section is intended to limit the authority of the governing body of a health care facility or health maintenance organization with respect to a person who has violated the reasonable rules and regulations of the health care facility or health maintenance organization or who has violated the provisions of ORS chapter 677 if the governing body has reported the violation of ORS chapter 677 to the Oregon Medical Board in writing. [1971 c.274 §1; 1973 c.840 §12; 1977 c.751 §25; 2018 c.50 §15]
 
  
 
       Note: 441.077 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 441 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      441.078 Disability discrimination prohibited in provision or insurance coverage of organ transplantation. (1) As used in this section:
+
+      (a) “Auxiliary aids and services” means:
+
+      (A) Qualified interpreters or other effective methods of making aurally delivered material available to individuals with hearing impairment;
+
+      (B) Qualified readers, audio recordings of texts or other effective methods of making visually delivered material available to individuals with visual impairment;
+
+      (C) Acquisition or modification of equipment or devices; or
+
+      (D) Other similar services or actions.
+
+      (b) “Covered entity” means:
+
+      (A) Any entity licensed under the laws of this state for the purpose of providing health care services;
+
+      (B) Any practitioner licensed under the laws of this state for the purpose of practicing a health care profession; or
+
+      (C) An insurer of health care services.
+
+      (c) “Disability” has the meaning described in ORS 659A.104.
+
+      (d) “Organ transplant” means the transplantation or transfusion of a part of a human body into another human body for the purpose of treating or curing a medical condition.
+
+      (e) “Qualified individual” means an individual who, with or without the availability of support networks, auxiliary aids and services or reasonable modifications to policies or practices, meets the eligibility requirements for the receipt of an organ transplant.
+
+      (f) “Reasonable modifications to policies or practices” includes:
+
+      (A) Communication with individuals responsible for supporting an individual through post-surgical, post-transplantation and post-transfusion care, including the administration of medication; and
+
+      (B) Consideration of support networks available to an individual, including family, friends and home- and community-based services funded through Medicaid, Medicare, a health benefit plan as defined in ORS 743B.005 or any other source of funding available to the individual, in determining whether the individual is able to comply with post-transplantation and post-transfusion medical requirements.
+
+      (g) “Transplant hospital” has the meaning given that term in ORS 97.953.
+
+      (2) A covered entity may not, solely on the basis of a qualified individual’s disability:
+
+      (a) Consider the individual ineligible to receive an organ transplant.
+
+      (b) Deny the individual medical services or other services related to organ transplantation, including diagnostic services, surgery, post-operative treatment and counseling.
+
+      (c) Refuse to refer the individual to a transplant hospital or an organ transplant specialist for the purpose of being evaluated for or receiving an organ transplant.
+
+      (d) Refuse to place the individual on an organ transplant waiting list.
+
+      (e) Place the individual on an organ transplant waiting list at a lower priority position than the position at which the individual would have been placed if the individual did not have a disability.
+
+      (f) Refuse the individual insurance coverage for any procedure associated with being evaluated for or receiving an organ transplant, including post-transplantation and post-transfusion care.
+
+      (3) Notwithstanding subsection (2) of this section, a covered entity may consider a qualified individual’s disability when making treatment or insurance coverage decisions or recommendations related to organ transplantation, to the extent that the disability has been found by a physician licensed under ORS chapter 677, following an individualized evaluation of the individual, to be medically significant to the receipt of the organ transplant.
+
+      (4) If a covered entity makes an objectively reasonable determination that a qualified individual has the necessary support networks, including family, friends and home- and community-based services funded through Medicaid, Medicare, a health benefit plan as defined in ORS 743B.005 or any other source of funding available to the individual, to assist the individual in complying with post-transplantation and post-transfusion medical requirements, the covered entity may not consider the individual’s inability to independently comply with those orders to be medically significant for purposes of subsection (3) of this section.
+
+      (5) A covered entity must modify the covered entity’s policies, practices or procedures when modification is necessary to make medical services or other services related to organ transplantation, including diagnostic services, surgery, post-operative treatment and counseling, available to a qualified individual who has a disability unless the covered entity demonstrates that making the modification would fundamentally alter the nature of the medical services or other services related to organ transplantation.
+
+      (6) A covered entity must take steps necessary to ensure that a qualified individual who has a disability is not denied medical services or other services related to organ transplantation, including diagnostic services, surgery, post-operative treatment and counseling, unless the covered entity demonstrates that taking the steps would fundamentally alter the nature of the medical services or other services related to organ transplantation or would result in an undue burden for the covered entity.
+
+      (7) Judicial review of a claim brought under this section may be sought from the circuit court for the county in which the potential recipient of the organ transplant resides or resided or was denied the organ transplant. The circuit court shall give priority on its docket and expedited review to a claim brought under this section.
+
+      (8) In an action brought under this section, the court may grant equitable relief, including:
+
+      (a) Requiring auxiliary aids and services to be made available for a qualified individual with a disability;
+
+      (b) Requiring the modification of a policy, practice or procedure of a covered entity; or
+
+      (c) Requiring facilities be made readily accessible to and usable by a qualified individual with a disability.
+
+      (9)(a) Notwithstanding ORS 30.260 to 30.300, a person receiving services constituting patient care on an Oregon Health and Science University campus, in any Oregon Health and Science University clinic or provided by any health care provider employed by or working on behalf of Oregon Health and Science University, may bring a claim under this section for equitable relief.
+
+      (b) This section does not create a right to damages against a public body, as defined in ORS 30.260.
+
+      (c) This section does not prevent a person from bringing a claim against a covered entity and seeking applicable relief from a covered entity for conduct described in this section under any other provision of law. [Formerly 442.765]
+
+Note: 441.078 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 441 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1441,10 +1781,6 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
  
 
-      Note: 441.086 was added to and made a part of ORS chapter 441 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
       441.087 General inspection of long term care facility. (1) The Department of Human Services shall, in addition to any inspections conducted pursuant to complaints filed against long term care facilities, conduct at least one general inspection of each long term care facility in the state each calendar year, including, but not limited to, entering the facility, interviewing residents and reviewing records. No advance notice shall be given of any inspection conducted pursuant to this section.
 
       (2) Any state employee giving advance notice in violation of subsection (1) of this section shall be suspended from all duties without pay for a period of at least 10 working days, or for a longer period as determined by the Director of Human Services. [1975 c.294 §§2,3; 1977 c.751 §27; 1987 c.428 §16; 2003 c.14 §250]
@@ -1507,7 +1843,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (b) “Financial interest” means a five percent or greater direct or indirect ownership interest.
 
-      (c)(A) “Health practitioner” means a physician, naturopathic physician licensed under ORS chapter 685, dentist, direct entry midwife, licensed registered nurse who is certified by the Oregon State Board of Nursing as a nurse midwife nurse practitioner, certified nurse practitioner, licensed physician assistant or medical imaging licensee under ORS 688.405 to 688.605.
+      (c)(A) “Health practitioner” means a physician, naturopathic physician licensed under ORS chapter 685, dentist, direct entry midwife, licensed physician assistant or medical imaging licensee under ORS 688.405 to 688.605 or a nurse practitioner or nurse practitioner specializing in nurse midwifery licensed under ORS chapter 678.
 
       (B) “Health practitioner” does not include a provider in a health maintenance organization as defined in ORS 750.005.
 
@@ -1543,7 +1879,7 @@ LICENSING AND SUPERVISION OF FACILITIES AND ORGANIZATIONS
 
       (b) Made to a particular facility after the initial referral of the patient to that facility; or
 
-      (c) Made by the facility or provider to whom a patient was referred. [2009 c.792 §3; 2013 c.129 §30; 2013 c.552 §1; 2017 c.356 §69]
+      (c) Made by the facility or provider to whom a patient was referred. [2009 c.792 §3; 2013 c.129 §30; 2013 c.552 §1; 2017 c.356 §69; 2019 c.233 §2; 2019 c.358 §15a]
 
  
 
@@ -1747,18 +2083,6 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: Section 3, chapter 669, Oregon Laws 2015, provides:
-
-      Sec. 3. Notwithstanding the term of office specified by section 2 of this 2015 Act [441.152], of the members first appointed to the Nurse Staffing Advisory Board:
-
-      (1) Four shall serve for a term ending January 1, 2017;
-
-      (2) Four shall serve for a term ending January 1, 2018; and
-
-      (3) Four shall serve for a term ending January 1, 2019. [2015 c.669 §3]
-
- 
-
       441.153 [1985 c.153 §14(3); 2001 c.716 §29; 2013 c.717 §14; 2014 c.117 §12; renumbered 441.419 in 2015]
 
  
@@ -1817,7 +2141,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1851,7 +2175,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1885,7 +2209,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1909,13 +2233,11 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
       441.160 [2001 c.609 §1; renumbered 441.151 in 2015]
-
- 
 
       441.162 [2001 c.609 §2; 2005 c.665 §2; 2015 c.669 §4; renumbered 441.155 in 2015]
 
@@ -1925,7 +2247,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1937,7 +2259,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1981,7 +2303,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1989,7 +2311,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -1997,7 +2319,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -2029,7 +2351,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -2041,7 +2363,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -2055,7 +2377,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -2077,7 +2399,7 @@ HOSPITAL NURSING SERVICES
 
  
 
-      Note: See first note under 441.152.
+      Note: See note under 441.152.
 
  
 
@@ -2241,85 +2563,11 @@ HOSPITAL NURSING SERVICES
 
  
 
-PATIENT DISCHARGE PROCEDURES
+      441.196 [2015 c.466 §2; renumbered 441.054 in 2019]
 
  
 
-      441.196 Discharge of patients receiving mental health treatment. (1) As used in this section:
-
-      (a) “Discharge” means the release of a patient from a hospital following admission to the hospital.
-
-      (b) “Lay caregiver” means:
-
-      (A) For a patient who is younger than 14 years of age, a parent or legal guardian of the patient.
-
-      (B) For a patient who is at least 14 years of age, an individual designated by the patient or a parent or legal guardian of the patient to the extent permitted under ORS 109.640 and 109.675.
-
-      (2) A hospital shall adopt and enforce policies for the discharge of a patient who is hospitalized for mental health treatment. The policies must be publicly available and include, at a minimum, all of the following:
-
-      (a) Encouraging the patient to sign an authorization for the disclosure of information that is necessary for a lay caregiver to participate in the patient’s discharge planning and to provide appropriate support to the patient following discharge including, but not limited to, discussing the patient’s prescribed medications and the circumstances under which the patient or lay caregiver should seek immediate medical attention.
-
-      (b) Assessing the patient’s risk of suicide, with input from the lay caregiver if appropriate.
-
-      (c) Assessing the long-term needs of the patient including:
-
-      (A) The patient’s need for community-based services;
-
-      (B) The patient’s capacity for self-care; and
-
-      (C) To the extent practicable, whether the patient can be properly cared for in the place where the patient was residing when the patient presented at the hospital.
-
-      (d) A process to coordinate the patient’s care and transition the patient from an acute care setting to outpatient treatment that may include community-based providers, peer support, lay caregivers and others who can execute the patient’s care plan following discharge.
-
-      (e) Scheduling follow-up appointments for no later than seven days after discharge or documenting why the seven-day goal could not be met. [2015 c.466 §2]
-
- 
-
-      441.198 Discharge to care of lay caregiver. (1) As used in this section:
-
-      (a) “Aftercare” includes all of the following:
-
-      (A) Assistance with activities of daily living or instrumental activities of daily living.
-
-      (B) Medical or nursing tasks such as wound care, the administration of medications and the operation of medical equipment.
-
-      (C) Other assistance provided by a caregiver to a patient, following the patient’s discharge, that is related to the patient’s condition at the time of discharge.
-
-      (b) “Discharge” means a patient’s release from a hospital following the patient’s admission to the hospital.
-
-      (c) “Lay caregiver” means an individual who, at the request of a patient, agrees to provide aftercare to the patient in the patient’s residence.
-
-      (2) A hospital shall adopt and maintain written discharge policies. The policies must include the following components:
-
-      (a) Hospital staff assess the patient’s ability for self-care after discharge;
-
-      (b) The patient is provided an opportunity to designate a lay caregiver;
-
-      (c) The patient and lay caregiver are given the opportunity to participate in the discharge planning;
-
-      (d) The patient and lay caregiver are provided instruction or training, prior to discharge, as necessary for the lay caregiver to perform medical and nursing aftercare following discharge; and
-
-      (e) The patient’s lay caregiver is notified of the patient’s discharge or transfer.
-
-      (3) The discharge policies must specify the requirements for documenting:
-
-      (a) The lay caregiver who is designated by the patient; and
-
-      (b) The details of a discharge plan.
-
-      (4) The discharge policies may incorporate established evidence-based practices, including but not limited to:
-
-      (a) Standards for accreditation adopted by the Joint Commission or other nationally recognized hospital accreditation organization; or
-
-      (b) The Conditions of Participation for hospitals adopted by the Centers for Medicare and Medicaid Services.
-
-      (5) The discharge policies must ensure that the discharge planning is appropriate to the condition of the patient and shall be interpreted in a manner and as necessary to meet the needs and acuity of the patient and the abilities of the lay caregiver.
-
-      (6) This section does not require a hospital to adopt discharge policies that would:
-
-      (a) Delay a patient’s discharge or transfer to another facility; or
-
-      (b) Require the disclosure of protected health information without obtaining a patient’s consent as required by state and federal laws governing health information privacy and security. [2015 c.263 §2]
+      441.198 [2015 c.263 §2; renumbered 441.051 in 2019]
 
  
 
@@ -3055,7 +3303,9 @@ LONG TERM CARE OMBUDSMAN
 
       (f) Working with and involvement in volunteer programs; and
 
-      (g) Administrative and managerial experience. [Formerly 441.103; 2017 c.441 §11]
+      (g) Administrative and managerial experience.
+
+      (4) The Long Term Care Ombudsman may hire up to 10 deputy ombudsmen as necessary to perform the duties of the ombudsman. [Formerly 441.103; 2017 c.441 §11; 2019 c.504 §1]
 
  
 
@@ -3081,7 +3331,7 @@ LONG TERM CARE OMBUDSMAN
 
       (f) Widely publicize the Long Term Care Ombudsman’s services, purpose and mode of operation.
 
-      (g) Collaborate with the Oregon Health Authority, the Department of Human Services, the Nursing Home Administrators Board and any other appropriate agencies and organizations to establish a statewide system to collect and analyze information on complaints and conditions in long term care facilities for the purpose of publicizing improvements and resolving significant problems.
+      (g) Collaborate with the Oregon Health Authority, the Department of Human Services, the Long Term Care Administrators Board and any other appropriate agencies and organizations to establish a statewide system to collect and analyze information on complaints and conditions in long term care facilities for the purpose of publicizing improvements and resolving significant problems.
 
       (h) Contract with the state protection and advocacy system described in ORS 192.517 (1) to provide services and assistance to persons who are prospective or current residents of a mental health treatment facility or of a residential facility for individuals with developmental disabilities when the system has received a notice regarding the person pursuant to ORS 125.060 (7)(c) or (8)(c).
 
@@ -3099,7 +3349,47 @@ LONG TERM CARE OMBUDSMAN
 
       (o) Supervise, monitor, advise and support the Residential Facilities Ombudsman appointed under ORS 443.382.
 
-      (2) At least quarterly, the Department of Human Services shall provide the Long Term Care Ombudsman with a list of the number of licensed or certified beds in each long term care facility for which the ombudsman has responsibilities under this section. [Formerly 441.109; 2017 c.441 §§12,12a]
+      (2) At least quarterly, the Department of Human Services shall provide the Long Term Care Ombudsman with a list of the number of licensed or certified beds in each long term care facility for which the ombudsman has responsibilities under this section. [Formerly 441.109; 2017 c.441 §§12,12a; 2018 c.61 §17]
+
+ 
+
+      Note: The amendments to 441.406 by section 8, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of licenses for long term care facilities, conversion facilities, residential care facilities or adult foster homes on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies on and after January 1, 2021, is set forth for the user’s convenience.
+
+      441.406. (1) The Long Term Care Ombudsman shall carry out the following duties:
+
+      (a) Investigate and resolve complaints made by or for residents of long term care facilities about administrative actions that may adversely affect their health, safety, welfare or rights, including subpoenaing any person to appear, to give sworn testimony or to produce documentary or other evidence that is reasonably material to any matter under investigation.
+
+      (b) Notify the Department of Human Services or the Oregon Health Authority about disease outbreaks reported by residents to the ombudsman or identified by the ombudsman.
+
+      (c) Undertake, participate in or cooperate with persons and agencies in such conferences, inquiries, meetings or studies as may lead to improvements in the functioning of long term care facilities.
+
+      (d) Monitor the development and implementation of federal, state and local laws, regulations and policies that relate to long term care facilities in this state.
+
+      (e) Provide information to public agencies about the problems of residents of long term care facilities.
+
+      (f) Work closely with cooperative associations and citizen groups in this state and the state protection and advocacy system under ORS 192.517.
+
+      (g) Widely publicize the Long Term Care Ombudsman’s services, purpose and mode of operation.
+
+      (h) Collaborate with the Oregon Health Authority, the Department of Human Services, the Long Term Care Administrators Board and any other appropriate agencies and organizations to establish a statewide system to collect and analyze information on complaints and conditions in long term care facilities for the purpose of publicizing improvements and resolving significant problems.
+
+      (i) Contract with the state protection and advocacy system described in ORS 192.517 (1) to provide services and assistance to persons who are prospective or current residents of a mental health treatment facility or of a residential facility for individuals with developmental disabilities when the system has received a notice regarding the person pursuant to ORS 125.060 (7)(c) or (8)(c).
+
+      (j) Appoint designees to serve as local representatives of the office of the Long Term Care Ombudsman in various districts of the state and regularly monitor their functions.
+
+      (k) Specify qualifications and duties of designees.
+
+      (L) Adopt rules necessary for carrying out ORS 441.402 to 441.414, after consultation with the Residential Ombudsman and Public Guardianship Advisory Board.
+
+      (m) Provide periodically, or at least annually, a report to the Governor, authority, department and Legislative Assembly.
+
+      (n) Prepare necessary reports with the assistance of the authority and the department.
+
+      (o) Advise and support the Oregon Public Guardian and Conservator appointed under ORS 125.678.
+
+      (p) Supervise, monitor, advise and support the Residential Facilities Ombudsman appointed under ORS 443.382.
+
+      (2) At least quarterly, the Department of Human Services shall provide the Long Term Care Ombudsman with a list of the number of licensed or certified beds in each long term care facility for which the ombudsman has responsibilities under this section.
 
  
 
@@ -3214,6 +3504,62 @@ LONG TERM CARE OMBUDSMAN
       (e) Periodically review the rights prescribed in ORS 441.605, 441.610 and 441.612, and any other applicable rights to services, with residents, families, guardians, administrators and staff of long term care facilities.
 
       (f) Perform other related duties as specified. [Formerly 441.131; 2017 c.441 §18]
+
+ 
+
+      Note: The amendments to 441.413 by section 9, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of licenses for renewal of licenses for long term care facilities, conversion facilities, residential care facilities or adult foster homes on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies on and after January 1, 2021, is set forth for the user’s convenience.
+
+      441.413. (1) The Long Term Care Ombudsman shall appoint designees, in consultation with local screening committees that are appointed by and serve at the pleasure of the ombudsman, that may consist of but not be limited to persons representing:
+
+      (a) The area agency, as defined in ORS 410.040.
+
+      (b) The local office of the Department of Human Services.
+
+      (c) The local health department.
+
+      (d) Senior citizens groups in the area.
+
+      (e) Local elected officials.
+
+      (2) To be appointed as a designee, a person must complete an initial training, as prescribed by the Long Term Care Ombudsman by rule, and attend quarterly training sessions that are approved by the ombudsman and that shall be coordinated and funded by the Department of Human Services and the Oregon Health Authority, subject to the availability of funds. The training must include instruction on how to identify and report disease outbreaks.
+
+      (3) Designees must sign a contract with the state that outlines the scope of their duties. In districts where a designee is an employee or agent of a local entity, a three-party contract shall be executed. Violation of the contract is cause for the termination of the appointment. A directory of all designees shall be maintained in the office of the Long Term Care Ombudsman.
+
+      (4) The qualifications of designees shall include experience with long term care facilities or residents or potential residents of long term care facilities, and the ability to communicate well, to understand laws, rules and regulations, and to be assertive, yet objective.
+
+      (5) Applicants who have experience in either social service, mental health, developmental disability services, gerontology, nursing or paralegal work shall be given preference in the appointment of designees.
+
+      (6) The contract shall include statements that the purpose of the Long Term Care Ombudsman Program is to:
+
+      (a) Promote rapport and trust between the residents and staff of the long term care facilities and Long Term Care Ombudsman;
+
+      (b) Assist residents with participating more actively in determining the delivery of services at the facilities;
+
+      (c) Serve as an educational resource;
+
+      (d) Receive, resolve or relay concerns to the Long Term Care Ombudsman or the appropriate agency; and
+
+      (e) Ensure equitable resolution of problems.
+
+      (7) The duties of the designees are to:
+
+      (a) Visit each assigned long term care facility on a regular basis:
+
+      (A) Upon arrival and departure, inform a specified staff member.
+
+      (B) Review, with a specified staff member, any problems or concerns that need to be considered.
+
+      (C) Visit individual residents and resident councils.
+
+      (b) Maintain liaison with appropriate agencies and the Long Term Care Ombudsman.
+
+      (c) Report, in writing, monthly to the Long Term Care Ombudsman.
+
+      (d) Keep residents and staff informed of the Long Term Care Ombudsman Program.
+
+      (e) Periodically review the rights prescribed in ORS 441.605, 441.610 and 441.612, and any other applicable rights to services, with residents, families, guardians, administrators and staff of long term care facilities.
+
+      (f) Perform other related duties as specified.
 
  
 
@@ -3585,7 +3931,7 @@ LONG TERM CARE FACILITIES
 
  
 
-      441.624 Purpose. (1) ORS 124.050, 124.080, 410.190, 441.020 to 441.057, 441.060, 441.061, 441.067, 441.073, 441.087, 441.277 to 441.289, 441.303, 441.316, 441.318, 441.331 to 441.341, 441.367, 441.600, 441.610, 441.630, 441.650 to 441.665, 441.685, 441.690, 441.703 and 441.705 to 441.720 address the consolidation of the regulatory functions of licensing, certification, inspection of care, utilization review, abuse reporting and abuse investigation.
+      441.624 Purpose. (1) ORS 124.050, 124.080, 410.190, 441.020 to 441.055, 441.060, 441.061, 441.067, 441.073, 441.087, 441.277 to 441.289, 441.303, 441.316, 441.318, 441.331 to 441.341, 441.367, 441.600, 441.610, 441.630, 441.650 to 441.665, 441.685, 441.690, 441.703 and 441.705 to 441.720 address the consolidation of the regulatory functions of licensing, certification, inspection of care, utilization review, abuse reporting and abuse investigation.
 
       (2) It is legislative intent that:
 
@@ -3669,9 +4015,9 @@ LONG TERM CARE FACILITIES
 
       (j) Member of the Legislative Assembly.
 
-      (k) Personal support worker, as defined by rule adopted by the Home Care Commission.
+      (k) Personal support worker, as defined in ORS 410.600.
 
-      (L) Home care worker, as defined in ORS 410.600. [1979 c.770 §1; 1981 c.470 §7; 1981 c.784 §22; 1987 c.428 §26; 1989 c.721 §53; 1993 c.759 §1; 2001 c.104 §180; 2009 c.442 §41; 2009 c.595 §737; 2011 c.506 §42; 2013 c.180 §46; 2015 c.179 §4; 2015 c.736 §88; 2017 c.679 §41]
+      (L) Home care worker, as defined in ORS 410.600. [1979 c.770 §1; 1981 c.470 §7; 1981 c.784 §22; 1987 c.428 §26; 1989 c.721 §53; 1993 c.759 §1; 2001 c.104 §180; 2009 c.442 §41; 2009 c.595 §737; 2011 c.506 §42; 2013 c.180 §46; 2015 c.179 §4; 2015 c.736 §88; 2017 c.679 §41; 2018 c.75 §23]
 
  
 
@@ -3689,7 +4035,9 @@ LONG TERM CARE FACILITIES
 
  
 
-      441.640 Report of suspected abuse of resident required. Any public or private official having reasonable cause to believe that any resident in a long term care facility with whom the official comes in contact has suffered abuse, or that any person with whom the official comes in contact has abused a resident in a long term care facility, shall report or cause a report to be made in the manner required in ORS 441.645. [1979 c.770 §3; 1993 c.759 §3; 2017 c.346 §1]
+      441.640 Report of suspected abuse of resident required. (1) Any public or private official having reasonable cause to believe that any resident in a long term care facility with whom the official comes in contact has suffered abuse, or that any person with whom the official comes in contact has abused a resident in a long term care facility, shall report or cause a report to be made in the manner required in ORS 441.645.
+
+      (2) A Long Term Care Ombudsman or a designee of the ombudsman is not required to make a report under this section to the extent the report would violate 42 U.S.C. 3058g(d). [1979 c.770 §3; 1993 c.759 §3; 2017 c.346 §1; 2019 c.117 §8]
 
  
 
@@ -4369,7 +4717,7 @@ SUICIDE ATTEMPTS BY MINORS
 
       441.750 Suicide attempts by minors; referral; report; disclosure of information; limitation of liability. (1) Any hospital which treats as a patient a person under 18 years of age because the person has attempted to commit suicide:
 
-      (a) Shall cause that person to be provided with information and referral to in-patient or out-patient community resources, crisis intervention or other appropriate intervention by the patient’s attending physician, hospital social work staff or other appropriate staff.
+      (a) Shall cause that person to be provided with information and referral to inpatient or outpatient community resources, crisis intervention or other appropriate intervention by the patient’s attending physician, hospital social work staff or other appropriate staff.
 
       (b) Shall report statistical information to the Oregon Health Authority about the person described in this subsection but is not required to report the name of the person.
 
@@ -4421,7 +4769,7 @@ MISCELLANEOUS
 
  
 
-      441.816 Influenza vaccines for patients 65 years of age or older. (1) Subject to subsection (2) of this section, from October 1 through March 1 of each year, each hospital in this state shall make an offer to each patient of the hospital who is 65 years of age or older to immunize the patient against the influenza virus, provided that immunization against the influenza virus is not contraindicated for that patient.
+      441.816 Influenza vaccines for patients 65 years of age or older; rules. (1) Subject to subsection (2) of this section, from October 1 through March 1 of each year, each hospital in this state shall make an offer to each patient of the hospital who is 65 years of age or older to immunize the patient against the influenza virus, provided that immunization against the influenza virus is not contraindicated for that patient.
 
       (2) Offers made under subsection (1) of this section must be based on:
 

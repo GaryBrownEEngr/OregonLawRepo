@@ -4,16 +4,6 @@ Chapter 656 — Workers’ Compensation
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0075
-
- 
-
- 
-
 
  
 
@@ -115,11 +105,11 @@ COVERAGE
 
  
 
-656.039     Election of coverage for workers not subject to law; procedure; cancellation; election of coverage for home health care workers
+656.039     Election of coverage for workers not subject to law; procedure; cancellation; election of coverage for home care workers and personal support workers
 
  
 
-656.041     City or county may elect to provide coverage for jail inmates
+656.041     City or county may elect to provide coverage for adults in custody
 
  
 
@@ -203,51 +193,7 @@ COVERAGE
 
  
 
-APPLICABILITY PROVISIONS
-
- 
-
 656.202     Compensation payable to subject worker in accordance with law in effect at time of injury; exceptions; notice regarding payment
-
- 
-
-Note          Implementation of 1990 Laws
-
- 
-
-Note          Implementation of 1995 Laws
-
- 
-
-Note          Implementation of 1997 Laws
-
- 
-
-Note          Implementation of 2001 Laws
-
- 
-
-Note          Implementation of 2003 Laws
-
- 
-
-Note          Implementation of 2005 Laws
-
- 
-
-Note          Implementation of 2007 Laws
-
- 
-
-Note          Implementation of 2009 Laws
-
- 
-
-Note          Implementation of 2011 Laws
-
- 
-
-Note          Implementation of 2013 Laws
 
  
 
@@ -287,33 +233,11 @@ COMPENSATION AND MEDICAL BENEFITS
 
  
 
-Note          Benefits, January 1, 1992, to December 31, 1995
-
- 
-
-Note          Benefits, January 1, 1996, to December 31, 1997
-
- 
-
-Note          Benefits, January 1, 1998, to October 23, 1999
-
- 
-
-Note          Benefits, January 1, 2000, to December 31, 2004
-
- 
-
-Note          Benefits, January 1, 2002, to December 31, 2004
-
- 
-
 656.216     Permanent partial disability; method of payment; effect of prior receipt of temporary disability payments
 
  
 
 656.218     Continuance of permanent partial disability payments to survivors; effect of death prior to final claim disposition
-
- 
 
 656.222     Compensation for additional accident
 
@@ -477,8 +401,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
 656.313     Stay of compensation pending request for hearing or review; procedure for denial of claim for medical services; reimbursement
 
- 
-
 656.319     Time within which hearing must be requested
 
  
@@ -541,11 +463,7 @@ LEGAL REPRESENTATION
 
 656.390     Frivolous appeals, hearing requests or motions; expenses and attorney fee
 
- 
-
 SELF-INSURED AND CARRIER-INSURED EMPLOYERS; INSURERS
-
- 
 
 656.403     Obligations of self-insured employer
 
@@ -583,7 +501,7 @@ SELF-INSURED AND CARRIER-INSURED EMPLOYERS; INSURERS
 
  
 
-656.443     Procedure upon default by employer or self-insured employer group
+656.443     Procedure upon default by employer or self-insured employer group; rules
 
  
 
@@ -663,11 +581,7 @@ PREMIUM PAYMENTS
 
 656.566     Lien on property of employer for amounts due
 
- 
-
 RECOVERY AGAINST THIRD PERSONS AND NONCOMPLYING EMPLOYERS
-
- 
 
 656.576     “Paying agency” defined
 
@@ -783,8 +697,6 @@ FUNDS; SOURCE; INVESTMENT; DISBURSEMENT
 
 ADMINISTRATION
 
- 
-
 (General Provisions)
 
  
@@ -835,8 +747,6 @@ ADMINISTRATION
 
 656.725     Duties and status of Administrative Law Judges
 
- 
-
 656.726     Duties and powers to carry out workers’ compensation and occupational safety laws; rules
 
  
@@ -861,7 +771,7 @@ ADMINISTRATION
 
  
 
-656.745     Civil penalty for inducing failure to report claims; failure to pay assessments; failure to comply with statutes, rules or orders; amount; procedure
+656.745     Civil penalty for inducing failure to report claims; limits on penalty amounts; failure to pay assessments; failure to comply with statutes, rules or orders; amount; procedure
 
  
 
@@ -953,7 +863,7 @@ OCCUPATIONAL DISEASE LAW
 
  
 
-656.802     Occupational disease; mental disorder; proof
+656.802     Occupational disease; mental disorder; presumptions as to stress disorders; proof
 
  
 
@@ -978,8 +888,6 @@ WORKER LEASING COMPANIES
  
 
 PENALTIES
-
- 
 
 656.990     Penalties
 
@@ -1035,23 +943,23 @@ GENERAL PROVISIONS
 
       (6) “Claim” means a written request for compensation from a subject worker or someone on the worker’s behalf, or any compensable injury of which a subject employer has notice or knowledge.
 
-      (7)(a) A “compensable injury” is an accidental injury, or accidental injury to prosthetic appliances, arising out of and in the course of employment requiring medical services or resulting in disability or death; an injury is accidental if the result is an accident, whether or not due to accidental means, if it is established by medical evidence supported by objective findings, subject to the following limitations:
+      (7)(a) A “compensable injury” is an accidental injury, or accidental injury to prosthetic appliances, arising out of and in the course of employment requiring medical services or resulting in disability or death. An injury is accidental if the result is an accident, whether or not due to accidental means, if it is established by medical evidence supported by objective findings, subject to the following limitations:
 
-      (A) No injury or disease is compensable as a consequence of a compensable injury unless the compensable injury is the major contributing cause of the consequential condition.
+      (A) An injury or disease is not compensable as a consequence of a compensable injury unless the compensable injury is the major contributing cause of the consequential condition.
 
       (B) If an otherwise compensable injury combines at any time with a preexisting condition to cause or prolong disability or a need for treatment, the combined condition is compensable only if, so long as and to the extent that the otherwise compensable injury is the major contributing cause of the disability of the combined condition or the major contributing cause of the need for treatment of the combined condition.
 
       (b) “Compensable injury” does not include:
 
-      (A) Injury to any active participant in assaults or combats which are not connected to the job assignment and which amount to a deviation from customary duties;
+      (A) Injury to any active participant in assaults or combats that are not connected to the job assignment and that amount to a deviation from customary duties;
 
       (B) Injury incurred while engaging in or performing, or as the result of engaging in or performing, any recreational or social activities primarily for the worker’s personal pleasure; or
 
       (C) Injury the major contributing cause of which is demonstrated to be by a preponderance of the evidence the injured worker’s consumption of alcoholic beverages or cannabis or the unlawful consumption of any controlled substance, unless the employer permitted, encouraged or had actual knowledge of such consumption.
 
-      (c) A “disabling compensable injury” is an injury which entitles the worker to compensation for disability or death. An injury is not disabling if no temporary benefits are due and payable, unless there is a reasonable expectation that permanent disability will result from the injury.
+      (c) A “disabling compensable injury” is an injury that entitles the worker to compensation for disability or death. An injury is not disabling if no temporary benefits are due and payable, unless there is a reasonable expectation that permanent disability will result from the injury.
 
-      (d) A “nondisabling compensable injury” is any injury which requires medical services only.
+      (d) A “nondisabling compensable injury” is any injury that requires medical services only.
 
       (8) “Compensation” includes all benefits, including medical services, provided for a compensable injury to a subject worker or the worker’s beneficiaries by an insurer or self-insured employer pursuant to this chapter.
 
@@ -1071,7 +979,7 @@ GENERAL PROVISIONS
 
       (11) “Director” means the Director of the Department of Consumer and Business Services.
 
-      (12)(a) “Doctor” or “physician” means a person duly licensed to practice one or more of the healing arts in any country or in any state, territory or possession of the United States within the limits of the license of the licentiate.
+      (12)(a) “Doctor” or “physician” means a person duly licensed to practice one or more of the healing arts in any country or in any state, territory or possession of the United States within the limits of the license of the licensee.
 
       (b) Except as otherwise provided for workers subject to a managed care contract, “attending physician” means a doctor, physician or physician assistant who is primarily responsible for the treatment of a worker’s compensable injury and who is:
 
@@ -1089,7 +997,7 @@ GENERAL PROVISIONS
 
       (d) “Consulting physician” means a doctor or physician who examines a worker or the worker’s medical record to advise the attending physician or nurse practitioner authorized to provide compensable medical services under ORS 656.245 regarding treatment of a worker’s compensable injury.
 
-      (13)(a) “Employer” means any person, including receiver, administrator, executor or trustee, and the state, state agencies, counties, municipal corporations, school districts and other public corporations or political subdivisions, who contracts to pay a remuneration for and secures the right to direct and control the services of any person.
+      (13)(a) “Employer” means any person, including receiver, administrator, executor or trustee, and the state, state agencies, counties, municipal corporations, school districts and other public corporations or political subdivisions, that contracts to pay a remuneration for and secures the right to direct and control the services of any person.
 
       (b) Notwithstanding paragraph (a) of this subsection, for purposes of this chapter, the client of a temporary service provider is not the employer of temporary workers provided by the temporary service provider.
 
@@ -1101,23 +1009,23 @@ GENERAL PROVISIONS
 
       (16) “Invalid” means one who is physically or mentally incapacitated from earning a livelihood.
 
-      (17) “Medically stationary” means that no further material improvement would reasonably be expected from medical treatment, or the passage of time.
+      (17) “Medically stationary” means that no further material improvement would reasonably be expected from medical treatment or the passage of time.
 
-      (18) “Noncomplying employer” means a subject employer who has failed to comply with ORS 656.017.
+      (18) “Noncomplying employer” means a subject employer that has failed to comply with ORS 656.017.
 
       (19) “Objective findings” in support of medical evidence are verifiable indications of injury or disease that may include, but are not limited to, range of motion, atrophy, muscle strength and palpable muscle spasm. “Objective findings” does not include physical findings or subjective responses to physical examinations that are not reproducible, measurable or observable.
 
       (20) “Palliative care” means medical service rendered to reduce or moderate temporarily the intensity of an otherwise stable medical condition, but does not include those medical services rendered to diagnose, heal or permanently alleviate or eliminate a medical condition.
 
-      (21) “Party” means a claimant for compensation, the employer of the injured worker at the time of injury and the insurer, if any, of such employer.
+      (21) “Party” means a claimant for compensation, the employer of the injured worker at the time of injury and the insurer, if any, of the employer.
 
-      (22) “Payroll” means a record of wages payable to workers for their services and includes commissions, value of exchange labor and the reasonable value of board, rent, housing, lodging or similar advantage received from the employer. However, “payroll” does not include overtime pay, vacation pay, bonus pay, tips, amounts payable under profit-sharing agreements or bonus payments to reward workers for safe working practices. Bonus pay is limited to payments which are not anticipated under the contract of employment and which are paid at the sole discretion of the employer. The exclusion from payroll of bonus payments to reward workers for safe working practices is only for the purpose of calculations based on payroll to determine premium for workers’ compensation insurance, and does not affect any other calculation or determination based on payroll for the purposes of this chapter.
+      (22) “Payroll” means a record of wages payable to workers for their services and includes commissions, value of exchange labor and the reasonable value of board, rent, housing, lodging or similar advantage received from the employer. However, “payroll” does not include overtime pay, vacation pay, bonus pay, tips, amounts payable under profit-sharing agreements or bonus payments to reward workers for safe working practices. Bonus pay is limited to payments that are not anticipated under the contract of employment and that are paid at the sole discretion of the employer. The exclusion from payroll of bonus payments to reward workers for safe working practices is only for the purpose of calculations based on payroll to determine premium for workers’ compensation insurance, and does not affect any other calculation or determination based on payroll for the purposes of this chapter.
 
-      (23) “Person” includes partnership, joint venture, association, limited liability company and corporation.
+      (23) “Person” includes a partnership, joint venture, association, limited liability company and corporation.
 
       (24)(a) “Preexisting condition” means, for all industrial injury claims, any injury, disease, congenital abnormality, personality disorder or similar condition that contributes to disability or need for treatment, provided that:
 
-      (A) Except for claims in which a preexisting condition is arthritis or an arthritic condition, the worker has been diagnosed with such condition, or has obtained medical services for the symptoms of the condition regardless of diagnosis; and
+      (A) Except for claims in which a preexisting condition is arthritis or an arthritic condition, the worker has been diagnosed with the condition, or has obtained medical services for the symptoms of the condition regardless of diagnosis; and
 
       (B)(i) In claims for an initial injury or omitted condition, the diagnosis or treatment precedes the initial injury;
 
@@ -1133,19 +1041,15 @@ GENERAL PROVISIONS
 
       (26) “State Accident Insurance Fund Corporation” and “corporation” mean the State Accident Insurance Fund Corporation created under ORS 656.752.
 
-      (27) “Subject employer” means an employer who is subject to this chapter as provided by ORS 656.023.
+      (27) “Subject employer” means an employer that is subject to this chapter as provided by ORS 656.023.
 
       (28) “Subject worker” means a worker who is subject to this chapter as provided by ORS 656.027.
 
       (29) “Wages” means the money rate at which the service rendered is recompensed under the contract of hiring in force at the time of the accident, including reasonable value of board, rent, housing, lodging or similar advantage received from the employer, and includes the amount of tips required to be reported by the employer pursuant to section 6053 of the Internal Revenue Code of 1954, as amended, and the regulations promulgated pursuant thereto, or the amount of actual tips reported, whichever amount is greater. The State Accident Insurance Fund Corporation may establish assumed minimum and maximum wages, in conformity with recognized insurance principles, at which any worker shall be carried upon the payroll of the employer for the purpose of determining the premium of the employer.
 
-      (30) “Worker” means any person, including a minor whether lawfully or unlawfully employed, who engages to furnish services for a remuneration, subject to the direction and control of an employer and includes salaried, elected and appointed officials of the state, state agencies, counties, cities, school districts and other public corporations, but does not include any person whose services are performed as an inmate or ward of a state institution or as part of the eligibility requirements for a general or public assistance grant. For the purpose of determining entitlement to temporary disability benefits or permanent total disability benefits under this chapter, “worker” does not include a person who has withdrawn from the workforce during the period for which such benefits are sought.
+      (30) “Worker” means any person, including a minor whether lawfully or unlawfully employed, who engages to furnish services for a remuneration, subject to the direction and control of an employer and includes salaried, elected and appointed officials of the state, state agencies, counties, cities, school districts and other public corporations, but does not include any person whose services are performed as an adult in custody or ward of a state institution or as part of the eligibility requirements for a general or public assistance grant. For the purpose of determining entitlement to temporary disability benefits or permanent total disability benefits under this chapter, “worker” does not include a person who has withdrawn from the workforce during the period for which such benefits are sought.
 
-      (31) “Independent contractor” has the meaning for that term provided in ORS 670.600. [1975 c.556 §§3 to 19 (enacted in lieu of 656.002); 1977 c.109 §2; 1977 c.804 §1; 1979 c.839 §26; 1981 c.535 §30; 1981 c.723 §3; 1981 c.854 §2; 1983 c.740 §242; 1985 c.212 §1; 1985 c.507 §1; 1985 c.770 §1; 1987 c.373 §31; 1987 c.457 §1; 1987 c.713 §3; 1987 c.884 §25; 1989 c.762 §3; 1990 c.2 §3; 1993 c.739 §23; 1993 c.744 §18; 1995 c.93 §31; 1995 c.332 §1; 1997 c.491 §5; 2001 c.865 §1; 2003 c.811 §§1,2; 2007 c.241 §§6,7; 2007 c.252 §§1,2; 2007 c.365 §1; 2007 c.505 §§1,2; 2009 c.43 §§6,7; 2011 c.117 §1; 2015 c.629 §53; 2017 c.21 §64; 2017 c.71 §1; 2017 c.409 §19]
-
- 
-
-      Note: See notes under 656.202.
+      (31) “Independent contractor” has the meaning for that term provided in ORS 670.600. [1975 c.556 §§3 to 19 (enacted in lieu of 656.002); 1977 c.109 §2; 1977 c.804 §1; 1979 c.839 §26; 1981 c.535 §30; 1981 c.723 §3; 1981 c.854 §2; 1983 c.740 §242; 1985 c.212 §1; 1985 c.507 §1; 1985 c.770 §1; 1987 c.373 §31; 1987 c.457 §1; 1987 c.713 §3; 1987 c.884 §25; 1989 c.762 §3; 1990 c.2 §3; 1993 c.739 §23; 1993 c.744 §18; 1995 c.93 §31; 1995 c.332 §1; 1997 c.491 §5; 2001 c.865 §1; 2003 c.811 §§1,2; 2007 c.241 §§6,7; 2007 c.252 §§1,2; 2007 c.365 §1; 2007 c.505 §§1,2; 2009 c.43 §§6,7; 2011 c.117 §1; 2015 c.629 §53; 2017 c.21 §64; 2017 c.71 §1; 2017 c.409 §19; 2019 c.13 §62; 2019 c.213 §113]
 
  
 
@@ -1182,10 +1086,6 @@ GENERAL PROVISIONS
       (e) To provide the sole and exclusive source and means by which subject workers, their beneficiaries and anyone otherwise entitled to receive benefits on account of injuries or diseases arising out of and in the course of employment shall seek and qualify for remedies for such conditions.
 
       (3) In recognition that the goals and objectives of this Workers’ Compensation Law are intended to benefit all citizens, it is declared that the provisions of this law shall be interpreted in an impartial and balanced manner. [1981 c.535 §29 (enacted in lieu of 656.004); 1995 c.332 §4; amendments by 1995 c.332 §4a repealed by 1999 c.6 §1; amendments by 1999 c.6 §3 repealed by 2001 c.865 §23; 2015 c.521 §1]
-
-      Note: See notes under 656.202.
-
- 
 
       656.016 [1965 c.285 §5; 1967 c.341 §3; repealed by 1975 c.556 §20 (656.017 enacted in lieu of 656.016)]
 
@@ -1242,10 +1142,6 @@ COVERAGE
       (6) Nothing in this chapter shall prohibit payment, voluntarily or otherwise, to injured workers or their beneficiaries in excess of the compensation required to be paid under this chapter.
 
       (7) The exclusive remedy provisions and limitation on liability provisions of this chapter apply to all injuries and to diseases, symptom complexes or similar conditions of subject workers arising out of and in the course of employment whether or not they are determined to be compensable under this chapter. [1965 c.285 §6; 1975 c.115 §1; 1977 c.514 §1; 1977 c.804 §3a; 1987 c.447 §110; 1989 c.600 §1; 1993 c.628 §6; 1995 c.332 §5; amendments by 1995 c.332 §5a repealed by 1999 c.6 §1; 1995 c.733 §76; 1997 c.275 §§6,7; 1997 c.491 §§1,2; amendments by 1999 c.6 §4 repealed by 2001 c.865 §23; 2013 c.488 §1]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -1469,25 +1365,25 @@ COVERAGE
 
  
 
-      656.033 Coverage for participants in work experience or school directed professional training programs. (1) All persons participating as trainees in a work experience program or school directed professional education project of a school district as defined in ORS 332.002 in which such persons are enrolled, including persons with mental retardation in training programs, are considered as workers of the district subject to this chapter for purposes of this section. Trainees placed in a work experience program with their resident school district as the training employer shall be subject workers under this section when the training and supervision are performed by noninstructional personnel.
+      656.033 Coverage for participants in work experience or school directed professional training programs. (1) All persons participating as trainees in a work experience program or a school directed professional education project of a school district, as defined in ORS 332.002, in which such persons are enrolled, including persons with intellectual disabilities in training programs, are workers of the district subject to this chapter for purposes of this section. Trainees placed in a work experience program with the trainees’ resident school district as the training employer are subject workers under this section if the training and supervision are performed by noninstructional personnel.
 
       (2) A school district conducting a work experience program or school directed professional education project shall submit a written statement to the insurer, or in the case of self-insurers, the Director of the Department of Consumer and Business Services, that includes a description of the work to be performed by such persons and an estimate of the total number of persons enrolled.
 
-      (3) The premium cost for coverage under this section shall be based on an assumed hourly wage which is approved by the Director of the Department of Consumer and Business Services. Such assumed wage is to be used only for calculation purposes under this chapter and without regard to ORS chapter 652 or ORS 653.010 to 653.565 and 653.991. A self-insured district shall submit such assumed wage rates to the director. If the director finds that the rates are unreasonable, the director may fix appropriate rates to be used for purposes of this section.
+      (3) The premium cost for coverage under this section is based on an assumed hourly wage which is approved by the Director of the Department of Consumer and Business Services. Such assumed wage is to be used only for calculation purposes under this chapter and without regard to ORS chapter 652 or ORS 653.010 to 653.565 and 653.991. A self-insured district shall submit such assumed wage rates to the director. If the director finds that the rates are unreasonable, the director may fix appropriate rates to be used for purposes of this section.
 
-      (4) The school district shall furnish the insurer, or in the case of self-insurers, the director, with an estimate of the total number of persons enrolled in its work experience program or school directed professional education project and shall notify the insurer or director of any significant changes therein. Persons covered under this section are entitled to the benefits of this chapter. However, such persons are not entitled to benefits under ORS 656.210 or 656.212. They are entitled to such benefits if injured as provided in ORS 656.156 and 656.202 while performing any duties arising out of and in the course of their participation in the work experience program or school directed professional education project, provided the duties being performed are among those:
+      (4) The school district shall furnish the insurer, or in the case of self-insurers, the director, with an estimate of the total number of persons enrolled in the school district’s work experience program or school directed professional education project and shall notify the insurer or director of any significant changes in the program or project. Persons covered under this section are entitled to the benefits of this chapter. However, such persons are not entitled to benefits under ORS 656.210 or 656.212. The persons are entitled to such benefits if injured as provided in ORS 656.156 and 656.202 while performing any duties arising out of and in the course of participating in the work experience program or school directed professional education project, provided the duties being performed are among those:
 
       (a) Described on the application of the school district; and
 
       (b) Required of similar full-time paid employees.
 
-      (5) The filing of claims for benefits under this section is the exclusive remedy of a trainee or a beneficiary of the trainee for injuries compensable under this chapter against the state, its political subdivisions, the school district board, its members, officers and employees, or any employer, regardless of negligence.
+      (5) Filing claims for benefits under this section is the exclusive remedy of a trainee or a beneficiary of the trainee for injuries compensable under this chapter against the state, the state’s political subdivisions, the school district board, the members, officers and employees of the school district board or any employer, regardless of negligence.
 
-      (6) The provisions of this section shall be inapplicable to any trainee who has earned wages for such employment.
+      (6) The provisions of this section do not apply to any trainee who has earned wages for such employment.
 
-      (7) As used in this section, “school directed professional education project” means an on-campus or off-campus project supervised by school personnel and which is an assigned activity of a local professional education program approved pursuant to operating procedures of the State Board of Education. A school directed professional education project must be of a practicum experience nature, performed outside of a classroom environment and extending beyond initial instruction or demonstration activities. Such projects are limited to logging, silvicultural thinning, slash burning, fire fighting, stream enhancement, woodcutting, reforestation, tree surgery, construction, printing and manufacturing involving formed metals.
+      (7) As used in this section, “school directed professional education project” means an on-campus or off-campus project supervised by school personnel that is an assigned activity of a local professional education program approved pursuant to operating procedures of the State Board of Education. A school directed professional education project must be of a practicum experience nature, performed outside of a classroom environment and extending beyond initial instruction or demonstration activities. Such projects are limited to logging, silvicultural thinning, slash burning, fire fighting, stream enhancement, woodcutting, reforestation, tree surgery, construction, printing and manufacturing involving formed metals.
 
-      (8) Notwithstanding subsection (1) of this section, a school district may elect to make trainees subject workers under this chapter for school directed professional education projects not enumerated in subsection (7) of this section by making written request to the district’s insurer, or in the case of a self-insured district, the director, with coverage to begin no sooner than the date the request is received by the insurer or director. The request for coverage shall include a description of the work to be performed under the project and an estimate of the number of participating trainees. The insurer or director shall accept a request that meets the criteria of this section. [1967 c.374 §2; 1979 c.814 §2a; 1979 c.815 §3; 1981 c.874 §2; 1987 c.489 §1; 1989 c.491 §63; 1991 c.534 §1; 1995 c.343 §52; 2007 c.70 §285]
+      (8) Notwithstanding subsection (1) of this section, a school district may elect to make trainees subject workers under this chapter for school directed professional education projects not enumerated in subsection (7) of this section by making written request to the district’s insurer, or in the case of a self-insured district, the director, with coverage to begin no sooner than the date the request is received by the insurer or director. The request for coverage must include a description of the work to be performed under the project and an estimate of the number of participating trainees. The insurer or director shall accept a request that meets the criteria of this section. [1967 c.374 §2; 1979 c.814 §2a; 1979 c.815 §3; 1981 c.874 §2; 1987 c.489 §1; 1989 c.491 §63; 1991 c.534 §1; 1995 c.343 §52; 2007 c.70 §285; 2019 c.9 §1]
 
  
 
@@ -1511,7 +1407,7 @@ COVERAGE
 
  
 
-      656.039 Election of coverage for workers not subject to law; procedure; cancellation; election of coverage for home health care workers. (1) An employer of one or more persons defined as nonsubject workers or not defined as subject workers may elect to make them subject workers. If the employer is or becomes a carrier-insured employer, the election shall be made by filing written notice thereof with the insurer with a copy to the Director of the Department of Consumer and Business Services. The effective date of coverage is governed by ORS 656.419 (3). If the employer is or becomes a self-insured employer, the election shall be made by filing written notice thereof with the director, the effective date of coverage to be the date specified in the notice.
+      656.039 Election of coverage for workers not subject to law; procedure; cancellation; election of coverage for home care workers and personal support workers. (1) An employer of one or more persons defined as nonsubject workers or not defined as subject workers may elect to make them subject workers. If the employer is or becomes a carrier-insured employer, the election shall be made by filing written notice thereof with the insurer with a copy to the Director of the Department of Consumer and Business Services. The effective date of coverage is governed by ORS 656.419 (3). If the employer is or becomes a self-insured employer, the election shall be made by filing written notice thereof with the director, the effective date of coverage to be the date specified in the notice.
 
       (2) Any election under subsection (1) of this section may be canceled by written notice thereof to the insurer or, in the case of a self-insured employer, by notice thereof to the director. The cancellation is effective at 12 midnight ending the day the notice is received by the insurer or the director, unless a later date is specified in the notice. The insurer shall, within 10 days after receipt of a notice of cancellation under this section, send a copy of the notice to the director.
 
@@ -1519,9 +1415,13 @@ COVERAGE
 
       (4) Notwithstanding any other provision of this section, a person or employer not subject to this chapter who elects to become covered may apply to an insurer for coverage. An insurer other than the State Accident Insurance Fund Corporation may provide such coverage. However, the State Accident Insurance Fund Corporation shall accept any written notice filed and provide coverage as provided in this section if all subject workers of the employers will be insured with the State Accident Insurance Fund Corporation and the coverage of those subject workers is not considered by the State Accident Insurance Fund Corporation to be a risk properly assignable to the assigned risk pool.
 
-      (5)(a) The Home Care Commission created by ORS 410.602 shall elect coverage on behalf of persons who employ home care workers to make home care workers subject workers.
+      (5)(a) The Home Care Commission created by ORS 410.602 shall elect coverage on behalf of persons who employ home care workers or personal support workers to make home care workers and personal support workers subject workers.
 
-      (b) As used in this subsection, “home care worker” has the meaning given that term in ORS 410.600. [1965 c.285 §11; 1975 c.556 §22; 1979 c.839 §1; 1981 c.854 §6; 1983 c.816 §1; 1985 c.212 §2; 2007 c.241 §8; 2007 c.835 §1; 2010 c.100 §9; 2014 c.116 §12]
+      (b) As used in this subsection:
+
+      (A) “Home care worker” has the meaning given that term in ORS 410.600.
+
+      (B) “Personal support worker” has the meaning given that term in ORS 410.600. [1965 c.285 §11; 1975 c.556 §22; 1979 c.839 §1; 1981 c.854 §6; 1983 c.816 §1; 1985 c.212 §2; 2007 c.241 §8; 2007 c.835 §1; 2010 c.100 §9; 2014 c.116 §12; 2018 c.75 §28]
 
  
 
@@ -1529,19 +1429,19 @@ COVERAGE
 
  
 
-      656.041 City or county may elect to provide coverage for jail inmates. (1) As used in this section, unless the context requires otherwise:
+      656.041 City or county may elect to provide coverage for adults in custody. (1) As used in this section, unless the context requires otherwise:
 
-      (a) “Authorized employment” means the employment of an inmate on work authorized by the governing body of a city or county.
+      (a) “Adult in custody” means a person sentenced by any court or legal authority, whether in default of the payment of a fine or committed for a definite number of days, to serve sentence in a city or county jail or other place of incarceration except state and federal institutions. “Adult in custody” includes a person who performs community service pursuant to ORS 137.128, whether or not the person is incarcerated.
 
-      (b) “Inmate” means a person sentenced by any court or legal authority, whether in default of the payment of a fine or committed for a definite number of days, to serve sentence in a city or county jail or other place of incarceration except state and federal institutions. “Inmate” includes a person who performs community service pursuant to ORS 137.128, whether or not the person is incarcerated.
+      (b) “Authorized employment” means the employment of an adult in custody on work authorized by the governing body of a city or county.
 
-      (2) A city or county may elect to have inmates performing authorized employment considered as subject workers of the city or county for purposes of this chapter. Such election shall be made by a written application to the insurer, or in the case of a self-insured employer, the Director of the Department of Consumer and Business Services, that includes a resolution of the governing body declaring its intent to cover inmates as provided in this section and a description of the work to be performed by such inmates. The application shall also state the estimated total number of inmates for which coverage is requested. The county or city shall notify the insurer or director of changes in the estimated total number of inmates performing authorized employment.
+      (2) A city or county may elect to have adults in custody performing authorized employment considered as subject workers of the city or county for purposes of this chapter. Such election shall be made by a written application to the insurer, or in the case of a self-insured employer, the Director of the Department of Consumer and Business Services, that includes a resolution of the governing body declaring its intent to cover adults in custody as provided in this section and a description of the work to be performed by such adults in custody. The application shall also state the estimated total number of adults in custody for which coverage is requested. The county or city shall notify the insurer or director of changes in the estimated total number of adults in custody performing authorized employment.
 
-      (3) Upon receiving the written application the insurer or self-insured employer may fix assumed wage rates for the inmates, which may be used only for purposes of computations under this chapter, and shall require the regular payment of premiums or assessments based upon the estimated total number of such inmates for which coverage is requested. The self-insured employer shall submit such assumed wage rates to the director. If the director finds that the rates are unreasonable, the director may fix appropriate rates to be used for purposes of this section.
+      (3) Upon receiving the written application the insurer or self-insured employer may fix assumed wage rates for the adults in custody, which may be used only for purposes of computations under this chapter, and shall require the regular payment of premiums or assessments based upon the estimated total number of such adults in custody for which coverage is requested. The self-insured employer shall submit such assumed wage rates to the director. If the director finds that the rates are unreasonable, the director may fix appropriate rates to be used for purposes of this section.
 
-      (4) The city or county shall maintain a separate list of inmates performing authorized employment. A certified copy of the list shall be furnished the insurer or director upon request. Inmates covered under this section are entitled to the benefits of this chapter and they are entitled to such benefits if injured as provided in ORS 656.202 while performing any duties arising out of and in the course of their participation in the authorized employment, provided the duties being performed are among those described on the application of the city or county.
+      (4) The city or county shall maintain a separate list of adults in custody performing authorized employment. A certified copy of the list shall be furnished the insurer or director upon request. Adults in custody covered under this section are entitled to the benefits of this chapter and they are entitled to such benefits if injured as provided in ORS 656.202 while performing any duties arising out of and in the course of their participation in the authorized employment, provided the duties being performed are among those described on the application of the city or county.
 
-      (5) The filing of claims for benefits under this section is the exclusive remedy of an inmate or a beneficiary of the inmate for injuries compensable under this chapter against a city or county and its officers and employees, regardless of negligence. [1967 c.472 §§2,3; 1977 c.807 §1; 1979 c.815 §4; 1981 c.854 §7; 1981 c.874 §3; 1983 c.706 §2]
+      (5) The filing of claims for benefits under this section is the exclusive remedy of an adult in custody or a beneficiary of the adult in custody for injuries compensable under this chapter against a city or county and its officers and employees, regardless of negligence. [1967 c.472 §§2,3; 1977 c.807 §1; 1979 c.815 §4; 1981 c.854 §7; 1981 c.874 §3; 1983 c.706 §2; 2019 c.213 §149]
 
  
 
@@ -1622,10 +1522,6 @@ COVERAGE
       (8) Any assigned claims agent, except the State Accident Insurance Fund Corporation, may employ legal counsel of its choice for representation under this section.
 
       (9) As used in this section, “assigned claims agent” means an insurer, casualty adjuster or a third party administrator with whom the director contracts to manage claims of injured workers of noncomplying employers. [Amended by 1959 c.448 §9; 1965 c.285 §15; 1967 c.341 §5; 1971 c.72 §1; 1973 c.447 §2; 1979 c.839 §2; 1981 c.854 §8; 1983 c.816 §2; 1987 c.234 §2; 1987 c.250 §3; 1991 c.679 §1; 1995 c.332 §7; 1995 c.641 §17; 1999 c.1020 §1; 2003 c.14 §399; 2003 c.170 §1; 2005 c.26 §1]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -1895,10 +1791,6 @@ The benefits under the workers’ compensation insurance Act or similar laws of 
 
  
 
-APPLICABILITY PROVISIONS
-
- 
-
       656.202 Compensation payable to subject worker in accordance with law in effect at time of injury; exceptions; notice regarding payment. (1) If any subject worker sustains a compensable injury, the worker or the beneficiaries of the worker, if the injury results in death, shall receive compensation as provided in this chapter, regardless of whether the worker was employed by a complying or noncomplying employer.
 
       (2) Except as otherwise provided by law, payment of benefits for injuries or deaths under this chapter shall be continued as authorized, and in the amounts provided for, by the law in force at the time the injury giving rise to the right to compensation occurred.
@@ -1912,208 +1804,6 @@ APPLICABILITY PROVISIONS
       (6) Notwithstanding subsection (2) of this section, the increase in benefits to the surviving spouse of an injured worker made by the amendment to ORS 656.204 (2)(c) (1993 Edition) by section 1, chapter 108, Oregon Laws 1985, applies to a surviving spouse who remarries after September 20, 1985, regardless of the date of injury or death of the worker.
 
       (7) Notwithstanding subsection (2) of this section, the increase in benefits to the surviving spouse of an injured worker made by the amendments to ORS 656.204 (3)(a) and (b) (1997 Edition) by section 2, chapter 927, Oregon Laws 1999, applies to a surviving spouse who remarries on or after October 23, 1999, regardless of the date of injury or death of the worker. [Amended by 1953 c.669 §4; 1953 c.670 §4; 1957 c.718 §3; 1959 c.450 §1; 1965 c.285 §21; 1977 c.430 §6; 1981 c.770 §1; subsection (4) enacted as 1981 c.723 §8; 1985 c.108 §3; 1985 c.600 §6; 1985 c.706 §6; 1985 c.770 §6; 1995 c.332 §12; 1999 c.927 §1]
-
- 
-
-(Implementation of 1990 Laws)
-
- 
-
-      Note: Section 54, chapter 2, Oregon Laws 1990, provides:
-
-      Sec. 54. (1) Except for amendments to ORS 656.027, 656.211, 656.214 (2) and 656.790, this 1990 Act becomes operative July 1, 1990, and notwithstanding ORS 656.202, this 1990 Act applies to all claims existing or arising on and after July 1, 1990, regardless of date of injury, except as specifically provided in this section.
-
-      (2) Any matter regarding a claim which is in litigation before the Hearings Division, the board, the Court of Appeals or the Supreme Court under this chapter, and regarding which matter a request for hearing was filed before May 1, 1990, and a hearing was convened before July 1, 1990, shall be determined pursuant to the law in effect before July 1, 1990.
-
-      (3) Amendments by this 1990 Act to ORS 656.214 (5), the amendments to ORS 656.268 (4), (5), (6), (7) and (8), ORS 656.283 (7), 656.295, 656.319, 656.325, 656.382 and 656.726 shall apply to all claims which become medically stationary after July 1, 1990. [1990 c.2 §54]
-
- 
-
-(Implementation of 1995 Laws)
-
- 
-
-      Note: Section 66, chapter 332, Oregon Laws 1995, provides:
-
-      Sec. 66. (1) Notwithstanding any other provision of law, chapter 332, Oregon Laws 1995, applies to all claims or causes of action existing or arising on or after June 7, 1995, regardless of the date of injury or the date a claim is presented, and chapter 332, Oregon Laws 1995, is intended to be fully retroactive unless a specific exception is stated in chapter 332, Oregon Laws 1995.
-
-      (2) The amendments to ORS 656.204 and 656.265 by sections 13 and 29, chapter 332, Oregon Laws 1995, and the amendments to ORS 656.210 (2)(a) by section 15, chapter 332, Oregon Laws 1995, apply only to injuries occurring on or after June 7, 1995.
-
-      (3) Sections 8 and 9, chapter 332, Oregon Laws 1995, and the amendments to ORS 656.054, 656.248 and 656.622 by sections 7, 26 and 49, chapter 332, Oregon Laws 1995, become operative January 1, 1996.
-
-      (4) The amendments to ORS 656.268 (4), (5), (6) and (9), 656.319 (4) and 656.726 (3)(f) by sections 30, 39 and 55, chapter 332, Oregon Laws 1995, shall apply only to claims that become medically stationary on or after June 7, 1995.
-
-      (5)(a) The amendments to statutes by chapter 332, Oregon Laws 1995, and new sections added to ORS chapter 656 by chapter 332, Oregon Laws 1995, do not apply to any matter for which an order or decision has become final on or before June 7, 1995.
-
-      (b) Notwithstanding paragraph (a) of this subsection, the amendments to ORS 656.262 (6) creating new paragraph (c) and the amendments to the subsection designated (10) by section 28, chapter 332, Oregon Laws 1995, apply to all claims without regard to any previous order or closure.
-
-      (6) The amendments to statutes by chapter 332, Oregon Laws 1995, and new sections added to ORS chapter 656 by chapter 332, Oregon Laws 1995, do not extend or shorten the procedural time limitations with regard to any action on a claim taken prior to June 7, 1995.
-
-      (7) The amendments to ORS 656.506 by section 63, chapter 332, Oregon Laws 1995, first become operative October 1, 1995. [1995 c.332 §66; 1999 c.6 §2]
-
- 
-
-(Implementation of 1997 Laws)
-
- 
-
-      Note: Section 2, chapter 605, Oregon Laws 1997, provides:
-
-      Sec. 2. Notwithstanding any other provision of law to the contrary, the amendments to ORS 656.262 by section 1 of this Act apply to all claims or causes of action existing or arising on or after the effective date of this Act [July 25, 1997], regardless of the date of injury or the date a claim is presented, and this Act is intended to be fully retroactive. [1997 c.605 §2]
-
- 
-
-      Note: Section 6, chapter 639, Oregon Laws 1997, provides:
-
-      Sec. 6. Notwithstanding any other provision of law, the amendments to ORS 656.593 by section 4 of this Act apply to all claims or causes of action existing on or arising on or after the effective date of this Act [July 25, 1997], regardless of the date of injury or the date a claim is presented, and the amendments to ORS 656.593 by section 4 of this Act are intended to be fully retroactive. [1997 c.639 §6]
-
- 
-
-(Implementation of 2001 Laws)
-
- 
-
-      Note: Section 22, chapter 865, Oregon Laws 2001, provides:
-
-      Sec. 22. (1) Section 14 of this 2001 Act [656.247] and the amendments to ORS 656.005, 656.210, 656.262, 656.266, 656.308, 656.313, 656.325 (5), 656.386, 656.605 and 656.804 by sections 1, 2, 3, 4, 5, 7, 8, 9, 13 and 13a of this 2001 Act apply to all claims with a date of injury on or after January 1, 2002.
-
-      (2) Section 10 of this 2001 Act [656.267] and the amendments to ORS 656.278 and 656.625 by sections 11 and 11a of this 2001 Act apply to all claims regardless of date of injury.
-
-      (3) The amendments to ORS 656.268 (6) by section 12 of this 2001 Act apply to any claim with a date of closure on or after January 1, 2002.
-
-      (4) The amendments to ORS 656.325 (1) by section 13 of this 2001 Act apply to any claim with a date of denial on or after January 1, 2002. [2001 c.865 §22]
-
- 
-
-(Implementation of 2003 Laws)
-
- 
-
-      Note: Section 2, chapter 429, Oregon Laws 2003, provides:
-
-      Sec. 2. The amendments to ORS 656.268 by section 1 of this 2003 Act apply to all claims first closed on or after the effective date of this 2003 Act [January 1, 2004]. [2003 c.429 §2]
-
- 
-
-      Note: Sections 13 and 15, chapter 657, Oregon Laws 2003, provide:
-
-      Sec. 13. The amendments to ORS 656.206, 656.214, 656.268, 656.307, 656.325 and 656.726 by sections 1, 3, 5, 7, 9 and 11 of this 2003 Act apply to injuries occurring on or after January 1, 2005. [2003 c.657 §13]
-
-      Sec. 15. The amendments to ORS 656.206, 656.214, 656.268, 656.307, 656.325 and 656.726 by sections 2, 4, 6, 8, 10 and 12 of this 2003 Act apply to injuries occurring on or after January 1, 2008. [2003 c.657 §15]
-
- 
-
-      Note: Section 3, chapter 756, Oregon Laws 2003, provides:
-
-      Sec. 3. The amendments to ORS 656.262 and 656.385 by sections 1 and 2 of this 2003 Act apply to all claims for which an order relating to the issue on which attorney fees are sought has not become final on or before the effective date of this 2003 Act [January 1, 2004], regardless of the date of injury. [2003 c.756 §3]
-
- 
-
-(Implementation of 2005 Laws)
-
- 
-
-      Note: Section 4, chapter 188, Oregon Laws 2005, provides:
-
-      Sec. 4. (1) The amendments to ORS 656.267, 656.278 and 656.298 by sections 1, 2 and 3 of this 2005 Act apply to all claims existing or arising on or after the effective date of this 2005 Act [January 1, 2006].
-
-      (2) Notwithstanding subsection (1) of this section, the amendments to ORS 656.267, 656.278 and 656.298 by sections 1, 2 and 3 of this 2005 Act do not apply to any matter for which an order has become final prior to the effective date of this 2005 Act. [2005 c.188 §4]
-
- 
-
-      Note: Section 5, chapter 221, Oregon Laws 2005, provides:
-
-      Sec. 5. The amendments to ORS 656.268 by sections 1 and 2 of this 2005 Act apply to notices of closure issued on or after January 1, 2006. [2005 c.221 §5]
-
- 
-
-      Note: Section 7, chapter 461, Oregon Laws 2005, provides:
-
-      Sec. 7. The amendments to ORS 656.206, 656.268, 656.319 and 656.605 by sections 1 to 6 of this 2005 Act apply to all claims for which a notice of closure is issued under ORS 656.206 or 656.268 on or after the effective date of this 2005 Act [January 1, 2006]. [2005 c.461 §7]
-
- 
-
-      Note: Section 2, chapter 624, Oregon Laws 2005, provides:
-
-      Sec. 2. The amendments to ORS 656.283 by section 1 of this 2005 Act apply to requests for hearing made on or after the effective date of this 2005 Act [January 1, 2006]. [2005 c.624 §2]
-
- 
-
-      Note: Section 5, chapter 653, Oregon Laws 2005, provides:
-
-      Sec. 5. The amendments to ORS 656.214 and 656.726 by sections 1 and 3 of this 2005 Act apply to injuries occurring on or after January 1, 2006. [2005 c.653 §5]
-
- 
-
-      Note: Section 8, chapter 675, Oregon Laws 2005, provides:
-
-      Sec. 8. The amendments to ORS 656.325 and 656.780 by sections 1, 2 and 3 of this 2005 Act apply to all claims in which an independent medical examination required under ORS 656.325 is scheduled on or after the effective date of this 2005 Act [January 1, 2006]. [2005 c.675 §8]
-
- 
-
-(Implementation of 2007 Laws)
-
- 
-
-      Note: Section 3, chapter 17, Oregon Laws 2007, provides:
-
-      Sec. 3. (1) The amendments to ORS 656.298 (3) and (5) by section 1 of this 2007 Act apply to petitions for judicial review filed on or after the effective date of this 2007 Act [January 1, 2008].
-
-      (2) The provisions of ORS 656.298 (9) apply to petitions for judicial review pending with the appellate court on the effective date of this 2007 Act and to petitions for judicial review filed on or after the effective date of this 2007 Act. [2007 c.17 §3]
-
- 
-
-      Note: Section 2, chapter 908, Oregon Laws 2007, provides:
-
-      Sec. 2. The amendments to ORS 656.386 by section 1 of this 2007 Act apply to workers’ compensation claims in which the order on the compensability of the claim denial has not become final on or before the effective date of this 2007 Act [January 1, 2008]. [2007 c.908 §2]
-
- 
-
-      Note: Section 4, chapter 908, Oregon Laws 2007, provides:
-
-      Sec. 4. The amendments to ORS 656.388 by section 3 of this 2007 Act apply to all claims in which an order that grants attorney fees is issued after the effective date of this 2007 Act [January 1, 2008], regardless of the date of injury. [2007 c.908 §4]
-
- 
-
-(Implementation of 2009 Laws)
-
- 
-
-      Note: Section 6, chapter 526, Oregon Laws 2009, provides:
-
-      Sec. 6. Regardless of the date of injury, the amendments to ORS 656.262, 656.308, 656.382, 656.385 and 656.386 by sections 1 to 5 of this 2009 Act apply to all claims for which an order is issued on or after the effective date of this 2009 Act [January 1, 2010]. [2009 c.526 §6]
-
- 
-
-(Implementation of 2011 Laws)
-
- 
-
-      Note: Section 2, chapter 80, Oregon Laws 2011, provides:
-
-      Sec. 2. The amendments to ORS 656.313 by section 1 of this 2011 Act apply to settlements of workers’ compensation claims entered into on or after the effective date of this 2011 Act [January 1, 2012]. [2011 c.80 §2]
-
- 
-
-      Note: Section 5, chapter 99, Oregon Laws 2011, provides:
-
-      Sec. 5. The amendments to ORS 656.206, 656.247, 656.268 and 656.325 by sections 1 to 4 of this 2011 Act apply to requests for reconsideration made on or after the effective date of this 2011 Act [January 1, 2012]. [2011 c.99 §5]
-
- 
-
-(Implementation of 2013 Laws)
-
- 
-
-      Note: Section 2, chapter 103, Oregon Laws 2013, provides:
-
-      Sec. 2. The amendments to ORS 656.340 by section 1 of this 2013 Act apply to all claims by workers who are eligible for or actively engaged in vocational training on or after the effective date of this 2013 Act [January 1, 2014]. [2013 c.103 §2]
-
- 
-
-      Note: Section 2, chapter 488, Oregon Laws 2013, provides:
-
-      Sec. 2. The amendments to ORS 656.018 by section 1 of this 2013 Act apply to all claims or causes of action arising on or after the effective date of this 2013 Act [June 24, 2013]. [2013 c.488 §2]
 
  
 
@@ -2150,18 +1840,6 @@ COMPENSATION AND MEDICAL BENEFITS
       (c) As used in this subsection, “attending a program of higher education” means regularly attending community college, college or university, or regularly attending a course of vocational or technical training designed to prepare the participant for gainful employment. A child or dependent enrolled in an educational course load of less than one-half of that determined by the educational facility to constitute “full-time” enrollment is not “attending a program of higher education.”
 
       (7) As used in this section, “average weekly wage” has the meaning for that term provided in ORS 656.211. [Amended by 1957 c.453 §1; 1965 c.285 §22; 1967 c.286 §1; 1969 c.521 §1; 1971 c.415 §1; 1973 c.497 §2; 1974 c.41 §4; 1981 c.535 §4; 1981 c.874 §15; 1985 c.108 §1; 1987 c.235 §1; 1991 c.473 §1; 1995 c.332 §13; 1999 c.927 §2; 2009 c.171 §1; 2015 c.629 §54; 2017 c.71 §2]
-
- 
-
-      Note: See notes under 656.202.
-
- 
-
-      Note: Section 59, chapter 332, Oregon Laws 1995, provides:
-
-      Sec. 59. (1) Surviving spouses without children, whose entitlement to benefits under ORS 656.204 is based on an injury before September 20, 1985, shall have their benefits supplemented from the Retroactive Reserve. The total benefits payable, comprising the benefits in effect on the date of injury plus the Retroactive Reserve supplement, shall be equal to the total benefits payable under the formula prescribed for surviving spouses without children, whose entitlement to benefits is based on an injury occurring on September 20, 1985.
-
-      (2) The provisions of this section apply to benefits for periods beginning on and after the effective date of this 1995 Act [June 7, 1995]. [1995 c.332 §59]
 
  
 
@@ -2229,10 +1907,6 @@ COMPENSATION AND MEDICAL BENEFITS
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.207 [1959 c.589 §2; repealed by 1965 c.285 §95]
 
  
@@ -2291,27 +1965,13 @@ COMPENSATION AND MEDICAL BENEFITS
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.211 “Average weekly wage” defined. As used in ORS 656.210 (1), “average weekly wage” means the average weekly wage of workers in covered employment in Oregon, as determined by the Employment Department, for the last quarter of the calendar year preceding the fiscal year in which compensation is paid and as computed by the Employment Department as of May 15 of each year. [1973 c.614 §4; 1990 c.2 §6]
-
- 
-
-      Note: See notes under 656.202.
-
- 
 
       656.212 Temporary partial disability. When the disability is or becomes partial only and is temporary in character:
 
       (1) No disability payment is recoverable for temporary disability suffered during the first three calendar days after the worker leaves work or loses wages as a result of the compensable injury. If the worker leaves work or loses wages on the day of the injury due to the injury, that day shall be considered the first day of the three-day period.
 
       (2) The payment of temporary total disability pursuant to ORS 656.210 shall cease and the worker shall receive that proportion of the payments provided for temporary total disability which the loss of wages bears to the wage used to calculate temporary total disability pursuant to ORS 656.210. [Amended by 1953 c.672 §2; 1995 c.332 §16; amendments by 1995 c.332 §16a repealed by 1999 c.6 §1; 1999 c.538 §1]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -2366,136 +2026,6 @@ COMPENSATION AND MEDICAL BENEFITS
       (5) A proportionate loss of the hand may be allowed where impairment extends to more than one digit, in lieu of ratings on the individual digits.
 
       (6) All permanent disability contemplates future waxing and waning of symptoms of the condition. The results of waxing and waning of symptoms may include, but are not limited to, loss of earning capacity, periods of temporary total or temporary partial disability, or inpatient hospitalization. [Amended by 1953 c.669 §4; 1955 c.716 §1; 1957 c.449 §1; 1965 c.285 §22d; 1967 c.529 §1; 1971 c.178 §1; 1977 c.557 §1; 1979 c.839 §27; 1981 c.535 §27; 1985 c.506 §3; 1987 c.884 §36; 1990 c.2 §7; 1995 c.332 §17; 1999 c.6 §7; 1999 c.876 §2; 2001 c.865 §6; 2003 c.657 §§1,2; 2005 c.653 §§3,4; 2007 c.274 §1]
-
- 
-
-      Note: See notes under 656.202.
-
- 
-
-(Benefits, January 1, 1992, to December 31, 1995)
-
- 
-
-      Note: Section 2, chapter 745, Oregon Laws 1991, provides:
-
-      Sec. 2. (1) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (2), for injuries occurring during the period beginning January 1, 1992, and ending December 31, 1995, the worker shall receive an amount equal to 71 percent of the average weekly wage times the number of degrees stated against the disability as provided in ORS 656.214 (2) to (4). However, as annual changes in the average weekly wage occur, the amount of the average weekly wage used in calculation of the benefit amount pursuant to this subsection shall not be more than five percent larger than the amount used in the previous year.
-
-      (2)(a) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (5), for injuries occurring during the period beginning January 1, 1992, and ending December 31, 1995, the worker shall receive an amount equal to:
-
-      (A) When the number of degrees stated against the disability as provided in ORS 656.214 (5) is equal to or less than 96, 24 percent of the average weekly wage times the number of degrees.
-
-      (B) When the number of degrees stated against the disability as provided in ORS 656.214 (5) is more than 96 but equal to or less than 192, 24 percent of the average weekly wage times 96 plus 28 percent of the average weekly wage times the number of degrees in excess of 96.
-
-      (C) When the number of degrees stated against the disability as provided in ORS 656.214 (5) is more than 192, 24 percent of the average weekly wage times 96 plus 28 percent of the average weekly wage times 96 plus 71 percent of the average weekly wage times the number of degrees in excess of 192.
-
-      (b) However, as annual changes in the average weekly wage occur, the amount of the average weekly wage used in calculation of the benefit amount pursuant to this subsection shall not be more than five percent larger than the amount used in the previous year.
-
-      (3) Benefits referred to in this section shall be paid on the basis of the benefit amount in effect on the date of injury.
-
-      (4) As used in this section, “average weekly wage” has the meaning for that term provided in ORS 656.211. [1991 c.745 §2; 1995 c.332 §18]
-
- 
-
-(Benefits, January 1, 1996, to December 31, 1997)
-
- 
-
-      Note: Section 20, chapter 332, Oregon Laws 1995, provides:
-
-      Sec. 20. (1) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (2), for injuries occurring during the period beginning January 1, 1996, and ending December 31, 1997, the worker shall receive $420 for each degree stated against the disability as provided in ORS 656.214 (2) to (4).
-
-      (2) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (5), for injuries occurring during the period beginning January 1, 1996, and ending December 31, 1997, the worker shall receive an amount equal to:
-
-      (a) When the number of degrees stated against the disability as provided in ORS 656.214 (5) is equal to or less than 64, $130 times the number of degrees.
-
-      (b) When the number of degrees stated against the disability as provided in ORS 656.214 (5) is more than 64 but equal to or less than 160, $130 times 64 plus $230 times the number of degrees in excess of 64.
-
-      (c) When the number of degrees stated against the disability as provided in ORS 656.214 (5) is more than 160, $130 times 64 plus $230 times 96 plus $625 times the number of degrees in excess of 160.
-
-      (3) Benefits referred to in this section shall be paid on the basis of the benefit amount in effect on the date of injury. [1995 c.332 §20; 1997 c.380 §1]
-
- 
-
-(Benefits, January 1, 1998, to October 23, 1999)
-
- 
-
-      Note: Section 3, chapter 380, Oregon Laws 1997, provides:
-
-      Sec. 3. (1) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (2), for injuries occurring during the period beginning January 1, 1998, and ending on the effective date of this 1999 Act [October 23, 1999], the worker shall receive $454 for each degree stated against the disability as provided in ORS 656.214 (2) to (4).
-
-      (2) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (6), for injuries occurring during the period beginning January 1, 1998, and ending on the effective date of this 1999 Act, the worker shall receive an amount equal to:
-
-      (a) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is equal to or less than 64, $137.80 times the number of degrees.
-
-      (b) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 64 but equal to or less than 160, $137.80 times 64 plus $243.80 times the number of degrees in excess of 64.
-
-      (c) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 160, $137.80 times 64 plus $243.80 times 96 plus $662.50 times the number of degrees in excess of 160.
-
-      (3) Benefits referred to in this section shall be paid on the basis of the benefit amount in effect on the date of injury. [1997 c.380 §3; 1999 c.6 §6]
-
- 
-
-(Benefits, January 1, 2000, to December 31, 2004)
-
- 
-
-      Note: Section 9, chapter 6, Oregon Laws 1999, provides:
-
-      Sec. 9. (1) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (2), for injuries occurring during the period beginning January 1, 2000, and ending December 31, 2004, the worker shall receive $511.29 for each degree stated against the disability as provided in ORS 656.214 (2) to (4).
-
-      (2) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (6), for injuries occurring during the period beginning January 1, 2000, and ending December 31, 2004, the worker shall receive an amount equal to:
-
-      (a) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is equal to or less than 64, $153.00 times the number of degrees.
-
-      (b) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 64 but equal to or less than 160, $267.44 times 64 plus $153.00 times the number of degrees in excess of 64.
-
-      (c) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 160, $153.00 times 64 plus $267.44 times 96 plus $709.79 times the number of degrees in excess of 160.
-
-      (3) Benefits referred to in this section shall be paid on the basis of the benefit amount in effect on the date of injury. [1999 c.6 §9]
-
- 
-
-      Note: Sections 6a and 6b, chapter 865, Oregon Laws 2001, modify benefit amounts paid under section 9, chapter 6, Oregon Laws 1999, for injuries occurring during the period beginning January 1, 2000, and ending July 30, 2001. For benefit amounts paid for injuries occurring during the period beginning July 31, 2001, and ending December 31, 2001, see 656.214.
-
- 
-
-      Note: Sections 6a and 6b, chapter 865, Oregon Laws 2001, provide:
-
-      Sec. 6a. (1) Workers injured between January 1, 2000, and the effective date of this 2001 Act [July 30, 2001] who were awarded permanent partial disability benefits before the effective date of this 2001 Act shall be paid by the Director of the Department of Consumer and Business Services from the Workers’ Benefit Fund an amount equal to the amount that benefits calculated pursuant to section 6b of this 2001 Act are less than the benefits calculated pursuant to ORS 656.214, as amended by section 6 of this 2001 Act.
-
-      (2) The amendments to ORS 656.214 by section 6 of this 2001 Act may not be applied to the benefits awarded to any injured worker during the period beginning January 1, 2000, and ending on the effective date of this 2001 Act in such a manner as to reduce the benefits awarded to that worker pursuant to section 6b of this 2001 Act. [2001 c.865 §6a]
-
-      Sec. 6b. (1) Notwithstanding any other provision of this chapter [ORS chapter 656], for injuries occurring in the period beginning January 1, 2000, and ending on the effective date of this 2001 Act [July 30, 2001], and for which awards have been made during that period, the worker shall receive an amount equal to:
-
-      (a) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is equal to or less than 64, $153.00 times the number of degrees.
-
-      (b) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 64 but equal to or less than 160, $267.44 times 64 plus $153.00 times the number of degrees in excess of 64.
-
-      (c) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 160, $153.00 times 64 plus $267.44 times 96 plus $709.79 times the number of degrees in excess of 160.
-
-      (2) Notwithstanding any other provision of this chapter, for injuries occurring in the period beginning January 1, 2000, and ending on the effective date of this 2001 Act, and for which awards are made after the effective date of this 2001 Act, the worker shall receive payments as provided in ORS 656.214, as amended by section 6 of this 2001 Act. [2001 c.865 §6b]
-
- 
-
-(Benefits, January 1, 2002, to December 31, 2004)
-
- 
-
-      Note: Section 6c, chapter 865, Oregon Laws 2001, provides:
-
-      Sec. 6c. (1) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (2), for injuries occurring during the period beginning January 1, 2002, and ending December 31, 2004, the worker shall receive $559.00 for each degree stated against the disability as provided in ORS 656.214 (2) to (4).
-
-      (2) Notwithstanding the method of calculating permanent partial disability benefit amounts provided in ORS 656.214 (6), for injuries occurring during the period beginning January 1, 2002, and ending December 31, 2004, the worker shall receive an amount equal to:
-
-      (a) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is equal to or less than 64, $184.00 times the number of degrees.
-
-      (b) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 64 but equal to or less than 160, $184.00 times 64 plus $321.00 times the number of degrees in excess of 64.
-
-      (c) When the number of degrees stated against the disability as provided in ORS 656.214 (6) is more than 160, $184.00 times 64 plus $321.00 times 96 plus $748.00 times the number of degrees in excess of 160.
-
-      (3) Benefits referred to in this section shall be paid on the basis of the benefit amount in effect on the date of injury. [2001 c.865 §6c]
 
  
 
@@ -2715,10 +2245,6 @@ COMPENSATION AND MEDICAL BENEFITS
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.246 [Repealed by 1965 c.285 §95]
 
  
@@ -2740,10 +2266,6 @@ COMPENSATION AND MEDICAL BENEFITS
       (c) If the claim for which medical services are provided under subsection (1) of this section is denied and a health benefit plan provides benefits to the worker, after the claim is denied the health benefit plan shall pay for medical services provided according to the terms, conditions and benefits of the plan.
 
       (d) As used in this subsection, “health benefit plan” has the meaning given that term in ORS 743B.005 and also means self-insured benefit plans and health benefit plans offered by the Oregon Educators Benefit Board and the Public Employees’ Benefit Board. [2001 c.865 §14; 2005 c.26 §5; 2011 c.99 §3; 2014 c.94 §1]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -2790,10 +2312,6 @@ COMPENSATION AND MEDICAL BENEFITS
       (12) When a dispute exists between an injured worker, insurer or self-insured employer and a medical service provider regarding either the amount of the fee or nonpayment of bills for compensable medical services, notwithstanding any other provision of this chapter, the injured worker, insurer, self-insured employer or medical service provider may request administrative review by the director. The decision of the director is subject to review under ORS 656.704.
 
       (13) The director may exclude hospitals defined in ORS 442.470 from imposition of a fee schedule authorized by this section upon a determination of economic necessity. [Amended by 1965 c.285 §26; 1969 c.611 §1; 1971 c.329 §1; 1981 c.535 §5; 1983 c.816 §6; 1985 c.107 §1; 1985 c.739 §5; 1987 c.884 §42; 1990 c.2 §14; 1995 c.332 §26; 1999 c.233 §1; 2005 c.26 §6; 2009 c.36 §2]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -2911,7 +2429,7 @@ COMPENSATION AND MEDICAL BENEFITS
 
       (B) Nothing in this paragraph is intended to limit the worker’s right to change primary care physicians or chiropractic physicians prior to the filing of a workers’ compensation claim.
 
-      (C) A chiropractic physician authorized to provide compensable medical treatment under this paragraph may provide services and authorize temporary disability compensation as provided in ORS 656.005 (12)(b)(B) and 656.245 (2)(b). However, the managed care organization may authorize chiropractic physicians to provide medical services and authorize temporary disability payments beyond the periods established in ORS 656.005 (12)(b)(B) and ORS 656.245 (2)(b).
+      (C) A chiropractic physician authorized to provide compensable medical treatment under this paragraph may provide services and authorize temporary disability compensation as provided in ORS 656.005 (12)(b)(B) and 656.245 (2)(b). However, the managed care organization may authorize chiropractic physicians to provide medical services and authorize temporary disability payments beyond the periods established in ORS 656.005 (12)(b)(B) and 656.245 (2)(b).
 
       (D) As used in this paragraph, “primary care physician” means a physician who is qualified to be an attending physician referred to in ORS 656.005 (12)(b)(A) and who is a family practitioner, a general practitioner or an internal medicine practitioner.
 
@@ -2990,10 +2508,6 @@ COMPENSATION AND MEDICAL BENEFITS
       (e)(A) Penalties imposed under this subsection are subject to ORS 656.735 (4) to (6) and 656.740.
 
       (B) Cease and desist orders issued under this subsection are subject to ORS 656.740. [1990 c.2 §12; 1995 c.332 §27; amendments by 1995 c.332 §27a repealed by 1999 c.6 §1; 1997 c.639 §§1,2; 2005 c.26 §8; 2005 c.364 §1; 2007 c.423 §1; 2011 c.98 §1; 2013 c.179 §2]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -3095,10 +2609,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.263 To whom notices sent under ORS 656.262, 656.265, 656.268 to 656.289, 656.295 to 656.325 and 656.382 to 656.388. All notices of proceedings required to be sent under ORS 656.262, 656.265, 656.268 to 656.289, 656.295 to 656.325, 656.382 to 656.388 and this section shall be sent to the employer and the insurer, if any. [1967 c.97 §2; 1975 c.556 §42]
 
  
@@ -3143,10 +2653,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.267 Claims for new and omitted medical conditions. (1) To initiate omitted medical condition claims under ORS 656.262 (6)(d) or new medical condition claims under this section, the worker must clearly request formal written acceptance of a new medical condition or an omitted medical condition from the insurer or self-insured employer. A claim for a new medical condition or an omitted condition is not made by the receipt of medical billings, nor by requests for authorization to provide medical services for the new or omitted condition, nor by actually providing such medical services. The insurer or self-insured employer is not required to accept each and every diagnosis or medical condition with particularity, as long as the acceptance tendered reasonably apprises the claimant and the medical providers of the nature of the compensable conditions. Notwithstanding any other provision of this chapter, the worker may initiate a new medical or omitted condition claim at any time.
 
       (2)(a) Claims properly initiated for new medical conditions and omitted medical conditions related to an initially accepted claim shall be processed pursuant to ORS 656.262.
@@ -3154,10 +2660,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
       (b) If an insurer or self-insured employer denies a claim for a new medical or omitted medical condition, the claimant may request a hearing on the denial pursuant to ORS 656.283.
 
       (3) Notwithstanding subsection (2) of this section, claims for new medical or omitted medical conditions related to an initially accepted claim that have been determined to be compensable and that were initiated after the rights under ORS 656.273 expired shall be processed as requests for relief under the Workers’ Compensation Board’s own motion jurisdiction pursuant to ORS 656.278 (1)(b). [2001 c.865 §10; 2005 c.188 §1]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -3197,7 +2699,7 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
       (d) Any other event that causes temporary disability benefits to be lawfully suspended, withheld or terminated under ORS 656.262 (4) or other provisions of this chapter; or
 
-      (e) Notwithstanding paragraph (c)(C), (D), (E) and (F) of this subsection, the attending physician or nurse practitioner who has authorized temporary disability benefits under ORS 656.245 for a home care worker who has been made a subject worker pursuant to ORS 656.039 advises the home care worker and documents in writing that the home care worker is released to return to modified employment, appropriate modified employment is offered in writing by the Home Care Commission or a designee of the commission to the home care worker for any client of the Department of Human Services who employs a home care worker and the home care worker fails to begin the employment.
+      (e) Notwithstanding paragraph (c)(C), (D), (E) and (F) of this subsection, the attending physician or nurse practitioner who has authorized temporary disability benefits under ORS 656.245 for a home care worker or a personal support worker who has been made a subject worker pursuant to ORS 656.039 advises the home care worker or personal support worker and documents in writing that the home care worker or personal support worker is released to return to modified employment, appropriate modified employment is offered in writing by the Home Care Commission or a designee of the commission to the home care worker or personal support worker for any client of the Department of Human Services who employs a home care worker or personal support worker and the worker fails to begin the employment.
 
       (5)(a) Findings by the insurer or self-insured employer regarding the extent of the worker’s disability in closure of the claim shall be pursuant to the standards prescribed by the director.
 
@@ -3325,11 +2827,7 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
       (b) An insurer or self-insured employer may suspend and offset any compensation payable to the beneficiary of the worker, and recover an overpayment of permanent total disability benefits caused by the failure of the worker’s beneficiaries to notify the insurer or self-insured employer about the death of the worker.
 
-      (15) Conditions that are direct medical sequelae to the original accepted condition shall be included in rating permanent disability of the claim unless they have been specifically denied. [1965 c.285 §31; 1973 c.620 §3; 1973 c.634 §2; 1977 c.804 §5; 1977 c.862 §1; 1979 c.839 §4; 1981 c.535 §7a; 1981 c.854 §19; 1981 c.874 §13; 1985 c.425 §1; 1985 c.600 §8; 1987 c.884 §10; 1990 c.2 §16; 1991 c.502 §1; 1995 c.332 §30; 1997 c.111 §1; 1997 c.382 §1; 1999 c.313 §1; 1999 c.1020 §3; 2001 c.349 §1; 2001 c.377 §63; 2001 c.865 §12; 2003 c.429 §1; 2003 c.657 §§7,8; 2003 c.811 §§11,12; 2005 c.221 §§1,2; 2005 c.461 §§3,4; 2005 c.569 §§1,2; 2007 c.241 §§11,12; 2007 c.270 §§4,5; 2007 c.274 §4; 2007 c.365 §6; 2007 c.835 §§2,3; 2011 c.99 §1; 2015 c.144 §1; 2017 c.68 §1]
-
- 
-
-      Note: See notes under 656.202.
+      (15) Conditions that are direct medical sequelae to the original accepted condition shall be included in rating permanent disability of the claim unless they have been specifically denied. [1965 c.285 §31; 1973 c.620 §3; 1973 c.634 §2; 1977 c.804 §5; 1977 c.862 §1; 1979 c.839 §4; 1981 c.535 §7a; 1981 c.854 §19; 1981 c.874 §13; 1985 c.425 §1; 1985 c.600 §8; 1987 c.884 §10; 1990 c.2 §16; 1991 c.502 §1; 1995 c.332 §30; 1997 c.111 §1; 1997 c.382 §1; 1999 c.313 §1; 1999 c.1020 §3; 2001 c.349 §1; 2001 c.377 §63; 2001 c.865 §12; 2003 c.429 §1; 2003 c.657 §§7,8; 2003 c.811 §§11,12; 2005 c.221 §§1,2; 2005 c.461 §§3,4; 2005 c.569 §§1,2; 2007 c.241 §§11,12; 2007 c.270 §§4,5; 2007 c.274 §4; 2007 c.365 §6; 2007 c.835 §§2,3; 2011 c.99 §1; 2015 c.144 §1; 2017 c.68 §1; 2018 c.75 §29]
 
  
 
@@ -3437,13 +2935,7 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.280 [Amended by 1965 c.285 §41b; renumbered 656.325]
-
- 
 
       656.282 [Amended by 1957 c.455 §1; repealed by 1965 c.285 §95]
 
@@ -3494,10 +2986,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
       (7) Any party shall be entitled to issuance and service of subpoenas under the provisions of ORS 656.726 (2)(c). Any party or representative of the party may serve such subpoenas.
 
       (8) After a party requests a hearing and before the hearing commences, the board, by rule, may require the requesting party, if represented by an attorney, to notify the Administrative Law Judge in writing that the attorney has conferred with the other party and that settlement has been achieved, subject to board approval, or that settlement cannot be achieved. [1965 c.285 §34; 1979 c.839 §7; 1981 c.535 §33; 1981 c.860 §§1,5; 1985 c.600 §9; 1987 c.884 §11; 1990 c.2 §20; 1995 c.332 §34; 1999 c.313 §7; 2003 c.667 §2; 2005 c.26 §11; 2005 c.624 §1; 2009 c.35 §2]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -3567,8 +3055,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
 
       656.292 [Amended by 1965 c.285 §38; renumbered 656.301]
 
- 
-
       656.294 [Amended by 1965 c.285 §37; renumbered 656.304]
 
  
@@ -3588,10 +3074,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
       (7) The order of the board shall be filed and a copy thereof sent by mail to the director and to the parties.
 
       (8) An order of the board is final unless within 30 days after the date of mailing of copies of such order to the parties, one of the parties appeals to the Court of Appeals for judicial review pursuant to ORS 656.298. The order shall contain a statement explaining the rights of the parties under this subsection and ORS 656.298. [1965 c.285 §35a; 1977 c.804 §10; 1987 c.884 §12; 1990 c.2 §22; 1991 c.293 §1; 1999 c.313 §8]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -3634,10 +3116,6 @@ PROCEDURE FOR OBTAINING COMPENSATION
       (b) If the settlement disposes of all issues during the pendency of the petition for judicial review, the appellate court may dismiss the petition for judicial review.
 
       (c) If the settlement disposes of part of the issues during the pendency of the petition for judicial review, the appellate court may limit judicial review to the issues not disposed of by the settlement. [1965 c.285 §36; 1977 c.804 §11; 1987 c.884 §12a; 1997 c.389 §1; 2005 c.188 §3; 2007 c.17 §1]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -3721,10 +3199,6 @@ the Director of the Department of Consumer and Business Services shall, by order
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.310 Presumption concerning notice of injury and self-inflicted injuries; reports as evidence. (1) In any proceeding for the enforcement of a claim for compensation under this chapter, there is a rebuttable presumption that:
 
       (a) Sufficient notice of injury was given and timely filed; and
@@ -3769,13 +3243,7 @@ the Director of the Department of Consumer and Business Services shall, by order
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.314 [Amended by 1965 c.285 §45; renumbered 656.580]
-
- 
 
       656.316 [Amended by 1953 c.428 §2; 1965 c.285 §46; renumbered 656.583]
 
@@ -3802,10 +3270,6 @@ the Director of the Department of Consumer and Business Services shall, by order
       (6) A hearing for failure to process or an allegation that the claim was processed incorrectly shall not be granted unless the request for hearing is filed within two years after the alleged action or inaction occurred.
 
       (7) With respect to objection by a claimant to a notice of closure issued under ORS 656.206, a hearing on the objection shall not be granted unless the request for hearing is filed within 60 days after the notice of closure was mailed to the claimant. [1965 c.285 §41a; 1969 c.206 §1; 1975 c.497 §4; 1983 c.819 §1; 1987 c.884 §14; 1990 c.2 §24; 1995 c.332 §39; 2005 c.461 §6; 2009 c.595 §1041]
-
-Note: See notes under 656.202.
-
- 
 
       656.320 [Amended by 1953 c.428 §2; 1965 c.285 §48; renumbered 656.591]
 
@@ -3852,10 +3316,6 @@ Note: See notes under 656.202.
       (c) If the worker is a person present in the United States in violation of federal immigration laws, the insurer or self-insured employer shall cease payments pursuant to ORS 656.210 and commence payments pursuant to ORS 656.212 when the attending physician or nurse practitioner authorized to provide compensable medical services under ORS 656.245 approves employment in a modified job whether or not such a job is available.
 
       (6) Any party may request a hearing on any dispute under this section pursuant to ORS 656.283. [Formerly 656.280; 1977 c.804 §12; 1977 c.868 §4; 1979 c.839 §29; 1981 c.535 §10; 1981 c.723 §4; 1981 c.854 §23; 1983 c.816 §8; 1985 c.770 §7; 1987 c.884 §43; 1989 c.598 §1; 1990 c.2 §25; 1995 c.332 §40; 2001 c.865 §13; 2003 c.657 §§11,12; 2003 c.811 §§13,14; 2005 c.675 §§1,2; 2007 c.274 §6; 2007 c.365 §7; 2011 c.99 §4]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -3997,10 +3457,6 @@ Note: See notes under 656.202.
 
  
 
-      Note: See notes under 656.202.
-
- 
-
 DISCLOSURE OF WORKER MEDICAL AND VOCATIONAL CLAIM RECORDS
 
  
@@ -4045,10 +3501,6 @@ LEGAL REPRESENTATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.383 Attorney fees in cases prior to decision or after request for hearing. The claimant’s attorney shall be allowed a reasonable assessed attorney fee if:
 
       (1) The claimant’s attorney is instrumental in obtaining temporary disability compensation benefits pursuant to ORS 656.210, 656.212, 656.262, 656.268 or 656.325 prior to a decision by an Administrative Law Judge; or
@@ -4074,10 +3526,6 @@ LEGAL REPRESENTATION
       (4) If upon reaching a final contested case decision where such contested case was initiated by an insurer or self-insured employer it is found that the insurer or self-insured employer initiated the contested case hearing for the purpose of delay or other vexatious reason or without reasonable ground, the director, Administrative Law Judge or court may order the insurer or self-insured employer to pay to the claimant such penalty not exceeding $750 and not less than $100 as may be reasonable in the circumstances.
 
       (5) Penalties and attorney fees awarded pursuant to this section by the director, an Administrative Law Judge or the courts shall be paid for by the employer or insurer in addition to compensation found to be due to the claimant. [1995 c.332 §42d; 2003 c.756 §2; 2005 c.26 §13; 2009 c.526 §4; 2015 c.521 §6]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -4111,10 +3559,6 @@ LEGAL REPRESENTATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.388 Approval of attorney fees required; lien for fees; fee schedule; adjustment; report of legal service costs. (1) No claim or payment for legal services by an attorney representing the worker or for any other services rendered before an Administrative Law Judge or the Workers’ Compensation Board, as the case may be, in respect to any claim or award for compensation to or on account of any person, shall be valid unless approved by the Administrative Law Judge or board, or if proceedings on appeal from the order of the board with respect to such claim or award are had before any court, unless approved by such court. In cases in which a claimant finally prevails after remand from the Supreme Court, Court of Appeals or board, then the Administrative Law Judge, board or appellate court shall approve or allow a reasonable attorney fee for services before every prior forum as authorized under ORS 656.307 (5), 656.308 (2), 656.382 or 656.386. No attorney fees shall be approved or allowed for representation of the claimant before the managed care organization.
 
       (2) Any claim for payment to a claimant’s attorney by the claimant so approved shall, in the manner and to the extent fixed by the Administrative Law Judge, board or such court, be a lien upon compensation.
@@ -4128,10 +3572,6 @@ LEGAL REPRESENTATION
       (6) The board shall approve no claim for legal services by an attorney representing a claimant to be paid by the claimant if fees have been awarded to the claimant or the attorney of the claimant in connection with the same proceeding under ORS 656.268.
 
       (7) Insurers and self-insured employers shall make an annual report to the Director of the Department of Consumer and Business Services reporting attorney salaries and other costs of legal services incurred pursuant to this chapter. The report shall be in such form and shall contain such information as the director prescribes. [Formerly 656.590; 1983 c.568 §3; 1987 c.884 §35; 1990 c.2 §30; 1995 c.332 §44; 2007 c.908 §3; 2015 c.521 §8]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -4475,11 +3915,13 @@ SELF-INSURED AND CARRIER-INSURED EMPLOYERS; INSURERS
 
  
 
-      656.443 Procedure upon default by employer or self-insured employer group. (1) If an employer or self-insured employer group defaults in payment of compensation or other payments due to the Director of the Department of Consumer and Business Services under this chapter, the director may, on notice to the employer or self-insured employer group and any insurer providing workers’ compensation insurance coverage, a surety bond or other security to the employer or self-insured employer group, use money or interest and dividends on securities, sell securities or institute legal proceedings on any insurance policy, surety bond or other security for which a notice of coverage has been filed with the director to the extent necessary to make such payments.
+      656.443 Procedure upon default by employer or self-insured employer group; rules. (1) If an employer or self-insured employer group defaults in payment of compensation or other payments due to the Director of the Department of Consumer and Business Services under this chapter, the director may, on notice to the employer or self-insured employer group and any insurer providing workers’ compensation insurance coverage, a surety bond or other security to the employer or self-insured employer group, use money or interest and dividends on securities, sell securities or institute legal proceedings on any insurance policy, surety bond or other security for which a notice of coverage has been filed with the director to the extent necessary to make such payments.
 
       (2) Before any default by the employer or self-insured employer group, the employer or group is entitled to all interest and dividends on securities on deposit and to exercise all voting rights, stock options and other similar incidents of ownership of the securities.
 
-      (3) If for any reason the certification of a self-insured employer or self-insured employer group is canceled or terminated, the surety bond or other security deposited with the director must remain on deposit or in effect, as the case may be, for a period of at least 62 months after the employer ceases to be a self-insured employer. The surety bond or other security must be maintained in an amount necessary to secure the outstanding and contingent liability arising from the accidental injuries secured by the surety bond or other security and to ensure the payment of claims for aggravation and claims arising under ORS 656.278 based on those accidental injuries. At the expiration of the 62-month period, or of another period the director may consider proper, the director may accept in lieu of the surety bond or other security deposited with the director a policy of paid-up insurance in a form approved by the director.
+      (3)(a) If for any reason the certification of a self-insured employer or self-insured employer group is canceled or terminated, the surety bond or other security deposited with the director must remain on deposit or in effect, as the case may be, for a period of at least 62 months after the employer ceases to be a self-insured employer, unless the director accepts in lieu of the surety bond or other security a policy of paid-up insurance approved by the director. A surety bond or other security that remains on deposit or in effect must be maintained in an amount necessary to secure the outstanding and contingent liability arising from the accidental injuries secured by the surety bond or other security and to ensure the payment of claims for aggravation and claims arising under ORS 656.278 based on those accidental injuries. If the surety bond or other security remains on deposit or in effect at the expiration of the 62-month period, or of another period the director may consider proper, the director may accept in lieu of the surety bond or other security deposited with the director a policy of paid-up insurance in a form approved by the director.
+
+      (b) The director may adopt rules necessary to implement the provisions of this subsection.
 
       (4) If a self-insured employer or self-insured employer group is in default, is decertified by the director or cancels the employer’s or the group’s certification under ORS 656.434, the director may:
 
@@ -4491,7 +3933,7 @@ SELF-INSURED AND CARRIER-INSURED EMPLOYERS; INSURERS
 
       (6) Failure to pay an assessment ordered under subsection (4) of this section subjects members of the self-insured employer group to civil penalties as provided in ORS 656.745.
 
-      (7) A claims processing agent that the director designates under subsection (4) of this section, other than the State Accident Insurance Fund Corporation, may choose the legal counsel the claims processing agent employs for representation under this section. [1975 c.556 §36; 1981 c.854 §31; 1987 c.373 §32; 2007 c.241 §14; 2014 c.48 §6; 2017 c.69 §1]
+      (7) A claims processing agent that the director designates under subsection (4) of this section, other than the State Accident Insurance Fund Corporation, may choose the legal counsel the claims processing agent employs for representation under this section. [1975 c.556 §36; 1981 c.854 §31; 1987 c.373 §32; 2007 c.241 §14; 2014 c.48 §6; 2017 c.69 §1; 2019 c.74 §1]
 
  
 
@@ -4527,8 +3969,6 @@ SELF-INSURED AND CARRIER-INSURED EMPLOYERS; INSURERS
 
       656.452 [Amended by 1965 c.285 §54a; renumbered 656.632]
 
- 
-
       656.454 [Renumbered 656.634]
 
  
@@ -4542,8 +3982,6 @@ SELF-INSURED AND CARRIER-INSURED EMPLOYERS; INSURERS
  
 
       656.456 [Amended by 1955 c.323 §2; 1957 c.63 §1; 1959 c.178 §1; 1961 c.697 §1; 1965 c.285 §62; renumbered 656.636]
-
- 
 
       656.458 [Repealed by 1965 c.285 §95]
 
@@ -4607,31 +4045,21 @@ CHARGES AGAINST EMPLOYERS AND WORKERS
 
       (b) “Employer” means a subject employer as defined in ORS 656.005 (27).
 
-      (2) Every employer shall retain from the moneys earned by all employees an amount determined by the Director of the Department of Consumer and Business Services for each hour or part of an hour the employee is employed and pay the money retained in the manner and at such intervals as the Director of the Department of Consumer and Business Services shall direct.
+      (2) Every employer shall retain from the moneys earned by all employees an amount determined by the Director of the Department of Consumer and Business Services for each hour or part of an hour the employee is employed and pay the money retained in the manner and at such intervals as the director shall specify.
 
-      (3) In addition to all moneys retained under subsection (2) of this section, the director shall assess each employer an amount equal to that assessed pursuant to subsection (2) of this section. The assessment shall be paid in such manner and at such intervals as the director may direct.
+      (3) In addition to all moneys retained under subsection (2) of this section, the director shall assess each employer an amount equal to that assessed pursuant to subsection (2) of this section. The assessment must be paid in such manner and at such intervals as the director may specify.
 
-      (4) Moneys collected pursuant to subsections (2) and (3) of this section, and any accrued cash balances, shall be deposited by the Department of Consumer and Business Services into the Workers’ Benefit Fund. Subject to the limitations in subsections (2) and (3) of this section, the amount of the hourly assessments provided in subsections (2) and (3) of this section annually may be adjusted to meet the needs of the Workers’ Benefit Fund for the expenditures of the department in carrying out its functions and duties pursuant to subsection (7) of this section and ORS 656.445, 656.622, 656.625, 656.628 and 656.630. Factors to be considered in making such adjustment of the assessments shall include, but not be limited to, the cash balance as determined by the director and estimated expenditures and revenues of the Workers’ Benefit Fund.
+      (4) The Department of Consumer and Business Services shall deposit moneys collected pursuant to subsections (2) and (3) of this section, and any accrued cash balances, into the Workers’ Benefit Fund. Subject to the limitations in subsections (2) and (3) of this section, the amount of the hourly assessments provided in subsections (2) and (3) of this section annually may be adjusted to meet the needs of the Workers’ Benefit Fund for the expenditures of the department in carrying out the department’s functions and duties pursuant to subsection (7) of this section and ORS 656.445, 656.622, 656.625, 656.628 and 656.630. Factors to be considered in making such adjustment of the assessments must include, but not be limited to, the cash balance as determined by the director and estimated expenditures and revenues of the Workers’ Benefit Fund.
 
-      (5) It is the intent of the Legislative Assembly that the department set rates for the collection of assessments pursuant to subsections (2) and (3) of this section in a manner so that at the end of the period for which the rates shall be effective, the cash balance shall be an amount of not less than six months of projected expenditures from the Workers’ Benefit Fund in regard to its functions and duties under subsection (7) of this section and ORS 656.445, 656.622, 656.625, 656.628 and 656.630, in a manner that minimizes the volatility of the rates assessed. The department may set the assessment rate at a higher level if the department determines that a higher rate is necessary to avoid unintentional program or benefit reductions in the time period immediately following the period for which the rate is being set.
+      (5) The Legislative Assembly intends that the department set rates for the collection of assessments pursuant to subsections (2) and (3) of this section in a manner so that at the end of the period for which the rates are effective, the balance of the Workers’ Benefit Fund is an amount of not less than 12 months of projected expenditures from the fund in regard to the department’s functions and duties under subsection (7) of this section and ORS 656.445, 656.622, 656.625, 656.628 and 656.630, in a manner that minimizes the volatility of the rates assessed. If the department determines that the balance of the fund will fall below the balance required under this subsection, the department shall devise and report to the Workers’ Compensation Management-Labor Advisory Committee a plan to increase the balance to the required amount. The department may set the assessment rate at a higher level if the department determines that a higher rate is necessary to avoid unintentional program or benefit reductions in the time period immediately following the period for which the rate is being set.
 
-      (6) Every employer required to pay the assessments referred to in this section shall make and file a report of employee hours worked and amounts due under this section upon a combined report form prescribed by the Department of Revenue. The report shall be filed with the Department of Revenue:
+      (6) Every employer required to pay the assessments referred to in this section shall make and file a report of employee hours worked and amounts due under this section upon a combined report form prescribed by the Department of Revenue. The report must be filed with the Department of Revenue:
 
       (a) At the times and in the manner prescribed in ORS 316.168 and 316.171; or
 
       (b) Annually as required or allowed pursuant to ORS 316.197 or 657.571.
 
-      (7) There is established a Retroactive Program for the purpose of providing increased benefits to claimants or beneficiaries eligible to receive compensation under the benefit schedules of ORS 656.204, 656.206, 656.208 and 656.210 which are lower than currently being paid for like injuries. However, benefits payable under ORS 656.210 shall not be increased by the Retroactive Program for claimants whose injury occurred on or after April 1, 1974. Notwithstanding the formulas for computing benefits provided in ORS 656.204, 656.206, 656.208 and 656.210, the increased benefits payable under this subsection shall be in such amount as the director considers appropriate. The director annually shall compute the amount which may be available during the succeeding year for payment of such increased benefits and determine the level of benefits to be paid during such year. If, during such year, it is determined by the director that there are insufficient funds to increase benefits to the level fixed by the director, the director may reduce the level of benefits payable under this subsection. The increase in benefits to workers shall be payable in the first instance by the insurer or self-insured employer subject to reimbursement from the Workers’ Benefit Fund by the director. If the insurer is a member of the Oregon Insurance Guaranty Association and becomes insolvent and the Oregon Insurance Guaranty Association assumes the insurer’s obligations to pay covered claims of subject workers, including Retroactive Program benefits, such benefits shall be payable in the first instance by the Oregon Insurance Guaranty Association, subject to reimbursement from the Workers’ Benefit Fund by the director. [Amended by 1955 c.323 §1; 1965 c.285 §70; 1971 c.768 §1; 1973 c.55 §1; 1974 c.41 §8; 1977 c.143 §2; 1979 c.845 §5; 1983 c.391 §1; 1985 c.739 §1; 1990 c.2 §31; 1993 c.760 §1; 1995 c.332 §63; 1995 c.527 §1; 1995 c.641 §20; 1999 c.118 §1; 2001 c.591 §1; 2001 c.974 §7; 2014 c.48 §7]
-
- 
-
-      Note: See notes under 656.202.
-
- 
-
-      Note: Section 9, chapter 48, Oregon Laws 2014, provides:
-
-      Sec. 9. No later than January 1, 2019, the Workers’ Compensation Management-Labor Advisory Committee established under ORS 656.790 shall study the effects of the amendments to ORS 656.506 by section 7 of this 2014 Act and report to the Legislative Assembly the findings of the committee about the advisability of the continuation of the changes resulting from those amendments. [2014 c.48 §9]
+      (7) There is established a Retroactive Program for the purpose of providing increased benefits to claimants or beneficiaries eligible to receive compensation under the benefit schedules of ORS 656.204, 656.206, 656.208 and 656.210 that are lower than currently being paid for like injuries. However, benefits payable under ORS 656.210 may not be increased by the Retroactive Program for claimants whose injury occurred on or after April 1, 1974. Notwithstanding the formulas for computing benefits provided in ORS 656.204, 656.206, 656.208 and 656.210, the increased benefits payable under this subsection must be in such amount as the director considers appropriate. The director annually shall compute the amount which may be available during the succeeding year for payment of such increased benefits and determine the level of benefits to be paid during such year. If, during such year, it is determined by the director that there are insufficient funds to increase benefits to the level fixed by the director, the director may reduce the level of benefits payable under this subsection. The increase in benefits to workers is payable in the first instance by the insurer or self-insured employer subject to reimbursement from the Workers’ Benefit Fund by the director. If the insurer is a member of the Oregon Insurance Guaranty Association and becomes insolvent and the Oregon Insurance Guaranty Association assumes the insurer’s obligations to pay covered claims of subject workers, including Retroactive Program benefits, the benefits are payable in the first instance by the Oregon Insurance Guaranty Association, subject to reimbursement from the Workers’ Benefit Fund by the director. [Amended by 1955 c.323 §1; 1965 c.285 §70; 1971 c.768 §1; 1973 c.55 §1; 1974 c.41 §8; 1977 c.143 §2; 1979 c.845 §5; 1983 c.391 §1; 1985 c.739 §1; 1990 c.2 §31; 1993 c.760 §1; 1995 c.332 §63; 1995 c.527 §1; 1995 c.641 §20; 1999 c.118 §1; 2001 c.591 §1; 2001 c.974 §7; 2014 c.48 §7; 2019 c.494 §1]
 
  
 
@@ -4702,8 +4130,6 @@ CHARGES AGAINST EMPLOYERS AND WORKERS
  
 
       656.532 [1987 c.884 §40; repealed by 1993 c.760 §4]
-
- 
 
       656.535 [1973 c.669 §2; repealed by 1973 c.669 §4]
 
@@ -4909,10 +4335,6 @@ RECOVERY AGAINST THIRD PERSONS AND NONCOMPLYING EMPLOYERS
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.595 Precedence of cause of action; compensation paid or payable not to be an issue. (1) Any action brought against a third party or employer, as provided in this chapter, shall have precedence over all other civil cases.
 
       (2) In any third party action brought pursuant to this chapter, the fact that the injured worker or the beneficiaries of the injured worker are entitled to or have received benefits under this chapter shall not be pleaded or admissible in evidence.
@@ -4930,8 +4352,6 @@ RECOVERY AGAINST THIRD PERSONS AND NONCOMPLYING EMPLOYERS
  
 
       656.597 [Formerly 656.326; repealed by 1971 c.70 §2]
-
- 
 
 FUNDS; SOURCE; INVESTMENT; DISBURSEMENT
 
@@ -4984,10 +4404,6 @@ FUNDS; SOURCE; INVESTMENT; DISBURSEMENT
       (b) Moneys received pursuant to ORS 656.506 and the transfers of unexpended and unobligated moneys in the Retroactive Reserve, Reemployment Assistance Reserve, Reopened Claims Reserve and Handicapped Workers Reserve referred to in ORS 656.506, 656.622, 656.625 and 656.628 (All 1993 Edition) may be expended only to carry out the programs referred to in ORS 656.506, 656.622, 656.625, 656.628 and 656.630.
 
       (4) Notwithstanding any other provision of this chapter, if the director determines at any time that there are insufficient moneys in the Workers’ Benefit Fund to pay the expenses of programs for which expenditure of the fund is authorized, the director may reduce the level of benefits payable accordingly. [1995 c.641 §15; 1999 c.273 §3; 2001 c.865 §5; 2001 c.974 §8; 2002 s.s.2 c.4 §4; 2005 c.461 §5; 2005 c.588 §5; 2011 c.597 §267]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -5069,10 +4485,6 @@ FUNDS; SOURCE; INVESTMENT; DISBURSEMENT
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.624 [Formerly 656.584; 1983 c.740 §244; repealed by 1987 c.250 §1]
 
  
@@ -5082,10 +4494,6 @@ FUNDS; SOURCE; INVESTMENT; DISBURSEMENT
       (2) Notwithstanding any other provision of law, any reimbursement from the Workers’ Benefit Fund for the purposes of the Reopened Claims Program shall be in such amounts payable to an injured worker pursuant to ORS 656.278 and only to the extent that moneys are available in the fund as determined by the Director of the Department of Consumer and Business Services.
 
       (3) The director, by rule, shall prescribe the form and manner of requesting reimbursement under this section, the amount payable and such other matters as may be necessary for the administration of this section. [1987 c.884 §39; 1995 c.332 §49a; 1995 c.641 §22; 2001 c.865 §11a]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -5164,8 +4572,6 @@ FUNDS; SOURCE; INVESTMENT; DISBURSEMENT
  
 
       656.637 [1979 c.334 §2; 1983 c.391 §3; repealed by 1985 c.739 §3]
-
- 
 
       656.638 [Formerly 656.460; 1969 c.536 §4; 1971 c.768 §5; 1977 c.804 §22; repealed by 1981 c.854 §1]
 
@@ -5417,10 +4823,6 @@ ADMINISTRATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       656.727 Rules for administration of benefit offset. In carrying out the provisions of ORS 656.209, the Department of Consumer and Business Services shall promulgate rules that include, but are not limited to:
 
       (1) Requiring injured workers to make application for federal Social Security disability benefits.
@@ -5501,19 +4903,23 @@ ADMINISTRATION
 
  
 
-      656.745 Civil penalty for inducing failure to report claims; failure to pay assessments; failure to comply with statutes, rules or orders; amount; procedure. (1) The Director of the Department of Consumer and Business Services shall assess a civil penalty against an employer or insurer who intentionally or repeatedly induces claimants for compensation to fail to report accidental injuries, causes employees to collect accidental injury claims as off-the-job injury claims, persuades claimants to accept less than the compensation due or makes it necessary for claimants to resort to proceedings against the employer to secure compensation due.
+      656.745 Civil penalty for inducing failure to report claims; limits on penalty amounts; failure to pay assessments; failure to comply with statutes, rules or orders; amount; procedure. (1)(a) The Director of the Department of Consumer and Business Services shall assess a civil penalty against an employer or insurer that intentionally or repeatedly induces claimants for compensation to fail to report accidental injuries, causes employees to collect accidental injury claims as off-the-job injury claims, persuades claimants to accept less than the compensation due or makes it necessary for claimants to resort to proceedings against the employer to secure compensation due.
 
-      (2) The director may assess a civil penalty against an employer, insurer, managed care organization or service company that:
+      (b) The director may not assess under this subsection more than $2,000 for each violation or more than $40,000 in the aggregate for violations during a calendar year. Each violation, or each day during which a violation continues, constitutes a separate violation.
 
-      (a) Fails to pay assessments or other payments due to the director under this chapter and is in default; or
+      (2)(a) The director may assess a civil penalty against an employer, self-insured employer, insurer, managed care organization or service company that:
 
-      (b) Fails to comply with statutes, rules or orders of the director regarding reports or other requirements necessary to carry out the purposes of this chapter.
+      (A) Fails to pay assessments or other payments due to the director under this chapter and is in default; or
 
-      (3) Except as specified in ORS 656.780, the director may assess a penalty against a service company only for claims processing performance deficiencies revealed in annual audits associated with claims processing performance. The director may assess only one penalty for each separate violation by an employer, insurer or service company for deficiencies revealed in annual audits associated with claims processing performance.
+      (B) Fails to comply with statutes, rules or orders of the director regarding reports or other requirements necessary to carry out the purposes of this chapter.
 
-      (4) A civil penalty shall be not more than $2,000 for each violation or $10,000 in the aggregate for all violations within any three-month period. Each violation, or each day a violation continues, shall be considered a separate violation.
+      (b) The director may not assess under this subsection a civil penalty against a self-insured employer, insurer or service company that exceeds $4,000 for each violation or $180,000 in the aggregate for violations during a calendar year. Each violation, or each day during which a violation continues, constitutes a separate violation.
 
-      (5) ORS 656.735 (4) to (6) and 656.740 also apply to orders and penalties assessed under this section. [1975 c.556 §38; 1979 c.839 §31; 1987 c.233 §2; 1987 c.884 §46; 2003 c.170 §13; 2005 c.221 §3; 2007 c.270 §9; 2015 c.194 §1]
+      (c) The director may not assess under this subsection a civil penalty against an employer, except a self-insured employer, or managed care organization that exceeds $2,000 for each violation or $40,000 in the aggregate for violations during a calendar year. Each violation, or each day during which a violation continues, constitutes a separate violation.
+
+      (3) Except as specified in ORS 656.780, the director may assess a penalty under subsection (2) of this section against a service company only for claims processing performance deficiencies revealed in annual audits associated with claims processing performance. The director may assess only one penalty for each separate violation by an employer, insurer or service company for deficiencies revealed in annual audits associated with claims processing performance.
+
+      (4) ORS 656.735 (4) to (6) and 656.740 also apply to orders and penalties assessed under this section. [1975 c.556 §38; 1979 c.839 §31; 1987 c.233 §2; 1987 c.884 §46; 2003 c.170 §13; 2005 c.221 §3; 2007 c.270 §9; 2015 c.194 §1; 2019 c.7 §1]
 
  
 
@@ -5569,7 +4975,7 @@ ADMINISTRATION
 
       (8) With the approval of the Director of the Department of Consumer and Business Services, the State Accident Insurance Fund Corporation may provide reinsurance coverage to Oregon employers on such terms and conditions as the State Accident Insurance Fund Corporation deems reasonable.
 
-      (9) The State Accident Insurance Fund Corporation may contract with the Oregon Department of Administrative Services to provide claim management services for claims filed under ORS 655.505 to 655.555 by inmates of institutions of the Department of Corrections. [1965 c.285 §55; 1965 c.564 §7; 1967 c.253 §1; 1969 c.247 §2; 1971 c.262 §1; 1977 c.659 §3; 1979 c.815 §10; 1979 c.829 §5a; 1981 c.854 §52; 1981 c.876 §7; 1990 c.1 §3; 2007 c.326 §1]
+      (9) The State Accident Insurance Fund Corporation may contract with the Oregon Department of Administrative Services to provide claim management services for claims filed under ORS 655.505 to 655.555 by adults in custody of institutions of the Department of Corrections. [1965 c.285 §55; 1965 c.564 §7; 1967 c.253 §1; 1969 c.247 §2; 1971 c.262 §1; 1977 c.659 §3; 1979 c.815 §10; 1979 c.829 §5a; 1981 c.854 §52; 1981 c.876 §7; 1990 c.1 §3; 2007 c.326 §1; 2019 c.213 §150]
 
  
 
@@ -5588,8 +4994,6 @@ ADMINISTRATION
       (2) The manager has such powers as are necessary to carry out the functions of the State Accident Insurance Fund Corporation, subject to policy direction by the board of directors.
 
       (3) The manager may employ, terminate and supervise the employment of such assistants, experts, field personnel and clerks as may be required in the administration of the State Accident Insurance Fund Corporation. [1965 c.285 §56; 1973 c.792 §29; 1979 c.829 §6]
-
- 
 
       656.756 [1965 c.285 §56a; repealed by 1967 c.7 §40]
 
@@ -5681,10 +5085,6 @@ ADMINISTRATION
 
  
 
-      Note: See notes under 656.202.
-
- 
-
       Note: Section 14 (1), chapter 781, Oregon Laws 2003, provides:
 
       Sec. 14. Funds for repayment of certain reinsurance claims. (1) The State Accident Insurance Fund Corporation shall continue paying reinsurance claims incurred or made prior to January 1, 2012, from the Rural Medical Liability Reinsurance Fund until the State Accident Insurance Fund Corporation has extinguished its liabilities for reinsurance issued under section 1, chapter 781, Oregon Laws 2003, by payment of claims or by purchase of reinsurance. Purchase of reinsurance under this subsection shall be subject to approval by the Director of the Department of Consumer and Business Services. [2003 c.781 §14(1); 2007 c.574 §4(1)]
@@ -5697,7 +5097,7 @@ ADMINISTRATION
 
       656.790 Workers’ Compensation Management-Labor Advisory Committee; membership; duties; expenses. (1) The Governor shall appoint a Workers’ Compensation Management-Labor Advisory Committee composed of 10 appointed members. Five members from organized labor shall represent subject workers and five members shall represent subject employers. In addition to the appointed members, the Director of the Department of Consumer and Business Services shall serve ex officio as a member of the committee. The appointment of members of the committee is subject to confirmation by the Senate in the manner prescribed in ORS 171.562 and 171.565.
 
-      (2) The director may recommend areas of the law which the director desires to have studied or the committee may study such aspects of the law as the committee shall determine require their consideration. The committee shall biennially review the standards for evaluation of permanent disability adopted under ORS 656.726 and shall recommend to the director factors to be included or such other modification of application of the standards as the committee considers appropriate. The committee shall biennially review and make recommendations about permanent partial disability benefits. The committee shall advise the director regarding any proposed changes in the operation of programs funded by the Workers’ Benefit Fund. The committee shall report its findings to the director for such action as the director deems appropriate.
+      (2) The director may recommend areas of the law which the director desires to have studied or the committee may study such aspects of the law as the committee shall determine require their consideration. The committee shall biennially review the standards for evaluation of permanent disability adopted under ORS 656.726 and shall recommend to the director factors to be included or such other modification of application of the standards as the committee considers appropriate. The committee shall biennially review and make recommendations about permanent partial disability benefits. The committee shall advise the director regarding any proposed changes in the operation of programs funded by the Workers’ Benefit Fund and shall review any plan the Department of Consumer and Business Services devises to increase the balance of the fund to meet the requirement set forth in ORS 656.506 (5). The committee shall report the committee’s findings to the director for such action as the director deems appropriate.
 
       (3) The committee shall report to the Legislative Assembly such findings and recommendations as the committee considers appropriate, including a report on the following matters:
 
@@ -5711,11 +5111,7 @@ ADMINISTRATION
 
       (e) The operation of programs funded by the Workers’ Benefit Fund.
 
-      (4) The members of the committee shall be appointed for a term of three years and shall serve without compensation, but shall be entitled to travel expenses. The committee may hire, subject to approval of the director, such experts as it may require to discharge its duties. All expenses of the committee shall be paid out of the Consumer and Business Services Fund. [1969 c.448 §2; 1975 c.556 §49; 1977 c.804 §32; 1990 c.2 §41; 1995 c.332 §55b; 1995 c.641 §25; 2007 c.274 §7; 2017 c.63 §1]
-
- 
-
-      Note: See notes under 656.202.
+      (4) The members of the committee are appointed for a term of three years and shall serve without compensation, but are entitled to travel expenses. The committee may hire, subject to approval of the director, such experts as the committee may require to discharge the committee’s duties. All expenses of the committee must be paid out of the Consumer and Business Services Fund. [1969 c.448 §2; 1975 c.556 §49; 1977 c.804 §32; 1990 c.2 §41; 1995 c.332 §55b; 1995 c.641 §25; 2007 c.274 §7; 2017 c.63 §1; 2019 c.494 §2]
 
  
 
@@ -5777,7 +5173,7 @@ OCCUPATIONAL DISEASE LAW
 
  
 
-      656.802 Occupational disease; mental disorder; proof. (1)(a) As used in this chapter, “occupational disease” means any disease or infection arising out of and in the course of employment caused by substances or activities to which an employee is not ordinarily subjected or exposed other than during a period of regular actual employment therein, and which requires medical services or results in disability or death, including:
+      656.802 Occupational disease; mental disorder; presumptions as to stress disorders; proof. (1)(a) As used in this chapter, “occupational disease” means any disease or infection arising out of and in the course of employment caused by substances or activities to which an employee is not ordinarily subjected or exposed other than during a period of regular actual employment therein, and which requires medical services or results in disability or death, including:
 
       (A) Any disease or infection caused by ingestion of, absorption of, inhalation of or contact with dust, fumes, vapors, gases, radiation or other substances.
 
@@ -5831,15 +5227,53 @@ OCCUPATIONAL DISEASE LAW
 
       (h) For purposes of this subsection, “nonvolunteer firefighter” means a firefighter who performs firefighting services and receives salary, hourly wages equal to or greater than the state minimum wage, or other compensation except for room, board, lodging, housing, meals, stipends, reimbursement for expenses or nominal payments for time and travel, regardless of whether any such compensation is subject to federal, state or local taxation. “Nominal payments for time and travel” includes, but is not limited to, payments for on-call time or time spent responding to a call or similar noncash benefits.
 
-      (6) Notwithstanding ORS 656.027 (6), any city providing a disability and retirement system by ordinance or charter for firefighters and police officers not subject to this chapter shall apply the presumptions established under subsection (5) of this section when processing claims for firefighters covered by the system. [Amended by 1959 c.351 §1; 1961 c.583 §1; 1973 c.543 §1; 1977 c.734 §1; 1983 c.236 §1; 1987 c.713 §4; 1990 c.2 §43; 1995 c.332 §56; 2009 c.24 §1]
+      (6) Notwithstanding ORS 656.027 (6), any city providing a disability and retirement system by ordinance or charter for firefighters and police officers not subject to this chapter shall apply the presumptions established under subsection (5) of this section when processing claims for firefighters covered by the system.
+
+      (7)(a) As used in this subsection:
+
+      (A) “Acute stress disorder” has the meaning given that term in the DSM-5.
+
+      (B) “Covered employee” means an individual who, on the date a claim is filed under this chapter:
+
+      (i) Was employed for at least five years by, or experienced a single traumatic event that satisfies the criteria set forth in the DSM-5 as Criterion A for diagnosing post-traumatic stress disorder while employed by, the state, a political subdivision of the state, a special government body, as defined in ORS 174.117, or a public agency in any of these occupations:
+
+      (I) A full-time paid firefighter;
+
+      (II) A full-time paid emergency medical services provider;
+
+      (III) A full-time paid police officer;
+
+      (IV) A full-time paid corrections officer or youth correction officer;
+
+      (V) A full-time paid parole and probation officer; or
+
+      (VI) A full-time paid emergency dispatcher or 9-1-1 emergency operator; and
+
+      (ii) Remains employed in an occupation listed in sub-subparagraph (i) of this subparagraph or separated from employment in the occupation not more than seven years previously.
+
+      (C) “DSM-5” means the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
+
+      (D) “Post-traumatic stress disorder” has the meaning given that term in the DSM-5.
+
+      (E) “Psychiatrist” means a psychiatrist whom the Oregon Medical Board has licensed and certified as eligible to diagnose the conditions described in this subsection.
+
+      (F) “Psychologist” means a licensed psychologist, as defined in ORS 675.010, whom the Oregon Board of Psychology has certified as eligible to diagnose the conditions described in this subsection.
+
+      (b) Notwithstanding subsections (2) and (3) of this section, if a covered employee establishes through a preponderance of persuasive medical evidence from a psychiatrist or psychologist that the covered employee has more likely than not satisfied the diagnostic criteria in the DSM-5 for post-traumatic stress disorder or acute stress disorder, any resulting death, disability or impairment of health of the covered employee shall be presumed to be compensable as an occupational disease. An insurer or self-insured employer may rebut the presumption only by establishing through clear and convincing medical evidence that duties as a covered employee were not of real importance or great consequence in causing the diagnosed condition.
+
+      (c) An insurer’s or self-insured employer’s acceptance of a claim of post-traumatic stress disorder or acute stress disorder under this subsection, whether the acceptance was voluntary or was a result of a judgment or order, does not preclude the insurer or the self-insured employer from later denying the current compensability of the claim if exposure as a covered employee to trauma that meets the diagnostic criteria set forth as Criterion A in the DSM-5 for post-traumatic stress disorder or acute stress disorder ceases being of real importance or great consequence in causing the disability, impairment of health or a need for treatment.
+
+      (d) An insurer or self-insured employer may deny a claim under paragraph (c) of this subsection only on the basis of clear and convincing medical evidence.
+
+      (e) Notwithstanding ORS 656.027 (6), a city that provides a disability or retirement system for firefighters and police officers by ordinance or charter that is not subject to this chapter, when accepting and processing claims for death, disability or impairment of health from firefighters and police officers covered by the disability or retirement system, shall apply:
+
+      (A) The provisions of this subsection; and
+
+      (B) For claims filed under this subsection, the time limitations for filing claims that are set forth in ORS 656.807 (1) and (2). [Amended by 1959 c.351 §1; 1961 c.583 §1; 1973 c.543 §1; 1977 c.734 §1; 1983 c.236 §1; 1987 c.713 §4; 1990 c.2 §43; 1995 c.332 §56; 2009 c.24 §1; 2019 c.372 §1]
 
  
 
       656.804 Occupational disease as an injury under Workers’ Compensation Law. Subject to ORS 656.005 (24) and 656.266 (2), an occupational disease, as defined in ORS 656.802, is considered an injury for employees of employers who have come under this chapter, except as otherwise provided in ORS 656.802 to 656.807. [Amended by 1965 c.285 §87; 1973 c.543 §2; 2001 c.865 §4]
-
- 
-
-      Note: See notes under 656.202.
 
  
 
@@ -5869,15 +5303,9 @@ OCCUPATIONAL DISEASE LAW
 
       656.812 [Amended by 1959 c.351 §4; repealed by 1973 c.543 §4]
 
- 
-
       656.814 [Amended by 1965 c.285 §90; repealed by 1973 c.543 §4]
 
- 
-
       656.816 [Amended by 1959 c.351 §5; 1965 c.285 §91; repealed by 1973 c.543 §4]
-
- 
 
       656.818 [Amended by 1959 c.351 §6; 1965 c.285 §92; repealed by 1973 c.543 §4]
 

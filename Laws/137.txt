@@ -4,20 +4,6 @@ Chapter 137 — Judgment and Execution; Parole and Probation by the Court
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0098; 2018 Session Laws 0120
-
- 
-
- 
-
 
  
 
@@ -183,7 +169,7 @@ JUDGMENT
 
  
 
-137.124     Commitment of defendant to Department of Corrections or county; place of confinement; transfer of inmates; juveniles
+137.124     Commitment of defendant to Department of Corrections or county; place of confinement; transfer of adults in custody; juveniles
 
  
 
@@ -307,6 +293,10 @@ JUDGMENT
 
  
 
+137.222     Motion for reduction of marijuana conviction offense classification; entry of amended judgment
+
+ 
+
 137.223     Order setting aside judgment of guilty except for insanity; fees; procedure; effect of order
 
  
@@ -319,7 +309,7 @@ JUDGMENT
 
  
 
-(Temporary provisions relating to Certificates of Good Standing are compiled as notes following ORS 137.226)
+                  (Temporary provisions relating to Certificates of Good Standing are compiled as notes following ORS 137.226)
 
  
 
@@ -487,7 +477,7 @@ PROBATION AND PAROLE BY COMMITTING MAGISTRATE
 
  
 
-137.520     Power of committing magistrate to parole and grant temporary release to persons confined in county jail; authority of sheriff to release county jail inmates; disposition of work release earnings
+137.520     Power of committing magistrate to parole and grant temporary release to persons confined in county jail; authority of sheriff to release persons confined in county jail; disposition of work release earnings
 
  
 
@@ -619,7 +609,7 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
-137.658     Authority of chairperson to create committees within commission
+137.658     Authority of chairperson to create committees within commission; Justice Reinvestment Program advisory committee; report to legislature
 
  
 
@@ -643,7 +633,19 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
+137.672     Aggravating factor sentencing rules relating to gender identity of victim
+
+ 
+
 137.673     Validity of rules
+
+ 
+
+137.676     Development of method for district attorneys to record and report bias-related crime data; rules
+
+ 
+
+137.678     Analysis of bias-related crime and incident data; annual report; rules
 
  
 
@@ -659,19 +661,19 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
-(Temporary provisions relating to Justice Reinvestment Program are compiled as notes following ORS 137.685)
+                  (Temporary provisions relating to Justice Reinvestment Program are compiled as notes following ORS 137.685)
 
  
 
-(Temporary provisions relating to Safety and Savings Act are compiled as notes following ORS 137.685)
+                  (Temporary provisions relating to Safety and Savings Act are compiled as notes following ORS 137.685)
 
  
 
-(Temporary provisions relating to studies and reports by commission are compiled as notes following ORS 137.685)
+                  (Temporary provisions relating to studies of local and regional correctional facilities by commission are compiled as notes following ORS 137.685)
 
  
 
-PRESUMPTIVE SENTENCES, MANDATORY MINIMUM SENTENCES AND ADULT PROSECUTION OF 15-, 16- AND 17-YEAR-OLD OFFENDERS
+PRESUMPTIVE SENTENCES, MANDATORY MINIMUM SENTENCES AND ADULT PROSECUTION OF CERTAIN JUVENILE OFFENDERS
 
  
 
@@ -687,11 +689,11 @@ PRESUMPTIVE SENTENCES, MANDATORY MINIMUM SENTENCES AND ADULT PROSECUTION OF 15-,
 
  
 
-137.705     Definitions for ORS 137.705 and 137.707
+137.705     Definitions; adult prosecution of certain juvenile offenders
 
  
 
-137.707     Adult prosecution of 15-, 16- or 17-year-old offenders; mandatory minimum sentences; lesser included offenses; transfer to juvenile court
+137.707     Mandatory minimum sentences for certain juvenile offenders waived to adult court; lesser included offenses; return to juvenile court
 
  
 
@@ -887,9 +889,11 @@ To any peace officer in the State of Oregon, greeting:
 
       A B having been on the ______ day of______, 2___, convicted in this court of the crime of (designating it generally), you are commanded to arrest the above-named defendant forthwith and bring the defendant before such court for judgment or, if the court has adjourned, deliver the defendant into the custody of the jailor of this county. By order of the court.
 
-      Witness my hand and seal of said circuit court, affixed at______, in said county, this ______ day of______, 2___.
+      Witness my hand and seal of said circuit court, affixed at ______, in said county, this ______ day of______, 2___.
 
       [L. S.]
+
+ 
 
 C D, Clerk of the Court
 
@@ -921,9 +925,17 @@ ______________________________________________________________________________ [
 
       (h) Include the identities of the attorney for the state and the attorney, if any, for the defendant.
 
+      (i) If the court sentences the defendant to a term of incarceration, and the physical custody of the defendant as determined by ORS 137.124 is related to the age of the defendant at the time of committing an offense, indicate the age of the defendant at the time of committing the offense.
+
       (3) A judgment document in a criminal action that includes a money award, as defined in ORS 18.005, must comply with ORS 18.048.
 
-      (4) The requirements of this section do not apply to a judgment document if the action was commenced by the issuance of a uniform citation adopted under ORS 1.525 and the court has used the space on the citation for the entry of a judgment. The exemption provided by this subsection does not apply if any indictment, information or complaint other than a uniform citation is filed in the action. [1989 c.472 §2; 1995 c.117 §1; 1997 c.526 §3; 2001 c.962 §88; 2003 c.300 §§1,2; 2003 c.576 §162]
+      (4) The requirements of this section do not apply to a judgment document if the action was commenced by the issuance of a uniform citation adopted under ORS 1.525 and the court has used the space on the citation for the entry of a judgment. The exemption provided by this subsection does not apply if any indictment, information or complaint other than a uniform citation is filed in the action.
+
+      (5) For the purposes of determining the defendant’s age at the time of committing an offense under subsection (2) of this section:
+
+      (a) If the defendant is convicted of two or more offenses occurring on different days, the defendant’s age shall be calculated using the earliest date.
+
+      (b) If the defendant is convicted of an offense occurring within a range of dates, the defendant’s age shall be calculated using the date at the beginning of the range. [1989 c.472 §2; 1995 c.117 §1; 1997 c.526 §3; 2001 c.962 §88; 2003 c.300 §§1,2; 2003 c.576 §162; 2019 c.634 §1]
 
  
 
@@ -1257,41 +1269,7 @@ ______________________________________________________________________________ [
 
       (7) If the Collections Unit determines that refunds or other sums are owed to the debtor, the department shall deduct the amount of the debt from any refunds or other sums owed to the debtor by the department. After also deducting costs of its actions under subsections (6) to (8) of this section, the department shall remit the amount deducted from refunds or other sums owed to the debtor to the municipal court that assigned the judgment.
 
-      (8) A debtor whose account is assigned to the Department of Revenue for setoff under subsections (6) to (8) of this section is entitled to the notice required by ORS 293.250 (3)(d). [1993 c.531 §1; 1995 c.512 §2; 1997 c.801 §99; 1999 c.64 §1; 2001 c.823 §19; 2003 c.375 §1; subsections (6) to (8) of 2005 Edition enacted as 2005 c.501 §1; 2005 c.501 §2; 2015 c.766 §10; 2017 c.746 §22]
-
- 
-
-      Note: The amendments to 137.118 by section 22, chapter 746, Oregon Laws 2017, become operative July 1, 2018. See section 24, chapter 746, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      137.118. (1) Judgments in criminal actions that impose monetary obligations, including judgments requiring the payment of fines, costs, assessments, compensatory fines, attorney fees, forfeitures or restitution, may be assigned by the state, by a municipal court or by a justice court for collection.
-
-      (2)(a) The state may assign a judgment to the Department of Revenue or a private collection agency.
-
-      (b) A justice court may assign a judgment to a private collection agency or, in a criminal action, to the Department of Revenue for the purposes described in ORS 156.315.
-
-      (c) A municipal court may assign a judgment to:
-
-      (A) A private collection agency; or
-
-      (B) The Department of Revenue for the purposes described in subsections (6) to (8) of this section, if the judgment was entered in a criminal action and part of the judgment is payable to the State of Oregon.
-
-      (d) Nothing in this subsection limits the right of a municipal court or a justice court to assign for collection judgments in matters other than criminal actions.
-
-      (3) A municipal or justice court may add to any judgment in a criminal action that includes a monetary obligation a fee for the cost of collection if the court gives the defendant a period of time to pay the obligation after the date of imposition of the sentence or after the date of the hearing or proceeding that results in the imposition of the financial obligation. The fee may not exceed 25 percent of the monetary obligation imposed by the court without the addition of the cost of collection and may not be more than $250. The fee shall be waived or suspended by the court if the defendant pays the monetary obligation in the manner required by the court.
-
-      (4) A state court shall add to any judgment in a criminal action that includes a monetary obligation the fees required by ORS 1.202.
-
-      (5) As used in subsections (1) to (5) of this section, “criminal action” has the meaning given that term in ORS 131.005.
-
-      (6) If part of a judgment in a criminal action, as described in subsections (1) to (5) of this section, is payable to the State of Oregon, a municipal court may assign the judgment to the Collections Unit in the Department of Revenue for the following purposes:
-
-      (a) To determine whether refunds or other sums are owed to the debtor by the department; and
-
-      (b) To deduct the amount of debt from any refunds or other sums owed to the debtor by the department.
-
-      (7) If the Collections Unit determines that refunds or other sums are owed to the debtor, the department shall deduct the amount of the debt from any refunds or other sums owed to the debtor by the department. After also deducting costs of its actions under subsections (6) to (8) of this section, the department shall remit the amount deducted from refunds or other sums owed to the debtor to the municipal court that assigned the judgment.
-
-      (8) A debtor whose account is assigned to the Department of Revenue for setoff under subsections (6) to (8) of this section is entitled to the notice required by ORS 293.250 (3)(e) and to the opportunity for payment in ORS 293.250 (3)(d).
+      (8) A debtor whose account is assigned to the Department of Revenue for setoff under subsections (6) to (8) of this section is entitled to the notice required by ORS 293.250 (5)(d). [1993 c.531 §1; 1995 c.512 §2; 1997 c.801 §99; 1999 c.64 §1; 2001 c.823 §19; 2003 c.375 §1; subsections (6) to (8) of 2005 Edition enacted as 2005 c.501 §1; 2005 c.501 §2; 2015 c.766 §10; 2017 c.746 §22; 2019 c.359 §3]
 
  
 
@@ -1343,7 +1321,7 @@ ______________________________________________________________________________ [
 
  
 
-      137.124 Commitment of defendant to Department of Corrections or county; place of confinement; transfer of inmates; juveniles. (1) If the court imposes a sentence upon conviction of a felony that includes a term of incarceration that exceeds 12 months:
+      137.124 Commitment of defendant to Department of Corrections or county; place of confinement; transfer of adults in custody; juveniles. (1) If the court imposes a sentence upon conviction of a felony that includes a term of incarceration that exceeds 12 months:
 
       (a) The court shall not designate the correctional facility in which the defendant is to be confined but shall commit the defendant to the legal and physical custody of the Department of Corrections; and
 
@@ -1353,11 +1331,11 @@ ______________________________________________________________________________ [
 
       (b) Notwithstanding paragraph (a) of this subsection, when the court imposes a sentence upon conviction of a felony that includes a term of incarceration that is 12 months or less, the court shall commit the defendant to the legal and physical custody of the Department of Corrections if the court orders that the term of incarceration be served consecutively to a term of incarceration that exceeds 12 months that was imposed in a previous proceeding or in the same proceeding by a court of this state upon conviction of a felony.
 
-      (3) After assuming custody of the convicted person the Department of Corrections may transfer inmates from one correctional facility to another such facility for the purposes of diagnosis and study, rehabilitation and treatment, as best seems to fit the needs of the inmate and for the protection and welfare of the community and the inmate.
+      (3) After assuming custody of the convicted person the Department of Corrections may transfer adults in custody from one correctional facility to another such facility for the purposes of diagnosis and study, rehabilitation and treatment, as best seems to fit the needs of the adult in custody and for the protection and welfare of the community and the adult in custody.
 
       (4) If the court imposes a sentence of imprisonment upon conviction of a misdemeanor, it shall commit the defendant to the custody of the supervisory authority of the county in which the crime of conviction occurred.
 
-      (5)(a) When a person under 18 years of age at the time of committing the offense and under 20 years of age at the time of sentencing is committed to the Department of Corrections under ORS 137.707, the Department of Corrections shall transfer the physical custody of the person to the Oregon Youth Authority as provided in ORS 420.011 if:
+      (5)(a) When a person under 18 years of age at the time of committing the offense and under 20 years of age at the time of sentencing is committed to the Department of Corrections under ORS 137.707 or due to the fact that criminal proceedings were initiated after the person attained 18 years of age, the Department of Corrections shall transfer the physical custody of the person to the Oregon Youth Authority as provided in ORS 420.011 if:
 
       (A) The person will complete the sentence imposed before the person attains 25 years of age;
 
@@ -1369,31 +1347,21 @@ ______________________________________________________________________________ [
 
       (c) Notwithstanding ORS 137.320, the sheriff may by agreement with the Department of Corrections transfer the person described in this subsection directly to a youth correction facility for physical custody without first delivering the person to the Department of Corrections. As part of the agreement with the Department of Corrections, the sheriff may designate the county juvenile department or the Oregon Youth Authority to conduct the direct transfer described in this paragraph if the sheriff has entered into a written agreement with the county juvenile department, the Oregon Youth Authority, or both, to provide the direct transfer.
 
-      (6)(a) When a person under 18 years of age at the time of committing the offense and under 20 years of age at the time of sentencing is committed to the legal and physical custody of the Department of Corrections or the supervisory authority of a county following waiver under ORS 419C.349, 419C.352, 419C.364 or 419C.370 or sentencing under ORS 137.707 (5)(b)(A) or (7)(b) or 137.712, the Department of Corrections or the supervisory authority of a county shall transfer the person to the physical custody of the Oregon Youth Authority for placement as provided in ORS 420.011 (3). The terms and conditions of the person’s incarceration and custody are governed by ORS 420A.200 to 420A.206. Notwithstanding ORS 137.320, the sheriff may by agreement with the Department of Corrections or the supervisory authority of a county transfer the person described in this subsection directly to a youth correction facility for physical custody without first delivering the person to the Department of Corrections or supervisory authority of the county. As part of the agreement with the Department of Corrections or supervisory authority of the county, the sheriff may designate the county juvenile department or the Oregon Youth Authority to conduct the direct transfer described in this paragraph if the sheriff has entered into a written agreement with the county juvenile department, the Oregon Youth Authority, or both, to provide the direct transfer.
+      (6)(a) When a person under 18 years of age at the time of committing the offense and under 20 years of age at the time of sentencing is committed to the legal and physical custody of the Department of Corrections or the supervisory authority of a county following waiver under ORS 419C.349 (1)(b), 419C.352, 419C.364 or 419C.370 or sentencing under ORS 137.707 (5)(b)(A) or (7)(b) or 137.712, the Department of Corrections or the supervisory authority of a county shall transfer the person to the physical custody of the Oregon Youth Authority for placement as provided in ORS 420.011 (3). The terms and conditions of the person’s incarceration and custody are governed by ORS 420A.200 to 420A.206. Notwithstanding ORS 137.320, the sheriff may by agreement with the Department of Corrections or the supervisory authority of a county transfer the person described in this subsection directly to a youth correction facility for physical custody without first delivering the person to the Department of Corrections or supervisory authority of the county. As part of the agreement with the Department of Corrections or supervisory authority of the county, the sheriff may designate the county juvenile department or the Oregon Youth Authority to conduct the direct transfer described in this paragraph if the sheriff has entered into a written agreement with the county juvenile department, the Oregon Youth Authority, or both, to provide the direct transfer.
 
-      (b) Notwithstanding ORS 137.320, when a person under 16 years of age is waived under ORS 419C.349, 419C.352, 419C.364 or 419C.370 and subsequently is sentenced to a term of imprisonment in the county jail, the sheriff shall transfer the person to a youth correction facility for physical custody as provided in ORS 420.011 (3).
+      (b) Notwithstanding ORS 137.320, when a person under 16 years of age is waived under ORS 419C.349 (1)(b), 419C.352, 419C.364 or 419C.370 and subsequently is sentenced to a term of imprisonment in the county jail, the sheriff shall transfer the person to a youth correction facility for physical custody as provided in ORS 420.011 (3).
 
-      (7) If the Director of the Oregon Youth Authority concurs in the decision, the Department of Corrections or the supervisory authority of a county shall transfer the physical custody of a person committed to the Department of Corrections or the supervisory authority of the county under subsection (1) or (2) of this section to the Oregon Youth Authority as provided in ORS 420.011 (2) if:
+      (7) Notwithstanding the provisions of subsection (5)(a)(A) of this section, the department or the supervisory authority of a county may not transfer the physical custody of the person under subsection (5)(a)(A) of this section if the Director of the Oregon Youth Authority, after consultation with the Department of Corrections or the supervisory authority of a county, determines that, because of the person’s age, mental or emotional condition or risk of physical harm to other persons, the person should not be incarcerated in a youth correction facility.
 
-      (a) The person was at least 18 years of age but under 20 years of age at the time of committing the felony for which the person is being sentenced to a term of incarceration;
+      (8) Notwithstanding any other provision of this section, under no circumstances may a person under 18 years of age be incarcerated in a Department of Corrections institution.
 
-      (b) The person is under 20 years of age at the time of commitment to the Department of Corrections or the supervisory authority of the county;
+      (9) If a defendant is transferred under subsection (5) of this section, the defendant shall also be transferred after a resentencing on the same charges resulting from an appellate decision or a post-conviction relief proceeding or for any other reason, even if the defendant is 20 years of age or older at the time of the resentencing.
 
-      (c) The person has not been committed previously to the legal and physical custody of the Department of Corrections or the supervisory authority of a county;
+      (10) For the purposes of determining the person’s age at the time of committing an offense under this section:
 
-      (d) The person has not been convicted and sentenced to a term of incarceration for the commission of a felony in any other state;
+      (a) If the person is convicted of two or more offenses occurring on different days, the person’s age shall be calculated using the earliest date.
 
-      (e) The person will complete the term of incarceration imposed before the person attains 25 years of age;
-
-      (f) The person is likely in the foreseeable future to benefit from the rehabilitative and treatment programs administered by the Oregon Youth Authority;
-
-      (g) The person does not pose a substantial danger to Oregon Youth Authority staff or persons in the custody of the Oregon Youth Authority; and
-
-      (h) At the time of the proposed transfer, no more than 50 persons are in the physical custody of the Oregon Youth Authority under this subsection.
-
-      (8) Notwithstanding the provisions of subsections (5)(a)(A) or (7) of this section, the department or the supervisory authority of a county may not transfer the physical custody of the person under subsection (5)(a)(A) or (7) of this section if the Director of the Oregon Youth Authority, after consultation with the Department of Corrections or the supervisory authority of a county, determines that, because of the person’s age, mental or emotional condition or risk of physical harm to other persons, the person should not be incarcerated in a youth correction facility.
-
-      (9) Notwithstanding any other provision of this section, under no circumstances may a person under 18 years of age be incarcerated in a Department of Corrections institution. [1967 c.585 §4; 1971 c.743 §325; 1973 c.836 §262; 1985 c.631 §5; 1987 c.320 §30; 1993 c.33 §299; 1993 c.546 §118; 1995 c.422 §§57,57a; 1995 c.423 §12a; 1999 c.109 §5; 2013 c.355 §1; 2014 c.31 §1; 2017 c.134 §1]
+      (b) If the person is convicted of an offense occurring within a range of dates, the person’s age shall be calculated using the date at the beginning of the range. [1967 c.585 §4; 1971 c.743 §325; 1973 c.836 §262; 1985 c.631 §5; 1987 c.320 §30; 1993 c.33 §299; 1993 c.546 §118; 1995 c.422 §§57,57a; 1995 c.423 §12a; 1999 c.109 §5; 2013 c.355 §1; 2014 c.31 §1; 2017 c.134 §1; 2019 c.213 §22; 2019 c.634 §2]
 
  
 
@@ -1651,7 +1619,7 @@ ______________________________________________________________________________ [
 
  
 
-      137.221 Vacation of judgment of conviction for prostitution. (1) A court may vacate a judgment of conviction for the crime of prostitution under ORS 167.007 as described in this section.
+      137.221 Vacation of judgment of conviction for prostitution. (1) Notwithstanding ORS 138.540, a court may vacate a judgment of conviction for the crime of prostitution under ORS 167.007 or for violating a municipal prostitution ordinance as described in this section.
 
       (2)(a) A person may request vacation of a judgment of conviction for prostitution by filing a motion in the county of conviction. The motion may be filed at least 21 days after the judgment of conviction is entered.
 
@@ -1673,11 +1641,57 @@ ______________________________________________________________________________ [
 
       (6) If the court grants a motion under this section while an appeal of the judgment of conviction is pending, the court shall immediately forward a copy of the vacation order to the appellate court.
 
-      (7) As used in this section, “sex trafficking” means the use of force, intimidation, fraud or coercion to cause a person to engage, or attempt to engage, in a commercial sex act. [2017 c.245 §1]
+      (7) As used in this section:
+
+      (a) “Municipal prostitution ordinance” means a municipal ordinance prohibiting a person from engaging in, or offering or agreeing to engage in, sexual conduct or sexual contact in return for a fee.
+
+      (b) “Sex trafficking” means the use of force, intimidation, fraud or coercion to cause a person to engage, or attempt to engage, in a commercial sex act. [2017 c.245 §1; 2018 c.120 §7]
 
  
 
       Note: 137.221 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      137.222 Motion for reduction of marijuana conviction offense classification; entry of amended judgment. (1)(a) Notwithstanding ORS 161.525, a person by motion may request the court to reduce the offense classification of a marijuana conviction as provided in this section.
+
+      (b) A marijuana conviction is eligible for reduction under this section if, since entry of judgment of conviction, the marijuana offense has been:
+
+      (A) Reduced from a felony to a misdemeanor;
+
+      (B) Reduced from a higher level felony to a lower level felony;
+
+      (C) Reduced from a higher level misdemeanor to a lower level misdemeanor; or
+
+      (D) Reduced from a crime to a violation.
+
+      (2) A person filing a motion under this section is not required to pay the filing fee established under ORS 21.135 or any other fee.
+
+      (3)(a) At the time of filing the motion, the person shall serve a copy of the motion upon the office of the prosecuting attorney of the jurisdiction in which the judgment of conviction was entered.
+
+      (b) The prosecuting attorney, within 30 days after the filing of the motion under paragraph (a) of this subsection, may file an objection to granting the motion only on the basis that:
+
+      (A) The person’s conviction is not eligible for reduction under this section; or
+
+      (B) The person has not completed and fully complied with or performed the sentence of the court.
+
+      (4) If no objection from the prosecuting attorney is received by the court within 30 days after the filing of the motion, the court shall grant the motion and proceed as provided in subsection (6) of this section if the conviction is eligible for reduction under this section and the court determines that the person has completed and fully complied with or performed the sentence of the court.
+
+      (5)(a) If the court receives an objection from the prosecuting attorney, the court shall hold a hearing.
+
+      (b) At the hearing, the person has the burden of establishing, by a preponderance of the evidence, that:
+
+      (A) The conviction is eligible for reduction under this section; and
+
+      (B) The person completed and fully complied with or performed the sentence of the court.
+
+      (c) If, at the hearing, the court determines that the conviction is eligible for reduction under this section and the person completed and fully complied with or performed the sentence of the court, the court shall grant the motion and proceed as provided in subsection (6) of this section.
+
+      (6) Upon granting a motion under this section, the court shall enter an amended judgment of conviction at the appropriate offense level. [2019 c.473 §1]
+
+ 
+
+      Note: 137.222 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1721,48 +1735,6 @@ ______________________________________________________________________________ [
 
  
 
-      Note: The amendments to 137.223 by section 16, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      137.223. (1) A person who has been found guilty except for insanity of an offense for which, if convicted, the person could apply for entry of an order setting aside the conviction pursuant to ORS 137.225, may by motion apply to the court for entry of an order setting aside the judgment finding the person guilty except for insanity of the offense.
-
-      (2) A person described in subsection (1) of this section may file the motion to set aside a judgment of guilty except for insanity any time after three years from the date of entry of the judgment of guilty except for insanity, provided that:
-
-      (a) The person is no longer under the jurisdiction of the Psychiatric Security Review Board or the Oregon Health Authority; and
-
-      (b) The person has no other findings of guilty except for insanity within the 10 years prior to filing the motion and no convictions for offenses other than motor vehicle violations within the 10 years prior to filing the motion.
-
-      (3)(a) A copy of the motion and a full set of the defendant’s fingerprints shall be served upon the office of the prosecuting attorney who prosecuted the offense and opportunity shall be given to contest the motion. The fingerprint card with the notation “motion for setting aside judgment of guilty except for insanity” shall be forwarded to the Department of State Police. Information resulting from the fingerprint search along with the fingerprint card shall be returned to the prosecuting attorney.
-
-      (b) When a prosecuting attorney is served with a copy of a motion to set aside a judgment of guilty except for insanity under this section, the prosecuting attorney shall provide a copy of the motion and notice of the hearing date to the victim, if any, of the offense by mailing a copy of the motion and notice to the victim’s last-known address.
-
-      (c) When a person files a motion under this section, the person must pay a fee of $80 to the Department of State Police. The person shall attach a certified check payable to the Department of State Police in the amount of $80 to the fingerprint card that is served upon the prosecuting attorney. The office of the prosecuting attorney shall forward the check with the fingerprint card to the Department of State Police.
-
-      (d) In addition to the fee established under paragraph (c) of this subsection, the person must pay the filing fee established under ORS 21.135.
-
-      (4)(a) Upon hearing the motion, the court may require the filing of such affidavits and may require the taking of such proofs as the court deems proper. The court shall allow the victim, if any, to make a statement at the hearing.
-
-      (b) Except as otherwise provided in paragraph (c) of this subsection, if the court determines that the circumstances and behavior of the person from the date of the judgment of guilty except for insanity to the date of the hearing on the motion warrant the court granting the motion, the court shall enter an order setting aside the judgment of guilty except for insanity.
-
-      (c) Unless the court makes written findings by clear and convincing evidence that granting the motion would not be in the best interests of justice, the court shall grant the motion and enter an order as provided in paragraph (b) of this subsection if the defendant was found guilty except for insanity of an offense described in ORS 137.225 (12) and is otherwise eligible for relief under this section.
-
-      (d) An order entered under this subsection shall state the original arrest charge and the charge for which the person was found guilty except for insanity. The order shall further state that positive identification has been established by the Department of State Police and further identified as to Department of State Police number or submitting agency number.
-
-      (5)(a) Upon the entry of an order under subsection (4) of this section:
-
-      (A) The person, for purposes of the law, shall be deemed not to have been previously found guilty except for insanity, and the court shall issue an order sealing the records of the case, including the records of arrest, whether or not the arrest resulted in a further criminal proceeding.
-
-      (B) The court shall inform the person that the person’s right to possess, purchase or otherwise acquire a firearm remains prohibited under federal law.
-
-      (b) For purposes of this subsection, records of the case do not include medical records that are in the possession of the Psychiatric Security Review Board or the Oregon Health Authority, including medical evaluations and reports submitted from other agencies concerning the status or compliance of the person.
-
-      (6) The clerk of the court shall forward a certified copy of the order entered under subsection (5) of this section to such agencies as directed by the court. A certified copy shall be sent to the Psychiatric Security Review Board or the Oregon Health Authority, as appropriate. Upon entry of the order, the judgment of guilty except for insanity shall be deemed not to have been entered, and the person may answer accordingly any questions relating to its occurrence.
-
-      (7) For purposes of any civil action in which truth is an element of a claim for relief or affirmative defense, the provisions of subsection (6) of this section providing that the judgment of guilty except for insanity be deemed not to have been entered do not apply and a party may apply to the court for an order requiring disclosure of the official records in the case as may be necessary in the interests of justice.
-
-      (8) Upon motion of any prosecutor or defendant in a case involving records sealed under this section, supported by affidavit showing good cause, the court with jurisdiction may order the reopening and disclosure of any records sealed under this section for the limited purpose of assisting the investigation of the movant. However, such an order has no other effect on the orders setting aside the judgment of guilty except for insanity.
-
- 
-
       Note: 137.223 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -1795,15 +1767,13 @@ ______________________________________________________________________________ [
 
       (ii) The person has not been convicted of, arrested or criminally cited for or charged with any other offense, excluding motor vehicle violations, after the date the person was convicted of the offense sought to be set aside. Notwithstanding subsection (1) of this section, a conviction, arrest, citation or charge that has been set aside under this section shall be considered for the purpose of determining whether this subparagraph is applicable; or
 
-      (B) The Class B felony is described in paragraphs (b) to (e) of this subsection.
+      (B) The Class B felony is described in paragraphs (b) to (d) of this subsection.
 
       (b) Any misdemeanor, Class C felony or felony punishable as a misdemeanor pursuant to ORS 161.705.
 
-      (c) Unlawful possession of a controlled substance classified in Schedule I.
+      (c) An offense constituting a violation under state law or local ordinance.
 
-      (d) An offense constituting a violation under state law or local ordinance.
-
-      (e) An offense committed before January 1, 1972, that, if committed after that date, would qualify for an order under this section.
+      (d) An offense committed before January 1, 1972, that, if committed after that date, would qualify for an order under this section.
 
       (6) Notwithstanding subsection (5) of this section, the provisions of subsection (1)(a) of this section do not apply to a conviction for:
 
@@ -1879,7 +1849,7 @@ ______________________________________________________________________________ [
 
       (g) Incest, ORS 163.525, if the victim was at least 18 years of age.
 
-      (h) Intimidation in the first degree, ORS 166.165.
+      (h) A bias crime in the first degree, ORS 166.165.
 
       (i) Attempted kidnapping in the second degree, ORS 163.225.
 
@@ -1891,7 +1861,7 @@ ______________________________________________________________________________ [
 
       (m) Unlawful use of a weapon, ORS 166.220.
 
-      (13) As used in this section, “sex crime” has the meaning given that term in ORS 163A.005. [1971 c.434 §2; 1973 c.680 §3; 1973 c.689 §1a; 1973 c.836 §265; 1975 c.548 §10; 1975 c.714 §2; 1977 c.286 §1; 1983 c.556 §1; 1983 c.740 §17; 1987 c.320 §31; 1987 c.408 §1; 1987 c.864 §6; 1989 c.774 §1; 1991 c.830 §6; 1993 c.546 §98; 1993 c.664 §2; 1995 c.429 §9; 1995 c.743 §1; 1999 c.79 §1; 2007 c.71 §35; 2009 c.360 §1; 2009 c.560 §1; 2011 c.196 §1; 2011 c.533 §1; 2011 c.547 §29; 2011 c.595 §87; 2012 c.70 §4; 2013 c.390 §1; 2015 c.235 §1; 2015 c.820 §§32,32a; 2017 c.338 §1; 2017 c.339 §1]
+      (13) As used in this section, “sex crime” has the meaning given that term in ORS 163A.005. [1971 c.434 §2; 1973 c.680 §3; 1973 c.689 §1a; 1973 c.836 §265; 1975 c.548 §10; 1975 c.714 §2; 1977 c.286 §1; 1983 c.556 §1; 1983 c.740 §17; 1987 c.320 §31; 1987 c.408 §1; 1987 c.864 §6; 1989 c.774 §1; 1991 c.830 §6; 1993 c.546 §98; 1993 c.664 §2; 1995 c.429 §9; 1995 c.743 §1; 1999 c.79 §1; 2007 c.71 §35; 2009 c.360 §1; 2009 c.560 §1; 2011 c.196 §1; 2011 c.533 §1; 2011 c.547 §29; 2011 c.595 §87; 2012 c.70 §4; 2013 c.390 §1; 2015 c.235 §1; 2015 c.820 §§32,32a; 2017 c.338 §1; 2017 c.339 §1; 2018 c.120 §12; 2019 c.553 §12]
 
  
 
@@ -2361,13 +2331,13 @@ EXECUTION OF JUDGMENT
 
       137.372 Credit for time served as part of probationary sentence; diversion program or specialty court program. (1)(a) Notwithstanding the provisions of ORS 137.370 (2), an offender who has been revoked from a probationary sentence for a felony committed on or after November 1, 1989, and whose sentence was imposed as a downward dispositional departure under the rules of the Oregon Criminal Justice Commission, shall receive credit for the time served in jail after arrest and before commencement of the probationary sentence and for the time served in jail as part of the probationary sentence. However, if the credit for the time served in jail as described in this paragraph is greater than 90 days, the sentencing judge may limit or deny credit for any of that time that exceeds 90 days.
 
-      (b) Notwithstanding the provisions of ORS 137.370 (2), an offender who has been revoked from a probationary sentence for a felony committed on or after November 1, 1989, and whose sentence was imposed as a presumptive probationary sentence under the rules of the Oregon Criminal Justice Commission, shall receive credit for the time served in jail after arrest and before commencement of the probationary sentence and for the time served in jail as part of the probationary sentence, unless the sentencing judge orders otherwise.
+      (b) Notwithstanding the provisions of ORS 137.370 (2), an offender who has been revoked from a probationary sentence for a felony committed on or after November 1, 1989, and whose sentence was imposed as a presumptive or optional probationary sentence under the rules of the Oregon Criminal Justice Commission, shall receive credit for the time served in jail after arrest and before commencement of the probationary sentence and for the time served in jail as part of the probationary sentence, unless the sentencing judge orders otherwise.
 
       (2) Notwithstanding the provisions of ORS 137.370 (2), an offender who is sentenced to imprisonment in the custody of the Department of Corrections following the failure to complete a diversion program described in ORS 430.450 to 430.555 or a specialty court program in which the offender was not on probation shall receive credit for the time served in jail after arrest and before commencement of the program and for the time served in jail as a sanction for violating the terms of the program, unless the sentencing judge orders otherwise.
 
       (3) Notwithstanding the provisions of ORS 137.320 (4), an offender who has been ordered confined as part of a probationary sentence for a felony committed on or after July 18, 1995, shall receive credit for the time served in jail after arrest and before commencement of the term unless the sentencing judge orders otherwise.
 
-      (4) As used in this section, “specialty court” has the meaning given that term in ORS 137.680. [1989 c.790 §81; 1993 c.692 §4; 1995 c.657 §13; 2015 c.508 §2]
+      (4) As used in this section, “specialty court” has the meaning given that term in ORS 137.680. [1989 c.790 §81; 1993 c.692 §4; 1995 c.657 §13; 2015 c.508 §2; 2018 c.120 §13]
 
  
 
@@ -2559,7 +2529,7 @@ EXECUTION OF JUDGMENT
 
       (c) The lethal substance or substances described in subsection (1) of this section are not controlled substances when purchased, possessed or used for purposes of this section.
 
-      (4) The superintendent may require that persons who are present at the execution under subsection (1) of this section view the initial execution procedures, prior to the point of the administration of the lethal injection, by means of a simultaneous closed-circuit television transmission under the direction and control of the superintendent. [1984 c.3 §7; 1987 c.320 §38; 1993 c.137 §1; 2001 c.104 §46; 2001 c.213 §1; 2003 c.103 §4; 2005 c.471 §9; 2014 c.45 §24]
+      (4) The superintendent may require that persons who are present at the execution under subsection (1) of this section view the initial execution procedures, prior to the point of the administration of the lethal injection, by means of a simultaneous closed-circuit television transmission under the direction and control of the superintendent. [1985 c.3 §7; 1987 c.320 §38; 1993 c.137 §1; 2001 c.104 §46; 2001 c.213 §1; 2003 c.103 §4; 2005 c.471 §9; 2014 c.45 §24]
 
  
 
@@ -2607,11 +2577,13 @@ EXECUTION OF JUDGMENT
 
  
 
-PROBATION AND PAROLE BY COMMITTING MAGISTRATE
+PROBATION AND PAROLE
+
+BY COMMITTING MAGISTRATE
 
  
 
-      137.520 Power of committing magistrate to parole and grant temporary release to persons confined in county jail; authority of sheriff to release county jail inmates; disposition of work release earnings. (1) The committing magistrate, having sentenced a defendant to confinement in a county jail for a period of up to one year, or as provided by rules adopted by the Oregon Criminal Justice Commission for felonies committed on or after November 1, 1989, may parole the defendant outside the county jail subject to condition and subject to being taken back into confinement upon the breach of such condition. When a court paroles a defendant under this subsection and the defendant is serving a sentence or sanction imposed under ORS 423.478 (2)(d) or (e), the court may order the local supervisory authority to supervise the defendant. The committing magistrate may also authorize, limit or prohibit the release of a sentenced defendant upon pass, furlough, leave, work or educational release.
+      137.520 Power of committing magistrate to parole and grant temporary release to persons confined in county jail; authority of sheriff to release persons confined in county jail; disposition of work release earnings. (1) The committing magistrate, having sentenced a defendant to confinement in a county jail for a period of up to one year, or as provided by rules adopted by the Oregon Criminal Justice Commission for felonies committed on or after November 1, 1989, may parole the defendant outside the county jail subject to condition and subject to being taken back into confinement upon the breach of such condition. When a court paroles a defendant under this subsection and the defendant is serving a sentence or sanction imposed under ORS 423.478 (2)(d) or (e), the court may order the local supervisory authority to supervise the defendant. The committing magistrate may also authorize, limit or prohibit the release of a sentenced defendant upon pass, furlough, leave, work or educational release.
 
       (2) The committing magistrate, having sentenced a defendant to probation and having confined the defendant as a condition of that probation in a county jail for a period up to one year, or having imposed a sentence of probation with confinement in the county jail in accordance with rules adopted by the Oregon Criminal Justice Commission for felonies committed on or after November 1, 1989, may authorize, limit or prohibit the release of such person upon pass, furlough, leave, work or educational release.
 
@@ -2747,7 +2719,7 @@ PROBATION AND PAROLE BY COMMITTING MAGISTRATE
 
       (E) Within 10 days of a change in work, vocation or attendance status at an institution of higher education.
 
-      (q) Submit to a risk and needs assessment as directed by the supervising officer.
+      (q) Submit to a risk and needs assessment as directed by the supervising officer and follow reasonable recommendations resulting from the assessment.
 
       (2) In addition to the general conditions, the court may impose any special conditions of probation that are reasonably related to the crime of conviction or the needs of the probationer for the protection of the public or reformation of the probationer, or both, including, but not limited to, that the probationer shall:
 
@@ -2813,13 +2785,13 @@ PROBATION AND PAROLE BY COMMITTING MAGISTRATE
 
       (b) Probation violation fees collected under this subsection in the circuit court shall be deposited by the clerk of the court in the General Fund. Extradition cost fees collected in the circuit court under this subsection shall be deposited by the clerk of the court in the Arrest and Return Account established by ORS 133.865. Fees collected in a justice court under this subsection shall be paid to the county treasurer. Fees collected in a municipal court under this subsection shall be paid to the city treasurer.
 
-      (13) As used in this section, “attends,” “institution of higher education,” “works” and “carries on a vocation” have the meanings given those terms in ORS 163A.005. [Amended by 1965 c.346 §1; 1969 c.597 §125; 1977 c.371 §3; 1977 c.380 §2; 1981 c.671 §1; 1983 c.588 §2; 1985 c.818 §2; 1987 c.780 §3; 1989 c.790 §16; 1991 c.196 §1; 1991 c.630 §5; 1991 c.731 §1; 1993 c.14 §11; 1993 c.680 §16; 1997 c.313 §24; 1999 c.626 §11; amendments by 1999 c.626 §34 repealed by 2001 c.884 §1; 2001 c.726 §§1,2; 2001 c.884 §5; 2005 c.264 §3; 2005 c.558 §1; 2005 c.567 §8; 2005 c.576 §1a; 2005 c.642 §1; 2009 c.111 §1; 2009 c.204 §5; 2009 c.659 §§21,23; 2009 c.713 §11; 2011 c.595 §162; 2013 c.649 §24; 2015 c.198 §1; 2015 c.350 §2; 2017 c.21 §40; 2017 c.670 §3; 2017 c.689 §1]
+      (13) As used in this section, “attends,” “institution of higher education,” “works” and “carries on a vocation” have the meanings given those terms in ORS 163A.005. [Amended by 1965 c.346 §1; 1969 c.597 §125; 1977 c.371 §3; 1977 c.380 §2; 1981 c.671 §1; 1983 c.588 §2; 1985 c.818 §2; 1987 c.780 §3; 1989 c.790 §16; 1991 c.196 §1; 1991 c.630 §5; 1991 c.731 §1; 1993 c.14 §11; 1993 c.680 §16; 1997 c.313 §24; 1999 c.626 §11; amendments by 1999 c.626 §34 repealed by 2001 c.884 §1; 2001 c.726 §§1,2; 2001 c.884 §5; 2005 c.264 §3; 2005 c.558 §1; 2005 c.567 §8; 2005 c.576 §1a; 2005 c.642 §1; 2009 c.111 §1; 2009 c.204 §5; 2009 c.659 §§21,23; 2009 c.713 §11; 2011 c.595 §162; 2013 c.649 §24; 2015 c.198 §1; 2015 c.350 §2; 2017 c.21 §40; 2017 c.670 §3; 2017 c.689 §1; 2018 c.120 §10]
 
  
 
       137.542 Probation conditions related to medical use of cannabis. (1) As used in this section, “cannabinoid concentrate,” “cannabinoid extract,” “medical cannabinoid product,” “registry identification card” and “usable marijuana” have the meanings given those terms in ORS 475B.791.
 
-      (2) Notwithstanding ORS 137.540, the conditions of supervision of a person who holds a registry identification card and is sentenced to probation related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as the conditions of supervision of a person sentenced to probation related to prescription drugs. [2016 c.24 §51]
+      (2) Notwithstanding ORS 137.540, if a person who holds a registry identification card is sentenced to probation, supervision conditions related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as the court would impose supervision conditions related to prescription drugs. [2016 c.24 §51; 2019 c.292 §8]
 
  
 
@@ -3021,7 +2993,7 @@ PROBATION AND PAROLE BY COMMITTING MAGISTRATE
 
  
 
-      Note: Legislative Counsel has substituted “chapter 680, Oregon Laws 1993,” for the words “this Act” in section 11, chapter 680, Oregon Laws 1993, compiled as 137.595. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 680, Oregon Laws 1993,” for the words “this Act” in section 11, chapter 680, Oregon Laws 1993, compiled as 137.595. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -3117,7 +3089,7 @@ DETERMINATE SENTENCES
 
       (2) Felonies to which subsection (1) of this section applies include and are limited to:
 
-      (a) Murder, as defined in ORS 163.115, and any aggravated form thereof.
+      (a) Murder in any degree, as defined in ORS 163.107 or 163.115, and any aggravated form thereof.
 
       (b) Manslaughter in the first degree, as defined in ORS 163.118.
 
@@ -3137,7 +3109,7 @@ DETERMINATE SENTENCES
 
       (j) Robbery in the first degree, as defined in ORS 164.415.
 
-      (3) When the court imposes a sentence under this section, the court shall indicate in the judgment that the defendant is subject to this section. [1989 c.1 §§2,3; 1991 c.386 §6; 1993 c.692 §5; 1995 c.79 §49; 2003 c.14 §59]
+      (3) When the court imposes a sentence under this section, the court shall indicate in the judgment that the defendant is subject to this section. [1989 c.1 §§2,3; 1991 c.386 §6; 1993 c.692 §5; 1995 c.79 §49; 2003 c.14 §59; 2019 c.635 §9]
 
  
 
@@ -3179,7 +3151,7 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       137.654 Oregon Criminal Justice Commission; membership; terms; meetings. (1) There is established the Oregon Criminal Justice Commission consisting of nine members. The Governor shall appoint seven members who are subject to confirmation by the Senate pursuant to section 4, Article III of the Oregon Constitution. The President of the Senate shall appoint one state Senator as a nonvoting member. The Speaker of the House of Representatives shall appoint one state Representative as a nonvoting member. Members serve at the pleasure of the appointing authority. The Governor shall appoint members of the commission consistent with the following:
 
-      (a) Members shall be appointed with consideration of the different geographic regions of the state.
+      (a) Members shall be appointed with consideration of geographic, racial, ethnic and gender diversity.
 
       (b) Not more than four members may belong to the same political party. Party affiliation is determined by the appropriate entry on official election registration cards.
 
@@ -3201,7 +3173,7 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (9) The commission is subject to the provisions of ORS 291.201 to 291.222 and 291.232 to 291.260.
 
-      (10) The commission shall consult with and seek advice and counsel of the Chief Justice of the Supreme Court and the State Court Administrator on any matter that impacts the operation of the courts. The Chief Justice may have a representative participate in any meeting of the commission. [1995 c.420 §1; 1999 c.172 §1; 2001 c.919 §4]
+      (10) The commission shall consult with and seek advice and counsel of the Chief Justice of the Supreme Court and the State Court Administrator on any matter that impacts the operation of the courts. The Chief Justice may have a representative participate in any meeting of the commission. [1995 c.420 §1; 1999 c.172 §1; 2001 c.919 §4; 2019 c.598 §2]
 
  
 
@@ -3245,6 +3217,8 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (e) To prepare the racial and ethnic impact statements described in ORS 137.683 and 137.685.
 
+      (f) To assess the extent to which each county is reducing racial and ethnic disparities in its correctional population.
+
       (4) The commission shall establish by rule the information that must be submitted under ORS 137.010 (9) and the methods for submitting the information. A rule adopted under this subsection must be approved by the Chief Justice of the Supreme Court before it takes effect.
 
       (5) The commission may:
@@ -3253,7 +3227,7 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (b) Award grants from funds appropriated by the Legislative Assembly to the commission or from funds otherwise available from any other source, for the purpose of carrying out the duties of the commission.
 
-      (c) Adopt rules to carry out the provisions of this subsection. [1995 c.420 §3; 1997 c.433 §2; 1999 c.1053 §44; 2005 c.10 §3; 2005 c.503 §11; 2005 c.706 §24; 2007 c.71 §36; 2007 c.682 §3; 2009 c.308 §1; 2013 c.600 §§7,9; 2017 c.614 §7]
+      (c) Adopt rules to carry out the provisions of this subsection. [1995 c.420 §3; 1997 c.433 §2; 1999 c.1053 §44; 2005 c.10 §3; 2005 c.503 §11; 2005 c.706 §24; 2007 c.71 §36; 2007 c.682 §3; 2009 c.308 §1; 2013 c.600 §§7,9; 2017 c.614 §7; 2019 c.598 §3]
 
  
 
@@ -3265,7 +3239,7 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
-      137.658 Authority of chairperson to create committees within commission. (1) The chairperson of the Oregon Criminal Justice Commission may create any committees within the commission as the chairperson may think necessary. Persons who are not commission members may be appointed as members to serve on the committees with the approval of the commission.
+      137.658 Authority of chairperson to create committees within commission; Justice Reinvestment Program advisory committee; report to legislature. (1) The chairperson of the Oregon Criminal Justice Commission may create any committees within the commission as the chairperson may think necessary. Persons who are not commission members may be appointed as members to serve on the committees with the approval of the commission.
 
       (2) The chairperson shall appoint members of committees created under this section in such a manner as to ensure representation from all segments of the criminal justice system that are affected by the work of the committee. In selecting members for committee assignments, the chairperson shall consider, but is not limited to, representatives from the following:
 
@@ -3309,7 +3283,89 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (t) The director of a nonprofit entity created for the purpose of increasing understanding of the adult and juvenile justice systems and promotion of effective policies for prevention and control of crime; and
 
-      (u) Private contract providers. [1995 c.420 §2; 1997 c.433 §3; 2001 c.900 §23; 2009 c.595 §98]
+      (u) Private contract providers.
+
+      (3)(a) The chairperson shall establish an advisory committee for the commission.
+
+      (b) The purpose of the advisory committee is to evaluate and report on how funds are distributed under the Justice Reinvestment Program, with the goal of making recommendations for legislative changes so that funds are effectively serving:
+
+      (A) Racial and ethnic minorities;
+
+      (B) Women;
+
+      (C) Lesbian, gay, bisexual, transgender, queer and other minority gender identity communities; and
+
+      (D) Other historically underserved communities.
+
+      (c) When appointing members of the advisory committee, the chairperson shall make appointments with consideration of geographic, racial, ethnic and gender diversity. A majority of members must represent historically underserved communities. The members must include:
+
+      (A) One member with expertise in program design and evaluation and experience in data collection and analysis of racial and ethnic demographic information.
+
+      (B) Two members representing community-based service providers, one of which must be a victim services provider, that serve historically underserved communities.
+
+      (C) Two members who are also members of the Justice Reinvestment Grant Review Committee.
+
+      (D) Two members representing historically underserved communities.
+
+      (d) No later than September 15, 2020, the commission shall provide a report, to the Governor and to the subcommittee of the Joint Committee on Ways and Means with authority over the budget of the commission, with recommendations from the advisory committee on how the commission can increase equity in the allocation of public safety funds with a particular focus on the Justice Reinvestment Program. The report may include but is not limited to:
+
+      (A) Recommendations for changing grant review criteria.
+
+      (B) Recommendations for changing the data collection and reporting requirements.
+
+      (C) Recommendations on technical assistance needed by the commission.
+
+      (e) The commission may provide a per diem and reimbursement of expenses for members of the advisory committee. [1995 c.420 §2; 1997 c.433 §3; 2001 c.900 §23; 2009 c.595 §98; 2019 c.598 §4]
+
+ 
+
+      Note: The amendments to 137.658 by section 5, chapter 598, Oregon Laws 2019, become operative July 1, 2023. See section 6, chapter 598, Oregon Laws 2019. The text that is operative on and after July 1, 2023, is set forth for the user’s convenience.
+
+      137.658. (1) The chairperson of the Oregon Criminal Justice Commission may create any committees within the commission as the chairperson may think necessary. Persons who are not commission members may be appointed as members to serve on the committees with the approval of the commission.
+
+      (2) The chairperson shall appoint members of committees created under this section in such a manner as to ensure representation from all segments of the criminal justice system that are affected by the work of the committee. In selecting members for committee assignments, the chairperson shall consider, but is not limited to, representatives from the following:
+
+      (a) The Attorney General;
+
+      (b) The Director of the Department of Corrections;
+
+      (c) The chairperson of the State Board of Parole and Post-Prison Supervision;
+
+      (d) The Superintendent of State Police;
+
+      (e) The chief administrative employee of the Psychiatric Security Review Board;
+
+      (f) The Director of Human Services;
+
+      (g) The Director of the Oregon Health Authority;
+
+      (h) The Director of the Oregon Youth Authority;
+
+      (i) Trial judges;
+
+      (j) Judges of the Oregon Supreme Court or Court of Appeals;
+
+      (k) Majority and minority parties of the House of Representatives and the Senate;
+
+      (L) District attorneys;
+
+      (m) Criminal defense attorneys;
+
+      (n) County sheriffs;
+
+      (o) County commissioners;
+
+      (p) County community corrections directors;
+
+      (q) Chiefs of police;
+
+      (r) Victims of crime;
+
+      (s) The public at large;
+
+      (t) The director of a nonprofit entity created for the purpose of increasing understanding of the adult and juvenile justice systems and promotion of effective policies for prevention and control of crime; and
+
+      (u) Private contract providers.
 
  
 
@@ -3393,6 +3449,14 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
+      137.672 Aggravating factor sentencing rules relating to gender identity of victim. The Oregon Criminal Justice Commission, in the rules of the commission concerning sentencing departure factors, shall include gender identity as defined in ORS 166.155 as a characteristic of the victim constituting an aggravating factor when the characteristic was the motivation, entirely or in part, for the commission of the crime. [2019 c.553 §4]
+
+ 
+
+      Note: 137.672 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       137.673 Validity of rules. Rules adopted by the Oregon Criminal Justice Commission shall not be declared invalid solely because of irregularities in procedural rulemaking, including but not limited to the provisions of ORS 183.335 or 183.400 (4)(c). [1989 c.790 §73; 1995 c.420 §9; 2001 c.220 §2; 2005 c.382 §3]
 
  
@@ -3405,7 +3469,123 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
+      137.676 Development of method for district attorneys to record and report bias-related crime data; rules. (1)(a) No later than July 1, 2020, the Oregon Criminal Justice Commission, in consultation with the Oregon District Attorneys Association and the Department of State Police, shall develop and implement a standardized method for district attorneys to record the data described in subsection (2) of this section and report the data to the commission.
+
+      (b) The commission shall analyze the data reported under this section to identify gaps or weaknesses in the investigation, presentation, prosecution and sanctioning of crimes motivated by bias.
+
+      (2) The data subject to recording and reporting under this section includes, at a minimum, the following data concerning any crime or alleged crime in which the bias of the actor was, in whole or in part, a motivating factor in the commission of the crime or alleged crime:
+
+      (a) Charges presented to the district attorney for prosecution;
+
+      (b) Cases issued by the district attorney;
+
+      (c) Charges indicted;
+
+      (d) Sentencing enhancements requested;
+
+      (e) Sentences imposed, including conditions of supervision;
+
+      (f) Charges to which a defendant enters a plea of guilty or no contest; and
+
+      (g) Trial outcomes.
+
+      (3) No later than July 1, 2020, the district attorneys of Multnomah County and two additional counties identified by the commission shall begin to record the data described in subsection (2) of this section. The counties shall report the data to the commission using the method identified in subsection (1) of this section.
+
+      (4)(a) The commission shall select one or more statistical analysis methodologies, determined to be consistent with current best practices, with which to analyze the data received under subsection (3) of this section.
+
+      (b) The commission shall analyze all data received under subsection (3) of this section using the selected methodology.
+
+      (5) No later than July 1, 2021, the commission shall report on the analysis of the data received under subsection (3) of this section to the Legislative Assembly in the manner provided under ORS 192.245.
+
+      (6) After completing the report described in subsection (5) of this section, the commission, in consultation with the Oregon District Attorneys Association and the Department of State Police, shall make any necessary refinements to the data reporting, recording and analysis methodologies.
+
+      (7) No later than July 1, 2022, the district attorney of each county in this state shall record the data described in subsection (2) of this section and report the data to the commission.
+
+      (8) The data reported to, and maintained by, the commission under this section:
+
+      (a) Shall be used only for statistical purposes and not for any other purpose.
+
+      (b) Is exempt from public disclosure if the data directly identifies any individual involved in the crime or alleged crime described in subsection (2) of this section.
+
+      (9) Any data recorded by a district attorney under this section that reveals the identity of any individual is exempt from public disclosure.
+
+      (10) The commission may adopt rules to carry out the provisions of this section. [2019 c.553 §5]
+
+ 
+
+      Note: The amendments to 137.676 by section 6, chapter 553, Oregon Laws 2019, become operative January 2, 2023. See section 19, chapter 553, Oregon Laws 2019. The text that is operative on and after January 2, 2023, is set forth for the user’s convenience.
+
+      137.676. (1)(a) The Oregon Criminal Justice Commission, in consultation with the Oregon District Attorneys Association and the Department of State Police, shall develop and implement a standardized method for district attorneys to record the data described in subsection (2) of this section and report the data to the commission.
+
+      (b) The commission shall analyze the data reported under this section to identify gaps or weaknesses in the investigation, presentation, prosecution and sanctioning of crimes motivated by bias.
+
+      (2) The data subject to recording and reporting under this section includes, at a minimum, the following data concerning any crime or alleged crime in which the bias of the actor was, in whole or in part, a motivating factor in the commission of the crime or alleged crime:
+
+      (a) Charges presented to the district attorney for prosecution;
+
+      (b) Cases issued by the district attorney;
+
+      (c) Charges indicted;
+
+      (d) Sentencing enhancements requested;
+
+      (e) Sentences imposed, including conditions of supervision;
+
+      (f) Charges to which a defendant enters a plea of guilty or no contest; and
+
+      (g) Trial outcomes.
+
+      (3) The district attorney of each county in this state shall record the data described in subsection (2) of this section and report the data to the commission.
+
+      (4) The data reported to, and maintained by, the commission under this section:
+
+      (a) Shall be used only for statistical purposes and not for any other purpose.
+
+      (b) Is exempt from public disclosure if the data directly identifies any individual involved in the crime or alleged crime described in subsection (2) of this section.
+
+      (5) Any data recorded by a district attorney under this section that reveals the identity of any individual is exempt from public disclosure.
+
+      (6) The commission may adopt rules to carry out the provisions of this section.
+
+ 
+
+      Note: 137.676 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       137.677 [1993 c.680 §15; repealed by 1995 c.420 §14]
+
+ 
+
+      137.678 Analysis of bias-related crime and incident data; annual report; rules. (1) As used in this section:
+
+      (a) “Bias crime” means the commission, attempted commission or alleged commission of an offense described in ORS 166.155 or 166.165.
+
+      (b) “Bias incident” means a person’s hostile expression of animus toward another person, relating to the other person’s perceived race, color, religion, gender identity, sexual orientation, disability or national origin, of which criminal investigation or prosecution is impossible or inappropriate. “Bias incident” does not include any incident in which probable cause of the commission of a crime is established by the investigating law enforcement officer.
+
+      (2) The Oregon Criminal Justice Commission shall review all data pertaining to bias crimes and bias incidents submitted to the commission:
+
+      (a) By district attorneys under ORS 137.676;
+
+      (b) By the Department of State Police under ORS 181A.225; and
+
+      (c) By the Department of Justice under ORS 147.380.
+
+      (3) The commission shall select one or more statistical analysis methodologies, determined to be consistent with current best practices, with which to analyze the data described in subsection (2) of this section.
+
+      (4) No later than July 1, 2020, and at least annually thereafter, the commission shall report the results of the data analysis to the Governor, the Legislative Assembly, the Attorney General, the Oregon District Attorneys Association, the Department of State Police and the Department of Public Safety Standards and Training.
+
+      (5) Except as provided in subsection (7) of this section, the data described in subsection (2) of this section shall be made publicly accessible to the fullest extent possible under state and federal law.
+
+      (6) The commission may use the data described in subsection (2) of this section only for statistical purposes and not for any other purpose.
+
+      (7) Any data described in subsection (2) of this section that reveals the identity of any individual is exempt from public disclosure.
+
+      (8) The commission may adopt rules to carry out the provisions of this section. [2019 c.553 §9]
+
+ 
+
+      Note: 137.678 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -3475,17 +3655,13 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
-      Note: Section 13, chapter 614, Oregon Laws 2017, provides:
-
-      Sec. 13. Section 3 of this 2017 Act [137.685] and the amendments to ORS 251.185 by section 9 of this 2017 Act apply to elections held on or after the first Tuesday after the first Monday in November 2018. [2017 c.614 §13]
-
- 
-
       Note: See note under 137.683.
 
  
 
-(Temporary provisions relating to Justice Reinvestment Program)
+(Temporary provisions relating to
+
+Justice Reinvestment Program)
 
  
 
@@ -3493,13 +3669,15 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       Sec. 52. The Justice Reinvestment Account is established, separate and distinct from the General Fund. All moneys in the account are continuously appropriated to the Oregon Criminal Justice Commission for the purpose of making grants to counties in accordance with section 53 of this 2013 Act. [2013 c.649 §52]
 
+ 
+
       Sec. 53. (1)(a) In consultation with the Justice Reinvestment Grant Review Committee established under subsection (2) of this section, the Oregon Criminal Justice Commission shall administer the Justice Reinvestment Program described in this section. From funds appropriated to the commission for purposes of the program, the commission shall award grants to counties that establish a process to assess offenders and provide a continuum of community-based sanctions, services and programs that are designed to reduce recidivism and decrease the county’s utilization of imprisonment in a Department of Corrections institution while protecting public safety and holding offenders accountable.
 
       (b) Notwithstanding paragraph (a) of this subsection, no less than 10 percent of grant funds awarded under this section must be distributed to community-based nonprofit organizations that provide services to victims of crime.
 
       (2) The Justice Reinvestment Grant Review Committee is established, consisting of the following members:
 
-      (a) The Governor shall appoint the following five members:
+      (a) The Governor shall appoint the following seven members:
 
       (A) One member shall be a district attorney.
 
@@ -3511,9 +3689,13 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (E) One member shall be a community corrections director who is not a sheriff.
 
-      (b) The President of the Senate shall appoint two nonvoting members from among members of the Senate.
+      (F) Two members shall be representatives of community-based organizations that provide services for underserved racial, ethnic or minority communities.
 
-      (c) The Speaker of the House of Representatives shall appoint two nonvoting members from among members of the House of Representatives.
+      (b) The Chief Justice of the Supreme Court shall appoint one nonvoting member who is a judge.
+
+      (c) The President of the Senate shall appoint two nonvoting members from among members of the Senate.
+
+      (d) The Speaker of the House of Representatives shall appoint two nonvoting members from among members of the House of Representatives.
 
       (3)(a) A majority of the voting members of the committee constitutes a quorum for the transaction of business.
 
@@ -3525,25 +3707,37 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (e) Legislative members of the committee shall be entitled to payment of compensation and expenses under ORS 171.072, payable from funds appropriated to the Legislative Assembly.
 
-      (4) An application for a grant described in this section must be submitted by a local public safety coordinating council convened under ORS 423.560.
+      (4)(a) An application for a grant described in this section must be submitted by a local public safety coordinating council convened under ORS 423.560.
+
+      (b) The grant application must include a statement of commitment, from the relevant stakeholders of the service or program for which the county is requesting funding and including the district attorney, presiding judge and community corrections director, to reduce recidivism and decrease the county’s utilization of imprisonment in Department of Corrections facilities while protecting public safety and holding offenders accountable.
 
       (5)(a) During a grant application period established by the commission, the proportion of grant funds available to each county shall be determined in accordance with the formula used to distribute baseline funding under ORS 423.483.
 
       (b) At the conclusion of the grant application period, the commission shall award grants to counties in accordance with rules adopted by the commission. If unallocated funds remain at the conclusion of the grant acceptance period, the commission may establish a supplemental grant period and distribute the unallocated funds.
 
-      (6) The commission shall regularly evaluate the community-based sanctions, services and programs funded under this section. The commission shall report the results of an evaluation conducted under this section to a committee of the Legislative Assembly related to the judiciary.
+      (6)(a) The commission shall regularly evaluate the community-based sanctions, services and programs funded under this section. The commission shall specifically assess the extent to which each county is reducing utilization of imprisonment in Department of Corrections facilities by offenders convicted of felonies under ORS 137.717, 475.752 to 475.980, 811.182, 813.010 or 813.011.
 
-      (7)(a) Before applying for grant funds to administer a community-based program described in subsection (9)(a)(D) of this section, the county must obtain the consent of the presiding judge of the judicial district in which the county is located.
+      (b) The commission shall report the results of an evaluation conducted under this section to a committee of the Legislative Assembly related to the judiciary.
 
-      (b) A grant application to administer a community-based program described in subsection (9)(a)(D) of this section must include the costs of appointed counsel.
+      (7)(a) Before applying for grant funds to administer a community-based program described in subsection (10)(a)(D) of this section, the county must obtain the consent of the presiding judge of the judicial district in which the county is located.
+
+      (b) A grant application to administer a community-based program described in subsection (10)(a)(D) of this section must include the costs of appointed counsel.
 
       (8) After consulting with the Justice Reinvestment Grant Review Committee, the commission shall adopt rules to administer the Justice Reinvestment Program. The rules must include:
 
-      (a) A methodology for reviewing and approving grant applications and distributing grant funds. Rules described in this paragraph must provide the Justice Reinvestment Grant Review Committee with the ability to approve grant applications, subject to final approval by the commission.
+      (a) A methodology for reviewing and approving grant applications and distributing grant funds. Rules described in this paragraph must provide the Justice Reinvestment Grant Review Committee with the ability to approve grant applications for submission for final approval by the commission. The commission may either approve the grant application or return the application for reconsideration by the committee.
 
       (b) A process for evaluating the efficacy of community-based sanctions, services and programs funded under this section.
 
-      (9) As used in this section:
+      (c) A requirement that the grant review committee consider, when approving grant applications, each county’s historical reduction of utilization of imprisonment in Department of Corrections facilities by offenders convicted of felonies under ORS 137.717, 475.752 to 475.980, 811.182, 813.010 or 813.011.
+
+      (d) Provisions allowing the grant review committee to submit to the commission, and the commission to approve, provisional funding plans for counties applying for grants under this section.
+
+      (9)(a) If a county does not reduce utilization of imprisonment in Department of Corrections facilities by offenders convicted of felonies under ORS 137.717, 475.752 to 475.980, 811.182, 813.010 or 813.011, upon request of the grant review committee, the commission shall decline to grant the full grant amount requested by a county, provide technical assistance, withhold approved grant funds or terminate further distribution of the grant award.
+
+      (b) If the commission takes an action described in paragraph (a) of this subsection, any remaining moneys may be redistributed by the commission through a supplemental grant program. Priority shall be given to counties funding programs for historically underserved communities including rural communities, racial, ethnic and minority communities and tribal communities. Rural counties may apply for supplemental grants in cooperation with other rural counties.
+
+      (10) As used in this section:
 
       (a) “Community-based programs” includes:
 
@@ -3557,7 +3751,7 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
       (E) Specialty courts aimed at medium-risk and high-risk offenders.
 
-      (b) “County” includes a regional collection of counties. [2013 c.649 §53; 2013 c.649 §54]
+      (b) “County” includes a regional collection of counties. [2013 c.649 §53; 2013 c.649 §54; 2019 c.598 §1]
 
       Sec. 56. Sections 52 and 53 of this 2013 Act are repealed on July 1, 2023. [2013 c.649 §56]
 
@@ -3579,55 +3773,85 @@ OREGON CRIMINAL JUSTICE COMMISSION
 
  
 
-(Temporary provisions relating to Safety and Savings Act)
+(Temporary provisions relating to
+
+Safety and Savings Act)
 
  
 
-      Note: Sections 1, 9, 10 and 14, chapter 673, Oregon Laws 2017, provide:
+      Note: Sections 1, 10 and 14, chapter 673, Oregon Laws 2017, provide:
 
-      Sec. 1. Sections 7 to 10 of this 2017 Act, the amendments to ORS 137.717 and 421.168 and section 1, chapter 830, Oregon Laws 2015, by sections 2, 4, 5 and 6 of this 2017 Act and the repeal of section 16, chapter 649, Oregon Laws 2013, by section 3 of this 2017 Act shall be known and may be cited as the Safety and Savings Act. [2017 c.673 §1]
-
-      Sec. 9. (1) The Oregon Criminal Justice Commission shall establish a program to award supplemental grant funds to counties for downward departure prison diversion programs as part of the Justice Reinvestment Program described in section 53, chapter 649, Oregon Laws 2013. Notwithstanding sections 52 and 53 (1)(a), chapter 649, Oregon Laws 2013, the commission shall use the moneys described in section 7 of this 2017 Act for supplemental grant funds for downward departure prison diversion programs in counties selected by the commission to receive the supplemental grant funds. The commission shall give preference to counties establishing downward departure prison diversion programs on or after the effective date of this 2017 Act [August 8, 2017].
-
-      (2) The commission shall monitor the downward departure prison diversion programs described in subsection (1) of this section and evaluate prison utilization by counties that receive the supplemental grant funds. The commission shall annually report the evaluation findings to the Joint Interim Committee on Ways and Means. [2017 c.673 §9]
+      Sec. 1. Sections 7 to 10 [section 9 was repealed and section 5, chapter 98, Oregon Laws 2018, was enacted in lieu thereof] of this 2017 Act, the amendments to ORS 137.717 and 421.168 and section 1, chapter 830, Oregon Laws 2015, by sections 2, 4, 5 and 6 of this 2017 Act and the repeal of section 16, chapter 649, Oregon Laws 2013, by section 3 of this 2017 Act shall be known and may be cited as the Safety and Savings Act. [2017 c.673 §1]
 
       Sec. 10. The Oregon Criminal Justice Commission shall study the impact of this 2017 Act [chapter 673, Oregon Laws 2017] on prison utilization, recidivism and public safety and report the results of the study to the interim committees of the Legislative Assembly related to the judiciary, in the manner provided in ORS 192.245, no later than February 1 of each year. [2017 c.673 §10]
 
-      Sec. 14. (1) Section 9 of this 2017 Act is repealed on July 1, 2023.
-
-      (2) Section 10 of this 2017 Act is repealed on January 2, 2028. [2017 c.673 §14]
+      Sec. 14. Section 10, chapter 673, Oregon Laws 2017, is repealed on January 2, 2028. [2017 c.673 §14; 2018 c.98 §6]
 
  
 
-(Temporary provisions relating to studies and reports by commission)
+      Note: Sections 4, 5 and 7, chapter 98, Oregon Laws 2018, provide:
+
+      Sec. 4. Section 9, chapter 673, Oregon Laws 2017, is repealed and section 5 of this 2018 Act is enacted in lieu thereof. [2018 c.98 §4]
+
+      Sec. 5. (1) The Oregon Criminal Justice Commission shall establish a program to award supplemental grant funds to counties for downward departure prison diversion programs as part of the Justice Reinvestment Program described in section 53, chapter 649, Oregon Laws 2013. Notwithstanding sections 52 and 53 (1)(a), chapter 649, Oregon Laws 2013, the commission shall use any moneys appropriated to the commission for the supplemental grant program to award supplemental grant funds for downward departure prison diversion programs to counties selected by the commission to receive the funds. The commission shall give preference to counties establishing downward departure prison diversion programs on or after August 8, 2017.
+
+      (2) The commission shall monitor the downward departure prison diversion programs described in subsection (1) of this section and evaluate prison utilization by counties that receive the supplemental grant funds. The commission shall annually report the evaluation findings to the Joint Interim Committee on Ways and Means. [2018 c.98 §5]
+
+      Sec. 7. Section 5 of this 2018 Act is repealed on July 1, 2023. [2018 c.98 §7]
 
  
 
-      Note: Section 1, chapter 698, Oregon Laws 2017, provides:
-
-      Sec. 1. (1) The Oregon Criminal Justice Commission shall study, track and account for all public moneys appropriated for and expended on the provision of alcohol and drug treatment.
-
-      (2) The commission shall, when performing the study described in subsection (1) of this section, examine:
-
-      (a) Treatment provided by state agencies and other public entities;
-
-      (b) Treatment provided by private entities through contracts with public entities; and
-
-      (c) Outcomes of each type of treatment and, specifically, the effect of outcomes on the criminal justice system.
-
-      (3) The Oregon Health Authority, the Department of Human Services, the Department of Corrections and the Oregon Youth Authority shall assist the commission in the performance of the study described in this section and, to the extent permitted by laws relating to confidentiality, furnish information the commission considers necessary to perform the study.
-
-      (4) The commission shall submit a report detailing the results of the study to the interim committees of the Legislative Assembly related to the judiciary in the manner provided by ORS 192.245 no later than September 15, 2019. [2017 c.698 §1]
+(Temporary provisions relating to studies of local and regional correctional facilities by commission)
 
  
 
-      Note: Section 24, chapter 706, Oregon Laws 2017, provides:
+      Note: Sections 1 and 3, chapter 147, Oregon Laws 2019, provide:
 
-      Sec. 24. The Oregon Criminal Justice Commission shall study the effect that the reduction of certain unlawful possession of a controlled substance offenses from a felony to a misdemeanor has had on the criminal justice system, rates of recidivism and the composition of the population of persons convicted of felony offenses. The commission shall submit a report detailing the results of the study to the interim committees of the Legislative Assembly related to the judiciary in the manner provided by ORS 192.245 no later than September 15, 2018. [2017 c.706 §24]
+      Sec. 1. (1) The Oregon Criminal Justice Commission shall conduct studies on local and regional correctional facilities across this state as follows:
+
+      (a) The commission shall study current practices at each facility related to data and data collection, including:
+
+      (A) The collection and availability of census data.
+
+      (B) The collection and availability of death rates.
+
+      (C) The collection and availability of data on the medical, mental and behavioral health conditions of prisoners.
+
+      (D) The use of data systems and availability of data reporting generally.
+
+      (E) The use and availability of aggregate data from local and regional correctional facilities across this state.
+
+      (b)(A) The commission shall study current practices at each facility related to health care, including:
+
+      (i) The manner and means by which health care is currently provided.
+
+      (ii) The current cost of health care in the facilities.
+
+      (iii) Barriers to the provision of adequate health care.
+
+      (B) As used in this paragraph, “health care” includes medical, mental and behavioral health care.
+
+      (c) The commission shall obtain and analyze the standards, policies and procedures used by each facility and report as to whether the standards, policies and procedures:
+
+      (A) Adequately protect the rights of prisoners under the Oregon and United States Constitutions.
+
+      (B) Are in conformance with national best practices in jail administration.
+
+      (2) For the study described in subsection (1)(a) of this section, local and regional correctional facilities shall submit primary, unprocessed data regarding their in-custody populations to the commission.
+
+      (3)(a) The commission shall convene an advisory council for the studies described in subsection (1) of this section which must include representatives from a sheriff’s organization, a district attorneys association, a criminal defense association, a civil rights and civil liberties organization, a disability rights organization, the Oregon Health Authority, the Department of Justice, a member of the House of Representatives, a member of the Senate and a representative from the Governor’s office.
+
+      (b) The commission, in consultation with the advisory council, shall determine the content and acceptable format for any data, information or documentation submitted by local and regional correctional facilities for the studies described in subsection (1) of this section.
+
+      (c) Local and regional correctional facilities shall submit all data, information or documentation for the studies described in subsection (1) of this section by January 1, 2020.
+
+      (4) The commission shall present the results of the studies described in subsection (1) of this section, along with any national best practices, local promising practices, and recommended legislative changes, in a report to the interim committees of the Legislative Assembly related to the judiciary in the manner provided under ORS 192.245 on or before September 15, 2020. [2019 c.147 §1]
+
+      Sec. 3. Section 1 of this 2019 Act is repealed on January 2, 2021. [2019 c.147 §3]
 
  
 
-PRESUMPTIVE SENTENCES, MANDATORY MINIMUM SENTENCES AND ADULT PROSECUTION OF 15-, 16- AND 17-YEAR-OLD OFFENDERS
+PRESUMPTIVE SENTENCES, MANDATORY MINIMUM SENTENCES AND ADULT PROSECUTION OF CERTAIN JUVENILE OFFENDERS
 
  
 
@@ -3659,185 +3883,201 @@ ______________________________________________________________________________
 
  
 
-     (a)(A)    Murder, as defined in
+      (a)(A)        Murder in the second
 
-                   ORS 163.115.                               300 months
+                        degree, as defined in
 
-     (B)        Attempt or conspiracy
+                        ORS 163.115.                         300 months
 
-                   to commit aggravated
+      (B)             Murder in the first
 
-                   murder, as defined
+                        degree, as defined
 
-                   in ORS 163.095.                           120 months
+                        in ORS 163.107                      360 months
 
-     (C)        Attempt or conspiracy
+      (C)             Attempt or conspiracy
 
-                   to commit murder, as
+                        to commit aggravated
 
-                   defined in ORS 163.115.              90 months
+                        murder, as defined
 
-     (D)        Manslaughter in the
+                        in ORS 163.095.                     120 months
 
-                   first degree, as defined
+      (D)             Attempt or conspiracy
 
-                   in ORS 163.118.                           120 months
+                        to commit murder
 
-     (E)         Manslaughter in the
+                        in any degree.                         90 months
 
-                   second degree, as defined
+      (E)             Manslaughter in the
 
-                   in ORS 163.125.                           75 months
+                        first degree, as defined
 
-     (F)         Assault in the first
+                        in ORS 163.118.                     120 months
 
-                   degree, as defined in
+      (F)             Manslaughter in the
 
-                   ORS 163.185.                               90 months
+                        second degree, as defined
 
-     (G)        Assault in the second
+                        in ORS 163.125.                     75 months
 
-                   degree, as defined in
+      (G)             Assault in the first
 
-                   ORS 163.175.                               70 months
+                        degree, as defined in
 
-     (H)        Except as provided in
+                        ORS 163.185.                         90 months
 
-                   paragraph (b)(G) of
+      (H)             Assault in the second
 
-                   this subsection,
+                        degree, as defined in
 
-                   kidnapping in the first
+                        ORS 163.175.                         70 months
 
-                   degree, as defined
+      (I)              Except as provided in
 
-                   in ORS 163.235.                           90 months
+                        paragraph (b)(G) of
 
-     (I)          Kidnapping in the second
+                        this subsection,
 
-                   degree, as defined in
+                        kidnapping in the first
 
-                   ORS 163.225.                               70 months
+                        degree, as defined
 
-     (J)          Rape in the first degree,
+                        in ORS 163.235.                     90 months
 
-                   as defined in ORS 163.375
+      (J)              Kidnapping in the second
 
-                   (1)(a), (c) or (d).                           100 months
+                        degree, as defined in
 
-     (K)        Rape in the second degree,
+                        ORS 163.225.                         70 months
 
-                   as defined in ORS 163.365.          75 months
+      (K)             Rape in the first degree,
 
-     (L)         Sodomy in the first degree,
+                        as defined in ORS 163.375
 
-                   as defined in ORS 163.405
+                        (1)(a), (c) or (d).                     100 months
 
-                   (1)(a), (c) or (d).                           100 months
+      (L)             Rape in the second degree,
 
-     (M)        Sodomy in the second
+                        as defined in
 
-                   degree, as defined in
+                        ORS 163.365.                         75 months
 
-                   ORS 163.395.                               75 months
+      (M)            Sodomy in the first degree,
 
-     (N)        Unlawful sexual penetration
+                        as defined in ORS 163.405
 
-                   in the first degree, as
+                        (1)(a), (c) or (d).                     100 months
 
-                   defined in ORS 163.411
+      (N)             Sodomy in the second
 
-                   (1)(a) or (c).                                  100 months
+                        degree, as defined in
 
-     (O)        Unlawful sexual penetration
+                        ORS 163.395.                         75 months
 
-                   in the second degree, as
+      (O)             Unlawful sexual penetration
 
-                   defined in ORS 163.408.              75 months
+                        in the first degree, as
 
-     (P)         Sexual abuse in the first
+                        defined in ORS 163.411
 
-                   degree, as defined in
+                        (1)(a) or (c).                            100 months
 
-                   ORS 163.427.                               75 months
+      (P)             Unlawful sexual penetration
 
-     (Q)        Robbery in the first degree,
+                        in the second degree, as
 
-                   as defined in ORS 164.415.          90 months
+                        defined in ORS 163.408.        75 months
 
-     (R)        Robbery in the second
+      (Q)             Sexual abuse in the first
 
-                   degree, as defined in
+                        degree, as defined in
 
-                   ORS 164.405.                               70 months
+                        ORS 163.427.                         75 months
 
-     (b)(A)    Arson in the first degree,
+      (R)             Robbery in the first degree,
 
-                   as defined in ORS 164.325,
+                        as defined in
 
-                   when the offense represented
+                        ORS 164.415.                         90 months
 
-                   a threat of serious
+      (S)             Robbery in the second
 
-                   physical injury.                              90 months
+                        degree, as defined in
 
-     (B)        Using a child in a display
+                        ORS 164.405.                         70 months
 
-                   of sexually explicit
+      (b)(A)        Arson in the first degree,
 
-                   conduct, as defined in
+                        as defined in ORS 164.325,
 
-                   ORS 163.670.                               70 months
+                        when the offense represented
 
-     (C)        Compelling prostitution,
+                        a threat of serious
 
-                   as defined in ORS 167.017.          70 months
+                        physical injury.                       90 months
 
-     (D)        Rape in the first degree,
+      (B)             Using a child in a display
 
-                   as defined in
+                        of sexually explicit
 
-                   ORS 163.375 (1)(b).                     300 months
+                        conduct, as defined in
 
-     (E)         Sodomy in the first degree,
+                        ORS 163.670.                         70 months
 
-                   as defined in
+      (C)             Compelling prostitution,
 
-                   ORS 163.405 (1)(b).                     300 months
+                        as defined in
 
-     (F)         Unlawful sexual penetration
+                        ORS 167.017.                         70 months
 
-                   in the first degree, as
+      (D)             Rape in the first degree,
 
-                   defined in
+                        as defined in
 
-                   ORS 163.411 (1)(b).                     300 months
+                        ORS 163.375 (1)(b).               300 months
 
-     (G)        Kidnapping in the first
+      (E)             Sodomy in the first degree,
 
-                   degree, as defined in
+                        as defined in
 
-                   ORS 163.235, when the
+                        ORS 163.405 (1)(b).               300 months
 
-                   offense is committed in
+      (F)             Unlawful sexual penetration
 
-                   furtherance of the commission
+                        in the first degree, as
 
-                   or attempted commission of an
+                        defined in
 
-                   offense listed in subparagraph
+                        ORS 163.411 (1)(b).               300 months
 
-                   (D), (E) or (F) of
+      (G)             Kidnapping in the first
 
-                   this paragraph.                               300 months
+                        degree, as defined in
 
-     (c)         Aggravated vehicular
+                        ORS 163.235, when the
 
-                   homicide, as defined in
+                        offense is committed in
 
-                   ORS 163.149.                               240 months
+                        furtherance of the commission
 
-______________________________________________________________________________ [1995 c.2 §1; 1995 c.421 §1; 1995 c.422 §47; 1997 c.852 §2; 2006 c.1 §1; 2007 c.867 §5]
+                        or attempted commission of an
+
+                        offense listed in subparagraph
+
+                        (D), (E) or (F) of
+
+                        this paragraph.                        300 months
+
+      (c)             Aggravated vehicular
+
+                        homicide, as defined in
+
+                        ORS 163.149.                         240 months
+
+ 
+
+______________________________________________________________________________ [1995 c.2 §1; 1995 c.421 §1; 1995 c.422 §47; 1997 c.852 §2; 2006 c.1 §1; 2007 c.867 §5; 2019 c.635 §10]
 
  
 
@@ -3851,9 +4091,9 @@ ______________________________________________________________________________ [
 
  
 
-      137.705 Definitions for ORS 137.705 and 137.707. (1)(a) As used in this section and ORS 137.707:
+      137.705 Definitions; adult prosecution of certain juvenile offenders. (1)(a) As used in this section and ORS 137.707:
 
-      (A) “Charged” means the filing of an accusatory instrument in a court of criminal jurisdiction alleging the commission of an offense listed in ORS 137.707.
+      (A) “Charged” means the filing of an accusatory instrument in a court of criminal jurisdiction.
 
       (B) “Detention facility” has the meaning given that term in ORS 419A.004.
 
@@ -3861,15 +4101,17 @@ ______________________________________________________________________________ [
 
       (b) Unless otherwise provided in ORS 137.707, ORS chapters 137 and 138 apply to proceedings under ORS 137.707.
 
-      (2)(a) Notwithstanding ORS 419B.100 and 419C.005, a person 15, 16 or 17 years of age at the time of committing the offense may be charged with the commission of an offense listed in ORS 137.707 and may be prosecuted as an adult.
+      (2)(a) If the juvenile court enters an order of waiver under ORS 419C.349 (1)(a), the person waived may be charged with the commission of an offense listed in ORS 137.707 and may be prosecuted as an adult. The person may be detained in custody only in a detention facility, unless the person is 16 or 17 years of age and the director of the county juvenile department and the sheriff agree to detain the person in a jail or other place where adults are detained. A person detained in accordance with this paragraph is subject to release on the same terms and conditions as for adults.
 
-      (b) The district attorney shall notify the juvenile court and the juvenile department when a person under 18 years of age is charged with an offense listed in ORS 137.707.
+      (b) If a person waived under ORS 419C.349 (1)(a) is under 16 years of age, the person may not be detained before conviction, or after conviction but before execution of the sentence, in a jail or other place where adults are detained. [1995 c.422 §48; 2011 c.122 §1; 2019 c.634 §4]
 
-      (c) The filing of an accusatory instrument in a criminal court under ORS 137.707 divests the juvenile court of jurisdiction in the matter if juvenile court jurisdiction is based on the conduct alleged in the accusatory instrument or any conduct arising out of the same act or transaction. Upon receiving notice from the district attorney under paragraph (b) of this subsection, the juvenile court shall dismiss, without prejudice, the juvenile court proceeding and enter any order necessary to transfer the matter or transport the person to the criminal court for further proceedings. Nothing in this paragraph affects the authority or jurisdiction of the juvenile court with respect to other matters or conduct.
+ 
 
-      (3)(a) A person charged with a crime under ORS 137.707 who is 16 or 17 years of age shall be detained in custody in a detention facility, unless the director of the county juvenile department and the sheriff agree to detain the person in a jail or other place where adults are detained. A person detained in accordance with this paragraph is subject to release on the same terms and conditions as for adults.
+      Note: Section 32, chapter 634, Oregon Laws 2019, provides:
 
-      (b) If a person charged with a crime under ORS 137.707 is under 16 years of age, the person may not be detained, either before conviction or after conviction but before execution of the sentence, in a jail or other place where adults are detained. [1995 c.422 §48; 2011 c.122 §1]
+      Sec. 32. (1) Sections 24 [161.740] and 25 [144.397], chapter 634, Oregon Laws 2019, and the amendments to ORS 137.071, 137.124, 137.705, 137.707, 137.712, 144.185, 161.610, 161.620, 163.105, 163.115, 163.155, 163A.130, 163A.135, 339.317, 339.319, 339.321, 419C.005, 419C.050, 419C.346, 419C.349, 419C.352, 419C.355, 419C.358, 419C.361, 420.011, 420.081 and 420A.203 and section 3, chapter 635, Oregon Laws 2019 [163.107], by sections 1 to 23 and 26 to 29, chapter 634, Oregon Laws 2019, and section 3a, chapter 635, Oregon Laws 2019, apply to sentences imposed on or after January 1, 2020.
+
+      (2) Notwithstanding subsection (1) of this section, sections 24 and 25, chapter 634, Oregon Laws 2019, and the amendments to ORS 137.071, 137.124, 137.705, 137.707, 137.712, 144.185, 161.610, 161.620, 163.105, 163.115, 163.155, 163A.130, 163A.135, 339.317, 339.319, 339.321, 419C.005, 419C.050, 419C.346, 419C.349, 419C.352, 419C.355, 419C.358, 419C.361, 420.011, 420.081 and 420A.203 and section 3, chapter 635, Oregon Laws 2019, by sections 1 to 23 and 26 to 29, chapter 634, Oregon Laws 2019, and section 3a, chapter 635, Oregon Laws 2019, do not apply to persons who were originally sentenced before January 1, 2020, and who are subsequently resentenced on or after January 1, 2020, as the result of an appellate decision or a post-conviction relief proceeding or for any other reason. [2019 c.634 §32; 2019 c.635 §3c; 2019 c.685 §4]
 
  
 
@@ -3877,11 +4119,9 @@ ______________________________________________________________________________ [
 
  
 
-      137.707 Adult prosecution of 15-, 16- or 17-year-old offenders; mandatory minimum sentences; lesser included offenses; transfer to juvenile court. (1)(a) Notwithstanding any other provision of law, when a person charged with aggravated murder, as defined in ORS 163.095, or an offense listed in subsection (4)(a) of this section is 15, 16 or 17 years of age at the time the offense is committed, and the offense is committed on or after April 1, 1995, or when a person charged with an offense listed in subsection (4)(b) of this section is 15, 16 or 17 years of age at the time the offense is committed, and the offense is committed on or after October 4, 1997, or when a person charged with the offense described in subsection (4)(c) of this section is 15, 16 or 17 years of age at the time the offense is committed and the offense is committed on or after January 1, 2008, the person shall be prosecuted as an adult in criminal court.
+      137.707 Mandatory minimum sentences for certain juvenile offenders waived to adult court; lesser included offenses; return to juvenile court. (1) When a person waived under ORS 419C.349 (1)(a) is convicted of an offense listed in subsection (4) of this section, the court shall impose at least the presumptive term of imprisonment provided for the offense in subsection (4) of this section. The court may impose a greater presumptive term if otherwise permitted by law, but may not impose a lesser term. The person is not, during the service of the term of imprisonment, eligible for release on post-prison supervision or any form of temporary leave from custody. The person is not eligible for any reduction in the minimum sentence for any reason under ORS 421.121 or any other provision of law. The person is eligible for a hearing and conditional release under ORS 420A.203 and 420A.206.
 
-      (b) A district attorney, the Attorney General or a juvenile department counselor may not file in juvenile court a petition alleging that a person has committed an act that, if committed by an adult, would constitute aggravated murder or an offense listed in subsection (4) of this section if the person was 15, 16 or 17 years of age at the time the act was committed.
-
-      (2) When a person charged under this section is convicted of an offense listed in subsection (4) of this section, the court shall impose at least the presumptive term of imprisonment provided for the offense in subsection (4) of this section. The court may impose a greater presumptive term if otherwise permitted by law, but may not impose a lesser term. The person is not, during the service of the term of imprisonment, eligible for release on post-prison supervision or any form of temporary leave from custody. The person is not eligible for any reduction in, or based on, the minimum sentence for any reason under ORS 421.121 or any other provision of law. ORS 138.052, 163.105 and 163.150 apply to sentencing a person prosecuted under this section and convicted of aggravated murder under ORS 163.095 except that a person who was under 18 years of age at the time the offense was committed is not subject to a sentence of death.
+      (2) ORS 138.052, 163.105 and 163.150 apply to sentencing a person prosecuted under this section and convicted of aggravated murder under ORS 163.095 except that a person who was under 18 years of age at the time the offense was committed is not subject to a sentence of death or life imprisonment without the possibility of release or parole.
 
       (3) The court shall commit the person to the legal and physical custody of the Department of Corrections.
 
@@ -3891,147 +4131,153 @@ ______________________________________________________________________________
 
  
 
-     (a)(A)    Murder, as defined in
+      (a)(A)        Murder in the second
 
-                   ORS 163.115.                               300 months
+                        degree, as defined in
 
-     (B)        Attempt or conspiracy
+                        ORS 163.115.                         300 months
 
-                   to commit aggravated
+      (B)             Murder in the first
 
-                   murder, as defined
+                        degree, as defined
 
-                   in ORS 163.095.                           120 months
+                        in ORS 163.107.                     360 months
 
-     (C)        Attempt or conspiracy
+      (C)             Attempt or conspiracy
 
-                   to commit murder, as
+                        to commit aggravated
 
-                   defined in ORS 163.115.              90 months
+                        murder, as defined
 
-     (D)        Manslaughter in the
+                        in ORS 163.095.                     120 months
 
-                   first degree, as defined
+      (D)             Attempt or conspiracy
 
-                  in ORS 163.118.                           120 months
+                        to commit murder
 
-     (E)         Manslaughter in the
+                        in any degree.                         90 months
 
-                   second degree, as defined
+      (E)             Manslaughter in the
 
-                   in ORS 163.125.                           75 months
+                        first degree, as defined
 
-     (F)         Assault in the first
+                        in ORS 163.118.                     120 months
 
-                   degree, as defined
+      (F)             Manslaughter in the
 
-                   in ORS 163.185.                           90 months
+                        second degree, as defined
 
-     (G)        Assault in the second
+                        in ORS 163.125.                     75 months
 
-                   degree, as defined
+      (G)             Assault in the first
 
-                   in ORS 163.175.                           70 months
+                        degree, as defined
 
-     (H)        Kidnapping in the first
+                        in ORS 163.185.                     90 months
 
-                   degree, as defined in
+      (H)             Assault in the second
 
-                   ORS 163.235.                               90 months
+                        degree, as defined
 
-     (I)          Kidnapping in the second
+                        in ORS 163.175.                     70 months
 
-                   degree, as defined in
+      (I)              Kidnapping in the first
 
-                   ORS 163.225.                               70 months
+                        degree, as defined in
 
-     (J)          Rape in the first degree,
+                        ORS 163.235.                         90 months
 
-                   as defined in ORS 163.375.          100 months
+      (J)              Kidnapping in the second
 
-     (K)        Rape in the second
+                        degree, as defined in
 
-                   degree, as defined in
+                        ORS 163.225.                         70 months
 
-                   ORS 163.365.                               75 months
+      (K)             Rape in the first degree,
 
-     (L)         Sodomy in the first
+                        as defined in ORS 163.375.    100 months
 
-                   degree, as defined in
+      (L)             Rape in the second
 
-                   ORS 163.405.                               100 months
+                        degree, as defined in
 
-     (M)        Sodomy in the second
+                        ORS 163.365.                         75 months
 
-                   degree, as defined in
+      (M)            Sodomy in the first
 
-                   ORS 163.395.                               75 months
+                        degree, as defined in
 
-     (N)        Unlawful sexual
+                        ORS 163.405.                         100 months
 
-                   penetration in the first
+      (N)             Sodomy in the second
 
-                   degree, as defined
+                        degree, as defined in
 
-                   in ORS 163.411.                           100 months
+                        ORS 163.395.                         75 months
 
-     (O)        Unlawful sexual
+      (O)             Unlawful sexual
 
-                   penetration in the
+                        penetration in the first
 
-                   second degree, as
+                        degree, as defined
 
-                   defined in ORS 163.408.              75 months
+                        in ORS 163.411.                     100 months
 
-     (P)         Sexual abuse in the first
+      (P)             Unlawful sexual
 
-                   degree, as defined in
+                        penetration in the
 
-                   ORS 163.427.                               75 months
+                        second degree, as
 
-     (Q)        Robbery in the first
+                        defined in ORS 163.408.        75 months
 
-                   degree, as defined in
+      (Q)             Sexual abuse in the first
 
-                   ORS 164.415.                               90 months
+                        degree, as defined in
 
-     (R)        Robbery in the second
+                        ORS 163.427.                         75 months
 
-                   degree, as defined in
+      (R)             Robbery in the first
 
-                   ORS 164.405.                               70 months
+                        degree, as defined in
 
-     (b)(A)    Arson in the first degree,
+                        ORS 164.415.                         90 months
 
-                   as defined in
+      (S)             Robbery in the second
 
-                   ORS 164.325, when
+                        degree, as defined in
 
-                   the offense represented
+                        ORS 164.405.                         70 months
 
-                   a threat of serious
+      (b)(A)        Arson in the first degree,
 
-                   physical injury.                              90 months
+                        as defined in ORS 164.325,
 
-     (B)        Using a child in a display
+                        when the offense represented
 
-                   of sexually explicit
+                        a threat of serious
 
-                   conduct, as defined in
+                        physical injury.                       90 months
 
-                   ORS 163.670.                               70 months
+      (B)             Using a child in a display
 
-     (C)        Compelling prostitution,
+                        of sexually explicit
 
-                   as defined in ORS 167.017
+                        conduct, as defined in
 
-                   (1)(a), (b) or (d).                           70 months
+                        ORS 163.670.                         70 months
 
-     (c)         Aggravated vehicular
+      (C)             Compelling prostitution,
 
-                   homicide, as defined in
+                        as defined in ORS 167.017
 
-                   ORS 163.149.                               240 months
+                        (1)(a), (b) or (d).                     70 months
+
+      (c)             Aggravated vehicular
+
+                        homicide, as defined in
+
+                        ORS 163.149.                         240 months
 
 ______________________________________________________________________________
 
@@ -4039,37 +4285,43 @@ ______________________________________________________________________________
 
       (5) If a person charged with an offense under this section is found guilty of a lesser included offense and the lesser included offense is:
 
-      (a) An offense listed in subsection (4) of this section, the court shall sentence the person as provided in subsection (2) of this section.
+      (a) An offense listed in subsection (4) of this section, the court shall sentence the person as provided in subsections (1) and (2) of this section.
 
       (b) Not an offense listed in subsection (4) of this section:
 
-      (A) But constitutes an offense for which waiver is authorized under ORS 419C.349, the court, upon motion of the district attorney, shall hold a hearing to determine whether to retain jurisdiction or to transfer the case to juvenile court for disposition. In determining whether to retain jurisdiction, the court shall consider the criteria for waiver in ORS 419C.349. If the court retains jurisdiction, the court shall sentence the person as an adult under sentencing guidelines. If the court does not retain jurisdiction, the court shall:
+      (A) But constitutes an offense for which waiver is authorized under ORS 419C.349 (1)(b), the court, upon motion of the district attorney, shall hold a hearing to determine whether to retain jurisdiction or to transfer the case to juvenile court for disposition. In determining whether to retain jurisdiction, the court shall consider the criteria for waiver in ORS 419C.349. If the court retains jurisdiction, the court shall sentence the person as an adult under sentencing guidelines. If the court does not retain jurisdiction, the court shall:
 
       (i) Order that a presentence report be prepared;
 
-      (ii) Set forth in a memorandum any observations and recommendations that the court deems appropriate; and
+      (ii) Set forth in a memorandum any observations and recommendations that the court deems appropriate;
 
-      (iii) Enter an order transferring the case to the juvenile court for disposition under ORS 419C.067 and 419C.411.
+      (iii) Enter an order transferring the case to the juvenile court for disposition under ORS 419C.067 and 419C.411; and
 
-      (B) And is not an offense for which waiver is authorized under ORS 419C.349, the court may not sentence the person. The court shall:
+      (iv) Enter an order providing that all court records of the case are subject to the same limitations on inspection, copying and disclosure of records, reports and materials as those set forth under ORS 419A.255.
+
+      (B) And is not an offense for which waiver is authorized under ORS 419C.349 (1)(b), the court may not sentence the person. The court shall:
 
       (i) Order that a presentence report be prepared;
 
-      (ii) Set forth in a memorandum any observations and recommendations that the court deems appropriate; and
+      (ii) Set forth in a memorandum any observations and recommendations that the court deems appropriate;
 
-      (iii) Enter an order transferring the case to the juvenile court for disposition under ORS 419C.067 and 419C.411.
+      (iii) Enter an order transferring the case to the juvenile court for disposition under ORS 419C.067 and 419C.411; and
+
+      (iv) Enter an order providing that all court records of the case are subject to the same limitations on inspection, copying and disclosure of records, reports and materials as those set forth under ORS 419A.255.
 
       (6) When a person is charged under this section, other offenses based on the same act or transaction shall be charged as separate counts in the same accusatory instrument and consolidated for trial, whether or not the other offenses are aggravated murder or offenses listed in subsection (4) of this section. If it appears, upon motion, that the state or the person charged is prejudiced by the joinder and consolidation of offenses, the court may order an election or separate trials of counts or provide whatever other relief justice requires.
 
-      (7)(a) If a person charged and tried as provided in subsection (6) of this section is found guilty of aggravated murder or an offense listed in subsection (4) of this section and one or more other offenses, the court shall impose the sentence for aggravated murder or the offense listed in subsection (4) of this section as provided in subsection (2) of this section and shall impose sentences for the other offenses as otherwise provided by law.
+      (7)(a) If a person charged and tried as provided in subsection (6) of this section is found guilty of aggravated murder or an offense listed in subsection (4) of this section and one or more other offenses, the court shall impose the sentence for aggravated murder or the offense listed in subsection (4) of this section as provided in subsections (1) and (2) of this section and shall impose sentences for the other offenses as otherwise provided by law.
 
-      (b) If a person charged and tried as provided in subsection (6) of this section is not found guilty of aggravated murder or an offense listed in subsection (4) of this section, but is found guilty of one of the other charges that constitutes an offense for which waiver is authorized under ORS 419C.349, the court, upon motion of the district attorney, shall hold a hearing to determine whether to retain jurisdiction or to transfer the case to juvenile court for disposition. In determining whether to retain jurisdiction, the court shall consider the criteria for waiver in ORS 419C.349. If the court retains jurisdiction, the court shall sentence the person as an adult under sentencing guidelines. If the court does not retain jurisdiction, the court shall:
+      (b) If a person charged and tried as provided in subsection (6) of this section is not found guilty of aggravated murder or an offense listed in subsection (4) of this section, but is found guilty of one of the other charges that constitutes an offense for which waiver is authorized under ORS 419C.349 (1)(b), the court, upon motion of the district attorney, shall hold a hearing to determine whether to retain jurisdiction or to transfer the case to juvenile court for disposition. In determining whether to retain jurisdiction, the court shall consider the criteria for waiver in ORS 419C.349. If the court retains jurisdiction, the court shall sentence the person as an adult under sentencing guidelines. If the court does not retain jurisdiction, the court shall:
 
       (A) Order that a presentence report be prepared;
 
-      (B) Set forth in a memorandum any observations and recommendations that the court deems appropriate; and
+      (B) Set forth in a memorandum any observations and recommendations that the court deems appropriate;
 
-      (C) Enter an order transferring the case to the juvenile court for disposition under ORS 419C.067 and 419C.411. [1995 c.422 §49; 1995 c.421 §4; 1997 c.852 §3; 1999 c.1055 §12; 2007 c.867 §6; 2011 c.334 §2]
+      (C) Enter an order transferring the case to the juvenile court for disposition under ORS 419C.067 and 419C.411; and
+
+      (D) Enter an order providing that all court records of the case are subject to the same limitations on inspection, copying and disclosure of records, reports and materials as those set forth under ORS 419A.255. [1995 c.422 §49; 1995 c.421 §4; 1997 c.852 §3; 1999 c.1055 §12; 2007 c.867 §6; 2011 c.334 §2; 2019 c.634 §5; 2019 c.635 §11]
 
  
 
@@ -4085,7 +4337,7 @@ ______________________________________________________________________________
 
  
 
-      137.712 Exceptions to ORS 137.700 and 137.707. (1)(a) Notwithstanding ORS 137.700 and 137.707, when a person is convicted of manslaughter in the second degree as defined in ORS 163.125, assault in the second degree as defined in ORS 163.175 (1)(b), kidnapping in the second degree as defined in ORS 163.225, rape in the second degree as defined in ORS 163.365, sodomy in the second degree as defined in ORS 163.395, unlawful sexual penetration in the second degree as defined in ORS 163.408, sexual abuse in the first degree as defined in ORS 163.427 (1)(a)(A) or robbery in the second degree as defined in ORS 164.405, the court may impose a sentence according to the rules of the Oregon Criminal Justice Commission that is less than the minimum sentence that otherwise may be required by ORS 137.700 or 137.707 if the court, on the record at sentencing, makes the findings set forth in subsection (2) of this section and finds that a substantial and compelling reason under the rules of the Oregon Criminal Justice Commission justifies the lesser sentence. When the court imposes a sentence under this subsection, the person is eligible for a reduction in the sentence as provided in ORS 421.121 and any other statute.
+      137.712 Exceptions to ORS 137.700 and 137.707. (1)(a) Notwithstanding ORS 137.700 and 137.707, when a person is convicted of manslaughter in the second degree as defined in ORS 163.125, assault in the second degree as defined in ORS 163.175 (1)(b), kidnapping in the second degree as defined in ORS 163.225, rape in the second degree as defined in ORS 163.365, sodomy in the second degree as defined in ORS 163.395, unlawful sexual penetration in the second degree as defined in ORS 163.408, sexual abuse in the first degree as defined in ORS 163.427 (1)(a)(A) or robbery in the second degree as defined in ORS 164.405, the court may impose a sentence according to the rules of the Oregon Criminal Justice Commission that is less than the minimum sentence that otherwise may be required by ORS 137.700 or 137.707 if the court, on the record at sentencing, makes the findings set forth in subsection (2) of this section and finds that a substantial and compelling reason under the rules of the Oregon Criminal Justice Commission justifies the lesser sentence. When the court imposes a sentence under this subsection, the person is eligible for a reduction in the sentence as provided in ORS 421.121 and any other statute and is eligible for a hearing and conditional release under ORS 420A.203 and 420A.206.
 
       (b) In order to make a dispositional departure under this section, the court must make the following additional findings on the record:
 
@@ -4195,7 +4447,7 @@ ______________________________________________________________________________
 
       (m) Robbery in the third degree, as defined in ORS 164.395;
 
-      (n) Intimidation in the first degree, as defined in ORS 166.165;
+      (n) A bias crime in the first degree, as defined in ORS 166.165;
 
       (o) Promoting prostitution, as defined in ORS 167.012; and
 
@@ -4221,7 +4473,7 @@ ______________________________________________________________________________
 
       (C) Causes a protracted disfigurement; or
 
-      (D) Causes a prolonged impairment of health or the function of any bodily organ. [1997 c.852 §1; 1999 c.614 §3; 1999 c.954 §2; 2001 c.851 §5; 2005 c.843 §22; 2011 c.291 §3]
+      (D) Causes a prolonged impairment of health or the function of any bodily organ. [1997 c.852 §1; 1999 c.614 §3; 1999 c.954 §2; 2001 c.851 §5; 2005 c.843 §22; 2011 c.291 §3; 2019 c.553 §13; 2019 c.634 §23]
 
  
 
@@ -4539,20 +4791,6 @@ SENTENCING REQUIREMENTS CONCERNING DEFENDANT’S ELIGIBILITY FOR CERTAIN TYPES O
 
  
 
-      Note: The amendments to 137.750 by section 17, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      137.750. (1) When a court sentences a defendant to a term of incarceration upon conviction of a crime, the court shall order on the record in open court as part of the sentence imposed that the defendant may be considered by the executing or releasing authority for any form of temporary leave from custody, reduction in sentence, work release or program of conditional or supervised release authorized by law for which the defendant is otherwise eligible at the time of sentencing, unless the court finds on the record in open court substantial and compelling reasons to order that the defendant not be considered for such leave, release or program.
-
-      (2) The executing or releasing authority may consider the defendant for a program described in subsection (1) of this section only upon order of the sentencing court appearing in the judgment.
-
-      (3) As used in this section:
-
-      (a) “Executing or releasing authority” means the Department of Corrections, State Board of Parole and Post-Prison Supervision, Oregon Youth Authority, Psychiatric Security Review Board, Oregon Health Authority, sentencing court or supervisory authority.
-
-      (b) “Supervisory authority” has the meaning given that term in ORS 144.087.
-
- 
-
       Note: 137.750 to 137.754 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 137 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -4561,7 +4799,7 @@ SENTENCING REQUIREMENTS CONCERNING DEFENDANT’S ELIGIBILITY FOR CERTAIN TYPES O
 
       (a) The defendant meets the eligibility requirements of subsections (2) and (3) of this section;
 
-      (b) The defendant was not on probation, parole or post-prison supervision for an offense listed in ORS 137.712 (4) or 811.705 (2)(b) at the time of the commission of the current crime of conviction;
+      (b) The defendant was not on probation, parole or post-prison supervision for an offense listed in ORS 137.712 (4) or 811.705 (3)(b) at the time of the commission of the current crime of conviction;
 
       (c) The defendant has not previously been released on post-prison supervision under ORS 421.508 (4);
 
@@ -4577,7 +4815,7 @@ SENTENCING REQUIREMENTS CONCERNING DEFENDANT’S ELIGIBILITY FOR CERTAIN TYPES O
 
       (C) Not unduly reduce the appropriate punishment.
 
-      (2) Except as provided in subsection (4) of this section, a defendant may not be released on post-prison supervision under ORS 421.508 (4) if the defendant is being sentenced for a crime under ORS 163.145, 163.165 (1)(a) or (b), 163.525 or 811.705 (2)(b).
+      (2) Except as provided in subsection (4) of this section, a defendant may not be released on post-prison supervision under ORS 421.508 (4) if the defendant is being sentenced for a crime under ORS 163.145, 163.165 (1)(a) or (b), 163.525 or 811.705 (3)(b).
 
       (3) A defendant may not be released on post-prison supervision under ORS 421.508 (4) if the defendant is being sentenced for a crime listed in ORS 137.700, 137.707 or 163.095 or a sex crime as defined in ORS 163A.005.
 
@@ -4589,11 +4827,11 @@ SENTENCING REQUIREMENTS CONCERNING DEFENDANT’S ELIGIBILITY FOR CERTAIN TYPES O
 
       (b) Include the order described in paragraph (a) of this subsection in the judgment.
 
-      (6) Subject to the requirements of this section, the court may order that the defendant serve a minimum period of incarceration before the defendant is released on post-prison supervision under ORS 421.508 (4). Nothing in this section authorizes the release of the defendant on post-prison supervision before the defendant has served the period of time described in ORS 421.508 (4)(b). [2008 c.35 §1; 2009 c.713 §17]
+      (6) Subject to the requirements of this section, the court may order that the defendant serve a minimum period of incarceration before the defendant is released on post-prison supervision under ORS 421.508 (4). Nothing in this section authorizes the release of the defendant on post-prison supervision before the defendant has served the period of time described in ORS 421.508 (4)(b). [2008 c.35 §1; 2009 c.713 §17; 2018 c.22 §4a]
 
  
 
-      Note: See second note under 137.750.
+      Note: See note under 137.750.
 
  
 
@@ -4605,7 +4843,7 @@ SENTENCING REQUIREMENTS CONCERNING DEFENDANT’S ELIGIBILITY FOR CERTAIN TYPES O
 
  
 
-      Note: See second note under 137.750.
+      Note: See note under 137.750.
 
  
 
@@ -4619,7 +4857,7 @@ SENTENCING REQUIREMENTS CONCERNING DEFENDANT’S ELIGIBILITY FOR CERTAIN TYPES O
 
  
 
-      Note: See second note under 137.750.
+      Note: See note under 137.750.
 
  
 
@@ -4813,7 +5051,7 @@ MISCELLANEOUS
 
       (12) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of its duties and, to the extent permitted by laws relating to confidentiality, to furnish such information and advice as the members of the task force consider necessary to perform their duties. [2017 c.614 §1]
 
-      Sec. 10. Section 1 of this 2017 Act is repealed on the date of the convening of the 2023 regular session of the Legislative Assembly as specified in ORS 171.010 [February 1, 2023]. [2017 c.614 §10]
+      Sec. 10. Section 1 of this 2017 Act is repealed on the date of the convening of the 2023 regular session of the Legislative Assembly as specified in ORS 171.010 [January 17, 2023]. [2017 c.614 §10]
 
  
 

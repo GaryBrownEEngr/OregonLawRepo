@@ -58,20 +58,6 @@ Chapter 801 — General Provisions and Definitions for Oregon Vehicle Code
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0024
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0076
-
- 
-
- 
-
 
  
 
@@ -743,7 +729,7 @@ GENERAL PROVISIONS
 
       801.010 Short title. (1) ORS chapters 801 to 826 may be cited as the Oregon Vehicle Code.
 
-      (2) ORS 809.600 to 809.660 may be cited as the Habitual Traffic Offenders Act.
+      (2) ORS 809.600 to 809.640 may be cited as the Habitual Traffic Offenders Act.
 
       (3) ORS 813.095, 813.100, 813.131, 813.132, 813.140, 813.150, 813.310, 813.320 and 813.410 to 813.440 may be cited as the Motorist Implied Consent Law. [1983 c.338 §1; 1985 c.16 §2; 1995 c.733 §10; 1997 c.25 §4; 2003 c.814 §4]
 
@@ -817,7 +803,7 @@ GENERAL PROVISIONS
 
       (b) Driving while under the influence of intoxicants, as defined in ORS 813.010.
 
-      (c) Failure to perform the duties of a driver involved in an accident or collision, as described in ORS 811.700 or 811.705.
+      (c) Failure to perform the duties of a driver involved in a collision, as described in ORS 811.700 or 811.705.
 
       (d) Criminal driving while suspended or revoked, as defined in ORS 811.182.
 
@@ -831,7 +817,7 @@ GENERAL PROVISIONS
 
       (6) Devices that are powered exclusively by human power are not subject to those provisions of the vehicle code that relate to vehicles. Notwithstanding this subsection, bicycles are generally subject to the vehicle code as provided under ORS 814.400.
 
-      (7) The exemptions in subsection (3) of this section do not apply to the persons and vehicles when traveling to or from the facilities or construction project. [1989 c.400 §2 (enacted in lieu of 801.025); 1999 c.1051 §82]
+      (7) The exemptions in subsection (3) of this section do not apply to the persons and vehicles when traveling to or from the facilities or construction project. [1989 c.400 §2 (enacted in lieu of 801.025); 1999 c.1051 §82; 2018 c.22 §5]
 
  
 
@@ -887,7 +873,7 @@ GENERAL PROVISIONS
 
       (1) An ordinance establishing registration fees under this section must be enacted by the county imposing the registration fee and filed with the Department of Transportation. Notwithstanding ORS 203.055 or any provision of a county charter, the governing body of a county with a population of 350,000 or more may enact an ordinance establishing registration fees. The governing body of a county with a population of less than 350,000 may enact an ordinance establishing registration fees after submitting the ordinance to the electors of the county for their approval. The governing body of the county imposing the registration fee shall enter into an intergovernmental agreement under ORS 190.010 with the department by which the department shall collect the registration fees, pay them over to the county and, if necessary, allow the credit or credits described in ORS 803.445 (5). The intergovernmental agreement must state the date on which the department shall begin collecting registration fees for the county.
 
-      (2) The authority granted by this section allows the establishment of registration fees in addition to those described in ORS 803.420. There is no authority under this section to affect registration periods, qualifications, cards, plates, requirements or any other provision relating to vehicle registration under the vehicle code.
+      (2) The authority granted by this section allows the establishment of registration fees in addition to those described in ORS 803.420 and 803.422. There is no authority under this section to affect registration periods, qualifications, cards, plates, requirements or any other provision relating to vehicle registration under the vehicle code.
 
       (3) Except as otherwise provided for in this subsection, when registration fees are imposed under this section, they must be imposed on all vehicle classes. Registration fees as provided under this section may not be imposed on the following:
 
@@ -919,15 +905,51 @@ GENERAL PROVISIONS
 
       (n) Vehicles registered under ORS 805.110 to former prisoners of war.
 
-      (4) Any registration fee imposed by a county must be a fixed amount not to exceed, with respect to any vehicle class, the registration fee established under ORS 803.420 (6)(a). For vehicles on which a flat fee is imposed under ORS 803.420, the fee must be a whole dollar amount.
+      (4) Any registration fee imposed by a county must be a fixed amount not to exceed, with respect to any vehicle class, the sum of the registration fee established under ORS 803.420 (6)(a) and the fee applicable to the registered vehicle under ORS 803.422. For vehicles on which a flat fee is imposed under ORS 803.420, the fee must be a whole dollar amount.
 
-      (5) Moneys from registration fees established under this section must be paid to the county establishing the registration fees as provided in ORS 802.110. The county ordinance shall provide for payment of at least 40 percent of the moneys to cities within the county unless a different distribution is agreed upon by the county and the cities within the jurisdiction of the county. The moneys for the cities and the county shall be used for any purpose for which moneys from registration fees may be used, including the payment of debt service and costs related to bonds or other obligations issued for such purposes.
+      (5) Moneys from registration fees established under this section must be paid to the county establishing the registration fees as provided in ORS 802.110.
 
-      (6) Two or more counties may act jointly to impose a registration fee under this section. The ordinance of each county acting jointly with another under this subsection must provide for the distribution of moneys collected through a joint registration fee. [1989 c.864 §4; 1993 c.751 §3; 2003 c.655 §85; 2009 c.865 §§40,40a; 2011 c.145 §§2,3; 2015 c.404 §1; 2017 c.62 §2; 2017 c.750 §39b]
+      (6) Except as provided in section 3, chapter 392, Oregon Laws 2019, or unless a different distribution is agreed upon by the county and the cities within the jurisdiction of the county, the county ordinance shall provide for payment of at least 40 percent of the moneys from registration fees established under this section to cities within the county.
+
+      (7) The moneys for the cities and the county shall be used for any purpose for which moneys from registration fees may be used, including the payment of debt service and costs related to bonds or other obligations issued for such purposes.
+
+      (8) Two or more counties may act jointly to impose a registration fee under this section. The ordinance of each county acting jointly with another under this subsection must provide for the distribution of moneys collected through a joint registration fee. [1989 c.864 §4; 1993 c.751 §3; 2003 c.655 §85; 2009 c.865 §§40,40a; 2011 c.145 §§2,3; 2015 c.404 §1; 2017 c.62 §2; 2017 c.750 §39b; 2018 c.24 §1; 2018 c.93 §24; 2019 c.392 §1]
 
  
 
       Note: 801.041, 801.042 and 801.043 were enacted into law by the Legislative Assembly but were not added to or made a part of the Oregon Vehicle Code or any chapter or series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      Note: Sections 2 and 3, chapter 24, Oregon Laws 2018, provide:
+
+      Sec. 2. Section 3 of this 2018 Act is added to and made a part of the Oregon Vehicle Code. [2018 c.24 §2]
+
+      Sec. 3. (1) Notwithstanding ORS 801.041 (6), a county ordinance that imposes a vehicle registration fee under ORS 801.041 is not required to provide for payment of at least 40 percent of moneys from the registration fee to cities within the county, if the county:
+
+      (a) Has a population of 650,000 or more; and
+
+      (b) Uses the moneys from the registration fee to pay for planning, designing, replacing, acquiring necessary property for, engineering, constructing or repairing a bridge that crosses the Willamette River in the City of Portland or the approaches to the bridge, including the payment of debt service and costs related to bonds or other obligations issued for such purposes.
+
+      (2) This section applies to county vehicle registration fees:
+
+      (a) That take effect on or before October 1, 2018; and
+
+      (b) That are imposed for the purpose of planning, designing, replacing, acquiring necessary property for, engineering, constructing or repairing a bridge that crosses the Willamette River in the City of Portland or the approaches to the bridge, including the payment of debt service and costs related to bonds or other obligations issued for such purposes. [2018 c.24 §3]
+
+ 
+
+      Note: Sections 2 and 3, chapter 392, Oregon Laws 2019, provide:
+
+      Sec. 2. Section 3 of this 2019 Act is added to and made a part of the Oregon Vehicle Code. [2019 c.392 §2]
+
+      Sec. 3. (1) A county ordinance that imposes a vehicle registration fee under ORS 801.041 is not required to provide for payment of at least 40 percent of moneys from the registration fee to cities within the county if the county:
+
+      (a) Has a population of 650,000 or more; and
+
+      (b) Uses the moneys from the registration fee to pay for performing capital maintenance on, planning, designing, replacing, acquiring necessary property for, engineering, constructing or repairing a bridge that crosses the Willamette River in the City of Portland, or the approaches to the bridge, including the payment of debt service and costs related to bonds or other obligations issued for such purposes.
+
+      (2) This section applies to county vehicle registration fees that are imposed for the purpose of performing capital maintenance on, planning, designing, replacing, acquiring necessary property for, engineering, constructing or repairing a bridge that crosses the Willamette River in the City of Portland, or the approaches to the bridge, including the payment of debt service and costs related to bonds or other obligations issued for such purposes. [2019 c.392 §3]
 
  
 
@@ -943,7 +965,7 @@ GENERAL PROVISIONS
 
       (5) Ordinances establishing registration fees under this section must be filed with the Department of Transportation. The governing body of the district imposing the registration fee shall enter into an intergovernmental agreement under ORS 190.010 with the department by which the department shall collect the registration fees, pay them over to the district and, if necessary, allow the credit or credits described in ORS 803.445 (5). The intergovernmental agreement must state the date on which the department shall begin collecting registration fees for the district.
 
-      (6) The authority granted by this section allows the establishment of registration fees in addition to those described in ORS 803.420. There is no authority under this section to affect registration periods, qualifications, cards, plates, requirements or any other provision relating to vehicle registration under the vehicle code.
+      (6) The authority granted by this section allows the establishment of registration fees in addition to those described in ORS 803.420 and 803.422. There is no authority under this section to affect registration periods, qualifications, cards, plates, requirements or any other provision relating to vehicle registration under the vehicle code.
 
       (7) Except as otherwise provided for in this subsection, when registration fees are imposed under this section, the fees must be imposed on all vehicle classes. Registration fees as provided under this section may not be imposed on the following:
 
@@ -975,11 +997,11 @@ GENERAL PROVISIONS
 
       (n) Vehicles registered under ORS 805.110 to former prisoners of war.
 
-      (8) Any registration fee imposed by the governing body of a district must be a fixed amount not to exceed, with respect to any vehicle class, the registration fee established under ORS 803.420 (6)(a). For vehicles on which a flat fee is imposed under ORS 803.420, the fee must be a whole dollar amount. [1989 c.864 §5; 1993 c.751 §4; 2003 c.655 §86; 2015 c.404 §2; 2017 c.62 §3; 2017 c.750 §39c]
+      (8) Any registration fee imposed by the governing body of a district must be a fixed amount not to exceed, with respect to any vehicle class, the registration fee established under ORS 803.420 (6)(a) and the fee applicable to the registered vehicle under ORS 803.422. For vehicles on which a flat fee is imposed under ORS 803.420, the fee must be a whole dollar amount. [1989 c.864 §5; 1993 c.751 §4; 2003 c.655 §86; 2015 c.404 §2; 2017 c.62 §3; 2017 c.750 §39c; 2018 c.93 §25]
 
  
 
-      Note: See note under 801.041.
+      Note: See first note under 801.041.
 
  
 
@@ -987,11 +1009,11 @@ GENERAL PROVISIONS
 
  
 
-      Note: See note under 801.041.
+      Note: See first note under 801.041.
 
  
 
-      Note: Legislative Counsel has substituted “chapter 864, Oregon Laws 1989,” for the words “this Act” in section 9, chapter 864, Oregon Laws 1989, compiled as 801.043. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 1989 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 864, Oregon Laws 1989,” for the words “this Act” in section 9, chapter 864, Oregon Laws 1989, compiled as 801.043. Specific ORS references have not been substituted, pursuant to 173.160. The sections for which substitution otherwise would be made may be determined by referring to the 1989 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1117,7 +1139,7 @@ DEFINITIONS
 
  
 
-      801.155 “Bicycle lane.” “Bicycle lane” means that part of the highway, adjacent to the roadway, designated by official signs or markings for use by persons riding bicycles except as otherwise specifically provided by law. [1983 c.338 §23]
+      801.155 “Bicycle lane.” “Bicycle lane” means that part of the highway, adjacent to the roadway, designated by official signs or markings for use by persons riding bicycles except as otherwise specifically provided by law. A bicycle lane exists in an intersection if the bicycle lane is marked on opposite sides of the intersection in the same direction of travel. [1983 c.338 §23; 2019 c.120 §1]
 
  
 
@@ -1213,9 +1235,9 @@ DEFINITIONS
 
       (d) Has a steering wheel for steering control;
 
-      (e) Has a dry weight of 1,800 pounds or less; and
+      (e) Has a dry weight of 2,500 pounds or less; and
 
-      (f) Is 65 inches wide or less at its widest point. [1989 c.991 §2; 2011 c.360 §3; subsection (2) of 2011 Edition enacted as 2011 c.360 §5]
+      (f) Is 80 inches wide or less at its widest point. [1989 c.991 §2; 2011 c.360 §3; subsection (2) of 2011 Edition enacted as 2011 c.360 §5; 2019 c.491 §4]
 
  
 
@@ -1373,17 +1395,15 @@ DEFINITIONS
 
       (6) Hardship driver permit described under ORS 807.240.
 
-      (7) Probationary driver permit described under ORS 807.270.
+      (7) Special student driver permit described under ORS 807.230.
 
-      (8) Special student driver permit described under ORS 807.230.
+      (8) Special temporary instruction driver permit described under ORS 807.290.
 
-      (9) Special temporary instruction driver permit described under ORS 807.290.
+      (9) Court bail driver permit described under ORS 807.330.
 
-      (10) Court bail driver permit described under ORS 807.330.
+      (10) Temporary driver permit described under ORS 813.110.
 
-      (11) Temporary driver permit described under ORS 813.110.
-
-      (12) Commercial learner driver permit described under ORS 807.285. [1983 c.338 §41; 1985 c.16 §14; 1985 c.608 §1; 1987 c.801 §1; 2013 c.237 §34]
+      (11) Commercial learner driver permit described under ORS 807.285. [1983 c.338 §41; 1985 c.16 §14; 1985 c.608 §1; 1987 c.801 §1; 2013 c.237 §34; 2018 c.76 §6]
 
  
 
@@ -1497,6 +1517,8 @@ DEFINITIONS
 
       (d) A self-propelled mobile crane.
 
+      (e) A bucket truck.
+
       (3) It is a vehicle that may include, but is not limited to, the following vehicles:
 
       (a) Air compressors, air drills, asphalt plants, asphalt spreaders, bituminous plants, bituminous mixers, bituminous spreaders and bucket loaders;
@@ -1509,7 +1531,7 @@ DEFINITIONS
 
       (e) Bituminous and concrete finishing machines, elevator equipment, scarifiers and rooters, traction engines, vibro screens and rotary screens, wheeled and crawler tractors other than truck tractors; and
 
-      (f) Apron feeders, grain grinders, grain rollers, sand classifiers and drags, sawmills and special construction equipment, scrap metal balers, scrubber screens and plate feeders. [1983 c.338 §47; 1985 c.71 §1; 1995 c.79 §367; 2003 c.655 §87; 2017 c.539 §1]
+      (f) Apron feeders, grain grinders, grain rollers, sand classifiers and drags, sawmills and special construction equipment, scrap metal balers, scrubber screens and plate feeders. [1983 c.338 §47; 1985 c.71 §1; 1995 c.79 §367; 2003 c.655 §87; 2017 c.539 §1; 2019 c.491 §51]
 
  
 
@@ -1707,9 +1729,9 @@ DEFINITIONS
 
       801.348 “Motor assisted scooter.” “Motor assisted scooter” means a vehicle that:
 
-      (1) Is designed to be operated on the ground with not more than three wheels;
+      (1) Is designed to be operated on the ground with not more than four wheels;
 
-      (2) Has handlebars and a foot support or seat for the operator’s use;
+      (2) Has a foot support or seat for the operator’s use;
 
       (3) Can be propelled by motor or human propulsion; and
 
@@ -1717,7 +1739,7 @@ DEFINITIONS
 
       (a) If the power source is a combustion engine, has a piston or rotor displacement of 35 cubic centimeters or less regardless of the number of chambers in the power source; or
 
-      (b) If the power source is electric, has a power output of not more than 1,000 watts. [2001 c.749 §2]
+      (b) If the power source is electric, has a power output of not more than 1,000 watts. [2001 c.749 §2; 2018 c.3 §1]
 
  
 
@@ -1887,7 +1909,7 @@ DEFINITIONS
 
  
 
-      801.409 “Recreational vehicle.” “Recreational vehicle” has the meaning given in ORS 446.003. [Formerly 801.407]
+      801.409 “Recreational vehicle.” “Recreational vehicle” has the meaning given that term in ORS 174.101. [Formerly 801.407; 2019 c.422 §40]
 
  
 
@@ -1959,7 +1981,9 @@ DEFINITIONS
 
       (2) A vehicle, commonly known as a private passenger car or private passenger van, that is used by the owner of the vehicle or a relative of the owner of the vehicle for personal transportation of students to or from school activities and is not used for compensation except for the sharing of expenses in a ridesharing arrangement or reimbursement of mileage.
 
-      (3) A vehicle that is exempted from regulation as a school activity vehicle under ORS 820.150. [1985 c.420 §3; 1995 c.733 §80; 2015 c.138 §16]
+      (3) A vehicle that is exempted from regulation as a school activity vehicle under ORS 820.150.
+
+      (4) A transit bus, as defined in ORS 811.167. [1985 c.420 §3; 1995 c.733 §80; 2015 c.138 §16; 2018 c.62 §4]
 
  
 
@@ -2257,7 +2281,7 @@ DEFINITIONS
 
  
 
-      801.608 “Vulnerable user of a public way.” “Vulnerable user of a public way” means a pedestrian, a highway worker, a person riding an animal or a person operating any of the following on a public way, crosswalk or shoulder of the highway:
+      801.608 “Vulnerable user of a public way.” “Vulnerable user of a public way” means a pedestrian, a highway worker, a person riding an animal or a person operating, or riding on, any of the following on a public way, crosswalk or shoulder of the highway:
 
       (1) A farm tractor or implement of husbandry;
 
@@ -2267,9 +2291,13 @@ DEFINITIONS
 
       (4) In-line skates;
 
-      (5) A scooter; or
+      (5) A scooter;
 
-      (6) A bicycle. [2007 c.784 §2; 2009 c.301 §1]
+      (6) A bicycle;
+
+      (7) A moped; or
+
+      (8) A motorcycle. [2007 c.784 §2; 2009 c.301 §1; 2019 c.349 §1]
 
  
 

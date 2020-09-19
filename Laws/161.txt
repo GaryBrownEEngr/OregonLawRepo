@@ -32,12 +32,6 @@ Chapter 161 — General Provisions
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -235,7 +229,7 @@ RESPONSIBILITY
 
  
 
-161.309     Notice and report prerequisite to defense; content
+161.309     Notice of mental defense; when report required; contents of report; plea
 
  
 
@@ -243,7 +237,7 @@ RESPONSIBILITY
 
  
 
-161.315     Right of state to obtain mental examination of defendant; limitations
+161.315     Right of state to obtain mental examination of defendant; limitations; report
 
  
 
@@ -251,7 +245,7 @@ RESPONSIBILITY
 
  
 
-161.325     Entry of judgment of guilty except for insanity; dispositional order
+161.325     Finding of guilty except for insanity; dispositional order
 
  
 
@@ -275,7 +269,7 @@ RESPONSIBILITY
 
  
 
-161.336     Conditional release by board; termination or modification of conditional release; hearing
+161.336     Conditional release by board; order for return; termination or modification of conditional release; hearing
 
  
 
@@ -303,13 +297,17 @@ RESPONSIBILITY
 
  
 
-161.365     Procedure for determining issue of fitness to proceed; rules
+161.365     Procedure for determining issue of fitness to proceed; examination; report; rules
 
  
 
-161.370     Determination of fitness; effect of finding of unfitness; proceedings if fitness gained or regained; pretrial objections by defense counsel
+161.370     Determination of fitness to proceed; proceedings upon finding of unfitness; commitment; rules
 
  
+
+161.372     Involuntary administration of medication for fitness to proceed; hearing; court order
+
+161.373     Records for fitness to proceed examination; compliance with court order
 
 161.375     Escape of person placed at hospital or facility; authority to order arrest
 
@@ -455,7 +453,7 @@ DISPOSITION OF OFFENDERS
 
  
 
-161.620     Sentences imposed upon waiver from juvenile court
+161.620     Sentences imposed upon waiver
 
  
 
@@ -515,11 +513,15 @@ AUTHORITY OF SENTENCING COURT
 
  
 
+161.740     Sentencing of juvenile offenders
+
+ 
+
 PRINCIPLES
 
  
 
-      161.005 Short title. ORS 161.005 to 161.055, 161.085 to 161.125, 161.150 to 161.175, 161.190 to 161.275, 161.290 to 161.370, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615 to 161.685, 161.705 to 161.737, 162.005, 162.015 to 162.035, 162.055 to 162.115, 162.135 to 162.205, 162.225 to 162.375, 162.405 to 162.425, 162.465, 163.005, 163.115, 163.125 to 163.145, 163.149, 163.160 to 163.208, 163.196, 163.215 to 163.257, 163.261, 163.263, 163.264, 163.266, 163.275, 163.285, 163.305 to 163.467, 163.432, 163.433, 163.472, 163.505 to 163.575, 163.665 to 163.693, 163.700, 163.701, 163.715, 164.005, 164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270, 164.305 to 164.377, 164.395 to 164.415, 164.805, 164.857, 164.886, 165.002 to 165.102, 165.109, 165.118, 165.805, 165.815, 166.005 to 166.095, 166.350, 166.382, 166.384, 166.660, 167.002 to 167.027, 167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162, 167.203 to 167.252, 167.310 to 167.340, 167.350, 167.810 and 167.820 shall be known and may be cited as Oregon Criminal Code of 1971. [1971 c.743 §1; 1979 c.476 §1; 1983 c.740 §25; 1983 c.792 §1; 1985 c.366 §2; 1985 c.557 §9; 1985 c.662 §10; 1985 c.755 §1; 1989 c.982 §3; 1989 c.1003 §5; 2003 c.383 §3; 2007 c.475 §4; 2007 c.684 §2; 2007 c.811 §6; 2007 c.867 §16; 2007 c.869 §5; 2007 c.876 §5; 2009 c.783 §6; 2009 c.811 §15; 2011 c.681 §5; 2015 c.321 §2; 2015 c.379 §2; 2015 c.645 §9; 2016 c.22 §4; 2017 c.649 §2]
+      161.005 Short title. ORS 161.005 to 161.055, 161.085 to 161.125, 161.150 to 161.175, 161.190 to 161.275, 161.290 to 161.373, 161.405 to 161.485, 161.505 to 161.585, 161.605, 161.615 to 161.685, 161.705 to 161.737, 162.005, 162.015 to 162.035, 162.055 to 162.115, 162.135 to 162.205, 162.225 to 162.375, 162.405 to 162.425, 162.465, 163.005, 163.095, 163.107, 163.115, 163.125 to 163.145, 163.149, 163.160 to 163.208, 163.196, 163.215 to 163.257, 163.261, 163.263, 163.264, 163.266, 163.275, 163.285, 163.305 to 163.467, 163.432, 163.433, 163.472, 163.505 to 163.575, 163.665 to 163.693, 163.700, 163.701, 163.715, 164.005, 164.015 to 164.135, 164.138, 164.140, 164.205 to 164.270, 164.305 to 164.377, 164.395 to 164.415, 164.805, 164.857, 164.886, 165.002 to 165.102, 165.109, 165.118, 165.805, 165.815, 166.005 to 166.095, 166.350, 166.382, 166.384, 166.660, 167.002 to 167.027, 167.057, 167.060 to 167.100, 167.117, 167.122 to 167.162, 167.203 to 167.252, 167.310 to 167.340, 167.350, 167.810 and 167.820 shall be known and may be cited as Oregon Criminal Code of 1971. [1971 c.743 §1; 1979 c.476 §1; 1983 c.740 §25; 1983 c.792 §1; 1985 c.366 §2; 1985 c.557 §9; 1985 c.662 §10; 1985 c.755 §1; 1989 c.982 §3; 1989 c.1003 §5; 2003 c.383 §3; 2007 c.475 §4; 2007 c.684 §2; 2007 c.811 §6; 2007 c.867 §16; 2007 c.869 §5; 2007 c.876 §5; 2009 c.783 §6; 2009 c.811 §15; 2011 c.681 §5; 2015 c.321 §2; 2015 c.379 §2; 2015 c.645 §9; 2016 c.22 §4; 2017 c.649 §2; 2019 c.635 §15]
 
  
 
@@ -565,7 +567,7 @@ PRINCIPLES
 
  
 
-      Note: Legislative Counsel has substituted “chapter 743, Oregon Laws 1971,” for the words “this Act” in sections 2, 3, 4, 5, 6, 7, 19, 20, 21 and 36, chapter 743, Oregon Laws 1971, compiled as 161.015, 161.025, 161.035, 161.045, 161.055, 161.085, 161.195, 161.200, 161.205 and 161.295. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1971 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 743, Oregon Laws 1971,” for the words “this Act” in sections 2, 3, 4, 5, 6, 7, 19, 20, 21 and 36, chapter 743, Oregon Laws 1971, compiled as 161.015, 161.025, 161.035, 161.045, 161.055, 161.085, 161.195, 161.200, 161.205 and 161.295. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1971 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -879,15 +881,15 @@ JUSTIFICATION
 
       (1)(a) A parent, guardian or other person entrusted with the care and supervision of a minor or an incompetent person may use reasonable physical force upon such minor or incompetent person when and to the extent the person reasonably believes it necessary to maintain discipline or to promote the welfare of the minor or incompetent person.
 
-      (b) Personnel of a public education program, as that term is defined in ORS 339.285, may use reasonable physical force upon a student when and to the extent the application of force is consistent with ORS 339.291.
+      (b) Personnel of a public education program, as that term is defined in ORS 339.285, may use reasonable physical force upon a student when and to the extent the application of force is consistent with ORS 339.285 to 339.303.
 
-      (2) An authorized official of a jail, prison or correctional facility may use physical force when and to the extent that the official reasonably believes it necessary to maintain order and discipline or as is authorized by law.
+      (2) Subject to ORS 421.107, an authorized official of a jail, prison or correctional facility may use physical force when and to the extent that the official reasonably believes it necessary to maintain order and discipline or as is authorized by law.
 
       (3) A person responsible for the maintenance of order in a common carrier of passengers, or a person acting under the direction of the person, may use physical force when and to the extent that the person reasonably believes it necessary to maintain order, but the person may use deadly physical force only when the person reasonably believes it necessary to prevent death or serious physical injury.
 
       (4) A person acting under a reasonable belief that another person is about to commit suicide or to inflict serious physical self-injury may use physical force upon that person to the extent that the person reasonably believes it necessary to thwart the result.
 
-      (5) A person may use physical force upon another person in self-defense or in defending a third person, in defending property, in making an arrest or in preventing an escape, as hereafter prescribed in chapter 743, Oregon Laws 1971. [1971 c.743 §21; 1981 c.246 §1; 2011 c.665 §§10,11; 2013 c.133 §4; 2013 c.267 §4]
+      (5) A person may use physical force upon another person in self-defense or in defending a third person, in defending property, in making an arrest or in preventing an escape, as hereafter prescribed in chapter 743, Oregon Laws 1971. [1971 c.743 §21; 1981 c.246 §1; 2011 c.665 §§10,11; 2013 c.133 §4; 2013 c.267 §4; 2019 c.267 §7; 2019 c.333 §2]
 
  
 
@@ -1019,27 +1021,27 @@ JUSTIFICATION
 
       (c) “Stand-alone minimum security facility” means a Department of Corrections institution that has been designated by the department as a minimum security facility and that has been located by the department separate and apart from other Department of Corrections institutions.
 
-      (2) A corrections officer or other official employed by the Department of Corrections is justified in using physical force, including deadly physical force, when and to the extent that the officer or official reasonably believes it necessary to:
+      (2) Subject to ORS 421.107, a corrections officer or other official employed by the Department of Corrections is justified in using physical force, including deadly physical force, when and to the extent that the officer or official reasonably believes it necessary to:
 
-      (a) Prevent the escape of an inmate from a Department of Corrections institution, including the grounds of the institution, or from custody;
+      (a) Prevent the escape of an adult in custody from a Department of Corrections institution, including the grounds of the institution, or from custody;
 
-      (b) Maintain or restore order and discipline in a Department of Corrections institution, or any part of the institution, in the event of a riot, disturbance or other occurrence that threatens the safety of inmates, department employees or other persons; or
+      (b) Maintain or restore order and discipline in a Department of Corrections institution, or any part of the institution, in the event of a riot, disturbance or other occurrence that threatens the safety of adults in custody, department employees or other persons; or
 
       (c) Prevent serious physical injury to or the death of the officer, official or another person.
 
-      (3) Notwithstanding subsection (2)(a) of this section, a corrections officer or other official employed by the department may not use deadly physical force to prevent the escape of an inmate from:
+      (3) Notwithstanding subsection (2)(a) of this section, a corrections officer or other official employed by the department may not use deadly physical force to prevent the escape of an adult in custody from:
 
       (a) A stand-alone minimum security facility;
 
-      (b) A colocated minimum security facility, if the corrections officer or other official knows that the inmate has been classified by the department as minimum custody; or
+      (b) A colocated minimum security facility, if the corrections officer or other official knows that the adult in custody has been classified by the department as minimum custody; or
 
       (c) Custody outside of a Department of Corrections institution:
 
-      (A) While the inmate is assigned to an inmate work crew; or
+      (A) While the adult in custody is assigned to an adult in custody work crew; or
 
-      (B) During transport or other supervised activity, if the inmate is classified by the department as minimum custody and the inmate is not being transported or supervised with an inmate who has been classified by the department as medium or higher custody.
+      (B) During transport or other supervised activity, if the adult in custody is classified by the department as minimum custody and the adult in custody is not being transported or supervised with an adult in custody who has been classified by the department as medium or higher custody.
 
-      (4) Nothing in this section limits the authority of a person to use physical force under ORS 161.205 (2) or 161.265. [2005 c.431 §2]
+      (4) Nothing in this section limits the authority of a person to use physical force under ORS 161.205 (2) or 161.265. [2005 c.431 §2; 2019 c.213 §38; 2019 c.333 §3]
 
  
 
@@ -1085,7 +1087,7 @@ RESPONSIBILITY
 
  
 
-      161.309 Notice and report prerequisite to defense; content. (1) The defendant may not introduce evidence on the issue of insanity under ORS 161.295, unless the defendant:
+      161.309 Notice of mental defense; when report required; contents of report; plea. (1) The defendant may not introduce evidence on the issue of insanity under ORS 161.295, unless the defendant:
 
       (a) Gives notice of intent to do so in the manner provided in subsection (3) of this section; and
 
@@ -1093,7 +1095,11 @@ RESPONSIBILITY
 
       (2) The defendant may not introduce in the case in chief expert testimony regarding partial responsibility or diminished capacity under ORS 161.300 unless the defendant gives notice of intent to do so in the manner provided in subsection (3) of this section.
 
-      (3) A defendant who is required under subsection (1) or (2) of this section to give notice shall file a written notice of purpose at the time the defendant pleads not guilty. The defendant may file the notice at any time after the plea but before trial when just cause for failure to file the notice at the time of making the plea is shown. If the defendant fails to file notice, the defendant may not introduce evidence for the establishment of a defense under ORS 161.295 or 161.300 unless the court, in its discretion, permits the evidence to be introduced where just cause for failure to file the notice is shown.
+      (3)(a) A defendant who is required under subsection (1) or (2) of this section to give notice shall file a written notice of purpose at least 45 days before trial.
+
+      (b) Notwithstanding paragraph (a) of this subsection, the court may, for good cause, permit the defendant to file the notice within 45 days before trial.
+
+      (c) If the defendant fails to file notice under this subsection, the defendant may not introduce evidence for the establishment of a defense under ORS 161.295 or 161.300 unless the court, in its discretion, permits the evidence to be introduced where just cause for failure to file the notice is shown.
 
       (4) A defendant who is required under subsection (1) of this section to file a report of a psychiatric or psychological evaluation shall file the report before trial. The report must be based on an evaluation conducted after the date of the alleged offense and must address the issue of insanity under ORS 161.295 and the dispositional determination described in ORS 161.325. If the defendant fails to file a complete report before trial, the defendant may not introduce evidence for the establishment of a defense under ORS 161.295 unless:
 
@@ -1107,7 +1113,9 @@ RESPONSIBILITY
 
       (c) A certified evaluator performing an evaluation of a defendant on the issue of insanity under this subsection is not obligated to evaluate the defendant for fitness to proceed unless, during the evaluation, the certified evaluator determines that the defendant’s fitness to proceed is drawn in question.
 
-      (6) As used in this section, “certified evaluator” means a psychiatrist or psychologist who holds a valid certification under the provisions of ORS 161.392. [1971 c.743 §§39,40,41; 1983 c.800 §3; 2003 c.127 §2; 2011 c.724 §1; 2017 c.48 §1]
+      (6) Prior to accepting a plea of guilty except for insanity to a felony, the court shall inform the defendant of the possibility that the court may order commitment or conditional discharge after entry of judgment, and of the maximum total period of commitment or conditional discharge under ORS 161.327 (5).
+
+      (7) As used in this section, “certified evaluator” means a psychiatrist or psychologist who holds a valid certification under the provisions of ORS 161.392. [1971 c.743 §§39,40,41; 1983 c.800 §3; 2003 c.127 §2; 2011 c.724 §1; 2017 c.48 §1; 2019 c.326 §1; 2019 c.329 §1]
 
  
 
@@ -1119,15 +1127,33 @@ RESPONSIBILITY
 
  
 
-      161.315 Right of state to obtain mental examination of defendant; limitations. (1) Upon filing of notice or the introduction of evidence by the defendant as provided in ORS 161.309, the state shall have the right to have at least one psychiatrist or licensed psychologist of its selection examine the defendant. The state shall file notice with the court of its intention to have the defendant examined.
+      161.315 Right of state to obtain mental examination of defendant; limitations; report. (1) Upon filing of notice or the introduction of evidence by the defendant as provided in ORS 161.309, the state shall have the right to have at least one psychiatrist or licensed psychologist of its selection examine the defendant. The state shall file notice with the court of its intention to have the defendant examined.
 
-      (2)(a) Upon filing of the notice, the court, in its discretion, may order the defendant committed to a state institution or any other suitable facility, if the defendant is 18 years of age or older, for observation and examination as the court may designate for a period not to exceed 30 days.
+      (2)(a) Upon filing of the notice, the court, in its discretion, may order the defendant committed to a state mental hospital or any other suitable facility, if the defendant is 18 years of age or older, for observation and examination, which may include treatment as permitted by law.
 
-      (b) If the defendant is under 18 years of age, upon filing of the notice, the court, in its discretion, may order the defendant committed to a secure intensive community inpatient facility designated by the Oregon Health Authority for observation and examination as the court may designate for a period not to exceed 30 days.
+      (b) If the defendant is under 18 years of age, upon filing of the notice, the court, in its discretion, may order the defendant committed to a secure intensive community inpatient facility designated by the Oregon Health Authority for examination.
+
+      (c) The state mental hospital or other facility may retain custody of a defendant committed under this subsection only for the duration necessary to complete the observation and examination of the defendant, not to exceed 30 days.
 
       (3) If the defendant objects to the examiner chosen by the state, the court for good cause shown may direct the state to select a different examiner.
 
-      (4) An examiner performing an examination on the issue of insanity of a defendant under this section is not obligated to examine the defendant for fitness to proceed unless, during the examination, the examiner determines that the defendant’s fitness to proceed is drawn in question. [1971 c.743 §42; 1977 c.380 §3; 2007 c.14 §5; 2009 c.595 §101; 2011 c.724 §10; 2017 c.48 §2]
+      (4) An examiner performing an examination on the issue of insanity of a defendant under this section is not obligated to examine the defendant for fitness to proceed unless, during the examination, the examiner determines that the defendant’s fitness to proceed is drawn in question. If, during the examination, the examiner determines that the defendant’s fitness to proceed is in doubt, the examiner shall report the issue to the court and to the superintendent of the state mental hospital or the superintendent’s designee, or to the director of the facility to which the defendant is committed. The superintendent or director may:
+
+      (a) Return the defendant to the facility from which the defendant was transported; or
+
+      (b) Inform the court and the parties that the defendant should remain at the state mental hospital or other facility for the purpose of an examination under ORS 161.365. If neither party objects, the court may order an examination under ORS 161.365 without holding a hearing.
+
+      (5) A report resulting from an examination under this section may be filed with the court electronically.
+
+      (6)(a) Reports resulting from examinations conducted under this section are confidential and may be made available only:
+
+      (A) To the court, prosecuting attorney, defense attorney, agent of the prosecuting or defense attorney, defendant, community mental health program director or designee and any facility in which the defendant is housed; or
+
+      (B) As ordered by a court.
+
+      (b) Any facility in which a defendant is housed may not use a report prepared under this section to support a disciplinary action against the defendant.
+
+      (c) Nothing in this subsection prohibits the prosecuting attorney, defense attorney or agent of the prosecuting or defense attorney from discussing the contents of a report prepared under this section with witnesses or victims as otherwise permitted by law. [1971 c.743 §42; 1977 c.380 §3; 2007 c.14 §5; 2009 c.595 §101; 2011 c.724 §10; 2017 c.48 §2; 2019 c.311 §3; 2019 c.538 §3a]
 
  
 
@@ -1139,19 +1165,21 @@ RESPONSIBILITY
 
  
 
-      161.325 Entry of judgment of guilty except for insanity; dispositional order. (1) After entry of judgment of guilty except for insanity, the court shall, on the basis of the evidence given at the trial or at a separate hearing, if requested by either party, enter an order as provided in ORS 161.327, 161.328 or 161.329, whichever is appropriate.
+      161.325 Finding of guilty except for insanity; dispositional order. (1) After the defendant is found guilty except for insanity, the court shall, on the basis of the evidence given at the trial or at a separate hearing, if requested by either party, order a disposition as provided in ORS 161.327, 161.328 or 161.329, whichever is appropriate.
 
       (2) If the court enters an order as provided in ORS 161.327, it shall also:
 
       (a) Determine on the record the offense of which the person otherwise would have been convicted;
 
-      (b) State on the record the qualifying mental disorder on which the defendant relied for the guilty except for insanity defense; and
+      (b) State on the record the qualifying mental disorder on which the defendant relied for the guilty except for insanity defense;
 
-      (c) Make specific findings on whether there is a victim of the crime for which the defendant has been found guilty except for insanity and, if so, whether the victim wishes to be notified, under ORS 161.326, of any hearings and orders concerning the defendant and of any conditional release, discharge or escape of the defendant.
+      (c) State on the record the maximum total period of commitment or conditional discharge under ORS 161.327 (5); and
 
-      (3) The court shall include any such findings in its order.
+      (d) Make specific findings on whether there is a victim of the crime for which the defendant has been found guilty except for insanity and, if so, whether the victim wishes to be notified, under ORS 161.326, of any hearings and orders concerning the defendant and of any conditional release, discharge or escape of the defendant.
 
-      (4) Except under circumstances described in ORS 137.076 (4), whenever a defendant charged with any offense listed in ORS 137.076 (1) has been found guilty of that offense except for insanity, the court shall, in any order entered under ORS 161.327, 161.328 or 161.329, direct the defendant to submit to the obtaining of a blood or buccal sample in the manner provided in ORS 137.076. [1971 c.743 §44; 1977 c.380 §5; 1979 c.885 §1; 1981 c.711 §1; 1983 c.800 §5; 1991 c.669 §8; 1999 c.97 §2; 2005 c.337 §1; 2010 c.89 §9; 2011 c.708 §40; 2011 c.724 §2; 2017 c.634 §6]
+      (3) The court shall include in its order the information described in subsection (2) of this section.
+
+      (4) Except under circumstances described in ORS 137.076 (4), whenever a defendant charged with any offense listed in ORS 137.076 (1) has been found guilty of that offense except for insanity, the court shall, in any order entered under ORS 161.327, 161.328 or 161.329, direct the defendant to submit to the obtaining of a blood or buccal sample in the manner provided in ORS 137.076. [1971 c.743 §44; 1977 c.380 §5; 1979 c.885 §1; 1981 c.711 §1; 1983 c.800 §5; 1991 c.669 §8; 1999 c.97 §2; 2005 c.337 §1; 2010 c.89 §9; 2011 c.708 §40; 2011 c.724 §2; 2017 c.634 §6; 2019 c.329 §2]
 
  
 
@@ -1173,31 +1201,11 @@ RESPONSIBILITY
 
  
 
-      Note: The amendments to 161.326 by section 7, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.326. (1) If the trial court, the Psychiatric Security Review Board or the Oregon Health Authority determines that a victim desires notification as described in ORS 161.325 (2), the agency having jurisdiction over the person shall make a reasonable effort to notify the victim of hearings and orders, conditional release, discharge or escape. Nothing in this subsection authorizes the agency to disseminate information that is otherwise privileged by law.
-
-      (2) When the agency conducts a hearing involving a person found guilty except for insanity of a crime for which there is a victim, the agency shall afford the victim an opportunity to be heard, either orally or in writing, at the hearing.
-
-      (3)(a) If the agency fails to make a reasonable effort to notify the victim of a hearing under subsection (1) of this section or fails to afford the victim an opportunity to be heard at the hearing under subsection (2) of this section, the victim may request that the agency reconsider the order of the agency.
-
-      (b) If the agency determines that the agency failed to make a reasonable effort to notify the victim or failed to afford the victim an opportunity to be heard, except as provided in paragraph (c) of this subsection, the agency shall grant the request for reconsideration. Upon reconsideration, the agency shall consider the statement of the victim and may consider any other information that was not available to the agency at the previous hearing.
-
-      (c) The agency may not grant a request for reconsideration that is made:
-
-      (A) After the person has been discharged from the jurisdiction of the board and the authority;
-
-      (B) After the board or the authority has held a subsequent hearing involving the person; or
-
-      (C) If the agency failed to make a reasonable effort to notify the victim of a hearing, more than 30 days after the victim knew or reasonably should have known of the hearing.
+      Note: 161.326 was enacted into law by the Legislative Assembly but was not added to or made a part of 161.290 to 161.373 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
-      Note: 161.326 was enacted into law by the Legislative Assembly but was not added to or made a part of 161.290 to 161.370 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
-      161.327 Commitment or conditional release of person found guilty except for insanity of felony; appeal. (1) Following the entry of a judgment pursuant to ORS 161.319, if the court finds by a preponderance of the evidence that a person found guilty except for insanity of a felony is affected by a qualifying mental disorder and presents a substantial danger to others, the court shall enter an order as follows:
+      161.327 Commitment or conditional release of person found guilty except for insanity of felony; appeal. (1) After the defendant is found guilty except for insanity pursuant to ORS 161.319, if the court finds by a preponderance of the evidence that a person found guilty except for insanity of a felony is affected by a qualifying mental disorder and presents a substantial danger to others, the court shall order as follows:
 
       (a) If the court finds that the person is not a proper subject for conditional release, the court shall order the person committed to a state hospital or, if the person is under 18 years of age, to a secure intensive community inpatient facility for custody, care and treatment. When the court orders a person committed under this paragraph, the court shall place the person under the jurisdiction of the Psychiatric Security Review Board.
 
@@ -1219,43 +1227,11 @@ RESPONSIBILITY
 
       (6) An order of the court under this section is a final order appealable by the person found guilty except for insanity in accordance with ORS 19.205 (5). Notwithstanding ORS 19.255, notice of an appeal under this section shall be served and filed within 90 days after the order appealed from is entered in the register. The person shall be entitled on appeal to suitable counsel possessing skills and experience commensurate with the nature and complexity of the case. If the person is financially eligible, suitable counsel shall be appointed in the manner provided in ORS 138.500 (1), and the compensation for counsel and costs and expenses of the person necessary to the appeal shall be determined and paid as provided in ORS 138.500.
 
-      (7) Following the entry of an order described in subsection (1) of this section, the court shall notify the person of the right to appeal and the right to a hearing before the board in accordance with ORS 161.336 (5) and 161.341 (3). [1979 c.867 §5; 1979 c.885 §2; 1981 c.711 §2; 1981 s.s. c.3 §129; 1983 c.800 §6; 1989 c.790 §48; 1995 c.208 §1; 2001 c.962 §89; 2003 c.576 §§578,579; 2005 c.685 §§1,1a; 2009 c.595 §102; 2011 c.708 §36; 2011 c.724 §3; 2013 c.1 §9; 2017 c.442 §12; 2017 c.634 §7]
+      (7) Following the order described in subsection (1) of this section, the court shall notify the person of the right to appeal and the right to a hearing before the board in accordance with ORS 161.336 (5) and 161.341 (3). [1979 c.867 §5; 1979 c.885 §2; 1981 c.711 §2; 1981 s.s. c.3 §129; 1983 c.800 §6; 1989 c.790 §48; 1995 c.208 §1; 2001 c.962 §89; 2003 c.576 §§578,579; 2005 c.685 §§1,1a; 2009 c.595 §102; 2011 c.708 §36; 2011 c.724 §3; 2013 c.1 §9; 2017 c.442 §12; 2017 c.634 §7; 2019 c.329 §3]
 
  
 
-      Note: The amendments to 161.327 by section 12, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 7, chapter 634, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      161.327. (1) Following the entry of a judgment pursuant to ORS 161.319, if the court finds by a preponderance of the evidence that a person found guilty except for insanity of a felony is affected by a qualifying mental disorder and presents a substantial danger to others, the court shall enter an order as follows:
-
-      (a) If the court finds that the person is not a proper subject for conditional release, the court shall order the person committed to a state hospital or, if the person is under 18 years of age, to a secure intensive community inpatient facility for custody, care and treatment. When the court orders a person committed under this paragraph, the court shall place the person under the jurisdiction of:
-
-      (A) The Psychiatric Security Review Board, if the person is a tier one offender.
-
-      (B) The Oregon Health Authority, if the person is a tier two offender.
-
-      (b) If the court finds that the person can be adequately controlled with supervision and treatment if conditionally released and that necessary supervision and treatment are available, the court shall order the person conditionally released.
-
-      (2) When a person is conditionally released under this section, the person is subject to those supervisory orders of the court as are in the best interests of justice, the protection of society and the welfare of the person. The court shall designate a person or state, county or local agency to supervise the person upon release, subject to those conditions as the court directs in the order for conditional release. Prior to the designation, the court shall notify the person or agency to whom conditional release is contemplated and provide the person or agency an opportunity to be heard before the court. After receiving an order entered under subsection (1)(b) of this section, the person or agency designated shall assume supervision of the person pursuant to the direction of the Psychiatric Security Review Board. The person or agency designated as supervisor shall be required to report in writing no less than once per month to the board concerning the supervised person’s compliance with the conditions of release.
-
-      (3) In determining whether a person should be conditionally released, the court:
-
-      (a) May order evaluations, examinations and compliance as provided in ORS 161.336 (3) and 161.346 (3);
-
-      (b) Shall order that the person be examined by a local mental health program designated by the board and a report of the examination be provided to the court if each felony for which the defendant was found guilty except for insanity is a Class C felony; and
-
-      (c) Shall have as its primary concern the protection of society.
-
-      (4) Upon placing a person on conditional release, the court shall notify the board in writing of the court’s conditional release order, the supervisor appointed and all other conditions of release, and the person shall be on conditional release pending hearing before the board. Upon compliance with this section, the court’s jurisdiction over the person is terminated.
-
-      (5) The total period of commitment or conditional release under ORS 161.315 to 161.351 may not exceed the maximum sentence provided by statute for the crime for which the person was found guilty except for insanity.
-
-      (6) An order of the court under this section is a final order appealable by the person found guilty except for insanity in accordance with ORS 19.205 (5). Notwithstanding ORS 19.255, notice of an appeal under this section shall be served and filed within 90 days after the order appealed from is entered in the register. The person shall be entitled on appeal to suitable counsel possessing skills and experience commensurate with the nature and complexity of the case. If the person is financially eligible, suitable counsel shall be appointed in the manner provided in ORS 138.500 (1), and the compensation for counsel and costs and expenses of the person necessary to the appeal shall be determined and paid as provided in ORS 138.500.
-
-      (7) Following the entry of an order described in subsection (1) of this section, the court shall notify the person of the right to appeal and the right to a hearing before the agency exercising jurisdiction over the person in accordance with ORS 161.336 (5) and 161.341 (3).
-
- 
-
-      161.328 Commitment of person found guilty except for insanity of misdemeanor. (1) Following the entry of a judgment pursuant to ORS 161.319, the court shall order a person committed to a state mental hospital or other facility designated by the Oregon Health Authority if:
+      161.328 Commitment of person found guilty except for insanity of misdemeanor. (1) After the defendant is found guilty except for insanity pursuant to ORS 161.319, the court shall order a person committed to a state mental hospital or other facility designated by the Oregon Health Authority if:
 
       (a) Each offense for which the person is found guilty except for insanity is a misdemeanor; and
 
@@ -1263,17 +1239,17 @@ RESPONSIBILITY
 
       (2) The total period of commitment under this section may not exceed the maximum sentence provided by statute for the crime for which the person was found guilty except for insanity.
 
-      (3) If the superintendent of the state mental hospital or the director of the facility to which the person is committed determines that a person committed under this section is no longer affected by a qualifying mental disorder or, if so affected, no longer presents a substantial danger to others that requires commitment, the superintendent or director shall file notice of that determination with the committing court. Upon filing of the notice, the superintendent or director shall discharge the person from custody. [1981 c.711 §3; 1983 c.800 §7; 1987 c.903 §36; 1995 c.529 §1; 2011 c.708 §37; 2011 c.724 §4; 2017 c.634 §8]
+      (3) If the superintendent of the state mental hospital or the director of the facility to which the person is committed determines that a person committed under this section is no longer affected by a qualifying mental disorder or, if so affected, no longer presents a substantial danger to others that requires commitment, the superintendent or director shall file notice of that determination with the committing court. Upon filing of the notice, the superintendent or director shall discharge the person from custody. [1981 c.711 §3; 1983 c.800 §7; 1987 c.903 §36; 1995 c.529 §1; 2011 c.708 §37; 2011 c.724 §4; 2017 c.634 §8; 2019 c.329 §4]
 
  
 
-      161.329 Order of discharge. Following the entry of a judgment pursuant to ORS 161.319, the court shall order that the person be discharged from custody if:
+      161.329 Order of discharge. After the defendant is found guilty except for insanity pursuant to ORS 161.319, the court shall order that the person be discharged from custody if:
 
       (1) The court finds that the person is no longer affected by a qualifying mental disorder, or, if so affected, no longer presents a substantial danger to others and is not in need of care, supervision or treatment; or
 
       (2)(a) Each offense for which the person is found guilty except for insanity is a misdemeanor; and
 
-      (b) The court finds that the person does not present a substantial danger to others that requires commitment. [1971 c.743 §45; 1977 c.380 §6; 1981 c.711 §4; 2011 c.724 §5; 2017 c.634 §9]
+      (b) The court finds that the person does not present a substantial danger to others that requires commitment. [1971 c.743 §45; 1977 c.380 §6; 1981 c.711 §4; 2011 c.724 §5; 2017 c.634 §9; 2019 c.329 §5]
 
  
 
@@ -1285,71 +1261,11 @@ RESPONSIBILITY
 
  
 
-      Note: The amendments to 161.332 by section 11, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.332. As used in ORS 161.315 to 161.351 and 161.385 to 161.395:
-
-      (1) “Conditional release” includes, but is not limited to, the monitoring of mental and physical health treatment.
-
-      (2) “Tier one offender” means a person who has been found guilty except for insanity of a tier one offense.
-
-      (3) “Tier one offense” means:
-
-      (a) Aggravated murder as defined in ORS 163.095;
-
-      (b) Attempt or conspiracy to commit aggravated murder as defined in ORS 163.095;
-
-      (c) Murder as defined in ORS 163.115;
-
-      (d) Attempt or conspiracy to commit murder as defined in ORS 163.115;
-
-      (e) Manslaughter in the first degree as defined in ORS 163.118;
-
-      (f) Manslaughter in the second degree as defined in ORS 163.125;
-
-      (g) Assault in the first degree as defined in ORS 163.185;
-
-      (h) Assault in the second degree as defined in ORS 163.175;
-
-      (i) Kidnapping in the first degree as defined in ORS 163.235;
-
-      (j) Kidnapping in the second degree as defined in ORS 163.225;
-
-      (k) Rape in the first degree as defined ORS 163.375;
-
-      (L) Rape in the second degree as defined in ORS 163.365;
-
-      (m) Sodomy in the first degree as defined in ORS 163.405;
-
-      (n) Sodomy in the second degree as defined in ORS 163.395;
-
-      (o) Unlawful sexual penetration in the first degree as defined ORS 163.411;
-
-      (p) Unlawful sexual penetration in the second degree as defined ORS 163.408;
-
-      (q) Sexual abuse in the first degree as defined in ORS 163.427;
-
-      (r) Robbery in the first degree as defined in ORS 164.415;
-
-      (s) Robbery in the second degree as defined in ORS 164.405;
-
-      (t) Arson in the first degree as defined in ORS 164.325;
-
-      (u) Using a child in a display of sexually explicit conduct as defined in ORS 163.670;
-
-      (v) Compelling prostitution as defined in ORS 167.017; or
-
-      (w) Aggravated vehicular homicide as defined in ORS 163.149.
-
-      (4) “Tier two offender” means a person who has been found guilty except for insanity only of offenses that are not tier one offenses.
-
- 
-
       161.335 [1971 c.743 §46; 1973 c.137 §1; 1975 c.380 §1; repealed by 1977 c.380 §10 (161.336 enacted in lieu of 161.335)]
 
  
 
-      161.336 Conditional release by board; termination or modification of conditional release; hearing. (1)(a) When a person is conditionally released under ORS 161.315 to 161.351, the person is subject to those supervisory orders of the Psychiatric Security Review Board as are in the best interests of justice, the protection of society and the welfare of the person.
+      161.336 Conditional release by board; order for return; termination or modification of conditional release; hearing. (1)(a) When a person is conditionally released under ORS 161.315 to 161.351, the person is subject to those supervisory orders of the Psychiatric Security Review Board as are in the best interests of justice, the protection of society and the welfare of the person.
 
       (b) An order of conditional release entered by the board may designate any person or state, county or local agency capable of supervising the person upon release, subject to the conditions described in the order of conditional release.
 
@@ -1369,53 +1285,35 @@ RESPONSIBILITY
 
       (e) The facility shall comply with the conditional release order and any modifications of the conditions ordered by the board.
 
-      (4)(a) If at any time while the person is under the jurisdiction of the board it appears to the board or its chairperson that the person has violated the terms of the conditional release or that the mental health of the individual has changed, the board or its chairperson may order the person returned for evaluation or treatment to a state hospital or, if the person is under 18 years of age, to a secure intensive community inpatient facility. A written order of the board, or its chairperson on behalf of the board, is sufficient warrant for any law enforcement officer to take into custody such person and transport the person accordingly. A sheriff, municipal police officer, constable, parole and probation officer, prison official or other peace officer shall execute the order, and the person shall be returned as soon as practicable to the state hospital or secure intensive community inpatient facility designated in the order.
+      (4)(a)(A) A written or electronic order for the return of a person on conditional release to a state hospital or other facility designated by the supervising entity or, if the person is under 18 years of age, to a secure intensive community inpatient facility or other facility designated by the supervising entity, may be issued by:
 
-      (b) The community mental health program director, the director of the facility providing treatment to a person on conditional release, any peace officer or any person responsible for the supervision of a person on conditional release may take a person on conditional release into custody or request that the person be taken into custody if there is reasonable cause to believe the person is a substantial danger to others because of a qualifying mental disorder and that the person is in need of immediate care, custody or treatment. Any person taken into custody pursuant to this subsection shall be transported as soon as practicable to a state hospital or, if the person is under 18 years of age, to a secure intensive community inpatient facility.
+      (i) The supervising entity;
 
-      (c) Within 20 days following the return of the person to a state hospital or secure intensive community inpatient facility under this subsection, the board shall conduct a hearing. The board shall provide notice of the hearing to the person, the attorney representing the person and the Attorney General. The state must prove by a preponderance of the evidence the person’s unfitness for conditional release. The hearing shall be conducted in accordance with ORS 161.346.
+      (ii) A person designated by the supervising entity, if the designation is made as part of a written policy; or
 
-      (5)(a) Any person conditionally released under this section may apply to the board for discharge from or modification of an order of conditional release on the ground that the person is no longer affected by a qualifying mental disorder or, if still so affected, no longer presents a substantial danger to others and no longer requires supervision, medication, care or treatment. Notice of the hearing on an application for discharge or modification of an order of conditional release shall be made to the Attorney General. The applicant, at the hearing pursuant to this subsection, must prove by a preponderance of the evidence the applicant’s fitness for discharge or modification of the order of conditional release. Applications by the person for discharge or modification of conditional release may not be filed more often than once every six months.
+      (iii) The community mental health program director, if the person has absconded from conditional release.
 
-      (b) Upon application by any person or agency responsible for supervision or treatment pursuant to an order of conditional release, the board shall conduct a hearing to determine if the conditions of release shall be continued, modified or terminated. The application shall be accompanied by a report setting forth the facts supporting the application.
+      (B) An order described in this paragraph may be issued when the supervising entity, the authorized designee or, if the person has absconded, the community mental health program director, has determined that:
 
-      (6) A person who has spent five years on conditional release shall be brought before the board for hearing within 30 days before the expiration of the five-year period. The board shall review the person’s status and determine whether the person should be discharged from the jurisdiction of the board. [1977 c.380 §11 (enacted in lieu of 161.335); 1979 c.885 §3; 1981 c.711 §5; 1983 c.800 §9; 1987 c.140 §1; 1989 c.790 §49; 2001 c.326 §1; 2005 c.264 §14; 2005 c.685 §2; 2009 c.595 §103; 2011 c.708 §2; 2017 c.442 §3; 2017 c.634 §10]
+      (i) The person has violated the terms of conditional release; or
 
- 
+      (ii) The mental health of the person has changed such that the supervising entity, or, if applicable, the authorized designee or the community mental health program director, reasonably believes that the person may no longer be fit for conditional release.
 
-      Note: The amendments to 161.336 by section 3, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 10, chapter 634, Oregon Laws 2017, is set forth for the user’s convenience.
+      (C) A written order under this paragraph is sufficient warrant for any law enforcement officer to take into custody and transport the person named in the order. A peace officer shall execute the order and the person shall be transported as described in paragraph (c) of this subsection.
 
-      161.336. (1)(a) When a person is conditionally released under ORS 161.315 to 161.351, the person is subject to those supervisory orders of the Psychiatric Security Review Board as are in the best interests of justice, the protection of society and the welfare of the person.
+      (b) A peace officer, the director of the facility providing treatment to a person on conditional release or any person responsible for the supervision of a person on conditional release may take a person on conditional release into custody, or request that the person be taken into custody, if there is reasonable cause to believe the person is a substantial danger to others because of a mental disorder and that the person is in need of immediate care, custody or treatment.
 
-      (b) An order of conditional release entered by the board or the Oregon Health Authority may designate any person or state, county or local agency capable of supervising the person upon release, subject to the conditions described in the order of conditional release.
+      (c) When a person is taken into custody by a peace officer under this subsection, the agency employing the peace officer shall cause the person, as soon as practicable, to be transported to a state hospital or other facility designated by the supervising entity. If the person was taken into custody pursuant to an order described in paragraph (a) of this subsection, the supervising entity shall facilitate the reimbursement of reasonable costs of the transport to the agency employing the peace officer.
 
-      (c) Prior to the designation, the agency conducting the hearing shall notify the person or state, county or local agency to whom conditional release is contemplated and provide the person or state, county or local agency an opportunity to be heard.
+      (d) Within 20 days following the return of the person to a state hospital or secure intensive community inpatient facility under this subsection, the board shall conduct a hearing. The board shall provide notice of the hearing to the person, the attorney representing the person and the Attorney General. The state must prove by a preponderance of the evidence the person’s unfitness for conditional release. The hearing shall be conducted in accordance with ORS 161.346.
 
-      (d) After receiving an order entered under this section, the person or state, county or local agency designated in the order shall assume supervision of the person in accordance with the conditions described in the order and any modifications of the conditions ordered by the board.
-
-      (2) Conditions of release contained in orders entered under this section may be modified from time to time and conditional releases may be terminated as provided in ORS 161.351.
-
-      (3)(a) As a condition of release, the person may be required to report to any state or local mental health facility for evaluation. Whenever medical, psychiatric or psychological treatment is recommended, the order may require the person, as a condition of release, to cooperate with and accept the treatment from the facility.
-
-      (b) The facility to which the person has been referred for evaluation shall perform the evaluation and submit a written report of its findings to the board. If the facility finds that treatment of the person is appropriate, it shall include its recommendations for treatment in the report to the board.
-
-      (c) Whenever treatment is provided by the facility, it shall furnish reports to the board on a regular basis concerning the progress of the person.
-
-      (d) Copies of all reports submitted to the board pursuant to this section shall be furnished to the person and the person’s counsel. The confidentiality of these reports is determined pursuant to ORS 192.338, 192.345 and 192.355.
-
-      (e) The facility shall comply with the conditional release order and any modifications of the conditions ordered by the board.
-
-      (4)(a) If at any time while the person is under the jurisdiction of the board it appears to the board or its chairperson that the person has violated the terms of the conditional release or that the mental health of the individual has changed, the board or its chairperson may order the person returned for evaluation or treatment to a state hospital or, if the person is under 18 years of age, to a secure intensive community inpatient facility. A written order of the board, or its chairperson on behalf of the board, is sufficient warrant for any law enforcement officer to take into custody such person and transport the person accordingly. A sheriff, municipal police officer, constable, parole and probation officer, prison official or other peace officer shall execute the order, and the person shall be returned as soon as practicable to the state hospital or secure intensive community inpatient facility designated in the order.
-
-      (b) The community mental health program director, the director of the facility providing treatment to a person on conditional release, any peace officer or any person responsible for the supervision of a person on conditional release may take a person on conditional release into custody or request that the person be taken into custody if there is reasonable cause to believe the person is a substantial danger to others because of a qualifying mental disorder and that the person is in need of immediate care, custody or treatment. Any person taken into custody pursuant to this subsection shall be transported as soon as practicable to a state hospital or, if the person is under 18 years of age, to a secure intensive community inpatient facility.
-
-      (c) Within 20 days following the return of the person to a state hospital or secure intensive community inpatient facility under this subsection, the agency having jurisdiction over the person shall conduct a hearing. The agency shall provide notice of the hearing to the person, the attorney representing the person and the Attorney General. The state must prove by a preponderance of the evidence the person’s unfitness for conditional release. The hearing shall be conducted in accordance with ORS 161.346.
+      (e) As used in this subsection, “supervising entity” means the board or the chairperson or executive director of the board.
 
       (5)(a) Any person conditionally released under this section may apply to the board for discharge from or modification of an order of conditional release on the ground that the person is no longer affected by a qualifying mental disorder or, if still so affected, no longer presents a substantial danger to others and no longer requires supervision, medication, care or treatment. Notice of the hearing on an application for discharge or modification of an order of conditional release shall be made to the Attorney General. The applicant, at the hearing pursuant to this subsection, must prove by a preponderance of the evidence the applicant’s fitness for discharge or modification of the order of conditional release. Applications by the person for discharge or modification of conditional release may not be filed more often than once every six months.
 
       (b) Upon application by any person or agency responsible for supervision or treatment pursuant to an order of conditional release, the board shall conduct a hearing to determine if the conditions of release shall be continued, modified or terminated. The application shall be accompanied by a report setting forth the facts supporting the application.
 
-      (6) A person who has spent five years on conditional release shall be brought before the board for hearing within 30 days before the expiration of the five-year period. The board shall review the person’s status and determine whether the person should be discharged from the jurisdiction of the board.
+      (6) A person who has spent five years on conditional release shall be brought before the board for hearing within 30 days before the expiration of the five-year period. The board shall review the person’s status and determine whether the person should be discharged from the jurisdiction of the board. [1977 c.380 §11 (enacted in lieu of 161.335); 1979 c.885 §3; 1981 c.711 §5; 1983 c.800 §9; 1987 c.140 §1; 1989 c.790 §49; 2001 c.326 §1; 2005 c.264 §14; 2005 c.685 §2; 2009 c.595 §103; 2011 c.708 §2; 2017 c.442 §3; 2017 c.634 §10; 2018 c.120 §5]
 
  
 
@@ -1442,30 +1340,6 @@ RESPONSIBILITY
       (6)(a) In no case shall a person committed by the court under ORS 161.327 to a state hospital, or to a secure intensive community inpatient facility, be held in the hospital or facility for more than 90 days from the date of the court’s commitment order without an initial hearing before the board to determine whether the person should be conditionally released or discharged.
 
       (b) In no case shall a person be held pursuant to this section for a period of time exceeding two years without a hearing before the board to determine whether the person should be conditionally released or discharged. [1977 c.380 §13 (enacted in lieu of 161.340); 1979 c.885 §4; 1981 c.711 §6; 1983 c.800 §10; 1985 c.192 §3; 1989 c.790 §50; 1991 c.244 §1; 2005 c.685 §3; 2009 c.595 §104; 2011 c.708 §3; 2017 c.442 §4; 2017 c.634 §11]
-
- 
-
-      Note: The amendments to 161.341 by section 4, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 11, chapter 634, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      161.341. (1) If at any time after a person is committed under ORS 161.315 to 161.351 to a state hospital or a secure intensive community inpatient facility, the superintendent of the hospital or the director of the secure intensive community inpatient facility is of the opinion that the person is no longer affected by a qualifying mental disorder, or, if so affected, no longer presents a substantial danger to others or that the person continues to be affected by a qualifying mental disorder and continues to be a danger to others, but that the person can be controlled with proper care, medication, supervision and treatment if conditionally released, the superintendent or director shall apply to the agency having jurisdiction over the person for an order of discharge or conditional release. The application shall be accompanied by a report setting forth the facts supporting the opinion of the superintendent or director. If the application is for conditional release, the application must be accompanied by a verified conditional release plan. The agency shall hold a hearing on the application within 60 days of its receipt. Not less than 20 days prior to the hearing before the agency, copies of the report shall be sent to the Attorney General.
-
-      (2) The attorney representing the state may choose a psychiatrist or licensed psychologist to examine the person prior to the initial or any later decision by the agency having jurisdiction over the person on discharge or conditional release. The results of the examination shall be in writing and filed with the agency, and shall include, but need not be limited to, an opinion as to the mental condition of the person, whether the person presents a substantial danger to others and whether the person could be adequately controlled with treatment as a condition of release.
-
-      (3) Any person who has been committed to a state hospital, or to a secure intensive community inpatient facility, for custody, care and treatment under ORS 161.315 to 161.351, or another person acting on the person’s behalf, may apply to the agency having jurisdiction over the person for an order of discharge or conditional release upon the grounds:
-
-      (a) That the person is no longer affected by a qualifying mental disorder;
-
-      (b) That the person, if so affected, no longer presents a substantial danger to others; or
-
-      (c) That the person continues to be affected by a qualifying mental disorder and would continue to be a danger to others without treatment, but that the person can be adequately controlled and given proper care and treatment if placed on conditional release.
-
-      (4) When application is made under subsection (3) of this section, the agency having jurisdiction over the person shall require that a report from the superintendent of the hospital or the director of the secure intensive community inpatient facility be prepared and transmitted as provided in subsection (1) of this section. The applicant must prove by a preponderance of the evidence the applicant’s fitness for discharge or conditional release under the standards of subsection (3) of this section, unless more than two years has passed since the state had the burden of proof on that issue, in which case the state shall have the burden of proving by a preponderance of the evidence the applicant’s lack of fitness for discharge or conditional release. Applications for discharge or conditional release under subsection (3) of this section may not be filed more often than once every six months commencing with the date of the initial agency hearing.
-
-      (5) The agency having jurisdiction over the person is not required to hold a hearing on a first application under subsection (3) of this section any sooner than 90 days after the initial hearing. Hearings resulting from any subsequent requests shall be held within 60 days of the filing of the application.
-
-      (6)(a) In no case shall a person committed by the court under ORS 161.327 to a state hospital, or to a secure intensive community inpatient facility, be held in the hospital or facility for more than 90 days from the date of the court’s commitment order without an initial hearing before the agency having jurisdiction over the person to determine whether the person should be conditionally released or discharged.
-
-      (b) In no case shall a person be held pursuant to this section for a period of time exceeding two years without a hearing before the agency to determine whether the person should be conditionally released or discharged.
 
  
 
@@ -1523,66 +1397,6 @@ RESPONSIBILITY
 
  
 
-      Note: The amendments to 161.346 by section 2, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 1, chapter 232, Oregon Laws 2017, and section 12, chapter 634, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      161.346. (1) When the Psychiatric Security Review Board or the Oregon Health Authority conducts a hearing under ORS 161.315 to 161.351, the agency conducting the hearing shall enter an order and make findings in support of the order. If the agency finds that a person under the jurisdiction of the agency:
-
-      (a) Is no longer affected by a qualifying mental disorder, or, if so affected, no longer presents a substantial danger to others, the agency shall order the person discharged from commitment and conditional release.
-
-      (b) Is still affected by a qualifying mental disorder and is a substantial danger to others, but can be controlled adequately if conditionally released with treatment as a condition of release, the agency shall order the person conditionally released as provided in ORS 161.336.
-
-      (c) Has not recovered from the qualifying mental disorder, is a substantial danger to others and cannot adequately be controlled if conditionally released on supervision, the agency shall order the person committed to, or retained in, a state hospital, or if the person is under 18 years of age, a secure intensive community inpatient facility, for care, custody and treatment.
-
-      (2)(a) Except as otherwise provided in ORS 161.349, the Psychiatric Security Review Board shall exercise exclusive jurisdiction over a tier one offender until the board discharges the person from the jurisdiction of the board or the maximum period of jurisdiction expires.
-
-      (b) When the board orders a tier two offender committed to a state hospital, or a secure intensive community inpatient facility, under ORS 161.315 to 161.351, the order shall transfer jurisdiction over the person to the Oregon Health Authority.
-
-      (c) When the authority orders a tier two offender conditionally released under ORS 161.315 to 161.351, the order shall transfer jurisdiction over the person to the board.
-
-      (d) The authority shall assume jurisdiction over a tier two offender when the person is returned to a state hospital, or to a secure intensive community inpatient facility, under ORS 161.336 (4).
-
-      (3) To assist the agency in making the determination described in subsection (1) of this section, the agency exercising jurisdiction over the person may, at any time, appoint a psychiatrist or licensed psychologist to examine the person and to submit a report to the agency. The report must include an opinion as to the mental condition of the person, whether the person presents a substantial danger to others and whether the person could be adequately controlled with treatment as a condition of release.
-
-      (4) The agency exercising jurisdiction over the person may make the determination regarding discharge or conditional release based upon the written reports submitted pursuant to this section. If the authority or any member of the board desires further information from the examining psychiatrist or licensed psychologist who submitted the report, the agency shall summon the person to give testimony. The agency shall consider all evidence available to it that is material, relevant and reliable regarding the issues before the agency. The evidence may include but is not limited to the record of trial, the information supplied by the attorney representing the state or by any other interested party, including the person, and information concerning the person’s mental condition and the entire psychiatric and criminal history of the person. All evidence of a type commonly relied upon by reasonably prudent persons in the conduct of their serious affairs shall be admissible at hearings. Testimony shall be taken upon oath or affirmation of the witness from whom received. The officer presiding at the hearing shall administer oaths or affirmations to witnesses.
-
-      (5) The agency exercising jurisdiction over the person shall furnish to the person about whom the hearing is being conducted, the attorney representing the person, the Attorney General and the district attorney of the county from which the person was committed written notice of any hearing pending under this section within a reasonable time prior to the hearing. The notice shall include:
-
-      (a) The time, place and location of the hearing.
-
-      (b) The nature of the hearing and the specific action for which a hearing has been requested, the issues to be considered at the hearing and a reference to the particular sections of the statutes and rules involved.
-
-      (c) A statement of the legal authority and jurisdiction under which the hearing is to be held.
-
-      (d) A statement of all rights under subsection (7) of this section.
-
-      (6) Prior to the commencement of the hearing, the agency shall serve personally or by mail a written notice to each party as provided in ORS 183.413 (2).
-
-      (7) At the hearing, the person about whom the hearing is being held shall have the right:
-
-      (a) To appear at all proceedings held pursuant to this section, except for deliberations.
-
-      (b) To cross-examine all witnesses appearing to testify at the hearing.
-
-      (c) To subpoena witnesses and documents as provided in ORS 161.395.
-
-      (d) To be represented by suitable legal counsel possessing skills and experience commensurate with the nature and complexity of the case, to consult with counsel prior to the hearing and, if financially eligible, to have suitable counsel appointed at state expense.
-
-      (e) To examine all information, documents and reports that the agency considers. If then available to the agency, the information, documents and reports shall be disclosed to the person so as to allow examination prior to the hearing.
-
-      (8) A record shall be kept of all hearings conducted under ORS 161.315 to 161.351, except for deliberations.
-
-      (9) Upon request of any party, or on motion of the agency conducting the hearing, the hearing may be continued for a reasonable period not to exceed 60 days to obtain additional information or testimony or for other good cause shown.
-
-      (10) Within 30 days following the conclusion of the hearing, the agency shall provide to the person, the attorney representing the person, the Attorney General or other attorney representing the state, if any, written notice of the order entered by the agency.
-
-      (11) The burden of proof on all issues at hearings under ORS 161.315 to 161.351 shall be by a preponderance of the evidence.
-
-      (12) If the agency conducting the hearing determines that the person about whom the hearing is being held is financially eligible, the agency shall appoint suitable counsel to represent the person. Counsel so appointed shall be an attorney who satisfies the professional qualifications established by the Public Defense Services Commission under ORS 151.216. The public defense services executive director shall determine and allow fair compensation for counsel appointed under this subsection and the reasonable expenses of the person in respect to the hearing. Compensation payable to appointed counsel shall not be less than the applicable compensation level established under ORS 151.216. The compensation and expenses so allowed shall be paid by the public defense services executive director from funds available for the purpose.
-
-      (13) The Attorney General may represent the state at contested hearings under ORS 161.315 to 161.351 unless the district attorney of the county from which the person was committed elects to represent the state. The district attorney of the county from which the person was committed shall cooperate with the Attorney General in securing the material necessary for presenting a contested hearing. If the district attorney elects to represent the state, the district attorney shall give timely written notice of such election to the Attorney General, the agency conducting the hearing and the attorney representing the person.
-
- 
-
       161.348 Judicial review. (1) When a person over whom the Psychiatric Security Review Board exercises jurisdiction under ORS 161.315 to 161.351 or 419C.544 is adversely affected or aggrieved by a final order of the board, the person is entitled to judicial review of the final order. The person is entitled on judicial review to suitable counsel possessing skills and experience commensurate with the nature and complexity of the case. If the person is financially eligible, suitable counsel shall be appointed by the reviewing court in the manner provided in ORS 138.500 (1). If the person is financially eligible, the public defense services executive director shall determine and pay, as provided in ORS 138.500, the cost of briefs, any other expenses of the person necessary to the review and compensation for counsel appointed for the person. The costs, expenses and compensation so allowed shall be paid as provided in ORS 138.500.
 
       (2) The order and the proceedings underlying the order are subject to review by the Court of Appeals upon petition to that court filed within 60 days of the order for which review is sought. The board shall submit to the court the record of the proceeding or, if the person agrees, a shortened record. The record may include a certified true copy of a tape recording of the proceedings at a hearing in accordance with ORS 161.346. A copy of the record transmitted shall be delivered to the person by the board.
@@ -1593,18 +1407,6 @@ RESPONSIBILITY
 
  
 
-      Note: The amendments to 161.348 by section 8, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.348. (1) When a person over whom the Psychiatric Security Review Board or the Oregon Health Authority exercises jurisdiction under ORS 161.315 to 161.351 or 419C.544 is adversely affected or aggrieved by a final order of the board or authority, the person is entitled to judicial review of the final order. The person is entitled on judicial review to suitable counsel possessing skills and experience commensurate with the nature and complexity of the case. If the person is financially eligible, suitable counsel shall be appointed by the reviewing court in the manner provided in ORS 138.500 (1). If the person is financially eligible, the public defense services executive director shall determine and pay, as provided in ORS 138.500, the cost of briefs, any other expenses of the person necessary to the review and compensation for counsel appointed for the person. The costs, expenses and compensation so allowed shall be paid as provided in ORS 138.500.
-
-      (2) The order and the proceedings underlying the order are subject to review by the Court of Appeals upon petition to that court filed within 60 days of the order for which review is sought. The agency that conducted the hearing shall submit to the court the record of the proceeding or, if the person agrees, a shortened record. The record may include a certified true copy of a tape recording of the proceedings at a hearing in accordance with ORS 161.346. A copy of the record transmitted shall be delivered to the person by the agency.
-
-      (3) The court may affirm, reverse or remand the order on the same basis as provided in ORS 183.482 (8).
-
-      (4) The filing of the petition does not stay the order of the agency, but the agency or the Court of Appeals may order a stay upon application on such terms as are deemed proper.
-
- 
-
       161.349 Person committed under ORS 161.315 to 161.351 sentenced to term of incarceration. (1) When a person who is committed to a state hospital or a secure intensive community inpatient facility under ORS 161.315 to 161.351 is convicted of a crime and sentenced to a term of incarceration and when the person is sentenced to a term of incarceration as a sanction for violating the conditions of probation, parole or post-prison supervision, the sentencing court shall stay execution of the sentence pending the conditional release or discharge of the person or the expiration of the period of time described in ORS 161.327 (5). When the person is conditionally released or discharged by the Psychiatric Security Review Board under ORS 161.315 to 161.351, or when the maximum period of jurisdiction described in ORS 161.327 (5) expires, the stay shall be lifted by operation of law and the person shall be delivered to the custody of the Department of Corrections or the supervisory authority to begin service of the sentence imposed.
 
       (2) When a person described in subsection (1) of this section is delivered to the custody of the department or the supervisory authority as described in this section, the board shall notify the department or the supervisory authority when the period of time described in ORS 161.327 (5) will expire.
@@ -1612,18 +1414,6 @@ RESPONSIBILITY
       (3) The department or supervisory authority shall notify the board when the person has served the term of incarceration imposed by the court and the board shall resume exercising active jurisdiction over the person in accordance with ORS 161.315 to 161.351.
 
       (4) As used in this section, “supervisory authority” has the meaning given that term in ORS 144.087. [2011 c.708 §15; 2011 c.708 §39; 2017 c.442 §13]
-
- 
-
-      Note: The amendments to 161.349 by section 13, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.349. (1) When a person who is committed to a state hospital or a secure intensive community inpatient facility under ORS 161.315 to 161.351 is convicted of a crime and sentenced to a term of incarceration and when the person is sentenced to a term of incarceration as a sanction for violating the conditions of probation, parole or post-prison supervision, the sentencing court shall stay execution of the sentence pending the conditional release or discharge of the person or the expiration of the period of time described in ORS 161.327 (5). When the person is conditionally released or discharged by the agency having jurisdiction over the person under ORS 161.315 to 161.351, or when the maximum period of jurisdiction described in ORS 161.327 (5) expires, the stay shall be lifted by operation of law and the person shall be delivered to the custody of the Department of Corrections or the supervisory authority to begin service of the sentence imposed.
-
-      (2) When a person described in subsection (1) of this section is delivered to the custody of the department or the supervisory authority as described in this section, the agency having jurisdiction over the person while the person was committed to a state hospital or a secure intensive community inpatient facility shall notify the department or the supervisory authority when the period of time described in ORS 161.327 (5) will expire.
-
-      (3) The department or supervisory authority shall notify the Psychiatric Security Review Board when the person has served the term of incarceration imposed by the court and the board shall resume exercising active jurisdiction over the person in accordance with ORS 161.315 to 161.351.
-
-      (4) As used in this section, “supervisory authority” has the meaning given that term in ORS 144.087.
 
  
 
@@ -1639,16 +1429,6 @@ RESPONSIBILITY
 
  
 
-      Note: The amendments to 161.351 by section 5, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 13, chapter 634, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      161.351. (1) Any person placed under the jurisdiction of the Psychiatric Security Review Board or the Oregon Health Authority under ORS 161.315 to 161.351 shall be discharged at such time as the agency having jurisdiction over the person, upon a hearing, finds by a preponderance of the evidence that the person is no longer affected by a qualifying mental disorder or, if so affected, no longer presents a substantial danger to others that requires regular medical care, medication, supervision or treatment.
-
-      (2) For purposes of ORS 161.315 to 161.351, a person affected by a qualifying mental disorder in a state of remission is considered to have a qualifying mental disorder. A person whose qualifying mental disorder may, with reasonable medical probability, occasionally become active and when it becomes active will render the person a danger to others may not be discharged. The person shall continue under supervision and treatment necessary to protect the person and others.
-
-      (3) In determining whether a person should be committed to a state hospital or secure intensive community inpatient facility, conditionally released or discharged, the board and the authority shall have as their primary concern the protection of society.
-
- 
-
       161.360 Qualifying mental disorder affecting fitness to proceed. (1) If, before or during the trial in any criminal case, the court has reason to doubt the defendant’s fitness to proceed by reason of incapacity, the court may order an examination in the manner provided in ORS 161.365.
 
       (2) A defendant may be found incapacitated if, as a result of a qualifying mental disorder, the defendant is unable:
@@ -1661,13 +1441,25 @@ RESPONSIBILITY
 
  
 
-      161.365 Procedure for determining issue of fitness to proceed; rules. (1) When the court has reason to doubt the defendant’s fitness to proceed by reason of incapacity as described in ORS 161.360, the court may call any witness to its assistance in reaching its decision and shall order that a community mental health program director or the director’s designee consult with the defendant to determine whether services and supervision necessary to safely restore the defendant’s fitness to proceed are available in the community. After the consultation, the program director or the director’s designee shall provide to the court a copy of the findings resulting from the consultation. If the court determines the assistance of a psychiatrist or psychologist would be helpful, the court may:
+      161.365 Procedure for determining issue of fitness to proceed; examination; report; rules. (1)(a) When the court has reason to doubt the defendant’s fitness to proceed by reason of incapacity as described in ORS 161.360, the court may call any witness to assist it in reaching its decision and shall order that a community mental health program director, or the director’s designee, consult with the defendant and with any local entity that would be responsible for supervising the defendant if the defendant were to be released in the community, to determine whether services and supervision necessary to safely allow the defendant to gain or regain fitness to proceed are available in the community. After the consultation, the program director or the director’s designee shall provide to the court a copy of the findings resulting from the consultation. If the court determines the assistance of a psychiatrist or psychologist would be helpful, the court may:
 
-      (a) Order that a psychiatric or psychological examination of the defendant be conducted by a certified evaluator as defined in ORS 161.309 and a report of the examination be prepared; or
+      (A) Order that a psychiatric or psychological examination of the defendant be conducted by a certified evaluator and a report of the examination be prepared; or
 
-      (b) Order the defendant to be committed for the purpose of an examination for a period not exceeding 30 days to a state mental hospital or other facility designated by the Oregon Health Authority if the defendant is at least 18 years of age, or to a secure intensive community inpatient facility designated by the authority if the defendant is under 18 years of age.
+      (B) Order the defendant to be committed for the purpose of an examination to a state mental hospital or other facility designated by the Oregon Health Authority if the defendant is at least 18 years of age, or to a secure intensive community inpatient facility designated by the authority if the defendant is under 18 years of age. The state mental hospital or other facility may retain custody of a defendant committed under this paragraph for the duration necessary to complete the examination of the defendant, not to exceed 30 days. The examination may include a period of observation.
 
-      (2) The report of an examination described in this section must include, but is not necessarily limited to, the following:
+      (b) The court shall provide a copy of any order entered under this subsection to the community mental health program director or designee and to the state mental hospital or other facility by the end of the next judicial day.
+
+      (2)(a) A defendant committed under subsection (1)(a)(B) of this section shall be transported to the state mental hospital or other facility for the examination.
+
+      (b) At the conclusion of the examination, the superintendent of the state mental hospital or the superintendent’s designee or the director of the facility may:
+
+      (A) Return the defendant to the facility from which the defendant was transported; or
+
+      (B) Inform the court and the parties that the defendant requires a hospital level of care due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder and request that the defendant remain at the state mental hospital or other facility pending a hearing or order under ORS 161.370.
+
+      (c) If both parties consent, the court may, without holding a hearing, enter any order authorized by ORS 161.370 based on a report resulting from an examination conducted under this section.
+
+      (3) The report of an examination described in this section must include, but is not necessarily limited to, the following:
 
       (a) A description of the nature of the examination;
 
@@ -1675,39 +1467,91 @@ RESPONSIBILITY
 
       (c) If the defendant suffers from a qualifying mental disorder, an opinion as to whether the defendant is incapacitated within the description set out in ORS 161.360; and
 
-      (d) If the defendant is incapacitated within the description set out in ORS 161.360, a recommendation of treatment and services necessary to restore capacity.
+      (d) If the defendant is incapacitated within the description set out in ORS 161.360, a recommendation of treatment and services necessary to allow the defendant to gain or regain capacity, including whether a hospital level of care is required due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder.
 
-      (3) Except when the defendant and the court both request to the contrary, the report may not contain any findings or conclusions as to whether the defendant as a result of a qualifying mental disorder was subject to the provisions of ORS 161.295 or 161.300 at the time of the criminal act charged.
+      (4) Except when the defendant and the court both request to the contrary, the report may not contain any findings or conclusions as to whether the defendant as a result of a qualifying mental disorder was subject to the provisions of ORS 161.295 or 161.300 at the time of the criminal act charged.
 
-      (4) If the examination by the psychiatrist or psychologist cannot be conducted by reason of the unwillingness of the defendant to participate in the examination, the report must so state and must include, if possible, an opinion as to whether the unwillingness of the defendant was the result of a qualifying mental disorder affecting capacity to proceed.
+      (5) If the examination by the certified evaluator cannot be conducted by reason of the unwillingness of the defendant to participate in the examination, the report must so state and must include, if possible, an opinion as to whether the unwillingness of the defendant was the result of a qualifying mental disorder affecting capacity to proceed.
 
-      (5) The report must be filed with the clerk of the court, who shall cause copies to be delivered to the district attorney and to counsel for defendant.
+      (6)(a) The report resulting from the examination of a defendant under this section may be filed electronically and must be filed with the clerk of the court, who shall cause copies to be delivered to the district attorney and to counsel for defendant.
 
-      (6)(a) When upon motion of the court or a financially eligible defendant, the court has ordered a psychiatric or psychological examination of the defendant, a county or justice court shall order the county to pay, and a circuit court shall order the public defense services executive director to pay from funds available for the purpose:
+      (b) The entity or evaluator conducting the examination shall provide a copy of the report resulting from the examination to the community mental health program director or designee in:
 
-      (A) A reasonable fee if the examination of the defendant is conducted by a psychiatrist or psychologist in private practice; and
+      (A) The county in which the defendant is charged; and
 
-      (B) All costs including transportation of the defendant if the examination is conducted by a psychiatrist or psychologist in the employ of the Oregon Health Authority or a community mental health program established under ORS 430.610 to 430.670.
+      (B) The county of the defendant’s last known residence.
+
+      (c) Reports prepared under this section are confidential and may be made available only:
+
+      (A) To the court, prosecuting attorney, defense attorney, agent of the prosecuting or defense attorney, defendant, community mental health program director or designee and any facility in which the defendant is housed; or
+
+      (B) As ordered by a court.
+
+      (d) Any facility in which a defendant is housed may not use a report prepared under this section to support a disciplinary action against the defendant.
+
+      (e) Nothing in this subsection prohibits the prosecuting attorney, defense attorney or agent of the prosecuting or defense attorney from discussing the contents of a report prepared under this section with witnesses or victims as otherwise permitted by law.
+
+      (7)(a) When upon motion of the court or a financially eligible defendant, the court has ordered a psychiatric or psychological examination of the defendant, a county or justice court shall order the county to pay, and a circuit court shall order the public defense services executive director to pay from funds available for the purpose:
+
+      (A) A reasonable fee if the examination of the defendant is conducted by a certified evaluator in private practice; and
+
+      (B) All costs including transportation of the defendant if the examination is conducted by a certified evaluator in the employ of the Oregon Health Authority or a community mental health program established under ORS 430.610 to 430.670.
 
       (b) When an examination is ordered at the request or with the acquiescence of a defendant who is determined not to be financially eligible, the examination shall be performed at the defendant’s expense. When an examination is ordered at the request of the prosecution, the county shall pay for the expense of the examination.
 
-      (7) The Oregon Health Authority shall establish by rule standards for the consultation described in subsection (1) of this section. [1971 c.743 §51; 1975 c.380 §4; 1981 s.s. c.3 §131; 1983 c.800 §11; 1987 c.803 §18; 1993 c.238 §2; 2001 c.962 §90; 2005 c.685 §5; 2009 c.595 §106; 2011 c.724 §7; 2015 c.130 §1; 2017 c.252 §25; 2017 c.634 §15]
+      (8) The Oregon Health Authority shall establish by rule standards for the consultation described in subsection (1) of this section.
+
+      (9) As used in this section and ORS 161.370, “certified evaluator” has the meaning given that term in ORS 161.309. [1971 c.743 §51; 1975 c.380 §4; 1981 s.s. c.3 §131; 1983 c.800 §11; 1987 c.803 §18; 1993 c.238 §2; 2001 c.962 §90; 2005 c.685 §5; 2009 c.595 §106; 2011 c.724 §7; 2015 c.130 §1; 2017 c.252 §25; 2017 c.634 §15; 2019 c.311 §4; 2019 c.318 §1; 2019 c.538 §1a]
 
  
 
-      161.370 Determination of fitness; effect of finding of unfitness; proceedings if fitness gained or regained; pretrial objections by defense counsel. (1) When the defendant’s fitness to proceed is drawn in question, the issue shall be determined by the court. If neither the prosecuting attorney nor counsel for the defendant contests the finding of the report filed under ORS 161.365, the court may make the determination on the basis of the report. If the finding is contested, the court shall hold a hearing on the issue. If the report is received in evidence in the hearing, the party who contests the finding has the right to summon and to cross-examine any psychiatrist or psychologist who submitted the report and to offer evidence upon the issue. Other evidence regarding the defendant’s fitness to proceed may be introduced by either party.
+      161.370 Determination of fitness to proceed; proceedings upon finding of unfitness; commitment; rules. (1)(a) When the defendant’s fitness to proceed is drawn in question, the issue shall be determined by the court.
 
-      (2) If the court determines that the defendant lacks fitness to proceed, the criminal proceeding against the defendant shall be suspended and:
+      (b) If neither the prosecuting attorney nor counsel for the defendant contests the finding of the report filed under ORS 161.365, the court may make the determination on the basis of the report. If the finding is contested, the court shall hold a hearing on the issue. If the report is received in evidence in the hearing, the party who contests the finding has the right to summon and to cross-examine any certified evaluator who submitted the report and to offer evidence upon the issue. Other evidence regarding the defendant’s fitness to proceed may be introduced by either party.
 
-      (a) If the court finds that the defendant is dangerous to self or others as a result of a qualifying mental disorder, or that, based on the findings resulting from the consultation described in ORS 161.365 (1), the services and supervision necessary to restore the defendant’s fitness to proceed are not available in the community, the court shall commit the defendant to the custody of the superintendent of a state mental hospital or director of a facility, designated by the Oregon Health Authority, if the defendant is at least 18 years of age, or to the custody of the director of a secure intensive community inpatient facility designated by the authority if the defendant is under 18 years of age; or
+      (2)(a) If the court determines that the defendant lacks fitness to proceed, the criminal proceeding against the defendant shall be suspended and the court shall, at a hearing, proceed in accordance with this subsection.
 
-      (b) If the court does not make a finding described in paragraph (a) of this subsection, or if the court determines that care other than commitment for incapacity to stand trial would better serve the defendant and the community, the court shall release the defendant on supervision for as long as the unfitness endures.
+      (b) After making the determination under paragraph (a) of this subsection, the court shall receive a recommendation, to be considered at the hearing, from a community mental health program director or the director’s designee, and from any local entity that would be responsible for supervising the defendant if the defendant were to be released in the community, concerning whether services and supervision necessary to safely allow the defendant to gain or regain fitness to proceed are available in the community.
 
-      (3) When a defendant is released on supervision under subsection (2)(b) of this section, the court may place conditions that the court deems appropriate on the release, including the requirement that the defendant regularly report to the authority or a community mental health program for examination to determine if the defendant has gained or regained capacity to stand trial.
+      (c) The court and the parties shall at the hearing determine an appropriate action in the case, and the court shall enter an order necessary to implement the action. In determining the appropriate action, the court shall consider the primary and secondary release criteria as defined in ORS 135.230, the least restrictive option appropriate for the defendant, the needs of the defendant and the interests of justice. Actions may include but are not limited to:
 
-      (4) When the court, on its own motion or upon the application of the superintendent of the hospital or director of the facility in which the defendant is committed, a person examining the defendant as a condition of release on supervision, or either party, determines, after a hearing, if a hearing is requested, that the defendant has gained or regained fitness to proceed, the criminal proceeding shall be resumed. If, however, the court is of the view that so much time has elapsed since the commitment or release of the defendant on supervision that it would be unjust to resume the criminal proceeding, the court on motion of either party may dismiss the charge and may order the defendant to be discharged or cause a proceeding to be commenced forthwith under ORS 426.070 to 426.170 or 427.235 to 427.290.
+      (A) Commitment for the defendant to gain or regain fitness to proceed under subsection (3) or (5) of this section;
 
-      (5) The superintendent of a state hospital or director of a facility to which the defendant is committed shall cause the defendant to be evaluated within 60 days from the defendant’s delivery into the superintendent’s or director’s custody, for the purpose of determining whether there is a substantial probability that, in the foreseeable future, the defendant will have the capacity to stand trial. In addition, the superintendent or director shall:
+      (B) Community restoration as recommended by the community mental health program director or designee;
+
+      (C) Release on supervision;
+
+      (D) Commencement of a civil commitment proceeding under ORS 426.070 to 426.170, 426.701 or 427.235 to 427.290;
+
+      (E) Commencement of protective proceedings under ORS chapter 125; or
+
+      (F) Dismissal of the charges pursuant to ORS 135.755.
+
+      (d) If the court, while considering or ordering an appropriate action under this subsection, determines that the defendant does not require a hospital level of care due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder, but that services and supervision necessary to safely allow the defendant to gain or regain fitness to proceed are not available in the community, for any defendant remaining in custody after such determination, the court shall set a review hearing seven days from the date of the determination under paragraph (a) of this subsection. At the review hearing, the court shall consider all relevant information and determine an appropriate action in the case as described in paragraph (c) of this subsection. If the defendant remains in custody following the initial review hearing, the court shall hold further review hearings every seven days thereafter until the defendant is no longer in custody.
+
+      (3)(a) Unless the court orders an action other than commitment under subsection (2) of this section, and except as otherwise provided in subsections (4) and (5) of this section, if the court finds that the defendant is dangerous to self or others as a result of a qualifying mental disorder, that a hospital level of care is necessary due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder, and that, based on the findings resulting from the consultation described in ORS 161.365 (1) and from any information provided by community-based mental health providers or any other sources, the services and supervision necessary to allow the defendant to gain or regain fitness to proceed are not available in the community, the court shall commit the defendant to the custody of the superintendent of a state mental hospital or director of a facility designated by the Oregon Health Authority if the defendant is at least 18 years of age, or to the custody of the director of a secure intensive community inpatient facility designated by the authority if the defendant is under 18 years of age.
+
+      (b) If the defendant is committed under this subsection, the community mental health program director shall at regular intervals, during any period of commitment, review available community resources and maintain communication with the defendant and the superintendent of the state mental hospital or director of the facility in order to facilitate an efficient transition to treatment in the community when ordered.
+
+      (4)(a) If the court does not make a finding described in subsection (3) of this section, if commitment is precluded under subsection (5) of this section or if the court determines that care other than commitment for incapacity to stand trial would better serve the defendant and the community, the court shall release the defendant on supervision for as long as the unfitness endures.
+
+      (b) The court may order a community mental health program director providing treatment to the defendant in the community to provide the court with status reports on the defendant’s progress in gaining or regaining fitness to proceed.
+
+      (c) A community mental health program director providing treatment to the defendant in the community shall notify the court if the defendant gains or regains fitness to proceed.
+
+      (5)(a) If the most serious offense in the charging instrument is a violation, the court may not commit the defendant under subsection (3) of this section.
+
+      (b) If the most serious offense in the charging instrument is a misdemeanor, the court may not commit the defendant under subsection (3) of this section unless the finding that the defendant requires a hospital level of care due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder is based on a recommendation by a certified evaluator as defined in ORS 161.309, or a community mental health program director or the director’s designee, that the defendant requires such level of care.
+
+      (c) If at the time of determining the appropriate action for the case the court has not received a recommendation as to whether the defendant requires a hospital level of care due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder, the court shall order a certified evaluator or a community mental health program director, or the director’s designee, to make such a recommendation.
+
+      (d) If the court does not order the commitment of a defendant described in this subsection to the state mental hospital or other facility, the court shall hold a hearing in accordance with subsection (2)(c) of this section to determine and order an appropriate action other than commitment.
+
+      (6) When a defendant is released on supervision under subsection (4) of this section, the court may place conditions that the court deems appropriate on the release, including the requirement that the defendant regularly report to the authority or a community mental health program for examination to determine if the defendant has gained or regained capacity to stand trial.
+
+      (7) When the court, on its own motion or upon the application of the superintendent of the hospital or director of the facility in which the defendant is committed, a person examining the defendant as a condition of release on supervision, or either party, determines, after a hearing, if a hearing is requested, that the defendant has gained or regained fitness to proceed, the criminal proceeding shall be resumed. If, however, the court is of the view that so much time has elapsed since the commitment or release of the defendant on supervision that it would be unjust to resume the criminal proceeding, the court on motion of either party may dismiss the charge and may order the defendant to be discharged or cause a proceeding to be commenced forthwith under ORS 426.070 to 426.170, 426.701 or 427.235 to 427.290.
+
+      (8) The superintendent of a state hospital or director of a facility to which the defendant is committed shall cause the defendant to be evaluated within 60 days from the defendant’s delivery into the superintendent’s or director’s custody, for the purpose of determining whether there is a substantial probability that, in the foreseeable future, the defendant will have the capacity to stand trial. In addition, the superintendent or director shall:
 
       (a) Immediately notify the committing court if the defendant, at any time, gains or regains the capacity to stand trial or will never have the capacity to stand trial.
 
@@ -1719,17 +1563,31 @@ RESPONSIBILITY
 
       (C) There is a substantial probability that, in the foreseeable future, the defendant will gain or regain the capacity to stand trial. If the probability exists, the superintendent or director shall give the court an estimate of the time in which the defendant, with appropriate treatment, is expected to gain or regain capacity.
 
-      (6)(a) If the superintendent or director determines that there is a substantial probability that, in the foreseeable future, the defendant will gain or regain the capacity to stand trial, unless the court otherwise orders, the defendant shall remain in the superintendent’s or director’s custody where the defendant shall receive treatment designed for the purpose of enabling the defendant to gain or regain capacity. In keeping with the notice requirement under subsection (5)(b) of this section, the superintendent or director shall, for the duration of the defendant’s period of commitment, submit a progress report to the committing court, concerning the defendant’s capacity or incapacity, at least once every 180 days as measured from the date of the defendant’s delivery into the superintendent’s or director’s custody.
+      (c) Notify the court if court-ordered involuntary medication is necessary for the defendant to gain or regain the capacity to proceed and, if appropriate, submit a report to the court under ORS 161.372.
 
-      (b) Notwithstanding paragraph (a) of this subsection, if the superintendent or director determines that a defendant committed under this section is no longer dangerous to self or others as a result of a qualifying mental disorder, or that the services and supervision necessary to restore the defendant’s fitness to proceed are available in the community, the superintendent or director shall file notice of that determination with the court. Upon receipt of the notice, the court shall order the person released on supervision as described in subsection (3) of this section.
+      (9)(a) If the superintendent or director determines that there is a substantial probability that, in the foreseeable future, the defendant will gain or regain the capacity to stand trial, unless the court otherwise orders, the defendant shall remain in the superintendent’s or director’s custody where the defendant shall receive treatment designed for the purpose of enabling the defendant to gain or regain capacity. In keeping with the notice requirement under subsection (8)(b) of this section, the superintendent or director shall, for the duration of the defendant’s period of commitment, submit a progress report to the committing court, concerning the defendant’s capacity or incapacity, at least once every 180 days as measured from the date of the defendant’s delivery into the superintendent’s or director’s custody.
+
+      (b)(A) Notwithstanding paragraph (a) of this subsection, if the superintendent or director determines that a defendant committed under this section is no longer dangerous to self or others as a result of a qualifying mental disorder, that a hospital level of care is not necessary due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder, or that the services and supervision necessary to allow the defendant to gain or regain fitness to proceed are available in the community, the superintendent or director shall file notice of that determination with the court.
+
+      (B) Upon receipt of the notice, the court shall order that a community mental health program director or the director’s designee, within five judicial days:
+
+      (i) Consult with the defendant and with any local entity that would be responsible for supervising the defendant if the defendant were to be released in the community to determine whether services and supervision necessary to safely allow the defendant to gain or regain fitness to proceed are available in the community; and
+
+      (ii) Provide the court and the parties with recommendations from the consultation.
+
+      (C) Within 10 judicial days of receiving the recommendations from the consultation, the court shall hold a hearing to determine an appropriate action in accordance with subsection (2)(c) of this section as follows:
+
+      (i) If, after consideration of the factors and possible actions described in subsection (2)(c) of this section, and any recommendations from the consultation described in this paragraph, the court determines that the defendant remains dangerous to self or others as a result of a qualifying mental disorder, a hospital level of care is necessary due to the defendant’s dangerousness and the acuity of symptoms of the defendant’s qualifying mental disorder, and the services and supervision necessary to allow the defendant to gain or regain fitness to proceed are not available in the community, the court may, after making specific findings to that effect, continue the commitment.
+
+      (ii) If the court does not make the findings described in sub-subparagraph (i) of this subparagraph, the court shall terminate the commitment and shall set a review hearing seven days from the date of the commitment termination for any defendant remaining in custody. At the review hearing, the court shall consider all relevant information and determine an appropriate action in the case as described in subsection (2)(c) of this section. If the defendant remains in custody following the initial review hearing, the court shall hold further review hearings every seven days thereafter until the defendant is no longer in custody.
 
       (c) A progress report described in paragraph (a) of this subsection may consist of an update to:
 
       (A) The original examination report conducted under ORS 161.365; or
 
-      (B) An evaluation conducted under subsection (5) of this section, if the defendant did not receive an examination under ORS 161.365.
+      (B) An evaluation conducted under subsection (8) of this section, if the defendant did not receive an examination under ORS 161.365.
 
-      (7)(a) A defendant who remains committed under subsection (6) of this section shall be discharged within a period of time that is reasonable for making a determination concerning whether or not, and when, the defendant may gain or regain capacity. However, regardless of the number of charges with which the defendant is accused, in no event shall the defendant be committed for longer than whichever of the following, measured from the defendant’s initial custody date, is shorter:
+      (10)(a) A defendant who remains committed under subsection (9) of this section shall be discharged within a period of time that is reasonable for making a determination concerning whether or not, and when, the defendant may gain or regain capacity. However, regardless of the number of charges with which the defendant is accused, in no event shall the defendant be committed for longer than whichever of the following, measured from the defendant’s initial custody date, is shorter:
 
       (A) Three years; or
 
@@ -1743,27 +1601,93 @@ RESPONSIBILITY
 
       (i) For each day the defendant is committed under this section, whether the days are consecutive or are interrupted by a period of time during which the defendant has gained or regained fitness to proceed; and
 
-      (ii) Unless the defendant is charged with aggravated murder or a crime listed in ORS 137.700 (2), for each day the defendant is held in jail, whether the days are consecutive or are interrupted by a period of time during which the defendant lacks fitness to proceed.
+      (ii) Unless the defendant is charged on any charging instrument with aggravated murder or a crime listed in ORS 137.700 (2), for each day the defendant is held in jail before and after the date the defendant is first committed, whether the days are consecutive or are interrupted by a period of time during which the defendant lacks fitness to proceed.
 
-      (8) The superintendent or director shall notify the committing court of the defendant’s impending discharge 30 days before the date on which the superintendent or director is required to discharge the defendant under subsection (7) of this section.
+      (11) The superintendent or director shall notify the committing court of the defendant’s impending discharge 30 days before the date on which the superintendent or director is required to discharge the defendant under subsection (10) of this section.
 
-      (9) When the committing court receives a notice from the superintendent or director under subsection (5) or (8) of this section concerning the defendant’s progress or lack thereof, the committing court shall determine, after a hearing, if a hearing is requested, whether the defendant presently has the capacity to stand trial.
+      (12) When the committing court receives a notice from the superintendent or director under subsection (8) or (11) of this section concerning the defendant’s progress or lack thereof, the committing court shall determine, after a hearing, if a hearing is requested, whether the defendant presently has the capacity to stand trial.
 
-      (10) If at any time the court determines that the defendant lacks the capacity to stand trial, the court shall further determine whether there is a substantial probability that the defendant, in the foreseeable future, will gain or regain the capacity to stand trial and whether the defendant is entitled to discharge under subsection (7) of this section. If the court determines that there is no substantial probability that the defendant, in the foreseeable future, will gain or regain the capacity to stand trial or that the defendant is entitled to discharge under subsection (7) of this section, the court shall dismiss, without prejudice, all charges against the defendant and:
+      (13) If at any time the court determines that the defendant lacks the capacity to stand trial, the court shall further determine whether there is a substantial probability that the defendant, in the foreseeable future, will gain or regain the capacity to stand trial and whether the defendant is entitled to discharge under subsection (10) of this section. If the court determines that there is no substantial probability that the defendant, in the foreseeable future, will gain or regain the capacity to stand trial or that the defendant is entitled to discharge under subsection (10) of this section, the court shall dismiss, without prejudice, all charges against the defendant and:
 
       (a) Order that the defendant be discharged; or
 
       (b) Initiate commitment proceedings under ORS 426.070 or 427.235 to 427.290.
 
-      (11) All notices required under this section shall be filed with the clerk of the court and delivered to both the district attorney and the counsel for the defendant.
+      (14) All notices required under this section shall be filed with the court and may be filed electronically. The clerk of the court shall cause copies of the notices to be delivered to both the district attorney and the counsel for the defendant.
 
-      (12) If the defendant gains or regains fitness to proceed, the term of any sentence received by the defendant for conviction of the crime charged shall be reduced by the amount of time the defendant was committed under this section to the custody of a state mental hospital, or to the custody of a secure intensive community inpatient facility, designated by the Oregon Health Authority.
+      (15) If the defendant gains or regains fitness to proceed, the term of any sentence received by the defendant for conviction of the crime charged shall be reduced by the amount of time the defendant was committed under this section to the custody of a state mental hospital, or to the custody of a secure intensive community inpatient facility designated by the Oregon Health Authority.
 
-      (13) Notwithstanding the suspension of the criminal proceeding under subsection (2) of this section, the fact that the defendant is unfit to proceed does not preclude any objection through counsel and without the personal participation of the defendant on the grounds that the indictment is insufficient, that the statute of limitations has run, that double jeopardy principles apply or upon any other ground at the discretion of the court which the court deems susceptible of fair determination prior to trial.
+      (16) Notwithstanding the suspension of the criminal proceeding under subsection (2) of this section, the fact that the defendant is unfit to proceed does not preclude any objection through counsel and without the personal participation of the defendant on the grounds that the indictment is insufficient, that the statute of limitations has run, that double jeopardy principles apply or upon any other ground at the discretion of the court which the court deems susceptible of fair determination prior to trial.
 
-      (14) At the time that the court determines that the defendant lacks fitness to proceed under subsection (2) of this section, the court shall notify the defendant that federal law prohibits the defendant from purchasing or possessing a firearm unless the person obtains relief from the prohibition under federal law. The court shall again notify the defendant of the prohibition if the court finds that the defendant has gained or regained fitness to proceed under subsection (4) of this section. [1971 c.743 §52; 1975 c.380 §5; 1993 c.238 §3; 1999 c.931 §§1,2; 2005 c.685 §6; 2009 c.595 §107; 2011 c.508 §1; 2011 c.724 §8; 2015 c.130 §2; 2017 c.49 §1; 2017 c.233 §3; 2017 c.628 §1; 2017 c.634 §16]
+      (17) At the time that the court determines that the defendant lacks fitness to proceed under subsection (2) of this section, the court shall notify the defendant that federal law prohibits the defendant from purchasing or possessing a firearm unless the person obtains relief from the prohibition under federal law. The court shall again notify the defendant of the prohibition if the court finds that the defendant has gained or regained fitness to proceed under subsection (7) of this section.
+
+      (18)(a) The entity or evaluator conducting an examination of a defendant under this section shall provide a copy of any report described in this section to the community mental health program director or designee in:
+
+      (A) The county in which the defendant is charged; and
+
+      (B) The county of the defendant’s last known residence.
+
+      (b) Reports prepared under this section are confidential and may be made available only:
+
+      (A) To the court, prosecuting attorney, defense attorney, agent of the prosecuting or defense attorney, defendant, community mental health program director or designee and any facility in which the defendant is housed; or
+
+      (B) As ordered by a court.
+
+      (c) Any facility in which a defendant is housed may not use a report prepared under this section to support a disciplinary action against the defendant.
+
+      (d) Nothing in this subsection prohibits the prosecuting attorney, defense attorney or agent of the prosecuting or defense attorney from discussing the contents of a report prepared under this section with witnesses or victims as otherwise permitted by law.
+
+      (19) The court shall ensure that an order entered under this section is provided, by the end of the next judicial day, to any entity ordered to provide services and supervision necessary to restore the defendant’s fitness to proceed.
+
+      (20) Unless the court orders otherwise or either party objects, a defendant committed to a state hospital or other facility, or a certified evaluator or other expert witness, may attend hearings held under this section via simultaneous electronic transmission.
+
+      (21) The Oregon Health Authority shall establish by rule standards for the recommendation provided to the court described in subsection (2) of this section. [1971 c.743 §52; 1975 c.380 §5; 1993 c.238 §3; 1999 c.931 §§1,2; 2005 c.685 §6; 2009 c.595 §107; 2011 c.508 §1; 2011 c.724 §8; 2015 c.130 §2; 2017 c.49 §1; 2017 c.233 §3; 2017 c.628 §1; 2017 c.634 §16; 2019 c.311 §5; 2019 c.318 §2; 2019 c.538 §2a]
 
  
+
+      161.372 Involuntary administration of medication for fitness to proceed; hearing; court order. (1) If, at any point while the defendant is in the custody of the superintendent of the state mental hospital under ORS 161.370, the superintendent determines that medication is the recommended treatment in order to allow the defendant to gain or regain fitness to proceed, the defendant is refusing to take the recommended medication and the defendant cannot be involuntarily medicated without a court order, the superintendent shall submit a report of the determination to the court.
+
+      (2) The report described in subsection (1) of this section shall include:
+
+      (a) Information regarding the benefits and side effects of each recommended medication;
+
+      (b) Information concerning the defendant’s refusal to take the recommended medication; and
+
+      (c) The likelihood that the medication will allow the defendant to gain or regain fitness to proceed.
+
+      (3)(a) Based upon the report described in subsection (1) of this section, the prosecuting attorney may file a motion requesting that the court authorize the involuntary administration of medication to the defendant. The prosecuting attorney shall provide a copy of the motion to the defendant.
+
+      (b) The court shall hold a hearing on the motion if either the prosecuting attorney or the defendant requests a hearing. At the hearing, the court shall determine whether to issue an order authorizing the involuntary administration of medication to the defendant.
+
+      (c) In order to enter an order authorizing the involuntary administration of medication to the defendant, the court must find that:
+
+      (A) Involuntary medication of the defendant is not otherwise authorized by law;
+
+      (B) There are important state interests at stake in the prosecution of the defendant;
+
+      (C) The recommended medication will significantly further the important state interests because:
+
+      (i) It is substantially likely that the medication will render the defendant fit to proceed; and
+
+      (ii) It is substantially unlikely that the medication will cause side effects that will impair the fairness of the criminal proceeding;
+
+      (D) Involuntary administration of medication is necessary to further the important state interests because there are no alternative, less intrusive treatments that would produce the same result as the medication; and
+
+      (E) Administration of the medication is medically appropriate because it is in the defendant’s best medical interest in light of the defendant’s medical condition.
+
+      (d) A court order authorizing the involuntary administration of medication to a defendant under this section must specify:
+
+      (A) The specific medication or type of medications permitted to be administered to the defendant;
+
+      (B) The maximum dosage that may be administered; and
+
+      (C) The duration of time that the state mental hospital may involuntarily medicate the defendant before reporting back to the court on the defendant’s mental condition and progress toward gaining or regaining fitness to proceed. The duration of time shall not exceed the maximum period of the defendant’s commitment to the state mental hospital, or 180 calendar days, whichever is shorter. [2019 c.318 §4]
+
+      161.373 Records for fitness to proceed examination; compliance with court order. (1) Unless otherwise prohibited by law or for good cause, all public bodies, as defined in ORS 174.109, and any private medical provider in possession of records concerning the defendant, shall, within five business days of receipt of the order, comply with a court order for the release of records to the state mental hospital or other facility designated by the Oregon Health Authority for the purpose of conducting an examination or evaluation under ORS 161.365 or 161.370.
+
+      (2) Notwithstanding subsection (1) of this section, the Oregon Youth Authority, the Department of Corrections, a community college district, a community college service district, a public university, a school district or an education service district may, after notifying the state hospital or other facility designated by the Oregon Health Authority, comply with the court order within 15 business days of receipt of the order without good cause.
+
+      (3) As used in this section, in the case of a community college district, a community college service district, a public university, a school district or an education service district, “business day” does not include any day on which the central administration offices of the district or university are closed. [2019 c.311 §2]
 
       161.375 Escape of person placed at hospital or facility; authority to order arrest. (1) When a patient, who has been placed at a state hospital for evaluation, care, custody and treatment under ORS 161.315 to 161.351 or by court order under ORS 161.315, 161.365 or 161.370, has escaped or is absent without authorization from the hospital or from the custody of any person in whose charge the superintendent has placed the patient, the superintendent may order the arrest and detention of the patient.
 
@@ -1835,25 +1759,11 @@ RESPONSIBILITY
 
       (3) In carrying out a conditional release plan prepared under subsection (2) of this section, the authority may contract with a community mental health program, other public agency or private corporation or an individual to provide supervision and treatment for the conditionally released person.
 
-      (4) The board shall maintain and keep current the medical, social and criminal history of all persons committed to its jurisdiction. The confidentiality of records maintained by the board shall be determined pursuant to ORS 192.338, 192.345 and 192.355.
+      (4)(a) The board shall maintain and keep current the medical, social and criminal history of all persons committed to its jurisdiction. The confidentiality of records maintained by the board shall be determined pursuant to ORS 192.338, 192.345, 192.355 and 192.398.
 
-      (5) The evidentiary phase of a hearing conducted by the board under ORS 161.315 to 161.351 is not a deliberation for purposes of ORS 192.690. [1975 c.380 §7; 1977 c.380 §18; 1981 c.711 §14; 1993 c.680 §18; 2005 c.22 §109; 2005 c.685 §8; 2009 c.595 §110; 2011 c.708 §5; 2017 c.442 §6]
+      (b) Except as otherwise provided by law, upon request of the board, a state hospital, a community mental health program and any other health care service provider shall provide the board with all medical records pertaining to a person committed to the jurisdiction of the board.
 
- 
-
-      Note: The amendments to 161.390 by section 6, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.390. (1) The Oregon Health Authority shall adopt rules for the assignment of persons to state mental hospitals or secure intensive community inpatient facilities under ORS 161.315 to 161.351, 161.365 and 161.370 and for establishing standards for evaluation and treatment of persons committed to a state hospital or a secure intensive community inpatient facility or ordered to a community mental health program under ORS 161.315 to 161.351.
-
-      (2) When the Psychiatric Security Review Board or the authority requires the preparation of a predischarge or preconditional release plan before a hearing or as a condition of granting discharge or conditional release for a person committed under ORS 161.315 to 161.351 to a state hospital or a secure intensive community inpatient facility for custody, care and treatment, the authority is responsible for and shall prepare the plan.
-
-      (3) In carrying out a conditional release plan prepared under subsection (2) of this section, the authority may contract with a community mental health program, other public agency or private corporation or an individual to provide supervision and treatment for the conditionally released person.
-
-      (4) Before the authority conducts a hearing under ORS 161.315 to 161.351, the authority shall notify the board. The board may provide the authority with conditions of release that the board determines are advisable. If the authority orders the person conditionally released, the authority shall include the conditions of release in the order.
-
-      (5) The board and the authority shall maintain and keep current the medical, social and criminal history of all persons committed to their respective jurisdiction. The confidentiality of records maintained by the board shall be determined pursuant to ORS 192.338, 192.345 and 192.355.
-
-      (6) The evidentiary phase of a hearing conducted by the board or the authority under ORS 161.315 to 161.351 is not a deliberation for purposes of ORS 192.690.
+      (5) The evidentiary phase of a hearing conducted by the board under ORS 161.315 to 161.351 is not a deliberation for purposes of ORS 192.690. [1975 c.380 §7; 1977 c.380 §18; 1981 c.711 §14; 1993 c.680 §18; 2005 c.22 §109; 2005 c.685 §8; 2009 c.595 §110; 2011 c.708 §5; 2017 c.442 §6; 2018 c.120 §4; 2019 c.328 §1]
 
  
 
@@ -1876,20 +1786,6 @@ RESPONSIBILITY
       (4) If any person fails to comply with a subpoena issued under subsections (1) or (2) of this section or any party or witness refuses to testify regarding any matter on which the party or witness may be lawfully interrogated, the judge of the circuit court of any county, on the application of the board or of the party requesting the issuance of the subpoena, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued by the court.
 
       (5) If any person, agency or facility fails to comply with an order of the board issued pursuant to subsection (2) of this section, the judge of a circuit court of any county, on application of the board, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of an order issued by the court. Contempt for disobedience of an order of the board shall be punishable by a fine of $100. [1977 c.380 §9; 1989 c.980 §8; 2011 c.708 §10; 2017 c.442 §9]
-
- 
-
-      Note: The amendments to 161.395 by section 9, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.395. (1) Upon request of any party to a hearing before the Psychiatric Security Review Board or the Oregon Health Authority under ORS 161.315 to 161.351, the agency conducting the hearing shall issue, or on its own motion may issue, subpoenas requiring the attendance and testimony of witnesses.
-
-      (2) Upon request of any party to the hearing before the agency and upon a proper showing of the general relevance and reasonable scope of the documentary or physical evidence sought, the agency shall issue, or on its own motion may issue, subpoenas duces tecum.
-
-      (3) Witnesses appearing under subpoenas, other than the parties or state officers or employees, shall receive fees and mileage as prescribed by law for witnesses in ORS 44.415 (2). If the agency certifies that the testimony of a witness was relevant and material, any person who has paid fees and mileage to that witness shall be reimbursed by the agency.
-
-      (4) If any person fails to comply with a subpoena issued under subsections (1) or (2) of this section or any party or witness refuses to testify regarding any matter on which the party or witness may be lawfully interrogated, the judge of the circuit court of any county, on the application of the agency that issued the subpoena or of the party requesting the issuance of the subpoena, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued by the court.
-
-      (5) If any person, agency or facility fails to comply with an order of the board or authority issued pursuant to subsection (2) of this section, the judge of a circuit court of any county, on application of the agency that issued the order, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of an order issued by the court. Contempt for disobedience of an order of the board or authority shall be punishable by a fine of $100.
 
  
 
@@ -1917,12 +1813,6 @@ RESPONSIBILITY
 
  
 
-      Note: The amendments to 161.400 by section 10, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      161.400. If, at any time after the commitment of a person to a state hospital or a secure intensive community inpatient facility under ORS 161.315 to 161.351, the superintendent of the hospital or the director of the facility is of the opinion that a leave of absence from the hospital or facility would be therapeutic for the person and that such leave would pose no substantial danger to others, the superintendent or director may authorize such leave for up to 48 hours in accordance with rules adopted by the agency having jurisdiction over the person. However, the superintendent or director, before authorizing the leave of absence, shall first notify the agency for the purposes of ORS 161.326.
-
- 
-
       161.403 [1983 c.800 §14; repealed by 1993 c.77 §1]
 
  
@@ -1935,7 +1825,7 @@ INCHOATE CRIMES
 
       (2) An attempt is a:
 
-      (a) Class A felony if the offense attempted is murder or treason.
+      (a) Class A felony if the offense attempted is any degree of murder, aggravated murder or treason.
 
       (b) Class B felony if the offense attempted is a Class A felony.
 
@@ -1947,7 +1837,7 @@ INCHOATE CRIMES
 
       (f) Class C misdemeanor if the offense attempted is a Class B misdemeanor.
 
-      (g) Violation if the offense attempted is a Class C misdemeanor or an unclassified misdemeanor. [1971 c.743 §54]
+      (g) Violation if the offense attempted is a Class C misdemeanor or an unclassified misdemeanor. [1971 c.743 §54; 2019 c.635 §15a]
 
  
 
@@ -2067,7 +1957,7 @@ CLASSES OF OFFENSES
 
       (d) Unclassified felonies.
 
-      (2) The particular classification of each felony defined in the Oregon Criminal Code, except murder under ORS 163.115 and treason under ORS 166.005, is expressly designated in the section defining the crime. An offense defined outside this code which, because of the express sentence provided is within the definition of ORS 161.525, shall be considered an unclassified felony. [1971 c.743 §68]
+      (2) The particular classification of each felony defined in the Oregon Criminal Code, except murder in any degree under ORS 163.107 or 163.115 and treason under ORS 166.005, is expressly designated in the section defining the crime. An offense defined outside this code which, because of the express sentence provided is within the definition of ORS 161.525, shall be considered an unclassified felony. [1971 c.743 §68; 2019 c.635 §16]
 
  
 
@@ -2217,7 +2107,7 @@ DISPOSITION OF OFFENDERS
 
       (b) For felonies committed on or after November 1, 1989, impose a lesser sentence in accordance with the rules of the Oregon Criminal Justice Commission.
 
-      (6) When a defendant who is convicted of a felony having as an element the defendant’s use or threatened use of a firearm during the commission of the crime is a person who was waived from juvenile court under ORS 137.707 (5)(b)(A), 419C.349, 419C.352, 419C.364 or 419C.370, the court is not required to impose a minimum term of imprisonment under this section. [1979 c.779 §2; 1985 c.552 §1; 1989 c.790 §72; 1989 c.839 §18; 1991 c.133 §3; 1993 c.692 §9; 1999 c.951 §3; 2005 c.407 §1; 2009 c.610 §5]
+      (6) When a defendant who is convicted of a felony having as an element the defendant’s use or threatened use of a firearm during the commission of the crime is a person who was waived under ORS 137.707 (5)(b)(A), 419C.349 (1)(b), 419C.352, 419C.364 or 419C.370, the court is not required to impose a minimum term of imprisonment under this section. [1979 c.779 §2; 1985 c.552 §1; 1989 c.790 §72; 1989 c.839 §18; 1991 c.133 §3; 1993 c.692 §9; 1999 c.951 §3; 2005 c.407 §1; 2009 c.610 §5; 2019 c.634 §7]
 
  
 
@@ -2233,11 +2123,13 @@ DISPOSITION OF OFFENDERS
 
  
 
-      161.620 Sentences imposed upon waiver from juvenile court. Notwithstanding any other provision of law, a sentence imposed upon any person waived from the juvenile court under ORS 419C.349, 419C.352, 419C.364 or 419C.370 shall not include any sentence of death or life imprisonment without the possibility of release or parole nor imposition of any mandatory minimum sentence except that a mandatory minimum sentence under:
+      161.620 Sentences imposed upon waiver. Notwithstanding any other provision of law, a sentence imposed upon any person waived under ORS 419C.349, 419C.352, 419C.364 or 419C.370 shall not include any sentence of death or life imprisonment without the possibility of release or parole nor imposition of any mandatory minimum sentence except that a mandatory minimum sentence under:
 
-      (1) ORS 163.105 (1)(c) shall be imposed; and
+      (1) ORS 137.707 shall be imposed, except as provided in ORS 137.712;
 
-      (2) ORS 161.610 may be imposed. [1985 c.631 §9; 1989 c.720 §3; 1993 c.33 §306; 1993 c.546 §119; 1995 c.422 §131y; 1999 c.951 §2]
+      (2) ORS 163.105 (1)(c) shall be imposed; and
+
+      (3) ORS 161.610 may be imposed. [1985 c.631 §9; 1989 c.720 §3; 1993 c.33 §306; 1993 c.546 §119; 1995 c.422 §131y; 1999 c.951 §2; 2019 c.634 §8]
 
  
 
@@ -2369,13 +2261,19 @@ AUTHORITY OF SENTENCING COURT
 
  
 
-      161.705 Reduction of certain felonies to misdemeanors. Notwithstanding ORS 161.525, the court may enter judgment of conviction for a Class A misdemeanor and make disposition accordingly when:
+      161.705 Reduction of certain felonies to misdemeanors. (1) Notwithstanding ORS 161.525, the court may enter judgment of conviction for a Class A misdemeanor and make disposition accordingly when:
 
-      (1)(a) A person is convicted of any Class C felony; or
+      (a)(A) A person is convicted of any Class C felony; or
 
-      (b) A person convicted of a felony described in paragraph (a) of this subsection, of possession or delivery of marijuana or a marijuana item as defined in ORS 475B.015 constituting a Class B felony, or of a Class A felony pursuant to ORS 166.720, has successfully completed a sentence of probation; and
+      (B) A person convicted of a Class C felony, of possession or delivery of marijuana or a marijuana item as defined in ORS 475B.015 constituting a Class B felony, of possession of a controlled substance constituting a Class B felony or of a Class A felony pursuant to ORS 166.720, has successfully completed a sentence of probation; and
 
-      (2) The court, considering the nature and circumstances of the crime and the history and character of the defendant, believes that it would be unduly harsh to sentence the defendant for a felony. [1971 c.743 §83; 1977 c.745 §31; 1979 c.124 §1; 1981 c.769 §8; 2005 c.708 §48; 2009 c.610 §2; 2013 c.591 §5; 2015 c.290 §2; 2015 c.614 §125; 2017 c.21 §100]
+      (b) The court, considering the nature and circumstances of the crime and the history and character of the defendant, believes that a felony conviction would be unduly harsh.
+
+      (2) The entry of judgment of conviction for a Class A misdemeanor under this section may be made:
+
+      (a) At the time of conviction, for offenses described in subsection (1)(a)(A) of this section; or
+
+      (b) At any time after the sentence of probation has been completed, for offenses described in subsection (1)(a)(B) of this section. [1971 c.743 §83; 1977 c.745 §31; 1979 c.124 §1; 1981 c.769 §8; 2005 c.708 §48; 2009 c.610 §2; 2013 c.591 §5; 2015 c.290 §2; 2015 c.614 §125; 2017 c.21 §100; 2018 c.120 §11]
 
  
 
@@ -2464,6 +2362,52 @@ AUTHORITY OF SENTENCING COURT
       161.737 Sentence imposed on dangerous offender as departure from sentencing guidelines. (1) A sentence imposed under ORS 161.725 and 161.735 for felonies committed on or after November 1, 1989, shall constitute a departure from the sentencing guidelines created by rules of the Oregon Criminal Justice Commission. The findings made to classify the defendant as a dangerous offender under ORS 161.725 and 161.735 shall constitute substantial and compelling reasons to depart from the presumptive sentence as provided by rules of the Oregon Criminal Justice Commission.
 
       (2) When the sentence is imposed, the sentencing judge shall indicate on the record the reasons for the departure and shall impose, in addition to the indeterminate sentence imposed under ORS 161.725, a required incarceration term that the offender must serve before release to post-prison supervision. If the presumptive sentence that would have been imposed if the court had not imposed the sentence under ORS 161.725 and 161.735 as a departure is a prison sentence, the required incarceration term shall be no less than the presumptive incarceration term and no more than twice the maximum presumptive incarceration term. If the presumptive sentence for the offense is probation, the required incarceration term shall be no less than the maximum incarceration term provided by the rule of the Oregon Criminal Justice Commission that establishes incarceration terms for dispositional departures and no more than twice that amount. However, the indeterminate sentence imposed under this section and ORS 161.725 is not subject to any guideline rule establishing limitations on the duration of departures. [1989 c.790 §77; 1993 c.334 §6]
+
+ 
+
+      161.740 Sentencing of juvenile offenders. (1) A court may not impose a sentence of life imprisonment without the possibility of release or parole on a person who was under 18 years of age at the time of committing the offense.
+
+      (2) In determining the appropriate sentence for a person who was under 18 years of age at the time of committing the offense, if the court is provided information concerning the following circumstances, or any other relevant circumstances, the court shall consider those circumstances in imposing the sentence:
+
+      (a) The person’s age, intellectual capacity and impetuousness at the time of the offense.
+
+      (b) The person’s family and community environment, history of trauma and prior involvement in the juvenile dependency system at the time of the offense.
+
+      (c) The person’s ability at the time of the offense to appreciate the risks and consequences of the conduct constituting the offense.
+
+      (d) The person’s community involvement prior to the offense.
+
+      (e) Any peer or familial pressure to which the person was subjected at the time of the offense.
+
+      (f) Whether and to what extent an adult was involved in the commission of the offense.
+
+      (g) The person’s capacity for rehabilitation.
+
+      (h) The person’s school records and special education evaluations.
+
+      (i) Any other mitigating factors or circumstances presented by the person.
+
+      (3)(a) If the court is provided with a report of a mental health evaluation of the person, the court shall give the evaluation substantial weight in imposing the sentence if:
+
+      (A) The evaluation was conducted by a psychiatrist or psychologist whose primary practice involves the treatment of adolescents; and
+
+      (B) The report includes the assessment of the person’s degree of insight, judgment, self-awareness, emotional regulation and impulse control.
+
+      (b) Paragraph (a) of this subsection does not constitute a requirement that a person obtain or submit an evaluation for sentencing.
+
+      (4) When sentencing a person who was under 18 years of age at the time of committing the offense, under no circumstances may the court consider the age of the person as an aggravating factor.
+
+      (5) When sentencing a person who was under 18 years of age at the time of committing an offense to a term of imprisonment, the court shall indicate in the judgment:
+
+      (a) The age of the person at the time of committing the offense; and
+
+      (b) That the person is eligible for a hearing and release under ORS 144.397. [2019 c.634 §24]
+
+Note: Section 32, chapter 634, Oregon Laws 2019, provides:
+
+      Sec. 32. (1) Sections 24 [161.740] and 25 [144.397], chapter 634, Oregon Laws 2019, and the amendments to ORS 137.071, 137.124, 137.705, 137.707, 137.712, 144.185, 161.610, 161.620, 163.105, 163.115, 163.155, 163A.130, 163A.135, 339.317, 339.319, 339.321, 419C.005, 419C.050, 419C.346, 419C.349, 419C.352, 419C.355, 419C.358, 419C.361, 420.011, 420.081 and 420A.203 and section 3, chapter 635, Oregon Laws 2019 [163.107], by sections 1 to 23 and 26 to 29, chapter 634, Oregon Laws 2019, and section 3a, chapter 635, Oregon Laws 2019, apply to sentences imposed on or after January 1, 2020.
+
+      (2) Notwithstanding subsection (1) of this section, sections 24 and 25, chapter 634, Oregon Laws 2019, and the amendments to ORS 137.071, 137.124, 137.705, 137.707, 137.712, 144.185, 161.610, 161.620, 163.105, 163.115, 163.155, 163A.130, 163A.135, 339.317, 339.319, 339.321, 419C.005, 419C.050, 419C.346, 419C.349, 419C.352, 419C.355, 419C.358, 419C.361, 420.011, 420.081 and 420A.203 and section 3, chapter 635, Oregon Laws 2019, by sections 1 to 23 and 26 to 29, chapter 634, Oregon Laws 2019, and section 3a, chapter 635, Oregon Laws 2019, do not apply to persons who were originally sentenced before January 1, 2020, and who are subsequently resentenced on or after January 1, 2020, as the result of an appellate decision or a post-conviction relief proceeding or for any other reason. [2019 c.634 §32; 2019 c.635 §3c; 2019 c.685 §4]
 
 _______________
 

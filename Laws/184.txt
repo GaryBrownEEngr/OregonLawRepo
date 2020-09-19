@@ -4,20 +4,6 @@ Chapter 184 — Administrative Services and Transportation Departments
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0093; 2018 Session Laws 0094
-
- 
-
- 
-
 
  
 
@@ -189,8 +175,6 @@ DEPARTMENT OF TRANSPORTATION
 
 184.615     Department of Transportation; duties
 
- 
-
 184.617     Functions of commission
 
  
@@ -208,6 +192,10 @@ DEPARTMENT OF TRANSPORTATION
  
 
 184.622     Authority of Department of Transportation to require fingerprints
+
+ 
+
+184.623     Director of Transportation; confirmation
 
  
 
@@ -336,6 +324,10 @@ Note          Reports on revenue--2010 c.30 §18
  
 
 184.665     Continuous Improvement Advisory Committee
+
+ 
+
+184.667     Autonomous vehicles; lead agency
 
  
 
@@ -521,7 +513,15 @@ on Transportation Projects)
 
  
 
-      184.001 [Formerly 184.105; 1989 c.908 §17; 1991 c.11 §2; renumbered 285.001 in 1991]
+(Floatable Natural Waterways)
+
+ 
+
+184.901     Bridge projects that cross floatable natural waterways; notification to other agencies
+
+ 
+
+184.001 [Formerly 184.105; 1989 c.908 §17; 1991 c.11 §2; renumbered 285.001 in 1991]
 
  
 
@@ -1385,7 +1385,7 @@ DEPARTMENT OF TRANSPORTATION
 
  
 
-      184.612 Oregon Transportation Commission; confirmation; qualifications; term; compensation and expenses. (1) There is established the Oregon Transportation Commission consisting of five members appointed by the Governor, subject to confirmation by the Senate pursuant to section 4, Article III, Oregon Constitution. A member serves at the pleasure of the Governor.
+      184.612 Oregon Transportation Commission; confirmation; qualifications; term; compensation and expenses. (1) There is established the Oregon Transportation Commission consisting of five members appointed by the Governor, subject to confirmation by the Senate pursuant to Article III, section 4, of the Oregon Constitution. A member serves at the pleasure of the Governor.
 
       (2) The Governor shall appoint members of the commission in compliance with all of the following:
 
@@ -1393,25 +1393,31 @@ DEPARTMENT OF TRANSPORTATION
 
       (b) Not more than three members who belong to one political party. Party affiliation shall be determined by the appropriate entry on official election registration cards.
 
-      (3) At the time of appointment, a member may not have any direct or indirect financial or fiduciary interest related to the commission’s duties. If a conflict arises after a member’s appointment, the member shall declare the conflict and abstain from deliberations and voting on the matter under consideration by the commission.
+      (3) At the time of appointment, a member or a relative of a member, as defined in ORS 244.020, may not have an actual conflict of interest, as defined in ORS 244.020.
 
-      (4) The term of office of each member is four years. Before the expiration of the term of a member, the Governor shall appoint a successor whose term begins on July 1 next following. A member is eligible for reappointment. In case of a vacancy for any cause, the Governor shall appoint a person to fill the office for the unexpired term.
+      (4) Notwithstanding ORS 244.120 (2), when met with a potential or actual conflict of interest, as those terms are defined in ORS 244.020, a member shall announce publicly the nature of the potential or actual conflict and:
 
-      (5) The Governor shall appoint one of the members as chairperson. The chairperson shall appoint one of the other members as vice chairperson. The chairperson and vice chairperson shall have such terms, duties and powers as the Oregon Transportation Commission determines are necessary for the performance of such offices.
+      (a) Except as provided in paragraph (b) of this subsection, refrain from participating as a public official in any discussion or debate on the issue out of which the potential or actual conflict arises or from voting on the issue.
 
-      (6) A majority of the members of the commission constitutes a quorum. If a quorum is present at a meeting, the commission may take action by an affirmative vote by a majority of the members who are present. An individual member may not exercise individually any administrative authority with respect to the Department of Transportation.
+      (b) If the member’s vote is necessary to meet a requirement of a minimum number of votes to take official action, be eligible to vote, but not to participate as a public official in any discussion or debate on the issue out of which the potential or actual conflict arises.
 
-      (7) The commission shall meet at least quarterly, at a time and place determined by the commission. The commission shall also meet at such other times and places as are specified by the call of the chairperson or of a majority of the commission.
+      (5) The term of office of each member is four years. Before the expiration of the term of a member, the Governor shall appoint a successor whose term begins on July 1 next following. A member is eligible for reappointment. In case of a vacancy for any cause, the Governor shall appoint a person to fill the office for the unexpired term.
 
-      (8) A vacancy does not impair the right of the remaining members to exercise all the powers of the commission, except that three members of the commission must agree in the selection, vacation or abandonment of state highways, and in case the members are unable to agree the Governor shall have the right to vote as a member of the commission.
+      (6) The Governor shall appoint one of the members as chairperson. The chairperson shall appoint one of the other members as vice chairperson. The chairperson and vice chairperson shall have such terms, duties and powers as the Oregon Transportation Commission determines are necessary for the performance of such offices.
 
-      (9) The commission shall keep complete and accurate records of all the meetings, transactions and business of the commission at the office of the department.
+      (7) A majority of the members of the commission constitutes a quorum. If a quorum is present at a meeting, the commission may take action by an affirmative vote by a majority of the members who are present. An individual member may not exercise individually any administrative authority with respect to the Department of Transportation.
 
-      (10) The commission may provide an official seal.
+      (8) The commission shall meet at least quarterly, at a time and place determined by the commission. The commission shall also meet at such other times and places as are specified by the call of the chairperson or of a majority of the commission.
 
-      (11) The commission may hire staff the commission deems necessary to assist the commission in carrying out its duties. The staff shall be considered employees of the department for purposes of the State Personnel Relations Law under ORS chapter 240.
+      (9) A vacancy does not impair the right of the remaining members to exercise all the powers of the commission, except that three members of the commission must agree in the selection, vacation or abandonment of state highways, and in case the members are unable to agree the Governor shall have the right to vote as a member of the commission.
 
-      (12) A member of the commission is entitled to compensation and expenses as provided by ORS 292.495. [1973 c.249 §3; 1981 c.545 §3; 1983 c.428 §1; 2017 c.750 §2]
+      (10) The commission shall keep complete and accurate records of all the meetings, transactions and business of the commission at the office of the department.
+
+      (11) The commission may provide an official seal.
+
+      (12) The commission may hire staff the commission deems necessary to assist the commission in carrying out its duties. The staff shall be considered employees of the department for purposes of the State Personnel Relations Law under ORS chapter 240.
+
+      (13) A member of the commission is entitled to compensation and expenses as provided by ORS 292.495. [1973 c.249 §3; 1981 c.545 §3; 1983 c.428 §1; 2017 c.750 §2; 2019 c.491 §8]
 
  
 
@@ -1483,7 +1489,7 @@ DEPARTMENT OF TRANSPORTATION
 
       (B) Must be used by all agencies and officers to guide and coordinate transportation activities and to ensure transportation planning utilizes the potential of all existing and developing modes of transportation.
 
-      (d) In coordination with the State Marine Board, the Oregon Business Development Department, the State Aviation Board, cities, counties, mass transit districts organized under ORS 267.010 to 267.390 and transportation districts organized under ORS 267.510 to 267.650, develop plans for each mode of transportation and multimodal plans for the movement of people and freight. Subject to paragraph (c) of this subsection, the plans must include a list of projects needed to maintain and develop the transportation infrastructure of this state for at least 20 years in the future.
+      (d) In coordination with the State Marine Board, the Oregon Business Development Department, the State Aviation Board, cities, counties, mass transit districts organized under ORS 267.010 to 267.394 and transportation districts organized under ORS 267.510 to 267.650, develop plans for each mode of transportation and multimodal plans for the movement of people and freight. Subject to paragraph (c) of this subsection, the plans must include a list of projects needed to maintain and develop the transportation infrastructure of this state for at least 20 years in the future.
 
       (e) For the plans developed under paragraph (d) of this subsection, include a list of projects for at least 20 years into the future that are capable of being accomplished using the resources reasonably expected to be available. As the plans are developed by the commission, the Director of Transportation shall prepare and submit implementation programs to the commission for approval. Work approved by the commission to carry out the plans shall be assigned to the appropriate unit of the Department of Transportation or other appropriate public body, as defined in ORS 174.109.
 
@@ -1521,15 +1527,15 @@ DEPARTMENT OF TRANSPORTATION
 
       184.619 Rulemaking authority; orders. In accordance with the applicable provisions of ORS chapter 183, the Oregon Transportation Commission:
 
-      (1) Shall adopt any rules and orders as it considers necessary and proper in performing the functions vested by law in the commission.
+      (1) Shall adopt any rules and orders as the commission considers necessary and proper in performing the functions vested by law in the commission.
 
-      (2) Notwithstanding any other provisions of law, the commission has the power to adopt any rules, establish any policy or exercise any other duty, function or power if a statute gives such power to the Department of Transportation. [1973 c.249 §11; 1981 c.418 §1; 2017 c.750 §5]
+      (2) Notwithstanding any other provisions of law, has the power to adopt any rules, establish any policy or exercise any other duty, function or power if a statute gives such power to the Department of Transportation. [1973 c.249 §11; 1981 c.418 §1; 2017 c.750 §5; 2019 c.13 §33]
 
  
 
       184.620 Director of Transportation; confirmation; subordinates. (1) The Department of Transportation shall be under the supervision of a Director of Transportation. The Oregon Transportation Commission shall appoint the director, after consultation with the Governor. The director serves at the pleasure of the commission.
 
-      (2) The appointment of the director shall be subject to confirmation by the Senate in the manner provided by ORS 171.562 and 171.565.
+      (2) The appointment of the director shall be subject to confirmation by the Senate in the manner provided in ORS 184.623.
 
       (3) The director may appoint:
 
@@ -1539,7 +1545,7 @@ DEPARTMENT OF TRANSPORTATION
 
       (4) Subject to the approval of the commission, the director may organize and reorganize the department as the director considers necessary to properly conduct the work of the department. As directed by the chairperson of the commission, the director shall assign employees of the department to staff the commission.
 
-      (5) When service of summons or other process is required by statute to be served on the Director of Transportation, the Department of Transportation or the Oregon Transportation Commission, such service shall be made upon the office of the director. [1969 c.599 §3; 1969 c.599 §3a; 1973 c.249 §16; 1979 c.186 §6; 1999 c.686 §1; 2005 c.70 §2; 2017 c.750 §20]
+      (5) When service of summons or other process is required by statute to be served on the Director of Transportation, the Department of Transportation or the Oregon Transportation Commission, such service shall be made upon the office of the director. [1969 c.599 §3; 1969 c.599 §3a; 1973 c.249 §16; 1979 c.186 §6; 1999 c.686 §1; 2005 c.70 §2; 2017 c.750 §20; 2018 c.93 §1]
 
  
 
@@ -1582,6 +1588,20 @@ DEPARTMENT OF TRANSPORTATION
  
 
       Note: 184.622 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 184 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      184.623 Director of Transportation; confirmation. (1) The executive appointment of the Director of Transportation by the Oregon Transportation Commission under ORS 184.620 is subject to confirmation by the Senate. Confirmation requires the affirmative vote of a majority of the members of the Senate.
+
+      (2) If an appointment made under ORS 184.620 is not confirmed by the Senate, the commission shall make another appointment, subject to confirmation by the Senate.
+
+      (3) The name of the individual to be appointed or reappointed shall be submitted to the Senate by the commission under ORS 184.620. The Senate shall take up the question of confirmation as soon after the convening of a regular or special session as is appropriate. The question of confirmation may be referred to committee or may be acted upon without a referral.
+
+      (4) If the name of an individual to be appointed or reappointed submitted by the commission is not acted upon during the term of the Legislative Assembly to which it is submitted, the name may be resubmitted to the subsequent term by the commission on or after the date the Legislative Assembly convenes in the subsequent regular session. [2018 c.93 §2]
+
+ 
+
+      Note: 184.623 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 184 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1959,19 +1979,17 @@ DEPARTMENT OF TRANSPORTATION
 
       Note: Section 18, chapter 30, Oregon Laws 2010, provides:
 
-      Sec. 18. Reports on revenue. (1) The Department of Transportation shall report quarterly to the legislative committees on revenue if the Legislative Assembly is in session or, if the Legislative Assembly is not in session, to the Legislative Revenue Officer. The department’s report shall include an estimate of the amounts received in the previous quarter from the increased taxes and fees established in chapter 865, Oregon Laws 2009, and an estimate of the projected revenue in the current quarter from the increased taxes and fees established in chapter 865, Oregon Laws 2009.
+      Sec. 18. Reports on revenue. The Department of Transportation shall report semiannually to the legislative committees on revenue if the Legislative Assembly is in session or, if the Legislative Assembly is not in session, to the Legislative Revenue Officer. The department’s report shall include:
 
-      (2) In addition to the report described in subsection (1) of this section, the Department of Transportation shall report quarterly to the legislative committees on revenue if the Legislative Assembly is in session or, if the Legislative Assembly is not in session, to the Legislative Revenue Officer. The department’s report shall include:
+      (1) An estimate of the amounts received in the previous two quarters from the increased taxes and fees established in ORS 803.091 and 803.422 and section 45, chapter 750, Oregon Laws 2017, and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 63, 64, 66, 67 and 70, chapter 750, Oregon Laws 2017, and an estimate of the projected revenue in the current quarter and the next quarter from the increased taxes and fees established in ORS 803.091 and 803.422 and section 45, chapter 750, Oregon Laws 2017, and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 63, 64, 66, 67 and 70, chapter 750, Oregon Laws 2017.
 
-      (a) An estimate of the amounts received in the previous quarter from the increased taxes and fees established in sections 32 [803.422], 33, 37 [803.091], 38 and 45 of this 2017 Act and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.450, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 55, 57, 58, 63, 64, 66, 67 and 70 of this 2017 Act, and an estimate of the projected revenue in the current quarter from the increased taxes and fees established in sections 32, 33, 37, 38 and 45 of this 2017 Act and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.450, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 55, 57, 58, 63, 64, 66, 67 and 70 of this 2017 Act.
+      (2) An estimate of the amounts received in the previous biennium to date from the increased taxes and fees established in ORS 803.091 and 803.422 and section 45, chapter 750, Oregon Laws 2017, and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 63, 64, 66, 67 and 70, chapter 750, Oregon Laws 2017, and an estimate of the projected revenue in the remaining current biennium from the increased taxes and fees established in ORS 803.091 and 803.422 and section 45, chapter 750, Oregon Laws 2017, and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 63, 64, 66, 67 and 70, chapter 750, Oregon Laws 2017.
 
-      (b) An estimate of the amounts received in the previous biennium to date from the increased taxes and fees established in sections 32, 33, 37, 38 and 45 of this 2017 Act and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.450, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 55, 57, 58, 63, 64, 66, 67 and 70 of this 2017 Act, and an estimate of the projected revenue in the remaining current biennium from the increased taxes and fees established in sections 32, 33, 37, 38 and 45 of this 2017 Act and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.450, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 55, 57, 58, 63, 64, 66, 67 and 70 of this 2017 Act.
+      (3) Information about the expenditures and distributions made under ORS 367.095, including but not limited to:
 
-      (c) Information about the expenditures and distributions made under section 71a of this 2017 Act [367.095], including but not limited to:
+      (a) Information about the department’s total funds as well as the funds raised separately by the increased taxes and fees established in ORS 803.091 and 803.422 and section 45, chapter 750, Oregon Laws 2017, and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 63, 64, 66, 67 and 70, chapter 750, Oregon Laws 2017, and expended as described in ORS 367.095 (3).
 
-      (A) Information about the department’s total funds as well as the funds raised separately by the increased taxes and fees established in sections 32, 33, 37, 38 and 45 of this 2017 Act and the amendments to ORS 319.020, 319.530, 803.420, 803.645, 818.225, 818.270, 825.450, 825.476, 825.480 and 826.023 by sections 34, 35, 40 to 43, 48, 49, 51, 52, 54, 55, 57, 58, 63, 64, 66, 67 and 70 of this 2017 Act and expended as described in section 71a (3)(c) of this 2017 Act.
-
-      (B) Quarterly amounts that include all the actual and forecasted expenditures and distributions made under section 71a of this 2017 Act for each quarter of the current biennium and the forecasted expenditures and distributions for the following biennium. [2010 c.30 §18; 2017 c.750 §71L]
+      (b) Semiannual amounts that include all the actual and forecasted expenditures and distributions made under ORS 367.095 for each quarter of the current biennium and the forecasted expenditures and distributions for the following biennium. [2010 c.30 §18; 2017 c.750 §71L; 2018 c.93 §32; 2019 c.491 §11]
 
  
 
@@ -2103,7 +2121,7 @@ DEPARTMENT OF TRANSPORTATION
 
       (D) After a project is completed, updated information, including the amount a project is under or over the original estimated cost and whether a project was completed by the original estimated completion date.
 
-      (b) Information on the reports required under ORS 366.774 and 366.790 for all cities and counties in the state, including the amount of transportation funds collected by each county and city and the source of the funds and the amount of money spent on transportation projects by type of expenditure as listed in ORS 366.774 (2) and 366.790 (2). This information shall be displayed for the most current six-year period.
+      (b) Information on the reports required under ORS 366.774 and 366.790 for all cities with a population of 5,000 or greater and all counties in the state, including the amount of transportation funds collected by each county and city and the source of the funds and the amount of money spent on transportation projects by type of expenditure as listed in ORS 366.774 (2) and 366.790 (2). This information shall be displayed for the most current six-year period.
 
       (c) Information on the condition of Oregon’s transportation infrastructure, as required under ORS 184.657.
 
@@ -2111,7 +2129,7 @@ DEPARTMENT OF TRANSPORTATION
 
       (e) Links to all available county and city transportation project websites.
 
-      (f) Links to websites about transportation projects receiving moneys from the Connect Oregon Fund. [2017 c.750 §12]
+      (f) Links to websites about transportation projects receiving moneys from the Connect Oregon Fund. [2017 c.750 §12; 2018 c.93 §22]
 
  
 
@@ -2141,11 +2159,17 @@ DEPARTMENT OF TRANSPORTATION
 
       (4) Each odd-numbered year, the commission shall submit a report, in the manner provided by ORS 192.245, to the Joint Committee on Transportation established under ORS 171.858. The report must include information on the activities and recommendations of the committee and information on any actions taken by the commission or the department to implement recommendations of the committee.
 
-      (5) The committee shall meet regularly, at times and places fixed by the chairperson of the committee or a majority of members of the committee. The department shall provide office space and personnel to assist the committee as requested by the chairperson, within the limits of available funds. [2017 c.750 §10]
+      (5) The committee shall meet regularly, at times and places fixed by the chairperson of the committee or a majority of members of the committee. The department shall provide office space and personnel to assist the committee as requested by the chairperson, within the limits of available funds.
+
+      (6) Members of the committee are entitled to compensation and expenses as provided under ORS 292.495. [2017 c.750 §10; 2019 c.491 §9]
 
  
 
       184.666 [1999 c.939 §9; 2011 c.545 §31; repealed by 2015 c.138 §5]
+
+ 
+
+      184.667 Autonomous vehicles; lead agency. The Department of Transportation is the lead agency responsible for coordination of autonomous vehicle programs and policies. [2018 c.94 §1]
 
  
 
@@ -2459,7 +2483,7 @@ DEPARTMENT OF TRANSPORTATION
 
  
 
-      184.751 Statewide Transportation Improvement Fund. (1) The Statewide Transportation Improvement Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Statewide Transportation Improvement Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the Department of Transportation to finance investments and improvements in public transportation services, except that the moneys may not be used for light rail.
+      184.751 Statewide Transportation Improvement Fund. (1) The Statewide Transportation Improvement Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Statewide Transportation Improvement Fund shall be credited to the fund. Moneys in the fund are continuously appropriated to the Department of Transportation to finance investments and improvements in public transportation services, except that the moneys may not be used for light rail capital expenses but may be used for light rail operation expenses.
 
       (2) The Statewide Transportation Improvement Fund consists of:
 
@@ -2467,7 +2491,7 @@ DEPARTMENT OF TRANSPORTATION
 
       (b) Moneys appropriated or otherwise transferred to the fund by the Legislative Assembly; and
 
-      (c) Other moneys deposited in the fund from any source. [2017 c.750 §122L]
+      (c) Other moneys deposited in the fund from any source. [2017 c.750 §122L; 2018 c.93 §33]
 
  
 
@@ -2479,15 +2503,11 @@ DEPARTMENT OF TRANSPORTATION
 
       (a) Counties in which no part of a mass transit district or transportation district exists;
 
-      (b) Mass transit districts organized under ORS 267.010 to 267.390;
+      (b) Mass transit districts organized under ORS 267.010 to 267.394;
 
       (c) Transportation districts organized under ORS 267.510 to 267.650; and
 
       (d) Federally recognized Indian tribes. [2017 c.750 §122m]
-
- 
-
-      Note: 184.752 becomes operative January 1, 2019. See section 122r, chapter 750, Oregon Laws 2017.
 
  
 
@@ -2507,15 +2527,13 @@ DEPARTMENT OF TRANSPORTATION
 
       (c) Four percent to public transportation service providers to provide funding assistance to cover the costs of improving public transportation services between two or more communities; and
 
-      (d) One percent to the Department of Transportation to establish a statewide public transportation technical resource center, the purpose of which is to assist public transportation service providers in rural areas with training, transportation planning and information technology.
+      (d) One percent to the Department of Transportation to pay the department’s administrative costs and expenses associated with carrying out the provisions of ORS 184.752 to 184.766 and to establish a statewide public transportation technical resource center, the purpose of which is to assist public transportation service providers in rural areas with technical assistance, training, transportation planning and information technology.
 
       (2) For purposes of the percentage distributions under subsection (1)(a) of this section:
 
       (a) Each distribution must be in such shares that the amount of tax paid, as required under ORS 320.550, in the area of each qualified entity bears to the total amount of the tax paid statewide, provided that each qualified entity receives an annual amount of at least $100,000.
 
-      (b) Each public transportation service provider that receives funding under this section shall receive at least a share that the amount of the tax paid, as required under ORS 320.550, in the area served by the provider bears to the amount of tax paid in the area of the respective qualified entity in which the public transportation service provider provides services.
-
-      (c) If more than one mass transit district or transportation district is located within a single county, the commission shall distribute the moneys to the larger district.
+      (b) If more than one mass transit district or transportation district is located within a single county, the commission shall distribute the moneys to the larger district.
 
       (3) The commission shall adopt by rule:
 
@@ -2543,23 +2561,23 @@ DEPARTMENT OF TRANSPORTATION
 
       (D) Expansion of bus routes and bus services to reach communities with a high percentage of low-income households;
 
-      (E) Improvement in the frequency and reliability of service connections between communities inside and outside of the qualified entity’s service area; and
+      (E) Improvement in the frequency and reliability of service connections between communities inside and outside of the qualified entity’s service area;
 
-      (F) Coordination between public transportation service providers to reduce fragmentation in the provision of transportation services;
+      (F) Coordination between public transportation service providers to reduce fragmentation in the provision of transportation services; and
+
+      (G) Implementation of programs to provide student transit services for students in grades 9 through 12;
 
       (b) For the current fiscal year, a summary of any plans and project proposals approved by an advisory committee under ORS 184.761; and
 
       (c) If a qualified entity was a recipient of a percentage distribution in the preceding fiscal year, the amount of moneys received from the distribution that were allocated to a project for the purposes described under paragraph (a) of this subsection.
 
-      (6) After the commission makes a distribution under subsection (1) of this section, qualified entities may enter into intergovernmental agreements under ORS chapter 190 to combine the moneys received for public transportation improvements.
+      (6) If practicable, as determined by the commission by rule each qualified entity shall spend at least one percent of the amount received each year under subsection (1)(a) of this section to implement programs to provide student transit services for students in grades 9 through 12.
 
-      (7) If the commission rejects a public transportation improvement plan or a grant application submitted under this section, the commission shall notify the entity or provider in writing and state the reasons for the rejection.
+      (7) After the commission makes a distribution under subsection (1) of this section, qualified entities may enter into intergovernmental agreements under ORS chapter 190 to combine the moneys received for public transportation improvements.
 
-      (8) The Department of Transportation shall make all grant applications submitted under this section available to the public. [2017 c.750 §122n]
+      (8) If the commission rejects a public transportation improvement plan or a grant application submitted under this section, the commission shall notify the entity or provider in writing and state the reasons for the rejection.
 
- 
-
-      Note: 184.758 becomes operative January 1, 2019. See section 122r, chapter 750, Oregon Laws 2017.
+      (9) The Department of Transportation shall make all grant applications submitted under this section available to the public. [2017 c.750 §122n; 2018 c.93 §34]
 
  
 
@@ -2587,11 +2605,9 @@ DEPARTMENT OF TRANSPORTATION
 
       (b) Criteria that must be included in a plan or project proposal required under subsection (2) of this section; and
 
-      (c) A process by which an advisory committee shall review and approve a plan or project proposal. [2017 c.750 §122o]
+      (c) A process by which an advisory committee shall review and approve a plan or project proposal.
 
- 
-
-      Note: 184.761 becomes operative January 1, 2019. See section 122r, chapter 750, Oregon Laws 2017.
+      (5) Notwithstanding subsection (1) of this section, the governing bodies of two or more qualified entities may appoint advisory committee members to a joint advisory committee under conditions determined by the commission by rule. [2017 c.750 §122o; 2018 c.93 §42]
 
  
 
@@ -2599,23 +2615,19 @@ DEPARTMENT OF TRANSPORTATION
 
  
 
-      184.766 Qualified entities; reports. Every qualified entity shall submit the following to the Department of Transportation no later than 30 days prior to the end of the fiscal year in which the qualified entity receives a percentage distribution under ORS 184.758:
+      184.766 Qualified entities; reports. Every qualified entity that receives a percentage distribution under ORS 184.758 shall submit the following to the Department of Transportation:
 
-      (1) A report on any actions taken by a public transportation service provider located within the area of a qualified entity to mitigate the impact of the tax imposed under ORS 320.550 on passengers who reside in low-income communities;
+      (1) No later than 60 days after the end of the fiscal year, a report on any actions taken by a public transportation service provider located within the area of a qualified entity to mitigate the impact of the tax imposed under ORS 320.550 on passengers who reside in low-income communities;
 
-      (2) The adopted annual budget for the upcoming fiscal year; and
+      (2) No later than 30 days after adoption, the annual budget for the upcoming fiscal year; and
 
-      (3) The results of any audits of the qualified entity or of a public transportation service provider located within the area of the qualified entity as required by a local, state or federal oversight agency for purposes of statewide reporting including, but not limited to:
+      (3) No later than 30 days after receipt of the final results of any audits of the qualified entity or of a public transportation service provider located within the area of the qualified entity as required by a local, state or federal oversight agency for purposes of statewide reporting, the final results including, but not limited to:
 
       (a) The state financial report required under ORS 291.040;
 
-      (b) The results of any comprehensive review completed by the Federal Transit Administration; and
+      (b) The results of any comprehensive review completed by the Federal Transit Administration or the department; and
 
-      (c) Any information submitted by the qualified entity as a part of the requirements of a statewide audit in accordance with the federal Single Audit Act of 1984 (31 U.S.C. 7501 to 7507), as amended by the Single Audit Act Amendments of 1996 (P.L. 104-156). [2017 c.750 §122p]
-
- 
-
-      Note: 184.766 becomes operative January 1, 2019. See section 122r, chapter 750, Oregon Laws 2017.
+      (c) Any information submitted by the qualified entity as a part of the requirements of a statewide audit in accordance with the federal Single Audit Act of 1984 (31 U.S.C. 7501 to 7507), as amended by the Single Audit Act Amendments of 1996 (P.L. 104-156). [2017 c.750 §122p; 2018 c.93 §38]
 
  
 
@@ -2999,6 +3011,54 @@ DEPARTMENT OF TRANSPORTATION
 
  
 
+(Floatable Natural Waterways)
+
+ 
+
+      184.901 Bridge projects that cross floatable natural waterways; notification to other agencies. (1) As used in this section:
+
+      (a)(A) “Project” means a bridge project proposed for funding under a draft Statewide Transportation Improvement Program that consists of:
+
+      (i) Construction of a new bridge that crosses a floatable natural waterway; or
+
+      (ii) Improvements to an existing bridge that crosses a floatable natural waterway.
+
+      (B) “Project” does not mean maintenance of an existing bridge.
+
+      (b) “Public access” means public access to a floatable natural waterway.
+
+      (2) The Department of Transportation shall notify the Department of State Lands, the State Parks and Recreation Department and the State Marine Board when the Department of Transportation proposes a project for funding under a draft Statewide Transportation Improvement Program, unless:
+
+      (a) The project is part of a project on a limited access highway or ferry terminal; or
+
+      (b) The Department of Transportation determines that siting public access near the project is not feasible.
+
+      (3) After receiving notice from the Department of Transportation under subsection (2) of this section, the Department of State Lands, the State Parks and Recreation Department and the State Marine Board may propose changes to the project to enable public access and may provide the Department of Transportation with an estimate of:
+
+      (a) The availability of funding from sources other than the State Highway Fund for a public access site near the project;
+
+      (b) The likelihood and type of any potential public use of a public access site near the project; and
+
+      (c) Any impacts associated with siting public access near the project.
+
+      (4) After receiving proposed changes to a project under subsection (3) of this section, the Department of Transportation shall consider:
+
+      (a) The proposed changes;
+
+      (b) Whether the proposed changes alter the purpose of or need for the project;
+
+      (c) The availability of funding from sources other than the State Highway Fund for a public access site near the project;
+
+      (d) The likelihood and type of any potential public use of a public access site near the project;
+
+      (e) Any impacts associated with siting public access near the project; and
+
+      (f) Any impacts on traffic, roadways or highway safety from siting public access near the project.
+
+      (5) To the greatest extent practicable, when constructing a project, the Department of Transportation may not adversely impact existing, lawful public access. [2019 c.409 §2]
+
+ 
+
       184.905 [1975 c.768 §4; 1977 c.891 §7; renumbered 410.330]
 
  
@@ -3013,6 +3073,6 @@ DEPARTMENT OF TRANSPORTATION
 
       184.940 [1977 c.81 §5; renumbered 185.570]
 
-_______________
+:MEND._______________
 
  

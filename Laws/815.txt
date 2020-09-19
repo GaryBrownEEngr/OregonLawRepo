@@ -687,9 +687,11 @@ PROVIDING UNLAWFUL EQUIPMENT
 
       (a) Sells, displays, advertises or represents as a certified system any motor vehicle pollution control system that is not certified under ORS 468A.365.
 
-      (b) Installs or sells for installation upon a motor vehicle any motor vehicle pollution control system for which a certificate of approval has not been issued under ORS 468A.365.
+      (b) Sells, displays, advertises or represents as an approved retrofit technology any retrofit technology that is not approved under ORS 468A.810.
 
-      (2) The offense described in this section, making unlawful sales, installations or representations concerning vehicle pollution control systems, is a Class A misdemeanor but each day of violation does not constitute a separate offense. [1983 c.338 §456; 1985 c.16 §239]
+      (c) Installs or sells for installation upon a motor vehicle any motor vehicle pollution control system for which a certificate of approval has not been issued under ORS 468A.365.
+
+      (2) The offense described in this section, making unlawful sales, installations or representations concerning vehicle pollution control systems, is a Class A misdemeanor but each day of violation does not constitute a separate offense. [1983 c.338 §456; 1985 c.16 §239; 2019 c.645 §9]
 
  
 
@@ -955,7 +957,7 @@ SPECIFIC EQUIPMENT
 
       (d) This section does not apply to any vehicle, combination of vehicles, article, machine or other equipment while being used by the federal government, the State of Oregon, or any county or incorporated city in the construction, maintenance or repair of public highways and at the immediate location or site of such construction, maintenance or repair.
 
-      (e) This section does not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.390, provided the operation is approved by the road authority for that road.
+      (e) This section does not apply to vehicles while being used on the roads of a road authority by mass transit districts for the purposes authorized under ORS 267.010 to 267.394, provided the operation is approved by the road authority for that road.
 
       (3) Violation of the offense described in this section is subject to civil liability under ORS 818.410.
 
@@ -1505,63 +1507,63 @@ SPECIFIC EQUIPMENT
 
       (c) The exhaust system must meet noise emission standards determined by the Department of Environmental Quality to be substantially equivalent to the following standards based upon a stationary test conducted at a distance of 25 feet in accordance with procedures established by the Department of Environmental Quality:
 
-______________________________________________________________________________
+ 
 
  
 
-                                                     Maximum
+         Maximum
 
-                                                     level,                      Model,
+         level,                                       Model,
 
-            Vehicle type                    dBA                        Year
+         Vehicle type                            dBA                                Year
 
  
 
-I.          Motor vehicles
+I.       Motor vehicles
 
-            required to
+         required to
 
-            establish a
+         establish a
 
-            registration
+         registration
 
-            weight under
+         weight under
 
-            ORS 803.430
+         ORS 803.430
 
-            and commercial
+         and commercial
 
-            buses                                94                             before
+         buses                                       94.................................. before
 
-                                                                                      1976
+                                                                                                1976
 
-                                                     91                             1976 and
+                                                         91.................................. 1976 and
 
-                                                                                      after
+                                                                                                after
 
-II.         Motorcycles and
+II.      Motorcycles and
 
-            mopeds                            94                             before
+         mopeds                                   94.................................. before
 
-                                                                                      1976
+                                                                                                1976
 
-                                                     91                             1976
+                                                         91.................................. 1976
 
-                                                     89                             after 1976
+                                                         89.................................. after 1976
 
-III.       Motor vehicles
+III.    Motor vehicles
 
-            not described
+         not described
 
-            under I or II                     92                             before
+         under I or II                             92.................................. before
 
-                                                                                      1976
+                                                                                                1976
 
-                                                     88                             1976 and
+                                                         88.................................. 1976 and
 
-                                                                                      after
+                                                                                                after
 
-______________________________________________________________________________
+ 
 
  
 
@@ -1883,13 +1885,15 @@ ______________________________________________________________________________
 
       (b) Modifies or alters a certified system or factory-installed system, as defined in ORS 468A.350, in a manner that decreases its efficiency or effectiveness in the control of air pollution.
 
+      (c) Modifies or alters an installed, approved retrofit technology for which proof of certification has been issued under ORS 468A.810 in a manner that decreases its efficiency or effectiveness in the control of air pollution.
+
       (2) The following exemptions to this section are established:
 
       (a) This section does not apply when factory-installed motor vehicle air pollution control equipment, systems or devices are disconnected for the purpose of conversion to gaseous fuels including, but not limited to, liquefied petroleum gases and natural gases in liquefied or gaseous form.
 
       (b) This section is not intended to prohibit the use of replacement, conversion, turbocharger or other alternative components in a certified or factory-installed system if the components do not significantly affect the efficiency or effectiveness of the system in controlling air pollution.
 
-      (3) The offense described in this section, unlawful disconnection or alteration of pollution control equipment, is a Class A misdemeanor, but each day of violation does not constitute a separate offense. [1983 c.338 §506]
+      (3) The offense described in this section, unlawful disconnection or alteration of pollution control equipment, is a Class A misdemeanor, but each day of violation does not constitute a separate offense. [1983 c.338 §506; 2019 c.645 §10]
 
  
 
@@ -1909,9 +1913,9 @@ ______________________________________________________________________________
 
  
 
-      815.315 Use of improper certificate for pollution control system; penalty. (1) A person commits the offense of use of improper certificate for pollution control system if the person makes, issues or knowingly uses any imitation or counterfeit of a certificate of compliance described under ORS 815.310.
+      815.315 Use of improper certificate for pollution control system; penalty. (1) A person commits the offense of use of improper certificate for pollution control system if the person makes, issues or knowingly uses any imitation or counterfeit of a certificate of compliance described under ORS 468A.810 or 815.310.
 
-      (2) The offense described in this section, use of improper certificate for pollution control system, is a Class B traffic violation, but each day of violation does not constitute a separate offense. [1983 c.338 §216; 1995 c.383 §92]
+      (2) The offense described in this section, use of improper certificate for pollution control system, is a Class B traffic violation, but each day of violation does not constitute a separate offense. [1983 c.338 §216; 1995 c.383 §92; 2019 c.645 §11]
 
  
 
@@ -1921,15 +1925,23 @@ ______________________________________________________________________________
 
       (b) Falsifies any information on the certificate of compliance described under ORS 815.310.
 
-      (c) With a purpose to defraud or with intent, causes registration of a motor vehicle that would not otherwise be eligible for registration because of its failure to comply with rules and standards adopted by the Environmental Quality Commission under ORS 468A.360.
+      (c) Falsely certifies that a diesel engine has been retrofitted with approved retrofit technology under ORS 468A.810.
 
-      (2) The offense described in this section, unlawful certification of compliance with pollution control requirements, is a Class A misdemeanor, but each day of violation does not constitute a separate offense. [1983 c.338 §217]
+      (d) Falsifies any information on the certificate of compliance described under ORS 468A.810.
+
+      (e) With a purpose to defraud or with intent, causes registration of a motor vehicle that would not otherwise be eligible for registration because of its failure to comply with:
+
+      (A) Rules and standards adopted by the Environmental Quality Commission under ORS 468A.360; or
+
+      (B) ORS 803.591.
+
+      (2) The offense described in this section, unlawful certification of compliance with pollution control requirements, is a Class A misdemeanor, but each day of violation does not constitute a separate offense. [1983 c.338 §217; 2019 c.645 §12]
 
  
 
-      815.325 Unlawfully requiring repair for certification of compliance with pollution control requirements; penalty. (1) A person commits the offense of unlawfully requiring repair for certification with pollution control requirements if the person requires as a condition of the issuance of a certification of compliance described under ORS 815.310 any repairs or services unnecessary for compliance with rules or standards adopted under ORS 468A.350, 468A.355, 468A.365 and 468A.385.
+      815.325 Unlawfully requiring repair for certification of compliance with pollution control requirements; penalty. (1) A person commits the offense of unlawfully requiring repair for certification with pollution control requirements if the person requires as a condition of the issuance of a certification of compliance described under ORS 815.310 or proof of certification described under ORS 468A.810 any repairs or services unnecessary for compliance with ORS 803.591 or with rules or standards adopted under ORS 468A.350, 468A.355, 468A.365 and 468A.385.
 
-      (2) The offense described in this section, unlawfully requiring repair for certification of compliance with pollution control requirements, is a Class A misdemeanor, but each day of violation does not constitute a separate offense. [1983 c.338 §218]
+      (2) The offense described in this section, unlawfully requiring repair for certification of compliance with pollution control requirements, is a Class A misdemeanor, but each day of violation does not constitute a separate offense. [1983 c.338 §218; 2019 c.645 §13]
 
  
 

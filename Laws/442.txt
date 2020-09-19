@@ -4,20 +4,6 @@ Chapter 442 — Health Planning
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0050; 2018 Session Laws 0066
-
- 
-
- 
-
 
  
 
@@ -31,7 +17,7 @@ PUBLIC HEALTH AND SAFETY
 
  
 
-HEALTH POLICY AND ANALYTICS DIVISION
+HEALTH POLICY
 
  
 
@@ -39,27 +25,7 @@ HEALTH POLICY AND ANALYTICS DIVISION
 
  
 
-ADMINISTRATION
-
- 
-
 442.015     Definitions
-
- 
-
-442.025     Findings and policy
-
- 
-
-442.120     Ambulatory surgery and inpatient discharge abstract records; alternative data; rules; fees
-
- 
-
-442.200     Definitions for ORS 442.205
-
- 
-
-442.205     Community benefit reporting; rules
 
  
 
@@ -67,15 +33,15 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
  
 
-442.315     Certificate of need; rules; fees; enforcement; exceptions; letter of intent
+442.310     Findings and policy
 
  
 
-(Temporary provisions relating to certificates of need for long term care facilities are compiled as notes following ORS 442.315)
+442.315     Certificate of need; rules; fees; appeals; enforcement; exceptions
 
  
 
-442.325     Certificate for health care facility of health maintenance organization; exempt activities; policy relating to health maintenance organizations
+442.325     Certificate of need for health care facility of health maintenance organization; exempt activities; policy relating to health maintenance organizations
 
  
 
@@ -91,6 +57,10 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
  
 
+REPORTING OF PROPOSED CAPITAL PROJECTS
+
+ 
+
 442.361     Definitions for ORS 442.361, 442.362 and 442.991
 
  
@@ -99,7 +69,39 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
  
 
+HEALTH CARE DATA REPORTING
+
+ 
+
+442.370     Ambulatory surgery and inpatient discharge abstract records; rules; fees
+
+ 
+
+442.372     Definitions for ORS 442.372 and 442.373
+
+ 
+
+442.373     Health care data reporting by health insurers
+
+ 
+
+(Temporary provisions relating to statewide strategic plan for collection and use of health care data are compiled as notes following ORS 442.373)
+
+ 
+
 HEALTH CARE COSTS
+
+ 
+
+(Health Care Cost Growth Benchmark Program)
+
+ 
+
+442.385     Definitions
+
+ 
+
+442.386     Health Care Cost Growth Benchmark program established
 
  
 
@@ -116,6 +118,10 @@ HEALTH CARE COSTS
  
 
 442.396     Attestation of compliance by insurers; rules
+
+ 
+
+(Temporary provisions relating to primary care payment reform collaborative are compiled as notes following ORS 442.396)
 
  
 
@@ -156,18 +162,6 @@ HEALTH CARE COSTS
  
 
 442.463     Annual utilization report; contents; approval; rules
-
- 
-
-HEALTH CARE DATA REPORTING
-
- 
-
-442.464     Definitions for ORS 442.464 and 442.466
-
- 
-
-442.466     Health care data reporting by health insurers
 
  
 
@@ -259,15 +253,55 @@ PRIMARY CARE SERVICES PROGRAM
 
  
 
-MISCELLANEOUS
+COMMUNITY BENEFITS
 
  
 
-442.600     Policy on maternity care
+(Community Benefit Reporting)
 
  
 
-442.625     Emergency Medical Services Enhancement Account; distribution of moneys in account
+442.601     Definitions
+
+ 
+
+442.602     Community benefit reporting; rules
+
+ 
+
+(Financial Assistance Policies)
+
+ 
+
+442.610     Notice of financial assistance policies
+
+ 
+
+442.612     Definitions
+
+ 
+
+442.614     Requirements for financial assistance policies
+
+ 
+
+442.618     Annual reports related to financial assistance policies and nonprofit status; penalties
+
+ 
+
+(Community Benefit Spending)
+
+ 
+
+442.624     Establishment of community benefit spending floor; rules
+
+ 
+
+(Community Health Needs)
+
+ 
+
+442.630     Community health needs assessment and three-year strategy; public participation
 
  
 
@@ -324,10 +358,6 @@ COOPERATIVE PROGRAM ON HEART AND KIDNEY TRANSPLANTS
  
 
 442.760     Status to contest order
-
- 
-
-442.765     Disability discrimination prohibited in provision or insurance coverage of organ transplantation
 
  
 
@@ -403,6 +433,18 @@ HEALTH CARE ACQUIRED INFECTIONS
 
  
 
+MISCELLANEOUS
+
+ 
+
+442.860     Comprehensive system of maternity care
+
+ 
+
+442.870     Emergency Medical Services Enhancement Account; distribution of moneys in account
+
+ 
+
 PENALTIES
 
  
@@ -415,7 +457,7 @@ PENALTIES
 
  
 
-      442.005 [1955 c.533 §2; 1973 c.754 §1; repealed by 1977 c.717 §23]
+442.005 [1955 c.533 §2; 1973 c.754 §1; repealed by 1977 c.717 §23]
 
  
 
@@ -423,15 +465,11 @@ PENALTIES
 
  
 
-HEALTH POLICY AND ANALYTICS DIVISION
+HEALTH POLICY
 
  
 
       442.011 Health Policy and Analytics Division created in Oregon Health Authority. There is created in the Oregon Health Authority the Health Policy and Analytics Division. The Director of the Health Policy and Analytics Division shall be appointed by the Director of the Oregon Health Authority. The Director of the Health Policy and Analytics Division shall be an individual with demonstrated proficiency in planning and managing programs with complex public policy and fiscal aspects such as those involved in the medical assistance program. [1993 c.725 §33; 1997 c.683 §16; 2001 c.69 §1; 2003 c.784 §5; 2007 c.697 §§14,15; 2009 c.595 §§747,748; 2011 c.720 §197; 2017 c.384 §2]
-
- 
-
-ADMINISTRATION
 
  
 
@@ -455,9 +493,9 @@ ADMINISTRATION
 
       (6) “Distant-site hospital” means the hospital where a telemedicine provider, at the time the telemedicine provider is providing telemedicine services, is practicing as an employee or under contract.
 
-      (7) “Essential long term care facility” means an individual long term care facility that serves predominantly rural and frontier communities, as designated by the Office of Rural Health, and meets other criteria established by the Department of Human Services by rule.
+      (7) “Expenditure” or “capital expenditure” means the actual expenditure, an obligation to an expenditure, lease or similar arrangement in lieu of an expenditure, and the reasonable value of a donation or grant in lieu of an expenditure but not including any interest thereon.
 
-      (8) “Expenditure” or “capital expenditure” means the actual expenditure, an obligation to an expenditure, lease or similar arrangement in lieu of an expenditure, and the reasonable value of a donation or grant in lieu of an expenditure but not including any interest thereon.
+      (8) “Extended stay center” means a facility licensed in accordance with ORS 441.026.
 
       (9) “Freestanding birthing center” means a facility licensed for the primary purpose of performing low risk deliveries.
 
@@ -473,9 +511,11 @@ ADMINISTRATION
 
       (C) An ambulatory surgical center;
 
-      (D) A freestanding birthing center; or
+      (D) A freestanding birthing center;
 
-      (E) An outpatient renal dialysis center.
+      (E) An outpatient renal dialysis facility; or
+
+      (F) An extended stay center.
 
       (b) “Health care facility” does not mean:
 
@@ -491,7 +531,7 @@ ADMINISTRATION
 
       (13) “Health maintenance organization” or “HMO” means a public organization or a private organization organized under the laws of any state that:
 
-      (a) Is a qualified HMO under section 1310 (d) of the U.S. Public Health Services Act; or
+      (a) Is a qualified HMO under section 1310(d) of the U.S. Public Health Services Act; or
 
       (b)(A) Provides or otherwise makes available to enrolled participants health care services, including at least the following basic health care services:
 
@@ -529,7 +569,7 @@ ADMINISTRATION
 
       (b) A special inpatient care facility as that term is defined by the authority by rule.
 
-      (16) “Institutional health services” means health services provided in or through health care facilities and includes the entities in or through which such services are provided.
+      (16) “Institutional health services” means health services provided in or through health care facilities and the entities in or through which such services are provided.
 
       (17) “Intermediate care facility” means a facility that provides, on a regular basis, health-related care and services to individuals who do not require the degree of care and treatment that a hospital or skilled nursing facility is designed to provide, but who because of their mental or physical condition require care and services above the level of room and board that can be made available to them only through institutional facilities.
 
@@ -547,7 +587,7 @@ ADMINISTRATION
 
       (b) Any replacement of an existing hospital that involves a substantial increase or change in the services offered.
 
-      (20) “New skilled nursing or intermediate care service or facility” means a service or facility that did not offer long term care services on a regular basis by or through the facility within the prior 12-month period and is initiating or proposing to initiate such services. “New skilled nursing or intermediate care service or facility” also includes the rebuilding of a long term care facility, the relocation of buildings that are a part of a long term care facility, the relocation of long term care beds from one facility to another or an increase in the number of beds of more than 10 or 10 percent of the bed capacity, whichever is the lesser, within a two-year period in a facility that applied for a certificate of need between August 1, 2011, and December 1, 2012, or submitted a letter of intent under ORS 442.315 (7) between January 15, 2013, and January 31, 2013.
+      (20) “New skilled nursing or intermediate care service or facility” means a service or facility that did not offer long term care services on a regular basis by or through the facility within the prior 12-month period and is initiating or proposing to initiate such services. “New skilled nursing or intermediate care service or facility” also includes the rebuilding of a long term care facility, the relocation of buildings that are a part of a long term care facility, the relocation of long term care beds from one facility to another or an increase in the number of beds of more than 10 or 10 percent of the bed capacity, whichever is the lesser, within a two-year period.
 
       (21) “Offer” means that the health care facility holds itself out as capable of providing, or as having the means for the provision of, specified health services.
 
@@ -559,135 +599,7 @@ ADMINISTRATION
 
       (25) “Skilled nursing facility” means a facility or a distinct part of a facility, that is primarily engaged in providing to inpatients skilled nursing care and related services for patients who require medical or nursing care, or an institution that provides rehabilitation services for the rehabilitation of individuals who are injured or sick or who have disabilities.
 
-      (26) “Telemedicine” means the provision of health services to patients by physicians and health care practitioners from a distance using electronic communications. [1977 c.751 §1; 1979 c.697 §2; 1979 c.744 §31; 1981 c.693 §1; 1983 c.482 §1; 1985 c.747 §16; 1987 c.320 §233; 1987 c.660 §4; 1987 c.753 §2; 1989 c.708 §5; 1989 c.1034 §5; 1991 c.470 §9; 2001 c.100 §1; 2001 c.104 §181a; 2001 c.900 §179; 2003 c.75 §91; 2003 c.784 §11; 2005 c.22 §300; 2007 c.70 §242; 2009 c.595 §749; 2009 c.792 §63; 2013 c.414 §3; 2013 c.608 §16]
-
- 
-
-      Note: The amendments to 442.015 by section 22, chapter 608, Oregon Laws 2013, become operative June 30, 2020. See section 26, chapter 608, Oregon Laws 2013. The text that is operative on and after June 30, 2020, is set forth for the user’s convenience.
-
-      442.015. As used in ORS chapter 441 and this chapter, unless the context requires otherwise:
-
-      (1) “Acquire” or “acquisition” means obtaining equipment, supplies, components or facilities by any means, including purchase, capital or operating lease, rental or donation, for the purpose of using such equipment, supplies, components or facilities to provide health services in Oregon. When equipment or other materials are obtained outside of this state, acquisition is considered to occur when the equipment or other materials begin to be used in Oregon for the provision of health services or when such services are offered for use in Oregon.
-
-      (2) “Affected persons” has the same meaning as given to “party” in ORS 183.310.
-
-      (3)(a) “Ambulatory surgical center” means a facility or portion of a facility that operates exclusively for the purpose of providing surgical services to patients who do not require hospitalization and for whom the expected duration of services does not exceed 24 hours following admission.
-
-      (b) “Ambulatory surgical center” does not mean:
-
-      (A) Individual or group practice offices of private physicians or dentists that do not contain a distinct area used for outpatient surgical treatment on a regular and organized basis, or that only provide surgery routinely provided in a physician’s or dentist’s office using local anesthesia or conscious sedation; or
-
-      (B) A portion of a licensed hospital designated for outpatient surgical treatment.
-
-      (4) “Delegated credentialing agreement” means a written agreement between an originating-site hospital and a distant-site hospital that provides that the medical staff of the originating-site hospital will rely upon the credentialing and privileging decisions of the distant-site hospital in making recommendations to the governing body of the originating-site hospital as to whether to credential a telemedicine provider, practicing at the distant-site hospital either as an employee or under contract, to provide telemedicine services to patients in the originating-site hospital.
-
-      (5) “Develop” means to undertake those activities that on their completion will result in the offer of a new institutional health service or the incurring of a financial obligation, as defined under applicable state law, in relation to the offering of such a health service.
-
-      (6) “Distant-site hospital” means the hospital where a telemedicine provider, at the time the telemedicine provider is providing telemedicine services, is practicing as an employee or under contract.
-
-      (7) “Expenditure” or “capital expenditure” means the actual expenditure, an obligation to an expenditure, lease or similar arrangement in lieu of an expenditure, and the reasonable value of a donation or grant in lieu of an expenditure but not including any interest thereon.
-
-      (8) “Freestanding birthing center” means a facility licensed for the primary purpose of performing low risk deliveries.
-
-      (9) “Governmental unit” means the state, or any county, municipality or other political subdivision, or any related department, division, board or other agency.
-
-      (10) “Gross revenue” means the sum of daily hospital service charges, ambulatory service charges, ancillary service charges and other operating revenue. “Gross revenue” does not include contributions, donations, legacies or bequests made to a hospital without restriction by the donors.
-
-      (11)(a) “Health care facility” means:
-
-      (A) A hospital;
-
-      (B) A long term care facility;
-
-      (C) An ambulatory surgical center;
-
-      (D) A freestanding birthing center; or
-
-      (E) An outpatient renal dialysis center.
-
-      (b) “Health care facility” does not mean:
-
-      (A) A residential facility licensed by the Department of Human Services or the Oregon Health Authority under ORS 443.415;
-
-      (B) An establishment furnishing primarily domiciliary care as described in ORS 443.205;
-
-      (C) A residential facility licensed or approved under the rules of the Department of Corrections;
-
-      (D) Facilities established by ORS 430.335 for treatment of substance abuse disorders; or
-
-      (E) Community mental health programs or community developmental disabilities programs established under ORS 430.620.
-
-      (12) “Health maintenance organization” or “HMO” means a public organization or a private organization organized under the laws of any state that:
-
-      (a) Is a qualified HMO under section 1310 (d) of the U.S. Public Health Services Act; or
-
-      (b)(A) Provides or otherwise makes available to enrolled participants health care services, including at least the following basic health care services:
-
-      (i) Usual physician services;
-
-      (ii) Hospitalization;
-
-      (iii) Laboratory;
-
-      (iv) X-ray;
-
-      (v) Emergency and preventive services; and
-
-      (vi) Out-of-area coverage;
-
-      (B) Is compensated, except for copayments, for the provision of the basic health care services listed in subparagraph (A) of this paragraph to enrolled participants on a predetermined periodic rate basis; and
-
-      (C) Provides physicians’ services primarily directly through physicians who are either employees or partners of such organization, or through arrangements with individual physicians or one or more groups of physicians organized on a group practice or individual practice basis.
-
-      (13) “Health services” means clinically related diagnostic, treatment or rehabilitative services, and includes alcohol, drug or controlled substance abuse and mental health services that may be provided either directly or indirectly on an inpatient or ambulatory patient basis.
-
-      (14) “Hospital” means:
-
-      (a) A facility with an organized medical staff and a permanent building that is capable of providing 24-hour inpatient care to two or more individuals who have an illness or injury and that provides at least the following health services:
-
-      (A) Medical;
-
-      (B) Nursing;
-
-      (C) Laboratory;
-
-      (D) Pharmacy; and
-
-      (E) Dietary; or
-
-      (b) A special inpatient care facility as that term is defined by the authority by rule.
-
-      (15) “Institutional health services” means health services provided in or through health care facilities and includes the entities in or through which such services are provided.
-
-      (16) “Intermediate care facility” means a facility that provides, on a regular basis, health-related care and services to individuals who do not require the degree of care and treatment that a hospital or skilled nursing facility is designed to provide, but who because of their mental or physical condition require care and services above the level of room and board that can be made available to them only through institutional facilities.
-
-      (17)(a) “Long term care facility” means a permanent facility with inpatient beds, providing:
-
-      (A) Medical services, including nursing services but excluding surgical procedures except as may be permitted by the rules of the Director of Human Services; and
-
-      (B) Treatment for two or more unrelated patients.
-
-      (b) “Long term care facility” includes skilled nursing facilities and intermediate care facilities but does not include facilities licensed and operated pursuant to ORS 443.400 to 443.455.
-
-      (18) “New hospital” means:
-
-      (a) A facility that did not offer hospital services on a regular basis within its service area within the prior 12-month period and is initiating or proposing to initiate such services; or
-
-      (b) Any replacement of an existing hospital that involves a substantial increase or change in the services offered.
-
-      (19) “New skilled nursing or intermediate care service or facility” means a service or facility that did not offer long term care services on a regular basis by or through the facility within the prior 12-month period and is initiating or proposing to initiate such services. “New skilled nursing or intermediate care service or facility” also includes the rebuilding of a long term care facility, the relocation of buildings that are a part of a long term care facility, the relocation of long term care beds from one facility to another or an increase in the number of beds of more than 10 or 10 percent of the bed capacity, whichever is the lesser, within a two-year period.
-
-      (20) “Offer” means that the health care facility holds itself out as capable of providing, or as having the means for the provision of, specified health services.
-
-      (21) “Originating-site hospital” means a hospital in which a patient is located while receiving telemedicine services.
-
-      (22) “Outpatient renal dialysis facility” means a facility that provides renal dialysis services directly to outpatients.
-
-      (23) “Person” means an individual, a trust or estate, a partnership, a corporation (including associations, joint stock companies and insurance companies), a state, or a political subdivision or instrumentality, including a municipal corporation, of a state.
-
-      (24) “Skilled nursing facility” means a facility or a distinct part of a facility, that is primarily engaged in providing to inpatients skilled nursing care and related services for patients who require medical or nursing care, or an institution that provides rehabilitation services for the rehabilitation of individuals who are injured or sick or who have disabilities.
-
-      (25) “Telemedicine” means the provision of health services to patients by physicians and health care practitioners from a distance using electronic communications.
+      (26) “Telemedicine” means the provision of health services to patients by physicians and health care practitioners from a distance using electronic communications. [1977 c.751 §1; 1979 c.697 §2; 1979 c.744 §31; 1981 c.693 §1; 1983 c.482 §1; 1985 c.747 §16; 1987 c.320 §233; 1987 c.660 §4; 1987 c.753 §2; 1989 c.708 §5; 1989 c.1034 §5; 1991 c.470 §9; 2001 c.100 §1; 2001 c.104 §181a; 2001 c.900 §179; 2003 c.75 §91; 2003 c.784 §11; 2005 c.22 §300; 2007 c.70 §242; 2009 c.595 §749; 2009 c.792 §63; 2013 c.414 §3; 2013 c.608 §§16,22; 2018 c.50 §§5,6]
 
  
 
@@ -695,29 +607,7 @@ ADMINISTRATION
 
  
 
-      442.025 Findings and policy. (1) The Legislative Assembly finds that the achievement of reasonable access to quality health care at a reasonable cost is a priority of the State of Oregon.
-
-      (2) Problems preventing the priority in subsection (1) of this section from being attained include:
-
-      (a) The inability of many citizens to pay for necessary health care, being covered neither by private insurance nor by publicly funded programs such as Medicare and Medicaid;
-
-      (b) Rising costs of medical care which exceed substantially the general rate of inflation;
-
-      (c) Insufficient price competition in the delivery of health care services that would provide a greater cost consciousness among providers, payers and consumers;
-
-      (d) Inadequate incentives for the use of less costly and more appropriate alternative levels of health care;
-
-      (e) Insufficient or inappropriate use of existing capacity, duplicated services and failure to use less costly alternatives in meeting significant health needs; and
-
-      (f) Insufficient primary and emergency medical care services in medically underserved areas of the state.
-
-      (3) As a result of rising health care costs and the concern expressed by health care providers, health care users, third-party payers and the general public, there is an urgent need to abate these rising costs so as to place the cost of health care within reach of all Oregonians without affecting the quality of care.
-
-      (4) To foster the cooperation of the separate industry forces, there is a need to compile and disseminate accurate and current data, including but not limited to price and utilization data, to meet the needs of the people of Oregon and improve the appropriate usage of health care services.
-
-      (5) It is the purpose of this chapter to establish area-wide and state planning for health services, staff and facilities in light of the findings of subsection (1) of this section and in furtherance of health planning policies of this state.
-
-      (6) It is further declared that hospital costs should be contained through improved competition between hospitals and improved competition between insurers and through financial incentives on behalf of providers, insurers and consumers to contain costs. As a safety net, it is the intent of the Legislative Assembly to monitor hospital performance. [1977 c.751 §2; 1981 c.693 §2; 1983 c.482 §2; 1985 c.747 §1; 1987 c.660 §3]
+      442.025 [1977 c.751 §2; 1981 c.693 §2; 1983 c.482 §2; 1985 c.747 §1; 1987 c.660 §3; renumbered 442.310 in 2019]
 
  
 
@@ -797,51 +687,7 @@ ADMINISTRATION
 
  
 
-      442.120 Ambulatory surgery and inpatient discharge abstract records; alternative data; rules; fees. In order to provide data essential for health planning programs:
-
-      (1) The Oregon Health Authority may request, by July 1 of each year, each general hospital to file with the authority ambulatory surgery and inpatient discharge abstract records covering all patients discharged during the preceding calendar year. The ambulatory surgery and inpatient discharge abstract record for each patient must include the following information, and may include other information deemed necessary by the authority for developing or evaluating statewide health policy:
-
-      (a) Date of birth;
-
-      (b) Sex;
-
-      (c) Race and ethnicity;
-
-      (d) Primary language;
-
-      (e) Disability;
-
-      (f) Zip code;
-
-      (g) Inpatient admission date or outpatient service date;
-
-      (h) Inpatient discharge date;
-
-      (i) Type of discharge;
-
-      (j) Diagnostic related group or diagnosis;
-
-      (k) Type of procedure performed;
-
-      (L) Expected source of payment, if available;
-
-      (m) Hospital identification number; and
-
-      (n) Total hospital charges.
-
-      (2) By July 1 of each year, the authority may request from ambulatory surgical centers licensed under ORS 441.015 ambulatory surgery discharge abstract records covering all patients admitted during the preceding year. Ambulatory surgery discharge abstract records must include information similar to that requested from general hospitals under subsection (1) of this section.
-
-      (3) In lieu of abstracting and compiling the records itself, the authority may solicit the voluntary submission of such data from Oregon hospitals or other sources to enable it to carry out its responsibilities under this section. If such data are not available to the authority on an annual and timely basis, the authority may establish by rule a fee to be charged to each hospital.
-
-      (4) Subject to prior approval of the Oregon Health Policy Board and a report to the Emergency Board, if the Legislative Assembly is not in session, prior to adopting the fee, and within the budget authorized by the Legislative Assembly as the budget may be modified by the Emergency Board, the fee established under subsection (3) of this section may not exceed the cost of abstracting and compiling the records.
-
-      (5) The authority may specify by rule the form in which the records are to be submitted. If the form adopted by rule requires conversion from the form regularly used by a hospital, reasonable costs of such conversion shall be paid by the authority.
-
-      (6) Abstract records must include a patient identifier that allows for the statistical matching of records over time to permit public studies of issues related to clinical practices, health service utilization and health outcomes. Provision of such a patient identifier must not allow for identification of the individual patient.
-
-      (7) In addition to the records required in subsection (1) of this section, the authority may obtain abstract records for each patient that identify specific services, classified by International Classification of Disease Code, for special studies on the incidence of specific health problems or diagnostic practices. However, nothing in this subsection shall authorize the publication of specific data in a form that allows identification of individual patients or licensed health care professionals.
-
-      (8) The authority may provide by rule for the submission of records for enrollees in a health maintenance organization from a hospital associated with such an organization in a form the authority determines appropriate to the authority’s needs for such data and the organization’s record keeping and reporting systems for charges and services. [Formerly 442.355; 1991 c.703 §7; 1993 c.754 §7; 1995 c.727 §23; 1997 c.683 §19; 1999 c.581 §2; 2007 c.71 §128; 2009 c.595 §750; 2015 c.318 §6]
+      442.120 [Formerly 442.355; 1991 c.703 §7; 1993 c.754 §7; 1995 c.727 §23; 1997 c.683 §19; 1999 c.581 §2; 2007 c.71 §128; 2009 c.595 §750; 2015 c.318 §6; 2018 c.50 §7; 2019 c.537 §1; renumbered 442.370 in 2019]
 
  
 
@@ -865,41 +711,11 @@ ADMINISTRATION
 
  
 
-      442.200 Definitions for ORS 442.205. As used in this section and ORS 442.205:
-
-      (1) “Charity care” means free or discounted health services provided to persons who cannot afford to pay and from whom a hospital has no expectation of payment. “Charity care” does not include bad debt, contractual allowances or discounts for quick payment.
-
-      (2) “Community benefit” means a program or activity that provides treatment or promotes health and healing in response to an identified community need. “Community benefit” includes:
-
-      (a) Charity care;
-
-      (b) Losses related to Medicaid, Medicare, State Children’s Health Insurance Program or other publicly funded health care program shortfalls;
-
-      (c) Community health improvement services;
-
-      (d) Research;
-
-      (e) Financial and in-kind contributions to the community; and
-
-      (f) Community building activities affecting health in the community. [2007 c.384 §2]
+      442.200 [2007 c.384 §2; 2019 c.497 §10; renumbered 442.601 in 2019]
 
  
 
-      Note: 442.200 and 442.205 were added to and made a part of ORS chapter 442 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
-      442.205 Community benefit reporting; rules. (1) The Oregon Health Authority shall by rule adopt a cost-based community benefit reporting system for hospitals operating in Oregon that is consistent with established national standards for hospital reporting of community benefits.
-
-      (2) Within 90 days of filing a Medicare cost report, a hospital must submit a community benefit report to the authority of the community benefits provided by the hospital, on a form prescribed by the authority.
-
-      (3) The authority shall produce an annual report of the information provided under subsections (1) and (2) of this section. The report shall be submitted to the Governor, the President of the Senate and the Speaker of the House of Representatives. The report shall be presented to the Legislative Assembly during each odd-numbered year regular session and shall be made available to the public.
-
-      (4) The authority may adopt all rules necessary to carry out the provisions of this section. [2007 c.384 §3; 2011 c.545 §56; 2015 c.318 §28]
-
- 
-
-      Note: See note under 442.200.
+      442.205 [2007 c.384 §3; 2011 c.545 §56; 2015 c.318 §28; renumbered 442.602 in 2019]
 
  
 
@@ -913,7 +729,33 @@ ADMINISTRATION
 
 CERTIFICATES OF NEED FOR HEALTH SERVICES
 
-      442.315 Certificate of need; rules; fees; enforcement; exceptions; letter of intent. (1) Any new hospital or new skilled nursing or intermediate care service or facility not excluded pursuant to ORS 441.065, and any long term care facility for which a license was surrendered under section 15, chapter 608, Oregon Laws 2013, shall obtain a certificate of need from the Oregon Health Authority prior to an offering or development.
+      442.310 Findings and policy. (1) The Legislative Assembly finds that the achievement of reasonable access to quality health care at a reasonable cost is a priority of the State of Oregon.
+
+      (2) Problems preventing the priority in subsection (1) of this section from being attained include:
+
+      (a) The inability of many citizens to pay for necessary health care, being covered neither by private insurance nor by publicly funded programs such as Medicare and Medicaid;
+
+      (b) Rising costs of medical care which exceed substantially the general rate of inflation;
+
+      (c) Insufficient price competition in the delivery of health care services that would provide a greater cost consciousness among providers, payers and consumers;
+
+      (d) Inadequate incentives for the use of less costly and more appropriate alternative levels of health care;
+
+      (e) Insufficient or inappropriate use of existing capacity, duplicated services and failure to use less costly alternatives in meeting significant health needs; and
+
+      (f) Insufficient primary and emergency medical care services in medically underserved areas of the state.
+
+      (3) As a result of rising health care costs and the concern expressed by health care providers, health care users, third-party payers and the general public, there is an urgent need to abate these rising costs so as to place the cost of health care within reach of all Oregonians without affecting the quality of care.
+
+      (4) To foster the cooperation of the separate industry forces, there is a need to compile and disseminate accurate and current data, including but not limited to price and utilization data, to meet the needs of the people of Oregon and improve the appropriate usage of health care services.
+
+      (5) It is the purpose of this chapter to establish area-wide and state planning for health services, staff and facilities in light of the findings of subsection (1) of this section and in furtherance of health planning policies of this state.
+
+      (6) It is further declared that hospital costs should be contained through improved competition between hospitals and improved competition between insurers and through financial incentives on behalf of providers, insurers and consumers to contain costs. As a safety net, it is the intent of the Legislative Assembly to monitor hospital performance. [Formerly 442.025]
+
+ 
+
+      442.315 Certificate of need; rules; fees; appeals; enforcement; exceptions. (1) Any new hospital or new skilled nursing or intermediate care service or facility not excluded pursuant to ORS 441.065 shall obtain a certificate of need from the Oregon Health Authority prior to an offering or development.
 
       (2) The authority shall adopt rules specifying criteria and procedures for making decisions as to the need for the new services or facilities.
 
@@ -921,15 +763,15 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
       (b) An applicant shall pay a fee prescribed as provided in this section. Subject to the approval of the Oregon Department of Administrative Services, the authority shall prescribe application fees, based on the complexity and scope of the proposed project.
 
-      (4) The authority shall be the decision-making authority for the purpose of certificates of need. The authority may establish an expedited review process for an application for a certificate of need to rebuild a long term care facility, relocate buildings that are part of a long term care facility or relocate long term care facility bed capacity from one long term care facility to another. The authority shall issue a proposed order not later than 120 days after the date a complete application for expedited review is received by the authority.
+      (4)(a) The authority shall issue a draft recommendation in response to an application for a certificate of need.
 
-      (5)(a) An applicant or any affected person who is dissatisfied with the proposed decision of the authority is entitled to an informal hearing in the course of review and before a final decision is rendered.
+      (b) The authority may establish an expedited review process for an application for a certificate of need to rebuild a long term care facility, relocate buildings that are part of a long term care facility or relocate long term care facility bed capacity from one long term care facility to another. The authority shall issue a draft recommendation not later than 120 days after the date a complete application subject to expedited review is received by the authority.
 
-      (b) Following a final decision being rendered by the authority, an applicant or any affected person may request a reconsideration hearing pursuant to ORS chapter 183.
+      (5)(a) An applicant or any affected person who is dissatisfied with the draft recommendation of the authority is entitled to an informal hearing before the authority in the course of review and before a proposed decision is rendered. Following an informal hearing, or if no applicant or affected person requests an informal hearing within a period of time prescribed by the authority by rule, the authority shall issue a proposed decision.
 
-      (c) In any proceeding brought by an affected person or an applicant challenging an authority decision under this subsection, the authority shall follow procedures consistent with the provisions of ORS chapter 183 relating to a contested case.
+      (b) An applicant or affected person is entitled to a contested case hearing in accordance with ORS chapter 183 to challenge the proposed decision of the authority. Following a contested case hearing, or if no applicant or affected person requests a contested case hearing within a period of time prescribed by the authority by rule, the authority shall issue a final order granting, with or without limitations, or denying the certificate of need.
 
-      (6) Once a certificate of need has been issued, it may not be revoked or rescinded unless it was acquired by fraud or deceit. However, if the authority finds that a person is offering or developing a project that is not within the scope of the certificate of need, the authority may limit the project as specified in the issued certificate of need or reconsider the application. A certificate of need is not transferable.
+      (6) Once a certificate of need has been granted, it may not be revoked or rescinded unless it was acquired by fraud or deceit. However, if the authority finds that a person is offering or developing a project that is not within the scope of the certificate of need, the authority may limit the project as specified in the granted certificate of need or reconsider the application. A certificate of need is not transferable.
 
       (7) Nothing in this section applies to any hospital, skilled nursing or intermediate care service or facility that seeks to replace equipment with equipment of similar basic technological function or an upgrade that improves the quality or cost-effectiveness of the service provided. Any person acquiring such replacement or upgrade shall file a letter of intent for the project in accordance with the rules of the authority if the price of the replacement equipment or upgrade exceeds $1 million.
 
@@ -965,113 +807,7 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
       (10) In addition to any other remedy provided by law, whenever it appears that any person is engaged in, or is about to engage in, any acts that constitute a violation of this section, or any rule or order issued by the authority under this section, the authority may institute proceedings in the circuit courts to enforce obedience to such statute, rule or order by injunction or by other processes, mandatory or otherwise.
 
-      (11) As used in this section, “basic health services” means health services offered in or through a hospital licensed under ORS chapter 441, except skilled nursing or intermediate care nursing facilities or services and those services specified in subsection (9) of this section. [1989 c.1034 §2; 1993 c.722 §3; 1995 c.727 §39; 2001 c.875 §3; 2003 c.14 §258; 2009 c.595 §751; 2013 c.608 §17; 2017 c.718 §9]
-
- 
-
-      Note: The amendments to 442.315 by section 23, chapter 608, Oregon Laws 2013, become operative June 30, 2020. See section 26, chapter 608, Oregon Laws 2013. The text that is operative on and after June 30, 2020, including amendments by section 10, chapter 718, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      442.315. (1) Any new hospital or new skilled nursing or intermediate care service or facility not excluded pursuant to ORS 441.065 shall obtain a certificate of need from the Oregon Health Authority prior to an offering or development.
-
-      (2) The authority shall adopt rules specifying criteria and procedures for making decisions as to the need for the new services or facilities.
-
-      (3)(a) An applicant for a certificate of need shall apply to the authority on forms provided for this purpose by authority rule.
-
-      (b) An applicant shall pay a fee prescribed as provided in this section. Subject to the approval of the Oregon Department of Administrative Services, the authority shall prescribe application fees, based on the complexity and scope of the proposed project.
-
-      (4) The authority shall be the decision-making authority for the purpose of certificates of need. The authority may establish an expedited review process for an application for a certificate of need to rebuild a long term care facility, relocate buildings that are part of a long term care facility or relocate long term care facility bed capacity from one long term care facility to another. The authority shall issue a proposed order not later than 120 days after the date a complete application for expedited review is received by the authority.
-
-      (5)(a) An applicant or any affected person who is dissatisfied with the proposed decision of the authority is entitled to an informal hearing in the course of review and before a final decision is rendered.
-
-      (b) Following a final decision being rendered by the authority, an applicant or any affected person may request a reconsideration hearing pursuant to ORS chapter 183.
-
-      (c) In any proceeding brought by an affected person or an applicant challenging an authority decision under this subsection, the authority shall follow procedures consistent with the provisions of ORS chapter 183 relating to a contested case.
-
-      (6) Once a certificate of need has been issued, it may not be revoked or rescinded unless it was acquired by fraud or deceit. However, if the authority finds that a person is offering or developing a project that is not within the scope of the certificate of need, the authority may limit the project as specified in the issued certificate of need or reconsider the application. A certificate of need is not transferable.
-
-      (7) Nothing in this section applies to any hospital, skilled nursing or intermediate care service or facility that seeks to replace equipment with equipment of similar basic technological function or an upgrade that improves the quality or cost-effectiveness of the service provided. Any person acquiring such replacement or upgrade shall file a letter of intent for the project in accordance with the rules of the authority if the price of the replacement equipment or upgrade exceeds $1 million.
-
-      (8) Except as required in subsection (1) of this section for a new hospital or new skilled nursing or intermediate care service or facility not operating as a Medicare swing bed program, nothing in this section requires a rural hospital as defined in ORS 442.470 (6)(a)(A) and (B) to obtain a certificate of need.
-
-      (9) Nothing in this section applies to basic health services, but basic health services do not include:
-
-      (a) Magnetic resonance imaging scanners;
-
-      (b) Positron emission tomography scanners;
-
-      (c) Cardiac catheterization equipment;
-
-      (d) Megavoltage radiation therapy equipment;
-
-      (e) Extracorporeal shock wave lithotriptors;
-
-      (f) Neonatal intensive care;
-
-      (g) Burn care;
-
-      (h) Trauma care;
-
-      (i) Inpatient psychiatric services;
-
-      (j) Inpatient chemical dependency services;
-
-      (k) Inpatient rehabilitation services;
-
-      (L) Open heart surgery; or
-
-      (m) Organ transplant services.
-
-      (10) In addition to any other remedy provided by law, whenever it appears that any person is engaged in, or is about to engage in, any acts that constitute a violation of this section, or any rule or order issued by the authority under this section, the authority may institute proceedings in the circuit courts to enforce obedience to such statute, rule or order by injunction or by other processes, mandatory or otherwise.
-
-      (11) As used in this section, “basic health services” means health services offered in or through a hospital licensed under ORS chapter 441, except skilled nursing or intermediate care nursing facilities or services and those services specified in subsection (9) of this section.
-
- 
-
-(Temporary provisions relating to certificates of need for long term care facilities)
-
- 
-
-      Note: Sections 14, 15 and 27, chapter 608, Oregon Laws 2013, provide:
-
-      Sec. 14. Section 15 of this 2013 Act is added to and made a part of ORS chapter 442. [2013 c.608 §14]
-
-      Sec. 15. (1) The Legislative Assembly finds that:
-
-      (a) A significant amount of public and private funds are expended each year for long term care services provided to Oregonians;
-
-      (b) Oregon has established itself as the national leader in providing a choice of noninstitutional care to low income Oregonians in need of long term care services by developing an extensive system of home health care and community-based care; and
-
-      (c) Long term care facilities continue to provide critical services to some of Oregon’s most frail and vulnerable residents with complex needs. Increasingly, long term care facilities are filling a need for transitional care between hospitals and home settings in a cost-effective manner, reducing the overall costs of long term care.
-
-      (2) The Legislative Assembly declares its support for collaboration among state agencies that purchase health services and private health care providers in order to align financial incentives with the goals of achieving better patient care and improved health status while restraining growth in the per capita cost of health care.
-
-      (3) It is the goal of the Legislative Assembly that the long term care facility bed capacity in Oregon be reduced by 1,500 beds by December 31, 2015, except for bed capacity in nursing facilities operated by the Department of Veterans’ Affairs and facilities that either applied to the Oregon Health Authority for a certificate of need between August 1, 2011, and December 1, 2012, or submitted a letter of intent under ORS 442.315 (7) between January 15, 2013, and January 31, 2013.
-
-      (4) In order to reduce the long term care facility bed capacity statewide, the Department of Human Services may permit an operator of a long term care facility to purchase another long term care facility’s entire bed capacity if:
-
-      (a) The long term care facility bed capacity being purchased is not in an essential long term care facility; and
-
-      (b) The long term care facility’s entire bed capacity is purchased and the seller agrees to surrender the long term care facility’s license on the earlier of the date that:
-
-      (A) The last resident is transferred from the facility; or
-
-      (B) Is 180 days after the date of purchase.
-
-      (5) If a long term care facility’s entire bed capacity is purchased, the facility may not admit new residents to the facility except in accordance with criteria adopted by the Department of Human Services by rule.
-
-      (6) Long term care bed capacity purchased under this section may not be transferred to another long term care facility.
-
-      (7) The Department of Human Services may convene meetings with representatives of entities that include, but are not limited to, long term care providers, nonprofit trade associations and state and local governments to collaborate in strategies to reduce long term care facility bed capacity statewide. Participation shall be on a voluntary basis. Meetings shall be held at a time and place that is convenient for the participants.
-
-      (8) The Department of Human Services may conduct surveys of entities and individuals specified in subsection (7) of this section concerning current long term care facility bed capacity and strategies for increasing future capacity.
-
-      (9) Based on the findings in subsection (1) of this section and the declaration expressed in subsection (2) of this section, the Legislative Assembly declares its intent to exempt from state antitrust laws and provide immunity from federal antitrust laws through the state action doctrine individuals and entities that engage in transactions, meetings or surveys described in subsections (4), (7) and (8) of this section that might otherwise be constrained by such laws.
-
-      (10) The Director of Human Services or the director’s designee shall engage in appropriate state supervision necessary to promote state action immunity under state and federal antitrust laws, and may inspect or request additional documentation to verify that the individuals and entities acting pursuant to subsection (4), (7) or (8) of this section are acting in accordance with the legislative intent expressed in this section.
-
-      (11) The Director of Human Services or the director’s designee, in consultation with the Long Term Care Ombudsman, shall engage in regional planning necessary to promote the safety and dignity of residents living in a long term care facility that surrenders its license under this section. [2013 c.608 §15]
-
-      Sec. 27. Section 15 of this 2013 Act is repealed June 30, 2020. [2013 c.608 §27]
+      (11) As used in this section, “basic health services” means health services offered in or through a hospital licensed under ORS chapter 441, except skilled nursing or intermediate care nursing facilities or services and those services specified in subsection (9) of this section. [1989 c.1034 §2; 1993 c.722 §3; 1995 c.727 §39; 2001 c.875 §3; 2003 c.14 §258; 2009 c.595 §751; 2013 c.608 §§17,23; 2017 c.718 §§9,10; 2019 c.456 §5]
 
  
 
@@ -1079,7 +815,7 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
  
 
-      442.325 Certificate for health care facility of health maintenance organization; exempt activities; policy relating to health maintenance organizations. (1) A certificate of need shall be required for the development or establishment of a health care facility of any new health maintenance organization.
+      442.325 Certificate of need for health care facility of health maintenance organization; exempt activities; policy relating to health maintenance organizations. (1) A certificate of need shall be required for the development or establishment of a health care facility of any new health maintenance organization.
 
       (2) Any activity of a health maintenance organization which does not involve the direct delivery of health services, as distinguished from arrangements for indirect delivery of health services through contracts with providers, shall be exempt from certificate of need review.
 
@@ -1147,7 +883,7 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
  
 
-      442.344 Exemptions from requirements. In furtherance of the purpose and intent of the Legislative Assembly as expressed in ORS 442.025 to achieve reasonable access to quality health care at a reasonable cost, the requirements of ORS 442.325 shall not apply to ambulatory surgical centers performing only ophthalmic surgery. [1987 c.723 §1]
+      442.344 Exemptions from requirements. In furtherance of the purpose and intent of the Legislative Assembly as expressed in ORS 442.310 to achieve reasonable access to quality health care at a reasonable cost, the requirements of ORS 442.325 shall not apply to ambulatory surgical centers performing only ophthalmic surgery. [1987 c.723 §1]
 
  
 
@@ -1176,6 +912,10 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
  
 
       442.360 [1977 c.751 §9; 1979 c.697 §7; 1981 c.693 §25; 1985 c.747 §37; repealed by 1989 c.1034 §11]
+
+ 
+
+REPORTING OF PROPOSED CAPITAL PROJECTS
 
  
 
@@ -1231,7 +971,473 @@ CERTIFICATES OF NEED FOR HEALTH SERVICES
 
  
 
+HEALTH CARE DATA REPORTING
+
+ 
+
+      442.370 Ambulatory surgery and inpatient discharge abstract records; rules; fees. (1) In order to provide data essential for health planning programs:
+
+      (a) The Oregon Health Authority shall obtain directly from each hospital licensed to operate in this state, or from a third party working on behalf of or by contract with the hospital, the following information prescribed by the authority by rule:
+
+      (A) Ambulatory surgery discharge abstract records;
+
+      (B) Inpatient discharge abstract records; and
+
+      (C) Emergency department discharge abstract records.
+
+      (b) The authority shall obtain directly from each ambulatory surgical center licensed to operate in this state, or from a third party working on behalf of or by contract with the ambulatory surgical center, the following information prescribed by the authority by rule:
+
+      (A) Ambulatory surgery discharge abstract records; and
+
+      (B) Discharge abstract records of patients discharged from extended stay centers licensed under ORS 441.026 that are affiliated with the ambulatory surgical center.
+
+      (2) The authority may establish by rule a fee to be charged to each ambulatory surgical center.
+
+      (3) The fee established under subsection (2) of this section may not exceed the cost of abstracting and compiling the records.
+
+      (4) The authority may specify by rule the form in which records are to be submitted. If the form adopted by rule requires conversion from the form regularly used by a hospital, ambulatory surgical center or extended stay center, reasonable costs of such conversion shall be paid by the authority.
+
+      (5) The authority may provide by rule for the submission of ambulatory surgery, inpatient and emergency department discharge abstract records for enrollees in a health maintenance organization in a form the authority determines appropriate to the authority’s needs for the data and the organization’s record keeping and reporting systems for charges and services.
+
+      (6) The authority shall notify any entity submitting data under this section of any changes to the data sets that must be submitted, no later than July 1 of the calendar year preceding the effective date of the changes.
+
+      (7) The authority may contract with a third party to receive and process the records submitted under this section. [Formerly 442.120]
+
+ 
+
+      Note: 442.370 was added to and made a part of ORS chapter 442 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      442.372 Definitions for ORS 442.372 and 442.373. As used in this section and ORS 442.373, “reporting entity” means:
+
+      (1) An insurer as defined in ORS 731.106 or fraternal benefit society as described in ORS 748.106 required to have a certificate of authority to transact health insurance business in this state.
+
+      (2) A health care service contractor as defined in ORS 750.005 that issues medical insurance in this state.
+
+      (3) A third party administrator required to obtain a license under ORS 744.702.
+
+      (4) A pharmacy benefit manager or fiscal intermediary, or other person that is by statute, contract or agreement legally responsible for payment of a claim for a health care item or service.
+
+      (5) A coordinated care organization as defined in ORS 414.025.
+
+      (6) An insurer providing coverage funded under Part A, Part B or Part D of Title XVIII of the Social Security Act, subject to approval by the United States Department of Health and Human Services. [Formerly 442.464]
+
+ 
+
+      Note: 442.372 and 442.373 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      442.373 Health care data reporting by health insurers. (1) The Oregon Health Authority shall establish and maintain a program that requires reporting entities to report health care data for the following purposes:
+
+      (a) Determining the maximum capacity and distribution of existing resources allocated to health care.
+
+      (b) Identifying the demands for health care.
+
+      (c) Allowing health care policymakers to make informed choices.
+
+      (d) Evaluating the effectiveness of intervention programs in improving health outcomes.
+
+      (e) Comparing the costs and effectiveness of various treatment settings and approaches.
+
+      (f) Providing information to consumers and purchasers of health care.
+
+      (g) Improving the quality and affordability of health care and health care coverage.
+
+      (h) Assisting the authority in furthering the health policies expressed by the Legislative Assembly in ORS 442.310.
+
+      (i) Evaluating health disparities, including but not limited to disparities related to race and ethnicity.
+
+      (2) The authority shall prescribe by rule standards that are consistent with standards adopted by the Accredited Standards Committee X12 of the American National Standards Institute, the Centers for Medicare and Medicaid Services and the National Council for Prescription Drug Programs that:
+
+      (a) Establish the time, place, form and manner of reporting data under this section, including but not limited to:
+
+      (A) Requiring the use of unique patient and provider identifiers;
+
+      (B) Specifying a uniform coding system that reflects all health care utilization and costs for health care services provided to Oregon residents in other states; and
+
+      (C) Establishing enrollment thresholds below which reporting will not be required.
+
+      (b) Establish the types of data to be reported under this section, including but not limited to:
+
+      (A) Health care claims and enrollment data used by reporting entities and paid health care claims data;
+
+      (B) Reports, schedules, statistics or other data relating to health care costs, prices, quality, utilization or resources determined by the authority to be necessary to carry out the purposes of this section; and
+
+      (C) Data related to race, ethnicity and primary language collected in a manner consistent with established national standards.
+
+      (3) Any third party administrator that is not required to obtain a license under ORS 744.702 and that is legally responsible for payment of a claim for a health care item or service provided to an Oregon resident may report to the authority the health care data described in subsection (2) of this section.
+
+      (4) The authority shall adopt rules establishing requirements for reporting entities to train providers on protocols for collecting race, ethnicity and primary language data in a culturally competent manner.
+
+      (5)(a) The authority shall use data collected under this section to provide information to consumers of health care to empower the consumers to make economically sound and medically appropriate decisions. The information must include, but not be limited to, the prices and quality of health care services.
+
+      (b) The authority shall, using only data collected under this section from reporting entities described in ORS 442.372 (1) to (3), post to its website health care price information including the median prices paid by the reporting entities to hospitals and hospital outpatient clinics for, at a minimum, the 50 most common inpatient procedures and the 100 most common outpatient procedures.
+
+      (c) The health care price information posted to the website must be:
+
+      (A) Displayed in a consumer friendly format;
+
+      (B) Easily accessible by consumers; and
+
+      (C) Updated at least annually to reflect the most recent data available.
+
+      (d) The authority shall apply for and receive donations, gifts and grants from any public or private source to pay the cost of posting health care price information to its website in accordance with this subsection. Moneys received shall be deposited to the Oregon Health Authority Fund.
+
+      (e) The obligation of the authority to post health care price information to its website as required by this subsection is limited to the extent of any moneys specifically appropriated for that purpose or available from donations, gifts and grants from private or public sources.
+
+      (6) The authority may contract with a third party to collect and process the health care data reported under this section. The contract must prohibit the collection of Social Security numbers and must prohibit the disclosure or use of the data for any purpose other than those specifically authorized by the contract. The contract must require the third party to transmit all data collected and processed under the contract to the authority.
+
+      (7) The authority shall facilitate a collaboration between the Department of Human Services, the authority, the Department of Consumer and Business Services and interested stakeholders to develop a comprehensive health care information system using the data reported under this section and collected by the authority under ORS 442.370 and 442.400 to 442.463. The authority, in consultation with interested stakeholders, shall:
+
+      (a) Formulate the data sets that will be included in the system;
+
+      (b) Establish the criteria and procedures for the development of limited use data sets;
+
+      (c) Establish the criteria and procedures to ensure that limited use data sets are accessible and compliant with federal and state privacy laws; and
+
+      (d) Establish a time frame for the creation of the comprehensive health care information system.
+
+      (8) Information disclosed through the comprehensive health care information system described in subsection (7) of this section:
+
+      (a) Shall be available, when disclosed in a form and manner that ensures the privacy and security of personal health information as required by state and federal laws, as a resource to insurers, employers, providers, purchasers of health care and state agencies to allow for continuous review of health care utilization, expenditures and performance in this state;
+
+      (b) Shall be available to Oregon programs for quality in health care for use in improving health care in Oregon, subject to rules prescribed by the authority conforming to state and federal privacy laws or limiting access to limited use data sets;
+
+      (c) Shall be presented to allow for comparisons of geographic, demographic and economic factors and institutional size; and
+
+      (d) May not disclose trade secrets of reporting entities.
+
+      (9) The collection, storage and release of health care data and other information under this section is subject to the requirements of the federal Health Insurance Portability and Accountability Act. [Formerly 442.466]
+
+ 
+
+      Note: See note under 442.372.
+
+ 
+
+(Temporary provisions relating to statewide strategic plan for collection and use of health care data)
+
+ 
+
+      Note: Sections 1 and 16, chapter 389, Oregon Laws 2015, provide:
+
+      Sec. 1. (1) The Oregon Health Policy Board, in consultation with the Public Employees’ Benefit Board, the Oregon Educators Benefit Board, the Oregon Health Authority and the Department of Consumer and Business Services shall develop a statewide strategic plan for the collection and use of health care data. The plan must:
+
+      (a) Include clear objectives for how health care data will be used, and what types of data are needed, in state health care programs to support health system transformation efforts and promote value;
+
+      (b) Allow for alignment of performance metrics across state health care programs;
+
+      (c) Ensure that the state’s efforts in the collection and use of health care data encourage integrated and coordinated care, promote improved quality, health outcomes and patient satisfaction and help reduce costs;
+
+      (d) Include strategies to ensure that the state’s collection, use and measurement of health care data advance payment reform and allow for alternative payment methodologies;
+
+      (e) To the extent practicable, allow for alternative reporting and measurement mechanisms that are not claims-based or that are for payers and providers who are moving away from fee-for-service based reimbursement;
+
+      (f) Identify appropriate and inappropriate uses of health care data, including safeguards to ensure privacy and ensure that data is not used for marketing or other inappropriate purposes; and
+
+      (g) Outline a five-year vision including implementation timelines in sufficient detail that health care stakeholders can plan for expected new data reporting requirements and uses.
+
+      (2) The Oregon Health Policy Board shall submit the plan developed under subsection (1) of this section to the interim committees of the Legislative Assembly related to health care no later than September 1, 2016.
+
+      (3) The performance measures developed by the Health Plan Quality Metrics Committee established under ORS 413.017 (4) must be aligned with the statewide strategic plan adopted under this section. [2015 c.389 §1]
+
+      Sec. 16. Section 1 of this 2015 Act is repealed on January 2, 2021. [2015 c.389 §16]
+
+ 
+
 HEALTH CARE COSTS
+
+ 
+
+(Health Care Cost Growth Benchmark Program)
+
+ 
+
+      442.385 Definitions. As used in this section and ORS 442.386:
+
+      (1) “Health care” means items, services and supplies intended to improve or maintain human function or treat or ameliorate pain, disease, condition or injury, including but not limited to the following types of services:
+
+      (a) Medical;
+
+      (b) Behavioral;
+
+      (c) Substance use disorder;
+
+      (d) Mental health;
+
+      (e) Surgical;
+
+      (f) Optometric;
+
+      (g) Dental;
+
+      (h) Podiatric;
+
+      (i) Chiropractic;
+
+      (j) Psychiatric;
+
+      (k) Pharmaceutical;
+
+      (L) Therapeutic;
+
+      (m) Preventive;
+
+      (n) Rehabilitative;
+
+      (o) Supportive; or
+
+      (p) Geriatric.
+
+      (2) “Health care cost growth” means the annual percentage change in total health expenditures in this state.
+
+      (3) “Health care cost growth benchmark” means the target percentage for health care cost growth.
+
+      (4) “Health care entity” means a payer or a provider.
+
+      (5) “Health insurance” has the meaning given that term in ORS 731.162.
+
+      (6) “Net cost of private health insurance” means the difference between health insurance premiums received by a payer and the claims for the cost of health care paid by the payer under a policy or certificate of health insurance.
+
+      (7) “Payer” means:
+
+      (a) An insurer offering a policy or certificate of health insurance or a health benefit plan as defined in ORS 743B.005;
+
+      (b) A publicly funded health care program, including but not limited to Medicaid, Medicare and the State Children’s Health Insurance Program;
+
+      (c) A third party administrator; and
+
+      (d) Any other public or private entity, other than an individual, that pays or reimburses the cost for the provision of health care.
+
+      (8) “Provider” means an individual, organization or business entity that provides health care.
+
+      (9) “Total health expenditures” means all health care expenditures in this state by public and private sources, including:
+
+      (a) All payments on providers’ claims for reimbursement of the cost of health care provided;
+
+      (b) All payments to providers other than payments described in paragraph (a) of this subsection;
+
+      (c) All cost-sharing paid by residents of this state, including but not limited to copayments, deductibles and coinsurance; and
+
+      (d) The net cost of private health insurance. [2019 c.560 §1]
+
+ 
+
+      Note: 442.385 and 442.386 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      442.386 Health Care Cost Growth Benchmark program established. (1) The Legislative Assembly intends to establish a health care cost growth benchmark, for all providers and payers, to:
+
+      (a) Support accountability for the total cost of health care across all providers and payers, both public and private;
+
+      (b) Build on the state’s existing efforts around health care payment reform and containment of health care costs; and
+
+      (c) Ensure the long-term affordability and financial sustainability of the health care system in this state.
+
+      (2) The Health Care Cost Growth Benchmark program is established. The program shall be administered by the Oregon Health Authority in collaboration with the Department of Consumer and Business Services, subject to the oversight of the Oregon Health Policy Board. The program shall establish a health care cost growth benchmark for increases in total health expenditures and shall review and modify the benchmark on a periodic basis.
+
+      (3) The health care cost growth benchmark must:
+
+      (a) Promote a predictable and sustainable rate of growth for total health expenditures as measured by an economic indicator adopted by the board, such as the rate of increase in this state’s economy or of the personal income of residents of this state;
+
+      (b) Apply to all providers and payers in the health care system in this state;
+
+      (c) Use established economic indicators; and
+
+      (d) Be measurable on a per capita basis, statewide basis and health care entity basis.
+
+      (4) The program shall establish a methodology for calculating health care cost growth:
+
+      (a) Statewide;
+
+      (b) For each provider and payer, taking into account the health status of the patients of the provider or the beneficiary of the payer; and
+
+      (c) Per capita.
+
+      (5) The program shall establish requirements for providers and payers to report data and other information necessary to calculate health care cost growth under subsection (4) of this section.
+
+      (6) Annually, the program shall:
+
+      (a) Hold public hearings on the growth in total health expenditures in relation to the health care cost growth in the previous calendar year;
+
+      (b) Publish a report on health care costs and spending trends that includes:
+
+      (A) Factors impacting costs and spending; and
+
+      (B) Recommendations for strategies to improve the efficiency of the health care system; and
+
+      (c) For providers and payers for which health care cost growth in the previous calendar year exceeded the health care cost growth benchmark:
+
+      (A) Analyze the cause for exceeding the health care cost growth benchmark; and
+
+      (B) If appropriate, require the provider or payer to undertake a performance improvement action plan. [2019 c.560 §2]
+
+ 
+
+      Note: See note under 442.385.
+
+ 
+
+      Note: Sections 3 to 6, chapter 560, Oregon Laws 2019, provide:
+
+      Sec. 3. (1) The Health Care Cost Growth Benchmark Implementation Committee is established under the direction of the Oregon Health Policy Board.
+
+      (2) The membership of the committee consists of the following:
+
+      (a) The Director of the Oregon Health Authority or the director’s designee;
+
+      (b) The Director of the Department of Consumer and Business Services or the director’s designee;
+
+      (c) An expert in health care financing and administration appointed by the Director of the Oregon Health Authority;
+
+      (d) An expert in health economics appointed by the Director of the Oregon Health Authority;
+
+      (e) At least one insurance broker appointed by the Director of the Department of Consumer and Business Services; and
+
+      (f) No more than 13 members appointed by the Governor to represent:
+
+      (A) The Health Insurance Exchange Advisory Committee created under ORS 741.004;
+
+      (B) The division of the Oregon Department of Administrative Services that serves as the department’s office of economic analysis;
+
+      (C) The Oregon Health Leadership Council;
+
+      (D) Health care systems or urban hospitals;
+
+      (E) Rural hospitals;
+
+      (F) Consumers;
+
+      (G) Members of the business community that purchase health insurance for their employees;
+
+      (H) Licensed and certified health care professionals; and
+
+      (I) The insurance industry.
+
+      (3) The committee shall design an implementation plan, in accordance with section 4 of this 2019 Act, for the Health Care Cost Growth Benchmark program established in section 2 of this 2019 Act [442.386].
+
+      (4) A majority of the members of the committee constitutes a quorum for the transaction of business.
+
+      (5) Official action by the committee requires the approval of a majority of the members of the committee.
+
+      (6) The Governor shall select one member to serve as chairperson.
+
+      (7) If there is a vacancy for any cause, the appointing authority shall make an appointment to become immediately effective.
+
+      (8) The committee shall meet at times and places specified by the call of the chairperson or of a majority of the members of the committee.
+
+      (9) The committee may adopt rules necessary for the operation of the committee.
+
+      (10) The Oregon Health Authority shall provide staff support to the committee.
+
+      (11)(a) Members of the committee, other than members representing consumers, are not entitled to compensation or reimbursement for expenses and serve as volunteers on the committee.
+
+      (b) Members representing consumers are not entitled to compensation but may be reimbursed from funds available to the authority for actual and necessary travel and other expenses incurred by the members in the performance of official duties in the manner and amount provided in ORS 292.495.
+
+      (12) All agencies of state government, as defined in ORS 174.111, are directed to assist the committee in the performance of the duties of the committee and, to the extent permitted by laws relating to confidentiality, to furnish information and advice that the members of the committee consider necessary to perform their duties. [2019 c.560 §3]
+
+      Sec. 4. (1) As used in this section:
+
+      (a) “Health care” has the meaning given that term in section 1 of this 2019 Act [442.385].
+
+      (b) “Health care cost growth” has the meaning given that term in section 1 of this 2019 Act.
+
+      (c) “Health care cost growth benchmark” has the meaning given that term in section 1 of this 2019 Act.
+
+      (d) “Health care entity” has the meaning given that term in section 1 of this 2019 Act.
+
+      (e) “Health insurance” has the meaning given that term in ORS 731.162.
+
+      (f) “Payer” has the meaning given that term in section 1 of this 2019 Act.
+
+      (g) “Provider” has the meaning given that term in section 1 of this 2019 Act.
+
+      (h) “Total health expenditures” has the meaning given that term in section 1 of this 2019 Act.
+
+      (2) The Health Care Cost Growth Benchmark Implementation Committee, in designing the implementation plan for the Health Care Cost Growth Benchmark program, shall:
+
+      (a) Recommend the governance structure for the program.
+
+      (b) Recommend a methodology to establish the health care cost growth benchmark and the economic indicators to be used in establishing the benchmark.
+
+      (c) Establish the initial benchmark and specify the frequency and manner in which the benchmark should be reevaluated and updated.
+
+      (d) Identify the data that providers and payers shall report for the program to be able to:
+
+      (A) Measure the benchmark;
+
+      (B) Validate the benchmark; and
+
+      (C) Identify the health care cost growth of an institutional provider or provider group and of providers that are part of the institutional provider or provider group.
+
+      (e)(A) Determine the technical assistance and support necessary to support providers and payers working to remain at or below the health care cost growth benchmark; and
+
+      (B) Identify opportunities to leverage existing public and private financial resources, or alternative funding, to provide the technical assistance and support.
+
+      (f) Recommend approaches for measuring the quality of care that account for patient health status.
+
+      (g) Seek to align the approaches for measuring the quality of care under paragraph (f) of this subsection with the outcome and quality measures adopted by the Health Plan Quality Metrics Committee.
+
+      (h) Identify opportunities for lowering costs, improving the quality of care and improving the efficiency of the health care system by using innovative payment models for all payers, including payment models that do not use a per-claim basis for payments.
+
+      (i) Recommend a system for identifying:
+
+      (A) Unjustified variations in prices or in health care cost growth; and
+
+      (B) The factors that contribute to the unjustified variations.
+
+      (j) Identify providers and payers that are required to report.
+
+      (k) Recommend accountability and enforcement processes, which may be phased in over time, including:
+
+      (A) Measures to ensure compliance with reporting requirements;
+
+      (B) Procedures for imposing a performance improvement action plan or other escalating enforcement actions when a provider or payer fails to remain at or below the benchmark; and
+
+      (C) Measures to enforce compliance with the health care cost growth benchmark in programs administered by the Oregon Health Authority and the Department of Consumer and Business Services, including but not limited to:
+
+      (i) The medical assistance program;
+
+      (ii) Medical, dental, vision and other health care benefit plans offered by the Public Employees’ Benefit Board;
+
+      (iii) Medical, dental, vision and other health care benefit plans offered by the Oregon Educators Benefit Board;
+
+      (iv) Insurance offered through the health insurance exchange; and
+
+      (v) The review of health insurance premium rates by the department.
+
+      (L) Make recommendations regarding the reporting of data collected by the Health Care Cost Growth Benchmark program, including recommendations for:
+
+      (A) Publication of an annual health care cost trends report and analyses on the statewide health care cost growth benchmark, total health expenditures and spending by each type of health care entity;
+
+      (B) Elements to be included in the annual health care cost trends report, such as:
+
+      (i) Services provided, sorted by provider organization;
+
+      (ii) Services paid for, sorted by the type of payer;
+
+      (iii) Variations in cost trends, sorted by category of service; and
+
+      (iv) Affordability of health care, based on prices, insurance premiums and types of payment;
+
+      (C) Frequency and format of public hearings conducted in accordance with section 2 (6)(a) of this 2019 Act [442.386 (6)(a)];
+
+      (D) Publication of recommendations for policies and strategies for achieving the health care cost growth benchmark;
+
+      (E) Publication of performance improvement action plans and other enforcement actions; and
+
+      (F) Reporting to the Legislative Assembly.
+
+      (m) Establish an implementation timeline and the phases of implementation that may include the establishment of the initial health care cost growth benchmark under paragraph (c) of this subsection in 2021, with reporting, enforcement and penalties beginning in 2022. [2019 c.560 §4]
+
+      Sec. 5. (1) No later than September 15, 2020, the Health Care Cost Growth Benchmark Implementation Committee shall report to the Oregon Health Policy Board for approval, and to the interim committees of the Legislative Assembly related to health, the committee’s recommendations under section 4 of this 2019 Act. The report shall include a legislative concept for carrying out the provisions of section 4 (2)(k)(B) of this 2019 Act regarding the imposition of performance improvement action plans or other escalating enforcement actions when a provider or payer fails to remain at or below the health care cost growth benchmark.
+
+      (2) The Oregon Health Authority and the Department of Consumer and Business Services shall implement the recommendations of the committee, except for the provisions in the legislative concept described in subsection (1) of this section, upon approval by the board. [2019 c.560 §5]
+
+      Sec. 6. Sections 3, 4 and 5 of this 2019 Act are repealed on January 2, 2022. [2019 c.560 §6]
 
  
 
@@ -1270,6 +1476,10 @@ HEALTH CARE COSTS
  
 
       Note: See note under 442.392.
+
+ 
+
+(Temporary provisions relating to primary care payment reform collaborative)
 
  
 
@@ -1345,7 +1555,7 @@ HEALTH CARE COSTS
 
       (p) The Centers for Medicare and Medicaid Services.
 
-      (4) The primary care payment reform collaborative shall annually report to the Oregon Health Policy Board and to the Legislative Assembly on the achievement of the primary care spending targets in ORS 414.625 and 743.010 and the implementation of the Primary Care Transformation Initiative.
+      (4) The primary care payment reform collaborative shall annually report to the Oregon Health Policy Board and to the Legislative Assembly on the achievement of the primary care spending targets in ORS 414.625 [renumbered 414.572] and 743.010 and the implementation of the Primary Care Transformation Initiative.
 
       (5) A coordinated care organization shall report to the authority, no later than October 1 of each year, the proportion of the organization’s total medical costs that are allocated to primary care.
 
@@ -1441,7 +1651,7 @@ HEALTH CARE COSTS
 
  
 
-      442.445 Civil penalty for failure to perform. (1) Any health care facility that fails to perform as required in ORS 442.205 and 442.400 to 442.463 or 442.855, and rules of the Oregon Health Authority may be subject to a civil penalty.
+      442.445 Civil penalty for failure to perform. (1) Any health care facility that fails to perform as required in ORS 442.602 and 442.400 to 442.463 or 442.855, and rules of the Oregon Health Authority may be subject to a civil penalty.
 
       (2) The Oregon Health Authority shall adopt a schedule of penalties not to exceed $500 per day of violation, determined by the severity of the violation.
 
@@ -1471,27 +1681,7 @@ HEALTH CARE COSTS
 
  
 
-HEALTH CARE DATA REPORTING
-
- 
-
-      442.464 Definitions for ORS 442.464 and 442.466. As used in this section and ORS 442.466, “reporting entity” means:
-
-      (1) An insurer as defined in ORS 731.106 or fraternal benefit society as described in ORS 748.106 required to have a certificate of authority to transact health insurance business in this state.
-
-      (2) A health care service contractor as defined in ORS 750.005 that issues medical insurance in this state.
-
-      (3) A third party administrator required to obtain a license under ORS 744.702.
-
-      (4) A pharmacy benefit manager or fiscal intermediary, or other person that is by statute, contract or agreement legally responsible for payment of a claim for a health care item or service.
-
-      (5) A coordinated care organization as defined in ORS 414.025.
-
-      (6) An insurer providing coverage funded under Part A, Part B or Part D of Title XVIII of the Social Security Act, subject to approval by the United States Department of Health and Human Services. [2009 c.595 §1200; 2011 c.602 §54]
-
- 
-
-      Note: 442.464 and 442.466 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      442.464 [2009 c.595 §1200; 2011 c.602 §54; renumbered 442.372 in 2019]
 
  
 
@@ -1499,117 +1689,7 @@ HEALTH CARE DATA REPORTING
 
  
 
-      442.466 Health care data reporting by health insurers. (1) The Oregon Health Authority shall establish and maintain a program that requires reporting entities to report health care data for the following purposes:
-
-      (a) Determining the maximum capacity and distribution of existing resources allocated to health care.
-
-      (b) Identifying the demands for health care.
-
-      (c) Allowing health care policymakers to make informed choices.
-
-      (d) Evaluating the effectiveness of intervention programs in improving health outcomes.
-
-      (e) Comparing the costs and effectiveness of various treatment settings and approaches.
-
-      (f) Providing information to consumers and purchasers of health care.
-
-      (g) Improving the quality and affordability of health care and health care coverage.
-
-      (h) Assisting the authority in furthering the health policies expressed by the Legislative Assembly in ORS 442.025.
-
-      (i) Evaluating health disparities, including but not limited to disparities related to race and ethnicity.
-
-      (2) The authority shall prescribe by rule standards that are consistent with standards adopted by the Accredited Standards Committee X12 of the American National Standards Institute, the Centers for Medicare and Medicaid Services and the National Council for Prescription Drug Programs that:
-
-      (a) Establish the time, place, form and manner of reporting data under this section, including but not limited to:
-
-      (A) Requiring the use of unique patient and provider identifiers;
-
-      (B) Specifying a uniform coding system that reflects all health care utilization and costs for health care services provided to Oregon residents in other states; and
-
-      (C) Establishing enrollment thresholds below which reporting will not be required.
-
-      (b) Establish the types of data to be reported under this section, including but not limited to:
-
-      (A) Health care claims and enrollment data used by reporting entities and paid health care claims data;
-
-      (B) Reports, schedules, statistics or other data relating to health care costs, prices, quality, utilization or resources determined by the authority to be necessary to carry out the purposes of this section; and
-
-      (C) Data related to race, ethnicity and primary language collected in a manner consistent with established national standards.
-
-      (3) Any third party administrator that is not required to obtain a license under ORS 744.702 and that is legally responsible for payment of a claim for a health care item or service provided to an Oregon resident may report to the authority the health care data described in subsection (2) of this section.
-
-      (4) The authority shall adopt rules establishing requirements for reporting entities to train providers on protocols for collecting race, ethnicity and primary language data in a culturally competent manner.
-
-      (5)(a) The authority shall use data collected under this section to provide information to consumers of health care to empower the consumers to make economically sound and medically appropriate decisions. The information must include, but not be limited to, the prices and quality of health care services.
-
-      (b) The authority shall, using only data collected under this section from reporting entities described in ORS 442.464 (1) to (3), post to its website health care price information including the median prices paid by the reporting entities to hospitals and hospital outpatient clinics for, at a minimum, the 50 most common inpatient procedures and the 100 most common outpatient procedures.
-
-      (c) The health care price information posted to the website must be:
-
-      (A) Displayed in a consumer friendly format;
-
-      (B) Easily accessible by consumers; and
-
-      (C) Updated at least annually to reflect the most recent data available.
-
-      (d) The authority shall apply for and receive donations, gifts and grants from any public or private source to pay the cost of posting health care price information to its website in accordance with this subsection. Moneys received shall be deposited to the Oregon Health Authority Fund.
-
-      (e) The obligation of the authority to post health care price information to its website as required by this subsection is limited to the extent of any moneys specifically appropriated for that purpose or available from donations, gifts and grants from private or public sources.
-
-      (6) The authority may contract with a third party to collect and process the health care data reported under this section. The contract must prohibit the collection of Social Security numbers and must prohibit the disclosure or use of the data for any purpose other than those specifically authorized by the contract. The contract must require the third party to transmit all data collected and processed under the contract to the authority.
-
-      (7) The authority shall facilitate a collaboration between the Department of Human Services, the authority, the Department of Consumer and Business Services and interested stakeholders to develop a comprehensive health care information system using the data reported under this section and collected by the authority under ORS 442.120 and 442.400 to 442.463. The authority, in consultation with interested stakeholders, shall:
-
-      (a) Formulate the data sets that will be included in the system;
-
-      (b) Establish the criteria and procedures for the development of limited use data sets;
-
-      (c) Establish the criteria and procedures to ensure that limited use data sets are accessible and compliant with federal and state privacy laws; and
-
-      (d) Establish a time frame for the creation of the comprehensive health care information system.
-
-      (8) Information disclosed through the comprehensive health care information system described in subsection (7) of this section:
-
-      (a) Shall be available, when disclosed in a form and manner that ensures the privacy and security of personal health information as required by state and federal laws, as a resource to insurers, employers, providers, purchasers of health care and state agencies to allow for continuous review of health care utilization, expenditures and performance in this state;
-
-      (b) Shall be available to Oregon programs for quality in health care for use in improving health care in Oregon, subject to rules prescribed by the authority conforming to state and federal privacy laws or limiting access to limited use data sets;
-
-      (c) Shall be presented to allow for comparisons of geographic, demographic and economic factors and institutional size; and
-
-      (d) May not disclose trade secrets of reporting entities.
-
-      (9) The collection, storage and release of health care data and other information under this section is subject to the requirements of the federal Health Insurance Portability and Accountability Act. [2009 c.595 §1201; 2015 c.318 §36; 2015 c.845 §1]
-
- 
-
-      Note: See note under 442.464.
-
- 
-
-      Note: Sections 1 and 16, chapter 389, Oregon Laws 2015, provide:
-
-      Sec. 1. (1) The Oregon Health Policy Board, in consultation with the Public Employees’ Benefit Board, the Oregon Educators Benefit Board, the Oregon Health Authority and the Department of Consumer and Business Services shall develop a statewide strategic plan for the collection and use of health care data. The plan must:
-
-      (a) Include clear objectives for how health care data will be used, and what types of data are needed, in state health care programs to support health system transformation efforts and promote value;
-
-      (b) Allow for alignment of performance metrics across state health care programs;
-
-      (c) Ensure that the state’s efforts in the collection and use of health care data encourage integrated and coordinated care, promote improved quality, health outcomes and patient satisfaction and help reduce costs;
-
-      (d) Include strategies to ensure that the state’s collection, use and measurement of health care data advance payment reform and allow for alternative payment methodologies;
-
-      (e) To the extent practicable, allow for alternative reporting and measurement mechanisms that are not claims-based or that are for payers and providers who are moving away from fee-for-service based reimbursement;
-
-      (f) Identify appropriate and inappropriate uses of health care data, including safeguards to ensure privacy and ensure that data is not used for marketing or other inappropriate purposes; and
-
-      (g) Outline a five-year vision including implementation timelines in sufficient detail that health care stakeholders can plan for expected new data reporting requirements and uses.
-
-      (2) The Oregon Health Policy Board shall submit the plan developed under subsection (1) of this section to the interim committees of the Legislative Assembly related to health care no later than September 1, 2016.
-
-      (3) The performance measures developed by the Health Plan Quality Metrics Committee established under ORS 413.017 (4) must be aligned with the statewide strategic plan adopted under this section. [2015 c.389 §1]
-
-      Sec. 16. Section 1 of this 2015 Act is repealed on January 2, 2021. [2015 c.389 §16]
+      442.466 [2009 c.595 §1201; 2015 c.318 §36; 2015 c.845 §1; renumbered 442.373 in 2019]
 
  
 
@@ -1679,7 +1759,11 @@ RURAL HEALTH
 
       (5) Helping local health care delivery systems develop ongoing funding sources.
 
-      (6) Developing enabling legislation to facilitate further development of rural health care delivery systems. [1979 c.513 §4; 1983 c.482 §19; 1987 c.660 §15; 2015 c.736 §89]
+      (6) Developing enabling legislation to facilitate further development of rural health care delivery systems.
+
+      (7) Providing information to the Department of Revenue about all certifications for tax credits allowed under ORS 315.613, 315.616, 315.619 and 315.622, if required by ORS 315.058.
+
+      (8) The Office of Rural Health may order the suspension or revocation of a certificate or a portion of a certificate issued under ORS 315.613 or 315.622, as provided in ORS 315.061. [1979 c.513 §4; 1983 c.482 §19; 1987 c.660 §15; 2015 c.736 §89; 2019 c.483 §23]
 
  
 
@@ -1789,7 +1873,7 @@ RURAL HEALTH
 
  
 
-      442.507 Assistance to rural emergency medical service systems. (1) With the moneys transferred to the Office of Rural Health by ORS 442.625, the office shall establish a dedicated grant program for the purpose of providing assistance to rural communities to enhance emergency medical service systems.
+      442.507 Assistance to rural emergency medical service systems. (1) With the moneys transferred to the Office of Rural Health by ORS 442.870, the office shall establish a dedicated grant program for the purpose of providing assistance to rural communities to enhance emergency medical service systems.
 
       (2) Communities, as well as nonprofit or governmental agencies serving those communities, may apply to the office for grants on forms developed by the office.
 
@@ -1797,7 +1881,7 @@ RURAL HEALTH
 
       (4) The office may make grants to entities for the purchase of equipment, the establishment of new rural emergency medical service systems or the improvement of existing rural emergency medical service systems.
 
-      (5) With the exception of printing and mailing expenses associated with the grant program, the Office of Rural Health shall pay for administrative costs of the program with funds other than those transferred under ORS 442.625. [1999 c.1056 §5]
+      (5) With the exception of printing and mailing expenses associated with the grant program, the Office of Rural Health shall pay for administrative costs of the program with funds other than those transferred under ORS 442.870. [1999 c.1056 §5]
 
  
 
@@ -1871,7 +1955,7 @@ PRIMARY CARE SERVICES PROGRAM
 
       442.563 Certifying certain individuals providing rural health care for tax credit. (1) The Office of Rural Health shall establish criteria for certifying individuals eligible for the tax credit authorized by ORS 315.613. Upon application therefor, the office shall certify individuals eligible for the tax credit authorized by ORS 315.613.
 
-      (2) The classification of rural hospitals for purposes of determining eligibility under this section shall be the classification of the hospital in effect on January 1, 1991. [1989 c.893 §7; 1991 c.877 §19; 1995 c.746 §35; 1999 c.291 §35; 1999 c.459 §4; 2013 c.177 §5; 2017 c.718 §12]
+      (2) The classification of rural hospitals described in ORS 315.613 (3)(a) to (d) for purposes of determining eligibility under this section shall be the classification of the hospital in effect on January 1, 1991. [1989 c.893 §7; 1991 c.877 §19; 1995 c.746 §35; 1999 c.291 §35; 1999 c.459 §4; 2013 c.177 §5; 2017 c.718 §12; 2019 c.495 §2]
 
  
 
@@ -1965,47 +2049,293 @@ PRIMARY CARE SERVICES PROGRAM
 
  
 
-MISCELLANEOUS
+      442.600 [1991 c.760 §1; 1993 c.514 §1; renumbered 442.860 in 2019]
 
  
 
-      442.600 Policy on maternity care. The Legislative Assembly finds and declares that:
-
-      (1) Maternity care is the cornerstone of health care delivery in the state. It provides a proven, cost-effective foundation for improving the health of all Oregonians, and a healthy start in life allows our future citizens to achieve their full potential.
-
-      (2) Although great strides have been made to improve maternity care, barriers continue to exist as indicated by high rates of inadequate prenatal care and lack of coordination between prenatal and delivery services.
-
-      (3) Individual communities have unique combinations of barriers and resources. Therefore, planning and solutions must be developed at the local level whenever possible, with the state providing guidelines, standards and support.
-
-      (4) Local resources are strained and communities need a structure and technical assistance to assure development of access to a coordinated system of maternity care.
-
-      (5) There is a need for a system to assure coordination of all maternity service providers to develop a comprehensive service system for Oregon that addresses all barriers to guide the state’s action in this area.
-
-      (6)(a) Therefore, it is the intent of this state that there shall be a comprehensive system of maternity care based on the plan that includes prenatal, delivery and postpartum care and that meets the unique needs of the individual pregnant woman, available to all pregnant women in this state.
-
-      (b) As used in this subsection, “plan” means the Maternity Care Access Planning Commission’s comprehensive statewide plan for a maternity care system dated March 1993 and titled “Comprehensive Perinatal Health Services: A Strategy Toward Universal Access to Care in Oregon.” [1991 c.760 §1; 1993 c.514 §1]
+COMMUNITY BENEFITS
 
  
 
-      Note: 442.600 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+(Community Benefit Reporting)
 
  
 
-      442.625 Emergency Medical Services Enhancement Account; distribution of moneys in account. (1) The Emergency Medical Services Enhancement Account is established separate and distinct from the General Fund. Interest earned on moneys in the account shall accrue to the account. All moneys deposited in the account are continuously appropriated to the Department of Revenue for the purposes of this section.
+      442.601 Definitions. As used in this section and ORS 442.602:
 
-      (2) The Department of Revenue shall distribute moneys in the Emergency Medical Services Enhancement Account in the following manner:
+      (1) “Charity care” means free or discounted health services provided to persons who cannot afford to pay and from whom a hospital has no expectation of payment. “Charity care” does not include bad debt, contractual allowances or discounts for quick payment.
 
-      (a) 35 percent of the moneys in the account shall be transferred to the Office of Rural Health established under ORS 442.475 for the purpose of enhancing emergency medical services in rural areas as specified in ORS 442.507.
+      (2) “Community benefit” means a program or activity that provides treatment or promotes health and healing, addresses health disparities or addresses the social determinants of health in response to an identified community need. “Community benefit” includes:
 
-      (b) 25 percent of the moneys in the account shall be transferred to the Emergency Medical Services and Trauma Systems Program established under ORS 431A.085.
+      (a) Charity care;
 
-      (c) 35 percent of the moneys in the account shall be transferred to the Area Health Education Center program established under ORS 353.450.
+      (b) Losses related to Medicaid, State Children’s Health Insurance Program or other publicly funded health care program shortfalls other than Medicare;
 
-      (d) 5 percent of the moneys in the account shall be transferred to the Oregon Poison Center referred to in ORS 431A.313. [1999 c.1056 §3]
+      (c) Community health improvement services;
+
+      (d) Research;
+
+      (e) Financial and in-kind contributions to the community; and
+
+      (f) Community building activities affecting health in the community.
+
+      (3) “Social determinants of health” has the meaning given that term in ORS 442.612. [Formerly 442.200]
 
  
 
-      Note: 442.625 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      442.602 Community benefit reporting; rules. (1) The Oregon Health Authority shall by rule adopt a cost-based community benefit reporting system for hospitals operating in Oregon that is consistent with established national standards for hospital reporting of community benefits.
+
+      (2) Within 90 days of filing a Medicare cost report, a hospital must submit a community benefit report to the authority of the community benefits provided by the hospital, on a form prescribed by the authority.
+
+      (3) The authority shall produce an annual report of the information provided under subsections (1) and (2) of this section. The report shall be submitted to the Governor, the President of the Senate and the Speaker of the House of Representatives. The report shall be presented to the Legislative Assembly during each odd-numbered year regular session and shall be made available to the public.
+
+      (4) The authority may adopt all rules necessary to carry out the provisions of this section. [Formerly 442.205]
+
+ 
+
+(Financial Assistance Policies)
+
+ 
+
+      442.610 Notice of financial assistance policies. (1) As used in this section:
+
+      (a) “Financial assistance policy” means a policy that meets the requirements of section 501(r) of the Internal Revenue Code and implementing regulations.
+
+      (b) “Hospital” has the meaning given that term in ORS 442.015.
+
+      (2) A hospital shall have a written financial assistance policy that complies with the plain language standards for consumer contracts under ORS 180.545 (1).
+
+      (3) A hospital shall:
+
+      (a) Provide a paper copy of the financial assistance policy to a patient upon request;
+
+      (b) Include on each billing statement notice of:
+
+      (A) The availability of financial assistance;
+
+      (B) The contact information for the office or department of the hospital that can provide information about obtaining financial assistance; and
+
+      (C) The direct Internet address for the financial assistance policy; and
+
+      (c) Maintain public displays in locations in the hospital that are accessible to the public that notify and inform patients about the financial assistance policy. Locations that are accessible to the public include but are not limited to the emergency department, if any, and the areas where patient admissions are processed.
+
+      (4) The Oregon Health Authority shall make available to hospitals and the general public a uniform application for financial assistance, created by a trade association representing hospitals, that may be used in any hospital in this state to request financial assistance. [2018 c.50 §9; 2018 c.50 §10]
+
+ 
+
+      Note: 442.610 to 442.630 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      442.612 Definitions. As used in ORS 442.612 to 442.630 and 646A.677:
+
+      (1) “Adjust” means to reduce a patient’s cost by a specified percentage.
+
+      (2) “Community benefit” has the meaning given that term in ORS 442.601.
+
+      (3) “Gross charges” means a hospital’s full, established price for medical care that the hospital consistently and uniformly charges patients before applying any contractual allowance, discounts or deductions.
+
+      (4)(a) “Hospital” has the meaning given that term in ORS 442.015, excluding any campus of the Oregon State Hospital, a hospital operated by the United States Department of Veterans Affairs Veterans Health Administration or any other hospital operated by the federal government.
+
+      (b) “Hospital” includes only hospitals located in this state.
+
+      (5) “Hospital-affiliated clinic” or “affiliated clinic” means a facility located in this state that provides outpatient health services and that is operated under the common control or ownership of a hospital.
+
+      (6) “Household” means:
+
+      (a)(A) A single individual; or
+
+      (B) Spouses, domestic partners, or a parent and child under 18 years of age, living together; and
+
+      (b) Other individuals for whom a single individual, spouse, domestic partner or parent is financially responsible.
+
+      (7) “Medically necessary” means:
+
+      (a) Necessary to prevent, diagnose or treat an illness, injury, condition or disease, or the symptoms of an illness, injury, condition or disease; and
+
+      (b) Meeting accepted standards of medicine.
+
+      (8) “Nonprofit” means:
+
+      (a) Organized not for profit, pursuant to ORS chapter 65 or any predecessor of ORS chapter 65; or
+
+      (b) Organized and operated as described under section 501(c) of the Internal Revenue Code as defined in ORS 305.842.
+
+      (9) “Patient’s cost” means the portion of charges billed to a patient for care received at a hospital or a hospital-affiliated clinic that are not reimbursed by insurance or a publicly funded health care program, taking into account the requirements of section 501(r)(5) of the Internal Revenue Code that:
+
+      (a) Prohibit a nonprofit hospital from billing gross charges; and
+
+      (b) Limit amounts charged for emergency or other medically necessary care, to a patient who qualifies under the nonprofit hospital’s financial assistance policy, to no more than amounts generally billed to a patient who has insurance that reimburses all or a portion of the cost of the care.
+
+      (10) “Social determinants of health” means the social, economic and environmental conditions in which people are born, grow, work, live and age, shaped by the distribution of money, power and resources at local, national and global levels, institutional bias, discrimination, racism and other factors. [2019 c.497 §1]
+
+ 
+
+      Note: See note under 442.610.
+
+ 
+
+      442.614 Requirements for financial assistance policies. A nonprofit hospital’s written financial assistance policy described in ORS 442.610 must:
+
+      (1) Provide for adjusting a patient’s costs as follows:
+
+      (a) For a patient whose household income is not more than 200 percent of the federal poverty guidelines, by 100 percent; and
+
+      (b) For a patient whose household income is more than 200 percent of the federal poverty guidelines and not more than 400 percent of the federal poverty guidelines, the hospital shall adopt a policy establishing an adjustment based on a sliding scale;
+
+      (2) Apply to all of the hospital’s nonprofit affiliated clinics;
+
+      (3) Be translated into each language spoken by the lesser of 1,000 people or five percent of the population that resides in the nonprofit hospital’s service area;
+
+      (4) Ensure that interpreter services are available to translate the policy into languages other than those described in subsection (3) of this section; and
+
+      (5) Apply to all medically necessary services or supplies. [2019 c.497 §2]
+
+ 
+
+      Note: The amendments to 442.614 by section 3, chapter 497, Oregon Laws 2019, become operative January 1, 2021. See section 14, chapter 497, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      442.614. A nonprofit hospital’s written financial assistance policy described in ORS 442.610 must:
+
+      (1) Provide for adjusting a patient’s costs as follows:
+
+      (a) For a patient whose household income is not more than 200 percent of the federal poverty guidelines, by 100 percent;
+
+      (b) For a patient whose household income is more than 200 percent of the federal poverty guidelines and not more than 300 percent of the federal poverty guidelines, by a minimum of 75 percent;
+
+      (c) For a patient whose household income is more than 300 percent of the federal poverty guidelines and not more than 350 percent of the federal poverty guidelines, by a minimum of 50 percent; and
+
+      (d) For a patient whose household income is more than 350 percent of the federal poverty guidelines and not more than 400 percent of the federal poverty guidelines, by a minimum of 25 percent;
+
+      (2) Apply to all of the hospital’s nonprofit affiliated clinics;
+
+      (3) Be translated into each language spoken by the lesser of 1,000 people or five percent of the population that resides in the nonprofit hospital’s service area;
+
+      (4) Ensure that interpreter services are available to translate the policy into languages other than those described in subsection (3) of this section; and
+
+      (5) Apply to all medically necessary services or supplies.
+
+ 
+
+      Note: See note under 442.610.
+
+ 
+
+      442.618 Annual reports related to financial assistance policies and nonprofit status; penalties. (1) As used in this section, “health care facility” has the meaning given that term in ORS 442.015, excluding long term care facilities.
+
+      (2) A hospital shall report annually to the Oregon Health Authority the following information regarding all health care facilities and affiliated clinics that are owned in part or in full by the hospital or operating under the same brand as the hospital:
+
+      (a) The address of each health care facility and affiliated clinic;
+
+      (b) Whether the hospital’s financial assistance policy, developed under ORS 442.614, is posted in the health care facility and affiliated clinic and available to patients of the facility and affiliated clinic; and
+
+      (c) Whether the hospital is a nonprofit entity and whether the hospital’s nonprofit status applies to the hospital’s affiliated clinics.
+
+      (3) The authority shall prescribe the form and manner for reporting the information described in subsection (2) of this section.
+
+      (4) A hospital that fails to file a timely report, as prescribed by the authority, may be subject to a civil penalty not to exceed $500 per day. Civil penalties shall be imposed as provided in ORS 183.745. [2019 c.497 §7]
+
+ 
+
+      Note: See note under 442.610.
+
+ 
+
+(Community Benefit Spending)
+
+ 
+
+      442.624 Establishment of community benefit spending floor; rules. (1) Every two years, the Oregon Health Authority shall establish a community benefit spending floor as provided in this section based on objective data and criteria, including but not limited to the following:
+
+      (a) Historical and current expenditures on community benefits by the hospital and the hospital’s affiliated clinics.
+
+      (b) Community needs identified in the community needs assessment conducted by the hospital in accordance with section 501(r)(3) of the Internal Revenue Code, and community health assessments and community health improvement plans of coordinated care organizations that serve the same geographic area served by the hospital and the hospital’s affiliated clinics, in accordance with ORS 414.575 and 414.578.
+
+      (c) The hospital’s need to expand the health care workforce.
+
+      (d) The overall financial position of the hospital and the hospital’s affiliated clinics based on audited financial statements and other objective data.
+
+      (e) The demographics of the population in the areas served by the hospital and the hospital’s affiliated clinics.
+
+      (f) The spending on the social determinants of health by the hospital or the hospital’s affiliated clinics.
+
+      (g) Taxes paid by the hospital and the hospital’s payments, in lieu of taxes, paid to:
+
+      (A) A local government;
+
+      (B) The state; or
+
+      (C) The United States government.
+
+      (h) Criteria governing the manner in which the authority will consider input received from the general public under subsection (2)(c) of this section.
+
+      (i) The hospital’s obligations and commitments, as reported to the Internal Revenue Service, to:
+
+      (A) Fund, support or provide health professions education; and
+
+      (B) Fund health research.
+
+      (j) For the Oregon Health and Science University hospital, its obligation to carry out the public purposes and missions specified in ORS 353.030.
+
+      (2) In establishing the community benefit spending floors under subsection (1) of this section, the authority shall:
+
+      (a) Consult with representatives of hospitals;
+
+      (b) Provide an opportunity for hospitals and hospital-affiliated clinics to respond to any findings;
+
+      (c) Solicit and consider comments from the general public; and
+
+      (d) Consult with or solicit advice from one or more individuals with expertise in the economics of health care.
+
+      (3) The authority shall adopt by rule alternative methodologies for hospitals and hospital-affiliated clinics to report data and to apply the community benefit spending floors, including but not limited to:
+
+      (a) By each individual hospital and all of the hospital’s nonprofit affiliated clinics;
+
+      (b) By a hospital and a group of the hospital’s nonprofit affiliated clinics; and
+
+      (c) By all hospitals that are under common ownership and control and all of the hospitals’ nonprofit affiliated clinics.
+
+      (4) Each hospital shall be provided the opportunity to select the applicable methodology from those adopted by the authority by rule under subsection (3) of this section.
+
+      (5) The authority may adopt rules necessary to carry out the provisions of this section. [2019 c.497 §6]
+
+ 
+
+      Note: 442.624 becomes operative January 1, 2021. See section 14, chapter 497, Oregon Laws 2019.
+
+ 
+
+      Note: See note under 442.610.
+
+ 
+
+      442.625 [1999 c.1056 §3; renumbered 442.870 in 2019]
+
+ 
+
+(Community Health Needs)
+
+ 
+
+      442.630 Community health needs assessment and three-year strategy; public participation. A nonprofit hospital shall post to the hospital’s website the following information regarding its community health needs assessment conducted in accordance with section 501(r)(3) of the Internal Revenue Code:
+
+      (1) A description of the health care needs identified in the hospital’s community health needs assessment;
+
+      (2) The three-year strategy developed to address the health care needs of the community;
+
+      (3) Annual progress on the implementation of the strategy; and
+
+      (4) Opportunities for public participation in the assessment and development of the strategy. [2019 c.497 §5]
+
+ 
+
+      Note: See note under 442.610.
+
+ 
+
+      Note: Section 12, chapter 497, Oregon Laws 2019, provides:
+
+      Sec. 12. No later than December 31, 2022, the Oregon Health Authority shall report to the interim committees of the Legislative Assembly related to health on the implementation of sections 1 to 7 of this 2019 Act [442.612 to 442.630 and 646A.677] and the amendments to ORS 442.200 by section 10 of this 2019 Act. [2019 c.497 §12]
 
  
 
@@ -2021,13 +2351,13 @@ COOPERATIVE PROGRAM ON HEART AND KIDNEY TRANSPLANTS
 
       (3) “Health care provider” means a hospital, physician or entity, a significant part of whose activities consist of providing hospital or physician services in this state. For purposes of the immunities provided by ORS 442.700 to 442.760 and 646.740, “health care provider” includes any officer, director, trustee, employee, or agent of, or any entity under common ownership and control with, a health care provider.
 
-      (4) “Hospital” means a hospital, a long term care facility or an ambulatory surgical center, as those terms are defined in ORS 442.015, that is licensed under ORS 441.015 to 441.089. “Hospital” includes community health programs established under ORS 430.610 to 430.695.
+      (4) “Hospital” means a hospital, a long term care facility or an ambulatory surgical center, as those terms are defined in ORS 442.015, that is licensed under ORS 441.015 to 441.087. “Hospital” includes community health programs established under ORS 430.610 to 430.695.
 
       (5) “Order” means a decision issued by the Director of the Oregon Health Authority under ORS 442.710 either approving or denying an application for a cooperative program and includes modifications of an original order under ORS 442.730 (3)(b) and ORS 442.740 (1) and (4).
 
       (6) “Party to a cooperative program agreement” or “party” means an entity that enters into the principal agreement to establish a cooperative program and applies for approval under ORS 442.700 to 442.760 and 646.740 and any other entity that, with the approval of the director, becomes a member of a cooperative program.
 
-      (7) “Physician” means a physician licensed under ORS chapter 677. [1993 c.769 §3; 2001 c.104 §182; 2007 c.70 §244; 2009 c.595 §755; 2009 c.792 §42; 2011 c.720 §198; 2013 c.129 §32]
+      (7) “Physician” means a physician licensed under ORS chapter 677. [1993 c.769 §3; 2001 c.104 §182; 2007 c.70 §244; 2009 c.595 §755; 2009 c.792 §42; 2011 c.720 §198; 2013 c.129 §32; 2018 c.50 §16]
 
  
 
@@ -2231,81 +2561,7 @@ COOPERATIVE PROGRAM ON HEART AND KIDNEY TRANSPLANTS
 
  
 
-      442.765 Disability discrimination prohibited in provision or insurance coverage of organ transplantation. (1) As used in this section:
-
-      (a) “Auxiliary aids and services” means:
-
-      (A) Qualified interpreters or other effective methods of making aurally delivered material available to individuals with hearing impairment;
-
-      (B) Qualified readers, audio recordings of texts or other effective methods of making visually delivered material available to individuals with visual impairment;
-
-      (C) Acquisition or modification of equipment or devices; or
-
-      (D) Other similar services or actions.
-
-      (b) “Covered entity” means:
-
-      (A) Any entity licensed under the laws of this state for the purpose of providing health care services;
-
-      (B) Any practitioner licensed under the laws of this state for the purpose of practicing a health care profession; or
-
-      (C) An insurer of health care services.
-
-      (c) “Disability” has the meaning described in ORS 659A.104.
-
-      (d) “Organ transplant” means the transplantation or transfusion of a part of a human body into another human body for the purpose of treating or curing a medical condition.
-
-      (e) “Qualified individual” means an individual who, with or without the availability of support networks, auxiliary aids and services or reasonable modifications to policies or practices, meets the eligibility requirements for the receipt of an organ transplant.
-
-      (f) “Reasonable modifications to policies or practices” includes:
-
-      (A) Communication with individuals responsible for supporting an individual through post-surgical, post-transplantation and post-transfusion care, including the administration of medication; and
-
-      (B) Consideration of support networks available to an individual, including family, friends and home- and community-based services funded through Medicaid, Medicare, a health benefit plan as defined in ORS 743B.005 or any other source of funding available to the individual, in determining whether the individual is able to comply with post-transplantation and post-transfusion medical requirements.
-
-      (g) “Transplant hospital” has the meaning given that term in ORS 97.953.
-
-      (2) A covered entity may not, solely on the basis of a qualified individual’s disability:
-
-      (a) Consider the individual ineligible to receive an organ transplant.
-
-      (b) Deny the individual medical services or other services related to organ transplantation, including diagnostic services, surgery, post-operative treatment and counseling.
-
-      (c) Refuse to refer the individual to a transplant hospital or an organ transplant specialist for the purpose of being evaluated for or receiving an organ transplant.
-
-      (d) Refuse to place the individual on an organ transplant waiting list.
-
-      (e) Place the individual on an organ transplant waiting list at a lower priority position than the position at which the individual would have been placed if the individual did not have a disability.
-
-      (f) Refuse the individual insurance coverage for any procedure associated with being evaluated for or receiving an organ transplant, including post-transplantation and post-transfusion care.
-
-      (3) Notwithstanding subsection (2) of this section, a covered entity may consider a qualified individual’s disability when making treatment or insurance coverage decisions or recommendations related to organ transplantation, to the extent that the disability has been found by a physician licensed under ORS chapter 677, following an individualized evaluation of the individual, to be medically significant to the receipt of the organ transplant.
-
-      (4) If a covered entity makes an objectively reasonable determination that a qualified individual has the necessary support networks, including family, friends and home- and community-based services funded through Medicaid, Medicare, a health benefit plan as defined in ORS 743B.005 or any other source of funding available to the individual, to assist the individual in complying with post-transplantation and post-transfusion medical requirements, the covered entity may not consider the individual’s inability to independently comply with those orders to be medically significant for purposes of subsection (3) of this section.
-
-      (5) A covered entity must modify the covered entity’s policies, practices or procedures when modification is necessary to make medical services or other services related to organ transplantation, including diagnostic services, surgery, post-operative treatment and counseling, available to a qualified individual who has a disability unless the covered entity demonstrates that making the modification would fundamentally alter the nature of the medical services or other services related to organ transplantation.
-
-      (6) A covered entity must take steps necessary to ensure that a qualified individual who has a disability is not denied medical services or other services related to organ transplantation, including diagnostic services, surgery, post-operative treatment and counseling, unless the covered entity demonstrates that taking the steps would fundamentally alter the nature of the medical services or other services related to organ transplantation or would result in an undue burden for the covered entity.
-
-      (7) Judicial review of a claim brought under this section may be sought from the circuit court for the county in which the potential recipient of the organ transplant resides or resided or was denied the organ transplant. The circuit court shall give priority on its docket and expedited review to a claim brought under this section.
-
-      (8) In an action brought under this section, the court may grant equitable relief, including:
-
-      (a) Requiring auxiliary aids and services to be made available for a qualified individual with a disability;
-
-      (b) Requiring the modification of a policy, practice or procedure of a covered entity; or
-
-      (c) Requiring facilities be made readily accessible to and usable by a qualified individual with a disability.
-
-      (9)(a) Notwithstanding ORS 30.260 to 30.300, a person receiving services constituting patient care on an Oregon Health and Science University campus, in any Oregon Health and Science University clinic or provided by any health care provider employed by or working on behalf of Oregon Health and Science University, may bring a claim under this section for equitable relief.
-
-      (b) This section does not create a right to damages against a public body, as defined in ORS 30.260.
-
-      (c) This section does not prevent a person from bringing a claim against a covered entity and seeking applicable relief from a covered entity for conduct described in this section under any other provision of law. [2017 c.396 §1]
-
- 
-
-      Note: 442.765 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      442.765 [2017 c.396 §1; renumbered 441.078 in 2019]
 
  
 
@@ -2539,15 +2795,17 @@ OREGON PATIENT SAFETY COMMISSION
 
       (e) Outpatient renal dialysis facilities as defined in ORS 442.015;
 
-      (f) Freestanding birthing centers as defined in ORS 442.015; and
+      (f) Freestanding birthing centers as defined in ORS 442.015;
 
-      (g) Independent professional health care societies or associations.
+      (g) Independent professional health care societies or associations; and
+
+      (h) Extended stay centers licensed under ORS 441.026.
 
       (3) Reports or other information developed and disseminated by the program may not contain or reveal the name of or other identifiable information with respect to a particular participant providing information to the commission for the purposes of ORS 442.819 to 442.851, or to any individual identified in the report or information, and upon whose patient safety data, patient safety activities and reports the commission has relied in developing and disseminating information pursuant to this section.
 
       (4) After a serious adverse event occurs, a participant must provide written notification in a timely manner to each patient served by the participant who is affected by the event. Notice provided under this subsection may not be construed as an admission of liability in a civil action.
 
-      (5) The commission shall collaborate with providers of ambulatory health care to develop initiatives to promote patient safety in ambulatory health care. [2003 c.686 §4; 2009 c.436 §5; 2011 c.30 §4]
+      (5) The commission shall collaborate with providers of ambulatory health care to develop initiatives to promote patient safety in ambulatory health care. [2003 c.686 §4; 2009 c.436 §5; 2011 c.30 §4; 2018 c.50 §8]
 
  
 
@@ -2629,7 +2887,7 @@ OREGON PATIENT SAFETY COMMISSION
 
       442.851 Limit on amounts collected to fund Oregon Patient Safety Reporting Program. (1) Amounts collected by the Oregon Patient Safety Commission under ORS 442.850 may not exceed $1.5 million for the fiscal year beginning on July 1, 2007, and ending on June 30, 2008.
 
-      (2) The dollar amount specified in subsection (1) of this section shall be adjusted annually by the commission based upon the change in the Consumer Price Index as defined in ORS 327.006 for every fiscal year beginning on or after July 1, 2008. [2007 c.476 §3]
+      (2) For every fiscal year beginning on or after July 1, 2008, the dollar amount specified in subsection (1) of this section shall be adjusted annually by the commission based upon the change in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor. [2007 c.476 §3; 2019 c.57 §20]
 
  
 
@@ -2771,6 +3029,50 @@ HEALTH CARE ACQUIRED INFECTIONS
 
  
 
+MISCELLANEOUS
+
+ 
+
+      442.860 Comprehensive system of maternity care. The Legislative Assembly finds and declares that:
+
+      (1) Maternity care is the cornerstone of health care delivery in the state. It provides a proven, cost-effective foundation for improving the health of all Oregonians, and a healthy start in life allows our future citizens to achieve their full potential.
+
+      (2) Although great strides have been made to improve maternity care, barriers continue to exist as indicated by high rates of inadequate prenatal care and lack of coordination between prenatal and delivery services.
+
+      (3) Individual communities have unique combinations of barriers and resources. Therefore, planning and solutions must be developed at the local level whenever possible, with the state providing guidelines, standards and support.
+
+      (4) Local resources are strained and communities need a structure and technical assistance to assure development of access to a coordinated system of maternity care.
+
+      (5) There is a need for a system to assure coordination of all maternity service providers to develop a comprehensive service system for Oregon that addresses all barriers to guide the state’s action in this area.
+
+      (6)(a) Therefore, it is the intent of this state that there shall be a comprehensive system of maternity care based on the plan that includes prenatal, delivery and postpartum care and that meets the unique needs of the individual pregnant woman, available to all pregnant women in this state.
+
+      (b) As used in this subsection, “plan” means the Maternity Care Access Planning Commission’s comprehensive statewide plan for a maternity care system dated March 1993 and titled “Comprehensive Perinatal Health Services: A Strategy Toward Universal Access to Care in Oregon.” [Formerly 442.600]
+
+ 
+
+      Note: 442.860 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      442.870 Emergency Medical Services Enhancement Account; distribution of moneys in account. (1) The Emergency Medical Services Enhancement Account is established separate and distinct from the General Fund. Interest earned on moneys in the account shall accrue to the account. All moneys deposited in the account are continuously appropriated to the Department of Revenue for the purposes of this section.
+
+      (2) The Department of Revenue shall distribute moneys in the Emergency Medical Services Enhancement Account in the following manner:
+
+      (a) 35 percent of the moneys in the account shall be transferred to the Office of Rural Health established under ORS 442.475 for the purpose of enhancing emergency medical services in rural areas as specified in ORS 442.507.
+
+      (b) 25 percent of the moneys in the account shall be transferred to the Emergency Medical Services and Trauma Systems Program established under ORS 431A.085.
+
+      (c) 35 percent of the moneys in the account shall be transferred to the Area Health Education Center program established under ORS 353.450.
+
+      (d) 5 percent of the moneys in the account shall be transferred to the Oregon Poison Center referred to in ORS 431A.313. [Formerly 442.625]
+
+ 
+
+      Note: 442.870 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       442.990 [Amended by 1955 c.533 §9; repealed by 1977 c.717 §23]
 
  
@@ -2791,7 +3093,7 @@ PENALTIES
 
  
 
-      442.993 Civil penalties for failure to report health care data of health insurers. (1) Any reporting entity that fails to report as required in ORS 442.466 or rules of the Oregon Health Authority adopted pursuant to ORS 442.466 may be subject to a civil penalty.
+      442.993 Civil penalties for failure to report health care data of health insurers. (1) Any reporting entity that fails to report as required in ORS 442.373 or rules of the Oregon Health Authority adopted pursuant to ORS 442.373 may be subject to a civil penalty.
 
       (2) The authority shall adopt a schedule of penalties not to exceed $500 per day of violation, determined by the severity of the violation.
 
@@ -2803,8 +3105,6 @@ PENALTIES
 
  
 
-      Note: 442.993 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
-
-_______________
+      Note: 442.993 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 442 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation._______________
 
  

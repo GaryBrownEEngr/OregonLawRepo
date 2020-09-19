@@ -4,16 +4,6 @@ Chapter 340 — College Credit Earned in High School
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0039; 2018 Session Laws 0113
-
- 
-
- 
-
 
  
 
@@ -115,6 +105,10 @@ ACCELERATED COLLEGE CREDIT PROGRAMS
 
  
 
+(Generally)
+
+ 
+
 340.300     School districts to provide accelerated college credit programs
 
  
@@ -127,7 +121,23 @@ ACCELERATED COLLEGE CREDIT PROGRAMS
 
  
 
-340.320     Grants for accelerated college credit programs
+(Grant Programs)
+
+ 
+
+340.315     Definitions for ORS 340.320, 340.323 and 340.326
+
+ 
+
+340.320     Accelerated College Credit Instructor Grant Program
+
+ 
+
+340.323     Accelerated College Credit Planning Partnership Grant Program; rules
+
+ 
+
+340.326     Accelerated College Credit Partnership Enhancement Grant Program; rules
 
  
 
@@ -135,9 +145,11 @@ ACCELERATED COLLEGE CREDIT PROGRAMS
 
  
 
-EXPANDED OPTIONS PROGRAM
+(Temporary provisions relating to reports on accelerated learning are compiled as notes following ORS 340.330)
 
  
+
+EXPANDED OPTIONS PROGRAM
 
       340.005 Definitions for ORS 340.005 to 340.090. For purposes of ORS 340.005 to 340.090:
 
@@ -181,13 +193,13 @@ EXPANDED OPTIONS PROGRAM
 
       (C) Has developed an educational learning plan as described in ORS 340.025; and
 
-      (D) Has not successfully completed the requirements for a high school diploma or a modified diploma as established by ORS 329.451, the State Board of Education and the school district board.
+      (D) Has not successfully completed the requirements for a high school diploma as established by ORS 329.451, the State Board of Education and the school district board.
 
       (b) “Eligible student” does not include a foreign exchange student enrolled in a school under a cultural exchange program.
 
       (7) “Expanded Options Program” means the program created under ORS 340.005 to 340.090.
 
-      (8) “Scope” means depth and breadth of course content as evidenced through a planned course statement including content outline, applicable state content standards where appropriate, course goals and student outcomes. [2005 c.674 §1; 2007 c.567 §1; 2009 c.94 §10; 2011 c.637 §120; 2017 c.726 §9]
+      (8) “Scope” means depth and breadth of course content as evidenced through a planned course statement including content outline, applicable state content standards where appropriate, course goals and student outcomes. [2005 c.674 §1; 2007 c.567 §1; 2009 c.94 §10; 2011 c.637 §120; 2017 c.726 §9; 2018 c.39 §3]
 
  
 
@@ -313,7 +325,7 @@ EXPANDED OPTIONS PROGRAM
 
  
 
-      340.045 Calculation of State School Fund grant; payment of instructional costs; appeal. (1) An eligible student enrolled in an eligible post-secondary course at an eligible post-secondary institution pursuant to ORS 340.030 shall continue to be considered a resident pupil of the student’s school district for purposes of calculation of the State School Fund grant under sections 1 to 3, chapter 735, Oregon Laws 2013, and ORS 327.006 to 327.133, 327.348 and 327.731.
+      340.045 Calculation of State School Fund grant; payment of instructional costs; appeal. (1) An eligible student enrolled in an eligible post-secondary course at an eligible post-secondary institution pursuant to ORS 340.030 shall continue to be considered a resident pupil of the student’s school district for purposes of calculation of the State School Fund grant under ORS 327.006 to 327.133, 327.348 and 327.731.
 
       (2) The amount of each school district’s general purpose grant per extended ADMw as calculated under ORS 327.013 shall be determined each fiscal year by the Department of Education and made available to all school districts and, upon request, to any eligible post-secondary institution.
 
@@ -333,13 +345,13 @@ EXPANDED OPTIONS PROGRAM
 
       (9) In addition to any financial agreement entered into under subsection (3) of this section, the resident school district of the eligible student shall enter into an agreement with an eligible post-secondary institution that accepts a student for enrollment in an eligible post-secondary course that is a nontuition course or noncredit course pursuant to ORS 340.030 for the payment of the actual instructional costs associated with the student’s attending the eligible post-secondary course at the institution.
 
-      (10) Nothing in this section shall prohibit an eligible post-secondary institution from receiving additional state funding that may be available under any other law. [2005 c.674 §10; 2007 c.567 §6; 2007 c.846 §17; 2013 c.735 §17]
+      (10) Nothing in this section shall prohibit an eligible post-secondary institution from receiving additional state funding that may be available under any other law. [2005 c.674 §10; 2007 c.567 §6; 2007 c.846 §17; 2013 c.735 §§17,18]
 
  
 
-      Note: The amendments to 340.045 by section 18, chapter 735, Oregon Laws 2013, become operative July 1, 2020. See section 20, chapter 735, Oregon Laws 2013, as amended by section 1, chapter 299, Oregon Laws 2015. The text that is operative on and after July 1, 2020, is set forth for the user’s convenience.
+      Note: The amendments to 340.045 by section 18, chapter 735, Oregon Laws 2013, become operative July 1, 2020. See section 20, chapter 735, Oregon Laws 2013, as amended by section 1, chapter 299, Oregon Laws 2015. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
 
-      340.045. (1) An eligible student enrolled in an eligible post-secondary course at an eligible post-secondary institution pursuant to ORS 340.030 shall continue to be considered a resident pupil of the student’s school district for purposes of calculation of the State School Fund grant under ORS 327.006 to 327.133, 327.348 and 327.731.
+      340.045. (1) An eligible student enrolled in an eligible post-secondary course at an eligible post-secondary institution pursuant to ORS 340.030 shall continue to be considered a resident pupil of the student’s school district for purposes of calculation of the State School Fund grant under sections 1 to 3, chapter 735, Oregon Laws 2013, and ORS 327.006 to 327.133, 327.348 and 327.731.
 
       (2) The amount of each school district’s general purpose grant per extended ADMw as calculated under ORS 327.013 shall be determined each fiscal year by the Department of Education and made available to all school districts and, upon request, to any eligible post-secondary institution.
 
@@ -363,7 +375,7 @@ EXPANDED OPTIONS PROGRAM
 
  
 
-      340.050 Students not eligible for financial aid; reimbursement for educational expenses. (1) An eligible student enrolled in an eligible post-secondary course pursuant to ORS 340.005 to 340.090 is not eligible for any state student financial aid under ORS 348.105 to 348.280 and 348.500 to 348.695.
+      340.050 Students not eligible for financial aid; reimbursement for educational expenses. (1) An eligible student enrolled in an eligible post-secondary course pursuant to ORS 340.005 to 340.090 is not eligible for any state student financial aid under ORS 348.105 to 348.280 and 348.500 to 348.621.
 
       (2) The eligible student may apply to the resident school district of the student for reimbursement for any textbooks, fees, equipment or materials purchased by the student that are required for an eligible post-secondary course. [2005 c.674 §11]
 
@@ -471,6 +483,10 @@ ACCELERATED COLLEGE CREDIT PROGRAMS
 
  
 
+(Generally)
+
+ 
+
       340.300 School districts to provide accelerated college credit programs. (1) As used in this section, “accelerated college credit programs” includes dual credit programs, two-plus-two programs, advanced placement programs and International Baccalaureate programs.
 
       (2) Each school district shall:
@@ -511,35 +527,221 @@ ACCELERATED COLLEGE CREDIT PROGRAMS
 
  
 
-      340.320 Grants for accelerated college credit programs. (1) As used in this section, “accelerated college credit programs” includes dual credit programs, two-plus-two programs, advanced placement programs and International Baccalaureate programs.
-
-      (2) The Department of Education shall administer a grant program that provides grants for the purposes of:
-
-      (a) Providing education or training to teachers who will provide or are providing instruction in accelerated college credit programs;
-
-      (b) Assisting students in paying for books, materials and other costs, other than test fees, related to accelerated college credit programs; and
-
-      (c) Providing classroom supplies for accelerated college credit programs.
-
-      (3) Any school district, community college district or state institution of higher education in this state may individually or jointly apply for a grant under this section.
-
-      (4) If a grant is awarded for the purpose of providing education or training to teachers who will provide or are providing instruction in an accelerated college credit program:
-
-      (a) The amount of the grant may not exceed one-third of the total cost of the education or training; and
-
-      (b) The department may award the grant on the condition that the teacher, school district, community college district and state institution of higher education pay the balance of the cost of the education or training in a proportion agreed to by the teacher, districts and institution.
-
-      (5) For the purposes described in subsection (2) of this section, the department may:
-
-      (a) Accept contributions of funds and assistance from the United States Government and its agencies or from any other source, public or private, and agree to conditions placed on the funds not inconsistent with the purposes of subsection (2) of this section; and
-
-      (b) Enter into agreements with school districts, community college districts and state institutions of higher education related to the funding to provide education or training to teachers who will provide or are providing instruction in an accelerated college credit program.
-
-      (6) All funds received by the department under this section shall be paid into the Accelerated College Credit Account established under ORS 340.330 to be used for the purposes described in subsection (2) of this section. [2011 c.639 §1]
+(Grant Programs)
 
  
 
-      340.330 Accelerated College Credit Account. The Accelerated College Credit Account is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Accelerated College Credit Account shall be credited to the account. Moneys in the Accelerated College Credit Account are continuously appropriated to the Department of Education for the purposes described in ORS 340.320 (2). [2011 c.639 §8]
+      340.315 Definitions for ORS 340.320, 340.323 and 340.326. As used in ORS 340.320, 340.323 and 340.326, “accelerated college credit programs” includes dual credit programs, two-plus-two programs, advanced placement programs and International Baccalaureate programs. [2019 c.204 §1]
+
+ 
+
+      340.320 Accelerated College Credit Instructor Grant Program. (1) The Department of Education, in collaboration with the Higher Education Coordinating Commission, shall administer the Accelerated College Credit Instructor Grant Program as provided by this section.
+
+      (2) Grants shall be distributed under this section for the purpose of providing education or training to teachers who will provide or are providing instruction in accelerated college credit programs.
+
+      (3) Any school district, education service district, community college district or public post-secondary institution of education in this state may individually or jointly apply for a grant under this section.
+
+      (4) A school district, an education service district, a community college district or a public post-secondary institution of education may use moneys from the grant to:
+
+      (a) Expand support for school districts, education service districts and public post-secondary institutions of education to provide professional learning opportunities for high school instructors of accelerated college credit program courses;
+
+      (b) Ensure high school teachers have dependable online access to graduate courses meeting community college requirements for dual credit instructors;
+
+      (c) Improve professional relationships among instructors of accelerated college credit programs courses;
+
+      (d) Develop online graduate courses in content areas identified by the department in collaboration with the commission as needing development; and
+
+      (e) Collect and analyze qualitative experience data related to the provision of professional development and training to instructors of accelerated college credit program courses, with an emphasis on development and training programs that are able to increase the number of instructors who are qualified to provide accelerated college credit program courses.
+
+      (5) For the purposes of grants distributed under this section, the department may:
+
+      (a) Accept contributions of funds and assistance from the United States Government and its agencies or from any other source, public or private, and agree to conditions placed on the funds not inconsistent with the purposes of this section; and
+
+      (b) Enter into agreements with school districts, education service districts, community college districts and public and private post-secondary institutions of education related to the funding to provide education or training to teachers who will provide or are providing instruction in an accelerated college credit program.
+
+      (6) All funds received by the department under this section shall be paid into the Accelerated College Credit Account established under ORS 340.330 to be used for the purposes described in this section.
+
+      (7) No later than December 1 of each year, the department shall submit a report on the issuance of grants under this section to an interim committee of the Legislative Assembly related to education. [2011 c.639 §1; 2019 c.204 §4]
+
+ 
+
+      Note: Section 6, chapter 204, Oregon Laws 2019, provides:
+
+      Sec. 6. For the 2019-2021 biennium, the Department of Education shall provide grants under the Accelerated College Credit Instructor Grant Program to:
+
+      (1) School districts and education service districts for tuition costs of up to 65 high school instructors to become qualified as instructors of accelerated college credit program courses; and
+
+      (2) Institutions of post-secondary education for at least six content areas for graduate course offerings. [2019 c.204 §6]
+
+ 
+
+      340.323 Accelerated College Credit Planning Partnership Grant Program; rules. (1) The Department of Education, in collaboration with the Higher Education Coordinating Commission, shall administer the Accelerated College Credit Planning Partnership Grant Program as provided by this section.
+
+      (2) Grants shall be distributed under this section for the purpose of encouraging partnerships, formed for offering accelerated college credit programs, between:
+
+      (a) A school district, a consortium of school districts or an education service district; and
+
+      (b) A post-secondary institution of education or a consortium of post-secondary institutions of education.
+
+      (3) A school district, a consortium of school districts or an education service district may apply to the department for a grant under this section if the school district, or at least one of the school districts in a consortium of school districts or an education service district, has:
+
+      (a)(A) Less than five percent of the school district’s high school students participating in an accelerated college credit program; or
+
+      (B) A low percentage of the school district’s historically underrepresented students attending a post-secondary institution of education;
+
+      (b) A plan to offer accelerated college credit program courses that:
+
+      (A) Have been previously unavailable through the school district;
+
+      (B) Conform with standards established for accelerated college credit program courses as described in subsection (6) of this section; and
+
+      (C) Align with statewide requirements for transferable courses or reflect local needs for a career and technical education program; and
+
+      (c) A partnership agreement with a post-secondary institution of education or a consortium of post-secondary institutions of education to offer accelerated college credit program courses as described in paragraph (b) of this subsection.
+
+      (4) A school district, a consortium of school districts or an education service district that receives a grant under this section may use moneys from the grant to:
+
+      (a) Distribute information to students and families about opportunities related to accelerated college credit programs, including implications for financial aid, costs to families and credit transferability;
+
+      (b) Provide academic advising to students taking an accelerated college credit program course;
+
+      (c) Promote a culture that encourages students to continue education at a post-secondary institution of education;
+
+      (d) Develop courses offered as part of an accelerated college credit program and ensure horizontal and vertical curriculum alignment;
+
+      (e) Hire staff to provide instruction of courses that are part of an accelerated college credit program and any other staff necessary to provide support for the accelerated college credit program;
+
+      (f) Facilitate collaboration between teachers and staff at high schools and faculty at post-secondary institutions of education for accelerated college credit programs;
+
+      (g) Coordinate regional offerings of accelerated college credit programs to create coherence across this state;
+
+      (h) Leverage emerging best practices;
+
+      (i) Purchase books and materials and pay for other costs, other than test fees, related to accelerated college credit programs; and
+
+      (j) Provide classroom supplies for accelerated college credit programs.
+
+      (5) Grants shall be awarded under this section based on rules of the State Board of Education.
+
+      (6) Accelerated college credit program courses funded by a grant distributed under this section must comply with any standards developed to ensure that credits earned for the course transfer to any public post-secondary institution of education in this state as if the credits were earned at that institution.
+
+      (7)(a) For the purposes of grants distributed under this section, the department may accept contributions of funds and assistance from the United States Government and its agencies or from any other source, public or private, and agree to conditions placed on the funds not inconsistent with the purposes of this section; and
+
+      (b) All funds received by the department under this section shall be paid into the Accelerated College Credit Account established under ORS 340.330 for the purposes described in this section.
+
+      (8) No later than December 1 of each year, the department shall submit a report on the issuance of grants under this section to an interim committee of the Legislative Assembly related to education. [2019 c.204 §2]
+
+ 
+
+      340.326 Accelerated College Credit Partnership Enhancement Grant Program; rules. (1) The Department of Education, in collaboration with the Higher Education Coordinating Commission, shall administer the Accelerated College Credit Partnership Enhancement Grant Program as provided by this section.
+
+      (2) Grants shall be distributed under this section for the purpose of enhancing accelerated college credit programs and partnerships.
+
+      (3) A school district, a post-secondary institution of education or a consortium of post-secondary institutions of education may apply to the department for a grant under this section.
+
+      (4) A school district, a post-secondary institution of education or a consortium of post-secondary institutions of education that receives a grant under this section may use moneys from the grant to:
+
+      (a) Establish equitable and sustainable funding for accelerated college credit programs;
+
+      (b) Encourage collaboration between teachers and staff at high schools and faculty at post-secondary institutions of education for accelerated college credit programs;
+
+      (c) Ensure information is distributed to students and families about opportunities related to accelerated college credit programs, including implications for financial aid, costs to families and credit transferability;
+
+      (d) Coordinate accelerated college credit program within and across regions of this state; and
+
+      (e) Collect and analyze qualitative experience data related to the provision of accelerated college credit programs, with an emphasis on the provision of the accelerated college credit programs to students from traditionally underrepresented communities or from low-income families.
+
+      (5) Grants shall be awarded under this section based on rules of the State Board of Education and shall take into account:
+
+      (a) The previous school year’s student enrollment in accelerated college credit program courses; and
+
+      (b) Credits earned by historically underrepresented students in post-secondary institutions of education during the previous school year.
+
+      (6)(a) For the purposes of grants distributed under this section, the department may accept contributions of funds and assistance from the United States Government and its agencies or from any other source, public or private, and agree to conditions placed on the funds not inconsistent with the purposes of this section; and
+
+      (b) All funds received by the department under this section shall be paid into the Accelerated College Credit Account established under ORS 340.330 for the purposes described in this section.
+
+      (7) No later than December 1 of each year, the department shall submit a report on the issuance of grants under this section to an interim committee of the Legislative Assembly related to education. [2019 c.204 §3]
+
+ 
+
+      340.330 Accelerated College Credit Account. The Accelerated College Credit Account is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Accelerated College Credit Account shall be credited to the account. Moneys in the Accelerated College Credit Account are continuously appropriated to the Department of Education for the purposes described in ORS 340.320, 340.323 and 340.326. [2011 c.639 §8; 2019 c.204 §5]
+
+ 
+
+(Temporary provisions relating to reports on accelerated learning)
+
+ 
+
+      Note: Sections 7 and 8, chapter 204, Oregon Laws 2019, provide:
+
+      Sec. 7. (1) The Higher Education Coordinating Commission, in collaboration with post-secondary institutions of education, shall study current and best practices to recommend a range of content areas of graduate courses to meet dual credit program qualifications in this state.
+
+      (2) The commission shall submit a report on the study to an interim committee of the Legislative Assembly related to education no later than September 15, 2020. [2019 c.204 §7]
+
+      Sec. 8. (1) The Teacher Standards and Practices Commission shall consult with educator preparation program providers to determine whether providers should provide an accelerated learning specialization.
+
+      (2) The commission shall submit a report on the study to an interim committee of the Legislative Assembly related to education no later than September 15, 2020. [2019 c.204 §8]
+
+ 
+
+      Note: Sections 1 and 5, chapter 113, Oregon Laws 2018, provide:
+
+      Sec. 1. (1) As used in this section:
+
+      (a) “Accelerated college credit program” has the meaning given that term in section 6 of this 2018 Act [350.420].
+
+      (b) “Credit toward general education” has the meaning given that term in section 6 of this 2018 Act.
+
+      (2) The Higher Education Coordinating Commission shall prepare an annual report on accelerated college credit programs in the manner provided by this section.
+
+      (3) For the purpose of the report required by this section, the commission shall collaborate with public post-secondary institutions of education in this state to determine the method for providing a representative sampling of:
+
+      (a) Students from each institution who are:
+
+      (A) Graduates of a high school in this state;
+
+      (B) Enrolled in the first year at a post-secondary institution of education for the first time, except for any enrollment related to an accelerated college credit program; and
+
+      (C) Seeking a post-secondary certificate or degree.
+
+      (b) The number of credits from an accelerated college credit program that a student attempted to transfer to the post-secondary institution of education.
+
+      (4) The report required by this section must include the following information from the representative sampling based on the previous school year:
+
+      (a) The number and percentage of students who attempted to transfer a credit from an accelerated college credit program to a public post-secondary institution of education in this state.
+
+      (b) Of the students identified under paragraph (a) of this subsection, the number and percentage of students whose credits were accepted.
+
+      (c) Of the credits accepted, the number and percentage that were accepted as credit toward general education.
+
+      (d) Of the students identified under paragraph (a) of this subsection, the number and percentage of students whose credits were not accepted.
+
+      (e) Of the students identified under paragraph (a) of this subsection, the high schools from which the students graduated, if available.
+
+      (5) To the extent practicable, and in addition to the information described in subsection (4) of this section, the report must include, from all students in this state described in subsection (3)(a) of this section, the number of students who attempted to transfer a credit from an accelerated college credit program to a public post-secondary institution of education in this state.
+
+      (6) To the extent practicable, the information collected under subsections (4) and (5) of this section must be disaggregated by:
+
+      (a) The student’s characteristics, including race, ethnicity and gender;
+
+      (b) The post-secondary institution of education that accepted or did not accept a transfer of a credit from an accelerated college credit program;
+
+      (c) The type of accelerated college credit program in which the student participated; and
+
+      (d) The class of the accelerated college credit program in which the student participated.
+
+      (7) No later than September 1 of each year, each public post-secondary institution of education must provide to the Higher Education Coordinating Commission the information required under this section.
+
+      (8) No later than December 1 of each year, the report required under this section must be:
+
+      (a) Submitted to the Governor, the Department of Education, the interim committees of the Legislative Assembly related to education, the board of education of each community college district in this state and the governing board of each public university listed in ORS 352.002; and
+
+      (b) Made available to each school district in this state.
+
+      (9) Nothing in this section is intended to supersede the authority of a post-secondary institution of education, or the faculty of an institution, to prescribe an educational program or a course of study as provided by ORS 341.290 (3) or 352.146. [2018 c.113 §1; 2018 c.113 §3]
+
+      Sec. 5. Section 1 of this 2018 Act is repealed on January 2, 2029. [2018 c.113 §5]
 
 _______________
 

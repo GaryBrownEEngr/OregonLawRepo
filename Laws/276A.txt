@@ -4,16 +4,6 @@ Chapter 276A — Information Technology
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0051; 2018 Session Laws 0088
-
- 
-
- 
-
 
  
 
@@ -111,7 +101,7 @@ STATE CHIEF INFORMATION OFFICER
 
  
 
-276A.276  Ability to offer government services through portal; portal provider fee
+276A.276  Ability to offer government services through portal; portal provider fee; rules
 
  
 
@@ -191,7 +181,7 @@ OPEN DATA STANDARD
 
  
 
-TELECOMMUNICATIONS
+TELECOMMUNICATIONS AND BROADBAND INTERNET ACCESS SERVICES
 
  
 
@@ -203,7 +193,7 @@ TELECOMMUNICATIONS
 
  
 
-276A.406  Acquisition of advanced digital communications network
+276A.406  Acquisition of broadband and communications services
 
  
 
@@ -211,11 +201,23 @@ TELECOMMUNICATIONS
 
  
 
-276A.412  Contracts for telecommunications equipment and services not to exceed 10 years; contract benefits for designated communities of interest
+276A.412  Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communities of interest
 
  
 
 276A.415  Agreements to fund or acquire telecommunications equipment and services
+
+ 
+
+276A.418  Public contracts for broadband Internet access service; prohibitions; exceptions; rules
+
+ 
+
+276A.421  Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory committee; rules
+
+ 
+
+276A.424  Connecting Oregon Schools Fund; rules
 
  
 
@@ -687,7 +689,7 @@ STATE CHIEF INFORMATION OFFICER
 
       (B) The amount of revenue bonds issued under ORS 285A.430 for the Beginning and Expanding Farmer Loan Program, the names of persons who received loans under the program and the amount of the loan;
 
-      (C) The names of persons who received grants or loans from the Oregon Innovation Council under ORS 284.735 or 284.742 and the purpose and amount of the grant or loan;
+      (C) The names of persons who received grants, loans or equity investments from the Oregon Innovation Council under ORS 284.742 and the purpose and amount of the grant, loan or equity investment;
 
       (D) Copies of, or links to, annual reports required to be filed under ORS 285C.615 under the strategic investment program;
 
@@ -747,7 +749,7 @@ STATE CHIEF INFORMATION OFFICER
 
       (c) At the request of any local government, as defined in ORS 174.116, or special government body, as defined in ORS 174.117, the State Chief Information Officer shall include on the Oregon transparency website notices of public meetings required to be provided under ORS 192.640 by the local government or special government body. The local government or special government body must submit public meeting notice information in the format and manner required by the State Chief Information Officer.
 
-      (d) The office of the State Chief Information Officer shall include a prominent link on the home page of the Oregon transparency website for information posted to the page described in paragraph (a) of this subsection. [Formerly 184.483]
+      (d) The office of the State Chief Information Officer shall include a prominent link on the home page of the Oregon transparency website for information posted to the page described in paragraph (a) of this subsection. [Formerly 184.483; 2019 c.131 §11]
 
  
 
@@ -957,7 +959,7 @@ STATE CHIEF INFORMATION OFFICER
 
  
 
-      276A.276 Ability to offer government services through portal; portal provider fee. (1) The State Chief Information Officer, with the advice of the Electronic Government Portal Advisory Board, shall provide the ability for state agencies to offer government services by means of an electronic government portal. The electronic government portal must be secure and must comply with the information security rules, policies and standards that the State Chief Information Officer adopts under ORS 276A.300 and meet the usability standards developed in cooperation with the advisory board.
+      276A.276 Ability to offer government services through portal; portal provider fee; rules. (1) The State Chief Information Officer, with the advice of the Electronic Government Portal Advisory Board, shall provide the ability for state agencies to offer government services by means of an electronic government portal. The electronic government portal must be secure and must comply with the information security rules, policies and standards that the State Chief Information Officer adopts under ORS 276A.300 and meet the usability standards developed in cooperation with the advisory board.
 
       (2) For the purposes of subsection (1) of this section, the State Chief Information Officer, under the provisions of the Public Contracting Code, may contract with an electronic government portal provider in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards.
 
@@ -1377,12 +1379,6 @@ OPEN DATA STANDARD
 
  
 
-      Note: Section 10, chapter 720, Oregon Laws 2017, provides:
-
-      Sec. 10. The Chief Data Officer shall first publish the manual described in section 4 of this 2017 Act [276A.359] on or before November 5, 2018. [2017 c.720 §10]
-
- 
-
       276A.362 Release of publishable data on web portal; exemptions; rules. (1) A state agency that releases publishable data shall release the data on the web portal maintained under ORS 276A.353 in accordance with the open data standard and technical standards manual established by the Chief Data Officer under ORS 276A.356 and 276A.359. If a state agency cannot make all publishable data available on the web portal, the state agency shall report to the Chief Data Officer all publishable data that the agency is unable to make available and state the reasons why the agency is unable to make the data available and the date by which the agency expects the publishable data to be made available on the portal.
 
       (2) The State Chief Information Officer shall adopt rules allowing a state agency to request an exemption from the requirements of subsection (1) of this section when:
@@ -1390,10 +1386,6 @@ OPEN DATA STANDARD
       (a) The release of publishable data would subject the agency’s information systems to a substantial risk of cyberattack; or
 
       (b) The state agency is purchasing software or vendor services and industry practices do not support downstream processing and dissemination activities. [2017 c.720 §5]
-
- 
-
-      Note: 276A.362 becomes operative May 1, 2019. See section 12, chapter 720, Oregon Laws 2017.
 
  
 
@@ -1443,10 +1435,6 @@ OPEN DATA STANDARD
 
  
 
-      Note: 276A.365 becomes operative May 1, 2019. See section 12, chapter 720, Oregon Laws 2017.
-
- 
-
       Note: Section 13, chapter 720, Oregon Laws 2017, provides:
 
       Sec. 13. Section 6 (3)(b) of this 2017 Act [276A.365 (3)(b)] applies to contracts entered into on or after the effective date of this 2017 Act [January 1, 2018]. [2017 c.720 §13]
@@ -1471,7 +1459,7 @@ OPEN DATA STANDARD
 
  
 
-TELECOMMUNICATIONS
+TELECOMMUNICATIONS AND BROADBAND INTERNET ACCESS SERVICES
 
  
 
@@ -1499,15 +1487,31 @@ TELECOMMUNICATIONS
 
  
 
-      276A.406 Acquisition of advanced digital communications network. (1) As used in this section:
+      276A.406 Acquisition of broadband and communications services. (1) As used in this section and ORS 276A.412 and 276A.421:
 
-      (a) “Advanced digital communications” means equipment, facilities and capability to distribute digital communications signals for transmitting voice, data, image and video over distance.
+      (a) “Broadband” means wide bandwidth communications transmissions over coaxial cable, optical fiber, radio or twisted pair with an ability to simultaneously transport multiple signals and traffic types at a minimum transmission speed established by the State Chief Information Officer by rule, but in no event less than 25 megabits per second for downloads and three megabits per second for uploads.
 
-      (b) “Telecommunications provider” means any person that is capable of providing advanced digital communications including, but not limited to, a telecommunications utility as defined in ORS 759.005, a competitive telecommunications provider as defined in ORS 759.005, a cable television provider or an interstate telecommunications provider.
+      (b) “Communications” means media that communicate voice, data, text or video over a distance using electrical, electronic or light wave transmissions.
 
-      (2) Notwithstanding ORS chapters 279A, 279B and 279C, the State Chief Information Officer may provide advanced digital communications services directly, may enter into an interagency or intergovernmental agreement under ORS chapter 190 to have another state agency or governmental agency provide advanced digital communications services or may acquire advanced digital communications services by entering into contracts with telecommunications providers or a consortium of telecommunications providers in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards.
+      (c) “State agency” has the meaning given that term in ORS 279A.010.
 
-      (3) After a telecommunications provider or a consortium of telecommunications providers has installed an advanced digital communications network, the State Chief Information Officer shall provide all telecommunications services and operations for the state and state agencies directly, or shall enter into interagency or intergovernmental agreements under ORS chapter 190 to have another state agency or another governmental agency provide the telecommunications services and operations in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards. The State Chief Information Officer may not approve the procurement of any telecommunications system or equipment that is incompatible with the network or that is inconsistent with the State Chief Information Officer’s rules, policies and standards. [Formerly 283.510]
+      (d) “Telecommunications provider” means any person that is capable of providing broadband and communications services including, but not limited to, a telecommunications utility as defined in ORS 759.005, a competitive telecommunications provider as defined in ORS 759.005, a cable television provider or an interstate telecommunications provider.
+
+      (2) Notwithstanding ORS chapters 279A, 279B and 279C, the State Chief Information Officer:
+
+      (a) Shall provide broadband and communications services and operations for the state and state agencies; and
+
+      (b) Subject to ORS 276A.421 and notwithstanding ORS 276A.206 (6)(c), may provide broadband services and operations in unserved or underserved areas to any other public body, as defined in ORS 174.109, any federally recognized Indian tribe in Oregon or any nonprofit organization that the State Chief Information Officer designates as a community of interest under ORS 276A.206.
+
+      (3) The State Chief Information Officer provides the services and operations under subsection (2) of this section if the State Chief Information Officer:
+
+      (a) Provides the services directly;
+
+      (b) Enters into an interagency or intergovernmental agreement under ORS chapter 190 to have another state agency or governmental agency provide the services; or
+
+      (c) Acquires the services by entering into contracts with telecommunications providers or a consortium of telecommunications providers in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards.
+
+      (4) The State Chief Information Officer may not enter into any contract or agreement under subsection (3) of this section or approve the procurement of any broadband or communications system or equipment that is incompatible with the network or that is inconsistent with the State Chief Information Officer’s rules, policies and standards. [Formerly 283.510; 2018 c.51 §4]
 
  
 
@@ -1515,13 +1519,169 @@ TELECOMMUNICATIONS
 
  
 
-      276A.412 Contracts for telecommunications equipment and services not to exceed 10 years; contract benefits for designated communities of interest. (1) For the purposes of ORS 276A.400 to 276A.412, the State Chief Information Officer may, in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards, enter into a contract or contracts with telecommunications service providers and equipment manufacturers for purchasing, using or operating telecommunications equipment and services for a period not to exceed 10 years.
+      276A.412 Contracts for telecommunications equipment and services not to exceed 10 years; exception for broadband infrastructure; contract benefits for designated communities of interest. (1) For the purposes of ORS 276A.400 to 276A.412, the State Chief Information Officer may, in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards, enter into a contract or contracts with telecommunications providers and equipment manufacturers for purchasing, using or operating telecommunications equipment and services for a period not to exceed 10 years.
 
-      (2) For purposes of ORS 276A.206, the State Chief Information Officer may extend the benefits of telecommunications contracts for networks, equipment and services to nonprofit organizations that the State Chief Information Officer designates as communities of interest under ORS 276A.206. [Formerly 283.520]
+      (2) Notwithstanding subsection (1) of this section, the State Chief Information Officer may enter into a contract or a configuration of agreements related to broadband infrastructure, including leases, maintenance and operations of broadband transmission equipment, for a period that exceeds 10 years.
+
+      (3) For purposes of ORS 276A.206, the State Chief Information Officer may extend the benefits of telecommunications contracts for broadband networks, communications systems, equipment and services to nonprofit organizations that the State Chief Information Officer designates as communities of interest under ORS 276A.206. [Formerly 283.520; 2018 c.51 §6]
 
  
 
       276A.415 Agreements to fund or acquire telecommunications equipment and services. The State Chief Information Officer may, in a manner that is consistent with the State Chief Information Officer’s rules, policies and standards, enter into an agreement or agreements to fund or otherwise acquire telecommunications equipment and services by installment purchase or lease purchase contracts. [Formerly 283.524]
+
+ 
+
+      276A.418 Public contracts for broadband Internet access service; prohibitions; exceptions; rules. (1) As used in this section:
+
+      (a)(A) “Broadband Internet access service” means:
+
+      (i) A mass-market retail Internet access service provided by wire or radio that enables a person to transmit data to or receive data between the person’s customer premises equipment, including mobile devices, and all, or substantially all, Internet endpoints;
+
+      (ii) Any service that the Public Utility Commission finds is providing a service that is the functional equivalent of the service described in sub-subparagraph (i) of this subparagraph; or
+
+      (iii) Any service that is incidental to or that enables the operation of the service described in sub-subparagraph (i) of this subparagraph.
+
+      (B) “Broadband Internet access service” does not include dial-up Internet access service.
+
+      (b) “Broadband Internet access service provider” means a person or public body that provides broadband Internet access service.
+
+      (c) “Content, applications or services” means all traffic transmitted to or from end users of a broadband Internet access service.
+
+      (d) “Edge provider” means any person that provides content, applications or services over the Internet, and any person that provides a device used for accessing content, applications or services over the Internet.
+
+      (e) “End user” means any person that uses a broadband Internet access service.
+
+      (f) “Fixed broadband Internet access service” means broadband Internet access service that serves end users primarily at fixed endpoints using stationary equipment, including fixed satellite services and licensed and unlicensed fixed wireless services.
+
+      (g) “Mobile broadband Internet access service” means broadband Internet access service that serves end users primarily using mobile stations.
+
+      (h) “Nonharmful device” means a device the Public Utility Commission determines by rule to be nonharmful to broadband Internet access services.
+
+      (i) “Paid prioritization” means a broadband Internet access service provider’s management of its network to directly or indirectly favor some traffic over other traffic, including through traffic shaping, prioritization, resource reservation or other forms of preferential traffic management, either in exchange for consideration from a third party or to benefit an affiliated entity.
+
+      (j) “Public body” means a public body, as defined in ORS 174.109, in this state.
+
+      (2) For the purposes of this section, a public body contracts with a broadband Internet access service provider if the public body procures, or provides funding for the procurement of, broadband Internet access service, including fixed broadband Internet access service or mobile broadband Internet access service, from the broadband Internet access service provider.
+
+      (3) A public body may not contract with a broadband Internet access service provider that, at any time on or after January 1, 2019:
+
+      (a) Engages in paid prioritization;
+
+      (b) Blocks lawful content, applications or services or nonharmful devices;
+
+      (c) Impairs or degrades lawful Internet traffic for the purpose of discriminating against or favoring certain Internet content, applications or services or the use of nonharmful devices;
+
+      (d) Unreasonably interferes with or unreasonably disadvantages an end user’s ability to select, access and use the broadband Internet access service or lawful Internet content, applications or services or devices of the end user’s choice; or
+
+      (e) Unreasonably interferes with or unreasonably disadvantages an edge provider’s ability to make devices or lawful content, applications or services available to end users.
+
+      (4) Notwithstanding subsection (3) of this section, a public body may contract with a broadband Internet access service provider that:
+
+      (a) Is the sole provider of fixed broadband Internet access service to the geographic location subject to the contract;
+
+      (b) Engages in any of the activities described in subsection (3) of this section in the process of addressing copyright infringement or other unlawful activity or the needs of emergency communications, law enforcement, public safety or national security authorities;
+
+      (c) Engages in paid prioritization if the Public Utility Commission determines that the broadband Internet access service provider’s paid prioritization provides significant public interest benefits and does not harm the open nature of the provided broadband Internet access service;
+
+      (d) Engages in any activities described in subsection (3)(b) to (d) of this section if the Public Utility Commission determines that the broadband Internet access service provider’s engagement in the activity is reasonable network management. An activity is reasonable network management if the activity:
+
+      (A) Has a technical network management justification;
+
+      (B) Does not include other business practices; and
+
+      (C) Is narrowly tailored to achieve a legitimate network management purpose, taking into account the particular network architecture and technology of the broadband Internet access service; or
+
+      (e) Engaged in any of the activities described in subsection (3) of this section at any time on or after January 1, 2019, if:
+
+      (A) The broadband Internet access service provider certifies that it has ceased engaging in all of the activities described in subsection (3) of this section; and
+
+      (B) The Public Utility Commission determines that allowing a public body to contract with the broadband Internet access service provider provides significant public interest benefits.
+
+      (5)(a) A broadband Internet access service provider engaged in the provision of broadband Internet access service to a public body shall publicly disclose information regarding the provider’s network management practices and performance characteristics and the commercial terms of the provider’s broadband Internet access service sufficient for end users to verify that the service is provided in compliance with subsections (3) and (4) of this section.
+
+      (b) The Public Utility Commission by rule shall specify the manner and form in which disclosures under this subsection shall be made. [2018 c.88 §1]
+
+ 
+
+      Note: Section 2, chapter 88, Oregon Laws 2018, provides:
+
+      Sec. 2. Section 1 of this 2018 Act [276A.418] does not apply to a contract entered into before the operative date specified in section 3 of this 2018 Act [January 1, 2019]. However, section 1 of this 2018 Act applies to a renewal or extension of an existing contract on or after the operative date specified in section 3 of this 2018 Act as well as to a new contract entered into on or after the operative date specified in section 3 of this 2018 Act. [2018 c.88 §2]
+
+ 
+
+      276A.421 Provision of broadband services that compete with services of private telecommunications provider; circumstances of competition; broadband services advisory committee; rules. (1)(a) If the State Chief Information Officer determines that the broadband services and operations proposed to be provided by the State Chief Information Officer under ORS 276A.406 (2)(b) would directly compete with services already offered by a telecommunications provider, the State Chief Information Officer may only provide those services pursuant to the rules described in subsection (2) of this section.
+
+      (b) For the purposes of this section, broadband services are considered to be already offered by a telecommunications provider if the provider can demonstrate its ability to provide the broadband services in the geographic area to be served within a reasonable time and for a reasonable cost.
+
+      (2) The State Chief Information Officer shall adopt rules governing how it provides the broadband services and operations under subsection (1)(a) of this section. The rules must:
+
+      (a) Describe the services that the State Chief Information Officer proposes to provide, including specifications for broadband services, such as minimum bandwidth, reliability, redundancy, deployment schedule and comparable cost;
+
+      (b) Describe the method by which the State Chief Information Officer will maintain and update its service offerings;
+
+      (c) Describe the process by which a telecommunications provider may demonstrate its ability to provide broadband services under subsection (1) of this section and to meet the specifications proposed by the State Chief Information Officer under paragraph (a) of this subsection; and
+
+      (d) Describe the situations in which the State Chief Information Officer may not provide the services.
+
+      (3) The State Chief Information Officer shall appoint an advisory committee no later than 60 days prior to rulemaking under this section to assist the State Chief Information Officer in the administration of this section.
+
+      (4) The advisory committee must include one representative from each of the following:
+
+      (a) A telecommunications provider in this state.
+
+      (b) A rural telecommunications consortium in this state.
+
+      (c) The Association of Oregon Counties.
+
+      (d) The League of Oregon Cities.
+
+      (e) A public school or education service district.
+
+      (f) A public university listed in ORS 352.002.
+
+      (g) The State Interoperability Executive Council established under ORS 403.450.
+
+      (h) The Oregon Broadband Advisory Council established under ORS 285A.154.
+
+      (i) The public with an interest in broadband service availability.
+
+      (j) A nonprofit entity with an interest in broadband service availability.
+
+      (k) Any other public, private or nonprofit entity that the State Chief Information Officer determines is necessary to assist the advisory committee in performing its duties under this section.
+
+      (5) Before adopting rules described in this section, the State Chief Information Officer shall present the proposed rules to the Joint Legislative Committee on Information Management and Technology. [2018 c.51 §5]
+
+ 
+
+      276A.424 Connecting Oregon Schools Fund; rules. (1) The Connecting Oregon Schools Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Connecting Oregon Schools Fund shall be credited to the fund.
+
+      (2) The Connecting Oregon Schools Fund consists of any moneys deposited in the fund from whatever source and may include moneys appropriated, allocated, deposited or transferred to the fund by the Legislative Assembly or otherwise and interest earned on moneys in the fund.
+
+      (3) The moneys in the fund are continuously appropriated to the Department of Education for the purpose of providing matching funds for federal moneys received by school districts, education service districts, public charter schools or a consortium that is any combination of school districts, education service districts and public charter schools for the purpose of providing broadband access to eligible education facilities in this state.
+
+      (4) An education facility is eligible to receive matching funds under this section if the education facility:
+
+      (a) Receives federal moneys for the purpose of providing broadband access to the education facility;
+
+      (b) Takes steps to determine whether existing broadband infrastructure, including fiber-based broadband, may be integrated into the proposed broadband access project; and
+
+      (c) Meets any other eligibility requirements established by the State Board of Education by rule.
+
+      (5)(a) Before the department may distribute any state moneys under this section, the board shall adopt rules to implement the provisions of this section, including rules setting criteria that govern the distribution of the moneys to eligible education facilities.
+
+      (b) Rules adopted under this section must take into consideration any eligibility requirements established by the federal program awarding federal moneys.
+
+      (6) As used in this section:
+
+      (a) “Education facility” means:
+
+      (A) A public school that offers education to students in kindergarten or grades 1 through 12, or any combination of those grade levels;
+
+      (B) A building owned by a school district, education service district or public charter school; or
+
+      (C) A public charter school building leased from a school district or education service district.
+
+      (b) “Public charter school” has the meaning given that term in ORS 338.005. [2018 c.51 §3; 2019 c.648 §7]
 
  
 
@@ -1743,10 +1903,6 @@ OREGON GEOGRAPHIC INFORMATION COUNCIL
 
  
 
-      Note: 276A.509 becomes operative January 2, 2020. See section 7, chapter 166, Oregon Laws 2017.
-
- 
-
       276A.512 Oregon Geographic Information Council Fund; records and reports. (1) The Oregon Geographic Information Council Fund is established in the State Treasury, separate and distinct from the General Fund. All moneys that the State Chief Information Officer collects or receives for the purposes set forth in ORS 276A.500 to 276A.515 must be paid into the State Treasury and credited to the Oregon Geographic Information Council Fund. Moneys in the fund may be invested in the same manner as other state moneys and the earnings of any investments must be credited to the fund.
 
       (2) The State Chief Information Officer shall keep a record of all moneys deposited into the fund that indicates, by separate account, the source from which the moneys are derived, the interest earned and the activity or program against which any withdrawal is charged.
@@ -1791,10 +1947,6 @@ OREGON GEOGRAPHIC INFORMATION COUNCIL
 
       (L) Performing other duties that the State Chief Information Officer specifies. [2017 c.166 §6]
 
- 
-
-CHAPTER 277 [Reserved for expansion]
-
-_______________
+CHAPTER 277 [Reserved for expansion]_______________
 
  

@@ -1,21 +1,13 @@
 
 
-Chapter 443 — Residential Care; Adult Foster Homes; Hospice Programs
-
- 
-
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0075
-
- 
+Chapter 443 — Residential Care; Adult Foster Homes; Hospice Program
 
  
 
 
  
+
+s
 
  
 
@@ -46,6 +38,18 @@ QUALITY CARE
 443.006     Criminal background check registry; rules
 
 443.007     Disqualification of individuals found to have committed abuse; rules
+
+ 
+
+443.008     Fitness determinations; rules
+
+ 
+
+443.011     Training requirements for in-home care service providers; rules
+
+ 
+
+443.012     Disease outbreak and infection control training and protocols; rules
 
  
 
@@ -89,7 +93,7 @@ HOME HEALTH CARE PROVIDERS
 
  
 
-443.085     Rules
+443.085     Home health services; rules
 
  
 
@@ -105,7 +109,7 @@ HOME HEALTH CARE PROVIDERS
 
  
 
-443.105     Rules
+443.105     Caregiver registries; rules
 
 DOMICILIARY CARE FACILITIES
 
@@ -243,7 +247,19 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
+443.416     Inspection of facilities
+
+ 
+
+443.417     Annual kitchen inspection; fees
+
+ 
+
 443.420     Qualifications for license
+
+ 
+
+443.421     Revocation and suspension of licenses; procedure
 
  
 
@@ -279,10 +295,6 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
-443.435     Inspection of facilities
-
- 
-
 443.436     Enhanced oversight and supervision program
 
  
@@ -299,7 +311,11 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
-443.440     Revocation and suspension of licenses; procedure
+443.443     Information provided upon application for admission
+
+ 
+
+443.444     Information provided upon admission
 
  
 
@@ -320,6 +336,10 @@ RESIDENTIAL FACILITIES AND HOMES
  
 
 443.452     Waiver procedure
+
+ 
+
+443.453     Interference with employee or volunteer disclosure of information concerning practice that threatens health or safety of residents prohibited
 
  
 
@@ -387,6 +407,10 @@ ADULT FOSTER HOMES
 
  
 
+443.734     Adult foster home license classifications; rules
+
+ 
+
 443.735     Issuance of license; fee; standards; renewal; burden of proof; rules
 
  
@@ -423,7 +447,15 @@ ADULT FOSTER HOMES
 
  
 
+443.762     Information provided upon admission
+
+ 
+
 443.765     Complaint procedure; retaliation prohibited; notice of rates and rules; liability for complaints
+
+ 
+
+443.766     Interference with employee or volunteer disclosure of information concerning practice that threatens health or safety of residents prohibited
 
  
 
@@ -499,6 +531,10 @@ HOSPICE PROGRAMS
 
  
 
+443.867     In-home care agency license not required for licensed hospice program to provide palliative care
+
+ 
+
 443.869     Civil penalties
 
  
@@ -561,7 +597,7 @@ QUALITY CARE
 
  
 
-      Note: 443.001 to 443.004 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 443 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 443.001 to 443.012 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 443 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -589,13 +625,23 @@ QUALITY CARE
 
  
 
-      443.004 Criminal records check required for employees and volunteers providing direct care; exceptions; rules. (1) The Department of Human Services or the Oregon Health Authority shall complete a criminal records check under ORS 181A.195 on:
+      443.004 Criminal records check required for employees and volunteers providing direct care; exceptions; rules. (1)(a) The Department of Human Services or the Oregon Health Authority shall complete a criminal records check under ORS 181A.195 on:
 
-      (a) An employee of a residential facility or an adult foster home;
+      (A) An employee of a residential facility or an adult foster home;
 
-      (b) Any individual who is paid directly or indirectly with public funds who has or will have contact with a recipient of support services or a resident of an adult foster home or a residential facility; and
+      (B) Any individual who is paid directly or indirectly with public funds who has or will have contact with a recipient of support services or a resident of an adult foster home or a residential facility; and
 
-      (c) A home care worker registering with the Home Care Commission or renewing a registration with the Home Care Commission.
+      (C) A home care worker or personal support worker registering with the Home Care Commission or renewing a registration with the Home Care Commission.
+
+      (b) The department or the authority shall complete the criminal records check under paragraph (a) of this subsection not more than once during a two-year period unless the department or the authority:
+
+      (A) Receives credible evidence of a new criminal conviction;
+
+      (B) Receives credible evidence to substantiate a complaint of abuse or neglect;
+
+      (C) Is required by federal law to conduct more frequent criminal records checks; or
+
+      (D) Is notified that a subject individual has changed positions or duties for which there are different criminal records check requirements.
 
       (2)(a) A home health agency shall conduct a criminal background check before hiring or contracting with an individual and before allowing an individual to volunteer to provide services on behalf of the home health agency, if the individual will have direct contact with a patient of the home health agency.
 
@@ -605,7 +651,7 @@ QUALITY CARE
 
       (3) Public funds may not be used to support, in whole or in part, the employment in any capacity having contact with a recipient of support services or a resident of a residential facility or an adult foster home, of an individual, other than a mental health or substance abuse treatment provider, who has been convicted:
 
-      (a) Of a crime described in ORS 163.095, 163.115, 163.118, 163.125, 163.145, 163.149, 163.165, 163.175, 163.185, 163.187, 163.200, 163.205, 163.225, 163.235, 163.263, 163.264, 163.266, 163.275, 163.465, 163.467, 163.535, 163.537, 163.547, 163.689, 163.700, 163.701, 164.055, 164.057, 164.098, 164.125 (5)(c) or (d), 164.215, 164.225, 164.325, 164.377 (2) or (3), 164.405, 164.415, 165.013, 165.022, 165.032, 165.800, 165.803, 167.012, 167.017, 167.057, 167.320 or 167.322;
+      (a) Of a crime described in ORS 163.095, 163.107, 163.115, 163.118, 163.125, 163.145, 163.149, 163.165, 163.175, 163.185, 163.187, 163.200, 163.205, 163.225, 163.235, 163.263, 163.264, 163.266, 163.275, 163.465, 163.467, 163.535, 163.537, 163.547, 163.689, 163.700, 163.701, 164.055, 164.057, 164.098, 164.125 (5)(c) or (d), 164.215, 164.225, 164.325, 164.377 (2) or (3), 164.405, 164.415, 165.013, 165.022, 165.032, 165.800, 165.803, 167.012, 167.017, 167.057, 167.320 or 167.322;
 
       (b) Notwithstanding paragraph (a) of this subsection, of a crime described in ORS 163.465, 163.467, 163.700, 163.701, 164.055, 164.125 or 164.377, the date of conviction for which was within the five years immediately preceding employment in any capacity of an individual, other than a mental health or substance abuse treatment provider, having contact with a recipient of support services, a resident of a residential facility or a resident of an adult foster home, when the recipient or resident is 65 years of age or older;
 
@@ -619,11 +665,11 @@ QUALITY CARE
 
       (4) If the criminal background check conducted by a home health agency or in-home care agency under subsection (2) of this section reveals that the individual who is subject to the criminal background check has been convicted of any of the crimes described in subsection (3) of this section, the home health agency or in-home care agency may not employ the individual.
 
-      (5) Public funds may not be used to support, in whole or in part, the employment, in any capacity having contact with a recipient of support services or a resident of a residential facility or an adult foster home, of a mental health or substance abuse treatment provider who has been convicted of committing, or convicted of an attempt, conspiracy or solicitation to commit, a crime described in ORS 163.095, 163.115, 163.375, 163.405, 163.411 or 163.427.
+      (5) Public funds may not be used to support, in whole or in part, the employment, in any capacity having contact with a recipient of support services or a resident of a residential facility or an adult foster home, of a mental health or substance abuse treatment provider who has been convicted of committing, or convicted of an attempt, conspiracy or solicitation to commit, a crime described in ORS 163.095, 163.107, 163.115, 163.375, 163.405, 163.411 or 163.427.
 
       (6) Upon the request of a mental health or substance abuse treatment provider, the department or authority shall maintain a record of the results of any fitness determination made under ORS 181A.195 (10). The department or authority may disclose the record only to a person the provider specifically authorizes, by a written release, to receive the information.
 
-      (7) If the department or authority has a record of substantiated abuse committed by an employee or potential employee of a home health agency, in-home care agency, adult foster home or residential facility, regardless of whether criminal charges were filed, the department or authority shall notify, in writing, the employer and the employee or potential employee.
+      (7) If the department or authority has a record of substantiated abuse committed by an employee or potential employee of a home health agency, in-home care agency, adult foster home or residential facility, regardless of whether criminal charges were filed, the department or authority shall notify, in writing, the employer and the employee or potential employee and may conduct a fitness determination in accordance with this section and ORS 181A.195.
 
       (8) As used in this section:
 
@@ -647,7 +693,17 @@ QUALITY CARE
 
       (f) “Peer support specialist” has the meaning given that term in ORS 414.025.
 
-      (g) “Residential facility” has the meaning given that term in ORS 443.400. [2009 c.837 §6; 2009 c.828 §81; 2010 c.93 §§12,13; 2011 c.608 §1; 2011 c.681 §§8,9; 2012 c.70 §17; 2015 c.645 §8; 2015 c.758 §16; 2017 c.618 §6]
+      (g) “Personal support worker” has the meaning given that term in ORS 410.600.
+
+      (h) “Residential facility” has the meaning given that term in ORS 443.400. [2009 c.837 §6; 2009 c.828 §81; 2010 c.93 §§12,13; 2011 c.608 §1; 2011 c.681 §§8,9; 2012 c.70 §17; 2015 c.645 §8; 2015 c.758 §16; 2017 c.618 §6; 2018 c.75 §24; 2019 c.423 §§2,3; 2019 c.517 §§2,3; 2019 c.635 §§27,28]
+
+ 
+
+      Note: Section 42, chapter 837, Oregon Laws 2009, provides:
+
+      Sec. 42. (1) ORS 443.004 applies to employees who are hired on or after July 28, 2009.
+
+      (2) ORS 443.004 does not apply to an employee hired prior to July 28, 2009, who has remained with the same employer, even if the employee has been promoted or transferred to a different position with the employer since that date. [2009 c.837 §42; 2019 c.423 §4]
 
  
 
@@ -673,13 +729,15 @@ QUALITY CARE
 
       (c) “Home care worker” has the meaning given that term in ORS 410.600.
 
+      (d) “Personal support worker” has the meaning given that term in ORS 410.600.
+
       (2) The Department of Human Services shall augment the department’s existing criminal background check system with a regularly updated registry of all persons who work or are seeking to work to provide care.
 
       (3) The department shall adopt rules designating the persons who may be listed on the registry. The registry must list persons who work or are seeking to work to provide care:
 
       (a) In a facility; or
 
-      (b) As a home care worker.
+      (b) As a home care worker or personal support worker.
 
       (4) The department shall adopt rules establishing:
 
@@ -689,11 +747,11 @@ QUALITY CARE
 
       (c) Procedures and standards for the administration of the registry; and
 
-      (d) Guidelines and procedures for requests for and release of information from the registry. [2014 c.104 §6; 2017 c.239 §1]
+      (d) Guidelines and procedures for requests for and release of information from the registry. [2014 c.104 §6; 2017 c.239 §1; 2018 c.75 §25]
 
  
 
-      Note: 443.006 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 443 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: See note under 443.001.
 
  
 
@@ -717,11 +775,121 @@ QUALITY CARE
 
  
 
-      Note: 443.007 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 443 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: See note under 443.001.
+
+ 
+
+      443.008 Fitness determinations; rules. (1) As used in this section:
+
+      (a) “Direct care services” means services provided to clients of the Department of Human Services or the Oregon Health Authority by:
+
+      (A) An adult foster home, as defined in ORS 443.705;
+
+      (B) A home care worker, as defined in ORS 410.600;
+
+      (C) A residential facility, as defined in ORS 443.400; or
+
+      (D) A provider of specialized supports or support services for adults as defined in ORS 427.101.
+
+      (b) “Fitness determination” means the evaluation of whether a subject individual or other individual providing direct care services is fit to hold a position, provide direct care services or be granted a license, certification, registration or permit to provide direct care services.
+
+      (c) “Qualified entity” has the meaning given that term in ORS 181A.190.
+
+      (d) “Subject individual” means a person who is:
+
+      (A) Employed by or who seeks to be employed by the authority or the department;
+
+      (B) A volunteer or who seeks to be a volunteer to provide care on behalf of the authority or the department; or
+
+      (C) Providing care or who seeks to provide care on behalf of the authority or the department.
+
+      (2) The department and the authority shall prescribe by rule the criteria to be considered in making fitness determination findings of abuse that are substantiated. The criteria must include the types of substantiated abuse for which a subject individual may be found to be unfit and conditions, if any, for the reinstatement of a subject individual who is found to be unfit.
+
+      (3) A subject individual who is found to be unfit is entitled to challenge the fitness determination in a contested case hearing conducted in accordance with ORS chapter 183. The subject individual may not challenge a finding of substantiated abuse or criminal conviction that was the basis for the fitness determination but may contest the weight accorded the evidence, mitigating factors or other aspects of the evaluation. The individual may be represented by an attorney or other person or, if the individual is a member of a bargaining unit, by the certified or recognized exclusive representative for the bargaining unit.
+
+      (4) This section applies to fitness determinations for providers of direct care services conducted under ORS 181A.195 (10) or 443.004 (7). [2019 c.517 §1]
+
+ 
+
+      Note: The definition of the term “support services for adults” was deleted from 427.101 by amendment. See section 1, chapter 276, Oregon Laws 2019. The text of 443.008 was not amended by enactment of the Legislative Assembly to reflect the deletion. Editorial adjustment of 443.008 for the deletion has not been made.
+
+ 
+
+      Note: See note under 443.001.
 
  
 
       443.010 [Amended by 1963 c.164 §1; repealed by 1969 c.641 §19]
+
+ 
+
+      443.011 Training requirements for in-home care service providers; rules. (1) The Oregon Health Authority shall establish by rule training requirements that must be met before an individual may be permitted to provide in-home care services, as defined in ORS 443.305. The training requirements must include a minimum number of hours of orientation and assessment of competency. The minimum number of hours may be greater for an individual who will be providing enhanced care and services, such as medication management.
+
+      (2) Except as provided in subsection (3) of this section, the training requirements apply to any individual who is not licensed or certified to provide health care in this state and who provides in-home care services as an employee or contractor of a licensed:
+
+      (a) In-home care agency as defined in ORS 443.305;
+
+      (b) Home health agency as defined in ORS 443.014; or
+
+      (c) Hospital as defined in ORS 442.015.
+
+      (3) The training requirements shall not apply to an individual providing personal care services that are incidental to the provision of home health care or hospital services. [2019 c.680 §1]
+
+ 
+
+      Note: 443.011 becomes operative January 1, 2021. See section 7, chapter 680, Oregon Laws 2019.
+
+ 
+
+      Note: See note under 443.001.
+
+ 
+
+      443.012 Disease outbreak and infection control training and protocols; rules. (1) As used in this section and ORS 443.417:
+
+      (a) “Disease outbreak” has the meaning given that term in ORS 431A.005.
+
+      (b) “Facility” means:
+
+      (A) A long term care facility, as defined in ORS 442.015;
+
+      (B) A conversion facility, as defined in ORS 443.400; and
+
+      (C) A residential care facility, as defined in ORS 443.400, including a residential care facility with a memory care endorsement.
+
+      (2) An administrator of a facility and the employees of the facility, as specified by the Department of Human Services by rule, must receive training in recognizing disease outbreaks and infection control at the time of hiring, unless the administrator or the employee has received the training at another facility within the 24-month period prior to the time of hiring, and annually as part of, and not in addition to, the administrator or employee’s continuing education requirements.
+
+      (3) The department, in consultation with the Oregon Health Authority, shall prescribe by rule the requirements for the training, which must include at least the following:
+
+      (a) How to properly prevent and contain disease outbreaks based on the current best evidence in the field of infection and disease outbreak identification, prevention and control; and
+
+      (b) The responsibility of staff members to report disease outbreaks under ORS 433.004.
+
+      (4) The training may be provided in person, in writing, by webinar or by other electronic means. The department shall make online trainings available.
+
+      (5)(a) A facility must establish and maintain infection prevention and control protocols designed to provide a safe, sanitary and comfortable environment and to prevent the development and transmission of communicable diseases.
+
+      (b) A facility must designate an individual to be responsible for carrying out the infection prevention and control protocols and to serve as the primary point of contact for the department regarding disease outbreaks. The individual must:
+
+      (A) Be qualified by education, training and experience or certification; and
+
+      (B) Complete specialized training in infection prevention and control protocols within three months of being designated under this paragraph, unless the designee has received the specialized training within the 24-month period prior to the time of the designation.
+
+      (6) Upon hiring a new staff member, a facility shall provide to the staff member information about the rights and responsibility of facility staff members to report disease outbreaks under ORS 433.004 and the safeguards for staff members who report disease outbreaks.
+
+      (7) The department, in coordination with the authority, shall:
+
+      (a) Communicate regularly with facility administrators to recommend best practices and protocols for preventing and responding to disease outbreaks and provide contacts for local public health authorities; and
+
+      (b) Provide notification to the facilities in a community where there is an elevated risk of an infectious disease outbreak and the residents and staff may be at risk of exposure to the disease outbreak. [2019 c.592 §1]
+
+ 
+
+      Note: 443.012 applies to the issuance or renewal of a license for a long term care facility, conversion facility or residential care facility on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019.
+
+ 
+
+      Note: See note under 443.001.
 
  
 
@@ -773,41 +941,23 @@ HOME HEALTH CARE PROVIDERS
 
       443.035 License fees; renewal; disposition of funds. (1) The Oregon Health Authority may grant a license to a home health agency or caregiver registry for a calendar year, may annually renew a license and may allow for a change of ownership, upon payment of a fee as follows:
 
-      (a) For a new home health agency:
+      (a) $1,600 for a new home health agency license.
 
-      (A) $1,600; and
+      (b) $850 for a renewal of a home health agency license.
 
-      (B) An additional $1,600 for each subunit of a parent home health agency.
+      (c) $500 for a change of ownership of a home health agency at a time other than the annual renewal date.
 
-      (b) For renewal of a home health agency license:
+      (d)(A) $1,500 for a new caregiver registry license; and
 
-      (A) $850; and
+      (B) $750 for each subunit of a newly licensed caregiver registry.
 
-      (B) An additional $850 for each subunit of a parent home health agency.
+      (e)(A) $750 for a renewal of a caregiver registry license; and
 
-      (c) For a change of ownership of a home health agency at a time other than the annual renewal date:
+      (B) $750 for each subunit of a caregiver registry described in subparagraph (A) of this paragraph.
 
-      (A) $500; and
+      (f)(A) $350 for a change of ownership of a caregiver registry at a time other than the annual renewal date; and
 
-      (B) An additional $500 for each subunit of a parent home health agency.
-
-      (d) For a new caregiver registry:
-
-      (A) $1,500; and
-
-      (B) An additional $750 for each subunit of a caregiver registry.
-
-      (e) For renewal of a caregiver registry license:
-
-      (A) $750; and
-
-      (B) An additional $750 for each subunit of a caregiver registry.
-
-      (f) For a change of ownership of a caregiver registry at a time other than the annual renewal date:
-
-      (A) $350; and
-
-      (B) An additional $350 for each subunit of a caregiver registry.
+      (B) $350 for each subunit of a caregiver registry described in subparagraph (A) of this paragraph.
 
       (2) Notwithstanding subsection (1)(c) or (f) of this section, the fee for a change in ownership shall be $100 if a change in ownership does not involve:
 
@@ -815,7 +965,7 @@ HOME HEALTH CARE PROVIDERS
 
       (b) The administrator operating the agency or registry.
 
-      (3) All fees received pursuant to subsection (1) of this section shall be paid over to the State Treasurer and credited to the Public Health Account. Such moneys are appropriated continuously to the Oregon Health Authority for the administration of ORS 443.014 to 443.105. [1977 c.738 §8; 1995 c.449 §4; 2005 c.22 §302; 2007 c.71 §131; 2009 c.595 §771; 2009 c.792 §16; 2011 c.70 §12]
+      (3) All fees received pursuant to subsection (1) of this section shall be paid over to the State Treasurer and credited to the Public Health Account. Such moneys are appropriated continuously to the Oregon Health Authority for the administration of ORS 443.014 to 443.105. [1977 c.738 §8; 1995 c.449 §4; 2005 c.22 §302; 2007 c.71 §131; 2009 c.595 §771; 2009 c.792 §16; 2011 c.70 §12; 2019 c.456 §6]
 
  
 
@@ -859,6 +1009,24 @@ HOME HEALTH CARE PROVIDERS
 
  
 
+      Note: The amendments to 443.065 by section 3, chapter 680, Oregon Laws 2019, become operative January 1, 2021. See section 7, chapter 680, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      443.065. A home health agency licensed in this state shall:
+
+      (1) Be primarily engaged in providing skilled nursing services and at least one other service delineated in ORS 443.075 (1)(b) and (c);
+
+      (2) Have policies established by professional personnel associated with the agency or organization, including one or more physicians or naturopathic physicians and one or more registered nurses, at least two of whom are neither owners nor employees of the agency, and two consumers, to govern the services that it provides;
+
+      (3) Require supervision of services that it provides under subsection (1) of this section by a physician, physician assistant, nurse practitioner, naturopathic physician or registered nurse, preferably a public health nurse;
+
+      (4) Ensure that in-home care services, as defined in ORS 443.305, that it provides in addition to skilled nursing services are provided by individuals who meet the training requirements established by the Oregon Health Authority under ORS 443.011, if applicable;
+
+      (5) Maintain clinical and financial records on all patients; and
+
+      (6) Have an overall plan and budget in effect.
+
+ 
+
       443.075 Services and supplies prescribed by physician, naturopathic physician, physician assistant or nurse practitioner. (1) A home health agency must have an order for treatment, plan of treatment or plan of care from a physician, naturopathic physician licensed under ORS chapter 685, physician assistant licensed under ORS 677.505 to 677.525 or nurse practitioner licensed under ORS 678.375 to 678.390 for the following services and supplies:
 
       (a) Home nursing care provided by or under the supervision of a registered nurse;
@@ -873,7 +1041,7 @@ HOME HEALTH CARE PROVIDERS
 
  
 
-      443.085 Rules. The Oregon Health Authority shall adopt rules to implement ORS 443.014 to 443.105 including, but not limited to:
+      443.085 Home health services; rules. The Oregon Health Authority shall adopt rules to implement ORS 443.014 to 443.105 including, but not limited to:
 
       (1) The qualifications of professional and ancillary personnel in order to adequately furnish home health services;
 
@@ -901,7 +1069,7 @@ HOME HEALTH CARE PROVIDERS
 
  
 
-      443.105 Rules. The Oregon Health Authority may adopt rules governing caregiver registries, including but not limited to:
+      443.105 Caregiver registries; rules. The Oregon Health Authority may adopt rules governing caregiver registries, including but not limited to:
 
       (1) The minimum qualifications of individuals whose services are offered through a caregiver registry;
 
@@ -1061,6 +1229,58 @@ IN-HOME CARE AGENCIES
 
  
 
+      Note: The amendments to 443.315 by section 4, chapter 680, Oregon Laws 2019, become operative January 1, 2021. See section 7, chapter 680, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      443.315. (1) A person may not establish, manage or operate an in-home care agency or purport to manage or operate an in-home care agency without obtaining a license from the Oregon Health Authority.
+
+      (2) The authority shall establish classification requirements and qualifications for licensure under this section by rule. The authority shall issue a license to an applicant that has the necessary qualifications and meets all requirements established by rule, including the payment of required fees. An in-home care agency shall be required to maintain administrative and professional oversight to ensure the quality of services provided and that the training requirements established by the authority under ORS 443.011, if applicable, have been met by any individual employed by or contracting with the in-home care agency to provide in-home care services.
+
+      (3) Application for a license required under subsection (1) of this section shall be made in the form and manner required by the authority by rule and shall be accompanied by any required fees.
+
+      (4) A license may be granted, or may be renewed annually, upon payment of a fee as follows:
+
+      (a) For the initial licensure of an in-home care agency that is classified as:
+
+      (A) Limited, the fee is $2,000.
+
+      (B) Basic, the fee is $2,250.
+
+      (C) Intermediate, the fee is $2,500.
+
+      (D) Comprehensive, the fee is $3,000.
+
+      (b) There is an additional fee of $1,250 for the initial licensure of each subunit in any classification of in-home care agency.
+
+      (c) For the renewal of a license classified as:
+
+      (A) Limited or basic, the fee is $1,000.
+
+      (B) Intermediate, the fee is $1,250.
+
+      (C) Comprehensive, the fee is $1,500.
+
+      (d) There is an additional fee of $1,000 for the renewal of licensure for each subunit in any classification of in-home care agency.
+
+      (e) For a change of ownership at a time other than the annual renewal date:
+
+      (A) The fee is $350; and
+
+      (B) There is an additional fee of $350 for each subunit.
+
+      (5) A license issued under this section is valid for one year. A license may be renewed by payment of the required renewal fee and by demonstration of compliance with requirements for renewal established by rule.
+
+      (6) A license issued under this section is not transferable.
+
+      (7) The authority shall conduct an on-site inspection of each in-home care agency prior to services being rendered and once every two years thereafter as a requirement for licensing.
+
+      (8) In lieu of the on-site inspection required by subsection (7) of this section, the authority may accept a certification or accreditation from a federal agency or an accrediting body approved by the authority that the state licensing standards have been met, if the in-home care agency:
+
+      (a) Notifies the authority to participate in any exit interview conducted by the federal agency or accrediting body; and
+
+      (b) Provides copies of all documentation concerning the certification or accreditation requested by the authority.
+
+ 
+
       Note: See note under 443.305.
 
  
@@ -1076,6 +1296,30 @@ IN-HOME CARE AGENCIES
       (2) Failure to provide the contracted in-home care services; or
 
       (3) Failure to correct deficiencies identified during an inspection by the authority. [1999 c.1034 §3; 2007 c.897 §2; 2009 c.595 §776b; 2009 c.792 §26; 2009 c.828 §87]
+
+ 
+
+      Note: The amendments to 443.325 by section 5, chapter 680, Oregon Laws 2019, become operative January 1, 2021. See section 7, chapter 680, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      443.325. (1) The Oregon Health Authority may impose a civil penalty and may deny, suspend or revoke the license of any in-home care agency licensed under ORS 443.315 for failure to comply with ORS 443.305 to 443.350 or with rules adopted thereunder. A failure to comply with ORS 443.305 to 443.350 includes, but is not limited to:
+
+      (a) Failure to provide a written disclosure statement to the client or the client’s representative prior to in-home care services being rendered;
+
+      (b) Failure to provide the contracted in-home care services;
+
+      (c) Failure to correct deficiencies identified during an inspection by the authority; or
+
+      (d) A demonstrated pattern, over the previous five years, of significant and substantiated violations of:
+
+      (A) Employment or wage laws in this state, as prescribed by the authority by rule:
+
+      (i) By an in-home care agency licensee as an employer of staff in an in-home care agency; or
+
+      (ii) By an applicant for an in-home care agency license in any business owned or operated by the applicant; or
+
+      (B) Caregiver training requirements, as established by the authority by rule, in any in-home care agency owned or operated by an in-home care agency licensee.
+
+      (2) The authority may deny, suspend or revoke the license of any in-home care agency licensed under ORS 443.315 for failure to comply with ORS 443.004.
 
  
 
@@ -1185,10 +1429,6 @@ LONG TERM CARE REFERRAL
 
  
 
-      Note: 443.370 becomes operative July 1, 2018. See section 7, chapter 656, Oregon Laws 2017.
-
- 
-
       Note: 443.370 to 443.376 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 443 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -1215,11 +1455,7 @@ LONG TERM CARE REFERRAL
 
  
 
-      Note: 443.373 becomes operative July 1, 2018. See section 7, chapter 656, Oregon Laws 2017.
-
- 
-
-      Note: See second note under 443.370.
+      Note: See note under 443.370.
 
  
 
@@ -1259,17 +1495,7 @@ LONG TERM CARE REFERRAL
 
  
 
-      Note: 443.376 becomes operative July 1, 2018. See section 7, chapter 656, Oregon Laws 2017.
-
- 
-
-      Note: Section 8, chapter 656, Oregon Laws 2017, provides:
-
-      Sec. 8. Section 2 of this 2017 Act [443.376] applies only to contracts entered into between a referral agent and a facility or between a referral agent and a client on or after July 1, 2018. [2017 c.656 §8]
-
- 
-
-      Note: See second note under 443.370.
+      Note: See note under 443.370.
 
  
 
@@ -1669,6 +1895,58 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
+      Note: The amendments to 443.415 by section 5, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of a license on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies to the issuance or renewal of a license on and after January 1, 2021, is set forth for the user’s convenience.
+
+      443.415. (1) Applications for licensure to maintain and operate a residential facility shall be made to the Department of Human Services or the Oregon Health Authority on forms provided for that purpose by the appropriate licensing agency. Each application shall be accompanied by a fee. No fee is required of any governmentally operated residential facility.
+
+      (2)(a) The application fee for a residential training facility or a residential treatment facility is $60.
+
+      (b) The application fee for a residential training home is $50.
+
+      (c) The application fee for a residential treatment home is $30.
+
+      (d) The application fee for a residential care facility is:
+
+      (A) For a facility with one to 15 beds, $2,000.
+
+      (B) For a facility with 16 to 49 beds, $3,000.
+
+      (C) For a facility with 50 to 99 beds, $4,000.
+
+      (D) For a facility with 100 to 150 beds, $5,000.
+
+      (E) For a facility with more than 150 beds, $6,000.
+
+      (3) Upon receipt of an application and fee, the licensing agency shall conduct an on-site inspection, including, for residential care facilities, an inspection of the kitchen and other areas where food is prepared for residents. The licensing agency shall issue a license to any applicant for operation of a residential facility in compliance with ORS 443.002 and 443.400 to 443.455 and the rules of the licensing agency. Licensure may be denied when a residential facility is not in compliance with ORS 443.002 or 443.400 to 443.455 or the rules of the licensing agency. Licensure shall be denied if the State Fire Marshal, deputy or approved authority has given notice of noncompliance of a residential care facility, residential training facility or residential treatment facility pursuant to ORS 479.220.
+
+ 
+
+      443.416 Inspection of facilities. (1) The Director of Human Services or authorized representative shall periodically visit and inspect every residential care facility, residential training facility or residential training home to determine whether it is maintained and operated in accordance with ORS 443.400 to 443.455 and the rules of the director, and to consult with and advise management concerning methods of care, treatment, training, records, housing and equipment. Employees of the Department of Human Services and the State Fire Marshal or authorized representative on request shall be permitted access to the premises and records of individuals in the facility or home that are pertinent to fire safety.
+
+      (2) The Director of the Oregon Health Authority or authorized representative shall periodically visit and inspect every residential treatment facility or residential treatment home to determine whether it is maintained and operated in accordance with ORS 443.400 to 443.455 and the rules of the director, and to consult with and advise management concerning methods of care, treatment, training, records, housing and equipment. Employees of the Oregon Health Authority and the State Fire Marshal or authorized representative on request shall be permitted access to the premises and records of individuals in the facility or home that are pertinent to fire safety. [Formerly 443.435]
+
+ 
+
+      443.417 Annual kitchen inspection; fees. (1) The Department of Human Services shall annually inspect the kitchen of a facility and other areas where food is prepared for residents. In a year when the department is required by law to conduct a survey, the department shall conduct the inspection as part of the survey. The inspection must be conducted by an individual who has training and expertise in food sanitation. For an inspection not conducted as part of a legally required survey, the department may charge the inspected facility a fee of up to $200.
+
+      (2) The department or the Oregon Health Authority may not deny or delay a license or refuse to renew a license:
+
+      (a) For a facility’s first failure to pass an inspection; or
+
+      (b) If the department fails to conduct an inspection in a timely manner.
+
+      (3) Any fees collected by the department under this section shall be deposited into the Quality Care Fund established in ORS 443.001 and are continuously appropriated to the department for conducting inspections described in subsection (1) of this section. [2019 c.592 §2]
+
+ 
+
+      Note: 443.417 applies to the issuance or renewal of a license for a long term care facility, conversion facility or residential care facility on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019.
+
+ 
+
+      Note: 443.417 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 443 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       443.420 Qualifications for license. (1) A person applying for a license under ORS 443.415 must, in the judgment of the director of the licensing agency, be a person:
 
       (a) Who demonstrates an understanding and acceptance of the rules governing residential facilities;
@@ -1713,21 +1991,17 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
-      Note: Sections 1 and 47, chapter 679, Oregon Laws 2017, provide:
+      443.421 Revocation and suspension of licenses; procedure. (1) Except as provided in subsection (2) of this section for residential care facilities, the Department of Human Services or the Oregon Health Authority may revoke or suspend the license of any residential facility that is not operated in accordance with ORS 443.002 or 443.400 to 443.455 or the rules of the licensing agency. Such revocation or suspension must be taken in accordance with rules of the licensing agency and ORS chapter 183. However, in cases where an imminent danger to the health or safety of the residents exists, a license may be suspended immediately pending a fair hearing not later than the 10th day after such suspension.
 
-      Sec. 1. (1) The Legislative Assembly finds that:
+      (2)(a) In a case where an imminent danger to the health or safety of the residents exists, a residential care facility license may be suspended immediately.
 
-      (a) Residents of Oregon’s community-based care facilities are valued citizens of this state and deserve to live lives of autonomy and dignity; and
+      (b) The residential care facility is entitled to a contested case hearing to appeal an order of immediate suspension in accordance with procedures adopted by the Department of Justice by rule concerning emergency license suspensions.
 
-      (b) Support and training for those who serve these valued citizens are important to ensuring that these valued citizens are able to live the lives they deserve.
+      (c) When the Department of Human Services issues an immediate suspension order under this subsection, the department may:
 
-      (2) The Legislative Assembly finds and declares that it is the policy of this state to:
+      (A) Transition all residents of the residential care facility to other residential facilities; or
 
-      (a) Promote the autonomy of residents of Oregon’s community-based care facilities and accord them honor, dignity and the ability to choose freely how they live their lives so as to encourage maximum independence and fulfillment; and
-
-      (b) Ensure that administrators of residential care facilities, which include assisted living and memory care facilities, are licensed by an independent board no later than July 1, 2019. [2017 c.679 §1]
-
-      Sec. 47. Section 1 of this 2017 Act is repealed on December 31, 2019. [2017 c.679 §47]
+      (B) Appoint a management company with demonstrated skill and experience in operating residential facilities to manage the residential care facility and care for the residents of the facility. If the facility is unable to pay for the appointed management company, the department shall use funds from the facility trustee account fund to cover the cost. [Formerly 443.440]
 
  
 
@@ -1788,6 +2062,46 @@ RESIDENTIAL FACILITIES AND HOMES
       (D) For a facility with 100 to 150 beds, $2,500.
 
       (E) For a facility with more than 150 beds, $3,000. [1977 c.717 §9; 1983 c.47 §1; 1983 c.740 §162; 1987 c.548 §3; 2009 c.595 §783; 2009 c.837 §27; 2017 c.679 §13a; 2017 c.707 §5]
+
+ 
+
+      Note: The amendments to 443.425 by section 6, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of a license on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies to the issuance or renewal of a license on and after January 1, 2021, is set forth for the user’s convenience.
+
+      443.425. (1) Licensure under ORS 443.415 is effective for two years from the date of issue unless sooner revoked. Each license shall state:
+
+      (a) The name of the person operating the residential facility;
+
+      (b) The name of the person who owns the residential facility;
+
+      (c) The address of the premises to which the license applies and the maximum number of residents to be maintained in the residential facility at any time whether the residential facility is licensed as a residential training facility, a residential treatment facility, a residential care facility, a residential training home or residential treatment home; and
+
+      (d) Other information that the Department of Human Services or the Oregon Health Authority considers necessary.
+
+      (2) A license is renewable upon submission of an application to the department or the authority and payment of a renewal fee. No fee is required of a governmentally operated residential facility. Filing of an application for renewal before the date of expiration of a license extends the effective date of expiration of the license until the licensing agency has acted upon the application. The licensing agency shall refuse to renew a license if:
+
+      (a) The facility is not substantially in compliance with all applicable laws and rules;
+
+      (b) For a residential care facility, the facility has failed an inspection of the kitchen or other areas where food is prepared for residents that was conducted by the department in accordance with ORS 443.417, except as provided in ORS 443.417 (2); or
+
+      (c) The State Fire Marshal, deputy or approved authority has given notice of noncompliance of a residential care facility, residential training facility or residential treatment facility pursuant to ORS 479.220.
+
+      (3)(a) The biennial renewal fee for a residential training facility or a residential treatment facility is $60.
+
+      (b) The biennial renewal fee for a residential training home is $50.
+
+      (c) The biennial renewal fee for a residential treatment home is $30.
+
+      (d) The biennial renewal fee for a residential care facility is:
+
+      (A) For a facility with one to 15 beds, $1,000.
+
+      (B) For a facility with 16 to 49 beds, $1,500.
+
+      (C) For a facility with 50 to 99 beds, $2,000.
+
+      (D) For a facility with 100 to 150 beds, $2,500.
+
+      (E) For a facility with more than 150 beds, $3,000.
 
  
 
@@ -1865,9 +2179,7 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
-      443.435 Inspection of facilities. (1) The Director of Human Services or authorized representative shall periodically visit and inspect every residential care facility, residential training facility or residential training home to determine whether it is maintained and operated in accordance with ORS 443.400 to 443.455 and the rules of the director, and to consult with and advise management concerning methods of care, treatment, training, records, housing and equipment. Employees of the Department of Human Services and the State Fire Marshal or authorized representative on request shall be permitted access to the premises and records of individuals in the facility or home that are pertinent to fire safety.
-
-      (2) The Director of the Oregon Health Authority or authorized representative shall periodically visit and inspect every residential treatment facility or residential treatment home to determine whether it is maintained and operated in accordance with ORS 443.400 to 443.455 and the rules of the director, and to consult with and advise management concerning methods of care, treatment, training, records, housing and equipment. Employees of the Oregon Health Authority and the State Fire Marshal or authorized representative on request shall be permitted access to the premises and records of individuals in the facility or home that are pertinent to fire safety. [1977 c.717 §11; 2005 c.22 §309; 2009 c.595 §785]
+      443.435 [1977 c.717 §11; 2005 c.22 §309; 2009 c.595 §785; renumbered 443.416 in 2019]
 
  
 
@@ -1935,17 +2247,39 @@ RESIDENTIAL FACILITIES AND HOMES
 
  
 
-      443.440 Revocation and suspension of licenses; procedure. (1) Except as provided in subsection (2) of this section for residential care facilities, the Department of Human Services or the Oregon Health Authority may revoke or suspend the license of any residential facility that is not operated in accordance with ORS 443.002 or 443.400 to 443.455 or the rules of the licensing agency. Such revocation or suspension must be taken in accordance with rules of the licensing agency and ORS chapter 183. However, in cases where an imminent danger to the health or safety of the residents exists, a license may be suspended immediately pending a fair hearing not later than the 10th day after such suspension.
+      443.440 [1977 c.717 §12; 2005 c.22 §310; 2009 c.595 §786; 2009 c.828 §32; 2017 c.679 §26; renumbered 443.421 in 2019]
 
-      (2)(a) In a case where an imminent danger to the health or safety of the residents exists, a residential care facility license may be suspended immediately.
+ 
 
-      (b) The residential care facility is entitled to a contested case hearing to appeal an order of immediate suspension in accordance with procedures adopted by the Department of Justice by rule concerning emergency license suspensions.
+      443.443 Information provided upon application for admission. (1) A residential care facility, which includes an assisted living facility, shall provide, at a minimum, the following information to an individual or any person acting on behalf of the individual at the time the individual applies for admission to the residential care facility and upon request:
 
-      (c) When the Department of Human Services issues an immediate suspension order under this subsection, the department may:
+      (a) A summary explanation of the services provided by the facility;
 
-      (A) Transition all residents of the residential care facility to other residential facilities; or
+      (b) A summary explanation of the types of care that the facility does not provide;
 
-      (B) Appoint a management company with demonstrated skill and experience in operating residential facilities to manage the residential care facility and care for the residents of the facility. If the facility is unable to pay for the appointed management company, the department shall use funds from the facility trustee account fund to cover the cost. [1977 c.717 §12; 2005 c.22 §310; 2009 c.595 §786; 2009 c.828 §32; 2017 c.679 §26]
+      (c) A statement that if the facility is not capable of meeting the resident’s needs for care and services, the facility may require the resident to pursue other options, including by moving to another facility or care setting;
+
+      (d) A statement that if a resident leaves the facility to receive acute medical, psychiatric, nursing facility or other care, before the resident may return to the facility, the facility will first evaluate whether the facility is capable of meeting the resident’s care needs and, if not, the resident will not be permitted to return to the facility;
+
+      (e) A statement of a resident’s right to appeal if the facility requires the resident to leave the facility or does not permit the resident to return to the facility, as described in paragraphs (c) and (d) of this subsection; and
+
+      (f) A statement of whether the facility will arrange for or otherwise coordinate hospice care for a resident upon request.
+
+      (2) The information described in subsection (1) of this section must:
+
+      (a) Be in writing;
+
+      (b) Be written in plain English;
+
+      (c) Be explained to the individual or the person acting on behalf of the individual in a manner the individual or person understands;
+
+      (d) Be provided separately from all other disclosure and residency agreement documents; and
+
+      (e) Require the signature of the individual or the person acting on behalf of the individual acknowledging that the individual or person understands the content and the implications of the information. [2019 c.554 §2]
+
+ 
+
+      443.444 Information provided upon admission. Upon the admission of a resident to a residential care facility, the facility shall provide the resident with information developed by the Long Term Care Ombudsman describing the availability and services of the ombudsman. [2019 c.117 §4]
 
  
 
@@ -2075,9 +2409,9 @@ RESIDENTIAL FACILITIES AND HOMES
 
       Note: Section 19, chapter 679, Oregon Laws 2017, provides:
 
-      Sec. 19. (1) The Department of Human Services shall first publish the report described in section 15 (1) of this 2017 Act [443.446] no later than July 1, 2020.
+      Sec. 19. (1) The Department of Human Services shall first publish the report described in ORS 443.446 (1) no later than July 1, 2021.
 
-      (2) A residential care facility shall first report quality metrics under section 15 (2) of this 2017 Act no later than January 31, 2020. A residential care facility may voluntarily report quality metrics before January 31, 2020, once the reporting system is able to receive reports. [2017 c.679 §19]
+      (2) A residential care facility shall first report quality metrics under ORS 443.446 (2) no later than January 31, 2021. A residential care facility may voluntarily report quality metrics before January 31, 2021, once the reporting system is able to receive reports. [2017 c.679 §19; 2019 c.554 §3]
 
  
 
@@ -2149,6 +2483,36 @@ Note: 443.452 (1) was enacted into law by the Legislative Assembly but was not a
 
  
 
+      443.453 Interference with employee or volunteer disclosure of information concerning practice that threatens health or safety of residents prohibited. (1) A residential facility may not interfere with the good faith disclosure of information by an employee or volunteer concerning the abuse or mistreatment of a resident in the residential facility, violations of licensing or certification requirements, criminal activity at the facility, violations of state or federal laws or any practice that threatens the health and safety of a resident of the facility to:
+
+      (a) The Long Term Care Ombudsman, the Residential Facilities Ombudsman, the Department of Human Services, a law enforcement agency or other entity with legal or regulatory authority over the residential facility; or
+
+      (b) A family member, guardian, friend or other person who is acting on behalf of the resident.
+
+      (2) Unless performed with the intent to comply with state or federal law, including but not limited to protecting residents’ rights or carrying out a facility’s policies and procedures that are consistent with state and federal law, it is interference with the disclosure of information as described in subsection (1) of this section if a residential facility:
+
+      (a) Asks or requires the employee or volunteer to sign a nondisclosure or similar agreement prohibiting the employee or volunteer from disclosing the information;
+
+      (b) Trains an employee or volunteer not to disclose the information; or
+
+      (c) Takes actions or communicates to the employee or volunteer that the employee or volunteer may not disclose the information.
+
+      (3) The licensing agency may revoke or suspend the license of a residential facility that is found to have violated subsection (1) of this section.
+
+      (4) The department shall adopt rules to carry out the provisions of this section.
+
+      (5) This section does not authorize the disclosure of:
+
+      (a) Protected health information, as defined in ORS 192.556, other than as is permitted by the federal Health Insurance Portability and Accountability Act privacy regulations, 45 C.F.R. parts 160 and 164, ORS 192.553 to 192.581 or by other state or federal laws limiting the disclosure of health information; or
+
+      (b) Information protected under ORS 419A.255 and 419A.257. [2019 c.381 §4]
+
+ 
+
+      Note: 443.453 applies to statements or conduct occurring on or after January 1, 2020. See section 22, chapter 381, Oregon Laws 2019.
+
+ 
+
       443.455 Civil penalties; rules. (1) Except as provided in subsection (5) of this section, for purposes of imposing civil penalties, residential facilities approved under ORS 443.400 to 443.455 are subject to ORS 441.705 to 441.745.
 
       (2)(a) The Director of Human Services shall impose penalties on residential care facilities pursuant to ORS 441.731.
@@ -2157,7 +2521,7 @@ Note: 443.452 (1) was enacted into law by the Legislative Assembly but was not a
 
       (3) The Director of the Oregon Health Authority shall by rule prescribe a schedule of penalties for residential treatment facilities and residential treatment homes that are not in compliance with ORS 443.400 to 443.455.
 
-      (4) If the department or authority investigates and makes a finding of abuse arising from deliberate or other than accidental action or inaction that is likely to cause a negative outcome by a person with a duty of care toward a resident of a residential facility, other than a residential care facility, and if the abuse resulted in the death, serious injury, rape or sexual abuse of a resident, the department or authority shall impose a civil penalty of not less than $2,500 for each occurrence of substantiated abuse, not to exceed $15,000 in any 90-day period. As used in this subsection:
+      (4) If the Department of Human Services or the Oregon Health Authority investigates and makes a finding of abuse arising from deliberate or other than accidental action or inaction that is likely to cause a negative outcome by a person with a duty of care toward a resident of a residential facility, other than a residential care facility, and if the abuse resulted in the death, serious injury, rape or sexual abuse of a resident, the department or authority shall impose a civil penalty of not less than $2,500 for each occurrence of substantiated abuse, not to exceed $15,000 in any 90-day period. As used in this subsection:
 
       (a) “Negative outcome” includes serious injury, rape, sexual abuse or death.
 
@@ -2167,7 +2531,7 @@ Note: 443.452 (1) was enacted into law by the Legislative Assembly but was not a
 
       (d) “Sexual abuse” means any form of sexual contact between an employee of a residential facility or a person providing services in the residential facility and a resident of that facility, including but not limited to sodomy, sexual coercion, sexually explicit photographing and sexual harassment.
 
-      (5) Civil penalties recovered from a residential training facility, residential training home, residential treatment facility or residential treatment home shall be deposited in the Long Term Care Ombudsman Account established in ORS 441.419. [1977 c.717 §13; 1991 c.801 §4; 2001 c.900 §186; 2005 c.22 §311; 2009 c.595 §789; 2009 c.828 §89; 2013 c.717 §15; 2014 c.104 §11; 2017 c.679 §6]
+      (5) Civil penalties recovered from a residential training facility, residential training home, residential treatment facility or residential treatment home shall be deposited in the Long Term Care Ombudsman Account established in ORS 441.419. [1977 c.717 §13; 1991 c.801 §4; 2001 c.900 §186; 2005 c.22 §311; 2009 c.595 §789; 2009 c.828 §89; 2013 c.717 §15; 2014 c.104 §11; 2017 c.679 §6; 2019 c.13 §48]
 
  
 
@@ -2441,9 +2805,9 @@ ADULT FOSTER HOMES
 
       (c) Whose participation in collective bargaining is determined by the licensing agency to be inconsistent with this section or in violation of state or federal law.
 
-      (2) For purposes of collective bargaining under ORS 243.650 to 243.782, the State of Oregon is the public employer of record of adult foster care home providers.
+      (2) For purposes of collective bargaining under ORS 243.650 to 243.806, the State of Oregon is the public employer of record of adult foster care home providers.
 
-      (3) Notwithstanding ORS 243.650 (19), adult foster care home providers are considered to be public employees governed by ORS 243.650 to 243.782. Adult foster care home providers have the right to form, join and participate in the activities of labor organizations of their own choosing for the purposes of representation and collective bargaining on matters concerning labor relations. Mandatory subjects of collective bargaining include but are not limited to provider base rates and add-on payments. These rights shall be exercised in accordance with the rights granted to public employees, with mediation and interest arbitration under ORS 243.742 as the method of concluding the collective bargaining process. Adult foster care home providers may not strike.
+      (3) Notwithstanding ORS 243.650 (19), adult foster care home providers are considered to be public employees governed by ORS 243.650 to 243.806. Adult foster care home providers have the right to form, join and participate in the activities of labor organizations of their own choosing for the purposes of representation and collective bargaining on matters concerning labor relations. Mandatory subjects of collective bargaining include but are not limited to provider base rates and add-on payments. These rights shall be exercised in accordance with the rights granted to public employees, with mediation and interest arbitration under ORS 243.742 as the method of concluding the collective bargaining process. Adult foster care home providers may not strike.
 
       (4) Notwithstanding subsections (2) and (3) of this section, adult foster care home providers are not for any other purpose employees of the State of Oregon or any other public body.
 
@@ -2456,6 +2820,24 @@ ADULT FOSTER HOMES
  
 
       Note: 443.733 was added to and made a part of 443.705 to 443.825 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      443.734 Adult foster home license classifications; rules. Consistent with the requirements of ORS 443.705 to 443.825:
+
+      (1) The Department of Human Services shall adopt:
+
+      (a) Rules for the licensing of adult foster homes that provide residential care to older adults;
+
+      (b) Rules for the licensing of adult foster homes that provide residential care to individuals with physical disabilities; and
+
+      (c) Rules for the licensing of adult foster homes that provide residential care to individuals with intellectual or developmental disabilities.
+
+      (2) The Oregon Health Authority shall adopt rules for the licensing of adult foster homes that provide residential care to individuals with mental illness. [2019 c.455 §2]
+
+ 
+
+      Note: 443.734 was added to and made a part of 443.705 to 443.825 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -2510,6 +2892,62 @@ ADULT FOSTER HOMES
       (b) All moneys collected under ORS 443.725 to 443.780 from adult foster homes licensed to serve persons who are elderly, have physical disabilities or have developmental disabilities shall be deposited in the Quality Care Fund established in ORS 443.001.
 
       (11) Notwithstanding any other provision of this section or ORS 443.725 or 443.738, the licensing agency may issue a 60-day provisional license to a qualified person if the agency determines that an emergency situation exists after being notified that the licensed provider of an adult foster home is no longer overseeing operation of the adult foster home. [1983 c.629 §4; 1985 c.663 §4; 1991 c.960 §5; 1995 c.180 §2; 1995 c.667 §10; 1999 c.205 §1; 2001 c.900 §189; 2005 c.730 §24; 2009 c.418 §4; 2009 c.595 §791f; 2009 c.828 §§20,89a; 2017 c.707 §6]
+
+ 
+
+      Note: The amendments to 443.735 by section 7, chapter 592, Oregon Laws 2019, apply to the issuance or renewal of a license on or after January 1, 2021. See section 10, chapter 592, Oregon Laws 2019. The text that applies to the issuance or renewal of a license on and after January 1, 2021, is set forth for the user’s convenience.
+
+      443.735. (1)(a) Applications for a license to maintain and operate an adult foster home shall be made on forms provided by the licensing agency.
+
+      (b) Each application submitted to the Department of Human Services for an adult foster home serving individuals with intellectual or developmental disabilities shall be accompanied by a fee of $50 per bed requested for licensing.
+
+      (c) Each application submitted to the Oregon Health Authority, or to the Department of Human Services for an adult foster home not serving individuals with intellectual or developmental disabilities, shall be accompanied by a fee of $20 per bed requested for licensing.
+
+      (2) Upon receipt of an application and fee, the licensing agency shall conduct an investigation.
+
+      (3) The licensing agency shall not issue an initial license unless:
+
+      (a) The applicant and adult foster home are in compliance with ORS 443.002 and 443.705 to 443.825 and the rules of the licensing agency;
+
+      (b) The licensing agency has completed an inspection of the adult foster home;
+
+      (c) The licensing agency has completed a criminal records check under ORS 181A.195 on the applicant and any person, other than a resident, 16 years of age or older who will be residing in the adult foster home. The criminal records check shall be conducted in accordance with rules adopted under ORS 181A.195;
+
+      (d) The licensing agency has determined that the registry maintained under ORS 441.678 contains no finding that the applicant or any nursing assistant employed by the applicant has been responsible for abuse; and
+
+      (e) The applicant has demonstrated to the licensing agency the financial ability and resources necessary to operate the adult foster home. The licensing agency shall adopt rules as the agency deems appropriate that establish the financial standards an applicant must meet to qualify for issuance of a license and that protect financial information from public disclosure. The demonstration of financial ability under this paragraph shall include, but need not be limited to, providing the licensing agency with a list of any unsatisfied judgments, pending litigation and unpaid taxes and notifying the agency regarding whether the applicant is in bankruptcy. If the applicant is unable to demonstrate the financial ability and resources required by this paragraph, the licensing agency may require the applicant to furnish a financial guarantee as a condition of initial licensure.
+
+      (4) The licensing agency may not renew a license under this section unless:
+
+      (a) The applicant and the adult foster home are in compliance with ORS 443.002, 443.012 and 443.705 to 443.825 and the rules of the licensing agency;
+
+      (b) The licensing agency has completed an inspection of the adult foster home;
+
+      (c) The licensing agency has completed a criminal records check under ORS 181A.195 on the applicant and any person, other than a resident, 16 years of age or older who will be residing in the adult foster home. The criminal records check under this paragraph shall be conducted in accordance with rules adopted under ORS 181A.195; and
+
+      (d) The licensing agency has determined that the registry maintained under ORS 441.678 contains no finding that the applicant or any nursing assistant employed by the applicant has been responsible for abuse.
+
+      (5)(a) In seeking an initial license and renewal of a license when an adult foster home has been licensed for less than 24 months, the burden of proof shall be upon the provider and the adult foster home to establish compliance with ORS 443.705 to 443.825 and the rules of the licensing agency.
+
+      (b) In proceedings for renewal of a license when an adult foster home has been licensed for at least 24 continuous months, the burden of proof shall be upon the licensing agency to establish noncompliance with ORS 443.705 to 443.825 and the rules of the agency.
+
+      (6)(a) Persons who have been convicted of one or more crimes that, as determined by rules of the licensing agency, are substantially related to the qualifications, functions or duties of a provider, substitute caregiver or other household member of an adult foster home shall be prohibited from operating, working in or residing in an adult foster home.
+
+      (b) The licensing agency shall adopt rules that distinguish the criminal convictions and types of abuse that permanently prohibit a person from operating, working in or living in an adult foster home from the convictions and types of abuse that do not permanently prohibit the person from operating, working in or living in an adult foster home.
+
+      (c) A provider may not hire, retain in employment or allow to live in an adult foster home, other than as a resident, any person who the provider knows has been convicted of a disqualifying crime or has been found responsible for a disqualifying type of abuse.
+
+      (7) A license under ORS 443.725 is effective for one year from the date of issue unless sooner revoked. Each license shall state the name of the resident manager of the adult foster home, the names of all providers who own the adult foster home, the address of the premises to which the license applies, the maximum number of residents and the classification of the adult foster home. If, during the period covered by the license, a resident manager changes, the provider must within 15 days request modification of the license. The request must be accompanied by a fee of $10.
+
+      (8) No license under ORS 443.725 is transferable or applicable to any location, persons operating the adult foster home or the person owning the adult foster home other than that indicated on the application for licensing.
+
+      (9) The licensing agency shall not issue a license to operate an additional adult foster home to a provider unless the provider has demonstrated the qualifications and capacity to operate the provider’s existing licensed adult foster homes and has demonstrated the ability to provide to the residents of those adult foster homes care that is adequate and substantially free from abuse and neglect.
+
+      (10)(a) All moneys collected under ORS 443.725 to 443.780 from adult foster homes that are licensed to serve persons with mental, emotional or behavioral disturbances or alcohol or drug dependence shall be deposited in a special account in the General Fund, and are appropriated continuously for payment of expenses incurred by the Oregon Health Authority.
+
+      (b) All moneys collected under ORS 443.725 to 443.780 from adult foster homes licensed to serve persons who are elderly, have physical disabilities or have developmental disabilities shall be deposited in the Quality Care Fund established in ORS 443.001.
+
+      (11) Notwithstanding any other provision of this section or ORS 443.725 or 443.738, the licensing agency may issue a 60-day provisional license to a qualified person if the agency determines that an emergency situation exists after being notified that the licensed provider of an adult foster home is no longer overseeing operation of the adult foster home.
 
  
 
@@ -2719,6 +3157,16 @@ ADULT FOSTER HOMES
 
  
 
+      443.762 Information provided upon admission. (1) As used in this section, “adult foster home” means an adult foster home that is licensed to provide residential care to older adults or people with physical disabilities.
+
+      (2) Upon the admission of a resident to an adult foster home, the adult foster home shall provide the resident with information developed by the Long Term Care Ombudsman describing the availability and services of the ombudsman. [2019 c.117 §6]
+
+ 
+
+      Note: 443.762 was added to and made a part of 443.705 to 443.825 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       443.765 Complaint procedure; retaliation prohibited; notice of rates and rules; liability for complaints. (1) Complaints against adult foster homes may be filed with the licensing agency by any person, whether or not a resident of the home. The licensing agency shall investigate complaints regarding adult foster homes and shall adopt by rule standards governing investigations pursuant to this section.
 
       (2) The licensing agency shall prepare a notice which must be posted in a conspicuous place in each adult foster home stating the telephone number of the agency and the procedure for making complaints.
@@ -2750,6 +3198,36 @@ ADULT FOSTER HOMES
       (a) The person knows that the substance of the complaint is false; or
 
       (b) The person makes the complaint with the intent to harm the owner or operator of the adult foster home, or the adult foster home, and the person shows a reckless disregard for the truth or falsity of the substance of the complaint. [1983 c.629 §7; 1985 c.651 §3; 1991 c.960 §7; 2001 c.447 §1; 2009 c.595 §791m]
+
+ 
+
+      443.766 Interference with employee or volunteer disclosure of information concerning practice that threatens health or safety of residents prohibited. (1) An adult foster home may not interfere with the good faith disclosure of information by an employee or volunteer concerning the abuse or mistreatment of a resident in the adult foster home, violations of licensing or certification requirements, criminal activity at the adult foster home, violations of state or federal laws or any practice that threatens the health and safety of a resident in the adult foster home to:
+
+      (a) The Long Term Care Ombudsman, the Residential Facilities Ombudsman, the Department of Human Services, a law enforcement agency or other entity with legal or regulatory authority over the adult foster home; or
+
+      (b) A family member, guardian, friend or other person who is acting on behalf of the resident.
+
+      (2) An adult foster home interferes with the disclosure of the information described in subsection (1) of this section by:
+
+      (a) Asking or requiring the employee or volunteer to sign a nondisclosure or similar agreement prohibiting the employee or volunteer from disclosing the information;
+
+      (b) Training an employee or volunteer not to disclose the information; or
+
+      (c) Taking actions or communicating to the employee or volunteer that the employee or volunteer may not disclose the information.
+
+      (3) The licensing agency may revoke or suspend the license of an adult foster home that is found to have violated subsection (1) of this section.
+
+      (4) The licensing agency shall adopt rules to carry out the provisions of this section.
+
+      (5) This section does not authorize the disclosure of protected health information, as defined in ORS 192.556, other than as is permitted by the federal Health Insurance Portability and Accountability Act privacy regulations, 45 C.F.R. parts 160 and 164, ORS 192.553 to 192.581 or by other state or federal laws limiting the disclosure of health information. [2019 c.381 §6]
+
+ 
+
+      Note: 443.766 applies to statements or conduct occurring on or after January 1, 2020. See section 22, chapter 381, Oregon Laws 2019.
+
+ 
+
+      Note: 443.766 was added to and made a part of 443.705 to 443.825 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -3049,6 +3527,10 @@ HOSPICE PROGRAMS
 
  
 
+      443.867 In-home care agency license not required for licensed hospice program to provide palliative care. Notwithstanding ORS 443.305 to 443.350 requiring an in-home care agency to obtain a license to provide services that are necessary to assist an individual in meeting the individual’s daily needs but are not curative or rehabilitative, a hospice program licensed under ORS 443.860 is not required to be licensed as an in-home care agency under ORS 443.315 to provide palliative care, as defined by the Oregon Health Authority by rule. [2019 c.238 §2]
+
+ 
+
       443.869 Civil penalties. In addition to any other liability or penalty provided by law, the Director of the Oregon Health Authority may impose a civil penalty of $1,000 per day, up to $10,000 in any 30-day period, for any of the following:
 
       (1) Violation of any of the terms or conditions of a license issued under ORS 443.860 to a hospice program.
@@ -3263,8 +3745,6 @@ PENALTIES
 
       (b) After notice of revocation has been given and a reasonable time for placement of individuals in other facilities has been allowed.
 
-      (7) Violation of ORS 443.881 is punishable as a Class C misdemeanor. [Subsection (1) enacted as 1977 c.738 §11; subsection (2) enacted as 1977 c.717 §14; 1979 c.284 §144; 1985 c.663 §8; subsection (5) enacted as 1991 c.413 §3; 2009 c.595 §796]
-
-_______________
+      (7) Violation of ORS 443.881 is punishable as a Class C misdemeanor. [Subsection (1) enacted as 1977 c.738 §11; subsection (2) enacted as 1977 c.717 §14; 1979 c.284 §144; 1985 c.663 §8; subsection (5) enacted as 1991 c.413 §3; 2009 c.595 §796]_______________
 
  

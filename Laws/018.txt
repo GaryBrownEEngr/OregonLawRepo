@@ -4,12 +4,6 @@ Chapter 18 — Judgments
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -629,6 +623,8 @@ WRITS OF GARNISHMENT
 
 18.750       Application of ORS 18.750 to 18.760
 
+ 
+
 18.752       Garnishee duties
 
  
@@ -1021,6 +1017,10 @@ EXECUTION SALE
 
  
 
+18.965       Notice to seller before end of redemption period
+
+ 
+
 18.966       Redemption amount payable to purchaser
 
  
@@ -1121,7 +1121,7 @@ MISCELLANEOUS
 
  
 
-18.999       Recovery of expenses incurred in enforcing judgment and certain other monetary obligations
+18.999       Recovery of amounts related to attempts to recover debt or enforce judgment
 
  
 
@@ -1133,7 +1133,7 @@ DEFINITIONS
 
       (1) “Action” means any proceeding commenced in a court in which the court may render a judgment.
 
-      (2) “Child support award” means a money award or agency order that requires the payment of child support and that is entered under ORS 108.010 to 108.550, 416.310 to 416.340, 416.400 to 416.465, 416.510 to 416.990, 419B.400 or 419C.590 or ORS chapter 25, 107, 109 or 110.
+      (2) “Child support award” means a money award or agency order that requires the payment of child support and that is entered under ORS 25.501 to 25.556, 108.010 to 108.550, 416.310 to 416.340, 416.510 to 416.990, 419B.400 or 419C.590 or ORS chapter 25, 107, 109 or 110.
 
       (3) “Civil action” means any action that is not a criminal action.
 
@@ -1287,7 +1287,7 @@ GENERAL PROVISIONS RELATING TO JUDGMENTS
 
  
 
-      18.031 Contents of supplemental judgments. Except as provided in ORS 416.440 (5), a supplemental judgment may only contain provisions that were not included in the general judgment. [2009 c.484 §7; 2013 c.183 §4]
+      18.031 Contents of supplemental judgments. Except as provided in ORS 25.529 (5), a supplemental judgment may only contain provisions that were not included in the general judgment. [2009 c.484 §7; 2013 c.183 §4]
 
  
 
@@ -1489,25 +1489,13 @@ ENTRY OF JUDGMENTS IN REGISTER
 
       (7) The court administrator shall not delay entry of judgment under ORCP 68 for taxation of attorney fees or costs and disbursements.
 
-      (8) Administrative orders entered in the register under ORS 416.440 have the effect provided for in that section.
+      (8) Administrative orders entered in the register under ORS 25.529 have the effect provided for in that section.
 
       (9) The State Court Administrator shall ensure that the register and the judgment lien record be established and maintained in a uniform manner in the circuit courts.
 
       (10) References in Oregon Revised Statutes to docketing of a judgment are equivalent to entry of a judgment as described in subsection (1) of this section.
 
       (11) This section does not apply to justice courts, municipal courts or county courts performing judicial functions. [2003 c.576 §9; 2005 c.568 §15; 2005 c.618 §2; 2007 c.339 §2; 2011 c.398 §1]
-
- 
-
-      Note: Section 9a, chapter 576, Oregon Laws 2003, provides:
-
-      Sec. 9a. (1) Notwithstanding any other provision of sections 1 to 44 of this 2003 Act [ORS chapter 18] or any other law, a court administrator need not make any entry in the register or in the separate record maintained under section 9 of this 2003 Act [18.075] that is different from the entries made by the court administrator before the effective date of this 2003 Act [January 1, 2004] until such time as funding is available to make such modifications as may be necessary to accommodate those entries in the computer systems utilized by the circuit courts.
-
-      (2) All references to the docket in computer records and documents of the circuit courts shall be construed to be references to the separate record maintained under section 9 of this 2003 Act, without regard to whether those records or documents are created before, on or after the effective date of this 2003 Act. Subject to availability of funding, the circuit courts shall make such changes in their computer systems and other document-generating systems as soon as possible after the effective date of this 2003 Act to eliminate references to the docket.
-
-      (3) All references to decrees in computer records and documents of the circuit courts shall be construed to be references to judgments, without regard to whether those records or documents are created before, on or after the effective date of this 2003 Act. Subject to availability of funding, the circuit courts shall make such changes in their computer systems and other document-generating systems as soon as possible after the effective date of this 2003 Act to eliminate references to decrees.
-
-      (4) All references to money judgments in computer records and documents of the circuit courts shall be construed to be references to money awards, without regard to whether those records or documents are created before, on or after the effective date of this 2003 Act. Subject to availability of funding, the circuit courts shall make such changes in their computer systems and other document-generating systems as soon as possible after the effective date of this 2003 Act to eliminate references to money judgments. [2003 c.576 §9a]
 
  
 
@@ -1530,12 +1518,6 @@ ENTRY OF JUDGMENTS IN REGISTER
       (3) This section does not apply to justice courts, municipal courts or county courts performing judicial functions.
 
       (4) This section does not apply to judgments in juvenile proceedings under ORS chapter 419A, 419B or 419C, civil commitment proceedings, probate proceedings, adoptions or guardianship or conservatorship proceedings under ORS chapter 125. [2003 c.576 §10; 2005 c.568 §16]
-
- 
-
-      Note: Section 10a, chapter 576, Oregon Laws 2003, provides:
-
-      Sec. 10a. Notwithstanding any other provision of sections 1 to 44 of this 2003 Act [ORS chapter 18] or any other law, a court administrator need not mail notice of judgment in the form provided by section 10 of this 2003 Act [18.078] and may continue to use the form of notice used by the court administrator before the effective date of this 2003 Act [January 1, 2004] until such time as funding is available to allow use of notices of judgments in the form provided by section 10 of this 2003 Act. [2003 c.576 §10a]
 
  
 
@@ -1775,93 +1757,109 @@ The undersigned states:
 
  
 
+ 
+
+ 
+
 A.  Creditor/Prevailing Party Information:
 
-      __    1.     The creditor/prevailing party is:
+      __  1.         The creditor/prevailing party is:
 
-              _____________________
+      _____________________
 
-              and the address of the creditor is:
+      and the address of the creditor is:
 
-              _____________________
+      _____________________
 
-              _____________________
+      _____________________
 
-              under judgment, order or petition
+      under judgment, order or petition
 
-              entered on _____ (date) in
+      entered on _____ (date) in
 
-              the _____ Court for
+      the _____ Court for
 
-              _____(County) of _____ (State)
+      _____(County) of _____ (State)
 
-              under Case No._____.
+      under Case No._____.
 
-      __    2.     The creditor’s attorney’s name is
+      __  2.         The creditor’s attorney’s name is
 
-              _____________________
+      _____________________
 
-              Attorney’s Address is:
+      Attorney’s Address is:
 
-              _____________________
+      _____________________
 
-              Attorney’s Phone No. is: ______
+      Attorney’s Phone No. is: ______
+
+ 
+
+ 
 
  
 
 B.  Debtor/Losing Party Information:
 
-      __    1.     The debtor/losing party is:
+      __  1.         The debtor/losing party is:
 
-              _____________________
+      _____________________
 
-      __    2.     Debtor’s address (if known):
+      __  2.         Debtor’s address (if known):
 
-              _____________________
+      _____________________
 
-              _____________________
+      _____________________
 
-      __    3.     The final four digits of the debtor’s
+      __  3.         The final four digits of the debtor’s
 
-              Taxpayer Identification No.,
+      Taxpayer Identification No.,
 
-              or the final four digits of
+      or the final four digits of
 
-              the debtor’s Social Security No.
+      the debtor’s Social Security No.
 
-              (if known):
+      (if known):
 
-              _____________________
+      _____________________
 
-      __    4.     The final four digits of the debtor’s
+      __  4.         The final four digits of the debtor’s
 
-              driver license no. and state of
+      driver license no. and state of
 
-              issuance for the license (if known):
+      issuance for the license (if known):
 
-              _____________________
+      _____________________
 
-      __    5.     Name of debtor’s attorney
+      __  5.         Name of debtor’s attorney
 
-              (if known):
+      (if known):
 
-              _____________________
+      _____________________
+
+ 
+
+ 
 
  
 
 C.  Judgment Information:
 
-      __    1.     The amount of the judgment is:
+      __  1.         The amount of the judgment is:
 
-              _____________________
+      _____________________
 
-      __    2.     The amount of the costs is:
+      __  2.         The amount of the costs is:
 
-              _____________________
+      _____________________
 
-      __    3.     The amount of attorney fees, if any
+      __  3.         The amount of attorney fees, if any
 
-              is: _____________________
+      is: _____________________
+
+ 
+
+ 
 
  
 
@@ -1871,7 +1869,7 @@ D.  The Real or Personal Property to Be
 
       (Check appropriate box):
 
-      __    All real property of the debtor/losing
+      __  All real property of the debtor/losing
 
       party, now or hereafter acquired,
 
@@ -1879,7 +1877,7 @@ D.  The Real or Personal Property to Be
 
       under ORS 18.152
 
-      __    The following described real or
+      __  The following described real or
 
       personal property of debtor (legal
 
@@ -1907,9 +1905,13 @@ D.  The Real or Personal Property to Be
 
  
 
+ 
+
 ____________            ____________
 
 ____________            ____________
+
+ 
 
  
 
@@ -1921,11 +1923,21 @@ County of_____          )
 
  
 
+ 
+
+ 
+
       The foregoing instrument was acknowledged before me this ___ day of___, 2___, by____________.
+
+ 
 
 __________________
 
+ 
+
 Notary Public for Oregon
+
+ 
 
  
 
@@ -1933,11 +1945,15 @@ My commission expires: _________
 
  
 
+ 
+
 State of Oregon           )
 
                                     )           ss.
 
 County of_____          )
+
+ 
 
  
 
@@ -1945,13 +1961,25 @@ County of_____          )
 
  
 
+ 
+
+ 
+
 __________________
+
+ 
 
 Notary Public for Oregon
 
  
 
+ 
+
+ 
+
 My commission expires: _________
+
+ 
 
 ______________________________________________________________________________
 
@@ -2545,7 +2573,7 @@ EXEMPT PROPERTY
 
       (E) A rollover from an individual retirement account described in section 408 of the Internal Revenue Code to an individual retirement account described in section 408A of the Internal Revenue Code; and
 
-      (F) Any earnings under a retirement plan which are attributable to a contribution described in subparagraphs (A) to (E) of this paragraph.
+      (F) Any earnings under a retirement plan that are attributable to a contribution described in subparagraphs (A) to (E) of this paragraph.
 
       (d) “Retirement plan” means:
 
@@ -2555,7 +2583,7 @@ EXEMPT PROPERTY
 
       (C) Any pension not described in subparagraphs (A) and (B) of this paragraph granted to any person in recognition or by reason of a period of employment by or service for the Government of the United States or any state or political subdivision of any state, or any municipality, person, partnership, association or corporation.
 
-      (e) “Sponsor” means an individual or entity which establishes a retirement plan.
+      (e) “Sponsor” means an individual or entity that establishes a retirement plan.
 
       (2) Subject to the limitations set forth in subsection (3) of this section, a retirement plan shall be conclusively presumed to be a valid spendthrift trust under these statutes and the common law of this state, whether or not the retirement plan is self-settled, and a beneficiary’s interest in a retirement plan shall be exempt, effective without necessity of claim thereof, from execution and all other process, mesne or final.
 
@@ -2563,7 +2591,7 @@ EXEMPT PROPERTY
 
       (a) A contribution to a retirement plan, other than a permitted contribution, shall be subject to ORS 95.200 to 95.310 concerning fraudulent transfers; and
 
-      (b) Unless otherwise ordered by a court under ORS 25.387, 75 percent of a beneficiary’s interest in a retirement plan, or 50 percent of a lump sum retirement plan disbursement or withdrawal, shall be exempt from execution or other process arising out of a support obligation or an order or notice entered or issued under ORS chapter 25, 107, 108, 109, 110, 416, 419B or 419C. [Formerly 23.170; 2011 c.317 §5]
+      (b) Unless otherwise ordered by a court under ORS 25.387, 75 percent of a beneficiary’s interest in a retirement plan, or 50 percent of a lump sum retirement plan disbursement or withdrawal, shall be exempt from execution or other process arising out of a support obligation or an order or notice entered or issued under ORS 25.501 to 25.556 or ORS chapter 25, 107, 108, 109, 110, 419B or 419C. [Formerly 23.170; 2011 c.317 §5; 2019 c.13 §3]
 
  
 
@@ -2611,17 +2639,17 @@ EXEMPT PROPERTY
 
       (2) The disposable earnings of an individual are exempt from execution to the extent that payment under a garnishment would result in net disposable earnings for an individual of less than the following amounts:
 
-      (a) $218 for any period of one week or less;
+      (a) $254 for any period of one week or less;
 
-      (b) $435 for any two-week period;
+      (b) $509 for any two-week period;
 
-      (c) $468 for any half-month period;
+      (c) $545 for any half-month period;
 
-      (d) $936 for any one-month period; and
+      (d) $1,090 for any one-month period; and
 
-      (e) For any other period longer than one week, $218 multiplied by that fraction produced by dividing the number of days for which the earnings are paid by seven. The amount calculated under this paragraph must be rounded to the nearest dollar.
+      (e) For any other period longer than one week, $254 multiplied by that fraction produced by dividing the number of days for which the earnings are paid by seven. The amount calculated under this paragraph must be rounded to the nearest dollar.
 
-      (3) If an individual is paid for a period shorter than one week, the exemption calculated under subsection (2) of this section may not exceed $218 for any one-week period.
+      (3) If an individual is paid for a period shorter than one week, the exemption calculated under subsection (2) of this section may not exceed $254 for any one-week period.
 
       (4) An employer shall deduct from the amount of disposable earnings determined to be nonexempt under subsections (1) to (3) of this section any amounts withheld from the individual’s earnings for the same period of time under an order issued pursuant to ORS 25.378, 419B.408 or 419C.600 or ORS chapter 110. The employer shall make payment under a garnishment only of those amounts remaining after the deduction is made.
 
@@ -2637,7 +2665,7 @@ EXEMPT PROPERTY
 
       (8) Any waiver by an individual of the provisions of this section is void.
 
-      (9) An employer may not discharge any individual because the individual has had earnings garnished. [Formerly 23.186; 2007 c.496 §§9,14; 2011 c.228 §1]
+      (9) An employer may not discharge any individual because the individual has had earnings garnished. [Formerly 23.186; 2007 c.496 §§9,14; 2011 c.228 §1; 2019 c.263 §1]
 
  
 
@@ -2697,7 +2725,7 @@ EXEMPT PROPERTY
 
       (e) That to accommodate these policies, the court should have the discretion to decline to allow all or part of a claimed homestead exemption in cases involving child support as provided in this section.
 
-      (2) Notwithstanding ORS 18.395 to 18.422, a court in its discretion may decline to allow a homestead exemption in whole or part in any proceeding under ORS 18.912 if the proceeding is based on a judgment for child support that arises out of an order or judgment under ORS 24.115, 107.095, 107.105, 107.135, 108.120, 109.100, 109.103, 109.155, 109.165, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110 or 125.
+      (2) Notwithstanding ORS 18.395 to 18.422, a court in its discretion may decline to allow a homestead exemption in whole or part in any proceeding under ORS 18.912 if the proceeding is based on a judgment for child support that arises out of an order or judgment under ORS 24.115, 25.501 to 25.556, 107.095, 107.105, 107.135, 108.120, 109.100, 109.103, 109.155, 109.165, 419B.400 or 419C.590 or ORS chapter 110 or 125.
 
       (3) In exercising the discretion granted under subsection (1) of this section, the court shall consider:
 
@@ -3053,11 +3081,11 @@ WRITS OF GARNISHMENT
 
       (b) The issuer, if the writ is issued under ORS 18.635 by any person other than the court administrator.
 
-      (12) “Past due support” means the amount of child or spousal support, or both, determined under a court or administrative order in a proceeding under ORS chapter 107, 108, 109, 110, 416, 419B or 419C that has not been paid or is certified to be owed by another state under ORS 25.083.
+      (12) “Past due support” means the amount of child or spousal support, or both, determined under a court or administrative order in a proceeding under ORS 25.501 to 25.556 or ORS chapter 107, 108, 109, 110, 419B or 419C that has not been paid or is certified to be owed by another state under ORS 25.083.
 
       (13) “Wages” includes all amounts paid for the services of an employee by an employer, including amounts paid as a commission or bonus.
 
-      (14) “Writ” means a writ of garnishment. [2001 c.249 §1; 2003 c.85 §2; 2003 c.576 §47; 2005 c.542 §62; 2011 c.733 §1]
+      (14) “Writ” means a writ of garnishment. [2001 c.249 §1; 2003 c.85 §2; 2003 c.576 §47; 2005 c.542 §62; 2011 c.733 §1; 2019 c.13 §4]
 
  
 
@@ -3955,21 +3983,25 @@ COUNTY OF ________
 
  
 
-______                    )
+ 
 
-Plaintiff,                 )         WRIT OF
+______            )
 
-                                )         GARNISHMENT
+Plaintiff,         )           WRIT OF
 
-                                )
+                        )           GARNISHMENT
 
-                       vs.     )         Case No. _____
+                        )
 
-                                )
+            vs.       )           Case No. _____
 
-______                    )
+                        )
 
-Defendant.             )
+______            )
+
+Defendant.      )
+
+ 
 
  
 
@@ -3991,15 +4023,15 @@ TO:________.
 
  
 
-•         Wages that you owe the Debtor at the time this writ is delivered to you, and all wages that the Debtor earns during the 90-day period following the date on which you receive this writ.
+      •     Wages that you owe the Debtor at the time this writ is delivered to you, and all wages that the Debtor earns during the 90-day period following the date on which you receive this writ.
 
  
 
-•         All property of the Debtor (including money) that is in your possession, control or custody at the time this writ is delivered to you.
+      •     All property of the Debtor (including money) that is in your possession, control or custody at the time this writ is delivered to you.
 
  
 
-•         All debts that you owe the Debtor at the time this writ is delivered to you, whether or not payment is due on the debt at the time you receive this writ.
+      •     All debts that you owe the Debtor at the time this writ is delivered to you, whether or not payment is due on the debt at the time you receive this writ.
 
  
 
@@ -4037,7 +4069,7 @@ IMPORTANT ADDRESSES
 
  
 
-(Court Administrator)
+                        (Court Administrator)
 
  
 
@@ -4051,7 +4083,7 @@ IMPORTANT ADDRESSES
 
  
 
-(Debtor)
+                        (Debtor)
 
  
 
@@ -4063,9 +4095,9 @@ IMPORTANT ADDRESSES
 
       __  Street address ________
 
-            City _____ State _____
+      City _____ State _____
 
-            Zip Code _____
+      Zip Code _____
 
  
 
@@ -4073,7 +4105,7 @@ IMPORTANT ADDRESSES
 
  
 
-(Garnishor; check one)
+            (Garnishor; check one)
 
  
 
@@ -4119,7 +4151,11 @@ IMPORTANT ADDRESSES
 
  
 
-CERTIFICATION
+ 
+
+                        CERTIFICATION
+
+ 
 
  
 
@@ -4129,9 +4165,15 @@ CERTIFICATION
 
       I certify that I have read this writ of garnishment and to the best of my knowledge, information and belief, there is good ground to support issuance of the writ, and the amount indicated as subject to garnishment is lawfully subject to collection by this writ.
 
+ 
+
 _______________      ______, 2__
 
-Signature         Date
+Signature        Date
+
+ 
+
+ 
 
 _______________
 
@@ -4139,7 +4181,13 @@ Oregon State Bar No. (if attorney)
 
  
 
-COURT SEAL
+ 
+
+ 
+
+                        COURT SEAL
+
+ 
 
  
 
@@ -4151,7 +4199,15 @@ COURT SEAL
 
  
 
+ 
+
+ 
+
 COURT ADMINISTRATOR
+
+ 
+
+ 
 
  
 
@@ -4173,19 +4229,23 @@ COUNTY OF ________
 
  
 
-______                    )
+ 
 
-Plaintiff,                 )         DEBT
+______            )
 
-                                )         CALCULATION
+Plaintiff,         )           DEBT
 
-                       vs.     )         Case No. _____
+                        )           CALCULATION
 
-                                )
+            vs.       )           Case No. _____
 
-______                    )
+                        )
 
-Defendant.             )
+______            )
+
+Defendant.      )
+
+ 
 
  
 
@@ -4197,15 +4257,19 @@ Defendant.             )
 
  
 
-      __  A judgment entered against you dated_____, 2__, in Case No._____, ______Court,                           ______County.
+      __  A judgment entered against you dated_____, 2__, in Case No._____, ______Court, ______County.
 
  
 
       __  Other debt subject to garnishment under the law (provide details):
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
 
  
 
@@ -4213,21 +4277,23 @@ Defendant.             )
 
  
 
-Original Debt Amount                        $______
+ 
 
-+    Pre-adjudication Interest              $______
+Original Debt Amount            $______
 
-+    Attorney Fees                                $______
++    Pre-adjudication Interest  $______
 
-+    Cost Bill                                        $______
++    Attorney Fees                   $______
 
-+    Post-adjudication Interest             $______
++    Cost Bill                           $______
 
-+    Delivery Fee for Writ                   $______
++    Post-adjudication Interest $______
+
++    Delivery Fee for Writ       $______
 
 +    Sheriff’s Fees other
 
-      than Delivery Fees                        $______
+      than Delivery Fees            $______
 
 +    Other (Explain. Attach
 
@@ -4235,13 +4301,13 @@ Original Debt Amount                        $______
 
       if necessary.)
 
-      ______                                          $______
+      ______                              $______
 
-      ______                                          $______
+      ______                              $______
 
-      ______                                          $______
+      ______                              $______
 
-      ______                                          $______
+      ______                              $______
 
       Total “Other”
 
@@ -4249,17 +4315,17 @@ Original Debt Amount                        $______
 
       sheets (if used)
 
-+    Past Writ Issuance Fees                $______
++    Past Writ Issuance Fees    $______
 
 +    Past Delivery Fees                        $______
 
 +    Transcript and Filing
 
-      Fees for Other Counties                $______
+      Fees for Other Counties   $______
 
  
 
-=    Subtotal                                         $______
+=    Subtotal    $______
 
  
 
@@ -4269,7 +4335,9 @@ LESS Payments Made on Debt          $(______)
 
 =    Total Amount Required to
 
-      Satisfy Debt in Full                       $______
+      Satisfy Debt in Full          $______
+
+ 
 
  
 
@@ -4279,25 +4347,37 @@ LESS Payments Made on Debt          $(______)
 
       I certify that I have read this Debt Calculation form and to the best of my knowledge, information and belief the amount shown as owing is correct.
 
+ 
+
 _______________
 
 Creditor (Creditor must sign if writ issued by court administrator.)
+
+ 
 
 _______________
 
 Garnishor (Attorney for Creditor or other person authorized by law to issue writ.)
 
+ 
+
 _______________
 
 Address
+
+ 
 
 _______________
 
 Telephone Number
 
+ 
+
 _______________
 
 Oregon State Bar Number (if attorney)
+
+ 
 
 _______________, 2__
 
@@ -4317,19 +4397,23 @@ COUNTY OF ________
 
  
 
-______                    )
+ 
 
-Plaintiff,                 )         GARNISHEE
+______            )
 
-                                )         RESPONSE
+Plaintiff,         )           GARNISHEE
 
-                       vs.     )         Case No. _____
+                        )           RESPONSE
 
-                                )
+            vs.       )           Case No. _____
 
-______                    )
+                        )
 
-Defendant.             )
+______            )
+
+Defendant.      )
+
+ 
 
  
 
@@ -4344,6 +4428,10 @@ GENERALLY
 (ALL GARNISHEES MUST FILL OUT
 
 THIS PORTION OF THE RESPONSE)
+
+ 
+
+ 
 
  
 
@@ -4373,73 +4461,121 @@ Place a check in front of all the following statements that apply. You may need 
 
       __  I owe the following debt or other obligation to the Debtor (other than wages) that will not become due within 45 days after the date that the writ was delivered to me. I will not make any payments on the debt or obligation until I receive instructions from the Sheriff or until 30 days have passed from the date on which I deliver this response. (See Instructions to Garnishee form.)
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
 
  
 
       __  I have in my possession, control or custody the following personal property (other than money) that belongs to the Debtor. I will hold all of the property for the Garnishor until I receive instructions from the Sheriff or until 30 days have passed from the date on which I deliver this response. (See Instructions to Garnishee form.)
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
 
  
 
       __  I may owe money to or hold property of the Debtor, but I am not sure what or how much it might be. (You must provide an explanation in the following space and you must deliver an amended response when you find out. You must deliver an amended response even if you find out that you have no property of the Debtor or owe no money to the Debtor.)
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
 
  
 
       __  (FINANCIAL INSTITUTIONS ONLY) We hold one or more accounts for the Debtor, of which $_____ is not subject to garnishment under ORS 18.784. We are forwarding all other garnishable amounts, or enough of it to satisfy the garnishment, to the Garnishor.
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
 
  
 
       __  The writ of garnishment delivered to me, on its face, does not comply with the Oregon laws governing writs of garnishment, or I cannot determine the identity of the Debtor from the information in the writ. (You must provide an explanation in the following space.)
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
 
  
 
       __  I have received an order to withhold income that applies to the income of the Debtor. The order to withhold income has priority over the writ of garnishment, and compliance with the order will reduce or eliminate the money that I would otherwise deliver under the writ. (Provide details, including the name of the agency serving the order to withhold income, the date the order was served on you and the amount to be withheld. If you employ the Debtor, you must still complete Part II of this response.)
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
 
  
 
@@ -4449,13 +4585,25 @@ Place a check in front of all the following statements that apply. You may need 
 
       __  Other (Explain)
 
-            ______________________
+ 
 
-            ______________________
+______________________
 
-            ______________________
+ 
 
-            ______________________
+______________________
+
+ 
+
+______________________
+
+ 
+
+______________________
+
+ 
+
+ 
 
 ______________________________________________________________________________
 
@@ -4466,6 +4614,10 @@ PART II: DEBTOR’S EMPLOYER
 DEBTOR MUST FILL OUT THIS
 
 PORTION OF THE RESPONSE)
+
+ 
+
+ 
 
  
 
@@ -4483,9 +4635,9 @@ Place a check in front of all the following statements that apply. You may need 
 
       __  I had already received a writ of garnishment from another Garnishor before this writ was delivered to me. Under Oregon law, the previous writ has priority. The previous writ will terminate on the ___ day of_____, 2__.
 
-______________________________________________________________________________
+ 
 
-     
+______________________________________________________________________________
 
       I hereby certify that I have fully and accurately completed this garnishee response.
 
@@ -4493,9 +4645,13 @@ ______________________________________________________________________________
 
 Dated_____, 2__
 
+ 
+
 _______________
 
 Name of Garnishee
+
+ 
 
 _______________
 
@@ -4509,6 +4665,8 @@ Telephone number _______________
 
 Fax number (if available) ___________
 
+ 
+
 _______________
 
 Address
@@ -4521,7 +4679,13 @@ ______________________________________________________________________________ [
 
 ______________________________________________________________________________
 
+ 
+
 INSTRUCTIONS TO GARNISHEE
+
+ 
+
+ 
 
  
 
@@ -4533,11 +4697,11 @@ INSTRUCTIONS TO GARNISHEE
 
  
 
-•         You do not receive the writ within 60 days after the date of issuance shown on the face of the writ.
+      •     You do not receive the writ within 60 days after the date of issuance shown on the face of the writ.
 
  
 
-•         You do not receive an original writ of garnishment or a copy of the writ.
+      •     You do not receive an original writ of garnishment or a copy of the writ.
 
  
 
@@ -4693,7 +4857,7 @@ STEP 3. DELIVER THE FUNDS OR OTHER PROPERTY.
 
  
 
-      1. Challenge to garnishment or specific directions from court. If you are making any payments under the garnishment and before making a payment you receive notice of a challenge to the garnishment from the court, or receive a specific direction from the court to make payments to the court, you must send or deliver the payment directly to the court administrator. If the money is currently due when you receive the notice, send the payment promptly to the court. If the payment is for a debt that is payable within 45 days after you receive the writ, make the payment to the court promptly when it becomes due. If you make payment by check, make the check payable to the State of Oregon.Because you may be liable for any payment that does not reach the court, it is better not to send cash by mail.
+      1. Challenge to garnishment or specific directions from court. If you are making any payments under the garnishment and before making a payment you receive notice of a challenge to the garnishment from the court, or receive a specific direction from the court to make payments to the court, you must send or deliver the payment directly to the court administrator. If the money is currently due when you receive the notice, send the payment promptly to the court. If the payment is for a debt that is payable within 45 days after you receive the writ, make the payment to the court promptly when it becomes due. If you make payment by check, make the check payable to the State of Oregon. Because you may be liable for any payment that does not reach the court, it is better not to send cash by mail.
 
       A challenge to the garnishment does not affect your duty to follow the instructions you receive from the Sheriff for property that belongs to the Debtor and debts that you owe to the Debtor that do not become due within 45 days.
 
@@ -4725,11 +4889,15 @@ RESPONSE
 
  
 
+ 
+
+ 
+
       TO: The Garnishor and the Debtor
 
  
 
-      RE: Writ of garnishment received_____, 2__ (date), in the case of ________ (Plaintiff) vs. ________(Defendant), Circuit Court of ______County, Oregon, Case No._____.
+      RE: Writ of garnishment received_____, 2__ (date), in the case of ________ (Plaintiff) vs. ________(Defendant), Circuit Court of ______ County, Oregon, Case No._____.
 
  
 
@@ -4747,13 +4915,19 @@ RESPONSE
 
       Dated_____, 2__
 
+ 
+
       _______________
 
       Name of Garnishee
 
+ 
+
       _______________
 
       Signature
+
+ 
 
       _______________
 
@@ -4817,11 +4991,13 @@ WAGE EXEMPTION CALCULATION
 
  
 
-1.   Debtor’s gross wages
+ 
+
+      1.   Debtor’s gross wages
 
       for period covered by this
 
-      payment............................................................... $          ___
+      payment                                                    $          ___
 
 2.   Total amount required to be
 
@@ -4831,31 +5007,31 @@ WAGE EXEMPTION CALCULATION
 
             withholding, Social
 
-            Security, etc.)................................................. $          ___
+            Security, etc.)                                     $          ___
 
 3.   Debtor’s disposable wages
 
             (Subtract Line 2
 
-            from Line 1)................................................... $          ___
+            from Line 1)                                       $          ___
 
 4.   Normal exemption
 
             (Enter 75 percent
 
-            of Line 3)....................................................... $          ___
+            of Line 3)                                                        $          ___
 
 5.   Minimum exemption (check one)
 
-      __  $218 (payment of wages weekly)
+ 
 
-      __  $435 (payment of wages every
+      __  $254 (payment of wages weekly)
 
-            two weeks)
+      __  $509 (payment of wages every two weeks)
 
-      __  $468 (payment of wages half-monthly)
+      __  $545 (payment of wages half-monthly)
 
-      __  $936 (payment of wages monthly)
+      __  $1,090 (payment of wages monthly)
 
       __  $___ (Any other period longer
 
@@ -4863,7 +5039,7 @@ WAGE EXEMPTION CALCULATION
 
             payments for less than full pay
 
-            period) (Multiply $218 by number
+            period) (Multiply $254 by number
 
             of weeks or fraction of a week)
 
@@ -4871,13 +5047,13 @@ WAGE EXEMPTION CALCULATION
 
             (Line 4 or 5,
 
-            whichever is greater)...................................... $          ___
+            whichever is greater)                          $          ___
 
 7.   Nonexempt wages
 
             (Subtract Line 6
 
-            from Line 3)................................................... $          ___
+            from Line 3)                                       $          ___
 
 8.   Amount withheld for this pay period
 
@@ -4885,19 +5061,27 @@ WAGE EXEMPTION CALCULATION
 
       support withholding process or under
 
-      another writ with priority..................................... $          ___
+      another writ with priority $          ___
+
+ 
 
 9.   Wages subject to garnishment
 
-            (Subtract Line 8
+      (Subtract Line 8
 
-            from Line 7)................................................... $          ___
+      from Line 7)         $          ___
+
+ 
 
  
 
 INSTRUCTIONS FOR WAGE
 
 EXEMPTION CALCULATION FORM
+
+ 
+
+ 
 
  
 
@@ -4909,13 +5093,13 @@ EXEMPTION CALCULATION FORM
 
  
 
-      Minimum wage exemption. The minimum exemption in Line 5 is also based on the amount of the payment you are making. The minimum exemption is designed to ensure that an employee receives at least a certain minimum amount in any one-week period. If the payment is for a one-week period (without regard to whether the period is a calendar week or any other seven-day period), the minimum exemption is $218. The minimum exemption is $435 if the payment is for a two-week period. If the payment is for one-half of one month (i.e., the Debtor is paid twice each month), the minimum exemption is $468. The minimum exemption for a monthly payment is $936.
+      Minimum wage exemption. The minimum exemption in Line 5 is also based on the amount of the payment you are making. The minimum exemption is designed to ensure that an employee receives at least a certain minimum amount in any one-week period. If the payment is for a one-week period (without regard to whether the period is a calendar week or any other seven-day period), the minimum exemption is $254. The minimum exemption is $509 if the payment is for a two-week period. If the payment is for one-half of one month (i.e., the Debtor is paid twice each month), the minimum exemption is $545. The minimum exemption for a monthly payment is $1,090.
 
-      If the payment you are making is based on some period of time other than one week, two weeks, half month or month, and the payment is for more than one week, you must calculate the minimum exemption by multiplying $218 by the number of weeks covered by the paycheck, including any fraction of a week. You should round the amount calculated to the nearest dollar.
+      If the payment you are making is based on some period of time other than one week, two weeks, half month or month, and the payment is for more than one week, you must calculate the minimum exemption by multiplying $254 by the number of weeks covered by the paycheck, including any fraction of a week. You should round the amount calculated to the nearest dollar.
 
  
 
-Example 1: You pay Debtor A every 10 days. Each 10-day period is equal to 1.429 weeks (10 divided by 7). The minimum exemption is $312 ($218 ´ 1.429 rounded to the nearest dollar).
+Example 1: You pay Debtor A every 10 days. Each 10-day period is equal to 1.429 weeks (10 divided by 7). The minimum exemption is $363 ($254 ´ 1.429 rounded to the nearest dollar).
 
  
 
@@ -4923,7 +5107,7 @@ Example 1: You pay Debtor A every 10 days. Each 10-day period is equal to 1.429 
 
  
 
-Example 2: You pay Debtor A on a monthly basis. You are required to make a final payment under a writ of garnishment for the wages owing to Debtor A for the period beginning October 1 and ending October 15. This period is equal to 2.143 weeks (15 divided by 7). The minimum exemption is $467 ($218 ´ 2.143 rounded to the nearest dollar).
+Example 2: You pay Debtor A on a monthly basis. You are required to make a final payment under a writ of garnishment for the wages owing to Debtor A for the period beginning October 1 and ending October 15. This period is equal to 2.143 weeks (15 divided by 7). The minimum exemption is $544 ($254 ´ 2.143 rounded to the nearest dollar).
 
  
 
@@ -4931,11 +5115,11 @@ Example 2: You pay Debtor A on a monthly basis. You are required to make a final
 
  
 
-Example 3: You pay Debtor A on a weekly basis. Debtor A works two days per week. The minimum exemption is $218 for each weekly payment you make for Debtor A.
+Example 3: You pay Debtor A on a weekly basis. Debtor A works two days per week. The minimum exemption is $254 for each weekly payment you make for Debtor A.
 
  
 
-      If the payment you are making is based on a period of time less than one week, the minimum wage exemption may not exceed $218 for any one-week period.
+      If the payment you are making is based on a period of time less than one week, the minimum wage exemption may not exceed $254 for any one-week period.
 
  
 
@@ -4943,9 +5127,11 @@ Example 3: You pay Debtor A on a weekly basis. Debtor A works two days per week.
 
  
 
-Example 4. You have received two writs of garnishment for Debtor A. You pay Debtor A on a monthly basis. The first writ expires on October 16. The second writ will not expire until November 15. You will need to prepare two wage exemption calculation forms for Debtor A’s October wages and make payments under both writs. The wage exemption calculation form for the first writ will be for the wages attributable to October 1 to October 15 as described in Example 2. The wage exemption calculation form for the second writ will be for all wages for the month of October, but the amounts withheld under the first writ must be subtracted on Line 8 to determine the October wages subject to garnishment under the second writ.
+Example 4: You have received two writs of garnishment for Debtor A. You pay Debtor A on a monthly basis. The first writ expires on October 16. The second writ will not expire until November 15. You will need to prepare two wage exemption calculation forms for Debtor A’s October wages and make payments under both writs. The wage exemption calculation form for the first writ will be for the wages attributable to October 1 to October 15 as described in Example 2. The wage exemption calculation form for the second writ will be for all wages for the month of October, but the amounts withheld under the first writ must be subtracted on Line 8 to determine the October wages subject to garnishment under the second writ.
 
-______________________________________________________________________________ [2001 c.249 §63; 2003 c.85 §20; 2007 c.496 §§10,15; 2011 c.228 §2]
+ 
+
+______________________________________________________________________________ [2001 c.249 §63; 2003 c.85 §20; 2007 c.496 §§10,15; 2011 c.228 §2; 2019 c.263 §2]
 
  
 
@@ -4959,21 +5145,25 @@ COUNTY OF ________
 
  
 
-______                    )
+ 
 
-Plaintiff,                 )         RELEASE OF
+______            )
 
-                                )         GARNISHMENT
+Plaintiff,         )           RELEASE OF
 
-                       vs.     )
+                        )           GARNISHMENT
 
-                                )         Case No. _____
+            vs.       )
 
-                                )
+                        )           Case No. _____
 
-______                    )
+                        )
 
-Defendant.             )
+______            )
+
+Defendant.      )
+
+ 
 
  
 
@@ -4991,9 +5181,11 @@ TO: _______________(Garnishee).
 
       __  The following money or property of the Debtor held by you (provide details):
 
-            ______________________
+______________________
 
-            ______________________
+ 
+
+______________________
 
  
 
@@ -5003,13 +5195,19 @@ TO: _______________(Garnishee).
 
 Dated_____, 2__
 
+ 
+
 _______________
 
 Name of Garnishor
 
+ 
+
 _______________
 
 Signature
+
+ 
 
 _______________
 
@@ -5041,7 +5239,7 @@ Property belonging to you may have been taken or held in order to satisfy a debt
 
       (a) 75 percent of your take-home wages; or
 
-      (b) $218 per workweek.
+      (b) $254 per workweek.
 
       (2) Social Security benefits.
 
@@ -5155,7 +5353,7 @@ ______________________________________________________________________________
 
       When you file a Challenge to Garnishment form, the Garnishee may be required to make all payments under the garnishment to the court, and the Garnishor may be required to pay to the court all amounts received by the Garnishor that are subject to the challenge to the garnishment. The Garnishee and Garnishor are subject to penalties if they do not. For a complete explanation of their responsibilities, see ORS 18.705 and 18.708.
 
-______________________________________________________________________________ [2001 c.249 §64; 2001 c.538 §2a; 2003 c.79 §2; 2003 c.85 §21; 2003 c.576 §77; 2005 c.391 §2; 2005 c.456 §6; 2005 c.568 §25b; 2007 c.71 §6; 2007 c.496 §§11,16; 2009 c.430 §10; 2009 c.612 §6; 2011 c.93 §2; 2011 c.228 §3; 2011 c.317 §6; 2013 c.597 §2; 2015 c.348 §24]
+______________________________________________________________________________ [2001 c.249 §64; 2001 c.538 §2a; 2003 c.79 §2; 2003 c.85 §21; 2003 c.576 §77; 2005 c.391 §2; 2005 c.456 §6; 2005 c.568 §25b; 2007 c.71 §6; 2007 c.496 §§11,16; 2009 c.430 §10; 2009 c.612 §6; 2011 c.93 §2; 2011 c.228 §3; 2011 c.317 §6; 2013 c.597 §2; 2015 c.348 §24; 2019 c.263 §3]
 
  
 
@@ -5183,9 +5381,7 @@ YOUR ACCOUNT
 
       Account Number: _________
 
- 
-
-Why am I receiving this notice?
+ Why am I receiving this notice?
 
  
 
@@ -5213,7 +5409,7 @@ What has happened to my account?
 
  
 
-      ___ (check if applicable) Your account contained additional money that may not be protected from garnishment. As required by law, we have placed a hold on or removed these funds in the amount of $______ [amount frozen] and may have to turn these funds over to your creditor as directed by the garnishment order.
+      ___(check if applicable) Your account contained additional money that may not be protected from garnishment. As required by law, we have placed a hold on or removed these funds in the amount of $______ [amount frozen] and may have to turn these funds over to your creditor as directed by the garnishment order.
 
  
 
@@ -5227,15 +5423,21 @@ ACCOUNT SUMMARY AS OF ______ [DATE OF ACCOUNT REVIEW]
 
  
 
-                                Amount
+                        Amount
 
-Account                  in                          Amount
+Account          in                     Amount
 
-Number                   Account               Protected
+Number           Account          Protected
 
-_____                      _____                   _____
+ 
 
-_____                      _____                   _____
+_____              _____              _____
+
+_____              _____              _____
+
+ 
+
+ 
 
  
 
@@ -5245,15 +5447,17 @@ Subject to
 
 Garnish-
 
-ment (now              Garnish-
+ment (now       Garnish-
 
-frozen/                     ment Fee
+frozen/             ment Fee
 
-removed)                Charged
+removed)        Charged
 
-_____                      _____
+ 
 
-_____                      _____
+_____              _____
+
+_____              _____
 
  
 
@@ -5293,29 +5497,29 @@ What types of benefit payments are protected from garnishment?
 
  
 
-•         Social Security benefits
+      •     Social Security benefits
 
-•         Supplemental Security Income benefits
+      •     Supplemental Security Income benefits
 
-•         Veterans’ benefits
+      •     Veterans’ benefits
 
-•         Railroad retirement benefits
+      •     Railroad retirement benefits
 
-•         Railroad Unemployment Insurance benefits
+      •     Railroad Unemployment Insurance benefits
 
-•         Civil Service Retirement System benefits
+      •     Civil Service Retirement System benefits
 
-•         Federal Employees Retirement System benefits
+      •     Federal Employees Retirement System benefits
 
-•         Payments from a public or private retirement plan as defined in ORS 18.358
+      •     Payments from a public or private retirement plan as defined in ORS 18.358
 
-•         Public assistance or medical assistance, as defined in ORS 414.025, from the State of Oregon or an agency of the State of Oregon
+      •     Public assistance or medical assistance, as defined in ORS 414.025, from the State of Oregon or an agency of the State of Oregon
 
-•         Unemployment compensation payments from the State of Oregon or an agency of the State of Oregon
+      •     Unemployment compensation payments from the State of Oregon or an agency of the State of Oregon
 
-•         Black lung benefits payments from the United States Department of Labor
+      •     Black lung benefits payments from the United States Department of Labor
 
-•         Workers’ compensation payments from a workers’ compensation carrier
+      •     Workers’ compensation payments from a workers’ compensation carrier
 
  
 
@@ -5351,19 +5555,23 @@ COUNTY OF ________
 
  
 
-______                    )         CHALLENGE TO
+ 
 
-Plaintiff,                 )        GARNISHMENT
+______            )           CHALLENGE TO
 
-                                )
+Plaintiff,         ) GARNISHMENT
 
-                       vs.     )         Case No. _____
+                        )
 
-                                )
+      vs.             )           Case No. _____
 
-______                    )
+                        )
 
-Defendant.             )
+______            )
+
+Defendant.      )
+
+ 
 
  
 
@@ -5377,7 +5585,7 @@ Defendant.             )
 
  
 
-      THIS FORM MAY BE USED BY PERSONS OTHER THAN THE DEBTOR ONLYTO CLAIM AN INTEREST IN THE PROPERTY THAT IS GARNISHED.
+      THIS FORM MAY BE USED BY PERSONS OTHER THAN THE DEBTOR ONLY TO CLAIM AN INTEREST IN THE PROPERTY THAT IS GARNISHED.
 
  
 
@@ -5417,19 +5625,25 @@ ______________________________________________________________________________
 
  
 
-Name______                           Name ______
+ 
 
-Signature______                     Signature ______
+Name______              Name ______
 
-Address______                       Address ______
+Signature______        Signature ______
 
-____________                        ____________
+Address______           Address ______
 
-Telephone                                Telephone
+____________            ____________
 
-Number______                       Number ______
+Telephone                   Telephone
 
-(Required)                               (Required)
+Number______           Number ______
+
+(Required)                  (Required)
+
+ 
+
+ 
 
  
 
@@ -5439,7 +5653,7 @@ TO BE COMPLETED BY GARNISHOR:
 
 Name of Garnishor     ____________
 
-Address of Garnishor  ____________
+Address of Garnishor ____________
 
 ___________________________
 
@@ -5447,7 +5661,7 @@ ___________________________
 
 Name of Garnishee     ____________
 
-Address of Garnishee  ____________
+Address of Garnishee ____________
 
 ___________________________
 
@@ -5681,7 +5895,7 @@ ______________________________________________________________________________
 
  
 
-[  ] If this box has been checked, the sheriff has rendered the property inoperable and the property may not be used by any person without the authorization of the sheriff.
+:BOX.If this box has been checked, the sheriff has rendered the property inoperable and the property may not be used by any person without the authorization of the sheriff.
 
 ______________________________________________________________________________
 
@@ -5787,19 +6001,23 @@ COUNTY OF ________
 
  
 
-______                    )         CHALLENGE TO
+ 
 
-Plaintiff,                 )         EXECUTION
+______            )           CHALLENGE TO
 
-                                )
+Plaintiff,         )           EXECUTION
 
-                       vs.     )         Case No. _____
+                        )
 
-                                )
+            vs.       )           Case No. _____
 
-______                    )
+                                    )
 
-Defendant.             )
+______            )
+
+Defendant.      )
+
+ 
 
  
 
@@ -5811,7 +6029,7 @@ Defendant.             )
 
  
 
-      THIS FORM MAY BE USED BY PERSONS OTHER THAN THE DEBTOR ONLYTO CLAIM AN INTEREST IN THE PROPERTY THAT IS TO BE SOLD ON EXECUTION.
+      THIS FORM MAY BE USED BY PERSONS OTHER THAN THE DEBTOR ONLY TO CLAIM AN INTEREST IN THE PROPERTY THAT IS TO BE SOLD ON EXECUTION.
 
  
 
@@ -5843,19 +6061,25 @@ ______________________________________________________________________________
 
  
 
-Name________                       Name ________
+ 
 
-Signature______                     Signature ______
+Name________          Name ________
 
-Address______                       Address ______
+Signature______        Signature ______
 
-____________                        ____________
+Address______           Address ______
 
-Telephone                                Telephone
+____________            ____________
 
-Number______                       Number ______
+Telephone                   Telephone
 
-(Required)                               (Required)
+Number______           Number ______
+
+(Required)                  (Required)
+
+ 
+
+ 
 
  
 
@@ -5901,7 +6125,7 @@ NOTICE OF EXEMPT PROPERTY
 
       (a) 75 percent of your take-home wages; or
 
-      (b) $218 per workweek.
+      (b) $254 per workweek.
 
       (2) Social Security benefits.
 
@@ -5979,7 +6203,7 @@ ______________________________________________________________________________
 
       SPECIAL RULES APPLY FOR DEBTS THAT ARE OWED FOR CHILD SUPPORT AND SPOUSAL SUPPORT. Some property that may not otherwise be taken for payment against the debt may be taken to pay for overdue support. For instance, Social Security benefits, workers’ compensation benefits, unemployment benefits, veterans’ benefits and pensions are normally exempt, but only 50 percent of a lump sum payment of these benefits is exempt if the debt is owed for a support obligation.
 
-______________________________________________________________________________ [Formerly 18.512; 2007 c.71 §7; 2007 c.166 §9; 2007 c.496 §§12,17; 2009 c.430 §11; 2009 c.612 §5; 2011 c.93 §3; 2011 c.228 §4; 2011 c.317 §7; 2013 c.597 §3; 2015 c.348 §25]
+______________________________________________________________________________ [Formerly 18.512; 2007 c.71 §7; 2007 c.166 §9; 2007 c.496 §§12,17; 2009 c.430 §11; 2009 c.612 §5; 2011 c.93 §3; 2011 c.228 §4; 2011 c.317 §7; 2013 c.597 §3; 2015 c.348 §25; 2019 c.263 §4]
 
  
 
@@ -6181,9 +6405,27 @@ ______________________________________________________________________________ [
 
       (a) The legal description of the property; and
 
-      (b) The following notice:
+      (b) The notice to debtor and notice to prospective bidders prescribed in subsections (4) and (5) of this section.
+
+      (4) The notice to debtor required by subsection (3) of this section must be in substantially the following form:
 
 ______________________________________________________________________________
+
+NOTICE TO DEBTOR
+
+      You should be careful about offers to sell rights to surplus funds.
+
+      You may have a right to surplus funds remaining after payment of costs and satisfaction of the judgment, as provided in ORS 18.950 (4).
+
+      If you transfer or sell your right to redemption, you might not have the right to surplus funds.
+
+______________________________________________________________________________
+
+      (5) The notice to prospective bidders required by subsection (3) of this section must be in substantially the following form:
+
+______________________________________________________________________________
+
+NOTICE TO PROSPECTIVE BIDDERS
 
       Before bidding at the sale, a prospective bidder should independently investigate:
 
@@ -6201,11 +6443,11 @@ ______________________________________________________________________________
 
 ______________________________________________________________________________
 
-      (4) In addition to the information listed in subsection (2) of this section, a notice published in the newspaper under subsection (1) of this section must include instructions for locating the information posted on the website under subsection (1) of this section.
+      (6) In addition to the information listed in subsection (2) of this section, a notice published in the newspaper under subsection (1) of this section must include instructions for locating the information posted on the website under subsection (1) of this section.
 
-      (5) The sheriff is not required to post or publish the notice of sale of real property under this section until the judgment creditor provides the sheriff with all of the information required under subsections (2) and (3) of this section.
+      (7) The sheriff is not required to post or publish the notice of sale of real property under this section until the judgment creditor provides the sheriff with all of the information required under subsections (2) and (3) of this section.
 
-      (6) Before any execution sale of real property, the sheriff shall:
+      (8) Before any execution sale of real property, the sheriff shall:
 
       (a) Mail copies of the notice of sale posted on the website under subsection (1) of this section by first class mail and by certified mail, return receipt requested, to the judgment debtor at the address provided in the instructions to the sheriff;
 
@@ -6213,9 +6455,9 @@ ______________________________________________________________________________
 
       (c) Mail a copy of the notice of sale posted on the website under subsection (1) of this section by first class mail to any other person listed in the instructions pursuant to ORS 18.918 at the address provided in the instructions.
 
-      (7) The notices required by subsection (6) of this section must be mailed not less than 28 days before an execution sale is conducted.
+      (9) The notices required by subsection (8) of this section must be mailed not less than 28 days before an execution sale is conducted.
 
-      (8) Before any execution sale of real property for which the judgment creditor has provided a street address under ORS 18.875 (3), the sheriff shall post the notice of the sale posted on the website under subsection (1) of this section in a conspicuous place on the property. The notice must be posted not more than seven days after the sheriff mails notices as required by subsection (6) of this section. [2005 c.542 §23; 2009 c.835 §6; 2011 c.195 §11; 2011 c.429 §4; 2013 c.464 §1]
+      (10) Before any execution sale of real property for which the judgment creditor has provided a street address under ORS 18.875 (3), the sheriff shall post the notice of the sale posted on the website under subsection (1) of this section in a conspicuous place on the property. The notice must be posted not more than seven days after the sheriff mails notices as required by subsection (8) of this section. [2005 c.542 §23; 2009 c.835 §6; 2011 c.195 §11; 2011 c.429 §4; 2013 c.464 §1; 2019 c.309 §3]
 
  
 
@@ -6480,6 +6722,18 @@ ______________________________________________________________________________
       (2) Except as provided in subsection (3) of this section, the ability of a lien claimant to redeem property sold at an execution sale expires unless the lien claimant redeems the property within 60 days after the date of sale.
 
       (3) If any lien claimant redeems property within the time provided by subsection (2) of this section, any other lien claimant may redeem the property from the redemptioner. The subsequent redemption must be made within 60 days after the redemption amount specified in ORS 18.966 or 18.967 is paid to the sheriff. Other lien claimants may thereafter redeem from a preceding redemptioner, in the same manner, as long as each redemption is made within 60 days after the previous redemption. [2005 c.542 §40]
+
+ 
+
+      18.965 Notice to seller before end of redemption period. (1) If a person purchases residential real property after a complaint has been filed to foreclose a lien on the real property and before the end of the redemption period provided under ORS 18.964, the purchaser shall provide the following notice in clear and conspicuous type, 14-point or larger, to the seller before purchasing the real property:
+
+______________________________________________________________________________
+
+WARNING: You should be careful about this kind of transfer of property. Make sure you understand the documents that you sign. You may still own interests in this property. If you sign the deed to transfer this property, you may be giving up all of your interests in this property, such as redemption rights and rights to “surplus funds.” “Surplus funds” are any extra money if the property is sold at the sheriff’s execution sale for more than what is owed on the property. If you have questions, talk to a lawyer before signing.
+
+______________________________________________________________________________
+
+      (2) At or before the time of recording the deed transferring the real property purchased after a complaint has been filed to foreclose a lien on the real property and before the end of the redemption period provided under ORS 18.964, the purchaser shall file for recording in the official record of the county or counties in which the property described in the deed is situated an affidavit stating that the person complied with the notice requirement under subsection (1) of this section. The affidavit may be affixed to the deed transferring the real property. [2019 c.309 §2]
 
  
 
@@ -6793,7 +7047,7 @@ MISCELLANEOUS
 
  
 
-      18.999 Recovery of expenses incurred in enforcing judgment and certain other monetary obligations. This section establishes the right of a plaintiff to recover certain moneys the plaintiff has expended to recover a debt under ORS 18.854 or to enforce a judgment and establishes procedures for that recovery. The following apply to this section:
+      18.999 Recovery of amounts related to attempts to recover debt or enforce judgment. This section establishes the right of a plaintiff to recover amounts related to a plaintiff’s attempts to recover a debt under ORS 18.854 or to enforce a judgment and establishes procedures for that recovery. The following apply to this section:
 
       (1) When a plaintiff receives moneys under a garnishment, attachment or payment, the plaintiff may proceed as follows:
 
@@ -6803,7 +7057,7 @@ MISCELLANEOUS
 
       (2) Moneys recovered under subsection (1)(a) of this section shall not be considered moneys paid on and to be credited against the original judgment or debt sought to be enforced. No additional judgment is necessary to recover moneys in the manner provided in subsection (1)(a) of this section.
 
-      (3) The only moneys a plaintiff may recover under subsection (1)(a) of this section are those described in subsection (4) of this section that the plaintiff has paid to enforce the existing specific judgment or debt that the specific garnishment or attachment was issued to enforce or upon which the payment was received. Moneys recoverable under subsection (1)(a) of this section remain recoverable and, except as provided under subsection (8) of this section, may be recovered from moneys received by the plaintiff under subsequent garnishments, attachments or payments on the same specific judgment or debt.
+      (3) The only moneys a plaintiff may recover under subsection (1)(a) of this section are those described in subsection (4) of this section that arise out of the enforcement of the existing specific judgment or debt that the specific garnishment or attachment was issued to enforce or upon which the payment was received. Moneys recoverable under subsection (1)(a) of this section remain recoverable and, except as provided under subsection (8) of this section, may be recovered from moneys received by the plaintiff under subsequent garnishments, attachments or payments on the same specific judgment or debt.
 
       (4) This section allows the recovery only of the following:
 
@@ -6823,65 +7077,7 @@ MISCELLANEOUS
 
       (G) Costs of execution as provided in ORS 105.112.
 
-      (H) Fees paid to an attorney for issuing a garnishment in an amount not to exceed $45 for each garnishment.
-
-      (I) Costs of an execution sale as described in ORS 18.950 (2).
-
-      (J) Fees paid under ORS 21.200 for motions and responses to motions filed after entry of a judgment.
-
-      (K) Amounts paid to a sheriff for the fees and expenses of executing a warrant under ORS 105.510.
-
-      (L) Fees added to liquidated and delinquent debts under ORS 305.084 (4).
-
-      (b) Interest on the amounts specified in paragraph (a) of this subsection at the rate provided for judgments in ORS 82.010 for the period of time beginning with the expenditure of the amount and ending upon recovery of the amount under this section.
-
-      (5) The plaintiff shall be responsible for doing all of the following:
-
-      (a) Maintaining a precise accounting of moneys recovered under subsection (1)(a) of this section and making the accounting available for any proceeding relating to that judgment or debt.
-
-      (b) Providing reasonable notice to the defendant of moneys the plaintiff recovers under subsection (1)(a) of this section.
-
-      (6) Moneys recovered under subsection (1)(a) of this section remain subject to all other provisions of law relating to payments, or garnished or attached moneys including, but not limited to, those relating to exemption, claim of exemption, overpayment and holding periods.
-
-      (7) Nothing in this section limits the right of a plaintiff to recover moneys described in this section or other moneys in any manner otherwise allowed by law.
-
-      (8) A writ of garnishment or attachment is not valid if issued solely to recover moneys recoverable under subsection (1)(a) of this section unless the right to collect the moneys is first reduced to a judgment or to a debt enforceable under ORS 18.854. [Formerly 18.910; 2007 c.860 §§11,31; 2009 c.659 §§5,7; 2011 c.366 §§3,4; 2011 c.595 §115; 2013 c.685 §39; 2017 c.644 §8; 2017 c.663 §19]
-
- 
-
-      Note: The amendments to 18.999 by section 8, chapter 644, Oregon Laws 2017, become operative July 1, 2018. See section 12, chapter 644, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 19, chapter 663, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      18.999. This section establishes the right of a plaintiff to recover certain moneys the plaintiff has expended to recover a debt under ORS 18.854 or to enforce a judgment and establishes procedures for that recovery. The following apply to this section:
-
-      (1) When a plaintiff receives moneys under a garnishment, attachment or payment, the plaintiff may proceed as follows:
-
-      (a) Before crediting the total amount of moneys received against the judgment or debt, the plaintiff may recover and keep from the total amount received under the garnishment, attachment or payment any moneys allowed to be recovered under this section.
-
-      (b) After recovering moneys as allowed under paragraph (a) of this subsection, the plaintiff shall credit the remainder of the moneys received against the judgment or debt as provided by law.
-
-      (2) Moneys recovered under subsection (1)(a) of this section shall not be considered moneys paid on and to be credited against the original judgment or debt sought to be enforced. No additional judgment is necessary to recover moneys in the manner provided in subsection (1)(a) of this section.
-
-      (3) The only moneys a plaintiff may recover under subsection (1)(a) of this section are those described in subsection (4) of this section that the plaintiff has paid to enforce the existing specific judgment or debt that the specific garnishment or attachment was issued to enforce or upon which the payment was received. Moneys recoverable under subsection (1)(a) of this section remain recoverable and, except as provided under subsection (8) of this section, may be recovered from moneys received by the plaintiff under subsequent garnishments, attachments or payments on the same specific judgment or debt.
-
-      (4) This section allows the recovery only of the following:
-
-      (a) Statutorily established moneys that meet the requirements under subsection (3) of this section, as follows:
-
-      (A) Garnishee’s search fees under ORS 18.790.
-
-      (B) Fees for delivery of writs of garnishment under ORS 18.652.
-
-      (C) Circuit court fees as provided under ORS 21.235 and 21.258.
-
-      (D) County court fees as provided under ORS 5.125.
-
-      (E) County clerk recording fees as provided in ORS 205.320.
-
-      (F) Actual fees or disbursements made under ORS 21.300.
-
-      (G) Costs of execution as provided in ORS 105.112.
-
-      (H) Fees paid to an attorney for issuing a garnishment in an amount not to exceed $45 for each garnishment.
+      (H) An issuance fee in the amount of $47 for each writ issued by an attorney under ORS 18.635 (3).
 
       (I) Costs of an execution sale as described in ORS 18.950 (2).
 
@@ -6901,13 +7097,7 @@ MISCELLANEOUS
 
       (7) Nothing in this section limits the right of a plaintiff to recover moneys described in this section or other moneys in any manner otherwise allowed by law.
 
-      (8) A writ of garnishment or attachment is not valid if issued solely to recover moneys recoverable under subsection (1)(a) of this section unless the right to collect the moneys is first reduced to a judgment or to a debt enforceable under ORS 18.854.
-
- 
-
-      Note: Section 21 (1), chapter 663, Oregon Laws 2017, provides:
-
-      Sec. 21. (1) The amendments to ORS 18.999 and 21.235 (2) by sections 19 and 20 of this 2017 Act apply to writs of garnishment issued on or after October 1, 2017. [2017 c.663 §21 (1)]
+      (8) A writ of garnishment or attachment is not valid if issued solely to recover moneys recoverable under subsection (1)(a) of this section unless the right to collect the moneys is first reduced to a judgment or to a debt enforceable under ORS 18.854. [Formerly 18.910; 2007 c.860 §§11,31; 2009 c.659 §§5,7; 2011 c.366 §§3,4; 2011 c.595 §115; 2013 c.685 §39; 2017 c.644 §8; 2017 c.663 §19; 2018 c.98 §10; 2019 c.605 §19]
 
  
 

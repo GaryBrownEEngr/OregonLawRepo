@@ -29,7 +29,7 @@ DIVISION OF AUDITS OF THE SECRETARY OF STATE’S OFFICE
 
  
 
-297.030     Audits, reviews and investigations authorized to be made by the Secretary of State may be assigned to Division of Audits
+297.030     Audits, reviews and investigations; rules
 
  
 
@@ -37,7 +37,7 @@ DIVISION OF AUDITS OF THE SECRETARY OF STATE’S OFFICE
 
  
 
-297.050     Supply of audit reports to Joint Legislative Audit Committee and Legislative Fiscal Officer
+297.050     Supply of audit reports to Joint Legislative Audit Committee and Legislative Fiscal Officer; peer review
 
  
 
@@ -45,15 +45,31 @@ DIVISION OF AUDITS OF THE SECRETARY OF STATE’S OFFICE
 
  
 
-LEGISLATIVE OVERSIGHT OF AUDITS
+PERFORMANCE AUDITS
 
  
 
-297.065     Oversight of performance and program audits and evaluation by Joint Legislative Audit Committee
+297.065     Oversight of performance audits and evaluation by Joint Legislative Audit Committee
 
  
 
-297.070     Criteria for performance and program audits; rules; contracts with private auditors; audit expenses
+297.070     Performance audits; subpoenas; contracts with private auditors; rules; audit expenses; audit reports; responses to audits
+
+ 
+
+297.076     Audit plans
+
+ 
+
+BUDGET INFORMATION
+
+ 
+
+297.100     Audit information in Governor’s budget; report
+
+ 
+
+297.103     Audit information in Secretary of State budget
 
  
 
@@ -92,8 +108,6 @@ AUDITS OF NONGOVERNMENTAL ENTITIES
  
 
 MUNICIPAL AUDIT LAW
-
- 
 
 297.405     Definitions for ORS 297.020, 297.230, 297.405 to 297.740 and 297.990
 
@@ -177,11 +191,7 @@ MUNICIPAL AUDIT LAW
 
 297.555     Short title
 
- 
-
 ROSTER OF AUTHORIZED ACCOUNTANTS
-
- 
 
 297.670     Board of Accountancy to prepare and maintain roster
 
@@ -239,13 +249,15 @@ DIVISION OF AUDITS OF THE SECRETARY OF STATE’S OFFICE
 
  
 
-      297.020 Functions and duties of Division of Audits; moneys available for use by division. (1) The Division of Audits shall have the function and duty of carrying out the provisions of ORS 297.210, 297.230, 297.405 to 297.555, 297.990 and this section.
+      297.020 Functions and duties of Division of Audits; moneys available for use by division. (1) The Division of Audits shall have the function and duty of carrying out the provisions of ORS 297.070, 297.210, 297.230, 297.405 to 297.555, 297.990 and this section.
 
-      (2) All moneys received under authority of the sections listed in subsection (1) of this section and moneys appropriated for use by the Secretary of State in carrying out the provisions of those sections hereby are made available for use by the Division of Audits. [Amended by 1977 c.774 §19; 1979 c.286 §6]
+      (2) All moneys received under authority of the sections listed in subsection (1) of this section and moneys appropriated for use by the Secretary of State in carrying out the provisions of those sections hereby are made available for use by the Division of Audits. [Amended by 1977 c.774 §19; 1979 c.286 §6; 2019 c.567 §3]
 
  
 
-      297.030 Audits, reviews and investigations authorized to be made by the Secretary of State may be assigned to Division of Audits. The audits, reviews or investigations authorized to be made by the Secretary of State may be assigned to the Division of Audits as a part of its functions and duties. [Amended by 1955 c.287 §18; 1987 c.143 §1]
+      297.030 Audits, reviews and investigations; rules. (1) The audits, reviews or investigations authorized to be made by the Secretary of State may be assigned to the Division of Audits as a part of its functions and duties.
+
+      (2) The Secretary of State may adopt rules, standards and criteria relating to audits conducted by the Division of Audits as the Secretary of State deems necessary or advisable. [Amended by 1955 c.287 §18; 1987 c.143 §1; 2019 c.567 §4]
 
  
 
@@ -253,7 +265,9 @@ DIVISION OF AUDITS OF THE SECRETARY OF STATE’S OFFICE
 
  
 
-      297.050 Supply of audit reports to Joint Legislative Audit Committee and Legislative Fiscal Officer. The Division of Audits of the office of the Secretary of State shall supply the Joint Legislative Audit Committee and the Legislative Fiscal Officer with a copy of each audit report made by or for the Division of Audits. [1959 c.70 §10; 1997 c.847 §5; 2008 c.7 §7; 2017 c.532 §6]
+      297.050 Supply of audit reports to Joint Legislative Audit Committee and Legislative Fiscal Officer; peer review. (1) The Division of Audits of the office of the Secretary of State shall supply the Joint Legislative Audit Committee and the Legislative Fiscal Officer with a copy of each audit report made by or for the Division of Audits.
+
+      (2) The Division of Audits shall cause a periodic peer review to be completed as required by the standards of the United States Government Accountability Office. The Division of Audits shall supply a copy of each peer review report to the committee. [1959 c.70 §10; 1997 c.847 §5; 2008 c.7 §7; 2017 c.532 §6; 2019 c.567 §5]
 
  
 
@@ -261,53 +275,103 @@ DIVISION OF AUDITS OF THE SECRETARY OF STATE’S OFFICE
 
  
 
-LEGISLATIVE OVERSIGHT OF AUDITS
+PERFORMANCE AUDITS
 
  
 
-      297.065 Oversight of performance and program audits and evaluation by Joint Legislative Audit Committee. (1) It is the policy of this state that state government services be delivered with the highest level of desired effectiveness at the lowest possible cost.
+      297.065 Oversight of performance audits and evaluation by Joint Legislative Audit Committee. (1) It is the policy of this state that state government services be delivered with the highest level of desired effectiveness at the lowest possible cost.
 
-      (2) The Joint Legislative Audit Committee shall provide oversight of the conduct of performance and program audits and program evaluations, that are outside the authority of the Secretary of State under section 2, Article VI of the Oregon Constitution, of state departments, boards, commissions, institutions and state-aided institutions and agencies. The joint committee shall review the efforts of state departments, boards, commissions, institutions and state-aided institutions and agencies to comply with the recommendations of the audit or evaluation reports. [1997 c.847 §2]
+      (2) The Joint Legislative Audit Committee may provide oversight of the conduct of performance audits and program evaluations, that are outside the authority of the Secretary of State under section 2, Article VI of the Oregon Constitution, of state departments, boards, commissions, institutions and state-aided institutions and agencies. [1997 c.847 §2; 2019 c.567 §6]
 
  
 
-      297.070 Criteria for performance and program audits; rules; contracts with private auditors; audit expenses. (1) Performance and program audits of all state departments, boards, commissions, institutions and state-aided institutions and agencies shall be conducted on the basis of risk assessment and on standards established by national recognized entities including, but not limited to, the United States Government Accountability Office and the National Association of State Auditors. The Secretary of State shall adopt and the Joint Legislative Audit Committee shall approve rules specifying all criteria to be considered for conducting a performance or program audit under this section. The Secretary of State shall schedule the performance and program audits as directed by the Joint Legislative Audit Committee.
+      297.070 Performance audits; subpoenas; contracts with private auditors; rules; audit expenses; audit reports; responses to audits. (1) Performance audits of all state departments, boards, commissions, institutions and state-aided institutions and agencies conducted by the Division of Audits shall be based on standards for audit services established by nationally recognized entities including, but not limited to, the United States Government Accountability Office.
 
-      (2) The Secretary of State may subpoena witnesses, may require the production of books and papers and rendering of reports in the manner and form that the Secretary of State requires and may do all things necessary to secure a full and thorough audit. The Secretary of State shall report, in writing, to the Legislative Assembly as provided in ORS 192.245. The report shall include a copy of the report on each performance and program audit.
+      (2) The Secretary of State may subpoena witnesses, may require the production of books and papers and rendering of reports in the manner and form that the Secretary of State requires and may do all things necessary to secure a full and thorough audit. If a person fails to comply with any subpoena issued under this subsection, a judge of the circuit court of any county, on application of the Secretary of State, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued from the circuit court.
 
-      (3) The Secretary of State, as State Auditor, shall contract with qualified private sector auditors to conduct audits required by this section, unless the Secretary of State determines that it is not practical or in the public interest to do so. If the Secretary of State determines that it is not practical or in the public interest to contract with qualified private sector auditors, after notifying the Joint Legislative Audit Committee, the Secretary of State shall employ auditors for that purpose and shall include in the written audit report the circumstances that rendered it impractical or not in the public interest to contract with qualified private sector auditors. All contracts for conducting performance and program audits under this section shall be in a form prescribed or approved by the Secretary of State. A copy of each completed contract shall be furnished to the Secretary of State and the Joint Legislative Audit Committee. The Secretary of State shall employ or contract with auditors upon terms and for compensation as the Secretary of State determines are advantageous and advisable.
+      (3) The Secretary of State, as State Auditor, may contract with qualified private sector auditors to conduct audits if the Secretary of State determines that it is in the public interest to do so. All contracts for conducting performance audits under this section shall be in a form prescribed or approved by the Secretary of State. The Secretary of State shall employ or contract with auditors upon terms and for compensation as the Secretary of State determines are advantageous and advisable.
 
       (4) An audit conducted under contract as provided in subsection (3) of this section shall be considered to be conducted by the Division of Audits for purposes of ORS 297.020, 297.050 and 297.535.
 
-      (5) If a person fails to comply with any subpoena issued under subsection (2) of this section, a judge of the circuit court of any county, on application of the Secretary of State, shall compel obedience by proceedings for contempt as in the case of disobedience of the requirements of a subpoena issued from the circuit court.
+      (5) The Secretary of State may enter into an agreement with the department, board, commission, institution, state-aided institution or agency that is the subject of a performance audit for payment of the expenses incurred by the Secretary of State in conducting the audit.
 
-      (6) The Secretary of State may enter into an agreement with the department, board, commission, institution, state-aided institution or agency that is the subject of a performance or program audit for payment of the expenses incurred by the Secretary of State in conducting the audit. The Emergency Board may also make funds available to the Division of Audits to reimburse it for expenses incurred under this section.
+      (6) An audit report that includes information on leading practices must:
 
-      (7) As used in this section:
+      (a) Provide information on whether it is reasonable to believe that adoption of such practices will require resources beyond currently legislatively approved resource levels, and, if so, the potential magnitude of additional resources needed; and
 
-      (a) “Performance audit” includes determining:
+      (b) Identify states or comparable government entities that have implemented identified leading practices.
 
-      (A) Whether an entity described in subsection (1) of this section that is the subject of the audit is acquiring, protecting and using its resources economically and efficiently;
+      (7) An audit report must indicate whether:
 
-      (B) The causes of inefficiencies or uneconomical practices; and
+      (a) Issues identified in the report are already under consideration by the audited entity; and
 
-      (C) Whether the entity has complied with laws and regulations concerning matters of economy and efficiency.
+      (b) Recommendations identified in the report are already in the process of being implemented.
 
-      (b) “Program audit” includes determining:
+      (8) The Division of Audits shall publish all performance audit reports and shall notify the Legislative Assembly and the Legislative Fiscal Officer when such audits are publicly available.
 
-      (A) The extent to which the desired results or benefits of a program established by the Legislative Assembly or other authorizing body are being achieved;
+      (9) An audited entity shall submit written reports to the Division of Audits and the Legislative Fiscal Officer regarding the findings and recommendations of an audit of the entity. The reports must include specific responses to each recommendation, including whether the entity can implement the recommendation without legislative action and anticipated timeframes for implementation of recommendations not requiring legislative action. The reports required under this subsection must be made in a timely manner, as determined by the Division of Audits and the Legislative Fiscal Officer.
 
-      (B) The extent to which the need for or objectives of an ongoing program are necessary or relevant;
+      (10) After receiving a report under subsection (9) of this section, both the Division of Audits and the Legislative Fiscal Officer may conduct an audit follow-up review and may submit a written report regarding the audit follow-up review to the Joint Legislative Audit Committee. The Division of Audits and the Legislative Fiscal Officer shall notify one another about the intent to conduct an audit follow-up review prior to initiation of the review.
 
-      (C) Whether the program complements, duplicates, overlaps or conflicts with other related programs;
+      (11) As used in this section:
 
-      (D) The effectiveness of organizations, programs, activities or functions; and
+      (a) “Audit follow-up review” has the meaning given that term in ORS 171.585.
 
-      (E) Whether the entity described in subsection (1) of this section that is the subject of the audit has complied with laws and regulations applicable to the program. [1997 c.847 §4; 2008 c.7 §8; 2009 c.11 §39; 2017 c.532 §7]
+      (b) “Performance audit” means an audit, the objectives of which include:
+
+      (A) Assessing the extent to which legislative, regulatory and organizational goals and objectives are being achieved and the current status or condition of program operations or progress in implementing legislative requirements within the legislatively approved budget;
+
+      (B) Assessing the ability of alternative approaches to yield improved performance or eliminate factors that inhibit effectiveness;
+
+      (C) Determining whether a program produced documented intended results, including key performance measures, and whether such measures are reliable, valid and relevant;
+
+      (D) Determining whether a program operates within the context of statutory parameters, is accessible to eligible individuals, duplicates, overlaps, or conflicts with other programs, utilizes sound financial practices and information and is efficient and effective in achieving intended results within the legislatively approved budget;
+
+      (E) Determining whether the purpose of a program, the manner in which it is conducted, services delivered, outcomes, the population served, incurred or proposed costs, and revenue received are in compliance with provisions of laws, regulations, contracts, grant agreements or other relevant requirements; and
+
+      (F) Addressing identified risks and weaknesses. [1997 c.847 §4; 2008 c.7 §8; 2009 c.11 §39; 2017 c.532 §7; 2019 c.567 §7]
 
  
 
       297.075 [2011 c.247 §1; repealed by 2013 c.722 §88]
+
+ 
+
+      297.076 Audit plans. (1) The Secretary of State shall, on a fiscal year basis, prepare an annual audit plan for performance audits, as defined in ORS 297.070, of state departments, boards, commissions, institutions and state-aided institutions and agencies. The audit plan must be based on a risk assessment methodology. The Secretary of State shall seek, in the audit plan, to prioritize audits recommended by the Joint Legislative Audit Committee.
+
+      (2) The Division of Audits shall provide a draft of the audit plan and the risk assessment methodology used to prepare the plan to the committee for review and comment no later than February 1 of the fiscal year preceding the fiscal year to which the audit plan applies. No later than 90 days after the close of each regular session of the Legislative Assembly, the Division of Audits shall prepare and provide to the committee an amended audit plan that reflects changes, if any, resulting from legislation.
+
+      (3) The Division of Audits shall publish the audit plan no later than 30 days prior to its implementation. After publication of the audit plan, the Division of Audits shall notify the committee of any substantive changes to the audit plan.
+
+      (4) If the committee recommends an audit not included in the published audit plan, the committee shall provide the Secretary of State with the subject of the audit and available relevant information regarding the subject.
+
+      (5) If the Secretary of State intends to conduct an audit not included in the published audit plan, the Secretary of State shall notify the committee prior to the initiation of the audit. Such notification must include any anticipated change to the published audit plan. If the Secretary of State determines that an additional audit, as well as all audits in the published audit plan, cannot be completed with available resources, the Legislative Assembly may provide funding to the Division of Audits for expenses incurred for the audit. If the Legislative Assembly does not provide such funding, the Secretary of State shall amend the audit plan. [2019 c.567 §8]
+
+ 
+
+      Note: 297.076 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 297 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+BUDGET INFORMATION
+
+ 
+
+      297.100 Audit information in Governor’s budget; report. (1) In the Governor’s budget required under ORS 291.202, the Governor shall identify any new or enhanced funding or savings included in the budget as a result of implementation of audit findings or recommendations.
+
+      (2) Each biennium, the Governor shall prepare a report to accompany the Governor’s budget on the status of implementation of action plans by state agencies in response to audit findings and recommendations. [2019 c.567 §9]
+
+ 
+
+      Note: 297.100 and 297.103 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 297 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      297.103 Audit information in Secretary of State budget. In the agency request budget submitted by the Secretary of State under ORS 291.208, the Secretary of State shall specify the amounts estimated to be expended in the biennium during which the agency request budget is prepared for categories of audit and related services, including fiscal audits, performance audits, information technology audits, the Government Waste Hotline and audit follow-up reviews. [2019 c.567 §10]
+
+ 
+
+      Note: See note under 297.100.
 
  
 
@@ -863,10 +927,6 @@ PENALTIES
 
       297.990 Penalties. In addition to all other penalties, any county court, board of county commissioners or managing or executive officers of any municipal corporation, who violate any of the provisions of ORS 297.405 to 297.555 or fail to have the audits and examinations required by those sections made, upon such violation or failure shall forfeit to the county or other municipality their salaries and fees due them from the county or other municipality; and it shall be unlawful for any officer of such county or municipality to draw any warrant in favor of the members of such court, or such commissioners, or managing or executive officers of such corporation, in payment of such salaries or fees, or to pay the same in any manner. [Amended by 1977 c.774 §23; 1979 c.286 §13]
 
- 
-
-CHAPTERS 298 TO 304 [Reserved for expansion]
-
-_______________
+CHAPTERS 298 TO 304 [Reserved for expansion]_______________
 
  

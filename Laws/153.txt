@@ -249,11 +249,15 @@ MISCELLANEOUS
 
  
 
-VIOLATIONS BUREAU
+VIOLATIONS BUREAUS
 
  
 
-153.800     Violations Bureau; uniform fine schedule
+153.800     Violations Bureau established by court; uniform fine schedule
+
+ 
+
+153.806     Central Violations Bureau; rules
 
  
 
@@ -409,7 +413,7 @@ VIOLATIONS
 
  
 
-      153.020 Presumptive fines; highway work zones, school zones and safety corridors. (1) If a person is charged with a traffic violation, as defined in ORS 801.557, and the enforcement officer issuing the citation notes on the citation that the offense occurred in a highway work zone and is subject to the provisions of ORS 811.230, occurred in a posted school zone and is subject to the provisions of ORS 811.235, or occurred in a safety corridor and is subject to the provisions of ORS 811.483, the presumptive fine for the violation is:
+      153.020 Presumptive fines; highway work zones, school zones and safety corridors. (1) If a person is charged with a traffic violation, as defined in ORS 801.557, and the enforcement officer issuing the citation notes on the citation that the offense occurred in a highway work zone and is subject to the provisions of ORS 811.230, occurred in a posted school zone and is subject to the provisions of ORS 811.235, or occurred in a safety corridor and is subject to the provisions of ORS 811.483 or section 2, chapter 501, Oregon Laws 2019, the presumptive fine for the violation is:
 
       (a) $875 for a Class A violation.
 
@@ -419,7 +423,23 @@ VIOLATIONS
 
       (d) $225 for a Class D violation.
 
-      (2) Any surcharge imposed under ORS 1.188 shall be added to and made a part of the presumptive fine. [2011 c.597 §3; 2012 c.89 §10; 2016 c.78 §4; 2017 c.712 §2]
+      (2) Any surcharge imposed under ORS 1.188 shall be added to and made a part of the presumptive fine. [2011 c.597 §3; 2012 c.89 §10; 2016 c.78 §4; 2017 c.712 §2; 2019 c.501 §3]
+
+ 
+
+      Note: The amendments to 153.020 by section 4, chapter 501, Oregon Laws 2019, become operative January 2, 2026. See section 5, chapter 501, Oregon Laws 2019. The text that is operative on and after January 2, 2026, is set forth for the user’s convenience.
+
+      153.020. (1) If a person is charged with a traffic violation, as defined in ORS 801.557, and the enforcement officer issuing the citation notes on the citation that the offense occurred in a highway work zone and is subject to the provisions of ORS 811.230, occurred in a posted school zone and is subject to the provisions of ORS 811.235, or occurred in a safety corridor and is subject to the provisions of ORS 811.483, the presumptive fine for the violation is:
+
+      (a) $875 for a Class A violation.
+
+      (b) $525 for a Class B violation.
+
+      (c) $325 for a Class C violation.
+
+      (d) $225 for a Class D violation.
+
+      (2) Any surcharge imposed under ORS 1.188 shall be added to and made a part of the presumptive fine.
 
  
 
@@ -493,11 +513,13 @@ VIOLATIONS
 
       (C) If the violation was committed within a city, in the municipal court of the city.
 
-      (3)(a) Except as otherwise provided in paragraph (b) of this subsection, if a violation proceeding is commenced in a county other than the county in which the violation was committed, at the request of the defendant the place of trial may be changed to the county in which the violation was committed. A request for a change of the place of trial shall be made prior to the date set for the trial and shall be governed by the provisions of ORS 131.305 to 131.415 relating to change of venue.
+      (3) A Central Violations Bureau established under ORS 153.806 may conduct violation proceedings for a violation commenced in circuit court notwithstanding the county in which the proceeding is commenced.
+
+      (4)(a) Except as otherwise provided in paragraph (b) of this subsection, if a violation proceeding is commenced in a county other than the county in which the violation was committed, at the request of the defendant the place of trial may be changed to the county in which the violation was committed. A request for a change of the place of trial shall be made prior to the date set for the trial and shall be governed by the provisions of ORS 131.305 to 131.415 relating to change of venue.
 
       (b) A defendant may not request that the place of trial be changed if the violation was committed within a city and the proceeding is commenced in the municipal court of the city.
 
-      (4) Except as specifically provided in this section, venue in violation proceedings in circuit courts is governed by ORS 131.305 to 131.415. [1999 c.1051 §12; 1999 c.1051 §12a; 2003 c.528 §1]
+      (5) Except as specifically provided in this section, venue in violation proceedings in circuit courts is governed by ORS 131.305 to 131.415. [1999 c.1051 §12; 1999 c.1051 §12a; 2003 c.528 §1; 2019 c.60 §3]
 
  
 
@@ -631,11 +653,19 @@ VIOLATIONS
 
       (2) If a defendant is issued a violation citation for careless driving under ORS 811.135 on which a police officer noted that the offense contributed to an accident and that the cited offense appears to have contributed to the serious physical injury or death of a vulnerable user of a public way, the officer may not enter the amount of the presumptive fine on the summons and the defendant must make a first appearance by personally appearing in court at the time indicated in the summons.
 
-      (3) Except as provided in this section, a defendant who has been issued a violation citation may make a first appearance in the matter before the time indicated in the summons by one of the following means:
+      (3)(a) Except as provided in this section, a defendant who has been issued a violation citation may make a first appearance in the matter before the time indicated in the summons by one of the following means:
 
-      (a) The defendant may submit to the court a written or oral request for a trial.
+      (A) The defendant may submit to the court a written or oral request for a trial.
 
-      (b) The defendant may enter a plea of no contest by delivering to the court the summons and a check or money order in the amount of the presumptive fine set forth in the summons. The entry of a plea under the provisions of this paragraph constitutes a waiver of trial and consent to the entry of a judgment forfeiting the presumptive fine. A no contest plea under this section is not subject to the requirements of ORS chapter 135 relating to the entry of pleas and, upon receipt of the plea, the court may enter judgment against the defendant without taking further evidence.
+      (B) The defendant may enter a plea of no contest by:
+
+      (i) Delivering to the court or a Central Violations Bureau established under ORS 153.806 the summons and a check or money order in the amount of the presumptive fine set forth in the summons; or
+
+      (ii) Appearing by electronic or telephonic means and entering the plea with a Central Violations Bureau established under ORS 153.806.
+
+      (b) The entry of a plea under paragraph (a)(B) of this subsection constitutes a waiver of trial and consent to the entry of a judgment forfeiting the presumptive fine.
+
+      (c) A no contest plea under this subsection is not subject to the requirements of ORS chapter 135 relating to the entry of pleas and, upon receipt of the plea, the court may enter judgment against the defendant without taking further evidence.
 
       (4) The court may require that a defendant requesting a trial under subsection (3) of this section deposit an amount equal to the presumptive fine established under ORS 153.019 and 153.020 or such other amount as the court determines appropriate if the defendant has failed to appear in any court on one or more other charges in the past. If the defendant does not deposit the amount specified by the court, the defendant must personally appear in court at the time indicated in the summons. The amount deposited by the defendant may be applied against any fine imposed by the court, and any amount not so applied shall be refunded to the defendant at the conclusion of the proceedings.
 
@@ -643,7 +673,7 @@ VIOLATIONS
 
       (6) If a defendant has entered a no contest plea in the manner provided in subsection (3) of this section, and the court determines that the presumptive fine is not adequate by reason of previous convictions of the defendant, the nature of the offense charged or other circumstances, the court may require that a trial be held unless an additional fine amount is paid by the defendant before a specified date. Notice of an additional fine amount under this subsection may be given to the defendant by mail. In no event may the court require a total fine amount in excess of the maximum fine established for the violation by statute.
 
-      (7) If a defendant fails to make a first appearance on a citation for a traffic violation, as defined by ORS 801.557, fails to make a first appearance on a citation for a violation of ORS 471.430, or fails to appear at any other subsequent time set for trial or other appearance, the driving privileges of the defendant are subject to suspension under ORS 809.220. [1999 c.1051 §17; 2001 c.817 §2; 2007 c.784 §5; 2011 c.597 §§25,313; 2012 c.89 §4]
+      (7) If a defendant fails to make a first appearance on a citation for a traffic violation, as defined by ORS 801.557, fails to make a first appearance on a citation for a violation of ORS 471.430, or fails to appear at any other subsequent time set for trial or other appearance, the driving privileges of the defendant are subject to suspension under ORS 809.220. [1999 c.1051 §17; 2001 c.817 §2; 2007 c.784 §5; 2011 c.597 §§25,313; 2012 c.89 §4; 2019 c.60 §4]
 
  
 
@@ -1369,11 +1399,11 @@ MISCELLANEOUS
 
  
 
-VIOLATIONS BUREAU
+VIOLATIONS BUREAUS
 
  
 
-      153.800 Violations Bureau; uniform fine schedule. (1) Any court of this state may establish a Violations Bureau and designate the clerk or deputy clerk of the court or any other appropriate person to act as a violations clerk for the Violations Bureau. The violations clerk shall serve under the direction and control of the court appointing the clerk.
+      153.800 Violations Bureau established by court; uniform fine schedule. (1) Any court of this state may establish a Violations Bureau and designate the clerk or deputy clerk of the court or any other appropriate person to act as a violations clerk for the Violations Bureau. The violations clerk shall serve under the direction and control of the court appointing the clerk.
 
       (2) A violations clerk may exercise authority over any violation. A justice or municipal court establishing a Violations Bureau shall by order specify the violations that are subject to the authority of the violations clerk.
 
@@ -1395,11 +1425,53 @@ VIOLATIONS BUREAU
 
       (b) Pay the clerk the presumptive fine amount established for the violation. Payment of the presumptive fine amount under this paragraph constitutes consent to forfeiture of the presumptive fine amount and disposition of the violation by the clerk as provided by the rules of the court. Payment of the presumptive fine amount under this paragraph is not consent to forfeiture of the presumptive fine amount if the payment is accompanied by a plea of not guilty or a request for hearing.
 
-      (6) A person who has been found guilty of, or who has signed a plea of no contest to, one or more previous offenses in the preceding 12 months within the jurisdiction of the court may not appear before the violations clerk unless the court, by general order applying to certain specified offenses, permits such appearance. [1995 c.292 §1; 1997 c.801 §149; 1999 c.59 §30; 1999 c.1051 §130; 2011 c.597 §149; 2012 c.89 §8]
+      (6) A person who has been found guilty of, or who has signed a plea of no contest to, one or more previous offenses in the preceding 12 months within the jurisdiction of the court may not appear before the violations clerk unless the court, by general order applying to certain specified offenses, permits such appearance.
+
+      (7) A circuit court may use a Central Violations Bureau established under ORS 153.806 in addition to establishing and operating a Violations Bureau under this section, and may delegate to the State Court Administrator the authority to designate appropriate persons to act as violations clerks for the Central Violations Bureau. [1995 c.292 §1; 1997 c.801 §149; 1999 c.59 §30; 1999 c.1051 §130; 2011 c.597 §149; 2012 c.89 §8; 2019 c.60 §5]
 
  
 
       153.805 [Formerly 136.750; repealed by 1999 c.1051 §32]
+
+ 
+
+      153.806 Central Violations Bureau; rules. (1) The State Court Administrator may establish a Central Violations Bureau for the processing of violations in circuit courts.
+
+      (2)(a) The administrator may designate employees of the administrator to act as violations clerks for the Central Violations Bureau.
+
+      (b) A violations clerk shall serve under the direction and control of the administrator.
+
+      (c) A violations clerk of the Central Violations Bureau may exercise authority over any violation specified by the Chief Justice of the Supreme Court under subsection (4) of this section.
+
+      (3) A circuit court may use a Central Violations Bureau established under this section in addition to establishing and operating a Violations Bureau under ORS 153.800.
+
+      (4) The uniform fine schedule for violations prosecuted in circuit courts established by the Chief Justice of the Supreme Court under ORS 153.800 must specify the violations that are subject to the authority of the Central Violations Bureau violations clerk.
+
+      (5)(a) Except as provided in subsection (7) of this section, a violations clerk shall accept:
+
+      (A) Written appearance or appearance by electronic or telephonic means, waiver of trial, plea of no contest and payment of fine, costs and assessments for violations that are subject to the authority of the violations clerk; or
+
+      (B) Payment of presumptive fine amounts for violations that are subject to the authority of the violations clerk.
+
+      (b) A violations clerk may accept payments made by electronic or telephonic means.
+
+      (c) All amounts must be paid to, receipted by and accounted for by the violations clerk in the same manner as other payments on money judgments are received by the court.
+
+      (6)(a) A person charged with a violation within the authority of the violations clerk may:
+
+      (A) Upon signing an appearance, plea of no contest and waiver of trial, or upon appearing and entering a plea and waiver by electronic or telephonic means, pay the clerk the penalty established for the violation charged, including any costs and assessments authorized by law.
+
+      (B) Pay the clerk the presumptive fine amount established for the violation. Payment of the presumptive fine amount under this paragraph constitutes consent to forfeiture of the presumptive fine amount and disposition of the violation by the clerk as provided by the rules of the court. Payment of the presumptive fine amount under this paragraph is not consent to forfeiture of the presumptive fine amount if the payment is accompanied by a plea of not guilty or a request for hearing.
+
+      (b) Notwithstanding ORS 153.021 and paragraph (a) of this subsection, the violations clerk may offer a reduction in the presumptive fine for a person making payment through the Internet.
+
+      (7) A person who has been found guilty of, or who has signed a plea of no contest to, one or more previous offenses in the preceding 12 months within the jurisdiction of the court may not appear before the violations clerk unless the Chief Justice of the Supreme Court, by general order applying to certain specified offenses, permits such appearance.
+
+      (8) The Chief Justice of the Supreme Court may adopt rules to carry out the provisions of this section. [2019 c.60 §1]
+
+ 
+
+      Note: 153.806 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 153 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1471,12 +1543,6 @@ PENALTIES
 
       153.997 [1991 c.806 §1; repealed by 1999 c.1051 §32]
 
- 
-
-CHAPTERS 154 AND 155
-
-[Reserved for expansion]
-
-_______________
+CHAPTERS 154 AND 155 [Reserved for expansion]_______________
 
  

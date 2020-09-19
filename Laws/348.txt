@@ -4,24 +4,6 @@ Chapter 348 — Student Aid; Education Stability Fund; Planning
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0053
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0023; 2018 Session Laws 0053; 2018 Session Laws 0108
-
- 
-
- 
-
 
  
 
@@ -88,6 +70,18 @@ SCHOLARSHIPS AND GRANTS
  
 
 348.263     Award of moneys from Oregon Opportunity Grant program to reward student persistence and encourage degree completion
+
+ 
+
+348.266     Opportunity Grant Fund
+
+ 
+
+348.267     Marketing of tax credit
+
+ 
+
+348.268     Scholarships for current or former members of National Guard; rules
 
  
 
@@ -323,62 +317,6 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
  
 
-(Alternative Student Loan Program)
-
- 
-
-348.625     Definitions for ORS 348.570 and 348.625 to 348.695
-
- 
-
-348.630     Eligible recipients; limitations; credit check
-
- 
-
-348.635     Establishment of loan terms and conditions
-
- 
-
-348.640     Administration of loans by private lenders; repayment to state; risk of loss
-
- 
-
-348.655     Issuance of revenue bonds; amount; interest tax exempt
-
- 
-
-348.660     Determination to issue revenue bonds; duties of State Treasurer; factors to consider
-
- 
-
-348.665     Laws governing issuance of bonds; powers of State Treasurer
-
- 
-
-348.670     Administrative expenses
-
- 
-
-348.675     Refunding of bonds
-
- 
-
-348.680     Validity of bonds
-
- 
-
-348.685     Covenants in actions authorizing bonds; contents
-
- 
-
-348.690     Liability of state for bonds
-
- 
-
-348.695     Rights and remedies of bondholders and trustees
-
- 
-
 EDUCATION STABILITY FUND
 
  
@@ -404,6 +342,10 @@ OPEN EDUCATIONAL RESOURCES
  
 
 348.750     Definitions; Open Educational Resources Grant Program
+
+ 
+
+348.751     Textbook affordability plan
 
  
 
@@ -581,10 +523,6 @@ GENERALLY
 
  
 
-      Note: 348.100 first applies to the 2018-2019 academic year. See section 3, chapter 320, Oregon Laws 2017.
-
- 
-
       348.105 Loan obligations enforceable against minor. (1) As used in this section:
 
       (a) “Educational institution” means any post-secondary educational institution that is approved or accredited by the Northwest Commission on Colleges and Universities or its successor, by its regional equivalent or by the appropriate official, department or agency of the state or nation in which the institution is located, and that is:
@@ -659,6 +597,32 @@ SCHOLARSHIPS AND GRANTS
 
  
 
+      Note: The amendments to 348.180 by section 16, chapter 384, Oregon Laws 2019, become operative June 30, 2021. See section 28, chapter 384, Oregon Laws 2019. The text that is operative on and after June 30, 2021, is set forth for the user’s convenience.
+
+      348.180. As used in this section and ORS 348.205, 348.250, 348.260 and 348.263:
+
+      (1) “Cost of education” includes but is not limited to, tuition, fees and living expenses.
+
+      (2) “Eligible post-secondary institution” means:
+
+      (a) A public university listed in ORS 352.002;
+
+      (b) A community college operated under ORS chapter 341;
+
+      (c) The Oregon Health and Science University; or
+
+      (d) An Oregon-based, generally accredited, not-for-profit institution of higher education.
+
+      (3) “Qualified student” means any resident student, or student exempted from paying nonresident tuition under ORS 352.287, who plans to attend an eligible post-secondary institution and who:
+
+      (a) Has not achieved a baccalaureate or higher degree from any post-secondary institution;
+
+      (b) Is enrolled in an eligible program as defined by rule of the Higher Education Coordinating Commission; and
+
+      (c) Is making satisfactory academic progress as defined by rule of the commission.
+
+ 
+
       348.183 Legislative intent. The Legislative Assembly recognizes:
 
       (1) That an investment in educational opportunities for all Oregonians is an investment in a strong and stable economy and greater personal opportunities;
@@ -715,7 +679,7 @@ SCHOLARSHIPS AND GRANTS
 
       (b) The director shall establish a minimum amount that a student may receive as a state share. If the director determines that the amount of the state share of a student is below the minimum amount, the student may not receive the state share.
 
-      (c) The director may not reduce the amount of the state share of a student based on amounts available to the student by virtue of being the designated beneficiary of a college savings network account established under ORS 178.300 to 178.355.
+      (c) The director may not reduce the amount of the state share of a student based on amounts available to the student by virtue of being the designated beneficiary of a college savings network account established under ORS 178.300 to 178.360.
 
       (8) Subject to subsection (9) of this section, if the director determines that there are insufficient moneys to award the state share to all qualified students, the director:
 
@@ -801,12 +765,6 @@ SCHOLARSHIPS AND GRANTS
 
  
 
-      Note: Section 5 (2), chapter 624, Oregon Laws 2015, provides:
-
-      Sec. 5. (2) The first report to the committees of the Legislative Assembly related to higher education required under ORS 348.260, as amended by section 4 of this 2015 Act, must be filed by February 1, 2020. [2015 c.624 §5(2)]
-
- 
-
       348.263 Award of moneys from Oregon Opportunity Grant program to reward student persistence and encourage degree completion. (1) In addition to any other form of student financial aid authorized by law, the Higher Education Coordinating Commission may award moneys from the Oregon Opportunity Grant program to qualified students to reward student persistence and encourage completion of degree programs at eligible post-secondary institutions.
 
       (2) Awards made under this section are not subject to the maximum Oregon Opportunity Grant amount established under ORS 348.205.
@@ -827,37 +785,185 @@ SCHOLARSHIPS AND GRANTS
 
  
 
-      348.270 Scholarships for children of public safety officers. (1) In addition to any other scholarships provided by law, the Higher Education Coordinating Commission shall award scholarships to any individual applying for enrollment or enrolled in an institution of higher education who is the natural child, adopted child or stepchild of any public safety officer, reserve officer or volunteer firefighter who, in the line of duty, was killed or so disabled, as determined by the Director of the Office of Student Access and Completion, that:
+      348.266 Opportunity Grant Fund. (1) The Opportunity Grant Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Opportunity Grant Fund shall be credited to the fund.
 
-      (a) The income of the public safety officer is less than that earned by public safety officers performing duties comparable to those performed at the highest rank or grade attained by the public safety officer; or
+      (2) Moneys in the Opportunity Grant Fund shall consist of:
 
-      (b) The income of the reserve officer or volunteer firefighter working in their primary profession or type of employment is less than that earned by individuals in the same profession or type of employment with similar levels of education and experience.
+      (a) Amounts donated to the fund;
 
-      (2) Except as provided in this subsection, scholarships awarded under this section shall be in an amount equal to the amount of tuition and all fees levied by the institution of higher education against the recipient of the scholarship. Scholarships awarded to students who attend independent institutions may not exceed the amount of tuition and all fees levied by the University of Oregon.
+      (b) Amounts appropriated or otherwise transferred to the fund by the Legislative Assembly;
 
-      (3) If a student who is the dependent of a deceased public safety officer, reserve officer or volunteer firefighter continues to remain enrolled in a public university listed in ORS 352.002, a community college or an Oregon-based, regionally accredited independent institution, the student is entitled to renewal of the scholarship until the student has received the equivalent of four years of undergraduate education and four years of post-graduate education.
+      (c) Other amounts deposited in the fund from any source; and
 
-      (4) If a student who is the dependent of a public safety officer, reserve officer or volunteer firefighter with a disability continues to remain enrolled in a public university listed in ORS 352.002, a community college or an Oregon-based, regionally accredited independent institution, the student is entitled to renewal of the scholarship until the student has received the equivalent of four years of undergraduate education.
+      (d) Interest earned by the fund.
 
-      (5) The Director of the Office of Student Access and Completion may require proof of a student’s relationship to a public safety officer, reserve officer or volunteer firefighter described in subsection (1) of this section.
+      (3) Moneys in the fund are continuously appropriated to the Higher Education Coordinating Commission. After the payment of refunds to taxpayers as described in ORS 315.643 and 315.646 and payments to a tax credit marketer for marketing services provided by the marketer as described in ORS 348.267, the balance remaining in the fund shall be used for the Oregon Opportunity Grant program under ORS 348.260.
 
-      (6) As used in this section:
+      (4) Expenditures from the fund are not subject to ORS 291.232 to 291.260. [2018 c.108 §4]
 
-      (a) “Institution of higher education” means a public university listed in ORS 352.002, the Oregon Health and Science University, a community college operated under ORS chapter 341 or an Oregon-based, regionally accredited independent institution.
+ 
 
-      (b) “Public safety officer” means:
+      Note: 348.266 and 348.267 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 348 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
-      (A) A firefighter or police officer as those terms are defined in ORS 237.610.
+ 
 
-      (B) A member of the Oregon State Police.
+      348.267 Marketing of tax credit. The Higher Education Coordinating Commission may hire or contract with a marketer to market the tax credits described in ORS 315.643 to taxpayers. [2018 c.108 §5]
 
-      (C) A police officer commissioned by a university under ORS 352.121 or 353.125.
+ 
 
-      (D) An authorized tribal police officer as defined in ORS 181A.680.
+      Note: See note under 348.266.
 
-      (c) “Reserve officer” has the meaning given that term in ORS 133.005.
+ 
 
-      (d) “Volunteer firefighter” has the meaning given that term in ORS 652.050. [1973 c.784 §1; 1977 c.725 §6; 1995 c.162 §70; 1997 c.515 §1; 2001 c.730 §1; 2007 c.70 §146; 2011 c.506 §36; 2011 c.637 §150; 2011 c.642 §2; 2011 c.644 §§28,51; 2013 c.1 §47,48; 2013 c.116 §§2,3; 2013 c.180 §§36,37; 2013 c.747 §§92,93; 2014 c.12 §§1,2; 2015 c.174 §19; 2015 c.513 §§5,6; 2017 c.66 §36]
+      348.268 Scholarships for current or former members of National Guard; rules. (1) As used in this section:
+
+      (a) “Community college” means a community college operated under ORS chapter 341.
+
+      (b) “Good standing” means the qualified student has a cumulative grade point average of 2.0 or higher at Oregon Health and Science University or the community college, public university listed in ORS 352.002 or qualifying private institution at which the student is enrolled.
+
+      (c) “Qualified student” means a student who:
+
+      (A) Has not achieved a baccalaureate or higher degree from any post-secondary institution;
+
+      (B) Is enrolled and in good standing in:
+
+      (i) An associate degree granting program at a community college;
+
+      (ii) An undergraduate baccalaureate degree granting program at a public university listed in ORS 352.002;
+
+      (iii) An undergraduate baccalaureate degree granting program at a qualifying private institution;
+
+      (iv) An undergraduate baccalaureate degree granting program at Oregon Health and Science University; or
+
+      (v) A program or curriculum designed to lead to a certificate of completion, as defined by the Higher Education Coordinating Commission by rule, at a community college, a public university listed in ORS 352.002, Oregon Health and Science University or a qualifying private institution;
+
+      (C) Is a member of the Oregon National Guard;
+
+      (D) Has completed basic training with the Oregon National Guard or a National Guard of any other state or territory;
+
+      (E) Has completed and submitted the Free Application for Federal Student Aid for each academic year, if eligible to file the application; and
+
+      (F) Has accepted all state and federal aid grants available to the student, including but not limited to federal grants offered by the United States Department of Education and the United States Department of Defense.
+
+      (d) “Qualifying private institution” means a private post-secondary institution that meets the criteria set forth in ORS 348.597 (2).
+
+      (2) A qualified student shall receive a grant under this section in an amount that equals, after the amount of resident tuition is reduced by any amounts received by the qualified student in state and federal aid grants:
+
+      (a) The resident tuition charges at the community college at which the qualified student is enrolled;
+
+      (b) The resident tuition charges at the public university listed in ORS 352.002 at which the qualified student is enrolled;
+
+      (c) The average resident tuition charges to attend a public university listed in ORS 352.002 if the qualified student is enrolled at a qualifying private institution; or
+
+      (d) The resident tuition charges at Oregon Health and Science University if the qualified student is enrolled at Oregon Health and Science University.
+
+      (3) Grants provided under this section shall be awarded to a qualified student for up to:
+
+      (a) 90 credit hours at a community college;
+
+      (b) 180 credit hours at a public university listed in ORS 352.002;
+
+      (c) 180 credit hours at a qualifying private institution; or
+
+      (d) 180 credit hours at Oregon Health and Science University.
+
+      (4) The Higher Education Coordinating Commission shall adopt any rules necessary for the administration of this section, including but not limited to any requirements related to:
+
+      (a) Specifying the form and timelines for submitting an application for a grant under this section;
+
+      (b) Determining whether a person is eligible for a grant under this section; and
+
+      (c) Prescribing grant calculations for qualified students dually enrolled at a community college, a public university, Oregon Health and Science University or a qualifying private institution. [2018 c.53 §2; 2019 c.656 §1]
+
+ 
+
+      Note: The amendments to 348.268 by section 1, chapter 656, Oregon Laws 2019, first apply to tuition assistance provided for the 2020-2021 academic year. See section 2, chapter 656, Oregon Laws 2019. The text that applies prior to the 2020-2021 academic year is set forth for the user’s convenience.
+
+      348.268. (1) As used in this section:
+
+      (a) “Community college” means a community college operated under ORS chapter 341.
+
+      (b) “Good standing” means the qualified student has a cumulative grade point average of 2.0 or higher at the community college or public university listed in ORS 352.002 at which the student is enrolled.
+
+      (c) “Qualified student” means a student who:
+
+      (A) Has not achieved a baccalaureate or higher degree from any post-secondary institution;
+
+      (B) Is enrolled and in good standing in an:
+
+      (i) Associate degree granting program at a community college; or
+
+      (ii) Undergraduate baccalaureate degree granting program at a public university listed in ORS 352.002;
+
+      (C) Is a member of the Oregon National Guard;
+
+      (D) Has completed basic training with the Oregon National Guard or a National Guard of any other state or territory;
+
+      (E) Has completed and submitted the Free Application for Federal Student Aid for each academic year, if eligible to file the application; and
+
+      (F) Has accepted all state and federal aid grants available to the student, including but not limited to federal grants offered by the United States Department of Education and the United States Department of Defense.
+
+      (2) A qualified student shall receive a grant under this section in an amount that equals the resident tuition charges at the community college or public university listed in ORS 352.002 at which the qualified student is enrolled, after the amount of resident tuition is reduced by any amounts received by the qualified student in state and federal aid grants. Grants provided under this section shall be awarded to a qualified student for up to:
+
+      (a) 90 credit hours at a community college; or
+
+      (b) 180 credit hours at a public university listed in ORS 352.002.
+
+      (3) The Higher Education Coordinating Commission shall adopt any rules necessary for the administration of this section, including but not limited to any requirements related to:
+
+      (a) Specifying the form and timelines for submitting an application for a grant under this section;
+
+      (b) Determining whether a person is eligible for a grant under this section; and
+
+      (c) Prescribing grant calculations for qualified students dually enrolled in a community college and a public university.
+
+ 
+
+      Note: 348.268 was added to and made a part of ORS chapter 348 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      348.270 Scholarships for children of public safety officers. (1) In addition to any other scholarships provided by law, the Higher Education Coordinating Commission shall award scholarships to any qualified student who is a child of a public safety officer who has suffered a qualifying death or disability.
+
+      (2) A student who wishes to receive a scholarship under this section shall submit an application in accordance with rules adopted by the commission.
+
+      (3)(a) To be eligible to receive a scholarship under this section, a student must:
+
+      (A) Be a child of a public safety officer who has suffered a qualifying death or disability;
+
+      (B) Be enrolled or have applied for enrollment at an institution of higher education in this state;
+
+      (C) Be under 25 years of age at the time that the student first submits an application under subsection (2) of this section;
+
+      (D) Complete and submit the Free Application for Federal Student Aid for each academic year and accept all state and federal aid grants available to the person, if eligible to file the application; and
+
+      (E) Not have achieved a baccalaureate or higher degree from any post-secondary institution.
+
+      (b) A student who is awarded a scholarship under this section continues to be eligible for the scholarship if the student, in addition to satisfying the criteria specified in paragraph (a) of this subsection, makes satisfactory academic progress, as defined by the institution of higher education at which the student is enrolled.
+
+      (c) A student is eligible to receive a scholarship under this section for a maximum of the equivalent of four academic years.
+
+      (4)(a) Except as provided in paragraph (b) of this subsection, the total amount of a scholarship awarded under this section shall be equal to the amount of tuition and all fees levied by the institution of higher education against the student reduced by any amounts received by the student in state and federal aid grants.
+
+      (b) For a four-year degree program, the maximum amount of a scholarship awarded under this section is $13,000 per academic year.
+
+      (5) As used in this section:
+
+      (a) “Child” means a person’s natural child, adopted child or stepchild.
+
+      (b) “Institution of higher education” has the meaning given that term in ORS 348.582.
+
+      (c) “Permanent total disability” has the meaning given that term in ORS 656.206.
+
+      (d) “Public safety officer” means a corrections officer, fire service professional, parole and probation officer, police officer, reserve officer or youth correction officer, as those terms are defined in ORS 181A.355.
+
+      (e) “Qualifying death or disability” has the meaning given that term in ORS 243.954. [1973 c.784 §1; 1977 c.725 §6; 1995 c.162 §70; 1997 c.515 §1; 2001 c.730 §1; 2007 c.70 §146; 2011 c.506 §36; 2011 c.637 §150; 2011 c.642 §2; 2011 c.644 §§28,51; 2013 c.1 §47,48; 2013 c.116 §§2,3; 2013 c.180 §§36,37; 2013 c.747 §§92,93; 2014 c.12 §§1,2; 2015 c.174 §19; 2015 c.513 §§5,6; 2017 c.66 §36; 2018 c.23 §4]
+
+ 
+
+      Note: Section 5, chapter 23, Oregon Laws 2018, provides:
+
+      Sec. 5. No later than January 1, 2021, the Higher Education Coordinating Commission shall submit a report to the interim committees of the Legislative Assembly related to the judiciary, in the manner provided in ORS 192.245, on the implementation and administration of the scholarship program established under ORS 348.270. [2018 c.23 §5]
 
  
 
@@ -915,6 +1021,10 @@ SCHOLARSHIPS AND GRANTS
 
  
 
+      Note: 348.282 is repealed June 30, 2021. See sections 27 and 28, chapter 384, Oregon Laws 2019.
+
+ 
+
       Note: 348.282 and 348.283 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 348 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -934,6 +1044,10 @@ SCHOLARSHIPS AND GRANTS
       (2) An award under subsection (1) of this section shall be used for the purpose of paying resident tuition. The commission may not award funds under subsection (1) of this section for the purpose of paying for books, supplies, housing, food or any other costs associated with attending a public post-secondary institution.
 
       (3) The commission shall adopt rules necessary for the implementation and administration of this section in consultation with the Department of Education and the public universities listed in ORS 352.002. [2005 c.831 §9; 2009 c.762 §64; 2011 c.637 §153; 2013 c.747 §96; 2013 c.768 §32; 2015 c.767 §113; 2015 c.846 §4]
+
+ 
+
+      Note: 348.283 is repealed June 30, 2021. See sections 27 and 28, chapter 384, Oregon Laws 2019.
 
  
 
@@ -977,11 +1091,15 @@ SCHOLARSHIPS AND GRANTS
 
  
 
+      Note: 348.285 is repealed June 30, 2021. See sections 27 and 28, chapter 384, Oregon Laws 2019.
+
+ 
+
       Note: 348.285 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 348 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
-      348.290 Financial aid to study barbering, hairdressing, manicure and esthetics. The Executive Director of the Office of Student Access and Completion shall apply the interest on the amount transferred to the Oregon Student Assistance Fund under section 4, chapter 377, Oregon Laws 1985, to provide financial aid, as defined in ORS 348.505, to students to study barbering, hairdressing, manicure and esthetics at eligible post-secondary schools. [1985 c.377 §3; 1987 c.31 §19; 2005 c.117 §13; 2011 c.637 §154; 2013 c.747 §98]
+      348.290 Financial aid to study barbering, hairdressing, manicure and esthetics. The Director of the Office of Student Access and Completion shall apply the interest on the amount transferred to the Oregon Student Assistance Fund under section 4, chapter 377, Oregon Laws 1985, to provide financial aid, as defined in ORS 348.505, to students to study barbering, hairdressing, manicure and esthetics at eligible post-secondary schools. [1985 c.377 §3; 1987 c.31 §19; 2005 c.117 §13; 2011 c.637 §154; 2013 c.747 §98; 2019 c.384 §9]
 
  
 
@@ -989,17 +1107,7 @@ SCHOLARSHIPS AND GRANTS
 
       (2) Scholarships awarded under this section shall be in amounts of $5,000 each academic year, for a maximum of two academic years.
 
-      (3) The commission shall adopt rules necessary for the implementation and administration of this section in consultation with the Educator Advancement Council and the Chief Education Office. [2017 c.639 §9]
-
- 
-
-      Note: The amendments to 348.295 by section 26, chapter 639, Oregon Laws 2017, become operative June 30, 2019. See section 72, chapter 774, Oregon Laws 2015, as amended by section 14, chapter 682, Oregon Laws 2015, section 20, chapter 763, Oregon Laws 2015, and section 27, chapter 639, Oregon Laws 2017. The text that is operative on and after June 30, 2019, is set forth for the user’s convenience.
-
-      348.295. (1) In addition to any other form of student financial aid authorized by law, the Higher Education Coordinating Commission may award scholarships to culturally and linguistically diverse teacher candidates to use at approved educator preparation providers, as defined in ORS 342.120, for the purpose of advancing the goal described in ORS 342.437.
-
-      (2) Scholarships awarded under this section shall be in amounts of $5,000 each academic year, for a maximum of two academic years.
-
-      (3) The commission shall adopt rules necessary for the implementation and administration of this section in consultation with the Educator Advancement Council and the Department of Education.
+      (3) The commission shall adopt rules necessary for the implementation and administration of this section in consultation with the Educator Advancement Council and the Department of Education. [2017 c.639 §9; 2017 c.639 §26]
 
  
 
@@ -1409,7 +1517,7 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
  
 
-      348.505 “Financial aid” defined. As used in ORS 348.500 to 348.695, “financial aid” includes loans, grants, scholarships, work opportunities and other forms of financial aid to assist students in completing their post-high-school education. [1967 c.430 §2; 1997 c.652 §33; 1999 c.704 §14; 2007 c.426 §1; 2011 c.637 §170; 2013 c.747 §113]
+      348.505 “Financial aid” defined. As used in ORS 348.500 to 348.621, “financial aid” includes loans, grants, scholarships, work opportunities and other forms of financial aid to assist students in completing their post-high-school education. [1967 c.430 §2; 1997 c.652 §33; 1999 c.704 §14; 2007 c.426 §1; 2011 c.637 §170; 2013 c.747 §113]
 
  
 
@@ -1493,21 +1601,15 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
  
 
-      348.563 Authority of Higher Education Coordinating Commission to require fingerprints. For the purpose of requesting a state or nationwide criminal records check under ORS 181A.195, the Higher Education Coordinating Commission may require the fingerprints of a person who:
+      348.563 Authority of Higher Education Coordinating Commission to require fingerprints. For the purpose of requesting a state or nationwide criminal records check under ORS 181A.195, the Higher Education Coordinating Commission may require the fingerprints of a person who is, or will be, working or providing services in a position:
 
-      (1)(a) Is employed or applying for employment by the Director of the Office of Student Access and Completion; or
+      (1) In which the person has direct access to facilities where students reside or to persons under 18 years of age, elderly persons or persons with disabilities;
 
-      (b) Provides services or seeks to provide services to the director as a contractor or volunteer; and
+      (2) In which the person is providing information technology services and has control over, or access to, information technology systems that would allow the person to harm the information technology systems or the information contained in the systems;
 
-      (2) Is, or will be, working or providing services in a position:
+      (3) In which the person has access to information, the disclosure of which is prohibited by state or federal laws, rules or regulations or information that is defined as confidential under state or federal laws, rules or regulations; or
 
-      (a) In which the person has direct access to facilities where students reside or to persons under 18 years of age, elderly persons or persons with disabilities;
-
-      (b) In which the person is providing information technology services and has control over, or access to, information technology systems that would allow the person to harm the information technology systems or the information contained in the systems;
-
-      (c) In which the person has access to information, the disclosure of which is prohibited by state or federal laws, rules or regulations or information that is defined as confidential under state or federal laws, rules or regulations; or
-
-      (d) That has payroll functions or in which the person has responsibility for receiving, receipting or depositing money or negotiable instruments, for billing, collections or other financial transactions or for purchasing or selling property or has access to property held in trust or to private property in the temporary custody of the state. [2005 c.730 §70; 2011 c.637 §173; 2013 c.747 §117; 2017 c.66 §48]
+      (4) That has payroll functions or in which the person has responsibility for receiving, receipting or depositing money or negotiable instruments, for billing, collections or other financial transactions or for purchasing or selling property or has access to property held in trust or to private property in the temporary custody of the state. [2005 c.730 §70; 2011 c.637 §173; 2013 c.747 §117; 2017 c.66 §48; 2019 c.384 §22]
 
  
 
@@ -1523,7 +1625,7 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
       (A) Investments as provided by ORS 293.701 to 293.857;
 
-      (B) The payment of expenses of the commission in carrying out the purposes of ORS 348.250, 348.285, 348.505 to 348.615, 348.625 to 348.695, 348.696 and 348.992; and
+      (B) The payment of expenses of the commission in carrying out the purposes of ORS 348.250, 348.505 to 348.615, 348.696 and 348.992; and
 
       (C) The purpose of carrying out the provisions of ORS 348.272.
 
@@ -1537,7 +1639,7 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
       (B) Grants, gifts or donations received by the commission for the program.
 
-      (b) Any unexpended funds in the fund at the end of a biennium shall be retained in the fund and may be expended in subsequent biennia. [Formerly 351.665; 1967 c.335 §41; 1967 c.430 §§6, 7; 1969 c.573 §4; 1975 c.520 §5; 1977 c.725 §10; 1981 c.209 §2; 1983 c.639 §1; 1987 c.48 §2; 1987 c.842 §18; 1989 c.966 §32; 1997 c.524 §5; 1999 c.704 §3; 2001 c.599 §6; 2001 c.730 §2; 2003 c.360 §§4,5; 2007 c.293 §§3,4; 2007 c.426 §§4,5; 2009 c.815 §4; 2011 c.358 §3; 2011 c.637 §174; 2011 c.642 §3; 2013 c.747 §118; 2015 c.513 §8; 2015 c.829 §5; 2017 c.17 §29; 2017 c.66 §49]
+      (b) Any unexpended funds in the fund at the end of a biennium shall be retained in the fund and may be expended in subsequent biennia. [Formerly 351.665; 1967 c.335 §41; 1967 c.430 §§6, 7; 1969 c.573 §4; 1975 c.520 §5; 1977 c.725 §10; 1981 c.209 §2; 1983 c.639 §1; 1987 c.48 §2; 1987 c.842 §18; 1989 c.966 §32; 1997 c.524 §5; 1999 c.704 §3; 2001 c.599 §6; 2001 c.730 §2; 2003 c.360 §§4,5; 2007 c.293 §§3,4; 2007 c.426 §§4,5; 2009 c.815 §4; 2011 c.358 §3; 2011 c.637 §174; 2011 c.642 §3; 2013 c.747 §118; 2015 c.513 §8; 2015 c.829 §5; 2017 c.17 §29; 2017 c.66 §49; 2019 c.384 §25]
 
  
 
@@ -1677,7 +1779,7 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
  
 
-      Note: 348.592 was added to and made a part of 348.500 to 348.695 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 348.592 was added to and made a part of 348.500 to 348.621 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1731,7 +1833,7 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
       (c) A school that is exempt from ORS 348.594 to 348.615 under ORS 348.604.
 
-      (3) The Higher Education Coordinating Commission shall issue a separate license to issue degrees to each school that meets the requirements for exemption from evaluation by the office set forth in subsection (2)(a) of this section. The license shall remain in effect if the school continues to meet the requirements of subsection (2)(a) of this section. [2005 c.546 §1; 2007 c.325 §4; 2009 c.172 §1; 2011 c.353 §1; 2011 c.637 §178; 2016 c.30 §3]
+      (3) The Higher Education Coordinating Commission shall issue a separate license to issue degrees to each school that meets the requirements for exemption from evaluation by the commission set forth in subsection (2)(a) of this section. The license shall remain in effect if the school continues to meet the requirements of subsection (2)(a) of this section. [2005 c.546 §1; 2007 c.325 §4; 2009 c.172 §1; 2011 c.353 §1; 2011 c.637 §178; 2016 c.30 §3]
 
  
 
@@ -2145,7 +2247,7 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
  
 
-      348.621 Requirements for tax credit certification application. (1) An application for tax credit certification shall be filed by an employer that has obtained program certification under ORS 348.618 or that has applied for program certification and is awaiting such certification by the Director of the Office of Student Access and Completion.
+      348.621 Requirements for tax credit certification application. (1) An application for tax credit certification shall be filed by an employer that has obtained program certification under ORS 348.618 or that has applied for program certification and is awaiting program certification by the Director of the Office of Student Access and Completion.
 
       (2) The application for tax credit certification shall be filed by the employer with the director. The application shall be filed at the time prescribed by the director, but no later than October 1 of the calendar year in which begins the tax year for which a credit under ORS 315.237 will be claimed.
 
@@ -2161,41 +2263,29 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
       (c) If the employer employs more than 250 employees for the calendar year.
 
-      (6) The director shall send written notice of the amount of the tax credit certification, or written notice that no amount is being certified, to the employer and to the Department of Revenue within 60 days of the date an application is filed under this section.
+      (6) The director shall send written notice of the amount of the tax credit certification, or written notice that no amount is being certified, to the employer within 60 days of the date an application is filed under this section.
 
-      (7) The employer shall keep the written certification in the employer’s records for at least five years and shall furnish the certification to the Department of Revenue if requested. [2001 c.475 §6; 2011 c.637 §192; 2013 c.747 §126; 2017 c.66 §53]
+      (7) The employer shall keep the written certification in the employer’s records for at least five years and shall furnish the certification to the Department of Revenue if requested.
 
- 
+      (8) The Office of Student Access and Completion shall provide information to the Department of Revenue about all tax credit certifications issued under this section, if required by ORS 315.058.
 
-(Alternative Student Loan Program)
-
- 
-
-      348.625 Definitions for ORS 348.570 and 348.625 to 348.695. As used in ORS 348.570 and 348.625 to 348.695:
-
-      (1) “Alternative student loan program” means a program established by the Higher Education Coordinating Commission to fund loans to eligible students, or to qualifying parents of eligible students, to help meet expenses of eligible students of attending post-secondary educational institutions; provided, however, that alternative student loan program loans may be made only to students who have applied for student financial aid under Title IV, Part B of the Higher Education Act of 1965, as amended, and have received information on their eligibility for programs under that Act, or the parents of students who have made such application and received such information.
-
-      (2) “Eligible student” means a student enrolled in an eligible post-secondary educational institution located in Oregon or a student who is an Oregon resident and who is enrolled in an eligible post-secondary educational institution located outside of Oregon. The Director of the Office of Student Access and Completion shall determine, among other things, what constitutes enrollment and which post-secondary educational institutions are eligible institutions under the alternative student loan program.
-
-      (3) “Lender” means an insured institution as defined in ORS 706.008 that is authorized to do business in Oregon and that has entered into an agreement with the Higher Education Coordinating Commission to originate, service and administer alternative student loans in the manner authorized by ORS 348.570 and 348.625 to 348.695. [1987 c.842 §2; 1989 c.131 §1; 1997 c.631 §464; 1999 c.59 §96; 1999 c.704 §16; 2011 c.637 §193; 2013 c.747 §127; 2017 c.66 §54]
+      (9) The Executive Director of the Office of Student Access and Completion may order the suspension or revocation of a tax credit certification issued under ORS 348.618, as provided in ORS 315.061. [2001 c.475 §6; 2011 c.637 §192; 2013 c.747 §126; 2017 c.66 §53; 2019 c.483 §22]
 
  
 
-      348.630 Eligible recipients; limitations; credit check. (1) Loans may be made under the alternative student loan program to an eligible student or to a parent of an eligible student.
-
-      (2) Loans made under the alternative student loan program shall not exceed the eligible costs of education as determined by the Director of the Office of Student Access and Completion, minus other financial aid received, or $10,000, whichever is less, for any eligible student during a single calendar year. Total loans made for any eligible student under the alternative student loan program shall not exceed $40,000.
-
-      (3) Under the alternative student loan program, borrowers shall undergo a credit check by the lender or by the director and shall be creditworthy or provide a creditworthy cosigner. [1987 c.842 §3; 2011 c.637 §194; 2013 c.747 §128; 2107 c.66 §55]
+      348.625 [1987 c.842 §2; 1989 c.131 §1; 1997 c.631 §464; 1999 c.59 §96; 1999 c.704 §16; 2011 c.637 §193; 2013 c.747 §127; 2017 c.66 §54; repealed by 2019 c.384 §26]
 
  
 
-      348.635 Establishment of loan terms and conditions. In consultation with private sector lenders, the Director of the Office of Student Access and Completion shall establish the terms and conditions, including but not limited to maturities and repayment provisions, of student loans for which the director shall provide funding. The director may also set standards of academic achievement which borrowers must maintain to receive loans. [1987 c.842 §4; 2011 c.637 §195; 2013 c.747 §129; 2017 c.66 §56]
+      348.630 [1987 c.842 §3; 2011 c.637 §194; 2013 c.747 §128; 2017 c.66 §55; repealed by 2019 c.384 §26]
 
  
 
-      348.640 Administration of loans by private lenders; repayment to state; risk of loss. (1) The Director of the Office of Student Access and Completion shall provide funding to lenders pursuant to contracts which shall provide, among other things, the terms and conditions under which private sector lenders, using funding made available by the director, shall originate, service and administer loans pursuant to the alternative student loan program. Lenders shall receive and process loan applications from borrowers, perform credit analysis, approve or deny loan requests, and for loans that are approved, originate, document, administer and service the loans. The director shall make provision for payment to lenders of the reasonable costs of origination, servicing and administration of loans. Payment may be made directly by borrowers or by the director, as the director may determine.
+      348.635 [1987 c.842 §4; 2011 c.637 §195; 2013 c.747 §129; 2017 c.66 §56; repealed by 2019 c.384 §26]
 
-      (2) Loans shall be structured in such a manner that anticipated payments of principal and interest shall permit timely repayment of the revenue bonds to be issued by the State of Oregon pursuant to ORS 348.570 and 348.625 to 348.695. As a condition of participation in the alternative student loan program by private sector lenders, the director shall procure from each such lender a guarantee or letter of credit ensuring that the director shall receive full and timely repayment of principal of and interest due on loans originated, serviced and administered by the lender. The director shall provide by contract for payment by the director or by borrowers, as the director may determine, of the reasonable costs of such guarantees or letters of credit. It is the intention of ORS 348.570 and 348.625 to 348.695 that participating private sector lenders, not the director, shall bear the entire risk of loss, nontimely repayment or nonpayment of alternative student loan program loans. [1987 c.842 §5; 2011 c.637 §196; 2013 c.747 §130; 2017 c.66 §57]
+ 
+
+      348.640 [1987 c.842 §5; 2011 c.637 §196; 2013 c.747 §130; 2017 c.66 §57; repealed by 2019 c.384 §26]
 
  
 
@@ -2207,91 +2297,39 @@ HIGHER EDUCATION COORDINATING COMMISSION AND OFFICE OF STUDENT ACCESS AND COMPLE
 
  
 
-      348.655 Issuance of revenue bonds; amount; interest tax exempt. In consultation with the Higher Education Coordinating Commission, the State Treasurer may issue revenue bonds in an amount not to exceed $30 million annually, the proceeds of which shall be used to provide funding for loans to be made pursuant to the alternative student loan program. Interest on the bonds shall be exempt from personal income taxation by the State of Oregon. [1987 c.842 §8; 2011 c.637 §197; 2013 c.747 §131]
+      348.655 [1987 c.842 §8; 2011 c.637 §197; 2013 c.747 §131; repealed by 2019 c.384 §26]
 
  
 
-      348.660 Determination to issue revenue bonds; duties of State Treasurer; factors to consider. (1) If the State Treasurer, in consultation with the Higher Education Coordinating Commission, determines that revenue bonds should be issued under ORS 348.570 and 348.625 to 348.695:
-
-      (a) The State Treasurer, in consultation with the commission, may authorize and issue in the name of the State of Oregon revenue bonds secured by revenues from repayment of loans to finance or refinance in whole or part the costs of the loan program. Refunding bonds may be issued to refinance the revenue bonds.
-
-      (b) The State Treasurer, in consultation with the commission, shall designate the underwriter, trustee and bond counsel and enter into appropriate agreements with each to carry out the provisions of ORS 348.570 and 348.625 to 348.695.
-
-      (2) Any trustee designated by the State Treasurer, in consultation with the commission, must agree to furnish financial statements and audit reports for each bond issue.
-
-      (3) In determining whether to issue revenue bonds under ORS 348.570 and 348.625 to 348.695, the State Treasurer, in consultation with the commission, shall consider:
-
-      (a) The bond market for the types of bonds proposed for issuance.
-
-      (b) The terms and conditions of the proposed issue.
-
-      (c) Any other relevant factors as the State Treasurer, in consultation with the commission, considers necessary to protect the financial integrity of the state. [1987 c.842 §§9,10; 2011 c.637 §198; 2013 c.747 §132]
+      348.660 [1987 c.842 §§9,10; 2011 c.637 §198; 2013 c.747 §132; repealed by 2019 c.384 §26]
 
  
 
-      348.665 Laws governing issuance of bonds; powers of State Treasurer. Bonds authorized under ORS 348.570 and 348.625 to 348.695 shall be issued in accordance with the provisions of ORS chapter 286A. The State Treasurer, in consultation with the Higher Education Coordinating Commission, may establish special accounts or subaccounts in the Oregon Student Assistance Fund established by ORS 348.570 and may pledge the assets or the revenues, or any portion of the assets or revenues, of the alternative student loan program. [1987 c.842 §11; 2007 c.783 §143; 2011 c.637 §199; 2013 c.747 §133; 2015 c.513 §18]
+      348.665 [1987 c.842 §11; 2007 c.783 §143; 2011 c.637 §199; 2013 c.747 §133; 2015 c.513 §18; repealed by 2019 c.384 §26]
 
  
 
-      348.670 Administrative expenses. The administrative expenses of the State Treasurer and the Director of the Office of Student Access and Completion shall be charged against bond proceeds or repayment revenues. [1987 c.842 §12; 2011 c.637 §200; 2013 c.747 §134; 2017 c.66 §58]
+      348.670 [1987 c.842 §12; 2011 c.637 §200; 2013 c.747 §134; 2017 c.66 §58; repealed by 2019 c.384 §26]
 
  
 
-      348.675 Refunding of bonds. The State Treasurer, in consultation with the Higher Education Coordinating Commission, may refund any bonds by the issuance of new bonds, whether the bonds to be refunded have or have not matured. The refunding bonds may be exchanged for bonds to be refunded and the proceeds applied to the purchase, redemption or payment of the bonds. [1987 c.842 §13; 2011 c.637 §201; 2013 c.747 §135]
+      348.675 [1987 c.842 §13; 2011 c.637 §201; 2013 c.747 §135; repealed by 2019 c.384 §26]
 
  
 
-      348.680 Validity of bonds. The validity of bonds issued under ORS 348.570 and 348.625 to 348.695 shall not be dependent on nor be affected by the validity or regularity of any proceeding relating to the loans for which the bonds are issued. The official action authorizing such bonds may provide that the bonds shall contain a recital that they are issued pursuant to ORS 348.570 and 348.625 to 348.695 and such recital shall be conclusive evidence of their validity and of the regularity of their issuance. [1987 c.842 §14]
+      348.680 [1987 c.842 §14; repealed by 2019 c.384 §26]
 
  
 
-      348.685 Covenants in actions authorizing bonds; contents. The official action authorizing the issuance of bonds under ORS 348.570 and 348.625 to 348.695 may contain covenants, notwithstanding that such covenants may limit the exercises of powers conferred by ORS 348.570 and 348.625 to 348.695 in the following respects and in such other respects as the state, acting through the State Treasurer, in consultation with the Higher Education Coordinating Commission, or the designee of the commission, may decide:
-
-      (1) The use and disposition of the revenues from repayment;
-
-      (2) The creation and maintenance of special accounts or subaccounts in the Oregon Student Assistance Fund established by ORS 348.570 and the regulation, use and disposition thereof;
-
-      (3) The purpose or purposes to which the proceeds of sale of bonds may be applied and the use and disposition of such proceeds;
-
-      (4) The events of default and the rights and liabilities arising thereon and the terms and conditions upon which the holders of any bonds may bring any suit or action on such bonds or on any coupons appurtenant thereto;
-
-      (5) The issuance of other or additional bonds or instruments payable from or constituting a charge against the revenues from repayment;
-
-      (6) The keeping of books of account and the inspection and audit of books of account;
-
-      (7) The terms and conditions upon which any or all of the bonds shall become or may be declared due before maturity and the terms and conditions upon which such declaration and its consequences may be waived;
-
-      (8) The rights, liabilities, powers and duties arising upon the breach of any covenants, conditions or obligations;
-
-      (9) The appointing of and vesting in a trustee or trustees of the right to hold or dispose of any funds, accounts, revenues or assets of the alternative student loan program, to receive or assign any pledge of the funds, accounts, revenues or assets or to enforce any covenants made to secure or to pay the bonds, the powers and duties of such trustee or trustees, and the limitation of the liabilities of the trustee or trustees;
-
-      (10) The terms and conditions upon which the holder or holders of the bonds, or the holders of any proportion or percentage of them, may enforce any covenants made under ORS 348.570 and 348.625 to 348.695; and
-
-      (11) A procedure by which the terms of any official action authorizing bonds or of any other contract with bondholders, including but not limited to an indenture of trust or similar instrument, may be amended or abrogated, and the amount of bonds to which the holders may consent, and the manner in which the consent may be given. [1987 c.842 §15; 2011 c.637 §202; 2013 c.747 §136; 2015 c.513 §19]
+      348.685 [1987 c.842 §15; 2011 c.637 §202; 2013 c.747 §136; 2015 c.513 §19; repealed by 2019 c.384 §26]
 
  
 
-      348.690 Liability of state for bonds. (1) Revenue bonds issued under ORS 348.570 and 348.625 to 348.695:
-
-      (a) Shall not be payable from nor charged upon any funds other than the revenue pledged to the payment thereof, except as provided in this section, nor shall the state be subject to any liability thereon. No holder or holders of such bonds shall ever have the right to compel any exercise of the taxing power of the state to pay any such bonds or the interest thereon, nor to enforce payment thereof against any property of the state.
-
-      (b) Shall not constitute a charge, lien or encumbrance, legal or equitable, upon any property of the state other than the Oregon Student Assistance Fund established by ORS 348.570, any account or subaccount thereof or student loans, if any, owned or acquired by the Higher Education Coordinating Commission pursuant to the alternative student loan program.
-
-      (2) Each bond issued under ORS 348.570 and 348.625 to 348.695 shall recite in substance that the bond, including interest on the bond, is payable solely from the revenue pledged to the payment of the bond. No such bond shall constitute a debt of the state or a lending of the credit of the state within the meaning of any constitutional or statutory limitation. However, nothing in ORS 348.570 and 348.625 to 348.695 is intended to impair the rights of holders of bonds to enforce covenants made for the security of the bonds as provided in ORS 348.685. [1987 c.842 §16; 2011 c.637 §203; 2013 c.747 §137; 2015 c.513 §20]
+      348.690 [1987 c.842 §16; 2011 c.637 §203; 2013 c.747 §137; 2015 c.513 §20; repealed by 2019 c.384 §26]
 
  
 
-      348.695 Rights and remedies of bondholders and trustees. Subject to any contractual limitation binding upon the holders of any issue of revenue bonds, or a trustee therefor, including but not limited to the restriction of the exercise of any remedy to a specified proportion or percentage of such holders, any holder of bonds, or any trustee therefor, for the equal benefit and protection of all bondholders similarly situated, may:
-
-      (1) By action or proceeding for legal or equitable remedies, enforce their rights against the state and any of its officers, agents and employees, and may require and compel the state or any such officers, agents or employees to perform and carry out duties and obligations under ORS 348.570 and 348.625 to 348.695 and covenants and agreements with bondholders;
-
-      (2) By action, require the state to account as if it were the trustee of an express trust;
-
-      (3) By action, enjoin any acts or things which may be unlawful or in violation of the right of the bondholders;
-
-      (4) Bring action upon the bonds; and
-
-      (5) Exercise any right or remedy conferred by ORS 348.570 and 348.625 to 348.695 without exhausting and without regard to any other right or remedy conferred by ORS 348.570 and 348.625 to 348.695 or any other law of this state, none of which rights and remedies is intended to be exclusive of any other, and each is cumulative and in addition to every other right and remedy. [1987 c.842 §17]
+      348.695 [1987 c.842 §17; repealed by 2019 c.384 §26]
 
  
 
@@ -2424,6 +2462,30 @@ OPEN EDUCATIONAL RESOURCES
       (f) Address a need not currently met by existing available resources; and
 
       (g) Assist in convening faculty from public universities and community colleges to promote the use of open educational resources within post-secondary education. [2015 c.727 §1]
+
+ 
+
+      Note: See note under 348.748.
+
+ 
+
+      348.751 Textbook affordability plan. (1) Each community college and public university listed in ORS 352.002 shall establish a textbook affordability plan. Each plan established under this section shall:
+
+      (a) Contain measurable goals for increasing textbook affordability, such as:
+
+      (A) Establishing a target amount of student savings that will result from adoption of the plan; or
+
+      (B) Requiring that a certain number of courses offered by the community college or public university be designated as using low-cost or no-cost course materials under ORS 348.757.
+
+      (b) Address how to best mitigate the economic impact of decreased academic bookstore revenue as a result of the increased adoption of low-cost or no-cost open educational resources.
+
+      (c) Set forth the steps the community college or public university will take to advertise the availability of academic courses designated as using low-cost or no-cost course materials under ORS 348.757.
+
+      (d) Contain a statement of support for the academic freedom of faculty and instructors to select high-quality course materials for courses taught by the faculty and instructors.
+
+      (e) Establish a process for faculty and instructors to be informed about available low-cost and no-cost course materials.
+
+      (2) At least one student representative must be included and consulted in the development of each textbook affordability plan established under subsection (1) of this section. [2019 c.189 §2]
 
  
 
@@ -2671,8 +2733,6 @@ PENALTIES
 
  
 
-CHAPTER 349 [Reserved for expansion]
-
-_______________
+CHAPTER 349 [Reserved for expansion]_______________
 
  

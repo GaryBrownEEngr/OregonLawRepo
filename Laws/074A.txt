@@ -259,9 +259,11 @@ GENERAL PROVISIONS
 
  
 
+ 
+
       “Acceptance”                                ORS 74A.2090
 
-      “Beneficiary”                                ORS 74A.1030
+      “Beneficiary”                               ORS 74A.1030
 
       “Beneficiary’s bank”                    ORS 74A.1030
 
@@ -269,23 +271,23 @@ GENERAL PROVISIONS
 
       “Execution date”                          ORS 74A.3010
 
-      “Funds transfer”                            ORS 74A.1040
+      “Funds transfer”                           ORS 74A.1040
 
       “Funds-transfer system rule”        ORS 74A.5010
 
       “Intermediary bank”                     ORS 74A.1040
 
-      “Originator”                                  ORS 74A.1040
+      “Originator”                                 ORS 74A.1040
 
       “Originator’s bank”                      ORS 74A.1040
 
       “Payment by beneficiary’s
 
-      bank to beneficiary”                      ORS 74A.4050
+      bank to beneficiary”                     ORS 74A.4050
 
       “Payment by originator to
 
-      beneficiary”                                   ORS 74A.4060
+      beneficiary”                                  ORS 74A.4060
 
       “Payment by sender
 
@@ -295,7 +297,7 @@ GENERAL PROVISIONS
 
       “Payment order”                           ORS 74A.1030
 
-      “Receiving bank”                          ORS 74A.1030
+      “Receiving bank”                         ORS 74A.1030
 
       “Security procedure”                    ORS 74A.2010
 
@@ -303,15 +305,21 @@ GENERAL PROVISIONS
 
  
 
+ 
+
       (3) The following definitions in ORS chapter 74 apply to this chapter and ORS 71.1010:
 
  
 
-      “Clearing house”                           ORS 74.1040
+ 
+
+      “Clearing house”                          ORS 74.1040
 
       “Item”                                           ORS 74.1040
 
       “Suspends payments”                   ORS 74.1040
+
+ 
 
  
 

@@ -4,20 +4,6 @@ Chapter 475B — Cannabis Regulation
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0103
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0081; 2018 Session Laws 0103
-
- 
-
- 
-
 
  
 
@@ -127,6 +113,10 @@ RECREATIONAL USE OF CANNABIS
 
  
 
+475B.077  Marijuana production as nonconforming land use; alterations to premises; continued use requirement
+
+ 
+
 475B.085  Marijuana plant grow canopies; rules
 
  
@@ -139,7 +129,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-475B.096  Cannabinoid concentrate
+475B.096  Cannabinoid concentrate; kief
 
  
 
@@ -247,7 +237,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-475B.186  Authority to discipline for unregulated commerce
+475B.186  Authority to discipline for unregulated commerce; licensing requirements
 
  
 
@@ -275,7 +265,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-475B.211  Prohibition against selling or delivering marijuana items to persons under 21 years of age
+475B.211  Prohibition against selling or delivering marijuana items to persons under 21 years of age; exception
 
  
 
@@ -312,6 +302,14 @@ RECREATIONAL USE OF CANNABIS
  
 
 475B.251  Purpose of license issued under ORS 475B.010 to 475B.545
+
+ 
+
+475B.253  Labeling of industrial hemp commodity or product
+
+ 
+
+475B.254  Prohibition against sale of certain marijuana items
 
  
 
@@ -371,11 +369,11 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-(Homegrown Marijuana and Homemade Cannabinoid Products or Concentrates)
+(Homegrown Plants and Homemade Cannabinoid Products or Concentrates)
 
  
 
-475B.301  Applicability of provisions to homegrown marijuana and homemade cannabinoid products and concentrates
+475B.301  Applicability of provisions to homegrown plants, homemade cannabinoid products and concentrates, specified possession and delivery
 
  
 
@@ -383,7 +381,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-475B.311  Prohibition against producing, processing or storing homemade cannabinoid extracts
+475B.311  Prohibition against producing, processing or storing homemade cannabinoid extracts, industrial hemp extracts
 
  
 
@@ -455,7 +453,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-(Defenses, Protection and Expungement)
+(Defenses, Protection and Setting Aside of Conviction)
 
  
 
@@ -472,6 +470,10 @@ RECREATIONAL USE OF CANNABIS
  
 
 475B.398  Affirmative defense
+
+ 
+
+475B.401  Order setting aside qualifying marijuana conviction
 
  
 
@@ -544,6 +546,10 @@ RECREATIONAL USE OF CANNABIS
  
 
 475B.496  Repeal of city, county ordinance that prohibits certain establishments
+
+ 
+
+(Temporary provisions relating to Illegal Marijuana Market Enforcement Grant Program are compiled as notes following ORS 475B.496)
 
  
 
@@ -685,6 +691,10 @@ TESTING OF CANNABIS AND CANNABIS PRODUCTS
 
  
 
+475B.593  Advisory committee on standards for testing potency of marijuana and marijuana items
+
+ 
+
 PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
  
@@ -709,7 +719,7 @@ PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
  
 
-475B.625  Dosage requirements; rules
+475B.625  Concentration and servings limits; rules
 
  
 
@@ -873,7 +883,7 @@ MEDICAL USE OF CANNABIS
 
  
 
-475B.807  Authority to designate certain organizations as primary caregivers
+475B.807  Registry identification cardholder ability to designate certain entities as additional caregivers
 
  
 
@@ -913,7 +923,7 @@ MEDICAL USE OF CANNABIS
 
  
 
-475B.831  Possession limits for marijuana plants
+475B.831  Possession limits for plants
 
  
 
@@ -1189,7 +1199,7 @@ RECREATIONAL USE OF CANNABIS
 
       475B.015 Definitions for ORS 475B.010 to 475B.545. As used in ORS 475B.010 to 475B.545:
 
-      (1) “Cannabinoid” means any of the chemical compounds that are the active constituents of marijuana.
+      (1) “Cannabinoid” means any of the chemical compounds that are the active constituents derived from marijuana.
 
       (2) “Cannabinoid concentrate” means a substance obtained by separating cannabinoids from marijuana by:
 
@@ -1221,7 +1231,7 @@ RECREATIONAL USE OF CANNABIS
 
       (C) A cannabinoid extract by itself; or
 
-      (D) Industrial hemp, as defined in ORS 571.300.
+      (D) Industrial hemp, as defined in ORS 571.269.
 
       (6) “Consumer” means a person who purchases, acquires, owns, holds or uses marijuana items other than for the purpose of resale.
 
@@ -1251,7 +1261,11 @@ RECREATIONAL USE OF CANNABIS
 
       (17)(a) “Marijuana” means the plant Cannabis family Cannabaceae, any part of the plant Cannabis family Cannabaceae and marijuana seeds.
 
-      (b) “Marijuana” does not include industrial hemp, as defined in ORS 571.300.
+      (b) “Marijuana” does not include:
+
+      (A) Industrial hemp, as defined in ORS 571.269; or
+
+      (B) Prescription drugs, as that term is defined in ORS 689.005, including those containing one or more cannabinoids, that are approved by the United States Food and Drug Administration and dispensed by a pharmacy, as defined in ORS 689.005.
 
       (18) “Marijuana flowers” means the flowers of the plant genus Cannabis within the plant family Cannabaceae.
 
@@ -1267,7 +1281,7 @@ RECREATIONAL USE OF CANNABIS
 
       (24)(a) “Marijuana seeds” means the seeds of the plant Cannabis family Cannabaceae.
 
-      (b) “Marijuana seeds” does not include the seeds of industrial hemp, as defined in ORS 571.300.
+      (b) “Marijuana seeds” does not include the seeds of industrial hemp, as defined in ORS 571.269.
 
       (25) “Marijuana wholesaler” means a person that purchases marijuana items in this state for resale to a person other than a consumer.
 
@@ -1315,7 +1329,7 @@ RECREATIONAL USE OF CANNABIS
 
       (B) The stalks and roots of marijuana; or
 
-      (C) Waste material that is a by-product of producing or processing marijuana. [2015 c.1 §5; 2015 c.614 §1; 2016 c.24 §63; 2016 c.83 §11; 2017 c.21 §1; 2017 c.183 §46]
+      (C) Waste material that is a by-product of producing or processing marijuana. [2015 c.1 §5; 2015 c.614 §1; 2016 c.24 §63; 2016 c.83 §11; 2017 c.21 §1; 2017 c.183 §46; 2019 c.391 §4]
 
  
 
@@ -1379,7 +1393,9 @@ RECREATIONAL USE OF CANNABIS
 
       (f) To regulate the use of marijuana items for other purposes as deemed necessary or appropriate by the commission.
 
-      (3) Fees collected pursuant to subsection (2)(d)(G) of this section shall be deposited in the Marijuana Control and Regulation Fund established under ORS 475B.296. [2015 c.1 §7; 2015 c.614 §2; 2017 c.183 §47]
+      (g) To establish pilot programs, of not more than three years in duration, to expand access to marijuana for medical use for registry identification cardholders and designated primary caregivers, as defined in ORS 475B.791.
+
+      (3) Fees collected pursuant to subsection (2)(d)(G) of this section shall be deposited in the Marijuana Control and Regulation Fund established under ORS 475B.296. [2015 c.1 §7; 2015 c.614 §2; 2017 c.183 §47; 2019 c.391 §5]
 
  
 
@@ -1413,7 +1429,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.045 Grounds for refusing to issue license or issuing restricted license. (1) The Oregon Liquor Control Commission may not license an applicant under the provisions of ORS 475B.010 to 475B.545 if the applicant is under 21 years of age.
+      475B.045 Grounds for refusing to issue license or issuing restricted license. (1) The Oregon Liquor Control Commission may not license an applicant under the provisions of ORS 475B.010 to 475B.545 or 475B.560 if the applicant is under 21 years of age.
 
       (2) The commission may refuse to issue a license or may issue a restricted license to an applicant under the provisions of ORS 475B.010 to 475B.545 if the commission makes a finding that the applicant:
 
@@ -1449,7 +1465,7 @@ RECREATIONAL USE OF CANNABIS
 
       (B) The person has not been convicted more than once for the manufacture or delivery of marijuana; or
 
-      (c) The possession of marijuana. [2015 c.1 §29; 2015 c.614 §8; 2017 c.183 §51; 2017 c.476 §12; 2017 c.613 §24]
+      (c) The possession of marijuana. [2015 c.1 §29; 2015 c.614 §8; 2017 c.183 §51; 2017 c.476 §12; 2017 c.613 §24; 2019 c.391 §6]
 
  
 
@@ -1539,9 +1555,13 @@ RECREATIONAL USE OF CANNABIS
 
       (b) Must provide proof that the applicant is 21 years of age or older; and
 
-      (c) Must meet the requirements of any rule adopted by the commission under subsection (3) of this section.
+      (c) Must meet the requirements of any rule adopted by the commission under subsections (3) and (4) of this section.
 
-      (3) The commission shall adopt rules that:
+      (3)(a) If the applicant is not the owner of the premises at which the marijuana is to be produced, the applicant shall submit to the commission signed informed consent from the owner of the premises to produce marijuana at the premises.
+
+      (b) The commission may adopt rules regarding the informed consent described in this subsection.
+
+      (4) The commission shall adopt rules that:
 
       (a) Require a marijuana producer to annually renew a license issued under this section;
 
@@ -1557,35 +1577,93 @@ RECREATIONAL USE OF CANNABIS
 
       (g) Require a marijuana producer to meet any public health and safety standards and industry best practices established by the commission by rule related to the production of marijuana or the propagation of immature marijuana plants and marijuana seeds.
 
-      (4) Fees adopted under subsection (3)(b) of this section:
+      (5) Fees adopted under subsection (4)(b) of this section:
 
       (a) May not exceed, together with other fees collected under ORS 475B.010 to 475B.545, the cost of administering ORS 475B.010 to 475B.545;
 
       (b) Shall be in the form of a schedule that imposes a greater fee for premises with more square footage or on which more marijuana plants are grown; and
 
-      (c) Shall be deposited in the Marijuana Control and Regulation Fund established under ORS 475B.296. [2015 c.1 §19; 2015 c.614 §12; 2016 c.24 §1; 2016 c.83 §7; 2017 c.183 §56]
+      (c) Shall be deposited in the Marijuana Control and Regulation Fund established under ORS 475B.296. [2015 c.1 §19; 2015 c.614 §12; 2016 c.24 §1; 2016 c.83 §7; 2017 c.183 §56; 2019 c.145 §1]
 
  
 
-      475B.074 Exemption from requirement to obtain land use compatibility statement. The requirement under ORS 475B.063 to obtain a land use compatibility statement as a condition of receiving a license under ORS 475B.070 does not apply to an applicant if:
+      Note: Sections 1 and 2, chapter 419, Oregon Laws 2019, provide:
 
-      (1) The applicant is applying for a license at an address where a marijuana grow site registered under ORS 475B.810 is located;
+      Sec. 1. (1) The Oregon Liquor Control Commission may, based on the supply of and demand for marijuana, as defined in ORS 475B.015, refuse to issue production licenses under ORS 475B.070 for an amount of time that the commission determines necessary.
 
-      (2) The address is outside of city limits;
+      (2) Subsection (1) of this section does not apply to the renewal of a production license under ORS 475B.070 or to the issuance or reissuance of a production license under ORS 475B.070 necessitated by a change in the location or ownership of a production facility or premises.
 
-      (3) At least one person responsible for a marijuana grow site located at the address first registered with the Oregon Health Authority under ORS 475B.810 before January 1, 2015;
+      (3)(a) Except as provided in paragraph (b) of this subsection, the commission shall process an application for a production license under ORS 475B.070 if the application was received on or before June 15, 2018.
 
-      (4) Each person responsible for a marijuana grow site located at the address first registered with the Oregon Health Authority under ORS 475B.810 before February 1, 2016; and
+      (b) An applicant that submitted an application described in paragraph (a) of this subsection that did not submit a land use compatibility statement required under ORS 475B.063 may submit the land use compatibility statement within 21 days of the effective date of this 2019 Act [June 17, 2019]. If the land use compatibility statement is timely submitted, the commission shall process the application. If a land use compatibility statement is not timely submitted, the commission shall inactivate the application.
 
-      (5) The applicant is applying for a mature marijuana plant grow canopy of:
+      (4) An applicant that submitted an application for a production license under ORS 475B.070 on or before June 15, 2018, may not change:
 
-      (a) 5,000 square feet or less, if the marijuana is produced outdoors; or
+      (a) The location for which an application was submitted; or
 
-      (b) 1,250 square feet or less, if the marijuana is produced indoors. [2016 c.23 §2]
+      (b) Fifty-one percent or more of the ownership of the production facility or the premises for which the application for licensure was submitted.
+
+      (5) The commission shall inactivate an application for a production license under ORS 475B.070 that was received after June 15, 2018.
+
+      (6)(a) The commission shall adopt rules to establish timelines for the completion of applications for production licenses under ORS 475B.070, including rules to specify times by which an applicant must complete any necessary steps for licensing after the applicant’s application is assigned to a commission staff member for processing.
+
+      (b) The commission may adopt other rules as necessary to carry out this section, including rules that enable the commission to pause the processing of an application that has been assigned to a commission staff member in consideration of commission resources to process applications.
+
+      (7)(a) The commission shall study the effects of subsections (1) to (6) of this section on the marijuana industry.
+
+      (b) Not later than December 31 of each year, the commission shall submit a report to an interim committee of the Legislative Assembly related to economic development, in the manner provided in ORS 192.245, on the findings of the study described in this subsection. [2019 c.419 §1]
+
+      Sec. 2. Section 1 of this 2019 Act is repealed on January 2, 2022. [2019 c.419 §2]
+
+ 
+
+      475B.074 Exemption from requirement to obtain land use compatibility statement. (1) The requirement under ORS 475B.063 to obtain a land use compatibility statement as a condition of receiving a license under ORS 475B.070 does not apply to an applicant if:
+
+      (a) The applicant is applying for a license at an address where a marijuana grow site registered under ORS 475B.810 is located;
+
+      (b) The address is outside of city limits;
+
+      (c) At least one person responsible for a marijuana grow site located at the address first registered with the Oregon Health Authority under ORS 475B.810 before January 1, 2015, and is registered with the authority under ORS 475B.810 on the date on which the applicant submitted the application for a license under ORS 475B.070;
+
+      (d) Each person responsible for a marijuana grow site located at the address first registered with the authority under ORS 475B.810 before February 1, 2016, and is registered with the authority under ORS 475B.810 on the date on which the applicant submitted the application for a license under ORS 475B.070; and
+
+      (e) The applicant is applying for a mature marijuana plant grow canopy of:
+
+      (A) 5,000 square feet or less, if the marijuana is produced outdoors; or
+
+      (B) 1,250 square feet or less, if the marijuana is produced indoors.
+
+      (2) For purposes of this section, an applicant for a license under ORS 475B.070 is not required to demonstrate that:
+
+      (a) At least one person responsible for a marijuana grow site located at the address for which the applicant is applying for a license has been continuously registered with the authority under ORS 475B.810 between January 1, 2015, and the date on which the applicant applies for a license under ORS 475B.070; or
+
+      (b) Each person responsible for a marijuana grow site located at the address for which the applicant is applying for a license has been continuously registered with the authority under ORS 475B.810 between February 1, 2016, and the date on which the applicant applies for a license under ORS 475B.070. [2016 c.23 §2; 2019 c.254 §1; 2019 c.391 §7]
 
  
 
       475B.075 [2015 c.614 §13; 2016 c.24 §10; 2017 c.183 §57; renumbered 475B.085 in 2017]
+
+ 
+
+      475B.077 Marijuana production as nonconforming land use; alterations to premises; continued use requirement. (1) A premises for which a marijuana producer holds a production license issued under ORS 475B.070 and that is located in an area subject to the jurisdiction of a city or county that has adopted a prohibition under ORS 475B.968 on marijuana production, or has adopted or amended a county or local ordinance that causes marijuana production to be a nonconforming land use, since the date on which the production license was first issued may continue to be used to produce marijuana.
+
+      (2) A premises described in subsection (1) of this section is not required to be continually owned or operated by the marijuana producer that was first issued a license under ORS 475B.070.
+
+      (3) A land use compatibility statement, in addition to that required for initial licensure, from the city or county is not required for a premises described in subsection (1) of this section if:
+
+      (a) The marijuana producer is applying for licensure renewal; or
+
+      (b) A change in ownership of the premises occurs but does not alter the marijuana plant grow canopy size or whether the marijuana plant grow canopy is indoors or outdoors.
+
+      (4)(a) Alterations may be made to premises described in subsection (1) of this section if the alterations:
+
+      (A) Are necessary in order for the premises to comply with a lawful requirement for alteration in production; or
+
+      (B) In the production or in the buildings, structures or physical improvements associated with the premises have no greater adverse impact to the surrounding area.
+
+      (b) The city or county that has jurisdiction over the premises shall perform an evaluation of proposed alterations and may deny only alterations that do not meet the criteria set out in this subsection.
+
+      (5) If a premises described in subsection (1) of this section is not used for marijuana production for a period of at least 12 calendar months, marijuana production may not be resumed on the premises unless the marijuana production conforms to any zoning requirements or regulations applicable at the time of the proposed resumption. [2019 c.292 §3]
 
  
 
@@ -1651,7 +1729,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.096 Cannabinoid concentrate. (1) Notwithstanding ORS 475B.090, a marijuana producer that holds a license issued under ORS 475B.070 and has a mature marijuana plant grow canopy described in subsection (2) of this section may process marijuana into a cannabinoid concentrate if the process involves separating cannabinoids from marijuana by:
+      475B.096 Cannabinoid concentrate; kief. (1) Notwithstanding ORS 475B.090, a marijuana producer that holds a license issued under ORS 475B.070 and has a mature marijuana plant grow canopy described in subsection (2) of this section may process marijuana into a cannabinoid concentrate if the process involves separating cannabinoids from marijuana by:
 
       (a) A mechanical process; or
 
@@ -1663,7 +1741,11 @@ RECREATIONAL USE OF CANNABIS
 
       (b) For marijuana grown indoors, 1,250 square feet.
 
-      (3) The processing of marijuana under this section must comport with any reasonable condition adopted under ORS 475B.486 that is imposed on the manner in which a marijuana processor licensed under ORS 475B.090 may process marijuana. [2017 c.476 §8]
+      (3)(a) A marijuana producer that holds a license issued under ORS 475B.070 and that has a plant grow canopy determined by rule by the commission, may produce and transfer kief.
+
+      (b) For purposes of this subsection, “kief” means the resinous trichomes of marijuana that accumulate or fall off when marijuana flowers are sifted through a mesh screen or sieve.
+
+      (4) The processing of marijuana under this section must comport with any reasonable condition adopted under ORS 475B.486 that is imposed on the manner in which a marijuana processor licensed under ORS 475B.090 may process marijuana. [2017 c.476 §8; 2019 c.391 §8]
 
  
 
@@ -1749,13 +1831,15 @@ RECREATIONAL USE OF CANNABIS
 
       475B.109 Proximity of marijuana retailer to school. Notwithstanding ORS 475B.105 (2)(d), a marijuana retailer may be located within 1,000 feet of a school if:
 
-      (1) The marijuana retailer is not located within 500 feet of:
+      (1)(a) The marijuana retailer is not located within 500 feet of:
 
-      (a) A public elementary or secondary school for which attendance is compulsory under ORS 339.020; or
+      (A) A public elementary or secondary school for which attendance is compulsory under ORS 339.020; or
 
-      (b) A private or parochial elementary or secondary school, teaching children as described in ORS 339.030 (1)(a); and
+      (B) A private or parochial elementary or secondary school, teaching children as described in ORS 339.030 (1)(a); and
 
-      (2) The Oregon Liquor Control Commission determines that there is a physical or geographic barrier capable of preventing children from traversing to the premises of the marijuana retailer. [2017 c.613 §20]
+      (b) The Oregon Liquor Control Commission determines that there is a physical or geographic barrier capable of preventing children from traversing to the premises of the marijuana retailer; or
+
+      (2) The marijuana retailer was established before August 1, 2017, in accordance with a city or county ordinance adopted under section 29b, chapter 83, Oregon Laws 2016. [2017 c.613 §20; 2018 c.103 §11]
 
  
 
@@ -1807,7 +1891,7 @@ RECREATIONAL USE OF CANNABIS
 
       475B.129 Exclusively medical licensee designation for marijuana wholesaler. (1) The Oregon Liquor Control Commission shall designate any marijuana wholesaler that holds a license issued under ORS 475B.100 and that is registered under ORS 475B.144 as an exclusively medical licensee if the marijuana wholesaler attests, in a form and manner prescribed by the commission, to:
 
-      (a) Selling marijuana items only for a medical purposes;
+      (a) Selling marijuana items only for medical purposes;
 
       (b) Receiving usable marijuana only from marijuana producers registered under ORS 475B.136 and marijuana processors registered under ORS 475B.139;
 
@@ -1863,11 +1947,13 @@ RECREATIONAL USE OF CANNABIS
 
       (5) A marijuana producer registered under this section may not, during a single transaction, provide a registry identification cardholder or the designated primary caregiver of a registry identification cardholder an amount of usable marijuana that exceeds the amount of usable marijuana that a registry identification cardholder and a designated primary caregiver may jointly possess under ORS 475B.834.
 
-      (6)(a) The commission shall adopt rules necessary to administer this section.
+      (6) A marijuana producer registered under this section may provide immature marijuana plants to a person responsible for a marijuana grow site registered under ORS 475B.810, a registry identification cardholder or a designated primary caregiver of a registry identification cardholder.
+
+      (7)(a) The commission shall adopt rules necessary to administer this section.
 
       (b) The rules must establish sanctions for failure to meet the requirements of this section or a rule adopted under this section, including revocation of permission for the marijuana producer’s medically designated grow canopy.
 
-      (c) The rules must provide that any fee adopted by the commission under subsection (2)(d) of this section be in an amount reasonably calculated to not exceed, together with other fees collected under ORS 475B.010 to 475B.545, the cost of administering ORS 475B.010 to 475B.545. [2016 c.83 §2; 2017 c.183 §19]
+      (c) The rules must provide that any fee adopted by the commission under subsection (2)(d) of this section be in an amount reasonably calculated to not exceed, together with other fees collected under ORS 475B.010 to 475B.545, the cost of administering ORS 475B.010 to 475B.545. [2016 c.83 §2; 2017 c.183 §19; 2018 c.103 §2]
 
  
 
@@ -1887,11 +1973,11 @@ RECREATIONAL USE OF CANNABIS
 
       (a) Process marijuana and usable marijuana into medical grade cannabinoid products, cannabinoid concentrates and cannabinoid extracts; and
 
-      (b) Notwithstanding ORS 475B.206, receive marijuana and usable marijuana from, and for a fee process that marijuana and usable marijuana into cannabinoid products, cannabinoid concentrates and cannabinoid extracts for, a registry identification cardholder or the designated primary caregiver of a registry identification cardholder, provided that the cannabinoid products, cannabinoid concentrates and cannabinoid extracts meet the requirements of ORS 475B.550 to 475B.590 and 475B.625.
+      (b) Notwithstanding ORS 475B.206, receive marijuana and usable marijuana from, and for a fee process that marijuana and usable marijuana into cannabinoid products, cannabinoid concentrates and cannabinoid extracts for, a registry identification cardholder or the designated primary caregiver of a registry identification cardholder, provided that the cannabinoid products, cannabinoid concentrates and cannabinoid extracts meet the requirements of ORS 475B.550 to 475B.590 and the concentration standards adopted under ORS 475B.625.
 
       (4)(a) The commission shall adopt rules necessary to administer this section.
 
-      (b) The rules must provide that any fee adopted by the commission under subsection (2)(d) of this section be in an amount reasonably calculated to not exceed, together with other fees collected under ORS 475B.010 to 475B.545, the cost of administering ORS 475B.010 to 475B.545. [2016 c.83 §3; 2017 c.183 §20]
+      (b) The rules must provide that any fee adopted by the commission under subsection (2)(d) of this section be in an amount reasonably calculated to not exceed, together with other fees collected under ORS 475B.010 to 475B.545, the cost of administering ORS 475B.010 to 475B.545. [2016 c.83 §3; 2017 c.183 §20; 2018 c.103 §3]
 
  
 
@@ -2063,9 +2149,27 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.186 Authority to discipline for unregulated commerce. (1) The Legislative Assembly finds and declares that the unregulated commerce of marijuana items constitutes a serious danger to public health and safety.
+      475B.186 Authority to discipline for unregulated commerce; licensing requirements. (1) The Legislative Assembly finds and declares that the unregulated commerce of marijuana items constitutes a serious danger to public health and safety.
 
-      (2) In addition to any other disciplinary action available to the Oregon Liquor Control Commission under ORS 475B.010 to 475B.545, the commission may immediately restrict, suspend or refuse to renew a license issued under ORS 475B.010 to 475B.545 if circumstances create probable cause for the commission to conclude that a licensee has purchased or received a marijuana item from an unlicensed source or that a licensee has sold, stored or transferred a marijuana item in a manner that is not permitted by the licensee’s license. [2017 c.476 §2]
+      (2)(a) A person may not produce, process, transport, deliver or sell a marijuana item unless the person holds a valid license issued under ORS 475B.010 to 475B.545 or a registration issued under ORS 475B.785 to 475B.949 or is exempted under ORS 475B.301.
+
+      (b) A licensee is engaged in the unregulated commerce of marijuana items if the licensee allows a person who does not hold a license issued under ORS 475B.010 to 475B.545 or 475B.560 to engage in an activity that requires a license issued under ORS 475B.010 to 475B.545 or 475B.560.
+
+      (3) In addition to any other disciplinary action available to the Oregon Liquor Control Commission under ORS 475B.010 to 475B.545 or 475B.550 to 475B.590, the commission may immediately:
+
+      (a) Restrict, suspend or refuse to renew a license issued under ORS 475B.010 to 475B.545 or 475B.560 if circumstances create probable cause for the commission to conclude that a licensee has:
+
+      (A) Purchased or received a marijuana item from an unlicensed source; or
+
+      (B) Sold, stored or transferred a marijuana item in a manner that is not permitted by the licensee’s license;
+
+      (b) Restrict, suspend or refuse to renew a license issued under ORS 475B.010 to 475B.545 or 475B.560 if circumstances create probable cause for the commission to believe that a person who does not hold a license issued under ORS 475B.010 to 475B.545 or 475B.560 for the licensed premises engaged, or is engaging, in an activity that requires a license under ORS 475B.010 to 475B.545 or 475B.560; or
+
+      (c) Seize marijuana items from a licensee if circumstances create probable cause for the commission to conclude that the licensee has:
+
+      (A) Engaged, or is engaging, in the unlawful diversion of marijuana items; or
+
+      (B) Allowed, or is allowing, a person who does not hold a license issued under ORS 475B.010 to 475B.545 or 475B.560 to engage in an activity that requires a license issued under ORS 475B.010 to 475B.545 or 475B.560 at the premises for which a license is issued. [2017 c.476 §2; 2019 c.391 §9]
 
  
 
@@ -2103,7 +2207,7 @@ RECREATIONAL USE OF CANNABIS
 
       (b) Revise or render void an order suspending or revoking the permit.
 
-      (2) In cases involving the proposed denial of a license issued under ORS 475B.010 to 475B.545, the applicant for licensure may not withdraw the applicant’s application. [2017 c.183 §13]
+      (2) In cases involving the proposed denial of a permit issued under ORS 475B.266, the applicant for the permit may not withdraw the applicant’s application. [2017 c.183 §13; 2019 c.391 §10]
 
  
 
@@ -2127,15 +2231,17 @@ RECREATIONAL USE OF CANNABIS
 
       (2) A licensee to which marijuana items may be delivered under subsection (1) of this section may receive marijuana items only from:
 
-      (a) A marijuana producer that holds a license issued under ORS 475B.070, marijuana processor that holds a license issued under ORS 475B.090, marijuana wholesaler that holds a license issued under ORS 475B.100 or marijuana retailer that holds a license issued under ORS 475B.105;
+      (a) A marijuana producer that holds a license issued under ORS 475B.070, marijuana processor that holds a license issued under ORS 475B.090, marijuana wholesaler that holds a license issued under ORS 475B.100, marijuana retailer that holds a license issued under ORS 475B.105 or a laboratory licensed under ORS 475B.560;
 
-      (b) A researcher of cannabis that holds a certificate issued under ORS 475B.286 and that transfers limited amounts of marijuana, usable marijuana, cannabinoid products, cannabinoid concentrates and cannabinoid extracts in accordance with procedures adopted under ORS 475B.286 (3)(d) and (e); or
+      (b) A researcher of cannabis that holds a certificate issued under ORS 475B.286 and that transfers limited amounts of marijuana, usable marijuana, cannabinoid products, cannabinoid concentrates and cannabinoid extracts in accordance with procedures adopted under ORS 475B.286 (3)(d) and (e);
 
-      (c) A marijuana grow site registered under ORS 475B.810, marijuana processing site registered under ORS 475B.840, or a medical marijuana dispensary registered under ORS 475B.858, acting in accordance with procedures adopted by the Oregon Liquor Control Commission under ORS 475B.167.
+      (c) A marijuana grow site registered under ORS 475B.810, marijuana processing site registered under ORS 475B.840, or a medical marijuana dispensary registered under ORS 475B.858, acting in accordance with procedures adopted by the Oregon Liquor Control Commission under ORS 475B.167; or
+
+      (d) A marijuana grow site registered under ORS 475B.810, acting in accordance with ORS 475B.825 and any procedures adopted by rule by the commission.
 
       (3) The sale of marijuana items by a marijuana retailer that holds a license issued under ORS 475B.105 must be restricted to the premises for which the license has been issued, but deliveries may be made by a marijuana retailer to consumers pursuant to a bona fide order received at the premises prior to delivery.
 
-      (4) The commission may by order waive the requirements of subsections (1) and (2) of this section to ensure compliance with ORS 475B.010 to 475B.545 or a rule adopted under ORS 475B.010 to 475B.545. An order issued under this subsection does not constitute a waiver of any other requirement of ORS 475B.010 to 475B.545 or any other rule adopted under ORS 475B.010 to 475B.545. [Formerly 475B.160]
+      (4) The commission may by order waive the requirements of subsections (1) and (2) of this section to ensure compliance with ORS 475B.010 to 475B.545 or a rule adopted under ORS 475B.010 to 475B.545. An order issued under this subsection does not constitute a waiver of any other requirement of ORS 475B.010 to 475B.545 or any other rule adopted under ORS 475B.010 to 475B.545. [Formerly 475B.160; 2019 c.391 §11]
 
  
 
@@ -2143,7 +2249,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.211 Prohibition against selling or delivering marijuana items to persons under 21 years of age. A licensee or licensee representative may not sell or deliver a marijuana item to a person under 21 years of age. [Formerly 475B.165]
+      475B.211 Prohibition against selling or delivering marijuana items to persons under 21 years of age; exception. Except for a marijuana retailer registered under ORS 475B.146 to sell or deliver marijuana items to a registry identification cardholder who is 18 years of age or older, a licensee or licensee representative may not sell or deliver a marijuana item to a person under 21 years of age. [Formerly 475B.165; 2019 c.391 §12]
 
  
 
@@ -2153,7 +2259,7 @@ RECREATIONAL USE OF CANNABIS
 
       475B.216 Identification requirement; rules. (1) Subject to subsection (2) of this section, a licensee or licensee representative, before selling or providing a marijuana item to another person, must require the person to produce one of the following pieces of identification:
 
-      (a) The person’s passport.
+      (a) The person’s passport, issued by the United States or a foreign government.
 
       (b) The person’s driver license, issued by the State of Oregon or another state of the United States.
 
@@ -2165,7 +2271,9 @@ RECREATIONAL USE OF CANNABIS
 
       (f) Any other identification card issued by a state or territory of the United States that bears a picture of the person, the name of the person, the person’s date of birth and a physical description of the person.
 
-      (2) The Oregon Liquor Control Commission may adopt rules exempting a licensee or licensee representative from this section. [Formerly 475B.170]
+      (g) The person’s proof of participation in the United States Customs and Border Protection Secure Electronic Network for Travelers Rapid Inspection program or NEXUS program, or successor programs.
+
+      (2) The Oregon Liquor Control Commission may adopt rules exempting a licensee or licensee representative from this section. [Formerly 475B.170; 2019 c.391 §13]
 
  
 
@@ -2205,7 +2313,11 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.227 Prohibition against importing or exporting marijuana items. (1) For purposes of this section, “export” includes placing a marijuana item in any mode of transportation for hire, such as luggage, mail or parcel delivery, even if the transportation of the marijuana item is intercepted prior to the marijuana item leaving this state.
+      475B.227 Prohibition against importing or exporting marijuana items. (1) For purposes of this section:
+
+      (a) “Export” includes placing a marijuana item in any mode of transportation for hire, such as luggage, mail or parcel delivery, even if the transportation of the marijuana item is intercepted prior to the marijuana item leaving this state.
+
+      (b) “Marijuana item” includes industrial hemp products and commodities that contain more than 0.3 percent tetrahydrocannabinol.
 
       (2) A person may not import marijuana items into this state or export marijuana items from this state.
 
@@ -2225,7 +2337,7 @@ RECREATIONAL USE OF CANNABIS
 
       (B) Concerns an amount of marijuana items that exceeds 16 times the applicable maximum amount specified in ORS 475B.337 (1)(a) to (f); or
 
-      (C) Concerns a cannabinoid extract that was not purchased from a marijuana retailer that holds a license issued under ORS 475B.105. [Formerly 475B.185]
+      (C) Concerns a cannabinoid extract that was not purchased from a marijuana retailer that holds a license issued under ORS 475B.105. [Formerly 475B.185; 2018 c.103 §21]
 
  
 
@@ -2287,6 +2399,24 @@ RECREATIONAL USE OF CANNABIS
 
  
 
+      475B.253 Labeling of industrial hemp commodity or product. (1) As used in this section, “industrial hemp” has the meaning given that term in ORS 571.269.
+
+      (2) An industrial hemp product or commodity offered for sale by a marijuana retailer that holds a license issued under ORS 475B.105 must carry a label that clearly identifies whether the product or commodity is derived from hemp or marijuana.
+
+      (3) The Oregon Liquor Control Commission may inspect the premises of a marijuana retailer that holds a license issued under ORS 475B.105 to ensure compliance with this section. [2018 c.103 §19]
+
+ 
+
+      475B.254 Prohibition against sale of certain marijuana items. (1) As used in this section:
+
+      (a) “Consumer” means a person who purchases, acquires, owns, holds or uses marijuana items other than for the purpose of resale.
+
+      (b) “Marijuana item” includes industrial hemp products and commodities that contain more than 0.3 percent tetrahydrocannabinol.
+
+      (2) A person other than a marijuana retailer that holds a license issued under ORS 475B.105 may not sell marijuana items to a consumer. [2018 c.103 §20]
+
+ 
+
       475B.255 [2015 c.1 §57; 2015 c.614 §56; 2016 c.24 §38; 2017 c.21 §113; 2017 c.183 §76; renumbered 475B.311 in 2017]
 
  
@@ -2295,23 +2425,31 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.256 Grounds for revocation, suspension or restriction of license. The Oregon Liquor Control Commission may revoke, suspend or restrict a license issued under ORS 475B.010 to 475B.545 or require a licensee or licensee representative to undergo training if the commission finds or has reasonable ground to believe any of the following to be true:
+      475B.256 Grounds for revocation, suspension or restriction of license. (1) The Oregon Liquor Control Commission may revoke, suspend or restrict a license issued under ORS 475B.010 to 475B.545 or require a licensee or licensee representative to undergo training if the commission finds or has reasonable ground to believe any of the following to be true:
 
-      (1) That the licensee or licensee representative:
+      (a) That the licensee or licensee representative:
 
-      (a) Has violated a provision of ORS 475B.010 to 475B.545 or a rule adopted under ORS 475B.010 to 475B.545.
+      (A) Has violated a provision of ORS 475B.010 to 475B.545 or a rule adopted under ORS 475B.010 to 475B.545.
 
-      (b) Has made any false representation or statement to the commission in order to induce or prevent action by the commission.
+      (B) Has made any false representation or statement to the commission in order to induce or prevent action by the commission.
 
-      (c) Is insolvent or incompetent or physically unable to carry on the management of the establishment of the licensee.
+      (C) Is insolvent or incompetent or physically unable to carry on the management of the establishment of the licensee.
 
-      (d) Is in the habit of using alcoholic liquor, habit-forming drugs, marijuana or controlled substances to excess.
+      (D) Is in the habit of using alcoholic liquor, habit-forming drugs, marijuana or controlled substances to excess.
 
-      (e) Has misrepresented to a customer or the public any marijuana items sold by the licensee or licensee representative.
+      (E) Has misrepresented to a customer or the public any marijuana items sold by the licensee or licensee representative.
 
-      (f) Since the issuance of the license, has been convicted of a felony, of violating any of the marijuana laws of this state, general or local, or of any misdemeanor or violation of any municipal ordinance committed on the premises for which the license has been issued.
+      (F) Since the issuance of the license, has been convicted of a felony, of violating any of the marijuana laws of this state, general or local, or of any misdemeanor or violation of any municipal ordinance committed on the premises for which the license has been issued.
 
-      (2) That there is any other reason that, in the opinion of the commission, based on public convenience or necessity, warrants revoking, suspending or restricting the license. [Formerly 475B.210]
+      (b) That there is any other reason that, in the opinion of the commission, based on public convenience or necessity, warrants revoking, suspending or restricting the license.
+
+      (2)(a) The commission shall revoke a marijuana retailer license issued under ORS 475B.105 if the licensee fails to:
+
+      (A) Pay the tax as required under ORS 475B.710 twice in any four consecutive quarters and the Department of Revenue has issued to the licensee a distraint warrant under ORS 475B.715 for the nonpayment of tax; or
+
+      (B) File a return as required under ORS 475B.710 twice in any four consecutive quarters and the department has issued to the licensee a notice of determination and assessment under ORS 475B.715 for failure to file a return.
+
+      (b) The department’s written notice to the commission that a licensee described under this subsection has failed to pay a tax or file a return twice in any four consecutive quarters, and that the department has issued a distraint warrant or notice of determination and assessment, shall constitute prima facie evidence of the licensee’s failure to pay the tax or file a return. [Formerly 475B.210; 2019 c.391 §14]
 
  
 
@@ -2523,13 +2661,13 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-(Homegrown Marijuana and Homemade Cannabinoid Products or Concentrates)
+(Homegrown Plants and Homemade Cannabinoid Products or Concentrates)
 
  
 
-      475B.301 Applicability of provisions to homegrown marijuana and homemade cannabinoid products and concentrates. ORS 475B.025, 475B.030, 475B.033, 475B.035, 475B.040, 475B.045, 475B.050, 475B.055, 475B.060, 475B.063, 475B.065, 475B.068, 475B.070, 475B.085, 475B.090, 475B.100, 475B.105, 475B.115, 475B.119, 475B.136, 475B.139, 475B.144, 475B.146, 475B.154, 475B.158, 475B.163, 475B.173, 475B.177, 475B.206, 475B.211, 475B.216, 475B.224, 475B.232, 475B.236, 475B.241, 475B.246, 475B.256, 475B.261, 475B.266, 475B.276, 475B.281, 475B.286, 475B.296, 475B.461, 475B.474, 475B.479, 475B.486, 475B.491, 475B.501, 475B.506, 475B.514, 475B.518, 475B.521, 475B.523, 475B.526 and 475B.529 do not apply:
+      475B.301 Applicability of provisions to homegrown plants, homemade cannabinoid products and concentrates, specified possession and delivery. ORS 475B.025, 475B.030, 475B.033, 475B.035, 475B.040, 475B.045, 475B.050, 475B.055, 475B.060, 475B.063, 475B.065, 475B.068, 475B.070, 475B.085, 475B.090, 475B.100, 475B.105, 475B.115, 475B.119, 475B.136, 475B.139, 475B.144, 475B.146, 475B.154, 475B.158, 475B.163, 475B.173, 475B.177, 475B.206, 475B.211, 475B.216, 475B.224, 475B.232, 475B.236, 475B.241, 475B.246, 475B.256, 475B.261, 475B.266, 475B.276, 475B.281, 475B.286, 475B.296, 475B.461, 475B.474, 475B.479, 475B.486, 475B.491, 475B.501, 475B.506, 475B.514, 475B.518, 475B.521, 475B.523, 475B.526 and 475B.529 do not apply:
 
-      (1) To the production or storage of homegrown marijuana at a household by one or more persons 21 years of age and older, if the total amount of homegrown marijuana at the household does not exceed four marijuana plants at any time.
+      (1) To the production or storage of homegrown plants in the genus Cannabis within the plant family Cannabaceae that are otherwise subject to ORS 475B.010 to 475B.545 at a household by one or more persons 21 years of age and older, if the total amount of homegrown plants at the household does not exceed four plants at any time.
 
       (2) To the possession or storage of usable marijuana items at a household by one or more persons 21 years of age or older, if the total amount of usable marijuana at the household does not exceed eight ounces of usable marijuana at any time.
 
@@ -2547,7 +2685,7 @@ RECREATIONAL USE OF CANNABIS
 
       (9) To the delivery of not more than 72 ounces of cannabinoid products in liquid form at a time by a person 21 years of age or older to another person 21 years of age or older for noncommercial purposes.
 
-      (10) To the delivery of not more than 16 ounces of cannabinoid concentrates at a time by a person 21 years of age or older to another person 21 years of age or older for noncommercial purposes. [Formerly 475B.245]
+      (10) To the delivery of not more than 16 ounces of cannabinoid concentrates at a time by a person 21 years of age or older to another person 21 years of age or older for noncommercial purposes. [Formerly 475B.245; 2018 c.116 §21]
 
  
 
@@ -2567,9 +2705,11 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.311 Prohibition against producing, processing or storing homemade cannabinoid extracts. (1) A person other than a marijuana processor that holds a license issued under ORS 475B.090 may not process cannabinoid extracts into a cannabinoid product.
+      475B.311 Prohibition against producing, processing or storing homemade cannabinoid extracts, industrial hemp extracts. (1) A person other than a marijuana processor that holds a license issued under ORS 475B.090 may not process cannabinoid extracts into a cannabinoid product.
 
-      (2) Violation of this section is a Class A misdemeanor. [Formerly 475B.255]
+      (2) A person may not produce, process or store homemade industrial hemp extracts.
+
+      (3) Violation of this section is a Class A misdemeanor. [Formerly 475B.255; 2018 c.116 §22]
 
  
 
@@ -2675,7 +2815,7 @@ RECREATIONAL USE OF CANNABIS
 
       475B.337 Unlawful possession by person 21 years of age or older. (1) Except for licensees and licensee representatives acting in accordance with ORS 475B.010 to 475B.545 and any rule adopted under ORS 475B.010 to 475B.545, it is unlawful for any person 21 years of age or older to possess, knowingly or intentionally:
 
-      (a) An amount of marijuana plants in excess of the amount allowed under ORS 475B.301 (1).
+      (a) An amount of plants in the genus Cannabis within the plant family Cannabaceae in excess of the amount allowed under ORS 475B.301 (1).
 
       (b) More than one ounce of usable marijuana in a public place.
 
@@ -2703,7 +2843,7 @@ RECREATIONAL USE OF CANNABIS
 
       (B) More than eight pounds of usable marijuana in a public place; or
 
-      (C) More than one-quarter ounce of cannabinoid extract that was not purchased from a marijuana retailer that holds a license issued under ORS 475B.105. [2017 c.21 §3]
+      (C) More than one-quarter ounce of cannabinoid extract that was not purchased from a marijuana retailer that holds a license issued under ORS 475B.105. [2017 c.21 §3; 2018 c.116 §23]
 
  
 
@@ -2713,7 +2853,7 @@ RECREATIONAL USE OF CANNABIS
 
       475B.341 Unlawful possession by person under 21 years of age. (1) Except for licensees and licensee representatives acting in accordance with ORS 475B.010 to 475B.545 and any rule adopted under ORS 475B.010 to 475B.545, it is unlawful for any person under 21 years of age to possess, knowingly or intentionally:
 
-      (a) An amount of marijuana plants in excess of the amount allowed under ORS 475B.301 (1).
+      (a) An amount of plants in the genus Cannabis within the plant family Cannabaceae in excess of the amount allowed under ORS 475B.301 (1).
 
       (b) More than one ounce of usable marijuana in a public place.
 
@@ -2735,7 +2875,7 @@ RECREATIONAL USE OF CANNABIS
 
       (b) More than eight pounds of usable marijuana in a public place; or
 
-      (c) More than one-quarter ounce of cannabinoid extract that was not purchased from a marijuana retailer that holds a license issued under ORS 475B.105. [2017 c.21 §4]
+      (c) More than one-quarter ounce of cannabinoid extract that was not purchased from a marijuana retailer that holds a license issued under ORS 475B.105. [2017 c.21 §4; 2018 c.116 §24]
 
  
 
@@ -2771,15 +2911,15 @@ RECREATIONAL USE OF CANNABIS
 
       (3) Unlawful manufacture of a marijuana item is:
 
-      (a) A Class B misdemeanor, if a person 21 years of age or older unlawfully manufactures homegrown marijuana at a household and the total number of homegrown marijuana plants at the household exceeds four marijuana plants but does not exceed eight marijuana plants.
+      (a) A Class B misdemeanor, if a person 21 years of age or older unlawfully manufactures homegrown marijuana at a household and the total number of homegrown plants in the genus Cannabis within the plant family Cannabaceae at the household exceeds four plants but does not exceed eight plants.
 
       (b) A Class C felony, if:
 
-      (A) A person unlawfully manufactures marijuana and the total number of marijuana plants exceeds 12 marijuana plants; or
+      (A) A person unlawfully manufactures marijuana and the total number of plants in the genus Cannabis within the plant family Cannabaceae exceeds 12 plants; or
 
       (B) A person unlawfully manufactures a cannabinoid product or a cannabinoid concentrate and the total amount of cannabinoid products or the total amount of cannabinoid concentrates exceeds twice the applicable maximum amount specified in ORS 475B.337 (1)(d), (e) or (f).
 
-      (c) A Class B felony, if a person unlawfully manufactures a cannabinoid extract. [2017 c.21 §6]
+      (c) A Class B felony, if a person unlawfully manufactures a cannabinoid extract. [2017 c.21 §6; 2018 c.116 §25]
 
  
 
@@ -2959,7 +3099,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-(Defenses, Protection and Expungement)
+(Defenses, Protection and Setting Aside of Conviction)
 
  
 
@@ -3027,6 +3167,40 @@ RECREATIONAL USE OF CANNABIS
 
  
 
+      475B.401 Order setting aside qualifying marijuana conviction. (1) Notwithstanding ORS 137.225, a person with a qualifying marijuana conviction may apply to the court in which the judgment of conviction was entered for entry of an order setting aside the conviction as provided in this section.
+
+      (2)(a) The person may file a motion under this section at any time following entry of judgment of conviction for a qualifying marijuana conviction.
+
+      (b) A person filing a motion under this section is not required to pay the filing fee established under ORS 21.135 or any other fee, or file a set of fingerprints.
+
+      (c) No background check or identification by the Department of State Police is required to set aside a conviction under this section.
+
+      (3)(a) At the time of filing the motion, the person shall serve a copy of the motion upon the office of the prosecuting attorney of the jurisdiction in which the judgment of conviction was entered.
+
+      (b) The prosecuting attorney, within 30 days after the filing of the motion under paragraph (a) of this subsection, may file an objection to granting the motion only on the basis that the person’s conviction is not a qualifying marijuana conviction.
+
+      (c) If no objection from the prosecuting attorney is received by the court within 30 days after the filing of the motion, the court shall grant the motion and enter an order as described in subsection (5) of this section.
+
+      (4) If the court receives an objection from the prosecuting attorney, the court shall hold a hearing to determine whether the conviction sought to be set aside is a qualifying marijuana conviction. The person has the burden of establishing, by a preponderance of the evidence, that the conviction is a qualifying marijuana conviction. If the court determines that the conviction is a qualifying marijuana conviction, the court shall grant the motion and enter an order as provided in subsection (5) of this section.
+
+      (5) Upon granting a motion to set aside a qualifying marijuana conviction under this section, the court shall enter an appropriate order. Upon the entry of the order, the person for purposes of the law shall be deemed not to have been previously convicted and the court shall issue an order sealing the record of conviction and other official records in the case, including the records of arrest, citation or charge.
+
+      (6) The clerk of the court shall forward a certified copy of the order to such agencies as directed by the court. A certified copy must be sent to the Department of Corrections when the person has been in the custody of the Department of Corrections. Upon entry of the order, the conviction, arrest, citation, charge or other proceeding shall be deemed not to have occurred, and the person may answer accordingly any questions relating to its occurrence.
+
+      (7) As used in this section:
+
+      (a) “Prosecuting attorney” means a district attorney or a city attorney with a prosecutorial function.
+
+      (b) “Qualifying marijuana conviction” means a conviction for a marijuana offense:
+
+      (A) Based on conduct described in ORS 475B.301 or possession of less than one ounce of the dried leaves, stems or flowers of marijuana;
+
+      (B) Committed prior to July 1, 2015; and
+
+      (C) For which the person has completed and fully complied with or performed the sentence of the court. [2019 c.459 §2]
+
+ 
+
       475B.405 [Formerly 475.346; renumbered 475B.788 in 2017]
 
  
@@ -3051,7 +3225,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.416 Civil penalty for violating ORS 475B.010 to 475B.545. In addition to any other liability or penalty provided by law, the Oregon Liquor Control Commission may impose for each violation of a provision of ORS 475B.010 to 475B.545 or a rule adopted under ORS 475B.010 to 475B.545 a civil penalty that does not exceed $5,000 for each violation. The commission shall impose civil penalties under this section in the manner provided by ORS 183.745. Moneys collected under this section shall be deposited in the Marijuana Control and Regulation Fund established under ORS 475B.296. [Formerly 475B.295]
+      475B.416 Civil penalty for violating ORS 475B.010 to 475B.545. In addition to any other liability or penalty provided by law, the Oregon Liquor Control Commission may impose for each violation of a provision of ORS 475B.010 to 475B.545 or a rule adopted under ORS 475B.010 to 475B.545 a civil penalty that does not exceed $10,000 for each violation. The commission shall impose civil penalties under this section in the manner provided by ORS 183.745. Moneys collected under this section shall be deposited in the General Fund. [Formerly 475B.295; 2018 c.98 §8; 2019 c.391 §15]
 
  
 
@@ -3343,11 +3517,57 @@ RECREATIONAL USE OF CANNABIS
 
       (a) To the Oregon Health Authority, in a form and manner prescribed by the authority, if the ordinance concerns a medical marijuana dispensary registered under ORS 475B.858 or a marijuana processing site registered under ORS 475B.840; or
 
-      (b) To the commission, in a form and manner prescribed by the commission, if the ordinance concerns a premises for which a license has been issued under ORS 475B.010 to 475B.545. [2016 c.24 §30; 2017 c.183 §29]
+      (b)(A) To the commission, in a form and manner prescribed by the commission, if the ordinance concerns a premises for which a license has been issued under ORS 475B.010 to 475B.545; and
+
+      (B) To the Oregon Department of Administrative Services, in a form and manner prescribed by the department, within 30 days of enactment of the repeal of the ordinance, if the ordinance concerns a premises for which issuance of a license is required under ORS 475B.070, 475B.090, 475B.100 or 475B.105. [2016 c.24 §30; 2017 c.183 §29; 2019 c.599 §3]
 
  
 
       Note: 475B.496 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 475B or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+(Temporary provisions relating to Illegal Marijuana Market Enforcement Grant Program)
+
+Note: Sections 13 to 17 and 26, chapter 103, Oregon Laws 2018, provide:
+
+      Sec. 13. (1) The Illegal Marijuana Market Enforcement Grant Program is established to assist cities and counties with the costs incurred by local law enforcement agencies in addressing unlawful marijuana cultivation or distribution operations.
+
+      (2) The Oregon Criminal Justice Commission shall administer the grant program described in subsection (1) of this section and shall award the grants described in this section.
+
+      (3) The commission shall adopt rules to administer the grant program. Rules adopted under this section must include:
+
+      (a) A methodology for reviewing and approving grant applications and awarding grants; and
+
+      (b) A process for evaluating the efficacy of local law enforcement programs and services funded by the grant program.
+
+      (4) Moneys distributed to grant recipients under this section must be spent on costs associated with addressing and prosecuting unlawful marijuana cultivation or distribution operations.
+
+      (5) The commission shall prioritize the following when awarding grants under this section:
+
+      (a) Providing financial assistance to local law enforcement agencies and district attorneys in rural areas of this state to address unlawful marijuana cultivation or distribution operations;
+
+      (b) Supporting local law enforcement agencies and district attorneys in investigating and prosecuting large-scale unlawful marijuana cultivation or distribution operations;
+
+      (c) Providing financial assistance to local law enforcement agencies and district attorneys in the investigation and prosecution of organized crime involved in unlawful marijuana cultivation or distribution operations; and
+
+      (d) Providing financial assistance to local law enforcement agencies and district attorneys in the investigation and prosecution of unlawful marijuana cultivation or distribution operations that divert marijuana outside of this state. [2018 c.103 §13]
+
+      Sec. 14. Not later than January 1, 2020, and not later than January 1 each year thereafter, the Oregon Criminal Justice Commission shall submit a report in the manner provided in ORS 192.245 on the status and effectiveness of the Illegal Marijuana Market Enforcement Grant Program established under section 13 of this 2018 Act to the interim committees of the Legislative Assembly related to the judiciary. [2018 c.103 §14]
+
+      Sec. 15. The Illegal Marijuana Market Enforcement Grant Program Fund is established in the State Treasury separate and distinct from the General Fund. Moneys in the Illegal Marijuana Market Enforcement Grant Program Fund are continuously appropriated to the Oregon Criminal Justice Commission for the purposes of carrying out the provisions of section 13 of this 2018 Act. Interest earned by the fund shall be credited to the fund. [2018 c.103 §15]
+
+      Sec. 16. (1) Notwithstanding ORS 475B.759, before making any other distribution from the Oregon Marijuana Account established under ORS 475B.759, the Department of Revenue shall first distribute quarterly from the account the following:
+
+      (a) $875,000 to the Oregon Liquor Control Commission for deposit in the Marijuana Control and Regulation Fund established under ORS 475B.296; and
+
+      (b) $375,000 to the Oregon Criminal Justice Commission for deposit into the Illegal Marijuana Market Enforcement Grant Program Fund established under section 15 of this 2018 Act for the purposes of paying the costs incurred by the commission in carrying out the provisions of section 13 of this 2018 Act.
+
+      (2) The final distribution made under subsection (1) of this section shall be made in the fiscal quarter beginning on October 1, 2023. [2018 c.103 §16]
+
+      Sec. 17. Any balance in the Illegal Marijuana Market Enforcement Grant Program Fund that is unexpended and unobligated on the date of repeal of section 15 of this 2018 Act, and all moneys that would have been deposited in the Illegal Marijuana Market Enforcement Grant Program Fund had section 15 of this 2018 Act remained in effect, shall be transferred to and deposited in the Marijuana Control and Regulation Fund, and are appropriated for expenditure as in the case of other moneys in the Marijuana Control and Regulation Fund. [2018 c.103 §17]
+
+      Sec. 26. Sections 13 to 16 of this 2018 Act are repealed on January 2, 2024. [2018 c.103 §26]
 
  
 
@@ -3417,6 +3637,44 @@ RECREATIONAL USE OF CANNABIS
 
  
 
+      Note: Sections 1, 2 and 3, chapter 464, Oregon Laws 2019, provide:
+
+      Sec. 1. Section 2 of this 2019 Act is added to and made a part of ORS 475B.010 to 475B.545. [2019 c.464 §1]
+
+      Sec. 2. (1) The Governor may enter into an agreement with another state for the purposes of:
+
+      (a) Cross-jurisdictional coordination and enforcement of marijuana-related businesses authorized to conduct business in either this state or the other state; and
+
+      (b) Cross-jurisdictional delivery of marijuana items between this state and the other state.
+
+      (2) An agreement entered into under this section:
+
+      (a) Must ensure enforceable public health and safety standards, and include a system to regulate and track the interstate delivery of marijuana items;
+
+      (b) Must ensure that any marijuana items delivered into this state, prior to sale to a consumer, are:
+
+      (A) Tested in accordance with ORS 475B.550 to 475B.590 and any rules adopted pursuant to ORS 475B.550 to 475B.590; and
+
+      (B) Packaged and labeled in accordance with ORS 475B.600 to 475B.655 and any rules adopted pursuant to ORS 475B.600 to 475B.655; and
+
+      (c) May authorize one or more agencies of this state to provide policy recommendations and assist in the implementation and enforcement of the terms of the agreement.
+
+      (3) Notwithstanding ORS 475B.227 and in accordance with an agreement described in this section:
+
+      (a) A marijuana producer, marijuana processor, marijuana wholesaler or marijuana researcher certified under ORS 475B.286 may deliver marijuana items to a person located in, and authorized to receive marijuana items by, the other state.
+
+      (b) A marijuana processor, marijuana wholesaler, marijuana retailer or marijuana researcher certified under ORS 475B.286 may receive marijuana items from a person located in, and authorized to export marijuana items by, the other state. [2019 c.464 §2]
+
+      Sec. 3. (1) Section 2 of this 2019 Act becomes operative on the earlier of the date on which:
+
+      (a) Federal law is amended to allow for the interstate transfer of marijuana items between authorized marijuana-related businesses; or
+
+      (b) The United States Department of Justice issues an opinion or memorandum allowing or tolerating the interstate transfer of marijuana items between authorized marijuana-related businesses.
+
+      (2) The Oregon Liquor Control Commission shall notify the interim committees of the Legislative Assembly related to the judiciary and the Legislative Counsel upon the occurrence of an event described in subsection (1) of this section. [2019 c.464 §3]
+
+ 
+
       475B.525 [Formerly 475.338; renumbered 475B.949 in 2017]
 
  
@@ -3455,7 +3713,7 @@ RECREATIONAL USE OF CANNABIS
 
  
 
-      475B.529 Regulation of marijuana items as food or other commodity subject to regulation by State Department of Agriculture. (1) Notwithstanding the authority granted to the State Department of Agriculture under ORS chapters 571, 618 and 633 and ORS 632.206 to 632.260, 632.275 to 632.290, 632.450 to 632.490, 632.516 to 632.625, 632.705 to 632.815, 632.835 to 632.850 and 632.900 to 632.985, the department may not exercise authority over marijuana items or a licensee, except that ORS 618.121 to 618.161, 618.991, 618.995, 633.311 to 633.479, 633.992 and 633.994 apply to marijuana items or to a licensee.
+      475B.529 Regulation of marijuana items as food or other commodity subject to regulation by State Department of Agriculture. (1) Notwithstanding the authority granted to the State Department of Agriculture under ORS chapters 571, 618 and 633 and ORS 632.275 to 632.290, 632.450 to 632.490, 632.516 to 632.625, 632.705 to 632.815, 632.835 to 632.850 and 632.900 to 632.985, the department may not exercise authority over marijuana items or a licensee, except that ORS 618.121 to 618.161, 618.991, 618.995, 633.311 to 633.479, 633.992 and 633.994 apply to marijuana items or to a licensee.
 
       (2) In exercising its authority under ORS chapter 616, the department may not:
 
@@ -3463,7 +3721,7 @@ RECREATIONAL USE OF CANNABIS
 
       (b) Consider marijuana to be an adulterant, unless the concentration of a cannabinoid in a cannabinoid product, cannabinoid concentrate or cannabinoid extract exceeds acceptable levels established by the Oregon Health Authority by rule; or
 
-      (c) Apply ORS 616.256, 616.265, 616.270 or 616.275 to cannabinoid edibles or enforce ORS 616.256, 616.265, 616.270 or 616.275 with respect to cannabinoid edibles. [Formerly 475B.373]
+      (c) Apply ORS 616.256, 616.265, 616.270 or 616.275 to cannabinoid edibles or enforce ORS 616.256, 616.265, 616.270 or 616.275 with respect to cannabinoid edibles. [Formerly 475B.373; 2019 c.108 §2]
 
  
 
@@ -3583,11 +3841,15 @@ TESTING OF CANNABIS AND CANNABIS PRODUCTS
 
       (B) A cannabinoid concentrate or extract by itself; or
 
-      (C) Industrial hemp, as defined in ORS 571.300.
+      (C) Industrial hemp, as defined in ORS 571.269.
 
       (5)(a) “Marijuana” means the plant Cannabis family Cannabaceae, any part of the plant Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
 
-      (b) “Marijuana” does not include industrial hemp, as defined in ORS 571.300.
+      (b) “Marijuana” does not include:
+
+      (A) Industrial hemp, as defined in ORS 571.269; or
+
+      (B) Prescription drugs, as that term is defined in ORS 689.005, including those containing one or more cannabinoids, that are approved by the United States Food and Drug Administration and dispensed by a pharmacy, as defined in ORS 689.005.
 
       (6) “Marijuana item” means marijuana, usable marijuana, a cannabinoid product or a cannabinoid concentrate or extract.
 
@@ -3605,7 +3867,7 @@ TESTING OF CANNABIS AND CANNABIS PRODUCTS
 
       (A) The seeds, stalks and roots of marijuana; or
 
-      (B) Waste material that is a by-product of producing or processing marijuana. [2015 c.614 §91]
+      (B) Waste material that is a by-product of producing or processing marijuana. [2015 c.614 §91; 2019 c.391 §16]
 
  
 
@@ -3759,7 +4021,7 @@ TESTING OF CANNABIS AND CANNABIS PRODUCTS
 
       (b) Revise or render void an order suspending or revoking the license.
 
-      (2) In cases involving the proposed denial of a license issued under ORS 475B.010 to 475B.545, the applicant for licensure may not withdraw the applicant’s application. [2017 c.183 §15]
+      (2) In cases involving the proposed denial of a license issued under ORS 475B.560, the applicant for licensure may not withdraw the applicant’s application. [2017 c.183 §15; 2019 c.391 §17]
 
  
 
@@ -3785,6 +4047,18 @@ TESTING OF CANNABIS AND CANNABIS PRODUCTS
 
  
 
+      475B.593 Advisory committee on standards for testing potency of marijuana and marijuana items. (1) The Oregon Liquor Control Commission shall establish an advisory committee to advise the commission, the Oregon Health Authority and the State Department of Agriculture on establishing and maintaining standards for testing the potency of marijuana and marijuana items, as those terms are defined in ORS 475B.015. The members of the committee must include members who are:
+
+      (a) Representatives of the commission, the authority and the department;
+
+      (b) Stakeholders in the marijuana industry; and
+
+      (c) Individuals who have expertise in the potency testing of marijuana and marijuana items.
+
+      (2) The commission may adopt rules to carry out this section. [2019 c.391 §1]
+
+ 
+
 PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
  
@@ -3805,11 +4079,15 @@ PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
       (B) A cannabinoid concentrate or extract by itself; or
 
-      (C) Industrial hemp, as defined in ORS 571.300.
+      (C) Industrial hemp, as defined in ORS 571.269.
 
       (5)(a) “Marijuana” means the plant Cannabis family Cannabaceae, any part of the plant Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
 
-      (b) “Marijuana” does not include industrial hemp, as defined in ORS 571.300.
+      (b) “Marijuana” does not include:
+
+      (A) Industrial hemp, as defined in ORS 571.269; or
+
+      (B) Prescription drugs, as that term is defined in ORS 689.005, including those containing one or more cannabinoids, that are approved by the United States Food and Drug Administration and dispensed by a pharmacy, as defined in ORS 689.005.
 
       (6) “Marijuana item” means marijuana, usable marijuana, a cannabinoid product or a cannabinoid concentrate or extract.
 
@@ -3827,7 +4105,7 @@ PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
       (A) The seeds, stalks and roots of marijuana; or
 
-      (B) Waste material that is a by-product of producing or processing marijuana. [2015 c.614 §100]
+      (B) Waste material that is a by-product of producing or processing marijuana. [2015 c.614 §100; 2019 c.391 §18]
 
  
 
@@ -3921,7 +4199,7 @@ PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
  
 
-      475B.625 Dosage requirements; rules. (1) The Oregon Health Authority shall adopt rules establishing:
+      475B.625 Concentration and servings limits; rules. (1) The Oregon Health Authority shall adopt rules establishing:
 
       (a) The maximum concentration of tetrahydrocannabinol that is permitted in a single serving of a cannabinoid product or cannabinoid concentrate or extract; and
 
@@ -3941,15 +4219,17 @@ PACKAGING, LABELING AND DOSAGE OF CANNABIS AND CANNABIS PRODUCTS
 
  
 
-      475B.630 Applicability of ORS 475B.600 to 475B.655. ORS 475B.600 to 475B.655 do not apply to:
+      475B.630 Applicability of ORS 475B.600 to 475B.655. (1) ORS 475B.600 to 475B.655 do not apply to:
 
-      (1) A person responsible for a marijuana grow site under ORS 475B.810 if the person is transferring usable marijuana or an immature marijuana plant, as defined in ORS 475B.015, to:
+      (a) A person responsible for a marijuana grow site under ORS 475B.810 if the person is transferring usable marijuana or an immature marijuana plant, as defined in ORS 475B.015, to:
 
-      (a) A person who holds a registry identification card under ORS 475B.797 and who designated the person responsible for the marijuana grow site to grow marijuana for the person who holds a registry identification card; or
+      (A) A person who holds a registry identification card under ORS 475B.797 and who designated the person responsible for the marijuana grow site to grow marijuana for the person who holds a registry identification card; or
 
-      (b) A person who has been designated as the primary caregiver under ORS 475B.804 of a person who holds a registry identification card under ORS 475B.797, and who designated the person responsible for the marijuana grow site to grow marijuana for the person who holds a registry identification card; or
+      (B) A person who has been designated as the primary caregiver under ORS 475B.804 of a person who holds a registry identification card under ORS 475B.797, and who designated the person responsible for the marijuana grow site to grow marijuana for the person who holds a registry identification card; or
 
-      (2) A person who has been designated as the primary caregiver under ORS 475B.804 of a person who holds a registry identification card under ORS 475B.797 if the person is transferring a marijuana item to the person who holds a registry identification card. [2015 c.614 §106]
+      (b) A person who has been designated as the primary caregiver under ORS 475B.804 of a person who holds a registry identification card under ORS 475B.797 if the person is transferring a marijuana item to the person who holds a registry identification card.
+
+      (2) The labeling and packaging requirements and standards of ORS 475B.600 to 475B.655 do not apply to a marijuana processor registered under ORS 475B.139 when the marijuana processor receives marijuana and usable marijuana from, and for a fee processes that marijuana and usable marijuana into cannabinoid products, cannabinoid concentrates and cannabinoid extracts for, a registry identification cardholder or the designated primary caregiver of a registry identification cardholder. [2015 c.614 §106; 2018 c.103 §4]
 
  
 
@@ -4005,21 +4285,19 @@ TAXATION OF CANNABIS AND CANNABIS PRODUCTS
 
       (2) The tax imposed under this section shall be imposed at the rate of:
 
-      (a) 17 percent of the retail sales price of marijuana leaves;
+      (a) 17 percent of the retail sales price of usable marijuana;
 
-      (b) 17 percent of the retail sales price of marijuana flowers;
+      (b) 17 percent of the retail sales price of immature marijuana plants;
 
-      (c) 17 percent of the retail sales price of immature marijuana plants;
+      (c) 17 percent of the retail sales price of a cannabinoid edible;
 
-      (d) 17 percent of the retail sales price of a cannabinoid edible;
+      (d) 17 percent of the retail sales price of a cannabinoid concentrate;
 
-      (e) 17 percent of the retail sales price of a cannabinoid concentrate;
+      (e) 17 percent of the retail sales price of a cannabinoid extract;
 
-      (f) 17 percent of the retail sales price of a cannabinoid extract;
+      (f) 17 percent of the retail sales price of a cannabinoid product that is intended to be used by applying the cannabinoid product to the skin or hair; and
 
-      (g) 17 percent of the retail sales price of a cannabinoid product that is intended to be used by applying the cannabinoid product to the skin or hair; and
-
-      (h) 17 percent of the retail sales price of cannabinoid products other than those described in paragraph (g) of this subsection.
+      (g) 17 percent of the retail sales price of cannabinoid products other than those described in paragraph (f) of this subsection.
 
       (3) If the tax imposed under this section does not equal an amount calculable to a whole cent, the tax shall be equal to the next higher whole cent.
 
@@ -4033,7 +4311,7 @@ TAXATION OF CANNABIS AND CANNABIS PRODUCTS
 
       (6)(a) A marijuana retailer may not discount a marijuana item or offer a marijuana item for free if the retail sale of the marijuana item is made in conjunction with the retail sale of any other item.
 
-      (b) Paragraph (a) of this subsection does not affect any provision of ORS 475B.010 to 475B.545 or any rule adopted by the Oregon Liquor Control Commission pursuant to ORS 475B.010 to 475B.545 that is related to the retail sale of marijuana items. [2015 c.699 §2; 2016 c.91 §6]
+      (b) Paragraph (a) of this subsection does not affect any provision of ORS 475B.010 to 475B.545 or any rule adopted by the Oregon Liquor Control Commission pursuant to ORS 475B.010 to 475B.545 that is related to the retail sale of marijuana items. [2015 c.699 §2; 2016 c.91 §6; 2019 c.391 §19]
 
  
 
@@ -4069,7 +4347,11 @@ TAXATION OF CANNABIS AND CANNABIS PRODUCTS
 
       (6) Interest shall be added at the rate established under ORS 305.220 from the time the return was originally required to be filed to the time of payment.
 
-      (7) If a marijuana retailer fails to file a return or pay the tax as required by this section, the department shall impose a penalty in the manner provided in ORS 314.400.
+      (7) If a marijuana retailer fails to file a return or pay the tax as required by this section, the department shall:
+
+      (a) Impose a penalty in the manner provided in ORS 314.400; and
+
+      (b) If the department has issued to the marijuana retailer a distraint warrant or notice of determination and assessment under ORS 475B.715, provide written notification to the Oregon Liquor Control Commission of the issuance of the distraint warrant or notice of determination and assessment.
 
       (8) Except as provided in subsections (9) and (10) of this section, the period prescribed for the department to allow or make a refund of any overpayment of tax paid under ORS 475B.700 to 475B.760 is as provided in ORS 314.415.
 
@@ -4077,7 +4359,7 @@ TAXATION OF CANNABIS AND CANNABIS PRODUCTS
 
       (b) If after any offset against any delinquent amount the overpayment of tax remains greater than $1,000, the remaining refund shall be applied as a credit against the next subsequent calendar quarter as an estimated payment.
 
-      (10) The department may not make a refund of, or credit, any overpayment of tax under ORS 475B.700 to 475B.760 that was credited to the account of a marijuana retailer under subsection (9)(b) of this section if the return for that tax period is not filed within three years after the due date of that return. [2015 c.699 §3; 2016 c.91 §7; 2017 c.278 §24; 2017 c.495 §4]
+      (10) The department may not make a refund of, or credit, any overpayment of tax under ORS 475B.700 to 475B.760 that was credited to the account of a marijuana retailer under subsection (9)(b) of this section if the return for that tax period is not filed within three years after the due date of that return. [2015 c.699 §3; 2016 c.91 §7; 2017 c.278 §24; 2017 c.495 §4; 2019 c.391 §20]
 
  
 
@@ -4217,7 +4499,7 @@ TAXATION OF CANNABIS AND CANNABIS PRODUCTS
 
       (A) Forty percent of the moneys in the account must be used solely for purposes for which moneys in the State School Fund established under ORS 327.008 may be used;
 
-      (B) Twenty percent of the moneys in the account must be used solely for purposes for which moneys in the Mental Health Alcoholism and Drug Services Account established under ORS 430.380 may be used;
+      (B) Twenty percent of the moneys in the account must be used solely for mental health treatment or for alcohol and drug abuse prevention, early intervention and treatment;
 
       (C) Fifteen percent of the moneys in the account must be used solely for purposes for which moneys in the State Police Account established under ORS 181A.020 may be used; and
 
@@ -4229,7 +4511,25 @@ TAXATION OF CANNABIS AND CANNABIS PRODUCTS
 
       (c) A county that has an ordinance prohibiting the establishment of a premises for which issuance of a license under ORS 475B.090, 475B.100 or 475B.105 is required is not eligible to receive transfers of moneys under subsection (3)(b)(B)(ii) of this section.
 
-      (5) In a form and manner prescribed by the Oregon Liquor Control Commission, each city and county in this state shall certify with the commission whether the city or county has an ordinance prohibiting the establishment of a premises for which issuance of a license under ORS 475B.070, 475B.090, 475B.100 or 475B.105 is required. If a city fails to comply with this subsection, the city is not eligible to receive transfers of moneys under subsection (3)(b)(A) of this section. If a county fails to comply with this subsection, the county is not eligible to receive transfers of moneys under subsection (3)(b)(B) of this section. [2015 c.1 §44; 2015 c.699 §14; 2015 c.767 §219; 2017 c.725 §32]
+      (5)(a) A city or county that is ineligible under subsection (4) of this section to receive a transfer of moneys from the Oregon Marijuana Account during a given quarter but has received a transfer of moneys for that quarter shall return the amount transferred to the Department of Revenue, with interest as described under paragraph (f) of this subsection. An ineligible city or county may voluntarily transfer the moneys to the Department of Revenue immediately upon receipt of the ineligible transfer.
+
+      (b) If the Director of the Oregon Department of Administrative Services determines that a city or county received a transfer of moneys under subsection (3)(b) of this section but was ineligible to receive that transfer under subsection (4) of this section, the director shall provide notice to the ineligible city or county and order the city or county to return the amount received to the Department of Revenue, with interest as described under paragraph (f) of this subsection. A city or county may appeal the order within 30 days of the date of the order under the procedures for a contested case under ORS chapter 183.
+
+      (c) As soon as the order under paragraph (b) of this subsection becomes final, the director shall notify the Department of Revenue and the ineligible city or county. Upon notification, the Department of Revenue immediately shall proceed to collect the amount stated in the notice.
+
+      (d) The Department of Revenue shall have the benefit of all laws of the state pertaining to the collection of income and excise taxes and may proceed to collect the amounts described in the notice under paragraph (c) of this subsection. An assessment of tax is not necessary and the collection described in this subsection is not precluded by any statute of limitations.
+
+      (e) If a city or county is subject to an order to return moneys from an ineligible transfer, the city or county shall be denied any further relief in connection with the ineligible transfer on or after the date that the order becomes final.
+
+      (f) Interest under this section shall accrue at the rate established in ORS 305.220 beginning on the date the ineligible transfer was made.
+
+      (g) Both the moneys and the interest collected from or returned by an ineligible city or county shall be redistributed to the cities or counties that were eligible to receive a transfer under subsection (3)(b) of this section on the date the ineligible transfer was made.
+
+      (6)(a) Not later than July 1 of each year, each city and county in this state shall certify with the Oregon Department of Administrative Services whether the city or county has an ordinance prohibiting the establishment of a premises for which issuance of a license under ORS 475B.070, 475B.090, 475B.100 or 475B.105 is required. The certification shall be made concurrently with the certifications under ORS 221.770, in a form and manner prescribed by the Oregon Department of Administrative Services.
+
+      (b) If a city fails to comply with this subsection, the city is not eligible to receive transfers of moneys under subsection (3)(b)(A) of this section. If a county fails to comply with this subsection, the county is not eligible to receive transfers of moneys under subsection (3)(b)(B) of this section.
+
+      (c) A city or county that repeals an ordinance as provided in ORS 475B.496 shall file an updated certification with the Oregon Department of Administrative Services in a form and manner prescribed by the department, noting the effective date of the change. A city or county that repeals an ordinance as provided in ORS 475B.496 is eligible to receive quarterly transfers of moneys under this section for quarters where the repeal is effective for the entire quarter and the updated certification was filed at least 30 days before the date of transfer. [2015 c.1 §44; 2015 c.699 §14; 2015 c.767 §219; 2017 c.725 §32; 2018 c.81 §§1,2; 2019 c.599 §§1,2; 2019 c.643 §10]
 
  
 
@@ -4431,7 +4731,11 @@ MEDICAL USE OF CANNABIS
 
       (11)(a) “Marijuana” means the plant Cannabis family Cannabaceae, any part of the plant Cannabis family Cannabaceae and the seeds of the plant Cannabis family Cannabaceae.
 
-      (b) “Marijuana” does not include industrial hemp, as defined in ORS 571.300.
+      (b) “Marijuana” does not include:
+
+      (A) Industrial hemp, as defined in ORS 571.269; or
+
+      (B) Prescription drugs, as that term is defined in ORS 689.005, including those containing one or more cannabinoids, that are approved by the United States Food and Drug Administration and dispensed by a pharmacy, as defined in ORS 689.005.
 
       (12) “Marijuana grow site” means a location registered under ORS 475B.810 where marijuana is produced for use by a registry identification cardholder.
 
@@ -4449,7 +4753,7 @@ MEDICAL USE OF CANNABIS
 
       (C) A cannabinoid extract by itself; or
 
-      (D) Industrial hemp, as defined in ORS 571.300.
+      (D) Industrial hemp, as defined in ORS 571.269.
 
       (16) “Medical marijuana dispensary” means a medical marijuana dispensary registered under ORS 475B.858 or a site for which an applicant has submitted an application for registration under ORS 475B.858.
 
@@ -4477,7 +4781,7 @@ MEDICAL USE OF CANNABIS
 
       (B) Waste material that is a by-product of producing marijuana.
 
-      (24) “Written documentation” means a statement signed by the attending physician of a person diagnosed with a debilitating medical condition or copies of the person’s relevant medical records. [Formerly 475B.410]
+      (24) “Written documentation” means a statement signed by the attending physician of a person diagnosed with a debilitating medical condition or copies of the person’s relevant medical records. [Formerly 475B.410; 2019 c.391 §21]
 
  
 
@@ -4621,7 +4925,7 @@ MEDICAL USE OF CANNABIS
 
  
 
-      475B.807 Authority to designate certain organizations as primary caregivers. (1) Notwithstanding ORS 475B.804, an organization that provides hospice, palliative or home health care services, or a residential facility as defined in ORS 443.400, that has significant responsibility for managing the well-being of a person who has been diagnosed with a debilitating medical condition may be designated, in addition to an individual designated pursuant to ORS 475B.804, as an additional caregiver for a registry identification cardholder in the same manner that an individual is designated as the primary caregiver for a registry identification cardholder under ORS 475B.804.
+      475B.807 Registry identification cardholder ability to designate certain entities as additional caregivers. (1) Notwithstanding ORS 475B.804, an organization that provides hospice, palliative or home health care services, or a residential facility as defined in ORS 443.400, that has significant responsibility for managing the well-being of a person who has been diagnosed with a debilitating medical condition may be designated, in addition to an individual designated pursuant to ORS 475B.804, as an additional caregiver for a registry identification cardholder in the same manner that an individual is designated as the primary caregiver for a registry identification cardholder under ORS 475B.804.
 
       (2) An organization or residential facility that is designated under this section has all the duties, functions and powers of a designated primary caregiver as prescribed by ORS 475B.785 to 475B.949 or a rule adopted under ORS 475B.785 to 475B.949. [Formerly 475B.419]
 
@@ -4643,9 +4947,11 @@ MEDICAL USE OF CANNABIS
 
       (b) Proof that the person is 21 years of age or older;
 
-      (c) The address of the marijuana grow site; and
+      (c) If the registry identification cardholder or the person responsible for the marijuana grow site is not the owner of the premises of the marijuana grow site, signed informed consent from the owner of the premises to register the premises as a marijuana grow site;
 
-      (d) Any other information that the authority considers necessary to track the production of marijuana under ORS 475B.785 to 475B.949.
+      (d) The address of the marijuana grow site; and
+
+      (e) Any other information that the authority considers necessary to track the production of marijuana under ORS 475B.785 to 475B.949.
 
       (3)(a) The authority shall conduct a criminal records check under ORS 181A.195 of any person whose name is submitted under this section as the person responsible for a marijuana grow site.
 
@@ -4679,25 +4985,35 @@ MEDICAL USE OF CANNABIS
 
       (10) The authority may refuse to register a registry identification cardholder or a designee under this section or may suspend or revoke the registration of a person responsible for a marijuana grow site if the authority determines that the applicant or the person responsible for a marijuana grow site violated a provision of ORS 475B.785 to 475B.949, a rule adopted under ORS 475B.785 to 475B.949 or an ordinance adopted pursuant to ORS 475B.928.
 
-      (11) The authority may require a person responsible for a marijuana grow site, prior to issuing a marijuana grow site registration card under subsection (4) of this section, to pay a fee reasonably calculated to pay costs incurred under this section and ORS 475B.816 and 475B.879. [Formerly 475B.420]
+      (11) The authority may require a person responsible for a marijuana grow site, prior to issuing a marijuana grow site registration card under subsection (4) of this section, to pay a fee reasonably calculated to pay costs incurred under this section and ORS 475B.816 and 475B.879. [Formerly 475B.420; 2019 c.145 §2]
 
  
 
-      475B.813 Address of marijuana grow site. (1) For purposes of ORS 475B.785 to 475B.949, the following forms of evidence shall be sufficient to establish the address where a marijuana grow site is located:
+      Note: Section 8, chapter 103, Oregon Laws 2018, provides:
 
-      (a) A tax lot number;
+      Sec. 8. The fact that a marijuana grow site registered under ORS 475B.810 is subject to the provisions of ORS 475B.895 does not, by itself, mean that the marijuana grow site is a commercial operation for purposes of state law. [2018 c.103 §8]
 
-      (b) An assessor’s map number with a map attached, showing the exact location of the marijuana grow site; or
+ 
 
-      (c) The exact location of the marijuana grow site using one or more of the following:
+      475B.813 Address of marijuana grow site. (1) For purposes of ORS 475B.785 to 475B.949, if a marijuana grow site has a physical United States Postal Service address, an application filed for a marijuana grow site registration card under ORS 475B.810 must include the physical address. If the grow site does not have a physical United States Postal Service address, the application must include:
+
+      (a) An assessor’s map number with a map showing the exact location of the grow site;
+
+      (b) The name of the city or, if outside of a city, the name of the county in which the grow site is located;
+
+      (c) The zip code for the location; and
+
+      (d) One or more of the following for the location:
 
       (A) Longitude and latitude coordinates;
 
-      (B) Township coordinates; or
+      (B) Township coordinates;
 
-      (C) Global positioning system coordinates.
+      (C) Global positioning system coordinates; or
 
-      (2) For purposes of ORS 475B.810, the Oregon Health Authority shall accept the forms of evidence described in subsection (1) of this section for the purpose of establishing the address where a marijuana grow site is located. [2017 c.613 §16a]
+      (D) The tax lot number.
+
+      (2) For purposes of ORS 475B.810, the Oregon Health Authority shall accept the forms of evidence described in subsection (1) of this section for the purpose of establishing the address where a marijuana grow site is located. [2017 c.613 §16a; 2018 c.103 §5]
 
  
 
@@ -4745,14 +5061,6 @@ MEDICAL USE OF CANNABIS
 
  
 
-      Note: Sections 8a and 8b, chapter 613, Oregon Laws 2017, provide:
-
-      Sec. 8a. The Oregon Liquor Control Commission shall monitor the lawful transfer of any usable marijuana, as defined in ORS 475B.015, to a person that holds a license issued under ORS 475B.090 or 475B.100 by a marijuana grow site, as defined in ORS 475B.410 [renumbered 475B.791], to determine whether the laws of this state may allow for the lawful transfer of additional usable marijuana to a person that holds a license issued under ORS 475B.090 or 475B.100 by a marijuana grow site. On or before September 15, 2018, the commission shall submit the commission’s findings and recommendations, in the manner prescribed by ORS 192.245, to the interim committees of the Legislative Assembly related to judiciary. [2017 c.613 §8a]
-
-      Sec. 8b. Section 8a of this 2017 Act is repealed on January 2, 2019. [2017 c.613 §8b]
-
- 
-
       475B.828 Marijuana grow site security systems. ORS 475B.895 does not authorize the Oregon Health Authority or the Oregon Liquor Control Commission to require a marijuana grow site to use a security system or any component of a security system, such as video surveillance, an alarm system, sensors or physical barriers. [2017 c.613 §14]
 
  
@@ -4761,7 +5069,7 @@ MEDICAL USE OF CANNABIS
 
  
 
-      475B.831 Possession limits for marijuana plants. (1)(a) A registry identification cardholder and the designated primary caregiver of the registry identification cardholder may jointly possess:
+      475B.831 Possession limits for plants. (1)(a) A registry identification cardholder and the designated primary caregiver of the registry identification cardholder may jointly possess:
 
       (A) Six or fewer mature marijuana plants; and
 
@@ -4773,47 +5081,79 @@ MEDICAL USE OF CANNABIS
 
       (ii) Twelve or fewer immature marijuana plants per registry identification cardholder, up to 24 immature marijuana plants.
 
-      (B) Except as provided in subparagraph (C) of this paragraph, an address that is subject to this paragraph may not be used to produce marijuana plants pursuant to ORS 475B.301.
+      (B) Except as provided in subparagraph (C) of this paragraph, an address that is subject to this paragraph may not be used to produce plants in the genus Cannabis within the plant family Cannabaceae pursuant to ORS 475B.301.
 
-      (C) Subject to subparagraph (D) of this paragraph, an address that is subject to this paragraph may be used to produce marijuana plants pursuant to ORS 475B.301 if a person other than a registry identification cardholder who is using the address to produce marijuana plants pursuant to ORS 475B.785 to 475B.949 resides at the address.
+      (C) Subject to subparagraph (D) of this paragraph, an address that is subject to this paragraph may be used to produce plants in the genus Cannabis within the plant family Cannabaceae pursuant to ORS 475B.301 if a person other than a registry identification cardholder who is using the address to produce marijuana plants pursuant to ORS 475B.785 to 475B.949 resides at the address.
 
       (D) An address that is subject to this paragraph may not be used to produce more than 12 total mature marijuana plants.
 
-      (2)(a) A person may be designated to produce marijuana under ORS 475B.810 by no more than four registry identification cardholders.
+      (2)(a) A person may be designated to produce marijuana under ORS 475B.810 by no more than eight registry identification cardholders.
 
-      (b) A person who is designated to produce marijuana by a registry identification cardholder may produce no more than six mature marijuana plants and no more than 12 immature marijuana plants that are 24 inches or more in height for a registry identification cardholder who designates the person to produce marijuana.
+      (b) A person responsible for a marijuana grow site may produce for a registry identification cardholder who designates the person to produce marijuana no more than:
 
-      (3) If the address of a person responsible for a marijuana grow site under ORS 475B.810 is located within city limits in an area zoned for residential use:
+      (A) Six mature marijuana plants;
 
-      (a) Except as provided in paragraph (b) of this subsection, no more than 12 mature marijuana plants and no more than 24 immature marijuana plants that are 24 inches or more in height may be produced at the address; or
+      (B) 12 immature marijuana plants that are 24 inches or more in height; and
 
-      (b) Subject to subsection (5) of this section, if each person responsible for a marijuana grow site located at the address first registered with the Oregon Health Authority under ORS 475B.810 before January 1, 2015:
+      (C) The amount, established by the Oregon Health Authority by rule, of immature marijuana plants that are less than 24 inches in height.
 
-      (A) No more than the amount of mature marijuana plants located at that address on December 31, 2014, in excess of 12 mature marijuana plants, not to exceed 24 mature marijuana plants, may be produced at the address; and
+      (3) If the address of a person responsible for a marijuana grow site registered under ORS 475B.810 is located within city limits in an area zoned for residential use:
 
-      (B) No more than 48 immature marijuana plants that are 24 inches or more in height may be produced at the address.
+      (a) Except as provided in paragraph (b) of this subsection, no more than the following amounts of marijuana plants may be produced at the address:
 
-      (4) If the address of a person responsible for a marijuana grow site under ORS 475B.810 is located in an area other than an area described in subsection (3) of this section:
+      (A) 12 mature marijuana plants;
 
-      (a) Except as provided in paragraph (b) of this subsection, no more than 48 mature marijuana plants and no more than 96 immature marijuana plants that are 24 inches or more in height may be produced at the address; or
+      (B) 24 immature marijuana plants that are 24 inches or more in height; and
 
-      (b) Subject to subsections (5) and (6) of this section, if each person responsible for a marijuana grow site located at the address first registered with the authority under ORS 475B.810 before January 1, 2015:
+      (C) The amount, established by the authority by rule, of immature marijuana plants that are less than 24 inches in height; or
 
-      (A) No more than the amount of mature marijuana plants located at that address on December 31, 2014, in excess of 48 mature marijuana plants, not to exceed 96 mature marijuana plants, may be produced at the address; and
+      (b) Subject to subsection (5) of this section, if each person responsible for a marijuana grow site located at the address first registered with the authority under ORS 475B.810 before January 1, 2015, no more than the following amounts of marijuana plants may be produced at the address:
 
-      (B) No more than 192 immature marijuana plants that are 24 inches or more in height may be produced at the address.
+      (A) The amount of mature marijuana plants located at that address on December 31, 2014, in excess of 12 mature marijuana plants, not to exceed 24 mature marijuana plants;
 
-      (5) If the authority suspends or revokes the registration of a person responsible for a marijuana grow site that is located at an address described in subsection (3)(b) or (4)(b) of this section:
+      (B) 48 immature marijuana plants that are 24 inches or more in height; and
 
-      (a) No more than 12 mature marijuana plants and no more than 24 immature marijuana plants that are 24 inches or more in height may be subsequently produced at any address described in subsection (3) of this section at which the person responsible for that marijuana grow site produces marijuana.
+      (C) The amount, established by the authority by rule, of immature marijuana plants that are less than 24 inches in height.
 
-      (b) No more than 48 mature marijuana plants and no more than 96 immature marijuana plants that are 24 or more inches in height may be subsequently produced at any address described in subsection (4) of this section at which the person responsible for that marijuana grow site produces marijuana.
+      (4) If the address of a person responsible for a marijuana grow site registered under ORS 475B.810 is located in an area other than an area described in subsection (3) of this section:
+
+      (a) Except as provided in paragraph (b) of this subsection, no more than the following amounts of marijuana plants may be produced at the address:
+
+      (A) 48 mature marijuana plants;
+
+      (B) 96 immature marijuana plants that are 24 inches or more in height; and
+
+      (C) The amount, established by the authority by rule, of immature marijuana plants that are less than 24 inches in height; or
+
+      (b) Subject to subsections (5) and (6) of this section, if each person responsible for a marijuana grow site located at the address first registered with the authority under ORS 475B.810 before January 1, 2015, no more than the following amounts of marijuana plants may be produced at the address:
+
+      (A) The amount of mature marijuana plants located at that address on December 31, 2014, in excess of 48 mature marijuana plants, not to exceed 96 mature marijuana plants;
+
+      (B) 192 immature marijuana plants that are 24 inches or more in height; and
+
+      (C) The amount, established by the authority by rule, of immature marijuana plants that are less than 24 inches in height.
+
+      (5)(a) If the authority suspends or revokes the registration of a person responsible for a marijuana grow site that is located at an address described in subsection (3)(b) of this section, no more than the following amounts of marijuana plants may subsequently be produced at any address described in subsection (3) of this section at which the person responsible for the marijuana grow site produces marijuana:
+
+      (A) 12 mature marijuana plants;
+
+      (B) 24 immature marijuana plants that are 24 inches or more in height; and
+
+      (C) The amount, established by the authority by rule, of immature marijuana plants that are less than 24 inches in height.
+
+      (b) If the authority suspends or revokes the registration of a person responsible for a marijuana grow site that is located at an address described in subsection (4)(b) of this section, no more than the following amounts of marijuana plants may subsequently be produced at any address described in subsection (4) of this section at which the person responsible for the marijuana grow site produces marijuana:
+
+      (A) 48 mature marijuana plants;
+
+      (B) 96 immature marijuana plants that are 24 inches or more in height; and
+
+      (C) The amount, established by the authority by rule, of immature marijuana plants that are less than 24 inches in height.
 
       (6) If a registry identification cardholder who designated a person to produce marijuana for the registry identification cardholder pursuant to ORS 475B.810 terminates the designation, the person responsible for the marijuana grow site whose designation has been terminated may not be designated to produce marijuana by another registry identification cardholder, except that the person may be designated by another registry identification cardholder if no more than 48 mature marijuana plants and no more than 96 immature marijuana plants that are 24 or more inches in height are produced at the address for the marijuana grow site at which the person produces marijuana.
 
       (7) Subject to the limits described in subsections (2) to (6) of this section, if multiple persons responsible for a marijuana grow site under ORS 475B.810 are located at the same address, the persons designated to produce marijuana by registry identification cardholders who are located at that address may collectively produce marijuana plants for any number of registry identification cardholders who designate the persons to produce marijuana.
 
-      (8) If a law enforcement officer determines that there is a number of marijuana plants at an address in excess of the quantities specified in this section, or that an address is being used to produce a number of marijuana plants in excess of the quantities specified in subsection (1)(b) of this section, the law enforcement officer may confiscate only the excess number of marijuana plants. [Formerly 475B.428]
+      (8) If a law enforcement officer determines that there is a number of marijuana plants at an address in excess of the quantities specified in this section, or that an address is being used to produce a number of marijuana plants in excess of the quantities specified in subsection (1)(b) of this section, the law enforcement officer may confiscate only the excess number of marijuana plants. [Formerly 475B.428; 2018 c.103 §6; 2018 c.116 §26]
 
  
 
@@ -5049,13 +5389,15 @@ MEDICAL USE OF CANNABIS
 
       475B.864 Medical marijuana dispensary located within 1,000 feet of school. Notwithstanding ORS 475B.858 (3)(d), a medical marijuana dispensary may be located within 1,000 feet of a school if:
 
-      (1) The medical marijuana dispensary is not located within 500 feet of:
+      (1)(a) The medical marijuana dispensary is not located within 500 feet of:
 
-      (a) A public elementary or secondary school for which attendance is compulsory under ORS 339.020; or
+      (A) A public elementary or secondary school for which attendance is compulsory under ORS 339.020; or
 
-      (b) A private or parochial elementary or secondary school, teaching children as described in ORS 339.030 (1)(a); and
+      (B) A private or parochial elementary or secondary school, teaching children as described in ORS 339.030 (1)(a); and
 
-      (2) The Oregon Liquor Control Commission determines that there is a physical or geographic barrier capable of preventing children from traversing to the premises of the medical marijuana dispensary. [2017 c.613 §22]
+      (b) The Oregon Health Authority determines that there is a physical or geographic barrier capable of preventing children from traversing to the premises of the medical marijuana dispensary; or
+
+      (2) The medical marijuana dispensary was established before August 1, 2017, in accordance with a city or county ordinance adopted under section 29, chapter 83, Oregon Laws 2016. [2017 c.613 §22; 2018 c.103 §12]
 
  
 
@@ -5117,7 +5459,7 @@ MEDICAL USE OF CANNABIS
 
       (2)(a) Subject to paragraph (c) of this subsection, the authority may provide information that is stored in the database developed and maintained under this section to a law enforcement agency.
 
-      (b) Subject to paragraph (c) of this subsection, the authority may provide information that is stored in the database developed and maintaining under this section to the regulatory agencies of a city or county.
+      (b) Subject to paragraph (c) of this subsection, the authority may provide information that is stored in the database developed and maintained under this section to the regulatory agencies of a city or county.
 
       (c) The authority may not disclose:
 
@@ -5213,7 +5555,43 @@ MEDICAL USE OF CANNABIS
 
       (d) The transfer of usable marijuana, immature marijuana plants, medical cannabinoid products, cannabinoid concentrates and cannabinoid extracts between marijuana grow sites, marijuana processing sites and medical marijuana dispensaries.
 
-      (2) Marijuana grow sites, marijuana processing sites, medical marijuana dispensaries and any other person that processes marijuana into medical cannabinoid products and cannabinoid concentrates for the purpose of transferring the medical cannabinoid products and cannabinoid concentrates to a medical marijuana dispensary are subject to tracking under this section.
+      (2) Marijuana grow sites, marijuana processing sites and medical marijuana dispensaries are subject to tracking under this section.
+
+      (3) On and after the date on which a marijuana grow site becomes subject to tracking under this section, the person is exempt from the requirements of ORS 475B.816 and the provisions of ORS 475B.810 that relate to ORS 475B.816.
+
+      (4) On and after the date on which a marijuana processing site becomes subject to tracking under this section, the marijuana processing site is exempt from the requirements of ORS 475B.846 and the provisions of ORS 475B.840 that relate to ORS 475B.846.
+
+      (5) On and after the date on which a medical marijuana dispensary becomes subject to tracking under this section, the medical marijuana dispensary is exempt from the requirements of ORS 475B.867 and the provisions of ORS 475B.858 that relate to ORS 475B.867.
+
+      (6) The commission may conduct inspections and investigations of alleged violations of ORS 475B.785 to 475B.949 about which the commission obtains knowledge as a result of performing the commission’s duties under this section. Notwithstanding ORS 475B.299, the commission may use regulatory specialists, as defined in ORS 471.001, to conduct the inspections and investigations, including inspections and investigations of marijuana grow sites located at a primary residence.
+
+      (7) When imposing a fee on a person responsible for a marijuana grow site, marijuana processing site or medical marijuana dispensary under ORS 475B.810, 475B.840 or 475B.858, the authority shall impose a fee that is reasonably calculated to pay costs incurred under this section. As part of the agreement entered into under subsection (1) of this section, the authority shall transfer fee moneys collected pursuant to this subsection to the commission for deposit in the Marijuana Control and Regulation Fund established under ORS 475B.296. Moneys collected pursuant to this subsection and deposited in the Marijuana Control and Regulation Fund are continuously appropriated to the commission for purposes of this section.
+
+      (8) The authority and the commission may adopt rules as necessary to administer this section.
+
+      (9) This section does not apply to a marijuana grow site located at an address where:
+
+      (a) A registry identification cardholder produces marijuana and no more than 12 mature marijuana plants and 24 immature marijuana plants are produced; or
+
+      (b)(A) No more than two persons are registered under ORS 475B.810 to produce marijuana; and
+
+      (B) The address is used to produce marijuana for no more than two registry identification cardholders. [2017 c.183 §40; 2018 c.103 §7; 2019 c.456 §37]
+
+ 
+
+      Note: The amendments to 475B.895 by section 7a, chapter 103, Oregon Laws 2018, become operative January 2, 2024. See section 27, chapter 103, Oregon Laws 2018. The text that is operative on and after January 2, 2024, including amendments by section 38, chapter 456, Oregon Laws 2019, is set forth for the user’s convenience.
+
+      475B.895. (1) The Oregon Health Authority shall enter into an agreement with the Oregon Liquor Control Commission under which the commission shall use the system developed and maintained under ORS 475B.177 to track:
+
+      (a) The propagation of immature marijuana plants and the production of marijuana by marijuana grow sites;
+
+      (b) The processing of marijuana into medical cannabinoid products, cannabinoid concentrates and cannabinoid extracts that are transferred to a medical marijuana dispensary;
+
+      (c) The transfer of usable marijuana, immature marijuana plants, medical cannabinoid products, cannabinoid concentrates and cannabinoid extracts by a marijuana grow site or a medical marijuana dispensary to a registry identification cardholder or the designated primary caregiver of a registry identification cardholder; and
+
+      (d) The transfer of usable marijuana, immature marijuana plants, medical cannabinoid products, cannabinoid concentrates and cannabinoid extracts between marijuana grow sites, marijuana processing sites and medical marijuana dispensaries.
+
+      (2) Marijuana grow sites, marijuana processing sites and medical marijuana dispensaries are subject to tracking under this section.
 
       (3) On and after the date on which a marijuana grow site becomes subject to tracking under this section, the person is exempt from the requirements of ORS 475B.816 and the provisions of ORS 475B.810 that relate to ORS 475B.816.
 
@@ -5229,29 +5607,13 @@ MEDICAL USE OF CANNABIS
 
       (9) The authority and the commission may adopt rules as necessary to administer this section.
 
-      (10) This section does not apply to a marijuana grow site located at an address where a registry identification cardholder produces marijuana and no more than 12 mature marijuana plants and 24 immature marijuana plants are produced at the address. [2017 c.183 §40]
+      (10) This section does not apply to a marijuana grow site located at an address where:
 
- 
+      (a) A registry identification cardholder produces marijuana and no more than 12 mature marijuana plants and 24 immature marijuana plants are produced; or
 
-      Note: Sections 41 and 96, chapter 183, Oregon Laws 2017, provide:
+      (b)(A) No more than two persons are registered under ORS 475B.810 to produce marijuana; and
 
-      Sec. 41. (1) For purposes of subjecting marijuana grow sites, marijuana processing sites and medical marijuana dispensaries to tracking under section 40 of this 2017 Act [475B.895]:
-
-      (a) On or before September 1, 2017, the Oregon Health Authority shall notify marijuana grow sites, marijuana processing sites and medical marijuana dispensaries of the requirements of this section and section 40 of this 2017 Act;
-
-      (b) On or before December 1, 2017, each marijuana grow site, marijuana processing site and medical marijuana dispensary located in this state shall notify the authority in a form and manner prescribed by the authority as to whether the marijuana grow site, marijuana processing site or medical marijuana dispensary is electing to remain registered under ORS 475B.400 to 475B.525 [series became 475B.785 to 475B.949] and be subject to tracking or is electing to apply for licensure under ORS 475B.010 to 475B.395 [series became 475B.010 to 475B.545];
-
-      (c) If the marijuana grow site, marijuana processing site or medical marijuana dispensary elects to apply for licensure under ORS 475B.010 to 475B.395, the marijuana grow site, marijuana processing site or medical marijuana dispensary must have filed an application with the Oregon Liquor Control Commission under ORS 475B.040 on or before January 1, 2018; and
-
-      (d) If the marijuana grow site, marijuana processing site or medical marijuana dispensary elects to remain registered under ORS 475B.400 to 475B.525 and be subject to tracking, the marijuana grow site, marijuana processing site or medical marijuana dispensary is subject to tracking beginning on or before July 1, 2018.
-
-      (2) If a marijuana grow site, marijuana processing site or medical marijuana dispensary does not make an election as required by subsection (1) of this section on or before January 1, 2018, the authority may not renew the registration of the marijuana grow site, marijuana processing site or medical marijuana dispensary.
-
-      (3) If a marijuana grow site, marijuana processing site or medical marijuana dispensary is not in compliance with subsection (1)(d) of this section on or before July 1, 2018, the authority may not renew the registration of the marijuana grow site, marijuana processing site or medical marijuana dispensary unless the marijuana grow site, marijuana processing site or medical marijuana dispensary has an application on file with the commission under ORS 475B.040 and the commission has not proposed to deny the application.
-
-      (4) The authority and the commission shall share information as necessary to implement this section. [2017 c.183 §41]
-
-      Sec. 96. Section 41 of this 2017 Act is repealed on July 1, 2019. [2017 c.183 §96]
+      (B) The address is used to produce marijuana for no more than two registry identification cardholders.
 
  
 
@@ -5565,7 +5927,7 @@ AUTHORITY OF CITIES AND COUNTIES TO PROHIBIT ESTABLISHMENT OF CANNABIS-RELATED B
 
       (b) If an allowance is approved at the next statewide general election under subsection (2) of this section, and the allowance concerns an entity described in subsection (1)(c) to (j) of this section, the commission shall begin licensing the premises to which the allowance applies on the first business day of the January immediately following the date of the next statewide general election.
 
-      (6) If the electors of a city or county approve an ordinance prohibiting or allowing an establishment described in subsection (1)(a), (b) or (g) to (j) of this section, the governing body of the city or county may amend the ordinance, without referring the amendment to the electors of the city or county, to prohibit or allow any other establishment described in subsection (1)(a), (b) or (g) to (j) of this section.
+      (6) If the electors of a city or county approve an ordinance prohibiting or allowing an entity described in subsection (1)(a), (b) or (g) to (j) of this section, the governing body of the city or county may amend the ordinance, without referring the amendment to the electors of the city or county, to prohibit or allow any other entity described in subsection (1)(a), (b) or (g) to (j) of this section.
 
       (7) Notwithstanding any other provisions of law, a city or county that adopts an ordinance under this section that prohibits the establishment of an entity described in subsection (1) of this section may not impose a tax or fee on the production, processing or sale of marijuana or any product into which marijuana has been incorporated.
 
@@ -5579,7 +5941,13 @@ AUTHORITY OF CITIES AND COUNTIES TO PROHIBIT ESTABLISHMENT OF CANNABIS-RELATED B
 
       (a) Is registered under ORS 475B.840 on or before the date on which the governing body adopts the ordinance; and
 
-      (b) Has successfully completed a city or county land use application process. [Formerly 475B.800]
+      (b) Has successfully completed a city or county land use application process. [Formerly 475B.800; 2019 c.292 §4]
+
+ 
+
+      Note: Section 5, chapter 292, Oregon Laws 2019, provides:
+
+      Sec. 5. Section 3 of this 2019 Act [475B.077] and the amendments to ORS 223.301 and 475B.968 by sections 1 and 4 of this 2019 Act apply to marijuana produced before, on and after the operative date of this 2019 Act [January 1, 2020]. [2019 c.292 §5]
 
 _______________
 

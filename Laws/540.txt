@@ -1,6 +1,6 @@
 
 
-Chapter 540 — Distribution of Water; Watermasters; Change in Use; Transfer or Forfeiture of Water Rights
+Chapter 540 — Distribution and Storage of Water; Watermasters; Water Right Changes, Transfers and Forfeitures
 
  
 
@@ -9,7 +9,7 @@ Chapter 540 — Distribution of Water; Watermasters; Change in Use; Transfer or 
 
  
 
-DISTRIBUTION; CHANGE IN USE OR RIGHTS
+DISTRIBUTION AND STORAGE; CHANGE IN RIGHTS
 
  
 
@@ -137,35 +137,7 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
 
  
 
-540.350     Dams, dikes and other hydraulic works; examination and approval by commission; responsibility of owners; inspections; modification of works; hearing
-
- 
-
-540.353     Emergency action plans for dams with high hazard ratings; inspections
-
- 
-
-540.355     Inspection, evaluation and assessment of levees
-
- 
-
-540.360     Order to modify
-
- 
-
-540.370     Enforcing compliance with order or decree
-
- 
-
-540.380     Reports of consultants; payment
-
- 
-
-540.390     Inspection of dam, dike or hydraulic structure; expenses; deposit by applicant; payment by owner of works; lien
-
- 
-
-540.400     Applicability of ORS 540.350 to 540.390
+540.355     Inspection, evaluation and assessment of hydraulic structures
 
  
 
@@ -186,6 +158,78 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
  
 
 540.440     Owner to clear weeds from ditch right of way
+
+ 
+
+DAMS
+
+ 
+
+540.443     Definitions for ORS 540.443 to 540.491
+
+ 
+
+540.446     Dams not subject to ORS 540.443 to 540.491
+
+ 
+
+540.449     Construction plan approval; fees; rules
+
+ 
+
+540.452     Removal plan approval
+
+ 
+
+540.455     Dam inspections and analysis
+
+ 
+
+540.458     Notice for owner corrective action to address safety issues
+
+ 
+
+540.461     Plan and time frame for corrective action; hearing; proposed and final orders
+
+ 
+
+540.464     Examinations, inspections and reports by specialists
+
+ 
+
+540.467     Owner action to address maintenance issues; hearing; proposed and final orders; penalty
+
+ 
+
+540.470     Contested case hearings
+
+ 
+
+540.473     Application for injunction
+
+ 
+
+540.476     Action to declare dam public nuisance
+
+ 
+
+540.479     Dam owner responsibilities
+
+ 
+
+540.482     Emergency action plan for dam with high hazard rating
+
+ 
+
+540.485     Actual or potential dam failure
+
+ 
+
+540.488     Water Resources Commission duties and powers; rules
+
+ 
+
+540.491     Dam owner or operator liability
 
  
 
@@ -365,7 +409,11 @@ PENALTIES
 
  
 
-540.990     Penalties
+540.990     Criminal penalties
+
+ 
+
+540.995     Civil penalties
 
  
 
@@ -607,6 +655,12 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
 
  
 
+      540.350 [Amended by 1981 c.210 §1; 1985 c.673 §88; 1991 c.249 §51; repealed by 2019 c.390 §27]
+
+ 
+
+      Note: 540.350 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.350 (2017 Edition) is set forth for the user’s convenience.
+
       540.350 Dams, dikes and other hydraulic works; examination and approval by commission; responsibility of owners; inspections; modification of works; hearing. (1) No person, firm or private or municipal corporation shall construct any dam, dike, or other hydraulic structure or works, the failure of which the Water Resources Commission finds would result in damage to life or property, unless the commission has made an examination of the site and of the plans and specifications and other features involved in the construction of such works, and has approved them in writing.
 
       (2) When a person, firm or private or municipal corporation seeks the written approval of the Water Resources Commission, of the site, plans, specifications and features for a dam more than 25 feet high at a site where there is an average annual flow exceeding two cubic feet a second, that party must demonstrate that the dam includes measures that make it readily adaptable to power generation in a manner meeting statutory requirements for the safe passage of fish. These measures shall include the installation of a pressure conduit, penstock, drain or similar water diversion system at the time the dam is built.
@@ -619,9 +673,15 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
 
       (4) The commission’s approval of the site, plans and specifications, or other features involved in the construction, maintenance and operation of any hydraulic works whatsoever shall not relieve the owners of their legal responsibilities.
 
-      (5) The commission may make inspections of any hydraulic structure, the site thereof, and of the plans and specifications, and any other features involved in the construction, maintenance and operation of the works. If, as a result of the inspections, the commission considers any modifications necessary to insure the safety of the works with reference to possible damage to life or property, the commission shall notify the legal owners by registered mail or by certified mail with return receipt, stating why the works are unsafe. The notice shall set forth the modifications necessary to insure the safety of the works in so far as it affects possible damage to life or property. The notice also shall set a hearing at a time and place as will give the owners a reasonable time to prepare for the hearing. [Amended by 1981 c.210 §1; 1985 c.673 §88; 1991 c.249 §51]
+      (5) The commission may make inspections of any hydraulic structure, the site thereof, and of the plans and specifications, and any other features involved in the construction, maintenance and operation of the works. If, as a result of the inspections, the commission considers any modifications necessary to insure the safety of the works with reference to possible damage to life or property, the commission shall notify the legal owners by registered mail or by certified mail with return receipt, stating why the works are unsafe. The notice shall set forth the modifications necessary to insure the safety of the works in so far as it affects possible damage to life or property. The notice also shall set a hearing at a time and place as will give the owners a reasonable time to prepare for the hearing.
 
  
+
+      540.353 [2017 c.723 §2; repealed by 2019 c.390 §27]
+
+ 
+
+      Note: 540.353 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.353 (2017 Edition) is set forth for the user’s convenience.
 
       540.353 Emergency action plans for dams with high hazard ratings; inspections. (1) As used in this section:
 
@@ -649,21 +709,45 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
 
       (5) The department shall inspect a dam with a high hazard rating annually, unless the department determines that a different inspection schedule is appropriate.
 
-      (6) This section does not apply to a dam that is regulated under the dam safety program of a federal agency. [2017 c.723 §2]
+      (6) This section does not apply to a dam that is regulated under the dam safety program of a federal agency.
 
  
 
-      Note: 540.353 was added to and made a part of ORS chapter 540 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+      540.355 Inspection, evaluation and assessment of hydraulic structures. (1) The Water Resources Department may inspect, evaluate and assess the condition of a levee, dike, ditch or other hydraulic structure with the permission of the owner.
+
+      (2) In performing the actions under subsection (1) of this section, the department may:
+
+      (a) Provide recommendations and technical assistance;
+
+      (b) Advise on necessary maintenance and repairs;
+
+      (c) Assist with the development of emergency action plans to ensure the safety of life, property or public infrastructure;
+
+      (d) Undertake activities necessary to identify the owner or operator of the hydraulic structure or the individual in immediate charge of the hydraulic structure;
+
+      (e) Assist with mapping the locations of hydraulic structures;
+
+      (f) Enter into contracts, memorandums of understanding and intergovernmental agreements;
+
+      (g) Accept and receive moneys from any public or private source;
+
+      (h) Accept and receive payment for services performed; and
+
+      (i) Exchange information and perform other actions as necessary to cooperate with private, local, state and federal entities.
+
+      (3) The department’s actions under this section shall not relieve the owners of levees, dikes, ditches or other hydraulic structures of their legal liabilities and responsibilities.
+
+      (4) If the department is aware of conditions that indicate the need for immediate action to prevent the failure of a hydraulic structure, the department may:
+
+      (a) Advise the owner or operator of the hydraulic structure or the individual in immediate charge of the hydraulic structure regarding the actions necessary to prevent the failure; and
+
+      (b) If the conditions create a risk to life, property or public infrastructure, notify emergency managers.
+
+      (5) The Water Resources Commission may adopt rules for the administration of this section. [2015 c.667 §5; 2019 c.390 §20]
 
  
 
-      Note: Section 3, chapter 723, Oregon Laws 2017, provides:
-
-      Sec. 3. (1) As used in this section, “emergency action plan” and “high hazard rating” have the meanings given those terms in section 2 of this 2017 Act [540.353].
-
-      (2) A dam constructed prior to the effective date of this 2017 Act [January 1, 2018] that has a high hazard rating shall have an emergency action plan filed as required in section 2 of this 2017 Act no later than one year after the effective date of this 2017 Act. [2017 c.723 §3]
-
- 
+      Note: The amendments to 540.355 by section 20, chapter 390, Oregon Laws 2019, become operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
 
       540.355 Inspection, evaluation and assessment of levees. (1) In lieu of the authority granted to the Water Resources Commission under ORS 540.350 (5), the Water Resources Department may inspect, evaluate and assess the condition of a levee with the permission of the owner of the levee.
 
@@ -687,7 +771,7 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
 
       (i) Exchange information and perform other actions as necessary to cooperate with private, local, state and federal entities.
 
-      (3) The department’s actions under this section shall not relieve the owners of levees of their legal liabilities and responsibilities. [2015 c.667 §5]
+      (3) The department’s actions under this section shall not relieve the owners of levees of their legal liabilities and responsibilities.
 
  
 
@@ -695,25 +779,53 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
 
  
 
-      540.360 Order to modify. After the hearing the Water Resources Commission may issue a written order to the owners to make such modifications as the commission considers necessary to insure the safety of the works with reference to possible damage to life or property and shall fix the time within which work shall begin in good faith and the time for completion. The owners, upon receipt of the order, shall make the modifications ordered within the time limit prescribed or shall initiate an appeal as above provided. [Amended by 1975 c.581 §26a; 1981 c.210 §2; 1985 c.673 §89]
+      540.360 [Amended by 1975 c.581 §26a; 1981 c.210 §2; 1985 c.673 §89; repealed by 2019 c.390 §27]
 
  
+
+      Note: 540.360 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.360 (2017 Edition) is set forth for the user’s convenience.
+
+      540.360 Order to modify. After the hearing the Water Resources Commission may issue a written order to the owners to make such modifications as the commission considers necessary to insure the safety of the works with reference to possible damage to life or property and shall fix the time within which work shall begin in good faith and the time for completion. The owners, upon receipt of the order, shall make the modifications ordered within the time limit prescribed or shall initiate an appeal as above provided.
+
+ 
+
+      540.370 [Amended by 1985 c.673 §90; repealed by 2019 c.390 §27]
+
+ 
+
+      Note: 540.370 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.370 (2017 Edition) is set forth for the user’s convenience.
 
       540.370 Enforcing compliance with order or decree. (1) If the owners fail to make the modifications within the time limits set by the Water Resources Commission, or to institute their appeal or to comply with the decree of the appellate court in case an appeal is taken, the commission shall issue an order in writing to the owners directing that the gates be kept open, or an opening made in the dam if necessary, or that the structure shall not be used for the storage, restraint or conveyance of water until the modifications have been made.
 
       (2) No owner shall refuse to comply with the orders of the commission or the decree of an appellate court.
 
-      (3) In case of noncompliance, the commission shall direct the watermaster or other authorized assistant to carry out the orders, or the commission may file a copy of the commission’s order with the Attorney General or with the district attorney of the county within which the works are located. The Attorney General or district attorney shall bring proceedings in the name of the state, in the circuit court of the county within which the works or any part thereof are situated, to abate the offending works. The court, after a full hearing on the matter, may declare the works a nuisance and order their removal, or order any repairs or alterations, and may enforce its orders in the manner provided by law. [Amended by 1985 c.673 §90]
+      (3) In case of noncompliance, the commission shall direct the watermaster or other authorized assistant to carry out the orders, or the commission may file a copy of the commission’s order with the Attorney General or with the district attorney of the county within which the works are located. The Attorney General or district attorney shall bring proceedings in the name of the state, in the circuit court of the county within which the works or any part thereof are situated, to abate the offending works. The court, after a full hearing on the matter, may declare the works a nuisance and order their removal, or order any repairs or alterations, and may enforce its orders in the manner provided by law.
 
  
 
-      540.380 Reports of consultants; payment. The Water Resources Commission may accept the reports of consulting engineers, geologists or other specialists whom the owners of the works in question may have employed. But if, for any reason, the commission considers the reports insufficient, the commission may employ consulting engineers, geologists or other specialists outside the Water Resources Department to make special examinations and inspections and to prepare reports for the commission’s guidance. The cost of such special examinations, inspections and reports shall be paid by the commission from any funds at the commission’s disposal, or it may be divided by mutual agreement between the state and the owners. [Amended by 1985 c.673 §91]
+      540.380 [Amended by 1985 c.673 §91; repealed by 2019 c.390 §27]
 
  
 
-      540.390 Inspection of dam, dike or hydraulic structure; expenses; deposit by applicant; payment by owner of works; lien. Should any person residing on or owning land in the neighborhood of any dam, dike or other hydraulic structure after completion, or in course of construction, apply to the Water Resources Commission in writing desiring an inspection of the works, the commission may order an inspection, or the commission may make such order on the commission’s own motion. Before doing so the commission may require the applicant for inspection to deposit a sum of money sufficient to pay the expenses of an inspection. If the application appears to the commission not to have been justified the commission may cause the whole or part of the expenses to be paid out of the deposit. If the application appears to have been justified, the commission may require the owner of the works to pay the whole or any part of the expenses of the inspection, and it shall constitute a valid lien against the works, which may be enforced in the same manner as provided for the enforcement of mechanic’s liens. [Amended by 1985 c.673 §92]
+      Note: 540.380 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.380 (2017 Edition) is set forth for the user’s convenience.
+
+      540.380 Reports of consultants; payment. The Water Resources Commission may accept the reports of consulting engineers, geologists or other specialists whom the owners of the works in question may have employed. But if, for any reason, the commission considers the reports insufficient, the commission may employ consulting engineers, geologists or other specialists outside the Water Resources Department to make special examinations and inspections and to prepare reports for the commission’s guidance. The cost of such special examinations, inspections and reports shall be paid by the commission from any funds at the commission’s disposal, or it may be divided by mutual agreement between the state and the owners.
 
  
+
+      540.390 [Amended by 1985 c.673 §92; repealed by 2019 c.390 §27]
+
+ 
+
+      Note: 540.390 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.390 (2017 Edition) is set forth for the user’s convenience.
+
+      540.390 Inspection of dam, dike or hydraulic structure; expenses; deposit by applicant; payment by owner of works; lien. Should any person residing on or owning land in the neighborhood of any dam, dike or other hydraulic structure after completion, or in course of construction, apply to the Water Resources Commission in writing desiring an inspection of the works, the commission may order an inspection, or the commission may make such order on the commission’s own motion. Before doing so the commission may require the applicant for inspection to deposit a sum of money sufficient to pay the expenses of an inspection. If the application appears to the commission not to have been justified the commission may cause the whole or part of the expenses to be paid out of the deposit. If the application appears to have been justified, the commission may require the owner of the works to pay the whole or any part of the expenses of the inspection, and it shall constitute a valid lien against the works, which may be enforced in the same manner as provided for the enforcement of mechanic’s liens.
+
+ 
+
+      540.400 [Repealed by 2019 c.390 §27]
+
+Note: 540.400 is repealed July 1, 2020. See sections 27 and 28, chapter 390, Oregon Laws 2019. 540.400 (2017 Edition) is set forth for the user’s convenience.
 
       540.400 Applicability of ORS 540.350 to 540.390. ORS 540.350 to 540.390 shall not apply to:
 
@@ -754,6 +866,346 @@ HYDRAULIC WORKS AND STRUCTURES; MEASURING DEVICES; DITCH RIGHT OF WAY
  
 
       540.440 Owner to clear weeds from ditch right of way. All persons owning or controlling any water ditches shall keep their right of way along the ditches clean and free from wild oats, mustard, thistles, or any weeds or noxious grasses whatsoever. [Amended by 2011 c.9 §73]
+
+ 
+
+DAMS
+
+ 
+
+      540.443 Definitions for ORS 540.443 to 540.491. As used in ORS 540.443 to 540.491:
+
+      (1) “Construct” means:
+
+      (a) To build a new dam;
+
+      (b) To modify dam height; or
+
+      (c) To make modifications to a dam that:
+
+      (A) Do not include modifying dam height, performing maintenance actions or removing a dam;
+
+      (B) Have a potential impact on the safe functioning of the dam; and
+
+      (C) Are to an extent that the modified dam structures no longer conform to the original design.
+
+      (2) “Dam” means:
+
+      (a) A hydraulic structure built above the natural ground gradeline that is used to impound water or wastewater; and
+
+      (b) Appurtenant structures on or adjacent to hydraulic structures described in paragraph (a) of this subsection that affect the stability of, or the control of water through or away from, the hydraulic structure.
+
+      (3) “Dam failure” means a rapid, sudden and uncontrolled release of water or wastewater due to loss of dam integrity.
+
+      (4) “Emergency action plan” means a plan that assists a dam owner or operator, and local emergency management personnel, to perform actions to ensure human safety in the event of a potential or actual dam failure.
+
+      (5) “High hazard rating” means that the department expects loss of human life to occur if a dam fails.
+
+      (6) “Maintenance action” means measures that are necessary to address a condition that, if left unaddressed, may cause a dam to become unsafe or potentially unsafe.
+
+      (7) “Potentially unsafe” means that, based on an inspection or analysis:
+
+      (a) It is probable that a dam cannot withstand an extreme flood or earthquake; or
+
+      (b) The dam has a high risk of internal erosion.
+
+      (8) “Significant hazard rating” means the department does not expect loss of life to occur if a dam fails, but does expect extensive damage to property or public infrastructure.
+
+      (9) “Unsafe” means that, based on an inspection or analysis:
+
+      (a) It is probable that a dam cannot be depended upon to retain or pass water or wastewater as designed or operated; and
+
+      (b) Inability of the dam to retain or pass water or wastewater as designed or operated could result in dam failure. [2019 c.390 §2]
+
+ 
+
+      Note: 540.443 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+      540.446 Dams not subject to ORS 540.443 to 540.491. (1) ORS 540.443 to 540.491 do not apply to:
+
+      (a) A dam that is less than 10 feet in height; or
+
+      (b) A dam that impounds less than 3 million gallons of water or wastewater.
+
+      (2) Except as provided in this subsection, ORS 540.443 to 540.491 do not apply to dams regulated under a federal dam safety program. If there is a potential or actual risk of dam failure at a dam regulated under a federal dam safety program, the Water Resources Department may aid in the inspection of the dam and may provide advice and assistance to prevent, mitigate or respond to a potential or actual dam failure. [2019 c.390 §3]
+
+ 
+
+      Note: 540.446 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.449 Construction plan approval; fees; rules. (1) A person may not construct a dam unless the Water Resources Department has examined the site, plans and specifications, features and other supporting information regarding the construction and operation of the dam and has approved them in writing.
+
+      (2) Except as provided in this subsection, a dam may not be used to impound water or wastewater until final documentation for the site, plans and specifications, features and other supporting information of the dam has been submitted to and accepted by the department after completion of construction. The Water Resources Commission may adopt rules to allow all or a portion of a previously authorized impoundment during construction work on a dam that is undergoing modification.
+
+      (3) The department may charge a fee for an examination under subsection (1) of this section of information regarding construction of a new dam or construction to modify dam height. The fee may not exceed the lesser of the costs of providing the examination or:
+
+      (a) $1,750 for a dam that has a low hazard rating;
+
+      (b) $3,500 for a dam that has a significant hazard rating; or
+
+      (c) $8,500 for a dam that has a high hazard rating.
+
+      (4) The department may waive the requirements in subsections (1) and (2) of this section as necessary to address an actual or potential dam failure that poses an imminent risk to life, property or public infrastructure, including but not limited to waiving the requirements for actions identified in an emergency action plan. [2019 c.390 §4]
+
+ 
+
+      Note: 540.449 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.452 Removal plan approval. (1) An owner seeking to remove a dam that has a significant hazard rating or high hazard rating must notify the Water Resources Department. The owner shall provide the department with a removal plan sufficiently in advance of the removal to allow the department reasonable time for evaluating the plan. The department may evaluate the removal plan to ensure that the plan includes appropriate safety precautions to protect life, property and public infrastructure from temporary inundation in the area below the dam during dam removal. The department may require modification of the removal plan or require that the work performed under the plan be supervised by an engineer to the extent the department concludes is necessary to protect life, property or public infrastructure from temporary inundation during dam removal. If the department requires modification of a dam removal plan or requires that the work be supervised by an engineer, the department shall provide the owner with an opportunity to meet with the department.
+
+      (2) A person may not perform removal work on a dam that has a significant hazard rating or high hazard rating except as provided in subsection (1) of this section. [2019 c.390 §5]
+
+ 
+
+      Note: 540.452 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.455 Dam inspections and analysis. (1) The Water Resources Department, or agents or representatives of the department, may inspect a dam and the site, plans and specifications, features and other supporting information regarding the construction, maintenance and operation of a dam. If a dam has a high hazard rating, the department shall ensure that the dam is inspected annually unless the department determines that a different inspection schedule is appropriate.
+
+      (2) The department shall provide the dam owner with an inspection document describing the condition of the dam and specific maintenance actions recommended by the department. [2019 c.390 §6]
+
+ 
+
+      Note: 540.455 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.458 Notice for owner corrective action to address safety issues. (1) If, as the result of an inspection or analysis of a dam that has a high hazard rating or significant hazard rating, the Water Resources Department concludes that corrective action is necessary to address a condition allegedly rendering the dam unsafe or potentially unsafe, the department shall notify the dam owner regarding:
+
+      (a) Why the inspection or analysis of information and conditions causes the department to conclude that the dam is unsafe or potentially unsafe;
+
+      (b) The action the department concludes is necessary to address the alleged unsafe or potentially unsafe condition;
+
+      (c) The opportunity for the dam owner to meet with the department; and
+
+      (d) The opportunity for the dam owner to provide information to challenge the department’s conclusion alleging that the dam is unsafe or potentially unsafe.
+
+      (2) The department shall notify a dam owner under subsection (1) of this section by:
+
+      (a) Registered mail; or
+
+      (b) Certified mail with return receipt requested. [2019 c.390 §7]
+
+ 
+
+      Note: 540.458 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.461 Plan and time frame for corrective action; hearing; proposed and final orders. (1) If the Water Resources Department provides notification to a dam owner under ORS 540.458 stating that the department has concluded that a dam having a significant hazard rating or high hazard rating is unsafe or potentially unsafe, the department may cooperate with dam owner efforts to develop a plan and time frame for corrective action that is agreeable to the department. When determining whether a plan and time frame for corrective action developed by a dam owner is agreeable to the department, the department may consider any relevant information, including, but not limited to, information regarding:
+
+      (a) The specific dam;
+
+      (b) The efforts and resources of the dam owner; and
+
+      (c) The impacts associated with dam failure.
+
+      (2) In addition to any other available remedies, the Water Resources Director may issue a proposed final order containing one or more of the provisions described in subsection (3) of this section if:
+
+      (a) The department and the dam owner do not agree on a plan and time frame under subsection (1) of this section for corrective action to resolve a condition identified in a notification that was sent by mail under ORS 540.458;
+
+      (b) The dam owner has failed to comply with a plan or time frame agreed to under subsection (1) of this section; or
+
+      (c) The department concludes, based on inspection or analysis, that the dam is unsafe.
+
+      (3) If the director issues a proposed final order under subsection (2) of this section, the director shall provide the dam owner with notice and opportunity for hearing under ORS 183.413 to 183.470. If the notice is provided by mail, the director shall use a form of mail described in ORS 540.458. The proposed final order shall include the specific information and conditions that have caused the department to conclude that the dam is unsafe or potentially unsafe. The proposed final order may also include, but need not be limited to, provisions:
+
+      (a) Notifying the dam owner as described in ORS 540.458, if that notification has not been provided.
+
+      (b) Requiring that the dam owner consult with an engineer to assess the nature and extent of the conditions specified by the department allegedly indicating that the dam is unsafe or potentially unsafe and, as necessary, to identify specific corrective action.
+
+      (c) Specifying commencement and completion dates for any corrective action the department deems necessary to remedy the unsafe or potentially unsafe condition.
+
+      (d) Restricting the maximum reservoir level until corrective action has been completed to the satisfaction of the department.
+
+      (e) Directing that the dam may not be used for the storage, restraint or conveyance of water until corrective action has been completed to the satisfaction of the department.
+
+      (f) If the department concludes that monitoring is necessary to protect life, property or public infrastructure, requiring the installation and use of monitoring equipment at a dam to monitor unsafe or potentially unsafe conditions. If the department requires monitoring, the department shall allow the use of the most economical monitoring equipment sufficient to protect life, property and public infrastructure.
+
+      (4) After issuing a proposed final order and allowing an opportunity for hearing, the director may issue a final order as provided under ORS chapter 183.
+
+      (5) The department and a dam owner may at any time use informal or alternative means, including but not limited to stipulation, agreed settlement or consent orders, to resolve a matter for which the department has notified the dam owner as described in ORS 540.458. [2019 c.390 §8]
+
+ 
+
+      Note: 540.461 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.464 Examinations, inspections and reports by specialists. The Water Resources Department may accept the reports of consulting engineers, geologists or other specialists employed by the dam owner. If the department concludes that the reports are insufficient, the department may employ consulting engineers, geologists or other specialists as agents or representatives of the department to make special examinations and inspections and to prepare reports for the department. The cost of such special examinations, inspections and reports shall be paid by the department or, upon mutual agreement, may be divided between the department and the dam owner. [2019 c.390 §9]
+
+ 
+
+      Note: 540.464 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.467 Owner action to address maintenance issues; hearing; proposed and final orders; penalty. (1) If, as the result of an inspection under ORS 540.455 of a dam that has a significant hazard rating or high hazard rating, the Water Resources Department concludes that maintenance actions are needed, the department shall inform the dam owner of the need for maintenance actions. The department shall provide the information by inclusion in the inspection document and provide the dam owner with the opportunity to meet with the department concerning the information.
+
+      (2) If the department or its agent or representative conducts an inspection and the department determines that the dam owner has failed to take needed maintenance actions identified in a prior inspection document, in addition to any other available remedies, the Water Resources Director may issue a proposed final order under subsection (3) of this section. A proposed final order under subsection (3) of this section shall include notice and opportunity for hearing under ORS 183.413 to 183.470.
+
+      (3) Subject to subsection (2) of this section, the director may issue a proposed final order that includes, but need not be limited to, provisions:
+
+      (a) Requiring the dam owner to perform the needed maintenance actions by a specified date; and
+
+      (b) Imposing a civil penalty under ORS 540.995, not to exceed an amount established by the Water Resources Commission by rule, for failing to address the needed maintenance actions identified in the proposed final order or failing to comply with a resolution reached through informal or alternative means.
+
+      (4) If the dam owner performs needed maintenance actions required by a proposed final order issued under subsection (3) of this section to the satisfaction of the department by the date specified in the proposed final order, the director may not impose any civil penalty that was described in the proposed final order.
+
+      (5) After issuing a proposed final order and allowing an opportunity for hearing, the director may issue a final order as provided under ORS chapter 183.
+
+      (6) The department and a dam owner may at any time use informal or alternative means, including but not limited to stipulation, agreed settlement or consent orders, to resolve a matter for which the department has notified the dam owner as described in this section. [2019 c.390 §10]
+
+ 
+
+      Note: 540.467 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.470 Contested case hearings. If the Water Resources Director issues a proposed final order under ORS 540.461, regarding a dam that the Water Resources Department has concluded is unsafe, and the director requests that the scheduling of any contested case hearing on the proposed final order be expedited, the Office of Administrative Hearings shall expedite the date of the contested case hearing to the extent that the office considers is practicable and will give the dam owner reasonable time to prepare. [2019 c.390 §11]
+
+ 
+
+      Note: 540.470 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.473 Application for injunction. In addition to any other available remedies, if the Water Resources Department has information that a person is violating or intends to violate a final order issued under ORS 540.461, or concludes that a dam poses an imminent risk to life, property or public infrastructure, the department may apply to the circuit court for Marion County or to the circuit court for any county where all or part of the dam is located for a temporary or permanent injunction requiring the person to:
+
+      (1) Refrain from violation of the order; or
+
+      (2) Take any actions necessary to remedy an imminent risk to life, property or public infrastructure. [2019 c.390 §12]
+
+ 
+
+      Note: 540.473 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.476 Action to declare dam public nuisance. In addition to any other available remedies, if an order issued under ORS 540.461 (4) becomes final by operation of law or on appeal, and the dam owner fails to comply with the order, the Water Resources Department may request that the Attorney General or the district attorney of any county where all or part of the dam is located bring an action to have the dam declared a public nuisance that must be removed at the dam owner’s expense. [2019 c.390 §13]
+
+ 
+
+      Note: 540.476 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.479 Dam owner responsibilities. (1) The owner of record of a dam shall:
+
+      (a) Provide the Water Resources Department with contact information in an emergency action plan, or in writing if no emergency action plan exists, for:
+
+      (A) The dam owner;
+
+      (B) The operator of the dam, if other than the owner; and
+
+      (C) The individual in immediate charge of the dam;
+
+      (b) Notify the department of any changes in the contact information provided under this subsection; and
+
+      (c) Provide the department with notice after completing a transfer of title for the dam.
+
+      (2) The dam owner shall review and evaluate the conditions at the dam as necessary to:
+
+      (a) Keep the dam in good repair and properly maintained; and
+
+      (b) Address any detected conditions that may pose a risk of dam failure. [2019 c.390 §14]
+
+ 
+
+      Note: 540.479 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.482 Emergency action plan for dam with high hazard rating. (1) The Water Resources Department shall require the owner of a dam that has a high hazard rating to develop an emergency action plan for the dam.
+
+      (2) An emergency action plan required under this section must include, but need not be limited to:
+
+      (a) Means for emergency condition detection;
+
+      (b) Means for emergency level determination;
+
+      (c) Identification of, and information necessary for, notifications and communications to be made at each level of emergency condition;
+
+      (d) A description of actions expected to be undertaken to prevent dam failure or reduce the effects of dam failure;
+
+      (e) A map of dam failure inundation zones for varying conditions, including, but not limited to, dry weather conditions and high flood conditions; and
+
+      (f) Procedures to be followed at the termination of an emergency.
+
+      (3) A dam owner that develops an emergency action plan required under this section shall file copies of the plan with the department, the Office of Emergency Management and the local emergency services agency for the county where the dam is located. The department, in consultation with the office and local emergency services agency, shall periodically review the emergency action plan and may require updates to the plan.
+
+      (4) The department, in consultation with the office and local emergency services agency, shall determine the appropriate frequency for conducting emergency response exercises at a dam that has a high hazard rating. [2019 c.390 §15]
+
+ 
+
+      Note: 540.482 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.485 Actual or potential dam failure. (1) If an actual or potential dam failure creates an imminent risk to life, property or public infrastructure, and an emergency action plan exists for the dam, the dam owner shall immediately implement the actions specified in the plan.
+
+      (2) If an actual or potential dam failure creates an imminent risk to life, property or public infrastructure, and no emergency action plan exists for the dam, the dam owner shall immediately:
+
+      (a) Notify by telephone or other method that ensures immediate notification:
+
+      (A) If the dam has a significant hazard rating, the local emergency services agency for the county where the dam is located;
+
+      (B) The Water Resources Department; and
+
+      (C) To the extent practicable, persons in areas where the potential for dam failure creates a risk to life, property or public infrastructure; and
+
+      (b) Take all practicable actions to prevent dam failure.
+
+      (3) If the department is aware of conditions that indicate the need for immediate action to prevent dam failure, the department may advise the owner or operator of the dam or the individual in immediate charge of the dam regarding the actions necessary to prevent the dam failure.
+
+      (4) The department may communicate and coordinate actions necessary to reduce the risk of dam failure. If there is a rapidly increasing leakage or risk of overtopping at a dam that has a significant hazard rating or high hazard rating, the department may open gates or valves and may siphon or pump water to reduce the water level in the reservoir. Activities under this subsection by the department do not relieve the owner, the operator or an individual in immediate charge of a dam from the responsibility to prevent the dam failure.
+
+      (5) If a dam that has a significant hazard rating or high hazard rating presents an imminent risk of dam failure, the department or its agent or representative may enter without notice or permission upon any property that affords access to the dam to the extent entry is reasonable or necessary to allow evaluation of the condition or risk or to undertake actions described in subsection (4) of this section. [2019 c.390 §16]
+
+ 
+
+      Note: 540.485 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
+
+ 
+
+      540.488 Water Resources Commission duties and powers; rules. (1) The Water Resources Commission may adopt rules the commission deems necessary or convenient for the administration and enforcement of ORS 540.443 to 540.491.
+
+      (2) Notwithstanding subsection (1) of this section, the commission shall adopt rules that, at a minimum, establish:
+
+      (a) A schedule of civil penalty amounts for purposes of ORS 540.995;
+
+      (b) The conditions under which the Water Resources Department may remit a civil penalty; and
+
+      (c) Standards for the site, plans, specifications, designs and other engineering requirements for the construction or removal of a dam.
+
+      (3) In addition to any other powers of the department, in carrying out department duties, functions and powers under ORS 540.443 to 540.491, the department may:
+
+      (a) Enter into contracts, memorandums of understanding and intergovernmental agreements for:
+
+      (A) The inspection, evaluation or study of dams; or
+
+      (B) The response to dam failure or potential dam failure;
+
+      (b) Accept moneys from any public or private source for the administration and enforcement of ORS 540.443 to 540.491 or for enhancing the safety of dams or the protection of life, property or public infrastructure in areas below dams;
+
+      (c) Coordinate with federal, tribal, state, local and private entities to enhance the safety of dams or the protection of life, property or public infrastructure in areas below dams; and
+
+      (d) Waive or reduce fees for dams inspected by another state agency under a memorandum of understanding with the department. [2019 c.390 §17]
+
+ 
+
+      540.491 Dam owner or operator liability. (1) Compliance with ORS 540.443 to 540.491 does not relieve the owner or operator of a dam or an individual in immediate charge of a dam from any duty, obligation or liability regarding the ownership, maintenance or operation of the dam.
+
+      (2) Water Resources Department actions and services under ORS 540.443 to 540.491 do not relieve the owner or operator of a dam or an individual in immediate charge of a dam from any duty, obligation or liability regarding the ownership, maintenance or operation of the dam. [2019 c.390 §18]
+
+ 
+
+      Note: 540.491 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
 
  
 
@@ -1118,6 +1570,8 @@ CHANGES IN USE OF WATER; TRANSFER OF WATER RIGHTS; EXCHANGE
  
 
       540.550. [Renumbered 540.589 in 2017]
+
+ 
 
       540.560 Order changing description of land to which water right is appurtenant; limitation; purpose; hearing; effect of final order. (1) If the Water Resources Commission considers that a certificate of water right does not identify the lands to which the right is appurtenant with sufficient specificity for management, delivery or transfer of that right, the commission may issue an order clarifying and refining the description of the land to which the water right is appurtenant.
 
@@ -1571,9 +2025,31 @@ PENALTIES
 
  
 
+      540.990 Criminal penalties. (1) Violation of any provision of ORS 540.440 is a Class C misdemeanor.
+
+      (2) Violation of any provision of ORS 540.570 (5), 540.710, 540.720 or 540.730 is a Class B misdemeanor.
+
+      (3) Failure to comply with a final order issued under ORS 540.461 (4), or with an order issued by an appellate court on appeal from a final order under ORS 540.461 (4), is a Class B misdemeanor. [Amended by 2001 c.788 §§7,13; 2003 c.14 §§344,345; 2003 c.705 §§19,21; 2011 c.597 §226; 2019 c.390 §24]
+
+ 
+
+      Note: The amendments to 540.990 by section 24, chapter 390, Oregon Laws 2019, become operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
       540.990 Penalties. (1) Violation of any provision of ORS 540.440 is a Class C misdemeanor.
 
-      (2) Violation of any provision of ORS 540.370 (2), 540.570 (5), 540.710, 540.720 or 540.730 is a Class B misdemeanor. [Amended by 2001 c.788 §§7,13; 2003 c.14 §§344,345; 2003 c.705 §§19,21; 2011 c.597 §226]
+      (2) Violation of any provision of ORS 540.370 (2), 540.570 (5), 540.710, 540.720 or 540.730 is a Class B misdemeanor.
+
+ 
+
+      540.995 Civil penalties. (1) The Water Resources Director may impose a civil penalty of not more than $2,000 per occurrence for a violation of ORS 540.449, 540.452 or 540.482.
+
+      (2) The Water Resources Director may impose a civil penalty, not to exceed $500, by order as provided under ORS 540.467. If a violation of an order under ORS 540.467 is a continuing condition, each month that the condition continues is a separate violation subject to imposition of a civil penalty.
+
+      (3) Moneys recovered from civil penalties imposed under this section shall be deposited in the State Treasury and credited to an account of the Water Resources Department. Moneys described in this section are continuously appropriated to the department for the administration and enforcement of ORS 540.443 to 540.491. [2019 c.390 §19]
+
+ 
+
+      Note: 540.995 becomes operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019.
 
 _______________
 

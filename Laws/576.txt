@@ -209,7 +209,7 @@ COMMODITY COMMISSIONS
 
  
 
-576.375     Payment of commission moneys to authorized agent; deposits and withdrawals; investments
+576.375     Payment of commission moneys to authorized agent; financial transactions
 
  
 
@@ -301,7 +301,7 @@ PAYMENT FOR AGRICULTURAL COMMODITIES
 
  
 
-(Seeds)
+(Agricultural Seeds)
 
  
 
@@ -349,47 +349,95 @@ PAYMENT FOR AGRICULTURAL COMMODITIES
 
  
 
+(Other Seeds)
+
+ 
+
+576.780     Definitions for ORS 576.780 to 576.809
+
+ 
+
+576.783     Terms of seed production contract
+
+ 
+
+576.786     Payment due date terms in contracts authenticated prior to planting
+
+ 
+
+576.789     Seed bailment contracts and seed purchase contracts; title; lien
+
+ 
+
+576.792     Terms of seed purchase contract
+
+ 
+
+576.795     Modification of contract; damages for breach
+
+ 
+
+576.798     Seed not meeting contract quality standards
+
+ 
+
+576.802     Failure of seed dealer to make timely payment; fee
+
+ 
+
+576.806     Financial assurance by seed dealer
+
+ 
+
+576.809     Rules; dispute resolution services
+
+ 
+
+576.814     Reporting adoption of rules regarding financial assurance by seed dealer
+
+ 
+
 OREGON WINE BOARD; WINE CELLAR
 
  
 
-576.750     Definitions for ORS 576.750 to 576.775
+576.850     Definitions for ORS 576.850 to 576.877
 
  
 
-576.751     Legislative findings
+576.853     Legislative findings
 
  
 
-576.753     Oregon Wine Board
+576.856     Oregon Wine Board
 
  
 
-576.756     Board purpose and duties
+576.859     Board purpose and duties
 
  
 
-576.759     Board powers
+576.862     Board powers
 
  
 
-576.763     State wine cellar; sources; uses
+576.865     State wine cellar; sources; uses
 
  
 
-576.766     Rules; board employees
+576.868     Rules; board employees
 
  
 
-576.768     Strategic plan; budget; rules
+576.871     Strategic plan; budget; rules
 
  
 
-576.771     Payment of tax; delayed payment; records; inspections and audits
+576.874     Payment of tax; delayed payment; records; inspections and audits
 
  
 
-576.775     Disposition of moneys; research and promotion
+576.877     Disposition of moneys; research and promotion
 
  
 
@@ -661,21 +709,19 @@ COMMODITY COMMISSIONS
 
       (13) The Oregon Mint Commission.
 
-      (14) The Oregon Orchardgrass Seed Producers Commission.
+      (14) The Oregon Processed Vegetable Commission.
 
-      (15) The Oregon Processed Vegetable Commission.
+      (15) The Oregon Raspberry and Blackberry Commission.
 
-      (16) The Oregon Raspberry and Blackberry Commission.
+      (16) The Oregon Ryegrass Growers Seed Commission.
 
-      (17) The Oregon Ryegrass Growers Seed Commission.
+      (17) The Oregon Strawberry Commission.
 
-      (18) The Oregon Strawberry Commission.
+      (18) The Oregon Sweet Cherry Commission.
 
-      (19) The Oregon Sweet Cherry Commission.
+      (19) The Oregon Tall Fescue Commission.
 
-      (20) The Oregon Tall Fescue Commission.
-
-      (21) The Oregon Trawl Commission. [2003 c.604 §15; 2003 c.749 §18; 2007 c.132 §3; 2007 c.146 §3; 2009 c.367 §3; 2011 c.181 §1]
+      (20) The Oregon Trawl Commission. [2003 c.604 §15; 2003 c.749 §18; 2007 c.132 §3; 2007 c.146 §3; 2009 c.367 §3; 2011 c.181 §1; 2019 c.275 §1]
 
  
 
@@ -961,23 +1007,21 @@ COMMODITY COMMISSIONS
 
  
 
-      576.306 Independent contractors performing services for commission; rentals and acquisitions; rules. (1) A commodity commission may contract with an independent contractor for the performance of any services. However, the commission may not contract with an independent contractor to perform the discretionary functions of the commission. ORS 279.835 to 279.855 and ORS chapters 240, 279A, 279B and 279C do not apply to the commission in obtaining such services, except that a contract for such services may not take effect until approved by the State Department of Agriculture as provided in subsection (7) of this section.
+      576.306 Independent contractors performing services for commission; rentals and acquisitions; rules. (1) A commodity commission may contract with an independent contractor for the performance of administrator or other services. However, the commission may not contract with an independent contractor to perform the discretionary functions of the commission. As used in this subsection, “discretionary functions” does not include collecting assessments, scheduling meetings, processing payments or other administrative duties, tasks or projects assigned by the commodity commission. ORS 279.835 to 279.855 and ORS chapters 240, 279A, 279B and 279C do not apply to the commission in obtaining services under this subsection, except that a contract for such services may not take effect until approved by the State Department of Agriculture as provided in subsection (6) of this section.
 
       (2) The commission may rent space or acquire supplies and equipment from any contractor as described in subsection (1) of this section. ORS chapters 276, 278, 279A, 279B, 279C and 283 and ORS 276A.206, 279.835 to 279.855 and 283.085 to 283.092 do not apply to such rentals or acquisitions.
 
       (3) Except as provided in this section, a contractor described in subsection (1) of this section shall be considered an independent contractor and not an employee, eligible employee, public employee or employee of the state for purposes of Oregon law, including ORS chapters 236, 238, 238A, 240, 243, 291, 292, 316 and 652.
 
-      (4) Nothing in this section precludes the state or a commission from being considered the employer of the contractor described in subsection (1) of this section for purposes of unemployment compensation under ORS chapter 657 and ORS 670.600.
+      (4) A contractor described in subsection (1) of this section shall be considered an independent contractor and not a worker for purposes of ORS chapter 656 and ORS 670.600.
 
-      (5) A contractor described in subsection (1) of this section shall be considered an independent contractor and not a worker for purposes of ORS chapter 656 and ORS 670.600.
+      (5) A contractor described in subsection (1) of this section may not be considered a public official, public officer, state officer or executive official for purposes of Oregon law, including ORS chapters 236, 244, 292, 295 and 297 and ORS 171.725 to 171.785.
 
-      (6) A contractor described in subsection (1) of this section may not be considered a public official, public officer, state officer or executive official for purposes of Oregon law, including ORS chapters 236, 244, 292, 295 and 297 and ORS 171.725 to 171.785.
+      (6) The State Department of Agriculture shall review the contract described in subsection (1) of this section for the adequacy of the clauses pertaining to statement of work, starting and ending dates, consideration, subcontracts, funds authorized in the budget, amendments, termination, compliance with applicable law, assignment and waiver, access to records, indemnity, ownership of work product, nondiscrimination, successors in interest, attorney fees, tax certification or merger or any other clause the department deems necessary.
 
-      (7) The State Department of Agriculture shall review the contract described in subsection (1) of this section for the adequacy of the clauses pertaining to statement of work, starting and ending dates, consideration, subcontracts, funds authorized in the budget, amendments, termination, compliance with applicable law, assignment and waiver, access to records, indemnity, ownership of work product, nondiscrimination, successors in interest, attorney fees, tax certification or merger or any other clause the department deems necessary.
+      (7) The Oregon Department of Administrative Services, in consultation with the State Department of Agriculture, shall adopt rules necessary for the screening and selection of independent contractors under this section.
 
-      (8) The Oregon Department of Administrative Services, in consultation with the State Department of Agriculture, shall adopt rules necessary for the screening and selection of independent contractors under this section.
-
-      (9) Except as provided in subsection (8) of this section, the State Department of Agriculture may promulgate any rules necessary for the administration and enforcement of this section. [1991 c.948 §2; 1997 c.802 §21; 2003 c.733 §79; 2003 c.794 §302; 2005 c.22 §§394,395; 2012 c.107 §66]
+      (8) Except as provided in subsection (7) of this section, the State Department of Agriculture may promulgate any rules necessary for the administration and enforcement of this section. [1991 c.948 §2; 1997 c.802 §21; 2003 c.733 §79; 2003 c.794 §302; 2005 c.22 §§394,395; 2012 c.107 §66; 2019 c.275 §8]
 
  
 
@@ -1073,7 +1117,7 @@ COMMODITY COMMISSIONS
 
       (a) The maximum assessment by the Oregon Clover Seed Commission may not exceed one and one-half percent of the industry average unit price for products within the same market category, if assessed on a unit basis.
 
-      (b) The maximum assessments by the Oregon Albacore Commission, the Oregon Orchardgrass Seed Producers Commission and the Oregon Tall Fescue Commission may not exceed three percent of the industry average unit price if assessed on a unit basis or three percent of the value received by a producer for the raw commodity if assessed on a percentage of dollar value basis.
+      (b) The maximum assessments by the Oregon Albacore Commission and the Oregon Tall Fescue Commission may not exceed three percent of the industry average unit price if assessed on a unit basis or three percent of the value received by a producer for the raw commodity if assessed on a percentage of dollar value basis.
 
       (c) The maximum assessment by the Oregon Sweet Cherry Commission for fresh, brined, canned and frozen cherries may not exceed four percent of the respective industry average unit prices for fresh, brined, canned and frozen cherries if assessed on a unit basis.
 
@@ -1091,7 +1135,7 @@ COMMODITY COMMISSIONS
 
       (8) Notwithstanding subsections (3) and (4) of this section, a commodity commission may assess, levy and collect an assessment in excess of the limits described in subsections (3) and (4) of this section pursuant to a federal marketing order or agreement.
 
-      (9) A person who believes that the amount of an assessment is incorrect may apply to the commission for a refund not later than 60 days after the person pays the assessment. [1953 c.489 §21; 1957 c.447 §14; 1959 c.596 §13; 1983 c.645 §1; 2001 c.504 §4; 2003 c.604 §39; 2007 c.132 §4; 2013 c.308 §1]
+      (9) A person who believes that the amount of an assessment is incorrect may apply to the commission for a refund not later than 60 days after the person pays the assessment. [1953 c.489 §21; 1957 c.447 §14; 1959 c.596 §13; 1983 c.645 §1; 2001 c.504 §4; 2003 c.604 §39; 2007 c.132 §4; 2013 c.308 §1; 2019 c.275 §7]
 
  
 
@@ -1189,7 +1233,7 @@ COMMODITY COMMISSIONS
 
  
 
-      576.375 Payment of commission moneys to authorized agent; deposits and withdrawals; investments. (1) Moneys a person collects or receives from the assessment levied under the authority of ORS 576.325 and other moneys a commodity commission receives must be paid to the authorized agent of the commission and promptly deposited into an account established by the commission in a depository, as defined in ORS 295.001, that is insured by the Federal Deposit Insurance Corporation or the National Credit Union Share Insurance Fund. In a manner consistent with the requirements of ORS 295.001 to 295.108, the chairperson and vice chairperson for a commission shall ensure that sufficient collateral secures any amount of funds on deposit that exceeds the limits of the Federal Deposit Insurance Corporation’s or the National Credit Union Share Insurance Fund’s coverage. All moneys in the account are continuously appropriated to the commission that makes the deposit for the purpose of carrying out the commission’s duties, functions and powers.
+      576.375 Payment of commission moneys to authorized agent; financial transactions. (1) Moneys a person collects or receives from the assessment levied under the authority of ORS 576.325 and other moneys a commodity commission receives must be paid to the authorized agent of the commission and promptly deposited into an account established by the commission in accordance with ORS 295.001 to 295.108. All moneys in the account are continuously appropriated to the commission that makes the deposit for the purpose of carrying out the commission’s duties, functions and powers.
 
       (2) Moneys may not be withdrawn from or paid out of the account except upon order of the commission, and upon checks or other orders upon such accounts signed by the secretary-treasurer or such other member of the commission as the commission designates and countersigned by such other member, officer or employee of the commission as the commission designates. The commission shall keep a receipt, voucher or other written record, showing clearly the nature and items covered by each check or other order.
 
@@ -1201,7 +1245,7 @@ COMMODITY COMMISSIONS
 
       (c) Subject to the conduct prohibitions listed in ORS 294.145.
 
-      (4) Interest earned from any moneys a commission invests under subsection (3) of this section is available to the commission in a manner consistent with the commission’s annual budget. [1953 c.489 §22; 1959 c.596 §17; 1967 c.451 §25; 2003 c.604 §45; 2007 c.871 §29; 2010 c.101 §27]
+      (4) Interest earned from any moneys a commission invests under subsection (3) of this section is available to the commission in a manner consistent with the commission’s annual budget. [1953 c.489 §22; 1959 c.596 §17; 1967 c.451 §25; 2003 c.604 §45; 2007 c.871 §29; 2010 c.101 §27; 2019 c.587 §51]
 
  
 
@@ -1455,7 +1499,7 @@ PAYMENT FOR AGRICULTURAL COMMODITIES
 
  
 
-(Seeds)
+(Agricultural Seeds)
 
  
 
@@ -1697,11 +1741,325 @@ PAYMENT FOR AGRICULTURAL COMMODITIES
 
  
 
+      576.750 [1977 c.690 §1; 1983 c.651 §1; 1995 c.301 §32; 2003 c.797 §25; 2005 c.22 §404; renumbered 576.850 in 2019]
+
+ 
+
+      576.751 [2003 c.797 §2; renumbered 576.853 in 2019]
+
+ 
+
+      576.753 [2003 c.797 §3; renumbered 576.856 in 2019]
+
+ 
+
+      576.755 [1977 c.690 §2; 1983 c.651 §2; 1987 c.804 §2; repealed by 2003 c.797 §28]
+
+ 
+
+      576.756 [2003 c.797 §7; renumbered 576.859 in 2019]
+
+ 
+
+      576.759 [2003 c.797 §5; 2005 c.22 §405; renumbered 576.862 in 2019]
+
+ 
+
+      576.760 [1977 c.690 §3; 1983 c.651 §3; 1987 c.804 §4; repealed by 2003 c.797 §28]
+
+ 
+
+      576.763 [1985 c.117 §2; 2003 c.797 §26; renumbered 576.865 in 2019]
+
+ 
+
+      576.765 [1977 c.690 §6; 1983 c.651 §5; 1987 c.804 §3; 1997 c.249 §185; repealed by 2003 c.797 §28]
+
+ 
+
+      576.766 [2003 c.797 §6; 2005 c.22 §406; renumbered 576.868 in 2019]
+
+ 
+
+      576.768 [2003 c.797 §11; 2005 c.22 §407; 2009 c.762 §88; 2013 c.768 §145b; 2015 c.366 §95; 2015 c.767 §205; renumbered 576.871 in 2019]
+
+ 
+
+      576.771 [2003 c.797 §8; renumbered 576.874 in 2019]
+
+ 
+
+      576.775 [2003 c.797 §10; 2005 c.22 §408; renumbered 576.877 in 2019]
+
+ 
+
+(Other Seeds)
+
+ 
+
+      576.780 Definitions for ORS 576.780 to 576.809. As used in ORS 576.780 to 576.809:
+
+      (1) “Authenticate” has the meaning given that term in ORS 79.0102.
+
+      (2)(a) “Other seed,” except as provided in paragraph (b) of this subsection, means seed or a mixture of seed grown for commercial purposes.
+
+      (b) “Other seed” does not include:
+
+      (A) Agricultural seed as defined in ORS 576.715 or a mixture containing agricultural seed.
+
+      (B) Any seed or mixture of seed that the Director of Agriculture excludes by rule in response to a request by a producer organization or other producer group.
+
+      (C) Seed or a mixture of seed produced or processed under ORS 475B.785 to 475B.949.
+
+      (3) “Producer” means a person that grows other seed in this state on a commercial basis for a seed dealer.
+
+      (4) “Seed bailment contract” means a seed production contract under which the seed dealer retains title to all seed, seed stock and plant life grown or used by the producer under the terms of the contract.
+
+      (5) “Seed dealer” means a person that in the ordinary course of business contracts to buy other seed grown in this state by a producer or contracts with a producer for the growing of other seed in this state.
+
+      (6) “Seed delivery” means the date on which the seed grower delivers other seed to the seed dealer pursuant to a notice from the dealer.
+
+      (7) “Seed grower” means a person that grows other seed in this state on a commercial basis without entering into a contract with a seed dealer prior to harvesting of the seed.
+
+      (8) “Seed production contract” means a written agreement between a producer and a seed dealer for the growing of other seed in this state.
+
+      (9) “Seed purchase contract” means a written agreement for a seed dealer to purchase other seed that has been grown by a seed grower. “Seed purchase contract” does not include a seed production contract.
+
+      (10) “Variety Not Stated Seed” means other seed that is sold in unmarked plastic bags or other unmarked containers without any reference to a variety name for the seed. [2018 c.26 §1]
+
+ 
+
+      Note: 576.780 to 576.814 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 576 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      576.783 Terms of seed production contract. (1) The following terms apply to seed production contracts:
+
+      (a) If the contract does not settle the price of the other seed, the contract is enforceable and the price shall be determined as described in ORS 72.3050 (1) to (3).
+
+      (b) Except as provided in ORS 576.786 (1) or (3), payment to the producer is due no later than the earliest of the following:
+
+      (A) The dates specified in the contract.
+
+      (B) Thirty days after seed delivery.
+
+      (C) July 1 of the calendar year following the harvesting of the seed.
+
+      (c) Unless expressly provided otherwise in a seed production contract that is authenticated by the producer and seed dealer prior to the producer planting the other seed, the risk of loss and the responsibility for the payment of storage fees transfer from the producer to the seed dealer upon the earlier of:
+
+      (A) The delivery of the seed to the seed dealer pursuant to a notice from the seed dealer; or
+
+      (B) The delivery to the seed dealer of test results establishing that the seed meets quality standards set forth in the contract.
+
+      (2) It is an implied condition of any price or payment requirement described in subsection (1) of this section that the producer is performing, or has completed performance, in accordance with the seed production contract and has not otherwise breached the contract.
+
+      (3) Except as provided in subsection (5) of this section, a seed production contract described in this section may contain any additional terms agreed to by the parties.
+
+      (4) If a seed production contract is extended or renewed, for the extension or renewal period the parties may:
+
+      (a) Subject to paragraph (b) of this subsection, continue the terms of the original contract or agree to new or different contract terms; and
+
+      (b) Agree to payment due date terms as provided under this section or under ORS 576.786 (3).
+
+      (5) A seed production contract may not:
+
+      (a) Provide for exclusive venue or jurisdiction in another state;
+
+      (b) Provide for the terms of the contract to be interpreted under the laws of another state;
+
+      (c) Waive the application of ORS 576.780 to 576.809 to the contract; or
+
+      (d) Authorize a unilateral material modification of the contract.
+
+      (6) Subject to ORS 72.2010, subsections (1) and (5) of this section also apply to a nonwritten agreement for the production of other seed.
+
+      (7) A term in a seed production contract that conflicts with subsection (1) or (5) of this section is void as a matter of public policy.
+
+      (8) ORS 576.705 does not apply to a processor as defined in ORS 576.700 that arranges for the production of other seed under a contract that is subject to this section or ORS 576.786. [2018 c.26 §2]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.786 Payment due date terms in contracts authenticated prior to planting. (1) A seed production contract that is authenticated by the producer and seed dealer prior to the producer planting the other seed may contain payment due date terms that differ from the payment due date terms described in ORS 576.783 (1)(b) if the contract states the date by which final payment for the other seed is due.
+
+      (2) If a seed production contract that is authenticated by the producer and seed dealer prior to the producer planting the other seed does not contain the information required under subsection (1) of this section, notwithstanding any contrary payment due date terms stated in the contract, the payment due date terms of the contract are subject to ORS 576.783 (1)(b).
+
+      (3) An extension or renewal of any seed production contract, regardless of when the contract was authenticated, may contain payment due date terms that differ from the payment due date terms described in ORS 576.783 (1)(b) if the extension or renewal contains the information required under subsection (1) of this section. If an extension or renewal of a seed production contract does not contain the information required under subsection (1) of this section, notwithstanding any contrary payment due date terms stated in the extension or renewal, the payment due date terms for the extension or renewal are subject to ORS 576.783 (1)(b).
+
+      (4) It is an implied condition of any payment requirement created as provided under this section that the producer is performing, or has completed performance, in accordance with the seed production contract and has not otherwise breached the contract. [2018 c.26 §3]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.789 Seed bailment contracts and seed purchase contracts; title; lien. (1) A seed bailment contract or seed purchase contract does not create a possessory security interest in goods under ORS chapter 79. For a seed bailment contract, filing, recording or notice of the contract is not a requirement for establishing, during the term of the contract, the validity of the contract or for establishing and confirming in the seed dealer the title to all seed, seed stock and plant life grown or used by the producer under the terms of the contract.
+
+      (2) Payments due from a seed dealer to a producer under the terms of a seed bailment contract, or due to a seed grower under the terms of a seed purchase contract, are subject to lien under ORS 87.226 and to security interests perfected as provided under ORS chapter 79. [2018 c.26 §4]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.792 Terms of seed purchase contract. (1) The terms of a seed purchase contract must include:
+
+      (a) The estimated date for seed delivery;
+
+      (b) The terms and estimated date for the seed dealer to pay the seed grower;
+
+      (c) The amount of other seed to be purchased; and
+
+      (d) The species, cultivars and quality standards of the other seed to be purchased.
+
+      (2) If the seed purchase contract does not settle the price of the other seed, the contract is enforceable and price shall be determined as described in ORS 72.3050 (1) to (3). A seed purchase contract must require the seed dealer to make payment to the seed grower within 30 days after seed delivery. However, upon written mutual agreement of the seed grower and the seed dealer, the grower may extend the period available for the dealer to make payment. [2018 c.26 §5]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.795 Modification of contract; damages for breach. (1) A seed dealer that requests modification to the payment terms of a seed production contract for other seed shall pay an amount equal to at least 25 percent of the value of the contract prior to modification of the contract.
+
+      (2) A party to a seed production contract or seed purchase contract may not, as a condition of performance, require the other party to agree to a material modification of the contract. A contract modification obtained in violation of this subsection is unenforceable.
+
+      (3) In any action to recover damages for breach of a seed production contract or seed purchase contract, if the court finds that a party to the contract failed to act in good faith as defined in ORS 71.2010, the court may award the prevailing party court costs and reasonable attorney fees. [2018 c.26 §6]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.798 Seed not meeting contract quality standards. (1) If testing as provided under a seed production contract establishes that other seed does not meet the quality standards set forth in the contract, the producer may at any time send the test results to the seed dealer and inquire whether the seed dealer intends to purchase the seed. If, within 30 days after the seed dealer receives the test results and inquiry from the producer, the seed dealer delivers a response informing the producer that the seed dealer intends to purchase the seed, the response is an accord that forms a seed purchase contract for the seed purchased under this subsection. Except as provided in this subsection regarding price, the parties may establish the terms of the seed purchase contract as provided under ORS 576.792. The price of the seed that is subject to the seed purchase contract shall be:
+
+      (a) Any price stated in the seed production contract for seed not meeting quality standards;
+
+      (b) If not determined by the seed production contract, any price agreed to by the parties; or
+
+      (c) If not determined by the seed production contract or by agreement, the market price for seed of the same kind and quality as the produced seed. However, a seed price established by the use of market price may not exceed any price established in the seed production contract for seed that meets quality standards.
+
+      (2) An accord that creates a seed purchase contract under subsection (1) of this section does not affect the terms of a seed production contract for any seed that was not described in the test results and inquiry sent by the producer.
+
+      (3) A producer may send test results and make an inquiry under subsection (1) of this section in any manner that documents seed dealer receipt of the test results and inquiry. A seed dealer may send a response under subsection (1) of this section to a producer in any manner that documents producer receipt of the response.
+
+      (4) If, within 30 days after the seed dealer receives the test results and inquiry from the producer, the seed dealer has not delivered a response informing the producer that the seed dealer intends to purchase the seed, the seed dealer is deemed to have refused purchase of the seed and to have authorized the producer to sell the seed in a commercially reasonable manner as “Variety Not Stated Seed.” This subsection does not authorize the sale of any seed, seed stock or plant life of a protected variety grown or used by the producer other than a sale of seed as “Variety Not Stated Seed.” The remedy provided under this subsection is in addition to any other remedy available to a producer by law. An authorization for sale arising under this subsection is in addition to any other conditional or unconditional authorization for sale that a seed dealer may grant to a producer. [2018 c.26 §7]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.800 [1997 c.9 §1; renumbered 571.350 in 2009]
+
+ 
+
+      576.802 Failure of seed dealer to make timely payment; fee. (1) If a seed dealer fails to pay a producer for other seed when payment is due under a seed production contract or fails to pay a seed grower for other seed when payment is due under a seed purchase contract, the producer or seed grower may notify the State Department of Agriculture. Upon notification by a producer or seed grower, the department shall determine whether payment has been made when due. If the department determines that the seed dealer has not made a payment that is due under a seed production contract or seed purchase contract, the department shall notify the seed dealer in writing that the dealer has 30 days to pay the producer or seed grower all delinquent amounts plus interest on each delinquent amount at the rate of one percent per month simple interest from the final payment date for that delinquent amount.
+
+      (2) A seed production contract or seed purchase contract may not vary the terms of the remedy provided by this section. A seed dealer may appeal the notice given by the department under this section as provided in ORS chapter 183. This section does not prevent a producer or seed grower from filing a notice of lien against a seed dealer.
+
+      (3) If a seed dealer fails to make payment as required by a notice given by the department under this section, the department shall suspend any seed dealer license issued to the dealer until the dealer demonstrates to the satisfaction of the department that the dealer is current on all payments due to all producers and seed growers. An order suspending a license under this subsection is subject to ORS chapter 183. However, the department may not suspend a seed dealer license under this section using the procedure described in ORS 183.430 (2).
+
+      (4) A seed dealer that fails to make payment on a seed production contract or seed purchase contract as required by a notice given by the department under this section is considered to have authorized the producer or seed grower to sell in a commercially reasonable manner any seed from the contract that is still in the possession of the producer or seed grower. This subsection does not prevent a seed dealer from giving consent to the producer or seed grower by other means and does not supersede the terms of a consent given by other means.
+
+      (5) The department may charge a producer or seed grower a fee, not to exceed $200, for determining whether payment has been made in accordance with the terms of a seed production contract or seed purchase contract. The department may charge a producer or seed grower a fee, not to exceed $50, for notifying a seed dealer in writing regarding the deadline for payment of delinquent amounts plus interest. [2018 c.26 §8]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.805 [1997 c.9 §2; renumbered 571.355 in 2009]
+
+ 
+
+      576.806 Financial assurance by seed dealer. (1) As used in this section:
+
+      (a) “Officer” means any of the following individuals:
+
+      (A) A president, vice president, secretary, treasurer or director of a corporation.
+
+      (B) A general partner in a limited partnership.
+
+      (C) A manager in a manager-managed limited liability company.
+
+      (D) A member of a member-managed limited liability company.
+
+      (E) A trustee.
+
+      (F) An individual that is an officer as defined by the State Department of Agriculture by rule. A definition of “officer” adopted by department rule may include individuals not listed in this paragraph who may exercise substantial control over a business.
+
+      (b) “Owner” means:
+
+      (A) A sole proprietor of, partner in or holder of a controlling interest in an applicant; or
+
+      (B) Any person that is an owner as defined by the department by rule.
+
+      (2) The State Department of Agriculture may adopt rules to require, as a condition of issuing a seed dealer license under ORS 633.700, that each seed dealer provide the department financial assurance for the performance by the seed dealer under any seed production contract or seed purchase contract entered into by the seed dealer.
+
+      (3) The department may refuse to issue a seed dealer license to an applicant if the applicant, any owner or officer of the applicant or any individual exercising substantial control over the seed industry activities of the applicant:
+
+      (a) Is a seed dealer for which the license has been suspended under ORS 576.802;
+
+      (b) Is or was an owner or officer of a seed dealer at the time of an event that resulted in the license of the seed dealer being suspended under ORS 576.802; or
+
+      (c) Was an individual who exercised substantial control over the seed industry activities of a seed dealer at the time of an event that resulted in the license of the seed dealer being suspended under ORS 576.802.
+
+      (4) An agent that enters into a seed production contract on behalf of a seed dealer is conclusively presumed to have actual authority to establish the performance obligations of the seed dealer under the contract. [2018 c.26 §9]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.809 Rules; dispute resolution services. (1) The Director of Agriculture may adopt rules for the administration and enforcement of ORS 576.780 to 576.809.
+
+      (2) The director may make mediation services available through the State Department of Agriculture for the resolution of seed production contract disputes and seed purchase contract disputes. [2018 c.26 §10]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.810 [1997 c.9 §3; 1999 c.105 §4; renumbered 571.360 in 2009]
+
+ 
+
+      576.814 Reporting adoption of rules regarding financial assurance by seed dealer. If the State Department of Agriculture adopts a rule described in ORS 576.806 (2), the department shall report to the next regular session of the Legislative Assembly following the rule adoption regarding the contents of the rule and the matters considered by the department in developing the rule. [2018 c.26 §11]
+
+ 
+
+      Note: See note under 576.780.
+
+ 
+
+      576.815 [1997 c.9 §6; renumbered 571.365 in 2009]
+
+ 
+
+      576.820 [1997 c.9 §4; repealed by 1999 c.105 §3]
+
+ 
+
+      576.821 [1999 c.105 §2; renumbered 571.370 in 2009]
+
+ 
+
 OREGON WINE BOARD; WINE CELLAR
 
  
 
-      576.750 Definitions for ORS 576.750 to 576.775. As used in ORS 576.750 to 576.775, unless the context requires otherwise:
+      576.850 Definitions for ORS 576.850 to 576.877. As used in ORS 576.850 to 576.877, unless the context requires otherwise:
 
       (1) “Grape product” means any juice, must, concentrate or extract made from vinifera grapes, true or hybrid, whether or not partially fermented. It does not include alcoholic liquor as defined in ORS 471.001.
 
@@ -1709,21 +2067,21 @@ OREGON WINE BOARD; WINE CELLAR
 
       (3) “Wine grape growing” means the cultivation in commercial quantities of vinifera grapes in this state.
 
-      (4) “Wine making” means the ownership and control of or the management of a licensed winery in this state. [1977 c.690 §1; 1983 c.651 §1; 1995 c.301 §32; 2003 c.797 §25; 2005 c.22 §404]
+      (4) “Wine making” means the ownership and control of or the management of a licensed winery in this state. [Formerly 576.750]
 
  
 
-      576.751 Legislative findings. The Legislative Assembly finds and declares that:
+      576.853 Legislative findings. The Legislative Assembly finds and declares that:
 
       (1) The development of world-class wine grape growing and wine making industries is important to Oregon as a whole. The health of the wine grape growing and wine making industries affects the well-being of Oregonians and Oregon rural economies and environments.
 
       (2) It is in the public interest to encourage the orderly growth and development of sustainable, labor-intensive, value-added agricultural industries, such as the wine grape growing and wine making industries.
 
-      (3) State involvement in the wine grape growing and wine making industries must be coordinated to respond to state interests and to encourage appropriate partnership and cooperation between the public and private sectors in ensuring orderly growth and realizing statewide objectives for world-class wine grape growing and wine making industries. [2003 c.797 §2]
+      (3) State involvement in the wine grape growing and wine making industries must be coordinated to respond to state interests and to encourage appropriate partnership and cooperation between the public and private sectors in ensuring orderly growth and realizing statewide objectives for world-class wine grape growing and wine making industries. [Formerly 576.751]
 
  
 
-      576.753 Oregon Wine Board. (1) The Oregon Wine Board is established as a semi-independent state agency subject to ORS 182.456 to 182.472.
+      576.856 Oregon Wine Board. (1) The Oregon Wine Board is established as a semi-independent state agency subject to ORS 182.456 to 182.472.
 
       (2) The board shall consist of nine members appointed by the Governor. In making appointments, the Governor shall consider nominations or recommendations made by organizations with nominating committees representative of all major wine industry regions of the state.
 
@@ -1745,19 +2103,15 @@ OREGON WINE BOARD; WINE CELLAR
 
       (c) Be actively engaged in wine grape growing or wine making.
 
-      (7) The members of the board shall elect a chairperson and vice-chairperson with duties and powers as determined by the board. [2003 c.797 §3]
+      (7) The members of the board shall elect a chairperson and vice-chairperson with duties and powers as determined by the board. [Formerly 576.753]
 
  
 
-      576.755 [1977 c.690 §2; 1983 c.651 §2; 1987 c.804 §2; repealed by 2003 c.797 §28]
+      576.859 Board purpose and duties. The Oregon Wine Board shall operate for the purpose of supporting enological, viticultural and economic research to develop sustainable business practices for wine grape growing and wine making within Oregon and supporting the promotion of Oregon’s wine grape growing and wine making industries. The board shall create and maintain a long term strategic plan and use that plan to guide the granting and funding decisions of the board. To the extent practicable, the board shall allocate funds and award grants in a manner that encourages coordinated, cost-effective projects that are integrated to implement the board’s strategic statewide objectives for the development of world-class wine grape growing and wine making within Oregon. [Formerly 576.756]
 
  
 
-      576.756 Board purpose and duties. The Oregon Wine Board shall operate for the purpose of supporting enological, viticultural and economic research to develop sustainable business practices for wine grape growing and wine making within Oregon and supporting the promotion of Oregon’s wine grape growing and wine making industries. The board shall create and maintain a long term strategic plan and use that plan to guide the granting and funding decisions of the board. To the extent practicable, the board shall allocate funds and award grants in a manner that encourages coordinated, cost-effective projects that are integrated to implement the board’s strategic statewide objectives for the development of world-class wine grape growing and wine making within Oregon. [2003 c.797 §7]
-
- 
-
-      576.759 Board powers. To carry out the purposes specified in ORS 576.750 to 576.775, the Oregon Wine Board may:
+      576.862 Board powers. To carry out the purposes specified in ORS 576.850 to 576.877, the Oregon Wine Board may:
 
       (1) Appoint officers and enter into agreements with consultants, agents and advisers, and prescribe their duties;
 
@@ -1765,21 +2119,17 @@ OREGON WINE BOARD; WINE CELLAR
 
       (3) Procure insurance against any losses in connection with properties of the board in such amounts and from such insurers as may be necessary or desirable;
 
-      (4) Accept donations, grants, bequests and devises, conditional or otherwise, of money, property, services or other things of value, including the interest or earnings thereon but excluding corporate stock, that may be received from a government agency or a public or private institution or person, to be held, used or applied for any or all of the purposes specified in ORS 576.750 to 576.775 in accordance with the terms and conditions of the donation, grant, bequest or devise;
+      (4) Accept donations, grants, bequests and devises, conditional or otherwise, of money, property, services or other things of value, including the interest or earnings thereon but excluding corporate stock, that may be received from a government agency or a public or private institution or person, to be held, used or applied for any or all of the purposes specified in ORS 576.850 to 576.877 in accordance with the terms and conditions of the donation, grant, bequest or devise;
 
       (5) Organize, conduct, sponsor, cooperate with and assist the private sector and other state agencies in the conduct of conferences and tours relating to the wine grape growing and wine making industries;
 
       (6) Provide and pay for advisory services and technical assistance that the board finds necessary or desirable; and
 
-      (7) Exercise any other powers necessary for the operation and functioning of the board under ORS 576.750 to 576.775. [2003 c.797 §5; 2005 c.22 §405]
+      (7) Exercise any other powers necessary for the operation and functioning of the board under ORS 576.850 to 576.877. [Formerly 576.759]
 
  
 
-      576.760 [1977 c.690 §3; 1983 c.651 §3; 1987 c.804 §4; repealed by 2003 c.797 §28]
-
- 
-
-      576.763 State wine cellar; sources; uses. The Oregon Wine Board shall establish a state wine cellar by purchasing or receiving donations of wines made in this state from fruit or grapes grown in this state. Wines collected in the state wine cellar may be:
+      576.865 State wine cellar; sources; uses. The Oregon Wine Board shall establish a state wine cellar by purchasing or receiving donations of wines made in this state from fruit or grapes grown in this state. Wines collected in the state wine cellar may be:
 
       (1) Held as standards to compare against other wines to develop and improve Oregon viticultural and enological practices.
 
@@ -1787,21 +2137,17 @@ OREGON WINE BOARD; WINE CELLAR
 
       (3) Sold to the Governor and to the administrative heads of state agencies on official government business to present as gifts when required by protocol or social custom.
 
-      (4) Displayed and offered for tasting in connection with promotional campaigns to encourage the purchase of Oregon wines. [1985 c.117 §2; 2003 c.797 §26]
+      (4) Displayed and offered for tasting in connection with promotional campaigns to encourage the purchase of Oregon wines. [Formerly 576.763]
 
  
 
-      576.765 [1977 c.690 §6; 1983 c.651 §5; 1987 c.804 §3; 1997 c.249 §185; repealed by 2003 c.797 §28]
+      576.868 Rules; board employees. (1) In accordance with applicable provisions of ORS chapter 183, the Oregon Wine Board may adopt rules necessary for the administration of ORS 576.850 to 576.877.
+
+      (2) Notwithstanding ORS 182.460 and 576.856 (1), employees of the Oregon Wine Board are not eligible for inclusion within the Public Employees Retirement System. [Formerly 576.766]
 
  
 
-      576.766 Rules; board employees. (1) In accordance with applicable provisions of ORS chapter 183, the Oregon Wine Board may adopt rules necessary for the administration of ORS 576.750 to 576.775.
-
-      (2) Notwithstanding ORS 182.460 and 576.753 (1), employees of the Oregon Wine Board are not eligible for inclusion within the Public Employees Retirement System. [2003 c.797 §6; 2005 c.22 §406]
-
- 
-
-      576.768 Strategic plan; budget; rules. (1) The report submitted by the Oregon Wine Board under ORS 182.472 must include a description of the long term strategic plan created by the board and a description of the progress made in implementing the statewide strategic objectives of the board during the most recent biennium.
+      576.871 Strategic plan; budget; rules. (1) The report submitted by the Oregon Wine Board under ORS 182.472 must include a description of the long term strategic plan created by the board and a description of the progress made in implementing the statewide strategic objectives of the board during the most recent biennium.
 
       (2) Notwithstanding ORS 182.462:
 
@@ -1809,7 +2155,7 @@ OREGON WINE BOARD; WINE CELLAR
 
       (b) The board shall adopt rules specifying the procedures, criteria and timelines for the preparation and approval of the annual plans and budget for promotion and for research.
 
-      (c) The Director of the Oregon Business Development Department shall review the budget and plans submitted under this section. In reviewing the annual plans and budget, the director shall consider whether the information supplied by the board is factual and consistent with ORS 576.750 to 576.775 and the positive development of the Oregon wine grape growing and wine making industries. The director shall either approve the budget and plans prior to the commencement of the next fiscal year or disapprove and return the budget and plans to the board with conditions necessary for approval prior to the commencement of the next fiscal year. In reviewing the budget and plans, the director may consult with and receive coordinated support from:
+      (c) The Director of the Oregon Business Development Department shall review the budget and plans submitted under this section. In reviewing the annual plans and budget, the director shall consider whether the information supplied by the board is factual and consistent with ORS 576.850 to 576.877 and the positive development of the Oregon wine grape growing and wine making industries. The director shall either approve the budget and plans prior to the commencement of the next fiscal year or disapprove and return the budget and plans to the board with conditions necessary for approval prior to the commencement of the next fiscal year. In reviewing the budget and plans, the director may consult with and receive coordinated support from:
 
       (A) The State Department of Agriculture;
 
@@ -1819,11 +2165,11 @@ OREGON WINE BOARD; WINE CELLAR
 
       (D) The Office of Community Colleges and Workforce Development; and
 
-      (E) The Oregon Liquor Control Commission. [2003 c.797 §11; 2005 c.22 §407; 2009 c.762 §88; 2013 c.768 §145b; 2015 c.366 §95; 2015 c.767 §205]
+      (E) The Oregon Liquor Control Commission. [Formerly 576.768]
 
  
 
-      576.771 Payment of tax; delayed payment; records; inspections and audits. (1) If a person selling or providing grape product to a winery performs part of the processing function of a winery, the person shall report the sale or provision of the grape product and pay the tax imposed under ORS 473.045 (5).
+      576.874 Payment of tax; delayed payment; records; inspections and audits. (1) If a person selling or providing grape product to a winery performs part of the processing function of a winery, the person shall report the sale or provision of the grape product and pay the tax imposed under ORS 473.045 (5).
 
       (2) A person or winery required to pay a tax under ORS 473.045 (5) shall keep accurate records sufficient to enable the Oregon Liquor Control Commission to determine by inspection and audit the accuracy of the taxes paid or due the Oregon Wine Board and of reports made or due to the commission.
 
@@ -1833,35 +2179,11 @@ OREGON WINE BOARD; WINE CELLAR
 
       (5) In addition to the penalties prescribed in ORS 473.992, a person or winery that delays transmittal of tax payments under ORS 473.045 (5) beyond the due date specified in ORS 473.045 shall pay five percent of the overdue amount for the first full or partial month of delay and one percent of the overdue amount for each full or partial month of delay thereafter.
 
-      (6) If a winery willfully refuses to turn over tax moneys withheld under ORS 473.045 (5), the winery shall pay an additional amount equal to twice the amount of the tax moneys not turned over. [2003 c.797 §8]
+      (6) If a winery willfully refuses to turn over tax moneys withheld under ORS 473.045 (5), the winery shall pay an additional amount equal to twice the amount of the tax moneys not turned over. [Formerly 576.771]
 
  
 
-      576.775 Disposition of moneys; research and promotion. Moneys received on behalf of the Oregon Wine Board pursuant to ORS 473.030 (4) and 473.045 shall be deposited into the account created by the board under ORS 182.470 and are continuously appropriated to the board as provided in ORS 182.470, exclusively for use by the board in carrying out the provisions of ORS 576.750 to 576.775. The board shall allocate a portion of the moneys received from sources other than fees toward research in enology and viticulture and toward promotion of the Oregon wine grape growing and wine making industries, including administrative costs associated with either category. [2003 c.797 §10; 2005 c.22 §408]
-
- 
-
-      576.800 [1997 c.9 §1; renumbered 571.350 in 2009]
-
- 
-
-      576.805 [1997 c.9 §2; renumbered 571.355 in 2009]
-
- 
-
-      576.810 [1997 c.9 §3; 1999 c.105 §4; renumbered 571.360 in 2009]
-
- 
-
-      576.815 [1997 c.9 §6; renumbered 571.365 in 2009]
-
- 
-
-      576.820 [1997 c.9 §4; repealed by 1999 c.105 §3]
-
- 
-
-      576.821 [1999 c.105 §2; renumbered 571.370 in 2009]
+      576.877 Disposition of moneys; research and promotion. Moneys received on behalf of the Oregon Wine Board pursuant to ORS 473.030 (4) and 473.045 shall be deposited into the account created by the board under ORS 182.470 and are continuously appropriated to the board as provided in ORS 182.470, exclusively for use by the board in carrying out the provisions of ORS 576.850 to 576.877. The board shall allocate a portion of the moneys received from sources other than fees toward research in enology and viticulture and toward promotion of the Oregon wine grape growing and wine making industries, including administrative costs associated with either category. [Formerly 576.775]
 
  
 
@@ -1876,8 +2198,6 @@ PENALTIES
       576.991 Penalties. (1) Violation of the provisions of ORS 576.024 is a Class B violation.
 
       (2) Violation of any provision of ORS 576.051 to 576.455 is a Class C misdemeanor. [1953 c.489 §38; subsection (1) enacted as 1955 c.572 §6; subsection (4) of 1957 Replacement Part enacted as 1957 c.447 §19; subsection (5) of 1957 Replacement Part enacted as 1957 c.447 §17; 1959 c.596 §81; subsection (2) enacted as 1967 c.388 §3; 1983 c.740 §224; subsection (4) of 1997 Edition enacted as 1997 c.9 §5; 1999 c.1051 §203; subsection (4) renumbered 571.993 in 2009; 2011 c.597 §237]
-
- 
 
 _______________
 

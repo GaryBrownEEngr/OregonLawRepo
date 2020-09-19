@@ -4,16 +4,6 @@ Chapter 247 — Qualification and Registration of Electors
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0070
-
- 
-
- 
-
 
  
 
@@ -203,11 +193,15 @@ LISTS OF ELECTORS
 
  
 
-247.940     List of active electors; delivery without charge to political parties
+247.940     Statewide list of electors; delivery without charge to political parties; requirements for requesting list
 
  
 
 247.945     List of county or statewide electors; delivery to any person; charges
+
+ 
+
+247.948     Information required for or prohibited from inclusion in lists of electors
 
  
 
@@ -333,13 +327,11 @@ REGISTRATION
 
       (6) The registration of an elector shall be considered inactive if:
 
-      (a) The county clerk has received evidence that there has been a change in the information required for registration under this chapter or the elector has neither voted nor updated the registration for a period of not less than five years; and
+      (a) The county clerk has received evidence that there has been a change in the information required for registration under this chapter; and
 
       (b) The county clerk has mailed the notice described in ORS 247.563.
 
-      (7) The registration of an elector shall not be moved to an inactive file during the 60-day period prior to any election because the elector has neither voted nor updated the registration for a period of not less than five years.
-
-      (8) The inactive registration of an elector must be updated before the elector may vote in an election. [1993 c.713 §8; 1999 c.410 §7; 1999 c.824 §2; 2001 c.965 §44]
+      (7) The inactive registration of an elector must be updated before the elector may vote in an election. [1993 c.713 §8; 1999 c.410 §7; 1999 c.824 §2; 2001 c.965 §44; 2019 c.675 §1]
 
  
 
@@ -376,6 +368,26 @@ REGISTRATION
       (4) A county clerk may not send a ballot to, or add to an elector registration list, a person who meets eligibility requirements until at least 21 calendar days after the Secretary of State or county clerk provided notification to the person as described in subsection (2) of this section.
 
       (5) The Secretary of State shall adopt rules required to implement this section. [Formerly 802.090; 1995 c.742 §2; 2007 c.555 §4; 2015 c.8 §1]
+
+ 
+
+      Note: The amendments to 247.017 by section 23c, chapter 701, Oregon Laws 2019, become operative January 1, 2021. See section 26, chapter 701, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      247.017. (1) The Secretary of State shall by rule establish a schedule by which the Department of Transportation shall provide to the secretary electronic records containing the legal name, age, residence and citizenship information for, and the electronic signature of, each person who meets qualifications identified by the secretary by rule.
+
+      (2) Upon receiving the electronic record for, and electronic signature of, a person described in subsection (1) of this section, the Secretary of State shall provide the information to the county clerk of the county in which the person may be registered as an elector. The secretary or county clerk shall notify each person of the process to:
+
+      (a) Decline being registered as an elector.
+
+      (b) Adopt a political party affiliation.
+
+      (3) If a person notified under subsection (2) of this section does not decline to be registered as an elector within 21 calendar days after the Secretary of State or county clerk issues the notification, the person’s electronic record and electronic signature submitted under subsection (1) of this section will constitute a completed registration card for the person for purposes of this chapter. The person shall be registered to vote if the county clerk determines that the person is qualified to vote under Article II, section 2, of the Oregon Constitution, and the person is not already registered to vote.
+
+      (4) A county clerk may not send a ballot to, or add to an elector registration list, a person who meets eligibility requirements until at least 21 calendar days after the Secretary of State or county clerk provided notification to the person as described in subsection (2) of this section.
+
+      (5) In addition to providing electronic records to the Secretary of State under subsection (1) of this section, the Department of Transportation may by rule develop, and require the availability or use of, any form or application the department determines is necessary to ensure compliance with the voter registration provisions of the National Voter Registration Act of 1993 (P.L. 103-31).
+
+      (6) The Secretary of State shall adopt rules required to implement subsections (1) to (4) of this section.
 
  
 
@@ -1083,25 +1095,77 @@ REMOVAL OF NAMES FROM REGISTER OF ELECTORS
 
 LISTS OF ELECTORS
 
-      247.940 List of active electors; delivery without charge to political parties. (1) Not later than the 21st day before any primary election, general election or special congressional election, a major political party qualified under ORS 248.006 or its affiliate within the county or a minor political party qualified under ORS 248.008 may request from the county clerk a list of active electors, as described in ORS 247.013, of the county. Except as provided in this section, the list shall contain the name, party affiliation, residence or mailing address and precinct name or number of each active elector and shall be arranged in groups by election precinct. The list may not contain any information about participants in the Address Confidentiality Program established under ORS 192.820 to 192.868. A major political party or its affiliate within the county or a minor political party may make no more than two separate requests under this subsection.
+      247.940 Statewide list of electors; delivery without charge to political parties; requirements for requesting list. (1) A major political party qualified under ORS 248.006 or a minor political party qualified under ORS 248.008 may request from the Secretary of State a statewide list of electors, as described in ORS 247.945 (4). The list may not contain any information about participants in the Address Confidentiality Program established under ORS 192.820 to 192.868 or any information that may not be publicly disclosed under ORS 247.948. A major political party or a minor political party may make no more than two separate requests under this subsection per primary election, general election or special election.
 
-      (2) If the county clerk receives a request under subsection (1) of this section, the clerk shall deliver the list not later than:
+      (2) A request for a list under subsection (1) of this section must be made:
 
-      (a) Ten days after receiving the request; or
+      (a) Not earlier than six months before the primary election, general election or special election; and
 
-      (b) The date requested, provided that the date requested is more than 10 days after the request was made and at least 10 days before the date of any primary election, general election or special congressional election.
+      (b) Not later than the 15th day before the primary election, general election or special election.
 
-      (3) The county clerk may not charge for preparation or delivery of the list supplied under this section. [1979 c.190 §63; 1979 c.519 §13a; 1989 c.637 §1; 1991 c.107 §2; 1993 c.797 §21; 1995 c.712 §12; 1995 c.742 §8; 1999 c.999 §35; 2007 c.542 §16]
+      (3) If the Secretary of State receives a request under subsection (1) of this section, the secretary shall deliver the list not later than 10 days after receiving the request.
+
+      (4) The Secretary of State may not charge for preparation or delivery of the list supplied under this section. [1979 c.190 §63; 1979 c.519 §13a; 1989 c.637 §1; 1991 c.107 §2; 1993 c.797 §21; 1995 c.712 §12; 1995 c.742 §8; 1999 c.999 §35; 2007 c.542 §16; 2019 c.675 §5]
 
  
 
-      247.945 List of county or statewide electors; delivery to any person; charges. (1) The county clerk, upon request before the 45th day before a primary, general or special election, shall deliver to any person a list of electors. The list may not contain any information about participants in the Address Confidentiality Program established under ORS 192.820 to 192.868. The lists shall be prepared in the manner requested, limited only to the capabilities of the Secretary of State or the county clerk.
+      247.945 List of county or statewide electors; delivery to any person; charges. (1) The county clerk, upon request before the 45th day before a primary, general or special election, shall deliver to any person a list of electors. The list may not contain any information about participants in the Address Confidentiality Program established under ORS 192.820 to 192.868 or any information that may not be publicly disclosed under ORS 247.948. The lists shall be prepared in the manner requested, limited only to the capabilities of the Secretary of State or the county clerk.
 
       (2) The county clerk shall collect and pay into the county treasury a charge for the actual cost of supplying lists under subsection (1) of this section.
 
       (3) The county clerk shall keep a record of all persons to whom a list of electors is delivered under this section.
 
-      (4) Upon request, the Secretary of State shall deliver to any person a statewide list of electors. The secretary shall charge a fee of $500 for delivering a list under this subsection. The list may not contain any information about participants in the Address Confidentiality Program established under ORS 192.820 to 192.868. [1969 c.421 §§8,9; 1979 c.190 §64; 1989 c.637 §2; 1995 c.712 §13; 1999 c.999 §36; 2007 c.542 §17; 2007 c.570 §7a]
+      (4) Upon request, the Secretary of State shall deliver to any person a statewide list of electors. Except as provided in ORS 247.940 (4), the secretary shall charge a fee of $500 for delivering a list under this subsection. The list may not contain any information about participants in the Address Confidentiality Program established under ORS 192.820 to 192.868 or any information that may not be publicly disclosed under ORS 247.948. [1969 c.421 §§8,9; 1979 c.190 §64; 1989 c.637 §2; 1995 c.712 §13; 1999 c.999 §36; 2007 c.542 §17; 2007 c.570 §7a; 2019 c.675 §6]
+
+ 
+
+      247.948 Information required for or prohibited from inclusion in lists of electors. (1)(a) Except as set forth in ORS 247.965 or 247.967, or as otherwise prohibited by law, the following information about an elector contained within an elector’s registration file is subject to inspection as a public record under ORS 192.311 to 192.478 and shall be included in lists delivered under ORS 247.940 and 247.945:
+
+      (A) The major political party or minor political party, if any, with which an elector is affiliated;
+
+      (B) The residence address of an elector;
+
+      (C) The address where an elector receives a ballot;
+
+      (D) The year in which an elector was born;
+
+      (E) The name or number of the precinct in which the elector resides;
+
+      (F) The precinct split of an elector;
+
+      (G) The administrative number for an elector that is used by the Secretary of State to determine which elections an elector may vote in;
+
+      (H) The telephone number of an elector;
+
+      (I) Whether or not an elector voted in previous elections; and
+
+      (J) During an election period, the ballot status of an elector. In order to comply with this subparagraph, during the election period, the secretary shall maintain a list of the ballot status of electors. The secretary shall update the list, and make available an updated version of the list, on each business day of the election period.
+
+      (b) As used in this subsection:
+
+      (A) “Ballot status” means whether or not an elector has cast a ballot in the election;
+
+      (B) “Election period” means the period of time beginning on the date that ballots for an election are first mailed to electors and ending on the date of the election; and
+
+      (C) “Precinct split” means the enhanced precinct name or number used to determine the specific ballot configuration that will be received by an elector who resides in a precinct that:
+
+      (i) Has more than one election district subdivision; and
+
+      (ii) Requires more than one ballot configuration for electors in the precinct.
+
+      (2) Except as set forth in ORS 247.973 or as otherwise required by law, the following information about an elector contained within an elector’s registration file is not subject to inspection as a public record under ORS 192.311 to 192.478 and may not be disclosed by the Secretary of State or a county clerk:
+
+      (a) The birth month of an elector;
+
+      (b) The day of the month on which an elector was born;
+
+      (c) The Social Security number of an elector;
+
+      (d) The driver license number of an elector; and
+
+      (e) The signature of an elector.
+
+      (3) Nothing in this section is intended to limit or restrict the disclosure of information that is otherwise subject to inspection as a public record under ORS 192.311 to 192.478. [2018 c.70 §21]
 
  
 
@@ -1125,11 +1189,11 @@ DISCLOSURE OF RESIDENCE ADDRESS OR SIGNATURE OF ELECTORS
 
       (5) An exemption from disclosure granted under this section includes an exemption from disclosure of the residence address of an elector under ORS 247.940 or 247.945.
 
-      (6) A county clerk shall not be held liable for:
+      (6) A county clerk or the Secretary of State shall not be held liable for:
 
       (a) Granting or denying an exemption from disclosure under this section; or
 
-      (b) Any unauthorized release of a residence address granted an exemption from disclosure under this section. [1993 c.616 §2; 1995 c.742 §9; 1999 c.410 §21]
+      (b) Any unauthorized release of a residence address granted an exemption from disclosure under this section. [1993 c.616 §2; 1995 c.742 §9; 1999 c.410 §21; 2019 c.675 §7]
 
  
 
@@ -1143,7 +1207,7 @@ DISCLOSURE OF RESIDENCE ADDRESS OR SIGNATURE OF ELECTORS
 
  
 
-      247.969 Definition of “personal safety” for purposes of ORS 247.965; rules.:RF10 (1) The Secretary of State by rule shall define when the “personal safety” of an elector and the safety of any family member residing with the elector is in danger under ORS 247.965. Under the definitions, the elector’s personal safety or the safety of any family member residing with the elector shall be considered in danger if the elector provides evidence that the elector or any family member residing with the elector has:
+      247.969 Definition of “personal safety” for purposes of ORS 247.965; rules. (1) The Secretary of State by rule shall define when the “personal safety” of an elector and the safety of any family member residing with the elector is in danger under ORS 247.965. Under the definitions, the elector’s personal safety or the safety of any family member residing with the elector shall be considered in danger if the elector provides evidence that the elector or any family member residing with the elector has:
 
       (a) Been a victim of domestic violence;
 
@@ -1163,7 +1227,7 @@ DISCLOSURE OF RESIDENCE ADDRESS OR SIGNATURE OF ELECTORS
 
  
 
-      247.973 Status of signature on voter registration card as public record; copies of signature prohibited; voter registration documents or information exempt from disclosure. (1) Subject to subsection (2) of this section, an individual’s signature submitted under this chapter for purposes of registering to vote is subject to inspection as a public record under ORS 192.311 to 192.478. The signature may be inspected in the office of the county clerk.
+      247.973 Status of signature on voter registration card as public record; copies of signature prohibited; voter registration documents or information exempt from disclosure. (1) Subject to subsection (2) of this section, an individual’s signature submitted under this chapter for purposes of registering to vote is subject to inspection as a public record under ORS 192.311 to 192.478. The signature may be inspected in the Office of the Secretary of State or the office of the county clerk.
 
       (2) A person may not make a copy of or provide to another person a copy of an individual’s signature submitted under this chapter for purposes of registering to vote.
 
@@ -1171,7 +1235,7 @@ DISCLOSURE OF RESIDENCE ADDRESS OR SIGNATURE OF ELECTORS
 
       (4) Identifying information or documents submitted by an individual for purposes of registering to vote as required under the Help America Vote Act of 2002 (P.L. 107-252) are exempt from disclosure under ORS 192.311 to 192.478.
 
-      (5) Identifying information relating to a disability of an elector that is entered into official voter registration records by an elections official is exempt from disclosure under ORS 192.311 to 192.478. [1999 c.824 §4; 2003 c.803 §15; 2007 c.156 §1]
+      (5) Identifying information relating to a disability of an elector that is entered into official voter registration records by an elections official is exempt from disclosure under ORS 192.311 to 192.478. [1999 c.824 §4; 2003 c.803 §15; 2007 c.156 §1; 2018 c.70 §22]
 
  
 

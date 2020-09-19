@@ -4,16 +4,8 @@ Chapter 97 — Rights and Duties Relating to Cemeteries, Human Bodies and Anatom
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
 
  
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0036
-
- 
-
- 
-
 
  
 
@@ -106,6 +98,10 @@ DISPOSITION OF HUMAN BODIES
  
 
 97.220       Disinterment
+
+ 
+
+97.223       Interment or temporary storage of human remains in case of natural disaster or other emergency
 
  
 
@@ -273,7 +269,7 @@ CEMETERY MANAGEMENT
 
  
 
-97.710       Power of cemetery to make rules and regulations
+97.710       Power of cemetery authority to make rules and regulations
 
  
 
@@ -349,7 +345,15 @@ CEMETERY CARE
 
  
 
+97.813       Standards of care for and public access to endowment care cemeteries; rules
+
+ 
+
 97.820       Placing cemetery under endowed care; deposit; commingling endowment and special care funds; trustee or custodian of fund
+
+ 
+
+97.823       Prohibitions related to endowment care cemeteries
 
  
 
@@ -369,15 +373,25 @@ CEMETERY CARE
 
  
 
-97.850       Endowment and special care funds are charitable
+97.843       Endowment and special care funds are charitable
 
  
 
-97.860       Agreements for care
+97.846       Agreements for care
+
+ 
+
+97.849       Authority of Department of Consumer and Business Services to take action regarding endowment care cemetery
+
+ 
+
+97.852       Receivership of endowment care cemetery
 
  
 
 97.865       Application of ORS 97.810 to 97.865 to religious, county and city cemeteries
+
+ 
 
 97.870       Unused and uncared for portions of cemetery declared common nuisances
 
@@ -829,7 +843,7 @@ DISPOSITION OF HUMAN BODIES
 
  
 
-      97.130 Right to control disposition of remains; delegation. (1) Any individual of sound mind who is 18 years of age or older, by completion of a written signed instrument or by preparing or prearranging with any funeral service practitioner licensed under ORS chapter 692, may direct any lawful manner of disposition of the individual’s remains. Except as provided under subsection (6) of this section, disposition directions or disposition prearrangements that are prepaid or that are filed with a funeral service practitioner licensed under ORS chapter 692 are not subject to cancellation or substantial revision.
+      97.130 Right to control disposition of remains; delegation. (1) Any individual of sound mind who is 18 years of age or older, by completion of a written signed instrument or by preparing or prearranging with any funeral service practitioner licensed under ORS chapter 692, may direct any lawful manner of disposition of the individual’s remains. Except as provided under subsection (7) of this section, disposition directions or disposition prearrangements that are prepaid or that are filed with a funeral service practitioner licensed under ORS chapter 692 are not subject to cancellation or substantial revision.
 
       (2) A person within the first applicable listed class among the following listed classes that is available at the time of death, in the absence of actual notice of a contrary direction by the decedent as described under subsection (1) of this section or actual notice of opposition by completion of a written instrument by a member of the same class or a member of a prior class, may direct any lawful manner of disposition of a decedent’s remains by completion of a written instrument:
 
@@ -855,19 +869,129 @@ DISPOSITION OF HUMAN BODIES
 
       (b) Delegation of the authority to direct the manner of disposition of remains must be made by completion of:
 
-      (A) The written instrument described in subsection (7) of this section; or
+      (A) The written instrument described in subsection (8) of this section; or
 
-      (B) A written instrument recognized by the Armed Forces of the United States, as that term is defined in ORS 348.282, if the decedent died while serving in the Armed Forces of the United States.
+      (B) The form described in subsection (4) of this section.
 
       (c) The person to whom the authority is delegated has the same authority under subsection (2) of this section as the person delegating the authority.
 
-      (4) If a decedent or the decedent’s designee issues more than one authorization or direction for the disposal of the decedent’s remains, only the most recent authorization or direction is binding.
+      (4)(a) A Record of Emergency Data, DD Form 93, or a successor form recognized by the Armed Forces of the United States, as that term is defined in ORS 348.282, completed by a member of the Armed Forces of the United States serves as a valid written instrument for purposes of subsection (3) of this section.
 
-      (5) A donation of anatomical gifts under ORS 97.951 to 97.982 takes priority over directions for the disposition of a decedent’s remains under this section only if the person making the donation is of a priority under subsection (1) or (2) of this section the same as or higher than the priority of the person directing the disposition of the remains.
+      (b) In accordance with United States Department of Defense Instruction 1300.18, a member of the Armed Forces of the United States shall complete the form described in this subsection and shall verify the accuracy of the form at least annually.
 
-      (6) If the decedent directs a disposition under subsection (1) of this section and those financially responsible for the disposition are without sufficient funds to pay for such disposition or the estate of the decedent has insufficient funds to pay for the disposition, or if the direction is unlawful, the direction is void and disposition shall be in accordance with the direction provided by the person given priority in subsection (2) of this section and who agrees to be financially responsible.
+      (c) The form described in this subsection, regardless of the date on which the form was signed, supersedes any other written instrument that directs the disposition of the decedent’s remains.
 
-      (7) The signature of the individual delegating the authority to direct the manner of disposition is required for the completion of the written instrument required in subsection (3)(b)(A) of this section. The following form or a form substantially similar shall be used by all individuals:
+      (5) Except as provided in subsection (4)(c) of this section, if a decedent or the decedent’s designee issues more than one authorization or direction for the disposal of the decedent’s remains, only the most recent authorization or direction is binding.
+
+      (6) A donation of anatomical gifts under ORS 97.951 to 97.982 takes priority over directions for the disposition of a decedent’s remains under this section only if the person making the donation is of a priority under subsection (1) or (2) of this section the same as or higher than the priority of the person directing the disposition of the remains.
+
+      (7) If the decedent directs a disposition under subsection (1) of this section and those financially responsible for the disposition are without sufficient funds to pay for such disposition or the estate of the decedent has insufficient funds to pay for the disposition, or if the direction is unlawful, the direction is void and disposition shall be in accordance with the direction provided by the person given priority in subsection (2) of this section and who agrees to be financially responsible.
+
+      (8) The signature of the individual delegating the authority to direct the manner of disposition is required for the completion of the written instrument required in subsection (3)(b)(A) of this section. The following form or a form substantially similar shall be used by all individuals:
+
+______________________________________________________________________________
+
+APPOINTMENT OF PERSON
+
+TO MAKE DECISIONS
+
+CONCERNING DISPOSITION
+
+OF REMAINS
+
+ 
+
+      I, __________________, appoint__________________, whose address is _______________ and whose telephone number is (___)_________, as the person to make all decisions regarding the disposition of my remains upon my death for my burial or cremation. In the event ____________ is unable to act, I appoint____________, whose address is __________________ and whose telephone number is (___)_________, as my alternate person to make all decisions regarding the disposition of my remains upon my death for my burial or cremation.
+
+      It is my intent that this Appointment of Person to Make Decisions Concerning Disposition of Remains act as and be accepted as the written authorization presently required by ORS 97.130 (or its corresponding future provisions) or any other provision of Oregon Law, authorizing me to name a person to have authority to dispose of my remains.
+
+ 
+
+      DATED this ___ day of______,_____.
+
+ 
+
+__________________
+
+ (Signature)
+
+ 
+
+DECLARATION OF WITNESSES
+
+ 
+
+      We declare that ____________ is personally known to us, that he/she signed this Appointment of Person to Make Decisions Concerning Disposition of Remains in our presence, that he/she appeared to be of sound mind and not acting under duress, fraud or undue influence, and that neither of us is the person so appointed by this document.
+
+ 
+
+Witnessed By:
+
+_______________      Date: _____
+
+Witnessed By:
+
+_______________      Date: _____
+
+______________________________________________________________________________
+
+ 
+
+      (9) Subject to the provisions of ORS 97.951 to 97.982, if disposition of the remains of a decedent has not been directed and authorized under this section within 10 days after the date of the death of the decedent, a public health officer may direct and authorize disposition of the remains.
+
+      (10) Notwithstanding subsection (2) of this section, a person arrested for or charged with criminal homicide by reason of the death of the decedent may not direct the disposition of the decedent’s remains. The disposition of the decedent’s remains shall be made in accordance with the directions of an eligible person within the first applicable class established under subsection (2) of this section.
+
+      (11) Notwithstanding subsections (2) and (3) of this section, if the person who has the authority to direct the manner of disposition of cremated remains pursuant to subsection (1) or (2) of this section transfers any portion of the cremated remains to another person, the recipient of the cremated remains has the authority to direct the manner of disposition of the cremated remains in the recipient’s possession. [Amended by 1969 c.175 §10; 1969 c.591 §279; 1973 c.823 §97; 1995 c.717 §10; 1997 c.472 §1; 1999 c.201 §5; 2007 c.373 §1; 2007 c.681 §24; 2011 c.154 §1; 2011 c.164 §1; 2019 c.83 §1]
+
+ 
+
+      Note: The amendments to 97.130 by section 12a, chapter 384, Oregon Laws 2019, become operative June 30, 2021. See section 28, chapter 384, Oregon Laws 2019. The text that is operative on and after June 30, 2021, is set forth for the user’s convenience.
+
+      97.130. (1) Any individual of sound mind who is 18 years of age or older, by completion of a written signed instrument or by preparing or prearranging with any funeral service practitioner licensed under ORS chapter 692, may direct any lawful manner of disposition of the individual’s remains. Except as provided under subsection (7) of this section, disposition directions or disposition prearrangements that are prepaid or that are filed with a funeral service practitioner licensed under ORS chapter 692 are not subject to cancellation or substantial revision.
+
+      (2) A person within the first applicable listed class among the following listed classes that is available at the time of death, in the absence of actual notice of a contrary direction by the decedent as described under subsection (1) of this section or actual notice of opposition by completion of a written instrument by a member of the same class or a member of a prior class, may direct any lawful manner of disposition of a decedent’s remains by completion of a written instrument:
+
+      (a) The spouse of the decedent.
+
+      (b) A son or daughter of the decedent 18 years of age or older.
+
+      (c) Either parent of the decedent.
+
+      (d) A brother or sister of the decedent 18 years of age or older.
+
+      (e) A guardian of the decedent at the time of death.
+
+      (f) A person in the next degree of kindred to the decedent.
+
+      (g) The personal representative of the estate of the decedent.
+
+      (h) The person nominated as the personal representative of the decedent in the decedent’s last will.
+
+      (i) A public health officer.
+
+      (3)(a) The decedent or any person authorized in subsection (2) of this section to direct the manner of disposition of the decedent’s remains may delegate such authority to any person 18 years of age or older.
+
+      (b) Delegation of the authority to direct the manner of disposition of remains must be made by completion of:
+
+      (A) The written instrument described in subsection (8) of this section; or
+
+      (B) The form described in subsection (4) of this section.
+
+      (c) The person to whom the authority is delegated has the same authority under subsection (2) of this section as the person delegating the authority.
+
+      (4)(a) A Record of Emergency Data, DD Form 93, or a successor form recognized by the Armed Forces of the United States, as that term is defined in ORS 366.931, completed by a member of the Armed Forces of the United States serves as a valid written instrument for purposes of subsection (3) of this section.
+
+      (b) In accordance with United States Department of Defense Instruction 1300.18, a member of the Armed Forces of the United States shall complete the form described in this subsection and shall verify the accuracy of the form at least annually.
+
+      (c) The form described in this subsection, regardless of the date on which the form was signed, supersedes any other written instrument that directs the disposition of the decedent’s remains.
+
+      (5) Except as provided in subsection (4)(c) of this section, if a decedent or the decedent’s designee issues more than one authorization or direction for the disposal of the decedent’s remains, only the most recent authorization or direction is binding.
+
+      (6) A donation of anatomical gifts under ORS 97.951 to 97.982 takes priority over directions for the disposition of a decedent’s remains under this section only if the person making the donation is of a priority under subsection (1) or (2) of this section the same as or higher than the priority of the person directing the disposition of the remains.
+
+      (7) If the decedent directs a disposition under subsection (1) of this section and those financially responsible for the disposition are without sufficient funds to pay for such disposition or the estate of the decedent has insufficient funds to pay for the disposition, or if the direction is unlawful, the direction is void and disposition shall be in accordance with the direction provided by the person given priority in subsection (2) of this section and who agrees to be financially responsible.
+
+      (8) The signature of the individual delegating the authority to direct the manner of disposition is required for the completion of the written instrument required in subsection (3)(b)(A) of this section. The following form or a form substantially similar shall be used by all individuals:
 
 ______________________________________________________________________________
 
@@ -921,11 +1045,11 @@ ______________________________________________________________________________
 
  
 
-      (8) Subject to the provisions of ORS 97.951 to 97.982, if disposition of the remains of a decedent has not been directed and authorized under this section within 10 days after the date of the death of the decedent, a public health officer may direct and authorize disposition of the remains.
+      (9) Subject to the provisions of ORS 97.951 to 97.982, if disposition of the remains of a decedent has not been directed and authorized under this section within 10 days after the date of the death of the decedent, a public health officer may direct and authorize disposition of the remains.
 
-      (9) Notwithstanding subsection (2) of this section, a person arrested for or charged with criminal homicide by reason of the death of the decedent may not direct the disposition of the decedent’s remains. The disposition of the decedent’s remains shall be made in accordance with the directions of an eligible person within the first applicable class established under subsection (2) of this section.
+      (10) Notwithstanding subsection (2) of this section, a person arrested for or charged with criminal homicide by reason of the death of the decedent may not direct the disposition of the decedent’s remains. The disposition of the decedent’s remains shall be made in accordance with the directions of an eligible person within the first applicable class established under subsection (2) of this section.
 
-      (10) Notwithstanding subsections (2) and (3) of this section, if the person who has the authority to direct the manner of disposition of cremated remains pursuant to subsection (1) or (2) of this section transfers any portion of the cremated remains to another person, the recipient of the cremated remains has the authority to direct the manner of disposition of the cremated remains in the recipient’s possession. [Amended by 1969 c.175 §10; 1969 c.591 §279; 1973 c.823 §97; 1995 c.717 §10; 1997 c.472 §1; 1999 c.201 §5; 2007 c.373 §1; 2007 c.681 §24; 2011 c.154 §1; 2011 c.164 §1]
+      (11) Notwithstanding subsections (2) and (3) of this section, if the person who has the authority to direct the manner of disposition of cremated remains pursuant to subsection (1) or (2) of this section transfers any portion of the cremated remains to another person, the recipient of the cremated remains has the authority to direct the manner of disposition of the cremated remains in the recipient’s possession.
 
  
 
@@ -1029,6 +1153,44 @@ ______________________________________________________________________________
 
  
 
+      Note: The amendments to 97.170 by section 53, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      97.170. (1) As used in this section, “indigent person” means a deceased person who does not have a death or final expense benefit or insurance policy that pays for disposition of the deceased person’s body or other means to pay for disposition of the deceased person’s body and:
+
+      (a) Who does not have a relative or other person with the legal right to direct and the means to pay for disposition of the deceased person’s body;
+
+      (b) Whose relative, or other person, with the legal right to direct the disposition of the deceased person’s body does not pay or arrange to pay for, or refuses to direct, the disposition of the deceased person’s body within 10 days of being notified of the death; or
+
+      (c) For whom no person other than a person described in paragraph (a) or (b) of this subsection wishes to direct and pay for the disposition of the deceased person’s body.
+
+      (2) The State Mortuary and Cemetery Board shall maintain a list of institutions that may accept or process bodies for education or research purposes.
+
+      (3)(a) A funeral establishment licensed under ORS 692.146 that takes custody of the unclaimed body of a deceased person shall, within five days after taking custody of the body:
+
+      (A) Submit a report of death under ORS 432.133;
+
+      (B) Obtain all contact information known to the medical examiner, a health care facility or law enforcement regarding persons listed in ORS 97.130;
+
+      (C) Attempt to locate and notify the persons listed in ORS 97.130;
+
+      (D) Arrange with any person listed in ORS 97.130 who will pay the expenses to make disposition of the body;
+
+      (E) If no person listed in ORS 97.130 can be located to pay the expenses to make disposition of the body, arrange with a person or institution not listed in ORS 97.130 that will pay the expenses to make disposition of the body;
+
+      (F) Determine whether the State Treasurer or other person is appointed as the personal representative of the deceased person pursuant to ORS 113.085; and
+
+      (G) Contact the Department of Veterans’ Affairs to determine whether the decedent is eligible for any state or federal benefits.
+
+      (b) If no one claims the body within 10 days after the funeral establishment takes custody of the body, or if the persons notified acquiesce, or if the decedent is not eligible for any benefits described in paragraph (a)(G) of this subsection, the funeral establishment may transfer the body to an institution on the list of institutions described in subsection (2) of this section that desires the body for education or research purposes.
+
+      (c) If no person or institution claims the body as provided in paragraphs (a) and (b) of this subsection, the funeral establishment may cremate or bury the body without the consent of persons listed in ORS 97.130 and is indemnified from any liability arising from having made such disposition. The method of disposition must be in the least costly and most environmentally sound manner that complies with law, and that does not conflict with known wishes of the deceased. If the deceased person is an indigent person, the board shall reimburse the funeral establishment for the costs of disposition under subsection (5) of this section.
+
+      (4) If the deceased person is a child over whom the Department of Human Services held guardianship at the time of death, the department shall promptly attempt to locate and notify the relatives of the deceased child or any other person who has an interest in the deceased child and shall arrange with any person who will pay the expenses to make disposition of the body. If no relatives or interested persons claim the body, the department may transfer the body to an institution that is on the list maintained by the board under subsection (2) of this section that desires the body for education or research purposes, or may authorize burial or cremation of the body. The department shall pay expenses related to burial or cremation authorized by the department under this subsection.
+
+      (5) Upon receipt of a qualifying statement as required by the board by rule that the deceased person is an indigent person, the board shall reimburse a funeral establishment the reasonable costs for disposition of the body of any unclaimed deceased indigent person. The method of disposition must be in the least costly and most environmentally sound manner that complies with law. The board shall adopt rules establishing the requirements and process for reimbursement and setting the amount that may be reimbursed to a funeral establishment under this subsection.
+
+ 
+
       97.180 Period within which body may not be used or dismembered. An institution that receives a body pursuant to ORS 97.170 and that intends to use the body for ongoing research may properly preserve the body upon receipt for anatomical purposes, but may not use or dismember the body for at least 30 days after receipt. If a relative or friend of the deceased person claims the body within the 30 days specified in this section, the institution with custody of the body shall release the body to a funeral establishment licensed under ORS 692.146 on behalf of the relative or friend. [Amended by 2015 c.651 §2]
 
  
@@ -1047,7 +1209,7 @@ ______________________________________________________________________________
 
  
 
-      97.220 Disinterment. (1) The remains of a deceased person interred in a plot in a cemetery may be removed from the plot with the consent of the cemetery authority and written consent of:
+      97.220 Disinterment. (1) Except as provided in ORS 97.223, the remains of a deceased person interred in a plot in a cemetery may be removed from the plot with the consent of the cemetery authority and written consent of:
 
       (a) The person under ORS 97.130 (2)(a), (b) or (c) who has the authority to direct disposition of the remains of the deceased person; or
 
@@ -1057,7 +1219,27 @@ ______________________________________________________________________________
 
       (3) If the payment for the purchase of an interment space is past due for a period of 90 days or more, this section does not apply to or prohibit the removal of any remains from one plot to another in the same cemetery or the removal of remains by the cemetery authority from a plot to some other suitable place.
 
-      (4) This section does not apply to the disinterment of remains upon order of court or if ordered under the provisions of ORS 146.045 (3)(e). [Amended by 1977 c.582 §3; 2007 c.661 §2; 2011 c.164 §3]
+      (4) This section does not apply to the disinterment of remains upon order of court or if ordered under the provisions of ORS 146.045 (3)(e). [Amended by 1977 c.582 §3; 2007 c.661 §2; 2011 c.164 §3; 2019 c.241 §3]
+
+ 
+
+      97.223 Interment or temporary storage of human remains in case of natural disaster or other emergency. (1) In the event of a natural disaster or similar emergency that causes interred human remains to be completely or partially dislodged from their original designated plot, the cemetery authority of the cemetery where the plot is located may, as the cemetery authority deems fit:
+
+      (a) Inter the human remains in the original designated plot;
+
+      (b) Temporarily store the human remains in a safe storage location until the cemetery authority can inter the human remains; or
+
+      (c) Inter the human remains in another plot in the cemetery.
+
+      (2) The cemetery authority shall, before performing an act specified in subsection (1)(b) or (c) of this section, make a reasonable attempt to identify the human remains and notify the person described in ORS 97.130 (2) who has authority to direct disposition of the remains of the deceased person.
+
+      (3) A cemetery authority that performs an act specified in subsection (1) of this section may not be held liable for performing that act.
+
+      (4) A person described in ORS 97.130 (2) who has the authority to direct disposition of the remains of the deceased person may not be held liable, or be considered to have violated a provision of ORS 97.110 to 97.450, if the person:
+
+      (a) Makes a request of the cemetery authority to undertake an action specified in subsection (1) of this section; or
+
+      (b) Personally undertakes an action specified in subsection (1) of this section. [2019 c.241 §2]
 
  
 
@@ -1363,7 +1545,7 @@ CEMETERY MANAGEMENT
 
  
 
-      97.710 Power of cemetery to make rules and regulations. (1) The cemetery authority may make and enforce rules and regulations for:
+      97.710 Power of cemetery authority to make rules and regulations. (1) The cemetery authority may make and enforce rules and regulations for:
 
       (a) The use, care, control, management, restriction and protection of its cemetery;
 
@@ -1641,7 +1823,7 @@ CEMETERY CARE
 
  
 
-      97.810 Endowment care and nonendowed care cemeteries. (1) As used in this section:
+      97.810 Endowment care and nonendowed care cemeteries. (1) As used in ORS 97.810 to 97.920:
 
       (a) “Endowment care cemetery” means a cemetery that maintains an endowment care fund placed in an irrevocable trust fund.
 
@@ -1701,7 +1883,19 @@ CEMETERY CARE
 
       (13) A nonendowed care cemetery is a cemetery that does not deposit in an endowment care fund the minimum amounts specified in subsection (2) of this section.
 
-      (14) A cemetery authority may not in any way advertise or represent that it operates wholly or partially as an endowment care cemetery, or otherwise advertise or represent that it provides general care or maintenance of all or portions of the cemetery or memorials erected thereon, unless the provisions of this section are complied with. [Amended by 1955 c.545 §2; 1965 c.396 §4; 1967 c.213 §1; 1987 c.295 §1; 1995 c.144 §4; 1999 c.66 §1; 2001 c.796 §23; 2007 c.661 §5; 2011 c.163 §1]
+      (14) A cemetery authority may not in any way advertise or represent that it operates wholly or partially as an endowment care cemetery, or otherwise advertise or represent that it provides general care or maintenance of all or portions of the cemetery or memorials erected thereon, unless the provisions of this section are complied with. [Amended by 1955 c.545 §2; 1965 c.396 §4; 1967 c.213 §1; 1987 c.295 §1; 1995 c.144 §4; 1999 c.66 §1; 2001 c.796 §23; 2007 c.661 §5; 2011 c.163 §1; 2019 c.8 §6]
+
+ 
+
+      97.813 Standards of care for and public access to endowment care cemeteries; rules. The Department of Consumer and Business Services, in collaboration with the State Mortuary and Cemetery Board, shall adopt rules relating to:
+
+      (1) Minimum standards of care for the maintenance and operation of endowment care cemeteries; and
+
+      (2) The ability of the public to access the premises of endowment care cemeteries. [2019 c.8 §4]
+
+ 
+
+      Note: 97.813 was added to and made a part of 97.810 to 97.920 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1719,7 +1913,33 @@ CEMETERY CARE
 
  
 
-      97.825 Suits to enforce endowed care statutes; attorney fees. (1) If the cemetery authority fails to remit to the trustee or trustees, in accordance with the law, the funds herein provided for endowment and special care, or fails to expend the net income from the funds and generally care for and maintain any portion of a cemetery entitled to endowment care, any three lot owners whose lots are entitled to endowment care, or any one lot owner whose lot is entitled to special care, or the next of kin, heirs at law or personal representatives of such lot owners, shall have the right, or the district attorney of any county wherein is situated such lots, shall have the power, by suit for mandatory injunction or for appointment of a receiver, to sue for, to take charge of, and to expend such net income. The suit may be filed in the circuit court of the county in which said cemetery is located, to compel the expenditure either by the cemetery authority or by any receiver so appointed by the court, of the net income from such endowment care fund for the purposes set out in ORS 97.010 to 97.040, 97.110 to 97.450, 97.510 to 97.730, 97.810 to 97.920 and 97.990.
+      97.823 Prohibitions related to endowment care cemeteries. A person may not, in connection with operating an endowment care cemetery:
+
+      (1) Employ any device, scheme or artifice to defraud;
+
+      (2) Knowingly make any untrue statement of a material fact or omit stating a material fact necessary in order to make the statements made, in light of the circumstances under which the statements are made, not misleading;
+
+      (3) Engage in an act, practice or course of business that operates or would operate as a fraud or deceit upon any person; or
+
+      (4) Make or file, or cause to be made or filed, to or with the Director of the Department of Consumer and Business Services, a statement, report or document that is known to be false in any material respect or matter. [2019 c.8 §5]
+
+ 
+
+      Note: 97.823 was added to and made a part of 97.810 to 97.920 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      97.825 Suits to enforce endowed care statutes; attorney fees. (1)(a) If the cemetery authority fails to remit to the trustee or trustees, in accordance with the law, the funds herein provided for endowment and special care, or fails to expend the net income from the funds and generally care for and maintain any portion of a cemetery entitled to endowment care, any of the following may bring an action for a mandatory injunction or for an appointment of a receiver to sue for, take charge of and expend the net income:
+
+      (A) Any three lot owners, or a lot owner’s next of kin, heir or personal representative whose lots are entitled to endowment care;
+
+      (B) Any one lot owner, or the lot owner’s next of kin, heir or personal representative, whose lot is entitled to special care;
+
+      (C) The district attorney of the county where a lot described in this subsection is located; or
+
+      (D) A local government with jurisdiction over the county or municipality where a lot described in this subsection is located.
+
+      (b) The suit may be filed in the circuit court of the county where the cemetery is located in order to compel the cemetery authority or the appointed receiver to make the expenditure of the net income from the endowment care fund for the purposes set out in ORS 97.010 to 97.040, 97.110 to 97.450, 97.510 to 97.730, 97.810 to 97.920 and 97.990.
 
       (2) When the Director of the Department of Consumer and Business Services has reason to believe that a cemetery endowment care fund does not conform to the requirement of law, or when the director has reason to believe that any cemetery is operating in violation of ORS 97.810 or 97.820, or when the director has sent an endowment care cemetery a notice of delinquency to make any report to the director required by ORS 97.810, the director shall, as soon thereafter as reasonable, give notice of the foregoing to the trustee or trustees of the cemetery endowment care fund, the cemetery authority, the Attorney General of Oregon and the State Mortuary and Cemetery Board.
 
@@ -1733,7 +1953,7 @@ CEMETERY CARE
 
       (5) If a trustee fails to perform the duties of the trustee under ORS 97.810 to 97.920, the trustee shall be liable for any damage resulting from that failure to any lot owners or the next of kin, heirs at law or personal representatives of such lot owners.
 
-      (6) The court may award reasonable attorney fees, costs and disbursements to the prevailing party in an action under this section. [1955 c.545 §5; 1965 c.396 §6; 1985 c.450 §2; 1999 c.67 §1; 2001 c.796 §24; 2007 c.661 §7]
+      (6) The court may award reasonable attorney fees, costs and disbursements to the prevailing party in an action under this section. [1955 c.545 §5; 1965 c.396 §6; 1985 c.450 §2; 1999 c.67 §1; 2001 c.796 §24; 2007 c.661 §7; 2019 c.8 §7]
 
  
 
@@ -1751,13 +1971,73 @@ CEMETERY CARE
 
  
 
-      97.850 Endowment and special care funds are charitable. The endowment and special care funds and all payments or contributions to them are expressly permitted as and for charitable and eleemosynary purposes. Endowment care is a provision for the discharge of a duty from the persons contributing to the persons interred and to be interred in the cemetery and a provision for the benefit and protection of the public by preserving and keeping cemeteries from becoming unkempt and places of reproach and desolation in the communities in which they are situated.
+      97.843 Endowment and special care funds are charitable. The endowment and special care funds and all payments or contributions to them are expressly permitted as and for charitable and eleemosynary purposes. Endowment care is a provision for the discharge of a duty from the persons contributing to the persons interred and to be interred in the cemetery and a provision for the benefit and protection of the public by preserving and keeping cemeteries from becoming unkempt and places of reproach and desolation in the communities in which they are situated. [Formerly 97.850]
 
  
 
-      97.860 Agreements for care. (1) Upon payment of the purchase price, including the amount fixed as a proportionate contribution for endowed care, there may be included in the deed of conveyance, or by separate instrument, an agreement to care, in accordance with the plan adopted, for the cemetery and its appurtenances to the proportionate extent the income received by the cemetery authority from the contribution permits.
+      97.846 Agreements for care. (1) Upon payment of the purchase price, including the amount fixed as a proportionate contribution for endowed care, there may be included in the deed of conveyance, or by separate instrument, an agreement to care, in accordance with the plan adopted, for the cemetery and its appurtenances to the proportionate extent the income received by the cemetery authority from the contribution permits.
 
-      (2) Upon the application of an owner of any plot, and upon the payment by the owner of the amount fixed as a reasonable and proportionate contribution for endowed care, a cemetery authority may enter into an agreement with the owner for the care of the plot of the owner and its appurtenances.
+      (2) Upon the application of an owner of any plot, and upon the payment by the owner of the amount fixed as a reasonable and proportionate contribution for endowed care, a cemetery authority may enter into an agreement with the owner for the care of the plot of the owner and its appurtenances. [Formerly 97.860]
+
+ 
+
+      97.849 Authority of Department of Consumer and Business Services to take action regarding endowment care cemetery. (1) The Department of Consumer and Business Services may, if a cemetery authority responsible for an endowment care cemetery violates a provision of ORS 97.810 to 97.920 with respect to the endowment care cemetery:
+
+      (a) Issue an emergency order to suspend or restrict the operations of an endowment care cemetery; or
+
+      (b) Take other action deemed necessary by the Director of the Department of Consumer and Business Services.
+
+      (2) After taking an action described in subsection (1) of this section, the director shall promptly provide opportunity for a hearing pursuant to ORS chapter 183.
+
+      (3) An emergency order is:
+
+      (a) Effective upon issuance;
+
+      (b) Reviewable as provided in ORS 183.480; and
+
+      (c) Enforceable in the courts of this state. [2019 c.8 §2]
+
+ 
+
+      Note: 97.849 was added to and made a part of 97.810 to 97.920 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      97.850 [Renumbered 97.843 in 2019]
+
+ 
+
+      97.852 Receivership of endowment care cemetery. (1) The following may petition the circuit courts of this state for an appointment of receiver for an endowment care cemetery:
+
+      (a) The Department of Consumer and Business Services;
+
+      (b) The district attorney of the county where the endowment care cemetery is located; or
+
+      (c) A local government with jurisdiction over the county or municipality where the endowment care cemetery is located.
+
+      (2) If a court determines that a receivership is necessary or advisable, the court shall appoint a receiver:
+
+      (a) To ensure the orderly and proper conduct of an endowment care cemetery’s professional business and affairs during or after an administrative proceeding;
+
+      (b) To protect the public’s interest and rights in the business, premises or activities of the endowment care cemetery;
+
+      (c) Upon a showing of serious and repeated violations of ORS 97.810 to 97.920 demonstrating an inability or unwillingness to comply with the provisions of ORS 97.810 to 97.920;
+
+      (d) To prevent loss, wasting, dissipation, theft or conversion of assets that should be marshaled and held available for the honoring of obligations under ORS 97.810 to 97.920; or
+
+      (e) When the court receives proof of other grounds that the court deems good and sufficient for instituting receivership action concerning the endowment care cemetery.
+
+      (3)(a) A receivership under this section may be temporary or for the winding up and dissolution of a business, as the petitioner may request and as the court determines to be necessary or advisable in the circumstances.
+
+      (b) Venue of receivership proceedings shall be in the county where the endowment care cemetery is located. The receiver shall be the petitioner or a person nominated by the petitioner and approved by the court. [2019 c.8 §3]
+
+ 
+
+      Note: 97.852 was added to and made a part of 97.810 to 97.920 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      97.860 [Renumbered 97.846 in 2019]
 
  
 
@@ -1897,15 +2177,15 @@ PREARRANGEMENT SALES AND PRECONSTRUCTION SALES
 
  
 
-      97.928 Prohibitions. A person may not, in connection with performing certified provider activities, operating an endowment care cemetery, providing services as a master trustee or providing related services:
+      97.928 Prohibitions. A person may not, in connection with performing certified provider activities, providing services as a master trustee or providing related services:
 
       (1) Employ any device, scheme or artifice to defraud;
 
-      (2) Knowingly make any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which the statements are made, not misleading;
+      (2) Knowingly make any untrue statement of a material fact or omit stating a material fact necessary in order to make the statements made, in the light of the circumstances under which the statements are made, not misleading;
 
       (3) Engage in any act, practice or course of business that operates or would operate as a fraud or deceit upon any person; or
 
-      (4) Make or file, or cause to be made or filed, to or with the Director of the Department of Consumer and Business Services any statement, report or document that is known to be false in any material respect or matter. [2012 c.7 §13]
+      (4) Make or file, or cause to be made or filed, to or with the Director of the Department of Consumer and Business Services any statement, report or document that is known to be false in any material respect or matter. [2012 c.7 §13; 2019 c.8 §8]
 
  
 
@@ -2437,11 +2717,11 @@ REVISED UNIFORM ANATOMICAL GIFT ACT
 
       (1) “Adult” means an individual who is 18 years of age or older.
 
-      (2) “Agent” means an:
+      (2) “Agent” means:
 
-      (a) Attorney-in-fact as that term is defined in ORS 127.505; or
+      (a) A health care representative or an alternate health care representative appointed under ORS 127.510; or
 
-      (b) Individual expressly authorized to make an anatomical gift on the principal’s behalf by any record signed by the principal.
+      (b) An individual expressly authorized to make an anatomical gift on the principal’s behalf by any record signed by the principal.
 
       (3) “Anatomical gift” means a donation of all or part of a human body to take effect after the donor’s death for the purpose of transplantation, therapy, research or education.
 
@@ -2509,7 +2789,89 @@ REVISED UNIFORM ANATOMICAL GIFT ACT
 
       (30) “Tissue bank” means a person that is licensed, accredited or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage or distribution of tissue.
 
-      (31) “Transplant hospital” means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients. [2007 c.681 §2; 2008 c.1 §33; 2017 c.409 §2]
+      (31) “Transplant hospital” means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients. [2007 c.681 §2; 2008 c.1 §33; 2017 c.409 §2; 2018 c.36 §24]
+
+ 
+
+      Note: The amendments to 97.953 by section 15, chapter 701, Oregon Laws 2019, become operative January 1, 2021, and apply to driver licenses, driver permits and identification cards issued, renewed or replaced on or after January 1, 2021. See sections 25 and 26, chapter 701, Oregon Laws 2019. The text that is operative on and after January 1, 2021, is set forth for the user’s convenience.
+
+      97.953. As used in ORS 97.951 to 97.982:
+
+      (1) “Adult” means an individual who is 18 years of age or older.
+
+      (2) “Agent” means:
+
+      (a) A health care representative or an alternate health care representative appointed under ORS 127.510; or
+
+      (b) An individual expressly authorized to make an anatomical gift on the principal’s behalf by any record signed by the principal.
+
+      (3) “Anatomical gift” means a donation of all or part of a human body to take effect after the donor’s death for the purpose of transplantation, therapy, research or education.
+
+      (4) “Body part” means an organ, an eye or tissue of a human being. The term does not include the whole body.
+
+      (5) “Decedent” means a deceased individual whose body or body part is or may be the source of an anatomical gift, and includes a stillborn infant or a fetus.
+
+      (6)(a) “Disinterested witness” means a witness other than:
+
+      (A) A spouse, child, parent, sibling, grandchild, grandparent or guardian of the individual who makes, amends, revokes or refuses to make an anatomical gift; or
+
+      (B) An adult who exhibited special care and concern for the individual.
+
+      (b) “Disinterested witness” does not include a person to whom an anatomical gift could pass under ORS 97.969.
+
+      (7) “Document of gift” means a donor card or other record used to make an anatomical gift. The term includes a statement, symbol or designation on a driver license, identification card or donor registry.
+
+      (8) “Donor” means an individual whose body or body part is the subject of an anatomical gift.
+
+      (9) “Donor registry” means a centralized database that contains records of anatomical gifts and amendments to or revocations of anatomical gifts.
+
+      (10) “Driver license” means a license or permit issued under ORS 807.040, 807.200, 807.280 or 807.730, regardless of whether conditions are attached to the license or permit.
+
+      (11) “Eye bank” means an organization licensed, accredited or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage or distribution of human eyes or portions of human eyes.
+
+      (12) “Guardian” means a person appointed by a court to make decisions regarding the support, care, education, health or welfare of an individual. “Guardian” does not include a guardian ad litem.
+
+      (13) “Hospital” means a facility licensed as a hospital under the law of any state or a facility operated as a hospital by the United States, a state or a subdivision of a state.
+
+      (14) “Identification card” means the card issued under ORS 807.400 or 807.730, or a comparable provision of the motor vehicle laws of another state.
+
+      (15) “Know” means to have actual knowledge.
+
+      (16) “Minor” means an individual who is under 18 years of age.
+
+      (17) “Organ procurement organization” means an organization designated by the Secretary of the United States Department of Health and Human Services as an organ procurement organization.
+
+      (18) “Parent” means a parent whose parental rights have not been terminated.
+
+      (19) “Physician” means an individual authorized to practice medicine under the law of any state.
+
+      (20) “Procurement organization” means an eye bank, organ procurement organization or tissue bank.
+
+      (21) “Prospective donor” means an individual who is dead or near death and has been determined by a procurement organization to have a body part that could be medically suitable for transplantation, therapy, research or education. The term does not include an individual who has made a refusal.
+
+      (22) “Reasonably available” means able to be contacted by a procurement organization without undue effort and willing and able to act in a timely manner consistent with existing medical criteria necessary for the making of an anatomical gift.
+
+      (23) “Recipient” means an individual into whose body a decedent’s body part has been or is intended to be transplanted.
+
+      (24) “Record” means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+
+      (25) “Refusal” means a record that expressly states an intent to prohibit other persons from making an anatomical gift of an individual’s body or body part.
+
+      (26) “Sign” means, with the present intent to authenticate or adopt a record:
+
+      (a) To execute or adopt a tangible symbol; or
+
+      (b) To attach to or logically associate with the record an electronic symbol, sound or process.
+
+      (27) “State” means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands or any territory or insular possession subject to the jurisdiction of the United States.
+
+      (28) “Technician” means an individual determined to be qualified to remove or process body parts by an appropriate organization that is licensed, accredited or regulated under federal or state law. The term includes an enucleator.
+
+      (29) “Tissue” means a portion of the human body other than an organ or an eye. The term does not include blood unless the blood is donated for the purpose of research or education.
+
+      (30) “Tissue bank” means a person that is licensed, accredited or regulated under federal or state law to engage in the recovery, screening, testing, processing, storage or distribution of tissue.
+
+      (31) “Transplant hospital” means a hospital that furnishes organ transplants and other medical and surgical specialty services required for the care of transplant patients.
 
  
 
@@ -2531,11 +2893,11 @@ REVISED UNIFORM ANATOMICAL GIFT ACT
 
       (B) Authorized under ORS 807.280 to apply for an instruction driver permit because the donor is at least 15 years of age;
 
-      (b) An agent of the donor, unless the power of attorney for health care or other record prohibits the agent from making an anatomical gift;
+      (b) An agent of the donor, unless the form appointing a health care representative, as defined in ORS 127.505, or other record prohibits the agent from making an anatomical gift;
 
       (c) A parent of the donor, if the donor is an unemancipated minor; or
 
-      (d) The donor’s guardian. [2007 c.681 §3]
+      (d) The donor’s guardian. [2007 c.681 §3; 2018 c.36 §25]
 
  
 
@@ -2613,7 +2975,7 @@ REVISED UNIFORM ANATOMICAL GIFT ACT
 
       (a) The agent or guardian made the gift under ORS 97.955 (2)(b) or (d); or
 
-      (b) The power of attorney for health care or other record appointing the agent expressly authorizes the agent to amend or revoke anatomical gifts. [2007 c.681 §5; 2009 c.106 §2; 2011 c.61 §1]
+      (b) The form appointing a health care representative, as defined in ORS 127.505, or other record appointing the agent expressly authorizes the agent to amend or revoke anatomical gifts. [2007 c.681 §5; 2009 c.106 §2; 2011 c.61 §1; 2018 c.36 §26]
 
  
 
@@ -3063,7 +3425,7 @@ PENALTIES
 
       (3) Violation of ORS 97.520, 97.530 or 97.540 is a Class A misdemeanor.
 
-      (4) Any person, association or corporation who operates a cemetery, mausoleum or columbarium contrary to the provisions of ORS 97.020 to 97.040, 97.110 to 97.130, 97.145, 97.150, 97.220, 97.310 to 97.360 (1), 97.440, 97.510 to 97.560, 97.710, 97.720, 97.810, 97.820, 97.830 and 97.840 to 97.860 commits a Class B misdemeanor.
+      (4) Any person, association or corporation who operates a cemetery, mausoleum or columbarium contrary to the provisions of ORS 97.020 to 97.040, 97.110 to 97.130, 97.145, 97.150, 97.220, 97.310 to 97.360 (1), 97.440, 97.510 to 97.560, 97.710, 97.720, 97.810, 97.820, 97.830 and 97.840 to 97.846 commits a Class B misdemeanor.
 
       (5)(a) Violation of ORS 97.745 is a Class C felony.
 

@@ -4,10 +4,6 @@ Chapter 197A — Comprehensive Land Use Planning II
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
 
  
 
@@ -72,10 +68,6 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
  
 
 197A.413  City Economic Development Pilot Program Fund
-
- 
-
-Note          Report on pilot program--2017 c.709 §5
 
  
 
@@ -171,7 +163,7 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
  
 
-      197A.305 Amendment of urban growth boundaries outside Metro; rules. (1) In addition to and not in lieu of the method prescribed in ORS 197.295 to 197.314 and the statewide land use planning goals, the Land Conservation and Development Commission shall adopt by rule methods by which a city that is outside Metro may evaluate or amend the urban growth boundary of the city.
+      197A.305 Amendment of urban growth boundaries outside Metro; rules. (1) In addition to and not in lieu of the method prescribed in ORS 197.286 to 197.314 and the statewide land use planning goals, the Land Conservation and Development Commission shall adopt by rule methods by which a city that is outside Metro may evaluate or amend the urban growth boundary of the city.
 
       (2) A city outside Metro may use the methods adopted pursuant to:
 
@@ -205,7 +197,7 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
  
 
-      197A.310 Cities with population of less than 10,000; rules. (1) In addition to and not in lieu of the method prescribed in ORS 197.295 to 197.314 and the statewide land use planning goals, the Land Conservation and Development Commission shall adopt a method by which a city outside Metro that has a population of less than 10,000 may evaluate or amend its urban growth boundary.
+      197A.310 Cities with population of less than 10,000; rules. (1) In addition to and not in lieu of the method prescribed in ORS 197.286 to 197.314 and the statewide land use planning goals, the Land Conservation and Development Commission shall adopt a method by which a city outside Metro that has a population of less than 10,000 may evaluate or amend its urban growth boundary.
 
       (2) The commission shall design the method so that:
 
@@ -305,7 +297,7 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
  
 
-      197A.312 Cities with population of 10,000 or more; rules. (1) In addition to and not in lieu of the method prescribed in ORS 197.295 to 197.314 and the statewide land use planning goals, the Land Conservation and Development Commission shall adopt a method by which a city outside Metro that has a population of 10,000 or more may evaluate or amend its urban growth boundary.
+      197A.312 Cities with population of 10,000 or more; rules. (1) In addition to and not in lieu of the method prescribed in ORS 197.286 to 197.314 and the statewide land use planning goals, the Land Conservation and Development Commission shall adopt a method by which a city outside Metro that has a population of 10,000 or more may evaluate or amend its urban growth boundary.
 
       (2) The commission shall design the method so that:
 
@@ -477,7 +469,7 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
  
 
-      197A.320 Priority of land to be included within urban growth boundaries outside Metro; rules. (1) Notwithstanding the priority in ORS 197.298 for inclusion of land within an urban growth boundary, a city outside of Metro shall comply with this section when determining which lands to include within the urban growth boundary of the city pursuant to ORS 197.295 to 197.314, 197A.310 or 197A.312.
+      197A.320 Priority of land to be included within urban growth boundaries outside Metro; rules. (1) Notwithstanding the priority in ORS 197.298 for inclusion of land within an urban growth boundary, a city outside of Metro shall comply with this section when determining which lands to include within the urban growth boundary of the city pursuant to ORS 197.286 to 197.314, 197A.310 or 197A.312.
 
       (2) The Land Conservation and Development Commission shall provide, by rule, that:
 
@@ -531,12 +523,6 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
  
 
-      Note: Section 1, chapter 81, Oregon Laws 2016, provides:
-
-      Sec. 1. Notwithstanding ORS 197A.320, a city outside of Metro that submitted to the Director of the Department of Land Conservation and Development, pursuant to ORS 197.610, a proposed change to an acknowledged comprehensive plan or a land use regulation that included an evaluation or an amendment of its urban growth boundary, or that received approval of a periodic review work program that included a work task to amend or evaluate its urban growth boundary pursuant to ORS 197.633, prior to January 1, 2016, but did not complete the evaluation or amendment of its urban growth boundary prior to January 1, 2016, may complete the evaluation or amendment pursuant to statutes and administrative rules in effect on June 30, 2013. [2016 c.81 §1]
-
- 
-
       197A.325 Review of final decision of city; rules. (1) Notwithstanding ORS 197.626, when a city evaluates or amends the urban growth boundary of the city pursuant to ORS 197A.310 or 197A.312, the Land Use Board of Appeals has jurisdiction for review of a final decision of the city.
 
       (2) The board shall review the final decision of the city under ORS 197A.300 to 197A.325 as provided in ORS 197.805 to 197.855, except that:
@@ -563,7 +549,11 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
       (b) Promote industry growth and job creation.
 
-      (2) Under the rules adopted under this section, the commission shall establish a site selection process by which the commission shall select one pilot program site from a city located not less than 100 miles from a city with a population of 300,000 or more and located in a county with at least eight percent unemployment over the preceding five-year period.
+      (2) Under the rules adopted under this section, the commission shall establish a site selection process by which the commission shall select one pilot program site from a city:
+
+      (a) Whose urban growth boundary is at least 78 air miles from the urban growth boundary of any city with a population of 300,000 or more; and
+
+      (b) That is located in a county with at least seven percent unemployment over the preceding five-year period.
 
       (3) A city may nominate a site adjacent to its urban growth boundary for participation in the pilot program.
 
@@ -581,11 +571,11 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
       (c) Near public facilities and services, including roadways; and
 
-      (d) Planned and zoned for commercial or industrial uses that are compatible with aviation uses, as determined by the commission. [2017 c.709 §1]
+      (d) Planned and zoned for commercial or industrial uses that are compatible with aviation uses, as determined by the commission. [2017 c.709 §1; 2018 c.15 §10]
 
  
 
-      197A.407 Inclusion of pilot program site within urban growth boundary. (1) Notwithstanding ORS 197.298 and without regard to whether an urban growth boundary already contains a 20-year supply of buildable lands, the Land Conservation and Development Commission by rule may establish an expedited process for amending urban growth boundaries to include the pilot program site selected under ORS 197A.405.
+      197A.407 Inclusion of pilot program site within urban growth boundary. (1) Notwithstanding ORS 197A.320 and without regard to whether an urban growth boundary already contains a 20-year supply of buildable lands, the Land Conservation and Development Commission by rule may establish an expedited process for amending urban growth boundaries to include the pilot program site selected under ORS 197A.405.
 
       (2) An amendment to an urban growth boundary pursuant to this section must identify the specific goal and rule requirements related to urban growth boundaries from which the city is exempt for the purpose of implementing the pilot program.
 
@@ -593,7 +583,7 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
       (a) Be dedicated to economic development; and
 
-      (b) Remain planned and zoned for commercial or industrial uses that are compatible with aviation uses as otherwise provided in rules adopted pursuant to ORS 197A.405. [2017 c.709 §2]
+      (b) Remain planned and zoned for commercial or industrial uses that are compatible with aviation uses as otherwise provided in rules adopted pursuant to ORS 197A.405. [2017 c.709 §2; 2018 c.15 §11]
 
  
 
@@ -637,7 +627,7 @@ AMENDMENT OF URBAN GROWTH BOUNDARIES OUTSIDE METRO
 
       Note: Section 5, chapter 709, Oregon Laws 2017, provides:
 
-      Sec. 5. Report on pilot program. (1) The Land Conservation and Development Commission shall report on the progress of the pilot program, in the manner provided in ORS 192.245, to the committees of the Legislative Assembly related to housing and human services during the 2022 regular session of the Legislative Assembly.
+      Sec. 5. (1) The Land Conservation and Development Commission shall report on the progress of the pilot program, in the manner provided in ORS 192.245, to the committees of the Legislative Assembly related to housing and human services during the 2022 regular session of the Legislative Assembly.
 
       (2) The commission’s report shall, at a minimum, include:
 
@@ -1216,12 +1206,6 @@ SOUTHWEST CORRIDOR MAX LIGHT RAIL PROJECT
  
 
       197A.521 Failure to meet timeline. An action taken by the Land Conservation and Development Commission, the Metro Council, the Land Use Board of Appeals or the Supreme Court under ORS 197A.500 to 197A.521 is not invalid due to a failure to meet a timeline established under ORS 197A.500 to 197A.521. [2017 c.714 §12]
-
- 
-
-      Note: Section 13, chapter 714, Oregon Laws 2017, provides:
-
-      Sec. 13. The Land Conservation and Development Commission shall adopt the order establishing the criteria described in section 4 (8) of this 2017 Act [197A.505 (8)] within 90 days following the effective date of this 2017 Act [August 15, 2017]. [2017 c.714 §13]
 
  
 

@@ -121,15 +121,15 @@ PAYMENT AND COLLECTION OF WAGES GENERALLY
 
  
 
-652.220     Prohibition of discriminatory wage rates based on sex; employer not to discriminate against employee who is complainant
+652.220     Prohibition of discriminatory wage rates based on sex; exceptions; employer not to discriminate against employee who is complainant
 
  
 
-652.230     Employee right of action against employer for unpaid wages and damages
+652.230     Employee right of action against employer for unpaid wages and damages; statute of limitations; notice requirement
 
  
 
-652.235     Motion to disallow award of compensatory and punitive damages; equal-pay analysis of employer’s pay practices
+652.235     Motion to disallow award of compensatory and punitive damages; equal-pay analysis of employer’s pay practices; remedies
 
  
 
@@ -146,8 +146,6 @@ PAYMENT AND COLLECTION OF WAGES GENERALLY
  
 
 ENFORCEMENT OF WAGE CLAIMS
-
- 
 
 (Generally)
 
@@ -166,6 +164,10 @@ ENFORCEMENT OF WAGE CLAIMS
  
 
 652.332     Administrative proceeding for wage claim collection; court enforcement and review; rules
+
+ 
+
+652.333     Wage claims against licensed construction contractors and businesses; notice requirements
 
  
 
@@ -287,8 +289,6 @@ PRIORITY OF WAGE CLAIMS
 
 STATEMENTS RELATING TO EMPLOYEE’S SALARY AND DEDUCTIONS
 
- 
-
 (Generally)
 
  
@@ -338,6 +338,14 @@ PERSONNEL RECORDS
  
 
 652.750     Inspection of records by employee; furnishing copy to employee; disposition of record on termination of employment; charge for copies; public safety officer records
+
+ 
+
+652.752     Federal inspections of employee verification records; employer to provide employees with advance notice of inspection
+
+ 
+
+652.753     Commissioner of Bureau of Labor and Industries to generate notice template for employers
 
  
 
@@ -723,22 +731,6 @@ PAYMENT AND COLLECTION OF WAGES GENERALLY
 
       652.210 Definitions for ORS 652.210 to 652.235. As used in ORS 652.210 to 652.235, unless the context requires otherwise:
 
-      (1) “Employee” means any individual who, otherwise than as a copartner of the employer, as an independent contractor or as a participant in a work training program administered under the state or federal assistance laws, renders personal services wholly or partly in this state to an employer who pays or agrees to pay such individual at a fixed rate. However, when services are rendered only partly in this state, an individual is not an employee unless the contract of employment of the employee has been entered into, or payments thereunder are ordinarily made or to be made, within this state.
-
-      (2) “Employer” means any person employing one or more employees, including the State of Oregon or any political subdivision thereof or any county, city, district, authority, public corporation or entity and any of their instrumentalities organized and existing under law or charter. “Employer” does not include the federal government.
-
-      (3) “Rate” with reference to wages means the basis of compensation for services by an employee for an employer and includes compensation based on the time spent in the performance of the services, on the number of operations accomplished or on the quantity produced or handled.
-
-      (4) “Unpaid wages” means the difference between the wages actually paid to an employee and the wages required under ORS 652.220 to be paid to the employee.
-
-      (5) “Wages” means all compensation for performance of service by an employee for an employer, whether paid by the employer or another person, including cash value of all compensation paid in any medium other than cash. [1955 c.193 §1; 1985 c.100 §1; 1987 c.158 §124; 1993 c.739 §25; 2005 c.22 §457]
-
- 
-
-      Note: The amendments to 652.210 by section 1, chapter 197, Oregon Laws 2017, become operative January 1, 2019. See section 14, chapter 197, Oregon Laws 2017. The text that is operative on and after January 1, 2019, is set forth for the user’s convenience.
-
-      652.210. As used in ORS 652.210 to 652.235, unless the context requires otherwise:
-
       (1) “Compensation” includes wages, salary, bonuses, benefits, fringe benefits and equity-based compensation.
 
       (2) “Employee” means any individual who, otherwise than as a copartner of the employer, as an independent contractor or as a participant in a work training program administered under the state or federal assistance laws, renders personal services wholly or partly in this state to an employer who pays or agrees to pay such individual at a fixed rate. However, when services are rendered only partly in this state, an individual is not an employee unless the contract of employment of the employee has been entered into, or payments thereunder are ordinarily made or to be made, within this state.
@@ -759,37 +751,21 @@ PAYMENT AND COLLECTION OF WAGES GENERALLY
 
       (7) “Sexual orientation” has the meaning given that term in ORS 174.100.
 
-      (8) “Unpaid wages” means the difference between the wages actually paid to an employee and the wages required under ORS 652.220 to be paid to the employee.
+      (8) “System” means a consistent and verifiable method in use at the time that a violation is alleged under ORS 652.220.
 
-      (9) “Veteran status” means an individual is a veteran as defined in ORS 408.225.
+      (9) “Unpaid wages” means the difference between the wages actually paid to an employee and the wages required under ORS 652.220 to be paid to the employee.
 
-      (10) “Wages” means all compensation for performance of service by an employee for an employer, whether paid by the employer or another person, or paid in cash or any medium other than cash.
+      (10) “Veteran status” means an individual is a veteran as defined in ORS 408.225.
 
-      (11) “Working conditions” includes work environment, hours, time of day, physical surroundings and potential hazards encountered by an employee.
+      (11) “Wages” means all compensation for performance of service by an employee for an employer, whether paid by the employer or another person, or paid in cash or any medium other than cash.
 
-      (12) “Work of comparable character” means work that requires substantially similar knowledge, skill, effort, responsibility and working conditions in the performance of work, regardless of job description or job title.
+      (12) “Working conditions” includes work environment, hours, time of day, physical surroundings and potential hazards encountered by an employee.
 
- 
-
-      652.220 Prohibition of discriminatory wage rates based on sex; employer not to discriminate against employee who is complainant. (1) No employer shall:
-
-      (a) In any manner discriminate between the sexes in the payment of wages for work of comparable character, the performance of which requires comparable skills.
-
-      (b) Pay wages to any employee at a rate less than that at which the employer pays wages to employees of the opposite sex for work of comparable character, the performance of which requires comparable skills.
-
-      (2) Subsection (1) of this section does not apply where:
-
-      (a) Payment is made pursuant to a seniority or merit system which does not discriminate on the basis of sex.
-
-      (b) A differential in wages between employees is based in good faith on factors other than sex.
-
-      (3) No employer shall in any manner discriminate in the payment of wages against any employee because the employee has filed a complaint in a proceeding under ORS 652.210 to 652.235, or has testified, or is about to testify, or because the employer believes that the employee may testify, in any investigation or proceedings pursuant to ORS 652.210 to 652.235 or in a criminal action pursuant to ORS 652.210 to 652.235. [1955 c.193 §2]
+      (13) “Work of comparable character” means work that requires substantially similar knowledge, skill, effort, responsibility and working conditions in the performance of work, regardless of job description or job title. [1955 c.193 §1; 1985 c.100 §1; 1987 c.158 §124; 1993 c.739 §25; 2005 c.22 §457; 2017 c.197 §1; 2019 c.617 §1]
 
  
 
-      Note: The amendments to 652.220 by section 2, chapter 197, Oregon Laws 2017, become operative January 1, 2019. See section 14, chapter 197, Oregon Laws 2017. The text that is operative on and after January 1, 2019, is set forth for the user’s convenience.
-
-      652.220. (1) It is an unlawful employment practice under ORS chapter 659A for an employer to:
+      652.220 Prohibition of discriminatory wage rates based on sex; exceptions; employer not to discriminate against employee who is complainant. (1) It is an unlawful employment practice under ORS chapter 659A for an employer to:
 
       (a) In any manner discriminate between employees on the basis of a protected class in the payment of wages or other compensation for work of comparable character.
 
@@ -799,55 +775,53 @@ PAYMENT AND COLLECTION OF WAGES GENERALLY
 
       (d) Determine compensation for a position based on current or past compensation of a prospective employee. This paragraph is not intended to prevent an employer from considering the compensation of a current employee of the employer during a transfer, move or hire of the employee to a new position with the same employer.
 
-      (2) Notwithstanding subsection (1) of this section, an employer may pay employees for work of comparable character at different compensation levels if all of the difference in compensation levels is based on a bona fide factor that is related to the position in question and is based on:
+      (2) Notwithstanding subsection (1) of this section:
 
-      (a) A seniority system;
+      (a) An employer may pay employees for work of comparable character at different compensation levels if all of the difference in compensation levels is based on a bona fide factor that is related to the position in question and is based on:
 
-      (b) A merit system;
+      (A) A seniority system;
 
-      (c) A system that measures earnings by quantity or quality of production, including piece-rate work;
+      (B) A merit system;
 
-      (d) Workplace locations;
+      (C) A system that measures earnings by quantity or quality of production, including piece-rate work;
 
-      (e) Travel, if travel is necessary and regular for the employee;
+      (D) Workplace locations;
 
-      (f) Education;
+      (E) Travel, if travel is necessary and regular for the employee;
 
-      (g) Training;
+      (F) Education;
 
-      (h) Experience; or
+      (G) Training;
 
-      (i) Any combination of the factors described in this subsection, if the combination of factors accounts for the entire compensation differential.
+      (H) Experience; or
+
+      (I) Any combination of the factors described in this paragraph, if the combination of factors accounts for the entire compensation differential.
+
+      (b) An employer may pay employees for work of comparable character at different compensation levels on the basis of one or more of the factors listed in paragraph (a) of this subsection that are contained in a collective bargaining agreement.
 
       (3) An employer may not in any manner discriminate in the payment of wages or other compensation against any employee because the employee has filed a complaint under ORS 659A.820 or in a proceeding under ORS 652.210 to 652.235 or 659A.885 or has testified, or is about to testify, or because the employer believes that the employee may testify, in any investigation or proceedings pursuant to ORS 652.210 to 652.235, 659A.830 or 659A.885 or in a criminal action pursuant to ORS 652.210 to 652.235.
 
       (4) An employer may not reduce the compensation level of an employee to comply with the provisions of this section.
 
-      (5) Amounts owed to an employee because of the failure of the employer to comply with the requirements of this section are unpaid wages.
+      (5) It is not a violation of this section for an employer to pay a different level of compensation to an employee who:
 
-      (6) An employee who asserts a violation under this section may file a complaint with the Commissioner of the Bureau of Labor and Industries under ORS 659A.820, a civil action under ORS 652.230 or a civil action under 659A.885.
+      (a) Pursuant to a claim for a compensable injury under ORS chapter 656, receives wages for modified work; or
 
-      (7) An employer shall post a notice of the requirements of this section in every establishment where employees work. The Bureau of Labor and Industries shall make available to employers a template that meets the required notice provisions of this section.
+      (b) As a result of a medical condition, is temporarily performing modified work that is:
 
- 
+      (A) Authorized by a medical professional licensed under ORS chapter 677; or
 
-      652.230 Employee right of action against employer for unpaid wages and damages. (1) Any employee whose compensation is at a rate that is in violation of ORS 652.220 shall have a right of action against the employer for the recovery of:
+      (B) Requested by the employee and authorized by the employer in a manner that does not discriminate against employees on the basis of a protected class.
 
-      (a) The amount of the unpaid wages to which the employee is entitled for the one year period preceding the commencement of the action; and
+      (6) Amounts owed to an employee because of the failure of the employer to comply with the requirements of this section are unpaid wages.
 
-      (b) An additional amount as liquidated damages equal to the amount referred to in paragraph (a) of this subsection.
+      (7) An employee who asserts a violation under this section may file a complaint with the Commissioner of the Bureau of Labor and Industries under ORS 659A.820, a civil action under ORS 652.230 or a civil action under 659A.885.
 
-      (2) The court shall award reasonable attorney fees to the prevailing plaintiff in an action under this section. The court may award reasonable attorney fees and expert witness fees incurred by a defendant who prevails in the action if the court determines that the plaintiff had no objectively reasonable basis for asserting a claim or no objectively reasonable basis for appealing an adverse decision of a trial court.
-
-      (3) The action for the unpaid wages and liquidated damages may be maintained by one or more employees on behalf of themselves or other employees similarly situated.
-
-      (4) No agreement for compensation at a rate less than the rate to which such employee is entitled under ORS 652.210 to 652.235 is a defense to any action under ORS 652.210 to 652.235. [1955 c.193 §3; 1981 c.894 §87; 1995 c.618 §110]
+      (8) An employer shall post a notice of the requirements of this section in every establishment where employees work. The Bureau of Labor and Industries shall make available to employers a template that meets the required notice provisions of this section. [1955 c.193 §2; 2017 c.197 §2; 2019 c.617 §2]
 
  
 
-      Note: The amendments to 652.230 by section 3, chapter 197, Oregon Laws 2017, become operative January 1, 2019. See section 14, chapter 197, Oregon Laws 2017. The text that is operative on and after January 1, 2019, is set forth for the user’s convenience.
-
-      652.230. (1) Any employee whose compensation is at a rate that is in violation of ORS 652.220 shall have a right of action against the employer for the recovery of:
+      652.230 Employee right of action against employer for unpaid wages and damages; statute of limitations; notice requirement. (1) Any employee whose compensation is at a rate that is in violation of ORS 652.220 shall have a right of action against the employer for the recovery of:
 
       (a) The amount of the unpaid wages to which the employee is entitled for the one year period preceding the commencement of the action; and
 
@@ -863,29 +837,33 @@ PAYMENT AND COLLECTION OF WAGES GENERALLY
 
       (6) An action under this section alleging a violation of ORS 652.220 must be commenced within one year after the occurrence of the unlawful practice.
 
-      (7) Notwithstanding ORS 30.275 (2)(b), notice of claim against a public body under ORS 652.220 must be given within 300 days of discovery of the alleged loss or injury.
+      (7) Notwithstanding ORS 30.275 (2)(b), notice of claim against a public body under ORS 652.220 must be given within 300 days of discovery of the alleged loss or injury. [1955 c.193 §3; 1981 c.894 §87; 1995 c.618 §110; 2017 c.197 §3]
 
  
 
-      652.235 Motion to disallow award of compensatory and punitive damages; equal-pay analysis of employer’s pay practices. (1) In a civil action under ORS 652.230 or 659A.885 (1) alleging a violation of ORS 652.220, the employer may file a motion to disallow an award of compensatory and punitive damages. The court shall grant the motion if the employer demonstrates, by a preponderance of the evidence, that the employer:
+      652.235 Motion to disallow award of compensatory and punitive damages; equal-pay analysis of employer’s pay practices; remedies. (1) In a civil action under ORS 652.230 or 659A.885 (1) alleging a violation of ORS 652.220, the employer may file a motion to disallow an award of compensatory and punitive damages. The court shall grant the motion if the employer demonstrates, by a preponderance of the evidence, that the employer:
 
-      (a) Completed, within three years before the date that the employee filed the action, an equal-pay analysis of the employer’s pay practices in good faith that was:
+      (a) Completed, within three years before the date that the employee filed the action, an equal-pay analysis of the employer’s pay practices in good faith that:
 
-      (A) Reasonable in detail and in scope in light of the size of the employer; and
+      (A) Was reasonable in detail and in scope in light of the size of the employer; and
 
-      (B) Related to the protected class asserted by the plaintiff in the action; and
+      (B) Included a review of practices designed to eliminate unlawful wage differentials; and
 
-      (b) Eliminated the wage differentials for the plaintiff and has made reasonable and substantial progress toward eliminating wage differentials for the protected class asserted by the plaintiff.
+      (b) Has made reasonable and substantial progress toward eliminating unlawful wage differentials for the employer’s employees.
 
-      (2) If the court grants the motion filed under this section, the court may award back pay only for the two-year period immediately preceding the filing of the action and may allow the prevailing plaintiff costs and reasonable attorney fees, but may not award compensatory or punitive damages.
+      (2) If the court grants the motion filed under this section and the plaintiff prevails on the claim in the action, the court:
 
-      (3) Evidence of an equal-pay analysis undertaken in accordance with subsection (1) of this section is inadmissible in any other proceeding.
+      (a) Shall order the employer to eliminate the unlawful wage differential for the plaintiff;
 
-      (4) Information that an employer has not completed an equal-pay analysis may not be used as evidence of a violation of ORS 652.220 in an action under ORS 652.230 or 659A.885 alleging a violation of ORS 652.220. [2017 c.197 §12]
+      (b) Shall award back pay or unpaid wages as provided under ORS 652.230 or 659A.885 (1); and
 
- 
+      (c) May allow the prevailing plaintiff costs and reasonable attorney fees, but may not award compensatory or punitive damages.
 
-      Note: 652.235 becomes operative January 1, 2019. See section 14, chapter 197, Oregon Laws 2017.
+      (3)(a) Evidence of an equal-pay analysis undertaken in accordance with subsection (1) of this section is inadmissible in any other proceeding.
+
+      (b) Evidence that an employer has increased an employee’s pay as a result of conducting an equal-pay analysis may not be considered as an admission of liability in a civil action alleging a violation of ORS 652.220.
+
+      (4) Information that an employer has not completed an equal-pay analysis may not be used as evidence of a violation of ORS 652.220 in an action under ORS 652.230 or 659A.885 alleging a violation of ORS 652.220. [2017 c.197 §12; 2019 c.617 §3]
 
  
 
@@ -977,9 +955,11 @@ ENFORCEMENT OF WAGE CLAIMS
 
       (d) A statement that the employer must, within 20 days after receipt of the order of determination, either pay in full the wage claim and any penalties assessed, or present to the commissioner a written request for a contested case hearing or a trial in a court of law as provided in this section;
 
-      (e) A statement that failure to make a written request to the commissioner for a contested case hearing or a trial of the claim in a court of law within the time specified shall constitute a waiver of the right thereto and a waiver of the right to a trial by jury; and
+      (e) A statement that failure to make a written request to the commissioner for a contested case hearing or a trial of the claim in a court of law within the time specified shall constitute a waiver of the right thereto and a waiver of the right to a trial by jury;
 
-      (f) A statement that unless the written requests provided for in paragraph (c) of this subsection are received by the commissioner within the time specified for making such requests, the order of determination shall become final.
+      (f) For an employer that is a contractor or business licensed under ORS chapter 701, a statement that failure to pay in full the wage claim and any penalties assessed within 60 days of the date that an order of determination becomes final under this section will result in notification to the Construction Contractors Board of such failure to pay and the suspension of the contractor’s or business’s license in accordance with ORS 701.110; and
+
+      (g) A statement that unless the written requests provided for in paragraph (c) of this subsection are received by the commissioner within the time specified for making such requests, the order of determination shall become final.
 
       (2) Upon failure of the employer to pay the amount specified in the order of determination or to request a trial in a court of law within the time specified, and upon failure of any party to request a contested case hearing within the time specified, the order of determination shall become final.
 
@@ -989,7 +969,19 @@ ENFORCEMENT OF WAGE CLAIMS
 
       (5) When an order issued under this section becomes final, it may be recorded in the County Clerk Lien Record in any county of this state. In addition to any other remedy provided by law, recording an order in the County Clerk Lien Record pursuant to the provisions of this section has the effect provided for in ORS 205.125 and 205.126, and the order may be enforced as provided in ORS 205.125 and 205.126.
 
-      (6) Where the wage claim arose out of work performed by the claimant for the employer on any public works project to which ORS 279C.830 or 279C.840 applies, and a state agency holds sufficient funds as retainage on such project to pay such claim or any portion thereof, the state agency may, at the request of the commissioner, pay to the commissioner from the retainage all or part of the amount due on the claim under the final order. [1979 c.695 §4; 1981 c.594 §3; 1989 c.706 §19; 1995 c.82 §1; 1997 c.387 §6; 2003 c.794 §309]
+      (6) Where the wage claim arose out of work performed by the claimant for the employer on any public works project to which ORS 279C.830 or 279C.840 applies, and a state agency holds sufficient funds as retainage on such project to pay such claim or any portion thereof, the state agency may, at the request of the commissioner, pay to the commissioner from the retainage all or part of the amount due on the claim under the final order. [1979 c.695 §4; 1981 c.594 §3; 1989 c.706 §19; 1995 c.82 §1; 1997 c.387 §6; 2003 c.794 §309; 2019 c.444 §3]
+
+ 
+
+      652.333 Wage claims against licensed construction contractors and businesses; notice requirements. (1)(a) If the Commissioner of the Bureau of Labor and Industries receives a valid wage claim filed against a contractor or a business subject to licensing under ORS chapter 701 for unpaid wages, the commissioner shall notify the Construction Contractors Board and the contractor or the business of the claim within 30 days of the commissioner’s receipt of the claim.
+
+      (b) If wages are found due and the contractor or business fails to pay the unpaid wages upon demand, the commissioner shall serve upon the contractor or business an order of determination as prescribed under ORS 652.332.
+
+      (2)(a) If an order issued under ORS 652.332 for the payment of a wage claim described under subsection (1) of this section becomes final, the commissioner shall notify the board of the final order.
+
+      (b) The commissioner shall notify the board if the contractor or business fails to pay the amounts due pursuant to the final order within 60 days of the date of the order, unless a motion to stay the order is pending or has been granted by the commissioner under ORS 183.482.
+
+      (3) As used in this section, “contractor” has the meaning given that term in ORS 701.005. [2019 c.444 §2]
 
  
 
@@ -1065,9 +1057,15 @@ ENFORCEMENT OF WAGE CLAIMS
 
  
 
-(Wage Security Fund)
+      Note: The amendments to 652.405 by section 67, chapter 678, Oregon Laws 2019, become operative July 1, 2021. See section 85, chapter 678, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      652.405. (1) The Commissioner of the Bureau of Labor and Industries shall attempt for a period of not less than three years to make payment of wages collected under ORS 652.310 to 652.414 to the person entitled thereto.
+
+      (2) By July 30 of each year, wages collected by the commissioner under ORS 652.310 to 652.414 and remaining unclaimed for a period of more than three years from the date of collection shall escheat to the state and the commissioner shall pay those wages to the State Treasurer for the benefit of the Common School Fund. The State Treasurer shall issue a receipt for the money to the commissioner. No later than 10 years after the State Treasurer receives the escheated funds, a person entitled to claim the wages may file a claim with the State Treasurer in the manner provided by ORS 116.253.
 
  
+
+(Wage Security Fund)
 
       652.409 Wage Security Fund; use. (1) The Wage Security Fund is established separate and distinct from the General Fund. After deduction of the amounts provided in ORS 657.439 (2)(a), all moneys received by the Employment Department pursuant to ORS 657.439 (2)(a) shall be paid into the State Treasury and credited to the Wage Security Fund. All income earned on moneys in the Wage Security Fund invested by the State Treasurer shall accrue to the fund.
 
@@ -1087,7 +1085,7 @@ ENFORCEMENT OF WAGE CLAIMS
 
       (b) If the claimant filed a wage claim before the cessation of business, the unpaid amount of wages earned within 60 days before the last day the claimant was employed.
 
-      (2) The commissioner shall pay the unpaid amount of wages earned as provided in subsection (1) of this section only to the extent of $4,000 from such funds as may be available pursuant to ORS 652.409 (2).
+      (2) The commissioner shall pay the unpaid amount of wages earned as provided in subsection (1) of this section only to the extent of $10,000 from such funds as may be available pursuant to ORS 652.409 (2).
 
       (3) The commissioner may commence an appropriate action, suit or proceeding to recover from the employer, or other persons or property liable for the unpaid wages, amounts paid from the Wage Security Fund under subsection (1) of this section. In addition to costs and disbursements, the commissioner is entitled to recover reasonable attorney fees at trial and on appeal, together with a penalty of 25 percent of the amount of wages paid from the Wage Security Fund or $200, whichever amount is the greater. All amounts recovered by the commissioner under this subsection and subsection (4) of this section are appropriated continuously to the commissioner to carry out the provisions of this section.
 
@@ -1107,7 +1105,7 @@ ENFORCEMENT OF WAGE CLAIMS
 
       (7) The commissioner shall promulgate rules to carry out the provisions of this section that include, but are not limited to, prescribing procedures for a timely and cost efficient method for the payment of wage claims from the Wage Security Fund and procedures for prorating wage claims if insufficient funds are available for payment.
 
-      (8) Nothing in this section is intended to require the commissioner to pay wage claims for which moneys are not available under ORS 652.409 (2). [1985 c.409 §7; 1987 c.412 §1; 1989 c.554 §3; 1999 c.374 §1]
+      (8) Nothing in this section is intended to require the commissioner to pay wage claims for which moneys are not available under ORS 652.409 (2). [1985 c.409 §7; 1987 c.412 §1; 1989 c.554 §3; 1999 c.374 §1; 2019 c.444 §4]
 
  
 
@@ -1175,7 +1173,7 @@ ______________________________________________________________________________
 
 State of Oregon           )
 
-                                    )           ss.
+      )     ss.
 
 County of_____,         )
 
@@ -1311,11 +1309,11 @@ STATEMENTS RELATING TO EMPLOYEE’S SALARY AND DEDUCTIONS
 
       (5) This section does not:
 
-      (a) Prohibit the withholding of amounts authorized in writing by the employee to be contributed by the employee to charitable organizations, including contributions made pursuant to ORS 243.666 and 663.110;
+      (a) Prohibit the withholding of amounts authorized in writing by the employee to be contributed by the employee to charitable organizations, including contributions made pursuant to ORS 663.110;
 
       (b) Prohibit deductions by checkoff dues to labor organizations or service fees when the deductions are not otherwise prohibited by law; or
 
-      (c) Diminish or enlarge the right of any person to assert and enforce a lawful setoff or counterclaim or to attach, take, reach or apply an employee’s compensation on due legal process. [Amended by 1977 c.618 §1; 1980 s.s. c.1 §2; 1981 c.594 §5; 1995 c.753 §2; 2001 c.249 §78; 2003 c.779 §5; 2007 c.676 §1; 2013 c.369 §5; 2016 c.115 §1]
+      (c) Diminish or enlarge the right of any person to assert and enforce a lawful setoff or counterclaim or to attach, take, reach or apply an employee’s compensation on due legal process. [Amended by 1977 c.618 §1; 1980 s.s. c.1 §2; 1981 c.594 §5; 1995 c.753 §2; 2001 c.249 §78; 2003 c.779 §5; 2007 c.676 §1; 2013 c.369 §5; 2016 c.115 §1; 2019 c.429 §15]
 
  
 
@@ -1432,6 +1430,42 @@ PERSONNEL RECORDS
       (7)(a) Upon request, a public safety officer may inspect the officer’s own personnel records at a reasonable time at the location where the records are kept by the employer.
 
       (b) If, after inspection, a public safety officer believes that any portion of the material is mistakenly or unlawfully placed in the officer’s personnel records, the officer may request in writing that the mistaken or unlawful material be corrected or deleted. The request must describe the corrections or deletions requested and the reasons supporting the request and provide any documentation that supports the request. The employer shall respond within 30 days from the date the request is received. If the employer does not correct or delete the material, the employer shall place the request and the employer’s response to the request in the officer’s personnel records. [1977 c.861 §2; 1985 c.404 §6; 2007 c.276 §1; 2009 c.716 §4; 2016 c.115 §2]
+
+ 
+
+      652.752 Federal inspections of employee verification records; employer to provide employees with advance notice of inspection. (1) As used in this section and ORS 652.753, “employee” and “employer” have the meanings given those terms in ORS 652.210.
+
+      (2) Unless prohibited by federal law, an employer shall, within three business days of receiving a notice of an inspection from a federal agency compelling the employer to provide access to records of forms and any other documentation used by the employer to verify the identity and employment eligibility of the employees hired by the employer, notify the employer’s employees of the upcoming inspection.
+
+      (3) The employer shall notify employees of an upcoming inspection by:
+
+      (a) Posting a notice in a conspicuous and accessible location, in English and in the language the employer typically uses to communicate with the employees; and
+
+      (b) Making reasonable attempts to individually distribute notifications to employees in the employee’s preferred language.
+
+      (4) The notice shall include:
+
+      (a) A copy of the federal agency’s notice of inspection received by the employer;
+
+      (b) The date of the inspection;
+
+      (c) To the extent the employer knows, the scope of the federal agency’s inspection;
+
+      (d) The employer’s obligations with respect to providing information within the scope of the federal agency’s notice of inspection; and
+
+      (e) A telephone number, prescribed by the Bureau of Labor and Industries, for a hotline operated by an organization that provides information and advocacy related to immigrant and refugee workers’ rights. [2019 c.260 §1]
+
+ 
+
+      Note: 652.752 and 652.753 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 652 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      652.753 Commissioner of Bureau of Labor and Industries to generate notice template for employers. The Commissioner of the Bureau of Labor and Industries shall generate and make available on the Bureau of Labor and Industries website a template for a notice that employers may use to comply with the requirements of ORS 652.752. The commissioner shall make the template available in English and in each of the five most widely used non-English languages in this state. The commissioner shall update the languages for which the templates are available every five years. [2019 c.260 §2]
+
+ 
+
+      Note: See note under 652.752.
 
  
 

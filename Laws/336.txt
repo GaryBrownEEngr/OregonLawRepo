@@ -4,16 +4,6 @@ Chapter 336 — Conduct of Schools Generally
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0018; 2018 Session Laws 0121
-
- 
-
- 
-
 
  
 
@@ -51,7 +41,7 @@ REQUIRED COURSES OF STUDY
 
  
 
-336.035     Required courses of study; supplemental courses; district courses; courses concerning sexually transmitted diseases
+336.035     Required courses of study; supplemental courses; district courses; courses concerning sexually transmitted infections
 
  
 
@@ -265,7 +255,11 @@ EXTRACURRICULAR SPORTS
 
  
 
-336.485     Concussions; training of coaches; participation by athletes; rules
+336.485     Concussions; training of coaches; participation by athletes; medical release from qualified health care professional; rules
+
+ 
+
+336.490     Qualified health care professional for purposes of ORS 336.485 and 417.875; certification
 
  
 
@@ -405,15 +399,15 @@ TECHNOLOGY IN SCHOOLS
 
  
 
-(Oregon Virtual School District)
+(Oregon Digital Learning)
 
  
 
-336.851     Creation; purpose; course standards; rules
+336.851     Creation; purposes; rules
 
  
 
-336.856     Oregon Virtual School District Fund
+336.856     Oregon Digital Learning Fund
 
  
 
@@ -503,11 +497,11 @@ REQUIRED COURSES OF STUDY
 
  
 
-      336.035 Required courses of study; supplemental courses; district courses; courses concerning sexually transmitted diseases. (1) The district school board shall see that the courses of study prescribed by law and by the rules of the State Board of Education are carried out. The board may establish supplemental courses that are not inconsistent with the prescribed courses and may adopt courses of study in lieu of state courses of study upon approval by the Superintendent of Public Instruction.
+      336.035 Required courses of study; supplemental courses; district courses; courses concerning sexually transmitted infections. (1) The district school board shall see that the courses of study prescribed by law and by the rules of the State Board of Education are carried out. The district school board may establish supplemental courses that are not inconsistent with the prescribed courses and may adopt courses of study in lieu of state courses of study upon approval by the Superintendent of Public Instruction.
 
-      (2) Any district school board may establish a course of education concerning sexually transmitted diseases including recognition of causes, sources and symptoms, and the availability of diagnostic and treatment centers. Any such course established may be taught to adults from the community served by the individual schools as well as to students enrolled in the school. The board shall cause the parents or guardians of minor students to be notified in advance that the course is to be taught. Any such parent or guardian may direct in writing that the minor child in the care of the parent or guardian be excused from any class within the course. Any parent or guardian may inspect the instructional materials to be used before or during the time the course is taught.
+      (2) Any district school board may establish a course of education concerning sexually transmitted infections including recognition of causes, sources and symptoms, and the availability of diagnostic and treatment centers. Any such course established may be taught to adults from the community served by the individual schools as well as to students enrolled in the school. The board shall cause the parents or guardians of minor students to be notified in advance that the course is to be taught. Any such parent or guardian may direct in writing that the minor child in the care of the parent or guardian be excused from any class within the course. Any parent or guardian may inspect the instructional materials to be used before or during the time the course is taught.
 
-      (3) The district school board shall coordinate the course provided in subsection (2) of this section with the officials of the local health department and the Superintendent of Public Instruction. Teachers holding endorsements for health education shall be used where available. No teacher shall be subject to discipline or removal for teaching or refusing to teach courses concerning sexually transmitted diseases. [Formerly 336.225; 1967 c.67 §26; 1967 c.200 §6; 1973 c.565 §1; 1993 c.45 §74; 2005 c.209 §21]
+      (3) The district school board shall coordinate the course provided in subsection (2) of this section with the officials of the local health department and the Superintendent of Public Instruction. Teachers holding endorsements for health education shall be used where available. A teacher may not be subject to discipline or removal for teaching or refusing to teach courses concerning sexually transmitted infections. [Formerly 336.225; 1967 c.67 §26; 1967 c.200 §6; 1973 c.565 §1; 1993 c.45 §74; 2005 c.209 §21; 2019 c.280 §5]
 
  
 
@@ -531,7 +525,7 @@ REQUIRED COURSES OF STUDY
 
       (1) Begin not later than the opening of the eighth grade and shall continue in grades 9 through 12.
 
-      (2) Be required in all public universities listed in ORS 352.002 and in all state and local institutions that provide education for patients or inmates to an extent to be determined by the Superintendent of Public Instruction. [Formerly 336.230; 1977 c.226 §1; 1999 c.1023 §1; 2011 c.637 §114; 2015 c.27 §35]
+      (2) Be required in all public universities listed in ORS 352.002 and in all state and local institutions that provide education for patients or adults in custody to an extent to be determined by the Superintendent of Public Instruction. [Formerly 336.230; 1977 c.226 §1; 1999 c.1023 §1; 2011 c.637 §114; 2015 c.27 §35; 2019 c.213 §129]
 
  
 
@@ -781,13 +775,15 @@ KINDERGARTEN
 
       (B) The minimum number of instructional hours required for half-day kindergarten and full-day kindergarten.
 
+      (d) Nothing in this subsection requires a school district to offer half-day kindergarten in a school where the school district offers full-day kindergarten.
+
       (2) Every school district that is not a union high school district must provide kindergarten facilities free of charge for the kindergarten children residing in the district by operating the facilities either singly or jointly with other districts or by contracting with public or private providers that conform to standards adopted by rule by the State Board of Education.
 
       (3) Nothing in this section prevents a district school board from admitting free of charge a child who is a resident of the district and whose needs for cognitive, social and physical development would best be met in the school program, as defined by policies of the district school board, even though the child has not attained the minimum age requirement.
 
       (4) Kindergarten that is offered as provided by subsection (1) of this section shall be funded in the same manner as other grades of the district are funded, except that the aggregate days membership of children in kindergarten shall be calculated as provided by ORS 327.006.
 
-      (5) Kindergarten is an integral part of the public school system of this state. [1973 c.707 §3; 1981 c.543 §1; 1993 c.45 §81; 2005 c.22 §232; 2011 c.704 §3]
+      (5) Kindergarten is an integral part of the public school system of this state. [1973 c.707 §3; 1981 c.543 §1; 1993 c.45 §81; 2005 c.22 §232; 2011 c.704 §3; 2018 c.72 §14]
 
  
 
@@ -1719,29 +1715,45 @@ FOOD AND BEVERAGE STANDARDS AND PROGRAMS
 
  
 
-      336.431 Farm-to-School Grant Programs to purchase Oregon food products and to fund certain educational activities; rules; administrative costs. (1) The Department of Education shall administer a Farm-to-School Grant Program as provided by this section.
+      336.431 Farm-to-School Grant Program to purchase Oregon food products and to fund certain educational activities; rules; administrative costs. (1) The Department of Education shall administer a Farm-to-School Grant Program as provided by this section.
 
-      (2) A school district may apply to the department for a grant as follows:
+      (2) An entity identified in subsection (3)(a) or (5)(a) of this section may apply to the department for a grant as follows:
 
-      (a) As a noncompetitive grant to assist the school district with paying for costs incurred by the school district to purchase food produced or processed in this state; or
+      (a) As a noncompetitive grant to assist the school district with paying for costs incurred by the school district to purchase food produced or processed in this state or to pay for costs incurred to identify sources of those foods or to process those foods.
 
-      (b) As a competitive grant to fund food-based, agriculture-based and garden-based educational activities in the school district.
+      (b) As a competitive grant to encourage and sustain successful efforts to purchase or promote food produced or processed in this state.
 
-      (3)(a) Based on a noncompetitive process, the department shall provide grants to school districts to assist in paying for costs incurred by the school district to purchase food produced or processed in this state. The amount of a grant awarded as provided by this subsection shall be determined by the department based on the number of lunches served by the school district during the previous school year under the United States Department of Agriculture’s National School Lunch Program.
+      (c) As a competitive grant to fund food-based, agriculture-based and garden-based educational activities in the school district.
 
-      (b) A school district that receives a grant under this subsection shall use the moneys for the costs incurred by the school district to purchase food products that were:
+      (3)(a) Based on a noncompetitive process, the department shall provide grants to any of the following entities to assist in paying for costs incurred by the entity to purchase food produced or processed in this state or to pay for costs incurred to identify sources of those foods or to process those foods:
 
-      (A) Purchased on or after the date the school district received notification from the Department of Education of the amount to be distributed to the school district as provided by this subsection;
+      (A) A school district.
 
-      (B) Produced or processed in this state; and
+      (B) A provider of center-based programs for children in the Child and Adult Care Food Program.
 
-      (C) Used for meals that are served as part of the United States Department of Agriculture’s child nutrition programs.
+      (C) An entity that provides meals through the Summer Food Service Program.
 
-      (c)(A) A school district may not use any moneys received under this subsection to supplant purchases of food produced or processed in this state that the school district had regularly purchased prior to the date the school district first received a grant as provided by this subsection.
+      (b) The amount of a grant awarded as provided by this subsection shall be determined by the department based on the number of meals served by the entity identified in paragraph (a) of this subsection during the previous school year and summer under the United States Department of Agriculture’s National School Lunch Program and Summer Food Service Program.
 
-      (B) Notwithstanding subparagraph (A) of this paragraph, a school district may use moneys received under this subsection to supplant purchases of food produced or processed in this state that the school district had regularly purchased prior to the date the school district first received a grant as provided by this subsection if the food meets criteria established by the State Board of Education by rule.
+      (c) An entity that receives a grant under this subsection:
 
-      (4)(a) Based on a competitive process, the department shall provide grants to assist in paying the costs incurred to provide food-based, agriculture-based or garden-based educational activities in the school district. Grants may be provided to:
+      (A) Shall use the moneys for the costs incurred by the entity to purchase food products that were:
+
+      (i) Purchased on or after the date the entity received notification from the Department of Education of the amount to be distributed to the entity as provided by this subsection;
+
+      (ii) Produced or processed in this state, including to pay for costs incurred to identify sources of those foods or to process those foods; and
+
+      (iii) Used for meals that are served as part of the United States Department of Agriculture’s child nutrition programs.
+
+      (B) May use the moneys to provide education or promotion about foods produced or processed in this state.
+
+      (d)(A) An entity that receives a grant under this subsection may not use any moneys received under this subsection to supplant purchases of food produced or processed in this state that the entity had regularly purchased prior to the date the entity first received a grant as provided by this subsection.
+
+      (B) Notwithstanding subparagraph (A) of this paragraph, an entity may use moneys received under this subsection to purchase food produced or processed in this state that the entity had regularly purchased prior to the date the entity first received a grant as provided by this subsection if the food meets criteria established by the State Board of Education by rule.
+
+      (4) Based on a competitive process, the Department of Education shall provide grants to entities identified in subsection (3)(a) of this section to encourage and sustain successful efforts to purchase or promote food produced or processed in this state.
+
+      (5)(a) Based on a competitive process, the department shall provide grants to assist in paying the costs incurred to coordinate and implement food-based, agriculture-based or garden-based educational activities in the school district. Grants may be provided to:
 
       (A) School districts;
 
@@ -1753,9 +1765,13 @@ FOOD AND BEVERAGE STANDARDS AND PROGRAMS
 
       (E) Nonprofit organizations;
 
-      (F) Commodity commissions or councils organized under ORS 576.051 to 576.455 or ORS chapter 577 or 578; or
+      (F) Providers of center-based programs for children in the Child and Adult Care Food Program;
 
-      (G) Soil and water conservation districts organized under ORS 568.210 to 568.808 and 568.900 to 568.933.
+      (G) Commodity commissions or councils organized under ORS 576.051 to 576.455 or ORS chapter 577 or 578;
+
+      (H) Soil and water conservation districts organized under ORS 568.210 to 568.808 and 568.900 to 568.933; or
+
+      (I) Producers of food produced or processed in this state, including farmers, ranchers and seafood harvesters.
 
       (b) An entity identified in paragraph (a) of this subsection that receives a grant under this subsection shall use the moneys for costs directly associated with the educational activities, including staff time, travel costs and equipment purchased for the activities.
 
@@ -1779,13 +1795,21 @@ FOOD AND BEVERAGE STANDARDS AND PROGRAMS
 
       (B) Serve a high percentage of children who qualify for free or reduced price school meals under the United States Department of Agriculture’s National School Lunch Program.
 
-      (5) The Department of Education shall consult with the State Department of Agriculture to:
+      (6) The Department of Education shall consult with the State Department of Agriculture to:
 
       (a) Develop rules and standards related to the grants awarded under this section.
 
       (b) Determine the recipients and amounts of grants awarded under this section.
 
-      (6) The Department of Education may expend for the administrative costs incurred under this section no more than two percent of all moneys received by the department for the grant program. [2011 c.663 §2; 2013 c.652 §1; 2015 c.840 §13; 2017 c.609 §1]
+      (c) Evaluate the effectiveness of the Farm-to-School Grant Program, including program administration and the economic impact, educational outcomes and health outcomes of the program. For the purpose of conducting the evaluation, the Department of Education may collaborate or enter into a contract with a public or private entity.
+
+      (7) The Department of Education shall ensure that technical assistance, training and resources are provided to entities identified in subsections (3)(a) and (5)(a) of this section, and to any other entities that would contribute to the success of the program, by entering into an agreement with one or more statewide, regional or community partners to provide the technical assistance, training and resources.
+
+      (8)(a) The Department of Education may expend for the administrative costs incurred under this section no more than two percent of all moneys received by the department for the grant program.
+
+      (b) For the purpose of encouraging the success of the program administered under this section, the Department of Education shall enter into an agreement with the State Department of Agriculture to have the State Department of Agriculture distribute funding for infrastructure and equipment to persons who intend to sell food produced or processed in this state to entities identified in subsection (3)(a) of this section.
+
+      (c) The Department of Education may enter into agreements with partners identified in subsection (7) of this section and with the State Department of Agriculture for the payment of administrative costs incurred under this section. [2011 c.663 §2; 2013 c.652 §1; 2015 c.840 §13; 2017 c.609 §1; 2019 c.590 §1]
 
  
 
@@ -1865,13 +1889,13 @@ HEALTH EDUCATION
 
       (b) Be comprehensive.
 
-      (c) Include information about responsible sexual behaviors and hygienic practices that eliminate or reduce the risks of pregnancy and the risks of exposure to human immunodeficiency virus, hepatitis B, hepatitis C and other infectious or sexually transmitted diseases. Information about those risks shall be presented in a manner designed to allay fears concerning risks that are scientifically groundless.
+      (c) Include information about responsible sexual behaviors and hygienic practices that eliminate or reduce the risks of pregnancy and the risks of exposure to human immunodeficiency virus, hepatitis B, hepatitis C and other sexually transmitted infections. Information about those risks shall be presented in a manner designed to allay fears concerning risks that are scientifically groundless.
 
-      (d) Promote abstinence for school-age youth and mutually monogamous relationships with an uninfected partner for adults as the most effective way to prevent pregnancy and the transmission of sexually transmitted diseases. However, abstinence may not be taught to the exclusion of other material and instruction on contraceptive and disease reduction measures. Human sexuality education courses shall acknowledge the value of abstinence while not devaluing or ignoring those students who have had or are having sexual intercourse.
+      (d) Promote abstinence for school-age youth and mutually monogamous relationships with an uninfected partner for adults as the most effective way to prevent pregnancy and the transmission of sexually transmitted infections. However, abstinence may not be taught to the exclusion of other material and instruction on contraceptive and infection reduction measures. Human sexuality education courses shall acknowledge the value of abstinence while not devaluing or ignoring those students who have had or are having sexual intercourse.
 
       (e) Include a discussion about the characteristics of the emotional, physical and psychological aspects of a healthy relationship and a discussion about the benefits of delaying pregnancy beyond the adolescent years as a means to better ensure a healthy future for parents and their children. Students shall be provided with statistics based on the latest medical information regarding both the health benefits and the possible side effects of all forms of contraceptives, including the success and failure rates for prevention of pregnancy.
 
-      (f) Stress that sexually transmitted diseases are serious possible outcomes of sexual contact. Students shall be provided with statistics based on the latest medical information regarding the efficacy of all methods of sexual protection in preventing human immunodeficiency virus infection and other sexually transmitted diseases.
+      (f) Stress that sexually transmitted infections are serious possible outcomes of sexual contact. Students shall be provided with statistics based on the latest medical information regarding the efficacy of all methods of sexual protection in preventing sexually transmitted infections, including human immunodeficiency virus, hepatitis B and hepatitis C.
 
       (g) Provide students with information about Oregon laws that address young people’s rights and responsibilities related to childbearing and parenting.
 
@@ -1885,9 +1909,9 @@ HEALTH EDUCATION
 
       (L) Encourage family communication and involvement to help students learn to make responsible decisions.
 
-      (3) Any course in any public elementary and secondary school, the main purpose of which is to address human sexuality education or human immunodeficiency virus education, or both, shall emphasize that abstinence from sexual contact is the only method that is 100 percent effective against unintended pregnancy, sexually transmitted diseases and human immunodeficiency virus when transmitted sexually. Abstinence is to be stressed, but not to the exclusion of other material and instruction on contraceptive and disease reduction measures. Such courses are to acknowledge the value of abstinence while not devaluing or ignoring those students who have had or are having sexual intercourse.
+      (3) Any course in any public elementary and secondary school, the main purpose of which is to address human sexuality education or sexually transmitted infections, including human immunodeficiency virus, or both, must emphasize that abstinence from sexual contact is the only method that is 100 percent effective against unintended pregnancy, sexually transmitted infections and human immunodeficiency virus when transmitted sexually. Abstinence must be stressed, but not to the exclusion of other material and instruction on contraceptive and infection reduction measures. Courses described in this subsection must acknowledge the value of abstinence while not devaluing or ignoring those students who have had or are having sexual intercourse.
 
-      (4) Nothing in this section prohibits instruction in sanitation, hygiene or traditional courses in biology. [1993 c.775 §1; 2009 c.213 §1]
+      (4) Nothing in this section prohibits instruction in sanitation, hygiene or traditional courses in biology. [1993 c.775 §1; 2009 c.213 §1; 2019 c.280 §6]
 
  
 
@@ -1899,9 +1923,9 @@ HEALTH EDUCATION
 
       (a) Give parents, guardians and district residents an opportunity to examine the instructional materials to be used in any class, course, assembly or school-sponsored activity.
 
-      (b) Inform parents or guardians in advance of any instruction on human sexuality or human immunodeficiency virus and give them an opportunity to review materials. At the same time, parents or guardians shall be informed that no pupil shall be required to take or participate in any instruction on human sexuality or human immunodeficiency virus if the pupil’s parent or guardian, after having reviewed the materials, submits written objection to the school district.
+      (b) Inform parents or guardians in advance of any instruction on human sexuality or sexually transmitted infections, including human immunodeficiency virus, and give the parents or guardians an opportunity to review materials. At the same time, parents or guardians shall be informed that a pupil may not be required to take or participate in any instruction on human sexuality or human immunodeficiency virus if the pupil’s parent or guardian, after having reviewed the materials, submits written objection to the school district.
 
-      (2) Refusal to take or participate in any class, course, assembly or school-sponsored activity on human sexuality or human immunodeficiency virus shall not be reason for harassment, suspension or expulsion of the pupil. [1993 c.775 §2]
+      (2) Refusal to take or participate in any class, course, assembly or school-sponsored activity on human sexuality or sexually transmitted infections, including human immunodeficiency virus, shall not be reason for harassment, suspension or expulsion of the pupil. [1993 c.775 §2; 2019 c.280 §7]
 
  
 
@@ -1995,11 +2019,11 @@ EXTRACURRICULAR SPORTS
 
       (c) Licensed physician assistant;
 
-      (d) Certified nurse practitioner; or
+      (d) Licensed nurse practitioner; or
 
       (e) Licensed chiropractic physician who has clinical training and experience in detecting cardiopulmonary diseases and defects.
 
-      (6) The State Board of Education shall by rule prescribe the form and protocol to be used for physical examinations required by this section. [2001 c.486 §1; 2003 c.323 §1; 2011 c.313 §19]
+      (6) The State Board of Education shall by rule prescribe the form and protocol to be used for physical examinations required by this section. [2001 c.486 §1; 2003 c.323 §1; 2011 c.313 §19; 2019 c.358 §1]
 
  
 
@@ -2007,11 +2031,49 @@ EXTRACURRICULAR SPORTS
 
  
 
-      336.485 Concussions; training of coaches; participation by athletes; rules. (1) As used in this section:
+      336.485 Concussions; training of coaches; participation by athletes; medical release from qualified health care professional; rules. (1) As used in this section:
+
+      (a) “Coach” means a person who instructs or trains members of a school athletic team, as identified by criteria established by the State Board of Education by rule.
+
+      (b) “Qualified health care professional” means:
+
+      (A) A physician licensed pursuant to ORS 677.100 to 677.228; or
+
+      (B) A health care professional who meets the requirements described in ORS 336.490 to provide a medical release for a member of a school athletic team who is suspected of having a concussion.
+
+      (2)(a) Each school district shall ensure that coaches receive annual training to learn how to recognize the symptoms of a concussion and how to seek proper medical treatment for a person who is suspected of having a concussion.
+
+      (b) The board shall establish by rule:
+
+      (A) The requirements of the training described in paragraph (a) of this subsection, which shall be provided by using community resources to the extent practicable; and
+
+      (B) Timelines to ensure that, to the extent practicable, every coach receives the training described in paragraph (a) of this subsection before the beginning of the season for the school athletic team.
+
+      (3) Except as provided in subsection (4) of this section:
+
+      (a) A coach may not allow a member of a school athletic team to participate in any athletic event or training on the same day that the member:
+
+      (A) Exhibits signs, symptoms or behaviors consistent with a concussion following an observed or suspected blow to the head or body; or
+
+      (B) Has been diagnosed with a concussion.
+
+      (b) A coach may allow a member of a school athletic team who is prohibited from participating in an athletic event or training, as described in paragraph (a) of this subsection, to participate in an athletic event or training no sooner than the day after the member experienced a blow to the head or body and only after the member:
+
+      (A) No longer exhibits signs, symptoms or behaviors consistent with a concussion; and
+
+      (B) Receives a medical release from a qualified health care professional.
+
+      (4) A coach may allow a member of a school athletic team to participate in any athletic event or training at any time after an athletic trainer licensed by the Board of Athletic Trainers, or a physician licensed pursuant to ORS 677.100 to 677.228, determines that the member has not suffered a concussion. The athletic trainer or physician may, but is not required to, consult with a qualified health care professional in making the determination that the member of a school athletic team has not suffered a concussion. [2009 c.661 §1; 2015 c.392 §1; 2017 c.409 §8; 2018 c.121 §1; 2019 c.358 §§2,3; 2019 c.378 §§8,9]
+
+ 
+
+      Note: The amendments to 336.485 by section 3, chapter 358, Oregon Laws 2019, become operative July 1, 2020. See section 4, chapter 121, Oregon Laws 2018, as amended by section 50, chapter 358, Oregon Laws 2019. The text that is operative until July 1, 2020, including amendments by section 1, chapter 121, Oregon Laws 2018, section 2, chapter 358, Oregon Laws 2019, and sections 8 and 9, chapter 378, Oregon Laws 2019, is set forth for the user’s convenience.
+
+      336.485. (1) As used in this section:
 
       (a) “Coach” means a person who instructs or trains members on a school athletic team, as identified by criteria established by the State Board of Education by rule.
 
-      (b) “Health care professional” means a physician licensed under ORS 677.100 to 677.228, psychologist, physician assistant or nurse practitioner licensed or certified under the laws of this state.
+      (b) “Health care professional” means a physician licensed under ORS 677.100 to 677.228, psychologist, physician assistant or nurse practitioner licensed under the laws of this state.
 
       (2)(a) Each school district shall ensure that coaches receive annual training to learn how to recognize the symptoms of a concussion and how to seek proper medical treatment for a person suspected of having a concussion.
 
@@ -2035,7 +2097,69 @@ EXTRACURRICULAR SPORTS
 
       (B) Receives a medical release form from a health care professional.
 
-      (4) A coach may allow a member of a school athletic team to participate in any athletic event or training at any time after an athletic trainer registered by the Board of Athletic Trainers determines that the member has not suffered a concussion. The athletic trainer may, but is not required to, consult with a health care professional in making the determination that the member has not suffered a concussion. [2009 c.661 §1; 2015 c.392 §1; 2017 c.409 §8]
+      (4) A coach may allow a member of a school athletic team to participate in any athletic event or training at any time after an athletic trainer licensed by the Board of Athletic Trainers determines that the member has not suffered a concussion. The athletic trainer may, but is not required to, consult with a health care professional in making the determination that the member has not suffered a concussion.
+
+ 
+
+      Note: Section 4, chapter 121, Oregon Laws 2018, provides:
+
+      Sec. 4. (1) Section 3, chapter 121, Oregon Laws 2018 [336.490], and the amendments to ORS 336.485 and 417.875 by sections 3 and 10 of this 2019 Act, become operative on July 1, 2020.
+
+      (2) Oregon Health and Science University may take any action before the operative date specified in subsection (1) of this section that is necessary to enable the university, on and after the operative date specified in subsection (1) of this section, to exercise all of the duties, functions and powers conferred on the university by section 3, chapter 121, Oregon Laws 2018.
+
+      (3) Notwithstanding the operative date specified in subsection (1) of this section, a psychologist, a physician assistant or a nurse practitioner licensed under the laws of this state may provide a medical release for a person to participate in an athletic event or training as provided by ORS 336.485 or 417.875 without a certificate issued under section 3, chapter 121, Oregon Laws 2018, if the medical release is provided prior to July 1, 2021. [2018 c.121 §4; 2019 c.358 §50]
+
+ 
+
+      336.490 Qualified health care professional for purposes of ORS 336.485 and 417.875; certification. (1) As used in this section, “health care professional” includes a chiropractic physician, a naturopathic physician, a psychologist, a physical therapist, an occupational therapist, a physician assistant or a nurse practitioner who is licensed or registered under the laws of this state.
+
+      (2) A health care professional meets the requirements of a qualified health care professional for the purposes of ORS 336.485 and 417.875 if the health care professional has a certificate as described in subsection (3) of this section.
+
+      (3)(a) A health care professional is eligible to receive a certificate for the purposes of ORS 336.485 and 417.875 if the health care professional successfully completes an online program that:
+
+      (A) Is established and maintained by Oregon Health and Science University;
+
+      (B) Establishes for health care professionals a foundation of knowledge related to the assessment, diagnosis and management of sports-related concussions; and
+
+      (C) Informs health care professionals of:
+
+      (i) The requirements imposed by ORS 336.485 and 417.875 and any other related legal requirements; and
+
+      (ii) Limitations of the training provided through the online program.
+
+      (b) For the online program, the university:
+
+      (A) Shall establish the program in consultation with health care professionals and other stakeholders who are appropriately qualified for consultations;
+
+      (B) Shall ensure that the program is reviewed at least once every four years by health care professionals and other stakeholders who are appropriately qualified to make the review;
+
+      (C) Shall include minimum standards or clinical criteria that are evidence based and that incorporate best practices in relation to the assessment, diagnosis and management of sports-related concussions; and
+
+      (D) May charge participants in the program a reasonable fee.
+
+      (4) Certificates issued by Oregon Health and Science University under this section are valid for a term of four years. A health care professional may continue to meet the requirements of a qualified health care professional for the purposes of ORS 336.485 and 417.875 by renewing a certificate. The university shall prescribe the requirements for renewal, including requirements for additional training.
+
+      (5)(a) Except as provided by paragraph (b) of this subsection, no civil or criminal action, suit or proceeding may be commenced against Oregon Health and Science University, or any board member, officer or employee of the university, as a result of the death or injury of a member of a school athletic team or nonschool athletic team if:
+
+      (A) The death or injury is related to a head injury sustained during an athletic event or training; and
+
+      (B) The member received a medical release from a health care professional who held a certificate issued under this section.
+
+      (b) The civil and criminal immunities imposed by this subsection do not apply to an act or omission that:
+
+      (A) Amounts to gross negligence or willful or wanton misconduct; or
+
+      (B) Was performed by a board member, officer or employee of the university if the board member, officer or employee was providing health care services as a health care professional when the board member, officer or employee committed the act or omission. [2018 c.121 §3; 2019 c.358 §49]
+
+ 
+
+      Note: 336.490 becomes operative July 1, 2020. See section 4, chapter 121, Oregon Laws 2018, as amended by section 50, chapter 358, Oregon Laws 2019.
+
+ 
+
+      Note: Section 6, chapter 121, Oregon Laws 2018, provides:
+
+      Sec. 6. Not later than December 1, 2021, Oregon Health and Science University shall submit to an interim committee of the Legislative Assembly related to health care a report that provides the number of health care professionals from each profession identified in section 3 (1) of this 2018 Act [336.490 (1)] who successfully completed the online program described in section 3 (3) of this 2018 Act. [2018 c.121 §6]
 
  
 
@@ -2147,7 +2271,13 @@ RESIDENTIAL PROGRAMS; YOUTH CARE CENTERS; DETENTION AND CORRECTIONS EDUCATION PR
 
       (b) “Resident district” means the school district in which the parents or legal guardian, if any, of a child resided at the time of the child’s enrollment in the Juvenile Detention Education Program. If the child has no parents or legal guardian, or none can be located, the resident district is the school district in which the child is physically located.
 
-      (2) The Department of Education shall provide or cause to be provided appropriate education for children enrolled in an educational program under the Juvenile Detention Education Program. The Superintendent of Public Instruction may contract with a school district or education service district to provide or cause to be provided appropriate education to children enrolled in an educational program under the Juvenile Detention Education Program.
+      (2)(a) The Department of Education shall provide or cause to be provided appropriate education for children enrolled in an educational program under the Juvenile Detention Education Program. The Superintendent of Public Instruction may contract with a school district or education service district to provide or cause to be provided appropriate education to children enrolled in an educational program under the Juvenile Detention Education Program.
+
+      (b) An education service district that provides education as provided by this subsection and that awards high school diplomas:
+
+      (A) May not impose requirements for a high school diploma that are in addition to the requirements prescribed by ORS 329.451 (2)(a) or by rule of the State Board of Education; and
+
+      (B) Must accept any credits previously earned by children in another school or educational program in this state and apply those credits toward the requirements prescribed by ORS 329.451 (2)(a) or by rule of the State Board of Education.
 
       (3) The superintendent shall pay the costs of providing education to children enrolled in an educational program under the Juvenile Detention Education Program from the State School Fund grant allocated for that purpose under ORS 327.026.
 
@@ -2167,7 +2297,7 @@ RESIDENTIAL PROGRAMS; YOUTH CARE CENTERS; DETENTION AND CORRECTIONS EDUCATION PR
 
       (b) Facilitating transfers of the child’s educational records; and
 
-      (c) Facilitating planning for the child’s possible return to the resident district. [Formerly 339.205; 2001 c.681 §8; 2011 c.315 §1; 2013 c.1 §31; 2013 c.747 §41]
+      (c) Facilitating planning for the child’s possible return to the resident district. [Formerly 339.205; 2001 c.681 §8; 2011 c.315 §1; 2013 c.1 §31; 2013 c.747 §41; 2018 c.18 §1]
 
  
 
@@ -2179,7 +2309,11 @@ RESIDENTIAL PROGRAMS; YOUTH CARE CENTERS; DETENTION AND CORRECTIONS EDUCATION PR
 
       (4) The State Board of Education shall adopt by rule standards to be applied to the operation of the Youth Corrections Education Program, including standards that allow a school district or an education service district under contract with the superintendent to:
 
-      (a) Award high school diplomas, modified diplomas, extended diplomas and alternative certificates as provided by ORS 329.451 and 339.877.
+      (a) Award high school diplomas, modified diplomas, extended diplomas and alternative certificates as provided by ORS 329.451 and 339.877. An education service district that awards high school diplomas as provided by this paragraph:
+
+      (A) May not impose requirements for a high school diploma that are in addition to the requirements prescribed by ORS 329.451 (2)(a) or by rule of the State Board of Education; and
+
+      (B) Must accept any credits previously earned by children in another school or educational program in this state and apply those credits toward the requirements prescribed by ORS 329.451 (2)(a) or by rule of the State Board of Education.
 
       (b) Implement an assessment system as provided by ORS 329.485 (3).
 
@@ -2187,7 +2321,7 @@ RESIDENTIAL PROGRAMS; YOUTH CARE CENTERS; DETENTION AND CORRECTIONS EDUCATION PR
 
       (d) Participate in the beginning teacher and administrator mentorship program established by ORS 329.788 to 329.820.
 
-      (e) Receive funds under ORS chapter 329. [2011 c.315 §2; 2013 c.1 §32; 2013 c.747 §42]
+      (e) Receive funds under ORS chapter 329. [2011 c.315 §2; 2013 c.1 §32; 2013 c.747 §42; 2018 c.18 §2]
 
  
 
@@ -2579,33 +2713,43 @@ TECHNOLOGY IN SCHOOLS
 
  
 
-(Oregon Virtual School District)
+(Oregon Digital Learning)
 
  
 
-      336.851 Creation; purpose; course standards; rules. (1) There is created the Oregon Virtual School District within the Department of Education. The purpose of the Oregon Virtual School District is to provide online courses to kindergarten through grade 12 public school students.
+      336.851 Creation; purposes; rules. (1) Oregon Digital Learning is created within the Department of Education. The purposes of Oregon Digital Learning are to provide:
 
-      (2) The Oregon Virtual School District shall provide online courses that meet academic content standards as defined in ORS 329.007 and meet other criteria adopted by the State Board of Education. Any person who teaches an online course must be properly licensed as required by ORS 342.173 for a person employed by a school district or education service district or properly registered as required by ORS 338.135 for a person employed by a public charter school. All school districts and public charter schools may allow students to access the online courses offered by the Oregon Virtual School District.
+      (a) Online courses to kindergarten through grade 12 public school students; and
 
-      (3) The Superintendent of Public Instruction may contract with education service districts, school districts, public charter schools, community colleges, public universities listed in ORS 352.002 or any other public entity to provide online courses through the Oregon Virtual School District.
+      (b) Professional development related to online learning to kindergarten through grade 12 public school teachers.
 
-      (4) Statutes and rules that apply to other school districts do not apply to the Oregon Virtual School District except as provided under this section or by rule of the State Board of Education. The Oregon Virtual School District is not considered a school district for purposes of apportionment of the State School Fund and the department may not receive a direct apportionment under ORS 327.008 from the State School Fund for the Oregon Virtual School District.
+      (2)(a) Oregon Digital Learning shall provide online courses to students that meet academic content standards as defined in ORS 329.007 and that meet other criteria adopted by the State Board of Education. Any person who teaches an online course to students must be properly licensed as required by ORS 342.173 for a person employed by a school district or education service district or properly registered as required by ORS 338.135 for a person employed by a public charter school. All school districts and public charter schools may allow students to access the online courses offered to students by Oregon Digital Learning.
 
-      (5) The board may adopt the rules necessary for the administration of the Oregon Virtual School District and shall adopt rules to establish:
+      (b) Oregon Digital Learning shall provide professional development to support school districts that provide online learning, including professional development that will help school districts to identify and support students who would benefit from online learning opportunities.
 
-      (a) The procedure and criteria to be used for the selection of online courses to be offered through the Oregon Virtual School District;
+      (3) The Superintendent of Public Instruction may contract with:
 
-      (b) The qualifications of students who may access online courses through the Oregon Virtual School District;
+      (a) Education service districts, school districts, public charter schools, community colleges, public universities listed in ORS 352.002 or any other public entity to provide online courses to students through Oregon Digital Learning.
 
-      (c) The number of credits for which students may access online courses through the Oregon Virtual School District; and
+      (b) Any public or private entity to provide professional development through Oregon Digital Learning.
 
-      (d) The student-to-teacher ratio for online courses offered through the Oregon Virtual School District. [Formerly 329.840]
+      (4) Statutes and rules that apply to other school districts do not apply to Oregon Digital Learning except as provided under this section or by rule of the State Board of Education. Oregon Digital Learning is not considered a school district for purposes of apportionment of the State School Fund and the department may not receive a direct apportionment under ORS 327.008 from the State School Fund for Oregon Digital Learning.
+
+      (5) The board may adopt the rules necessary for the administration of Oregon Digital Learning and shall adopt rules to establish:
+
+      (a) The procedure and criteria to be used for the selection of online courses to be offered to students through Oregon Digital Learning;
+
+      (b) The qualifications of students who may access online courses through Oregon Digital Learning;
+
+      (c) The number of credits for which students may access online courses through Oregon Digital Learning; and
+
+      (d) The student-to-teacher ratio for online courses offered through Oregon Digital Learning. [Formerly 329.840; 2019 c.383 §1]
 
  
 
-      336.856 Oregon Virtual School District Fund. (1) The Oregon Virtual School District Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Oregon Virtual School District Fund shall be credited to the fund. All moneys in the fund are continuously appropriated to the Department of Education for the administration of the Oregon Virtual School District created under ORS 336.851.
+      336.856 Oregon Digital Learning Fund. (1) The Oregon Digital Learning Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Oregon Digital Learning Fund shall be credited to the fund. All moneys in the fund are continuously appropriated to the Department of Education for the administration of Oregon Digital Learning created under ORS 336.851.
 
-      (2) Any moneys received by the department for the purpose of the Oregon Virtual School District shall be deposited in the fund. [Formerly 329.842]
+      (2) Any moneys received by the department for the purpose of Oregon Digital Learning shall be deposited in the fund. [Formerly 329.842; 2019 c.383 §2]
 
  
 

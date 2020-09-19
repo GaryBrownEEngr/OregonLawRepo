@@ -529,7 +529,7 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
  
 
-759.695     Program for assistive telecommunication devices; program for adaptive equipment
+759.695     Program for assistive telecommunication devices and communication facilitator services; program for adaptive equipment
 
  
 
@@ -541,7 +541,7 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
  
 
-759.698     Eligibility to receive telecommunication devices or adaptive equipment
+759.698     Eligibility
 
  
 
@@ -1933,6 +1933,48 @@ ALLOCATION OF TERRITORIES
 
  
 
+      Note: Sections 1 and 2, chapter 143, Oregon Laws 2019, provide:
+
+      Sec. 1. (1) The Public Utility Commission shall establish a public process for the purpose of investigating the continuing relevance of the carrier of last resort obligations provided for under ORS 759.500 to 759.570. The investigation shall focus on whether developing industry trends, technologies and policy drivers in the telecommunications sector impact the existing regulatory system administered by the commission for ensuring adequate and reasonable access for residential customers to telecommunications service in all areas of this state.
+
+      (2) As part of the public process established under subsection (1) of this section, the commission shall investigate changes to the existing regulatory system and incentives that could accommodate developing industry trends and support new policy objectives without compromising residential customers’ access to reliable and safe service at just and reasonable prices in an adequate and nondiscriminatory manner. The investigation required by this subsection shall specifically focus on:
+
+      (a) Customers whose individual circumstances and needs may impact their access to and usage of telecommunications services, including low-income customers;
+
+      (b) Residential customers with access at their domicile to fewer than two of the following terrestrial-based service alternatives:
+
+      (A) Telecommunications services provided by a facilities-based competitive local exchange carrier;
+
+      (B) Voice service offered via interconnected Voice over Internet Protocol; or
+
+      (C) Voice service offered by a cellular communications service; and
+
+      (c) The comparability of voice service offered by wireless Internet service providers and satellite providers.
+
+      (3) If the commission determines that changes to the existing regulatory system and incentives would be in the interest of residential customers and the public generally, the commission shall develop plans to administratively implement changes to the regulatory system and incentives within its existing statutory authority or shall make recommendations to the Legislative Assembly for the purpose of legislatively implementing changes to the regulatory system and incentives.
+
+      (4) As part of the public process established under subsection (1) of this section, the commission shall:
+
+      (a) Solicit input from:
+
+      (A) All telephony providers, including telecommunications utilities, cooperative corporations and municipalities certified by the commission to provide local exchange telecommunications service;
+
+      (B) The Citizens’ Utility Board;
+
+      (C) Residents of, or groups who represent, residents of rural areas of this state;
+
+      (D) Advocates for low-income persons; and
+
+      (E) Senior citizens; and
+
+      (b) Provide the public with an opportunity to comment.
+
+      (5) The commission shall submit a report on the findings of the public process established under subsection (1) of this section and the progress of investigations conducted under subsection (2) of this section in the manner provided by ORS 192.245 to the interim committees of the Legislative Assembly related to economic development and business and general government no later than September 15, 2020. The commission may include, as part of the commission’s report, recommendations for legislation. [2019 c.143 §1]
+
+      Sec. 2. Section 1 of this 2019 Act is repealed on January 2, 2021. [2019 c.143 §2]
+
+ 
+
       759.510 [1987 c.447 §55; repealed by 2005 c.232 §32]
 
  
@@ -1956,16 +1998,6 @@ ALLOCATION OF TERRITORIES
       759.535 Application to serve unserved territory; hearing; notice. (1) A telecommunications utility, cooperative corporation or municipality that desires to provide local exchange telecommunications service in a territory that is not served by another person providing a similar local exchange telecommunications service may apply to the Public Utility Commission for an order allocating the territory to the applicant. The application shall include an exchange map that shows the unserved territory that the applicant is requesting to serve.
 
       (2) The commission shall within 30 days after the filing of the application give notice of the filing. If the commission chooses, or if a customer requests a hearing on the matter within 30 days of the notice, the commission shall hold a hearing by telephone or in person. The commission shall give notice of the hearing within 30 days of the request. The notice shall set the date and place of hearing. The hearing shall be held at a place within or conveniently accessible to the territory covered by the application. Notice of the filing shall be by publication in a newspaper or newspapers of general circulation in the territory covered by the application and shall be published at least once weekly for two successive weeks. Written notice of the filing shall be given to providers of similar local exchange telecommunications service in adjacent territory. [1987 c.447 §60; 2005 c.232 §28]
-
- 
-
-      Note: Section 27, chapter 232, Oregon Laws 2005, provides:
-
-      Sec. 27. As of January 1, 2006, the Public Utility Commission shall:
-
-      (1) Reallocate every allocated local exchange telecommunications service territory to a telecommunications utility, cooperative corporation or municipality to whom the commission had previously allocated local exchange telecommunications service territory. Allocations granted by the commission pursuant to this subsection shall replace all allocations to telecommunications utilities, cooperative corporations or municipalities granted by the commission prior to January 1, 2006. An allocation made pursuant to this subsection is not subject to ORS 759.535 or 759.560. The commission has authority under ORS 756.500 to 756.610 to resolve a dispute arising from a reallocation made under this subsection.
-
-      (2) Upon request, allocate every local exchange telecommunications service territory that is shown on a map approved by the commission and that is unallocated as of December 31, 2005, to the telecommunications utility, cooperative corporation or municipality that filed the map. An allocation made pursuant to this subsection is not subject to ORS 759.535 or 759.560. The commission has authority under ORS 756.500 to 756.610 to resolve a dispute arising from an allocation made under this subsection. [2005 c.232 §27]
 
  
 
@@ -2233,15 +2265,15 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
       (6) Nothing in this section prevents the termination of local exchange residential service if the telecommunications public utility providing the service does not have the technical ability to terminate toll telecommunication service without also terminating local exchange telecommunication service. [1987 c.290 §5; 2017 c.356 §104]
 
-      Sec. 6. (1) In carrying out the provisions of section 2, chapter 290, Oregon Laws 1987, the Public Utility Commission shall establish a plan to provide assistance to low income customers through differential rates or otherwise. The plan of assistance is in addition to the available funding offered by the Federal Communications Commission. The plan established by the Public Utility Commission shall prescribe the amount of assistance to be provided and the time and manner of payment.
+      Sec. 6. (1) In carrying out the provisions of section 2, chapter 290, Oregon Laws 1987, and to support broadband internet access service, the Public Utility Commission shall establish a plan to provide assistance to low income customers through differential rates or otherwise. The plan of assistance is in addition to the available funding offered by the Federal Communications Commission. The plan established by the Public Utility Commission shall prescribe the amount of assistance to be provided and the time and manner of payment.
 
       (2) For the purpose of establishing a plan to provide assistance to low income customers under this section, the commission shall require all public utilities, cooperative corporations and unincorporated associations providing local exchange telecommunication service to participate in the plan, except as provided in subsection (3) of this section.
 
-      (3) In lieu of participation in the commission’s plan to assist low income customers, a public utility, cooperative corporation or unincorporated association providing local exchange telecommunication service may apply to the commission to establish an alternative plan for the purpose of carrying out the provisions of section 2, chapter 290, Oregon Laws 1987, for its own customers. The commission shall adopt standards for determining the adequacy of alternative plans.
+      (3) In lieu of participation in the commission’s plan to assist low income customers, a public utility, cooperative corporation or unincorporated association providing local exchange telecommunication service may apply to the commission to establish an alternative plan for the purposes of carrying out the provisions of section 2, chapter 290, Oregon Laws 1987, and supporting broadband internet access service for its own customers. The commission shall adopt standards for determining the adequacy of alternative plans.
 
       (4) The commission may contract with any governmental agency to assist the commission in the administration of any assistance plan adopted pursuant to this section.
 
-      (5) As used in sections 2 to 6, chapter 290, Oregon Laws 1987, “low income customer” has the meaning given that term by the commission by rule. [1987 c.290 §6; 1991 c.622 §1; 2007 c.29 §1; 2009 c.599 §25; 2011 c.77 §1; 2013 c.29 §1]
+      (5) As used in sections 2 to 6, chapter 290, Oregon Laws 1987, “low income customer” has the meaning given that term by the commission by rule. [1987 c.290 §6; 1991 c.622 §1; 2007 c.29 §1; 2009 c.599 §25; 2011 c.77 §1; 2013 c.29 §1; 2019 c.91 §1]
 
       Sec. 16. (1)(a) Sections 1, 2, 3, 4, 5 and 15, chapter 290, Oregon Laws 1987, are repealed on January 1, 2023.
 
@@ -2409,29 +2441,37 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
       (4) “Audiologist” means a person who has a master’s or doctoral degree in audiology and a Certificate of Clinical Competence in audiology from the American Speech-Language-Hearing Association.
 
-      (5) “Deaf” means a profound hearing loss, as determined by an audiologist, licensed physician, physician assistant, nurse practitioner, hearing aid specialist or vocational rehabilitation counselor of the Department of Human Services, that requires use of an assistive telecommunication device to communicate effectively on the telephone.
+      (5) “Communication facilitator” means a person who provides professional, in-person assistive services that are necessary to help a person communicate effectively via a telecommunication device, with or without the use of an assistive telecommunication device or a telecommunications relay service, if the person receiving the services is:
 
-      (6) “Deaf-blind” means a hearing loss and a visual impairment that require use of an assistive telecommunication device to communicate effectively on the telephone. For purposes of this subsection:
+      (a) Deaf-blind;
+
+      (b) Deaf; or
+
+      (c) Hard of hearing and has a physical disability that limits the person’s expressive communication.
+
+      (6) “Deaf” means a profound hearing loss, as determined by an audiologist, licensed physician, physician assistant, nurse practitioner, hearing aid specialist or vocational rehabilitation counselor of the Department of Human Services, that requires use of an assistive telecommunication device to communicate effectively on the telephone.
+
+      (7) “Deaf-blind” means a hearing loss and a visual impairment that require use of an assistive telecommunication device to communicate effectively on the telephone. For purposes of this subsection:
 
       (a) A hearing loss must be determined by an audiologist, licensed physician, physician assistant, nurse practitioner, hearing aid specialist or vocational rehabilitation counselor of the Department of Human Services.
 
       (b) A visual impairment must be determined by a licensed physician, physician assistant, nurse practitioner, vocational rehabilitation counselor of the Department of Human Services or rehabilitation instructor for persons who are blind.
 
-      (7) “Disability” means a physical condition, as determined by a licensed physician, physician assistant, nurse practitioner or vocational rehabilitation counselor of the Department of Human Services, other than hearing or speech impairment that requires use of adaptive equipment to utilize the telephone.
+      (8) “Disability” means a physical condition, as determined by a licensed physician, physician assistant, nurse practitioner or vocational rehabilitation counselor of the Department of Human Services, other than hearing or speech impairment that requires use of adaptive equipment to utilize the telephone.
 
-      (8) “Hard of hearing” means a hearing loss, as determined by an audiologist, licensed physician, physician assistant, nurse practitioner, hearing aid specialist or vocational rehabilitation counselor of the Department of Human Services, that requires use of an assistive telecommunication device to communicate effectively on the telephone.
+      (9) “Hard of hearing” means a hearing loss, as determined by an audiologist, licensed physician, physician assistant, nurse practitioner, hearing aid specialist or vocational rehabilitation counselor of the Department of Human Services, that requires use of an assistive telecommunication device to communicate effectively on the telephone.
 
-      (9) “Hearing aid specialist” means a person licensed to deal in hearing aids under ORS chapter 694.
+      (10) “Hearing aid specialist” means a person licensed to deal in hearing aids under ORS chapter 694.
 
-      (10) “Nurse practitioner” has the meaning given that term in ORS 678.010.
+      (11) “Nurse practitioner” has the meaning given that term in ORS 678.010.
 
-      (11) “Physician” means an applicant’s primary care physician or a medical specialist who is able to determine an applicant’s disability and to whom the applicant was referred by the primary care physician.
+      (12) “Physician” means an applicant’s primary care physician or a medical specialist who is able to determine an applicant’s disability and to whom the applicant was referred by the primary care physician.
 
-      (12) “Physician assistant” has the meaning given that term in ORS 677.495.
+      (13) “Physician assistant” has the meaning given that term in ORS 677.495.
 
-      (13) “Recipient” means a person who receives adaptive equipment, an assistive telecommunication device or a signal device.
+      (14) “Recipient” means a person who receives adaptive equipment, an assistive telecommunication device or a signal device.
 
-      (14) “Rehabilitation instructor for persons who are blind” means an employee of the Commission for the Blind who:
+      (15) “Rehabilitation instructor for persons who are blind” means an employee of the Commission for the Blind who:
 
       (a) Meets the minimum qualifications set by the commission to assess adult clients referred for services;
 
@@ -2439,31 +2479,35 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
       (c) Instructs and counsels clients of the commission on adapting to sight loss.
 
-      (15) “Signal device” means a mechanical device that alerts a person who is deaf, deaf-blind or hard of hearing of an incoming telephone call.
+      (16) “Signal device” means a mechanical device that alerts a person who is deaf, deaf-blind or hard of hearing of an incoming telephone call.
 
-      (16) “Speech impaired” means a speech disability, as determined by a licensed physician, physician assistant, nurse practitioner, speech-language pathologist or vocational rehabilitation counselor of the Department of Human Services, that requires use of an assistive telecommunication device to communicate effectively on the telephone.
+      (17) “Speech impaired” means a speech disability, as determined by a licensed physician, physician assistant, nurse practitioner, speech-language pathologist or vocational rehabilitation counselor of the Department of Human Services, that requires use of an assistive telecommunication device to communicate effectively on the telephone.
 
-      (17) “Speech-language pathologist” means a person who has a master’s degree or equivalency in speech-language pathology and a Certificate of Clinical Competence issued by the American Speech-Language-Hearing Association.
+      (18) “Speech-language pathologist” means a person who has a master’s degree or equivalency in speech-language pathology and a Certificate of Clinical Competence issued by the American Speech-Language-Hearing Association.
 
-      (18) “Telecommunications relay center” means a facility authorized by the Public Utility Commission to provide telecommunications relay service.
+      (19) “Telecommunications relay center” means a facility authorized by the Public Utility Commission to provide telecommunications relay service.
 
-      (19) “Telecommunications relay service” means a telephone transmission service that provides the ability for an individual who has a hearing or speech disability to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing or speech disability to communicate using voice communication services by wire or radio. “Telecommunications relay service” includes, but is not limited to:
+      (20) “Telecommunications relay service” means a telephone transmission service that provides the ability for an individual who is deaf, deaf-blind, hard of hearing or speech impaired to engage in communication by wire or radio with a hearing individual in a manner that is functionally equivalent to the ability of an individual who does not have a hearing or speech disability to communicate using voice communication services by wire or radio. ”Telecommunications relay service” includes, but is not limited to:
 
       (a) Services that enable two-way communication between an individual using a text telephone or other nonvoice terminal device and an individual not using such a device;
 
       (b) Speech-to-speech services; and
 
-      (c) Non-English relay services. [1987 c.290 §9; 1991 c.872 §2; 1995 c.280 §32; 1995 c.451 §2; 1999 c.384 §1; 2007 c.28 §1; 2007 c.70 §353; 2011 c.78 §2; 2011 c.264 §1; 2014 c.45 §83]
+      (c) Non-English relay services. [1987 c.290 §9; 1991 c.872 §2; 1995 c.280 §32; 1995 c.451 §2; 1999 c.384 §1; 2007 c.28 §1; 2007 c.70 §353; 2011 c.78 §2; 2011 c.264 §1; 2014 c.45 §83; 2019 c.113 §1]
 
  
 
-      759.694 Legislative recognition of need. It is recognized that a large number of people in this state, through no fault of their own, are unable to utilize telecommunication equipment due to the inability to hear or speak well enough or due to other disabilities. It is also recognized that present technology is available, but at significant cost, that would allow these people to utilize telecommunication equipment in their daily activities. There is, therefore, a need to make available such technology in the form of assistive telecommunication devices and a telecommunications relay service for people who are deaf, hard of hearing or speech impaired or adaptive equipment for people with disabilities at no additional cost beyond normal telephone service. The provision of assistive telecommunication devices and a telecommunications relay service or adaptive equipment would allow those formerly unable to use telecommunication systems to more fully participate in the activities and programs offered by government and other community agencies, as well as in their family and social activities. The assistive telecommunication devices or adaptive equipment would be provided on a loan basis to each recipient, to be returned if the recipient moves out of the state. [1987 c.290 §10; 1991 c.872 §3; 1999 c.384 §2; 2007 c.70 §354; 2011 c.264 §2]
+      759.694 Legislative recognition of need. It is recognized that a large number of people in this state, through no fault of their own, are unable to utilize telecommunication equipment due to the inability to hear or speak well enough or due to other disabilities. It is also recognized that present technology and services are available, but at significant cost, that would allow these people to utilize telecommunication equipment in their daily activities. There is, therefore, a need to make available the technology and services in the form of assistive telecommunication devices, a telecommunications relay service and communication facilitators for people who are deaf, deaf-blind, hard of hearing or speech impaired or adaptive equipment for people with disabilities at no additional cost beyond normal telephone service. The provision of assistive telecommunication devices, a telecommunications relay service, communication facilitators or adaptive equipment would allow those formerly unable to use telecommunication systems to more fully participate in the activities and programs offered by government and other community agencies, as well as in their family and social activities. The assistive telecommunication devices or adaptive equipment would be provided on a loan basis to each recipient, to be returned if the recipient moves out of the state. [1987 c.290 §10; 1991 c.872 §3; 1999 c.384 §2; 2007 c.70 §354; 2011 c.264 §2; 2019 c.113 §2]
 
  
 
-      759.695 Program for assistive telecommunication devices; program for adaptive equipment. (1) With the advice of the Telecommunication Devices Access Program Advisory Committee, the Public Utility Commission shall establish and administer a statewide program to purchase and distribute assistive telecommunication devices to persons who are deaf, hard of hearing, speech impaired or deaf-blind and establish a telecommunications relay service.
+      759.695 Program for assistive telecommunication devices and communication facilitator services; program for adaptive equipment. (1) With the advice of the Telecommunication Devices Access Program Advisory Committee, the Public Utility Commission shall establish and administer a statewide program to:
 
-      (2) With the advice of the Telecommunication Devices Access Program Advisory Committee, the Public Utility Commission shall establish and administer a statewide program to purchase and distribute adaptive equipment to make telephone service generally available to persons with physical disabilities. [1987 c.290 §11; 1991 c.872 §4; 1999 c.384 §3; 2007 c.70 §355; 2011 c.78 §3; 2011 c.264 §3]
+      (a) Purchase and distribute assistive telecommunication devices to persons who are deaf, deaf-blind, hard of hearing or speech impaired and establish a telecommunications relay service; and
+
+      (b) Provide communication facilitator services to persons who are deaf-blind when the services are necessary.
+
+      (2) With the advice of the Telecommunication Devices Access Program Advisory Committee, the Public Utility Commission shall establish and administer a statewide program to purchase and distribute adaptive equipment to make telephone service generally available to persons with physical disabilities. [1987 c.290 §11; 1991 c.872 §4; 1999 c.384 §3; 2007 c.70 §355; 2011 c.78 §3; 2011 c.264 §3; 2019 c.113 §3]
 
  
 
@@ -2489,15 +2533,17 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
       (a) The distribution and maintenance of assistive telecommunication devices and adaptive equipment;
 
-      (b) The provision of telecommunications relay services and monitoring of those service providers; and
+      (b) The provision of telecommunications relay services and monitoring of those service providers;
 
-      (c) Community outreach to locate potential beneficiaries of the Telecommunication Devices Access Program.
+      (c) The provision of communication facilitator services; and
 
-      (2) The commission may contract with any governmental agency, or other entity the commission considers to be qualified, to assist the commission in the administration of ORS 759.693 to 759.698. [1987 c.290 §13; 1991 c.872 §6; 1999 c.384 §4]
+      (d) Community outreach to locate potential beneficiaries of the Telecommunication Devices Access Program.
+
+      (2) The commission may contract with any governmental agency, or other entity the commission considers to be qualified, to assist the commission in the provision of communication facilitator services or the administration of ORS 759.693 to 759.698. [1987 c.290 §13; 1991 c.872 §6; 1999 c.384 §4; 2019 c.113 §4]
 
  
 
-      759.698 Eligibility to receive telecommunication devices or adaptive equipment. (1)(a) In order to be eligible to receive assistive telecommunication devices or adaptive equipment, individuals must be certified as deaf, hard of hearing, speech impaired or deaf-blind by a licensed physician, physician assistant, nurse practitioner, audiologist, hearing aid specialist, speech-language pathologist, rehabilitation instructor for persons who are blind or vocational rehabilitation counselor of the Department of Human Services. Certification implies that the individual cannot use the telephone for expressive or receptive communication.
+      759.698 Eligibility. (1)(a) In order to be eligible to receive assistive telecommunication devices, adaptive equipment or communication facilitator services, individuals must be certified as deaf, deaf-blind, hard of hearing or speech impaired by a licensed physician, physician assistant, nurse practitioner, audiologist, hearing aid specialist, speech-language pathologist, rehabilitation instructor for persons who are blind or vocational rehabilitation counselor of the Department of Human Services. Certification implies that the individual cannot use the telephone for expressive or receptive communication.
 
       (b) No more than one assistive telecommunication device or adaptive equipment device may be provided to a household. However, two assistive telecommunication devices or adaptive equipment devices may be provided to a household if more than one eligible person permanently resides in the household. Households without any assistive telecommunication devices or adaptive equipment shall be given priority over households with one assistive telecommunication device or adaptive equipment device when such devices are distributed.
 
@@ -2505,7 +2551,7 @@ RESIDENTIAL SERVICE PROTECTION FUND
 
       (2)(a) In order to be eligible to receive adaptive equipment, individuals must be certified to have the required disability by a person or agency designated by the Public Utility Commission to make such certifications. Certification implies that the individual is unable to use the telephone.
 
-      (b) ORS 759.693 to 759.698 do not require a telecommunications utility to provide adaptive equipment to any person in violation of ORS 646.730. [1987 c.290 §14; 1989 c.115 §1; 1991 c.872 §7; 1995 c.280 §33; 1999 c.384 §5; 2007 c.28 §2; 2007 c.70 §357; 2011 c.264 §4; 2014 c.45 §84]
+      (b) ORS 759.693 to 759.698 do not require a telecommunications utility to provide adaptive equipment to any person in violation of ORS 646.730. [1987 c.290 §14; 1989 c.115 §1; 1991 c.872 §7; 1995 c.280 §33; 1999 c.384 §5; 2007 c.28 §2; 2007 c.70 §357; 2011 c.264 §4; 2014 c.45 §84; 2019 c.113 §5]
 
  
 

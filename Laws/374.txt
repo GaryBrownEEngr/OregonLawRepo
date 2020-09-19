@@ -95,11 +95,7 @@ THROUGHWAYS
 
 374.095     Utility roads where access to abutting property affected
 
- 
-
 APPROACH ROADS, PRIVATE CROSSINGS AND OTHER FACILITIES UPON RIGHT OF WAY
-
- 
 
 374.300     Legislative intent
 
@@ -210,8 +206,6 @@ APPROACH ROADS, PRIVATE CROSSINGS AND OTHER FACILITIES UPON RIGHT OF WAY
  
 
 RIGHTS APPURTENANT TO PROPERTY ABUTTING CERTAIN HIGHWAYS AND ROADS
-
- 
 
 374.405     Access rights of property abutting on state highways
 
@@ -567,35 +561,35 @@ TABLE 1
 
  
 
-                                    Regional
+      Regional
 
-                                    Highways                                                        Statewide
+      Highways              Statewide
 
-                                    District                                                            Highways
+      District                  Highways
 
-                                    Highways        Statewide        Statewide        Unincorporated
+      Highways  Statewide        Statewide        Unincorporated
 
-                                    Rural and        Highways        Highways        Communities
+      Rural and  Highways        Highways        Communities
 
-      Speed                    Urban              Rural Areas     Urban Areas    Rural Areas
+      Speed        Urban  Rural Areas     Urban Areas    Rural Areas
 
-      (miles per              (distance         (distance         (distance         (distance
+      (miles per  (distance          (distance          (distance          (distance
 
-      hour)                     in feet)             in feet)             in feet)             in feet)
-
- 
+      hour)          in feet) in feet) in feet) in feet)
 
  
 
-      55 or higher          650                  1,320               1,320               1,320
+ 
 
-      50                          425                  1,100               1,100               1,100
+      55 or higher           650      1,320   1,320   1,320
 
-      40 & 45                 360                  990                  360                  750
+      50  425      1,100   1,100   1,100
 
-      30 & 35                 250                  770                  250                  425
+      40 & 45     360      990      360      750
 
-      25 or lower           150                  550                  150                  350
+      30 & 35     250      770      250      425
+
+      25 or lower            150      550      150      350
 
  
 
@@ -629,27 +623,27 @@ TABLE 2
 
  
 
-                                    Expressway     Expressway
+      Expressway           Expressway
 
-      Speed                    Rural Areas     Urban Areas    Rural Areas     Urban Areas
+      Speed        Rural Areas     Urban Areas    Rural Areas     Urban Areas
 
-      (miles                    (distance         (distance         (distance         (distance
+      (miles         (distance          (distance          (distance          (distance
 
-      per hour)               in feet)            in feet)             in feet)             in feet)
-
- 
+      per hour)    in feet) in feet) in feet) in feet)
 
  
 
-      55 or higher          5,280               2,640               1,320               1,320
+ 
 
-      50                          5,280               2,640               1,100               1,100
+      55 or higher           5,280   2,640   1,320   1,320
 
-      40 & 45                 5,280               2,640               990                  800
+      50  5,280   2,640   1,100   1,100
 
-      30 & 35                 -                       -                       770                  500
+      40 & 45     5,280   2,640   990      800
 
-      25 & lower            -                       -                       550                  350
+      30 & 35     -           -           770      500
+
+      25 & lower            -           -           550      350
 
  
 
@@ -683,27 +677,27 @@ TABLE 3
 
  
 
-                                    Expressway     Expressway
+      Expressway           Expressway
 
-      Speed                    Rural Areas     Urban Areas    Rural Areas     Urban Areas
+      Speed        Rural Areas     Urban Areas    Rural Areas     Urban Areas
 
-      (miles                    (distance         (distance         (distance         (distance
+      (miles         (distance          (distance          (distance          (distance
 
-      per hour)               in feet)             in feet)             in feet)             in feet)
-
- 
+      per hour)    in feet) in feet) in feet) in feet)
 
  
 
-      55 or higher          5,280               2,640               990                  990
+ 
 
-      50                          5,280               2,640               830                  830
+      55 or higher           5,280   2,640   990      990
 
-      40 & 45                 5,280               2,640               750                  500
+      50  5,280   2,640   830      830
 
-      30 & 35                 -                       -                       600                  350
+      40 & 45     5,280   2,640   750      500
 
-      25 & lower            -                       -                       450                  250
+      30 & 35     -           -           600      350
+
+      25 & lower            -           -           450      250
 
  
 
@@ -737,27 +731,27 @@ TABLE 4
 
  
 
-                                    Expressway     Expressway
+      Expressway           Expressway
 
-      Speed                    Rural Areas     Urban Areas    Rural Areas     Urban Areas
+      Speed        Rural Areas     Urban Areas    Rural Areas     Urban Areas
 
-      (miles                    (distance         (distance         (distance         (distance
+      (miles         (distance          (distance          (distance          (distance
 
-      per hour)               in feet)             in feet)             in feet)             in feet)
-
- 
+      per hour)    in feet) in feet) in feet) in feet)
 
  
 
-      55 or higher          5,280               2,640               700                  700
+ 
 
-      50                          5,280               2,640               550                  550
+      55 or higher           5,280   2,640   700      700
 
-      40 & 45                 5,280               2,640               500                  500
+      50  5,280   2,640   550      550
 
-      30 & 35                 -                       -                       400                  350
+      40 & 45     5,280   2,640   500      500
 
-      25 & lower            -                       -                       400                  250
+      30 & 35     -           -           400      350
+
+      25 & lower            -           -           400      250
 
  
 
@@ -797,27 +791,27 @@ TABLE 5
 
  
 
-                        Product of Property’s Average Daily Trips Multiplied by the
+      Product of Property’s Average Daily Trips Multiplied by the
 
-                        Abutting Highway’s Annual Average Daily Traffic (Millions)
-
- 
-
- 
-
-      Number of             Speed              Speed              Speed              Speed
-
-      highway                25 mph            30-35               40-45               50 mph
-
-      lanes                      or lower          mph                 mph                 or higher
+      Abutting Highway’s Annual Average Daily Traffic (Millions)
 
  
 
  
 
-      2 lanes                   5.1                   3.9                   1.8                   1.3
+      Number of Speed  Speed  Speed  Speed
 
-      4 lanes                   10.2                 7.8                   3.6                   2.6
+      highway    25 mph            30-35   40-45   50 mph
+
+      lanes          or lower           mph     mph     or higher
+
+ 
+
+ 
+
+      2 lanes       5.1       3.9       1.8       1.3
+
+      4 lanes       10.2     7.8       3.6       2.6
 
  
 
@@ -841,11 +835,17 @@ ______________________________________________________________________________
 
       (e) “Urban” means the area within an urban growth boundary, the area within a special transportation area of an unincorporated community or the area within an urban unincorporated community. [2011 c.330 §17]
 
+.sp p10
+
  
+
+:SCOL.
 
 Note: 374.311 and 374.314 were added to and made a part of 374.302 to 374.334 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
 ______________________________________________________________________________
+
+:MCOL.
 
  
 

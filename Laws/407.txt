@@ -37,10 +37,6 @@ GENERAL PROVISIONS
 
  
 
-407.115     Administration of loan program; rules
-
- 
-
 407.125     Loans to qualified person
 
  
@@ -101,15 +97,11 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-407.215     Loan transferred by annulment or dissolution judgment excluded in determining maximum allowable
+407.215     Certain loans excludable from maximum loan amount
 
  
 
-407.225     Investigation and processing of loan application; security; maximum amounts of loans
-
- 
-
-407.265     Loans for home or farm improvements; terms and conditions
+407.225     Processing of loan application; security
 
  
 
@@ -133,7 +125,7 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-407.325     Rate of interest on loans
+407.325     Rate of interest on loans; rules
 
  
 
@@ -163,6 +155,8 @@ LOAN PROCEDURES AND CONDITIONS
 
 GENERAL OBLIGATION BONDS
 
+ 
+
 407.415     Issuance of bonds
 
  
@@ -176,6 +170,8 @@ GENERAL OBLIGATION BONDS
  
 
 LIFE AND MORTGAGE INSURANCE
+
+ 
 
 407.465     Loan cancellation life insurance
 
@@ -198,6 +194,8 @@ LIFE AND MORTGAGE INSURANCE
  
 
 FINANCES
+
+ 
 
 407.495     Oregon War Veterans’ Fund; sources; uses
 
@@ -224,6 +222,8 @@ FINANCES
  
 
 MISCELLANEOUS
+
+ 
 
 407.595     Loans not subject to execution or assignment
 
@@ -315,7 +315,7 @@ GENERAL PROVISIONS
 
       407.075 Purpose; legislative intent. (1) The provisions of this chapter are intended to carry out the purposes of Article XI-A of the Oregon Constitution. The Legislative Assembly recognizes that its authority to define the scope and purpose of this chapter is limited by the purposes expressed in Article XI-A.
 
-      (2) The primary purpose of this chapter is to provide loan funds to qualifying Oregon veterans for the acquisition or improvement of farms and homes. The Legislative Assembly does not intend, by any past or present enactment, to establish as a principal purpose of this chapter the providing of subsidized energy financing. [1983 c.445 §9]
+      (2) The primary purpose of this chapter is to provide loan funds to qualifying Oregon veterans for the acquisition of farms and homes. The Legislative Assembly does not intend, by any past or present enactment, to establish as a principal purpose of this chapter the providing of subsidized energy financing. [1983 c.445 §9; 2019 c.223 §1]
 
  
 
@@ -331,33 +331,39 @@ GENERAL PROVISIONS
 
  
 
-      407.085 Definitions. (1) As used in Article XI-A, Oregon Constitution, and this chapter, for the purposes of administration:
+      407.085 Definitions. As used in this chapter:
 
-      (a) “Acquisition” means:
+      (1) “Acquisition” means the purchase of a home or farm.
 
-      (A) Purchase and improvement of a home or farm.
+      (2) “Bonds” includes, but is not limited to, serial bonds, term bonds, notes, obligations, lines of credit, revolving credit agreements, loans, financing agreements or other evidence of indebtedness determined by the Department of Veterans’ Affairs, with the approval of the State Treasurer, to be necessary or desirable to provide funds for the purposes expressed in Article XI-A of the Oregon Constitution.
 
-      (B) Payment of the balance of the purchase price and interest on a purchase contract, and the improvement of property thereby acquired.
+      (3) “Fixed interest rate” means an interest rate on a home or farm loan that remains the same for the term of the loan.
 
-      (C) Refinance of an existing purchase-money mortgage or mortgage in the nature thereof, and the improvement of property thereby purchased.
+      (4)(a) “Home” means a residential structure, including a manufactured home or a condominium unit, which is established, maintained and used primarily as a principal residence by a veteran.
 
-      (D) Improvement of a home or farm.
+      (b) “Home” includes real property connected to a residential structure, including any long-term leasehold and any outbuildings.
 
-      (b) “Bonds” includes, but is not limited to, serial bonds, term bonds, notes, obligations, lines of credit, revolving credit agreements, loans, financing agreements or other evidence of indebtedness determined by the Department of Veterans’ Affairs, with the approval of the State Treasurer, to be necessary or desirable to provide funds for the purposes expressed in Article XI-A of the Oregon Constitution.
+      (5) “Manufactured home” means a structure that is:
 
-      (2) As used in this chapter:
+      (a) At least 20 feet in width;
 
-      (a) “Committee” means the Advisory Committee provided for by ORS 406.210.
+      (b) Constructed for movement on the public highways and that has sleeping, cooking and plumbing facilities;
 
-      (b) “Home” means any residential-type structure, including outbuildings and the real property in connection with it, if any, including long-term leaseholds, which is established, maintained and used primarily as a principal residence by the veteran.
+      (c) Intended for human occupancy;
 
-      (c) “Improvement” means new construction or any necessary or beneficial additions, alterations or changes appurtenant to the home or farm which protect or improve the basic livability or energy efficiency of the premises.
+      (d) Being used for residential purposes;
 
-      (d) “Mobile home” means a structure, transportable in one or more sections, which is 10 feet or more in width, and contains more than 500 square feet of living space figured on exterior dimensions of the structure, exclusive of any hitch and is designed to be used as a dwelling by one family, and which remains as personal property under the laws of this state. [Formerly 407.010; 2001 c.98 §5; 2005 c.625 §15]
+      (e) Classified and taxed as real property in the county where the structure is located; and
+
+      (f) Constructed in accordance with federal manufactured housing construction and safety standards adopted under ORS 446.155 or the National Manufactured Housing Construction and Safety Standards Act of 1974 (P.L. 93-383).
+
+      (6) “Trust deed” has the meaning given that term in ORS 86.705.
+
+      (7) “Variable interest rate” means an interest rate on a home or farm loan that may change periodically during the term of the loan. [Formerly 407.010; 2001 c.98 §5; 2005 c.625 §15; 2019 c.223 §2]
 
  
 
-      407.087 Definition of “veteran.” (1) As used in Article XI-A, section 3, of the Oregon Constitution, “veteran” means a person who:
+      407.087 Definition of “veteran.” (1) As used in Article XI-A of the Oregon Constitution and this chapter, “veteran” means a person who:
 
       (a) Served on active duty with the Armed Forces of the United States:
 
@@ -371,15 +377,15 @@ GENERAL PROVISIONS
 
       (E) For at least one day in a combat zone and was discharged or released from active duty under honorable conditions;
 
-      (b) Received a combat, expeditionary or campaign ribbon or medal for service in the Armed Forces of the United States and was discharged or released from active duty under honorable conditions; or
+      (b) Received a combat or campaign ribbon or an expeditionary medal for service in the Armed Forces of the United States and was discharged or released from active duty under honorable conditions; or
 
       (c) Is receiving a nonservice-connected pension from the United States Department of Veterans Affairs.
 
-      (2) As used in subsection (1) of this section, “honorable conditions” has the meaning given that term in rules adopted by the Department of Veterans’ Affairs. [Formerly 407.090 (Reassigned)]
+      (2) As used in subsection (1) of this section:
 
- 
+      (a) “Active duty” does not include attendance at a school under military orders, except schooling incident to an active enlistment or a regular tour of duty, or normal military training as a reserve officer or member of an organized reserve or National Guard unit.
 
-      Note: 407.087 [formerly 407.090 (Reassigned)] was enacted into law but was not added to or made a part of ORS chapter 407 or any series therein by law. See Preface to Oregon Revised Statutes for further explanation.
+      (b) “Honorable conditions” has the meaning given that term in rules adopted by the Department of Veterans’ Affairs. [Formerly 407.090 (Reassigned); 2019 c.223 §4]
 
  
 
@@ -411,7 +417,7 @@ GENERAL PROVISIONS
 
  
 
-      407.115 Administration of loan program; rules. The Department of Veterans’ Affairs shall administer the provisions of ORS 407.125, 407.165, 407.205, 407.275, 407.415, 407.495 and 407.515 to 407.565. The department may adopt all necessary rules not inconsistent with those sections to carry into effect their provisions. The department may appoint assistants and agents necessary to expeditious and efficient administration and fix their compensation. [Formerly 407.020; 2005 c.625 §17]
+      407.115 [Formerly 407.020; 2005 c.625 §17; repealed by 2019 c.223 §24]
 
  
 
@@ -419,7 +425,7 @@ GENERAL PROVISIONS
 
  
 
-      407.125 Loans to qualified person. All moneys in the Oregon War Veterans’ Fund created by ORS 407.495 may be advanced by the Department of Veterans’ Affairs as loans to any person qualified for loans under the provisions of section 3, Article XI-A, Oregon Constitution, for the acquisition of farms and homes, as provided in ORS 407.115, 407.165, 407.205, 407.275, 407.415, 407.495 and 407.515 to 407.565 and not otherwise. [Formerly 407.030; 1991 c.798 §6; 1995 c.238 §3; 2005 c.625 §18]
+      407.125 Loans to qualified person. All moneys in the Oregon War Veterans’ Fund created by ORS 407.495 may be advanced by the Department of Veterans’ Affairs as loans to any person qualified for loans under the provisions of Article XI-A, section 3, Oregon Constitution, for the acquisition of farms and homes, as provided in this chapter. [Formerly 407.030; 1991 c.798 §6; 1995 c.238 §3; 2005 c.625 §18; 2019 c.223 §5]
 
  
 
@@ -435,7 +441,7 @@ GENERAL PROVISIONS
 
  
 
-      407.135 Authority of department; disposition of certain moneys. The Department of Veterans’ Affairs is authorized and empowered, in the name and in behalf of the state to commence and prosecute to judgment all suits, actions and proceedings necessary to protect the interest of the state; to bid in property offered for sale under such proceedings and to acquire title to property for and in behalf of the state as a result of such proceedings; to accept deeds from borrowers in lieu of foreclosure; to sell, transfer, convey, lease or assign any property acquired by the department for and in behalf of the state; to make repairs and improvements or alterations; to pay taxes, liens and charges of every kind superior to the lien of the state; and otherwise to administer such property in such manner as the department deems to the best interest of the state. All money received by the department from the sale, leasing or other disposition of any property shall be paid over to the State Treasurer and deposited in the Oregon War Veterans’ Bond Sinking Account. [Formerly 407.080; 1987 c.652 §3; 2003 c.576 §439; 2005 c.625 §20]
+      407.135 Authority of department; disposition of certain moneys. The Department of Veterans’ Affairs is authorized and empowered, in the name and in behalf of the state, to make or participate in the making of residential loans under this chapter; to undertake commitments to make residential loans; to purchase and sell residential loans; to commence and prosecute to judgment all suits, actions and proceedings necessary to protect the interest of the state; to bid on property offered for sale under such proceedings and to acquire title to property for and in behalf of the state as a result of such proceedings; to accept deeds from borrowers in lieu of foreclosure; to sell, transfer, convey, lease or assign any property acquired by the department for and in behalf of the state; to make repairs and improvements or alterations; to pay taxes, liens and charges of every kind superior to the lien of the state; to pay the principal and interest on any obligations incurred in connection with such property; to dispose of such property; and otherwise to administer such property in such manner as the department deems to the best interest of the state. All money received by the department from the sale, leasing or other disposition of any property shall be paid over to the State Treasurer and deposited in the Oregon War Veterans’ Bond Sinking Account. [Formerly 407.080; 1987 c.652 §3; 2003 c.576 §439; 2005 c.625 §20; 2019 c.223 §6]
 
  
 
@@ -445,9 +451,9 @@ GENERAL PROVISIONS
 
       407.145 Purchase and control of property; disbursements to protect security. (1) The Department of Veterans’ Affairs may acquire property by purchase when the acquisition of such property is necessary to protect the interest of the state because of default in repayment of loans made in accordance with ORS 407.125 or statutes supplementary thereof. The department shall exercise control of all the property while the title remains vested in the state.
 
-      (2) The department may take any action and make disbursements as may be necessary to protect the securities for loans acquired under this chapter. Any disbursement so made shall be added to the amount due from the borrower and shall bear interest at the rate then fixed for home improvement loans under ORS 407.325 or at the rate on the existing loan, whichever is higher. Any such disbursement shall be made only upon order of the department.
+      (2) The department may take any action and make disbursements as may be necessary to protect the securities for loans acquired under this chapter. Any disbursement so made shall be added to the amount due from the borrower and shall bear interest at the rate on the existing loan. Any such disbursement shall be made only upon order of the department.
 
-      (3) Funds for the protection of security may be disbursed from the Oregon War Veterans’ Fund including the Oregon War Veterans’ Bond Sinking Account as the department shall determine. [Formerly 407.090 (Original); 1987 c.131 §1; 1987 c.652 §4; 1997 c.214 §1; 2005 c.625 §21]
+      (3) Funds for the protection of security may be disbursed from the Oregon War Veterans’ Fund including the Oregon War Veterans’ Bond Sinking Account as the department shall determine. [Formerly 407.090 (Original); 1987 c.131 §1; 1987 c.652 §4; 1997 c.214 §1; 2005 c.625 §21; 2019 c.223 §20]
 
  
 
@@ -463,7 +469,7 @@ GENERAL PROVISIONS
 
  
 
-      407.165 Authority to hold certain funds received from borrower. The Department of Veterans’ Affairs may receive and hold for future disposition conditional payments from borrowers who have executed mortgages and security instruments under authority of ORS 407.225, indemnities for fire losses on secured property, and such other sums as must be held by the department in suspense pending further or final disposition thereof. Said funds shall be deposited in the State Treasury in the revolving account authorized by ORS 407.565 until they can be properly applied to the purposes for which they were paid to and received by the department. [Formerly 407.120; 2005 c.625 §23]
+      407.165 Authority to hold certain funds received from borrower. The Department of Veterans’ Affairs may receive and hold for future disposition conditional payments from borrowers who have executed mortgages or trust deeds under authority of ORS 407.225, indemnities for fire losses on secured property, and such other sums as must be held by the department in suspense pending further or final disposition thereof. Said funds shall be deposited in the State Treasury in the revolving account authorized by ORS 407.565 until they can be properly applied to the purposes for which they were paid to and received by the department. [Formerly 407.120; 2005 c.625 §23; 2019 c.223 §7]
 
  
 
@@ -475,7 +481,7 @@ GENERAL PROVISIONS
 
       (4) The department shall adopt such rules as the department considers necessary to establish criteria for implementation of this section.
 
-      (5) As used in this section, “escrow account” means any account which is part of a real estate loan agreement or purchase contract, whether incorporated into the agreement or contract or as part of a separately executed document, whereby the borrower makes periodic prepayment to the department of estimated property taxes, and the department pays the charges out of the account at the due dates. [1989 c.580 §2; 1995 c.182 §4; 2005 c.625 §24]
+      (5) As used in this section, “escrow account” means any account which is part of a real estate loan agreement or purchase contract, whether incorporated into the agreement or contract or as part of a separately executed document, whereby the borrower makes periodic prepayment to the department of estimated property taxes and hazard insurance premiums, and the department pays the charges out of the account at the due dates. [1989 c.580 §2; 1995 c.182 §4; 2005 c.625 §24; 2019 c.223 §8]
 
  
 
@@ -501,9 +507,9 @@ GENERAL PROVISIONS
 
       (c) For approved loans or contracts, if requested by the department, service the loan or purchase contract for a period of time specified by the department.
 
-      (3) When a lending institution, pursuant to a contract authorized by this section, receives an application for a loan for the acquisition of a manufactured home, as defined in ORS 197.295, the lending institution shall investigate and process the application in the manner prescribed in the contract between the lending institution and the department.
+      (3) When a lending institution, pursuant to a contract authorized by this section, receives an application for a loan for the acquisition of a manufactured home, the lending institution shall investigate and process the application in the manner prescribed in the contract between the lending institution and the department.
 
-      (4) When a lending institution, pursuant to a contract authorized by this section, investigates and processes a loan application that it considers eligible for approval under this chapter, the lending institution shall notify the department and state the reasons why the loan may be approved under this chapter. The department shall retain final authority to approve or disapprove the loan. If the department disapproves the loan, the department shall notify the lending institution and the applicant of the disapproval and shall indicate the reasons for the disapproval. When the department is satisfied that all requirements for approval of a loan have been met by the applicant and the lending institution and that the property offered as security for the loan protects the interests of the state, the department shall transfer to the lending institution an amount of money from the Oregon War Veterans’ Fund equal to the loan amount approved by the department. The lending institution shall disburse the money in the manner prescribed by the department. The lending institution shall record the mortgage, trust deed, contract or other security agreement relating to the loan and then shall forward all the original loan documents to the department.
+      (4) When a lending institution, pursuant to a contract authorized by this section, investigates and processes a loan application that it considers eligible for approval under this chapter, the lending institution shall notify the department and state the reasons why the loan may be approved under this chapter. The department shall retain final authority to approve or disapprove the loan. If the department disapproves the loan, the department shall notify the lending institution and the applicant of the disapproval and shall indicate the reasons for the disapproval. When the department is satisfied that all requirements for approval of a loan have been met by the applicant and the lending institution and that the property offered as security for the loan protects the interests of the state, the department shall transfer to the lending institution an amount from the Oregon War Veterans’ Fund equal to the loan amount approved by the department. The lending institution shall disburse the amount in the manner prescribed by the department. The lending institution shall record the mortgage or trust deed and then shall forward all the original loan documents to the department.
 
       (5) All moneys received by a lending institution as payments on principal and interest for loans made under this chapter shall be paid to the department in accordance with the terms of the contract between the department and the lending institution.
 
@@ -511,7 +517,7 @@ GENERAL PROVISIONS
 
       (7) Contracts entered into under this section are exempt from the requirements of the provisions of ORS 279.835 to 279.855 and ORS chapters 279A, 279B and 279C regarding personal services contracts.
 
-      (8) As used in this section, “lending institution” means an entity that is licensed to conduct business in the State of Oregon exclusively or in part as a mortgage lender or a conduit for mortgage loans and that, in the judgment of the department, is capable of meeting the needs of the department in carrying out this chapter. [1989 c.746 §2; 1993 c.35 §1; 1995 c.238 §4; 1997 c.802 §18; 1999 c.50 §1; 2003 c.794 §273; 2005 c.625 §§25,26]
+      (8) As used in this section, “lending institution” means an entity that is licensed to conduct business in the State of Oregon exclusively or in part as a mortgage lender or a conduit for mortgage loans and that, in the judgment of the department, is capable of meeting the needs of the department in carrying out this chapter. [1989 c.746 §2; 1993 c.35 §1; 1995 c.238 §4; 1997 c.802 §18; 1999 c.50 §1; 2003 c.794 §273; 2005 c.625 §§25,26; 2019 c.223 §19]
 
  
 
@@ -565,7 +571,7 @@ GENERAL PROVISIONS
 
       407.201 Required disclosure of credit information and loan terms. (1) When making a loan or otherwise extending credit under this chapter with moneys from the Oregon War Veterans’ Fund, the Department of Veterans’ Affairs shall comply with Title I (Truth in Lending Act) of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.) in the same manner required for a bank or national bank, as defined in ORS 706.008, when the bank extends credit in a transaction in which a security interest in real property is or will be acquired.
 
-      (2) In addition to the requirements of subsection (1) of this section, the department shall notify each person seeking to acquire a home or farm under this chapter, prior to the signing of a loan agreement or contract, of the variable interest rate provisions of ORS 407.275, 407.315, 407.325 and 407.335. Information required to be disclosed under this subsection includes a history of the interest rate increases on loans during the preceding 10 years and an estimate of the financial effect that an increase of one percent in the interest rate will have on the borrower’s obligation under the mortgage, contract or other security agreement. [1987 c.652 §20; 1997 c.631 §470; 2005 c.625 §29]
+      (2) In addition to the requirements of subsection (1) of this section, the department shall notify each person seeking to acquire a home or farm under this chapter, prior to the signing of a loan agreement or contract, of the variable interest rate provisions of ORS 407.275, 407.315, 407.325 and 407.335. Information required to be disclosed under this subsection includes a history of the interest rate increases on loans during the preceding 10 years and an estimate of the financial effect that an increase of one percent in the interest rate will have on the borrower’s obligation under the loan agreement. [1987 c.652 §20; 1997 c.631 §470; 2005 c.625 §29; 2019 c.223 §9]
 
  
 
@@ -573,11 +579,31 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-      407.205 Application for loan; amount of loan; limit on number of loans. (1) Applications for loans for acquisition of a home or farm under this chapter shall be made to the Department of Veterans’ Affairs. A loan made under this section, exclusive of funds disbursed under ORS 407.145 (2) and 407.275 (4), may not exceed the maximum original principal balance permitted on a single-family first mortgage loan by the Federal National Mortgage Association, as published in its announcements and subsequently included in its Selling Guide, at a rate of interest provided by ORS 407.325. An eligible individual may not receive or, under ORS 407.305, assume more than four loans under this chapter. An applicant may not borrow more than the maximum amount allowed for a loan under this section, except that when a loan is made on property that is destroyed by fire or other natural hazard, taken through condemnation or lost or disposed of for a compelling reason devoid of fault on the part of the applicant and when the loan is repaid or the property is transferred by deed or otherwise, the loan may be excluded from consideration in computing the maximum loan amount allowable. However, the loan right provided in this section may be restored not more than once while an unrepaid balance remains on a previous loan granted to the applicant.
+      407.205 Application for loan; amount of loan; limit on number of loans. (1) A person qualified under Article XI-A, section 3, of the Oregon Constitution, to apply for a loan for the acquisition of a home or farm must submit the application to the Department of Veterans’ Affairs pursuant to the provisions of this chapter.
 
-      (2) For the purposes of this section, an applicant owns a home when the applicant has fee simple title to the home or is the purchaser of the home under a contract of sale or other instrument of sale. Earnest money or preliminary sales agreements, options or rights of first refusal are not contracts or instruments of sale under this subsection.
+      (2) An applicant may not borrow more than the maximum amount allowed for a loan under this section.
 
-      (3) As used in this section, “home” includes mobile homes and houseboats. [Formerly 407.040; 1989 c.677 §5; 1991 c.67 §97; 1993 c.192 §1; 1997 c.36 §1; 1999 c.41 §1; 2005 c.625 §30; 2007 c.43 §1; 2013 c.227 §1; 2014 c.30 §1]
+      (3) The maximum amount allowed for a loan made under this section may not exceed the least of:
+
+      (a) The maximum original principal balance permitted on a single-family first mortgage loan published by the Federal Housing Finance Agency, at a rate of interest provided by ORS 407.325;
+
+      (b) The maximum loan-to-value ratio or combined loan-to-value ratio permitted by the United States Department of Veterans Affairs for its Home Loan Guaranty Program (38 U.S.C. 3701 et seq.; 38 C.F.R. part 36); or
+
+      (c) If the property to be acquired with the funds from the loan is a farm, 90 percent of the net appraised real property value.
+
+      (4) When calculating the maximum amount allowed for a loan under this section, the Department of Veterans’ Affairs shall exclude:
+
+      (a) Funds disbursed under ORS 407.145 (2) and 407.275 (4); and
+
+      (b) The amount of a loan that has been repaid, or for which the property securing the loan has transferred by deed or otherwise, if the property:
+
+      (A) Is destroyed by fire or other natural hazard; or
+
+      (B) Is taken through condemnation or lost or disposed of for a compelling reason devoid of fault on the part of the applicant.
+
+      (5) An eligible person may not receive or, under ORS 407.305, assume more than four loans under this chapter.
+
+      (6) For the purposes of this section, an applicant owns a home when the applicant has fee simple title to the home or is the purchaser of the home under a contract of sale or other instrument of sale. Earnest money or preliminary sales agreements, options or rights of first refusal are not contracts or instruments of sale under this subsection. [Formerly 407.040; 1989 c.677 §5; 1991 c.67 §97; 1993 c.192 §1; 1997 c.36 §1; 1999 c.41 §1; 2005 c.625 §30; 2007 c.43 §1; 2013 c.227 §1; 2014 c.30 §1; 2019 c.223 §10]
 
  
 
@@ -585,21 +611,19 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-      407.215 Loan transferred by annulment or dissolution judgment excluded in determining maximum allowable. No applicant is entitled to borrow more than the maximum amount allowed under ORS 407.205 other than for reasons specified in ORS 407.205 except that when the property on which the loan was made becomes the property of the applicant’s spouse as a result of a judgment declaring a marriage void or dissolved and the loan is repaid or remains unrepaid and there is an assumption of primary liability on the loan by a party, such loan may be excluded from consideration in computing the maximum loan allowable under ORS 407.205. [Formerly 407.045; 2003 c.576 §440]
+      407.215 Certain loans excludable from maximum loan amount. No applicant is entitled to borrow more than the maximum amount allowed under ORS 407.205 other than for reasons specified in ORS 407.205 except that when the property on which the loan was made becomes the property of the applicant’s spouse as a result of a judgment declaring a marriage void or dissolved and the loan is repaid, or remains unrepaid and there is an assumption of primary liability on the loan by a party other than the applicant, the loan may be excluded from consideration in computing the maximum loan allowable under ORS 407.205. [Formerly 407.045; 2003 c.576 §440; 2019 c.223 §11]
 
  
 
-      407.225 Investigation and processing of loan application; security; maximum amounts of loans. (1) When the Department of Veterans’ Affairs receives an application pursuant to ORS 407.205, the department shall immediately investigate and process it as provided by law. The security for the loan shall consist of the property to be acquired by the veteran as a home or a farm. The security shall be secured by a mortgage or security agreement in the full amount of the loan which mortgage or security agreement shall be either a first lien or a lien insured by mortgagee’s title insurance against loss from any prior encumbrance. The department may make subsequent loans for improvements to the security if there are no intervening liens between the first lien of the department created under this section and the recorded liens upon the security securing repayment of such subsequent improvement loans. Such consecutive liens, for the purposes of this chapter, shall be deemed collectively as a first lien upon the security. The mortgage or security agreement shall provide that the borrower, or any subsequent owner of the secured property, may pay all or any part of the loan at any time without penalty.
+      407.225 Processing of loan application; security. (1) When the Department of Veterans’ Affairs receives an application pursuant to ORS 407.205, the department shall immediately process the application.
 
-      (2) A mobile home shall be secured by a security agreement in the full amount of the loan and the department shall perfect a security interest in favor of the State of Oregon. The security agreement shall provide that the borrower or any subsequent owner of the mobile home, may pay all or any part of the loan at any time without penalty. The security agreement shall provide for immediate acceleration of the unpaid balance of the loan if the mobile home is moved from the original site listed in the security agreement without first obtaining the written consent of the department. The security agreement shall also provide that removal of the mobile home to a site outside of this state shall constitute an act of default and result in immediate acceleration of the unpaid balance of the loan.
+      (2) The security for the loan must consist of the property to be acquired by the applicant and must be secured by a mortgage or trust deed in the full amount of the loan.
 
-      (3) Loans may not exceed:
+      (3) The mortgage or trust deed must:
 
-      (a) The maximum loan-to-value ratio or combined loan-to-value ratio permitted by the United States Department of Veterans Affairs for its Home Loan Guaranty Program (38 U.S.C. 3701 et seq.; 38 C.F.R. part 36);
+      (a) Be either a first lien on the property or a lien insured by mortgagee’s title insurance against loss from any prior encumbrance; and
 
-      (b) 85 percent of the net appraised value on homes that are not real property; and
-
-      (c) 90 percent of the net appraised value on farms that are real property. [Formerly 407.050; 1985 c.296 §3; 1997 c.214 §2; 2003 c.49 §1; 2005 c.20 §1; 2005 c.625 §31; 2013 c.228 §1]
+      (b) Provide that the borrower, or any subsequent owner of the secured property, may pay all or any part of the loan at any time without penalty. [Formerly 407.050; 1985 c.296 §3; 1997 c.214 §2; 2003 c.49 §1; 2005 c.20 §1; 2005 c.625 §31; 2013 c.228 §1; 2019 c.223 §12]
 
  
 
@@ -615,25 +639,17 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-      407.265 Loans for home or farm improvements; terms and conditions. (1) An applicant for a loan solely for the improvement of a home or farm may receive the loan if:
-
-      (a) The applicant has not previously received a loan under this chapter;
-
-      (b) The applicant has received a loan under this chapter for the acquisition of that home or farm for which there is an unpaid balance and repayment has been satisfactory; or
-
-      (c) The applicant has previously received a loan under this chapter and there is no unpaid balance remaining on that loan.
-
-      (2) Any loan made to an applicant who qualifies under subsection (1)(b) of this section for a loan solely for the improvement of a home or farm may be added to the amount due from the applicant and shall bear interest at the rate prescribed in ORS 407.325. [Formerly 407.065; 1987 c.221 §1; 1997 c.214 §3]
+      407.265 [Formerly 407.065; 1987 c.221 §1; 1997 c.214 §3; repealed by 2019 c.223 §24]
 
  
 
-      407.275 Terms of loan to veteran and transferee. (1) Loans may be made bearing interest at the rate per annum prescribed as provided by ORS 407.325. Loans may be amortized over a period of not more than 40 years for homes other than mobile homes. Loans for mobile homes may be amortized over a period not exceeding the expected life of the mobile home, as determined by the Department of Veterans’ Affairs. The limitations contained in this subsection do not preclude the department from later extending the amortization period.
+      407.275 Terms of loan to veteran and transferee. (1) A loan may be made bearing interest at the rate per annum prescribed as provided by ORS 407.325. A loan may be amortized over a period of not more than 40 years for a home other than a manufactured home. A loan for a manufactured home may be amortized over a period not exceeding the expected life of the manufactured home, as determined by the Department of Veterans’ Affairs. The limitations contained in this subsection do not preclude the department from later extending the amortization period.
 
       (2) If the ownership of the secured property is transferred by deed or otherwise to anyone other than a veteran eligible for a loan under this chapter and Article XI-A of the Oregon Constitution, the veteran’s surviving spouse or unremarried former spouse, the veteran’s surviving child or stepchild, another veteran eligible for a loan under this chapter and Article XI-A of the Oregon Constitution who assumes the previous loan for the property as described in ORS 407.305 or a governmental entity when the secured property is transferred for public use, the interest from the date of transfer shall be at the rate per annum then fixed as provided by ORS 407.335. However, the department, during the term of the loan, may periodically prescribe the interest rates to be paid by the transferee.
 
       (3) Ownership of property that constitutes security for a loan made to a veteran under this chapter and Article XI-A of the Oregon Constitution may not be transferred by deed or otherwise to anyone other than the veteran’s surviving spouse, unremarried former spouse, surviving child or stepchild or another veteran eligible for a loan under this chapter and Article XI-A of the Oregon Constitution who assumes the previous loan for the property as described in ORS 407.305, unless the property is used primarily as the principal residence of the transferee for at least two years after the transfer or such shorter period of time as the department for good cause may allow.
 
-      (4) Mortgages, trust deeds or security agreements on property given to secure any loan made under ORS 407.125 or statutes supplementary thereof may provide that the taxes and insurance premiums may be paid by the department from the Oregon War Veterans’ Bond Sinking Account. The amount so paid may be added to and become part of the principal of the loan and be repaid as prescribed by the department. The department may prescribe any method or period for repayment of the amount so paid that is not in conflict with the mortgage, trust deed or security agreement. The department may prescribe any method or period for repayment of interest on the amount so paid that is not in conflict with the mortgage, trust deed, security agreement or a separate agreement with the borrower. [Formerly 407.070; 1987 c.221 §2; 1987 c.652 §6; 1987 c.767 §1; 1995 c.238 §1; 2005 c.625 §32; 2007 c.766 §1]
+      (4) A mortgage or trust deed on property given to secure any loan made under ORS 407.125 or statutes supplementary thereof may provide that the taxes and insurance premiums may be paid by the department from the Oregon War Veterans’ Bond Sinking Account. The amount so paid may be added to and become part of the principal of the loan and be repaid as prescribed by the department. The department may prescribe any method or period for repayment of the amount so paid that is not in conflict with the mortgage, the trust deed or a separate agreement. The department may prescribe any method or period for repayment of interest on the amount so paid that is not in conflict with the mortgage, the trust deed or a separate agreement with the borrower. [Formerly 407.070; 1987 c.221 §2; 1987 c.652 §6; 1987 c.767 §1; 1995 c.238 §1; 2005 c.625 §32; 2007 c.766 §1; 2019 c.223 §13]
 
  
 
@@ -647,7 +663,7 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-      407.305 Assumption of previous loan by eligible veteran; additional funds; maximum amount. When a veteran who is eligible for a loan under this chapter and Article XI-A of the Oregon Constitution seeks to acquire a home or farm that is serving as security for a previous loan made under this chapter, the veteran may choose either to receive a new loan for the property or to assume the previous loan. If the loan balance for the loan being assumed does not exceed the amount of the veteran’s entitlement under ORS 407.205, the interest rate to be paid on the assumed loan balance shall be the rate per annum prescribed under ORS 407.315. In addition to the amount assumed, the veteran may apply for and receive additional funds to be applied to the purchase price. The interest rate to be paid on the additional funds shall be the rate per annum currently prescribed under ORS 407.325. The sum of the assumed loan balance and the additional funds shall not exceed the amount of the veteran’s entitlement under ORS 407.205 or the maximum loan amount prescribed by ORS 407.225 (3). An assumption or an assumption with additional funds under this section shall be deemed to be one loan and the veteran making the assumption or the assumption with additional funds shall be deemed to be a borrower for the purposes of ORS 407.145, 407.205, 407.215, 407.325, 407.385, 407.465 and 407.475. [Formerly 407.063; 1985 c.296 §5; 1987 c.221 §4; 1995 c.238 §6; 2013 c.228 §2]
+      407.305 Assumption of previous loan by eligible veteran; additional funds; maximum amount. When a veteran who is eligible for a loan under this chapter and Article XI-A of the Oregon Constitution seeks to acquire a home or farm that is serving as security for a previous loan made under this chapter, the veteran may choose either to receive a new loan for the property or to assume the previous loan. If the loan balance for the loan being assumed does not exceed the amount of the veteran’s entitlement under ORS 407.205, the interest rate to be paid on the assumed loan balance shall be the rate per annum prescribed under ORS 407.315. In addition to the amount assumed, the veteran may apply for and receive additional funds to be applied to the purchase price. The interest rate to be paid on the additional funds shall be the rate per annum currently prescribed under ORS 407.325. The sum of the assumed loan balance and the additional funds shall not exceed the amount of the veteran’s entitlement under ORS 407.205 or the maximum loan amount prescribed by ORS 407.205 (3)(b) or (c). An assumption or an assumption with additional funds under this section shall be deemed to be one loan and the veteran making the assumption or the assumption with additional funds shall be deemed to be a borrower for the purposes of ORS 407.145, 407.205, 407.215, 407.325, 407.385, 407.465 and 407.475. [Formerly 407.063; 1985 c.296 §5; 1987 c.221 §4; 1995 c.238 §6; 2013 c.228 §2; 2019 c.223 §21]
 
  
 
@@ -657,9 +673,9 @@ LOAN PROCEDURES AND CONDITIONS
 
       407.315 Interest rate for veteran’s assumption; variable rate; effect of rate on cash flow; rules. (1) When a veteran assumes a previous loan under ORS 407.305, the interest rate to be paid by the veteran from the date of assumption shall be the rate per annum prescribed periodically by the Department of Veterans’ Affairs, taking into consideration the solvency of the loan program and the interest rates currently prevailing in this state for loans secured by owner-occupied residential property.
 
-      (2) The department shall make a cash flow projection to determine if assumptions at the interest rate established under subsection (1) of this section are among the causes of a negative cash flow projection for the loan program. The cash flow projection required by this section shall be an estimate of the revenue received from the repayment of mortgages, interest earnings, administrative expenses of the loan program, payment of interest and principal on outstanding debt and other relevant factors during the period in which current outstanding bonds are required to be retired.
+      (2) The department shall make a cash flow projection to determine if assumptions at the interest rate established under subsection (1) of this section are among the causes of a negative cash flow projection for the loan program. The cash flow projection required by this section shall be an estimate of the revenue received from the repayment of loans, interest earnings, administrative expenses of the loan program, payment of interest and principal on outstanding debt and other relevant factors during the period in which current outstanding bonds are required to be retired.
 
-      (3) If the cash flow projection required under subsection (2) of this section indicates that assumptions of loans at the interest rate established under subsection (1) of this section are a cause of a negative cash flow projection for the loan program, the department, by rule and notwithstanding ORS 407.325 (2), shall increase the interest rate to be paid for loans assumed under ORS 407.305 to the lowest rate per annum that assures a positive cash flow projection, but not exceeding the rate then prescribed under ORS 407.325. [1982 s.s.1 c.11 §15; 1987 c.221 §5; 1987 c.564 §1; 2005 c.625 §35]
+      (3) If the cash flow projection required under subsection (2) of this section indicates that assumptions of loans at the interest rate established under subsection (1) of this section are a cause of a negative cash flow projection for the loan program, the department, by rule and notwithstanding ORS 407.325 (3), shall increase the interest rate to be paid for loans assumed under ORS 407.305 to the lowest rate per annum that assures a positive cash flow projection, but not exceeding the rate then prescribed under ORS 407.325. [1982 s.s.1 c.11 §15; 1987 c.221 §5; 1987 c.564 §1; 2005 c.625 §35; 2019 c.223 §22]
 
  
 
@@ -667,21 +683,21 @@ LOAN PROCEDURES AND CONDITIONS
 
  
 
-      407.325 Rate of interest on loans. (1) The Department of Veterans’ Affairs, with the advice of the Advisory Committee, will periodically, during the term of the loan, prescribe the interest rates to be paid by the applicant, taking into consideration the current value of the money, the solvency of the loan program, and the rates’ effect on veterans. If the department, after considering the factors specified in this section, determines that there is an economic need for a higher rate of interest on loans made for the acquisition of mobile homes and houseboats, the department shall prescribe the rate of interest for the acquisition of a mobile home or houseboat at not higher than two percent more per annum than the basic rate established by this section.
+      407.325 Rate of interest on loans; rules. (1) The Department of Veterans’ Affairs shall periodically prescribe the interest rate to be paid by an applicant for a home or farm acquisition loan with a fixed interest rate, taking into consideration the current value of the money, the solvency of the loan program and the effect of the rate on veteran applicants.
 
-      (2) Except as provided in subsection (3) of this section:
+      (2) The department shall periodically, during the term of a home or farm loan with a variable interest rate, prescribe the interest rate to be paid by an applicant, taking into consideration the current value of the money, the solvency of the loan program and the effect of the rate on veteran applicants.
 
-      (a) The rate of interest on loans granted on or after May 27, 1971, and originally set at five and nine-tenths percent per annum may not be increased to more than seven and nine-tenths percent per annum.
+      (3) Except as provided in subsection (4) of this section:
 
-      (b) The rate of interest on loans granted on or after January 1, 1981, and originally set at seven and two-tenths percent per annum may not be increased to more than nine and two-tenths percent per annum.
+      (a) The rate of interest on a loan granted on or after May 27, 1971, and originally set at five and nine-tenths percent per annum may not be increased to more than seven and nine-tenths percent per annum.
 
-      (c) The rate of interest on a loan granted on or after May 27, 1971, for the acquisition of a mobile home or houseboat originally set at seven and nine-tenths percent per annum may not be increased to more than nine and nine-tenths percent per annum.
+      (b) The rate of interest on a loan granted on or after January 1, 1981, and originally set at seven and two-tenths percent per annum may not be increased to more than nine and two-tenths percent per annum.
 
-      (3) The department may prescribe the interest rates to be paid by the applicant at a rate greater than the rates described in subsection (2) of this section, but only if the department determines, at the sole discretion of the department, that such action reduces the probability that invoking the provisions of section 4, Article XI-A of the Oregon Constitution will become necessary.
+      (4) The department may prescribe the interest rate to be paid by an applicant at a rate greater than the rates described in subsection (3) of this section, but only if the department determines, at the sole discretion of the department, that such action is necessary to avoid invoking the provisions of Article XI-A, section 4, of the Oregon Constitution.
 
-      (4) When, during two consecutive fiscal years, the cash flow projection and the review of the projection performed under ORS 407.185 indicate that the Oregon War Veterans’ Bond Sinking Account will maintain a balance throughout the term of the projections that exceeds the succeeding years’ debt service and operating expenses for the loan program, the department shall prepare a program for reducing the interest rates charged under this section in such a manner as to insure the future solvency and self-supporting nature of the loan program. However, no reduction in interest rates shall occur if the variable rate debt, if converted to a fixed rate, requires retention of the amounts in order to meet projections.
+      (5) When, during two consecutive fiscal years, the cash flow projection and the review of the projection performed under ORS 407.185 indicate that the Oregon War Veterans’ Bond Sinking Account will maintain a balance throughout the term of the projections that exceeds the succeeding years’ debt service and operating expenses for the loan program, the department shall prepare a program for reducing the interest rates charged under this section in such a manner as to ensure the future solvency and self-supporting nature of the loan program. However, no reduction in interest rates shall occur if the variable rate debt, if converted to a fixed rate, requires retention of the amounts in order to meet projections.
 
-      (5) Notwithstanding the rate prescribed for acquisition of a home as provided in subsections (1) to (4) of this section, the department may periodically establish separate and distinct interest rates for home improvement loans. [Formerly 407.072; 1985 c.296 §6; 1987 c.221 §7; 1989 c.171 §48; 1989 c.728 §4; 1997 c.214 §4; 2005 c.625 §36]
+      (6) Notwithstanding the rate prescribed for acquisition of a home as provided in subsections (1) to (5) of this section, the department may periodically establish separate and distinct interest rates for home improvement loans granted before January 1, 2020. [Formerly 407.072; 1985 c.296 §6; 1987 c.221 §7; 1989 c.171 §48; 1989 c.728 §4; 1997 c.214 §4; 2005 c.625 §36; 2019 c.223 §14]
 
  
 
@@ -749,13 +765,13 @@ LOAN PROCEDURES AND CONDITIONS
 
       (3) When the highest bid under subsection (2) of this section is made by a person who is not eligible for a loan under Article XI-A of the Oregon Constitution, the person who submits the highest bid or offer received from those persons eligible for a loan under Article XI-A of the Oregon Constitution shall be given the opportunity to purchase the property for the amount bid by the highest bidder. The property must be purchased by matching the highest bid within a period of time and at a place specified by rule of the department.
 
-      (4) When the department sells a home or farm obtained under ORS 407.135 or 407.145 (1) to a person, the department may accept improvement of the property by such purchaser in lieu of other means of satisfying the requirements of ORS 407.225 (3). For the purpose of this section, all purchasers are subject to the provisions of ORS 407.225 (3). The department shall require the purchaser to provide an improvement plan containing a description of the proposed improvements to be made and the cost of the necessary work and materials. An appraiser employed by the department must certify that the ratio of the purchase price and the net appraised value of the home and farm after the proposed improvement is completed will satisfy the requirements of ORS 407.225 (3). The department may then approve the sale subject to the condition that the improvement of the home or farm be completed within 180 days after purchase. Failure by the applicant to complete the improvement within the time allowed shall be considered a breach of the purchase agreement and grounds for foreclosure by the department. Upon timely application and a showing that the improvement cannot be completed within the time allowed because of circumstances beyond the applicant’s control, the department may grant the applicant an additional period not to exceed 180 days in which to complete the improvement.
+      (4) When the department sells a home or farm obtained under ORS 407.135 or 407.145 (1) to a person, the department may accept improvement of the property by such purchaser in lieu of other means of satisfying the requirements of ORS 407.205 (3)(b) or (c). For the purpose of this section, all purchasers are subject to the provisions of ORS 407.205 (3)(b) or (c). The department shall require the purchaser to provide an improvement plan containing a description of the proposed improvements to be made and the cost of the necessary work and materials. An appraiser employed by the department must certify that the ratio of the purchase price and the net appraised value of the home and farm after the proposed improvement is completed will satisfy the requirements of ORS 407.205 (3)(b) or (c). The department may then approve the sale subject to the condition that the improvement of the home or farm be completed within 180 days after purchase. Failure by the applicant to complete the improvement within the time allowed shall be considered a breach of the purchase agreement and grounds for foreclosure by the department. Upon timely application and a showing that the improvement cannot be completed within the time allowed because of circumstances beyond the applicant’s control, the department may grant the applicant an additional period not to exceed 180 days in which to complete the improvement.
 
       (5) The rate of interest for a contract made for the acquisition of a home or farm obtained by the department under ORS 407.135 or 407.145 (1) shall be the rate per annum prescribed by the department.
 
       (6) Notwithstanding subsection (5) of this section, if the provisions of subsections (1) to (3) of this section have been complied with and no satisfactory bid has been received, the department, after considering the time value of money, may sell the home or farm at a private negotiated sale at any price or at any rate of interest, either fixed or variable, that the department considers to be necessary and prudent to sell the property and that provides an economic benefit to the home and farm loan program that is equivalent to the property being marketed at the current appraised value of the property and the rate prescribed under subsection (5) of this section.
 
-      (7) Except as provided in this subsection, redemption of a home or farm obtained and sold by the department under ORS 407.135 or 407.145 (1) shall be made as provided in ORS 18.960 to 18.985. When the department accepts improvement of property by a purchaser in lieu of purchase money or cash down payment under subsection (4) of this section, redemption shall be made by paying an amount equal to the fair market value of those improvements actually made to the property under the improvement plan described in subsection (4) of this section, with interest thereon at the rate of nine percent per annum from the date of sale. The department shall determine the fair market value of the improvements and such amount shall be paid in addition to the amount of purchase money and interest thereon required under ORS 18.966 and 18.967. [1982 s.s.1 c.11 §2; 1983 c.184 §1; 1985 c.287 §1; 1987 c.426 §3; 1987 c.661 §§5,6; 2005 c.542 §69; 2005 c.625 §40]
+      (7) Except as provided in this subsection, redemption of a home or farm obtained and sold by the department under ORS 407.135 or 407.145 (1) shall be made as provided in ORS 18.960 to 18.985. When the department accepts improvement of property by a purchaser in lieu of purchase money or cash down payment under subsection (4) of this section, redemption shall be made by paying an amount equal to the fair market value of those improvements actually made to the property under the improvement plan described in subsection (4) of this section, with interest thereon at the rate of nine percent per annum from the date of sale. The department shall determine the fair market value of the improvements and such amount shall be paid in addition to the amount of purchase money and interest thereon required under ORS 18.966 and 18.967. [1982 s.s.1 c.11 §2; 1983 c.184 §1; 1985 c.287 §1; 1987 c.426 §3; 1987 c.661 §§5,6; 2005 c.542 §69; 2005 c.625 §40; 2019 c.223 §23]
 
  
 
@@ -841,8 +857,6 @@ LIFE AND MORTGAGE INSURANCE
 
       407.475 Persons insurable under ORS 407.465. Any person receiving or assuming a loan or making a contract under this chapter for the acquisition of a home or farm, and the spouse or former spouse of that person, may be insured under the insurance provided for by ORS 407.465 upon complying with such rules relating to that insurance as the director may adopt. [Formerly 407.076; 1985 c.221 §2; 1987 c.132 §2]
 
- 
-
       407.480 Definitions for ORS 407.480 to 407.490. As used in ORS 407.480 to 407.490:
 
       (1) “Insurance” means any mortgage guarantee or mortgage insurance against financial loss by reason of:
@@ -875,7 +889,7 @@ FINANCES
 
  
 
-      407.495 Oregon War Veterans’ Fund; sources; uses. (1) The money arising from the sale of each issue of bonds authorized under section 2, Article XI-A, of the Oregon Constitution, shall be deposited in the State Treasury and be credited to a special fund separate and distinct from the General Fund, to be known as the Oregon War Veterans’ Fund; which fund hereby is appropriated for the purpose of carrying out the provisions of this section and ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415 and 407.515 to 407.565 and to purchase bonds issued for the purposes of such provisions. With the approval of the Department of Veterans’ Affairs, the moneys in the fund not immediately required for loaning may be invested as provided in ORS 293.701 to 293.857. The earnings from such investments shall inure to the Oregon War Veterans’ Fund.
+      407.495 Oregon War Veterans’ Fund; sources; uses. (1) The money arising from the sale of each issue of bonds authorized under Article XI-A, section 2, of the Oregon Constitution, shall be deposited in the State Treasury and be credited to a special fund separate and distinct from the General Fund, to be known as the Oregon War Veterans’ Fund.
 
       (2) In addition to the money arising from the sale of such bonds, the Oregon War Veterans’ Fund shall also consist of:
 
@@ -891,17 +905,17 @@ FINANCES
 
       (f) All moneys received as proceeds from the sale of refunding bonds; and
 
-      (g) All other moneys accruing under this section and ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415, 407.425, 407.435, 407.555 and 407.565.
+      (g) All other moneys accruing under this chapter.
 
       (3) All moneys in the Oregon War Veterans’ Fund are continuously appropriated to the Department of Veterans’ Affairs for the following purposes:
 
-      (a) To carry out the provisions of this section and ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415, 407.425, 407.435, 407.555 and 407.565;
+      (a) To carry out the provisions of this chapter;
 
       (b) To purchase bonds issued for the purposes of such provisions; and
 
-      (c) Except for moneys derived from the sale of bonds or from tax levies, for payment of expenses of the administration of this section and ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415, 407.425, 407.435, 407.555 and 407.565.
+      (c) Except for moneys derived from the sale of bonds or from tax levies, for payment of expenses of the administration of this chapter.
 
-      (4) With the approval of the department, the moneys in the Oregon War Veterans’ Fund not immediately required to provide loans for the acquisition of farms and homes may be invested as provided in ORS 293.701 to 293.857. The earnings from such investments shall be credited to the Oregon War Veterans’ Fund. [Formerly 407.160; 1987 c.652 §10; 1991 c.220 §11; 2005 c.625 §49]
+      (4) With the approval of the department, the moneys in the Oregon War Veterans’ Fund not immediately required to provide loans for the acquisition of farms and homes may be invested as provided in ORS 293.701 to 293.857. The earnings from such investments shall be credited to the Oregon War Veterans’ Fund. [Formerly 407.160; 1987 c.652 §10; 1991 c.220 §11; 2005 c.625 §49; 2019 c.223 §15]
 
  
 
@@ -929,9 +943,9 @@ FINANCES
 
       (f) All moneys received as proceeds from the sale of refunding bonds; and
 
-      (g) All other moneys accruing under ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415, 407.495 and 407.515 not required to be credited to the Oregon War Veterans’ Fund.
+      (g) All other moneys accruing under this chapter not required to be credited to the Oregon War Veterans’ Fund.
 
-      (2) Disbursements from the sinking account shall be made upon submission of duly verified claims that are approved by the Director of Veterans’ Affairs. The Secretary of State may audit the claims in the manner that other claims against the state are audited. The moneys in the sinking account, other than those derived from tax levies and from sales of refunding bonds, are continuously appropriated for payment of expenses of administration of ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415, 407.495 and 407.515 to 407.565. The moneys in the sinking account may be invested as provided in ORS 293.701 to 293.857.
+      (2) Disbursements from the sinking account shall be made upon submission of duly verified claims that are approved by the Director of Veterans’ Affairs. The Secretary of State may audit the claims in the manner that other claims against the state are audited. The moneys in the sinking account, other than those derived from tax levies and from sales of refunding bonds, are continuously appropriated for payment of expenses of administration of this chapter. The moneys in the sinking account may be invested as provided in ORS 293.701 to 293.857.
 
       (3) Amounts in the sinking account shall be held and set aside separately from the amounts in the Oregon War Veterans’ Fund and any other funds or assets of this state, but such account may be accounted for as part of the Oregon War Veterans’ Fund.
 
@@ -939,7 +953,7 @@ FINANCES
 
       (5) Nothing in this section shall be construed so as to impair any covenant or agreement with the holders of such bonds heretofore entered into by the director on behalf of this state with respect to the maintenance of the sinking account as heretofore constituted and any such covenant and agreement shall remain in full force and effect.
 
-      (6) The director may create subaccounts in the sinking account necessary for appropriate administration of the director’s duties including, but not limited to, providing for the issuance, security, payment or administration of bonds or to preserve the federally tax exempt status of bonds issued on a federally tax exempt basis. The director may segregate such subaccounts from other subaccounts used for other purposes including, but not limited to, the issuance, security, payment or administration of bonds or other obligations, whether previously or subsequently issued. [Formerly 407.170; 1987 c.425 §7; 1987 c.652 §13; 1989 c.932 §4; 1991 c.220 §12; 2001 c.98 §4; 2011 c.222 §2]
+      (6) The director may create subaccounts in the sinking account necessary for appropriate administration of the director’s duties including, but not limited to, providing for the issuance, security, payment or administration of bonds or to preserve the federally tax exempt status of bonds issued on a federally tax exempt basis. The director may segregate such subaccounts from other subaccounts used for other purposes including, but not limited to, the issuance, security, payment or administration of bonds or other obligations, whether previously or subsequently issued. [Formerly 407.170; 1987 c.425 §7; 1987 c.652 §13; 1989 c.932 §4; 1991 c.220 §12; 2001 c.98 §4; 2011 c.222 §2; 2019 c.223 §16]
 
  
 
@@ -957,8 +971,6 @@ FINANCES
 
       407.535 [Formerly 407.183; repealed by 1987 c.652 §12]
 
- 
-
       407.540 [Repealed by 1967 c.421 §206]
 
  
@@ -975,7 +987,7 @@ FINANCES
 
  
 
-      407.555 Auditing and payment of claims. Except as provided in ORS 407.415, all claims duly approved by the Department of Veterans’ Affairs, incurred in pursuance of ORS 407.115, 407.125, 407.165, 407.205, 407.275, 407.415, 407.495 and 407.515 to 407.565, shall be paid by warrants drawn upon the State Treasurer by the Oregon Department of Administrative Services upon the appropriate funds for the payment of such claims. [Formerly 407.190; 2005 c.625 §52]
+      407.555 Auditing and payment of claims. Except as provided in ORS 407.415, all claims duly approved by the Department of Veterans’ Affairs, incurred in pursuance of this chapter, shall be paid by warrants drawn upon the State Treasurer by the Oregon Department of Administrative Services upon the appropriate funds for the payment of such claims. [Formerly 407.190; 2005 c.625 §52; 2019 c.223 §17]
 
  
 

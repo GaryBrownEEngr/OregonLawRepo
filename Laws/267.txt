@@ -4,16 +4,6 @@ Chapter 267 — Mass Transit Districts; Transportation Districts
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0004
-
- 
-
- 
-
 
  
 
@@ -43,7 +33,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-267.010     Definitions for ORS 267.010 to 267.390
+267.010     Definitions for ORS 267.010 to 267.394
 
  
 
@@ -63,7 +53,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-(Formation — Procedure Used in Portland and Eugene)
+(Formation :B1EM. Procedure Used in Portland and Eugene)
 
  
 
@@ -83,23 +73,15 @@ MASS TRANSIT DISTRICTS
 
  
 
-(Formation  —  Procedure Used in Salem)
+(Formation :B1EM. Procedure Used in Salem)
 
  
 
-267.107     Resolution to create certain districts; contents
+267.107     Resolution to create certain districts; contents; election; filing
 
  
 
-267.108     Director election and district formation election under ORS 267.107 held at same time; designation of subdistricts
-
- 
-
-267.109     Costs of election under ORS 267.107
-
- 
-
-267.112     Directors for districts formed under ORS 267.107; terms; vacancies; compensation and expenses
+267.108     Appointment of directors
 
  
 
@@ -317,6 +299,10 @@ MASS TRANSIT DISTRICTS
 
  
 
+267.394     Investment of certain funds held by TriMet
+
+ 
+
 267.400     Authority to issue short-term obligations; conditions
 
  
@@ -330,6 +316,14 @@ MASS TRANSIT DISTRICTS
  
 
 267.430     Certain state agencies exempt from employer payroll tax
+
+ 
+
+(TriMet Crash Advisory Committee)
+
+ 
+
+267.480     TriMet Crash Advisory Committee
 
  
 
@@ -457,9 +451,9 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.010 Definitions for ORS 267.010 to 267.390. As used in ORS 267.010 to 267.390, unless the context requires otherwise:
+      267.010 Definitions for ORS 267.010 to 267.394. As used in ORS 267.010 to 267.394, unless the context requires otherwise:
 
-      (1) “District” means a mass transit district established under ORS 267.010 to 267.390.
+      (1) “District” means a mass transit district established under ORS 267.010 to 267.394.
 
       (2) “District board” or “board” means the board of directors of a district.
 
@@ -469,13 +463,13 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.020 Transfer of transit system to metropolitan service district; effect of transfer order. When a metropolitan service district organized under ORS chapter 268 functions in a mass transit district organized under ORS 267.010 to 267.390, the governing body of the metropolitan district may at any time order transfer of the transit system of the transit district to the metropolitan district, whereupon:
+      267.020 Transfer of transit system to metropolitan service district; effect of transfer order. When a metropolitan service district organized under ORS chapter 268 functions in a mass transit district organized under ORS 267.010 to 267.394, the governing body of the metropolitan district may at any time order transfer of the transit system of the transit district to the metropolitan district, whereupon:
 
       (1) The governing body of the transit district shall transfer title to, and possession of, the transit system and of all books, records, files, documents, and other property of the transit district to the metropolitan district.
 
       (2) The metropolitan district shall be responsible for all the liabilities and obligations imposed upon or assumed by the transit district.
 
-      (3) For purposes of mass transit the metropolitan district shall have all the rights, powers, privileges and immunities, and be subject to all the duties and obligations, of a mass transit district under ORS 267.010 to 267.390, insofar as they are consistent with ORS chapter 268.
+      (3) For purposes of mass transit the metropolitan district shall have all the rights, powers, privileges and immunities, and be subject to all the duties and obligations, of a mass transit district under ORS 267.010 to 267.394, insofar as they are consistent with ORS chapter 268.
 
       (4) The boundaries of the metropolitan district shall, for purposes of mass transit, be extended to encompass all the territory of the transit district.
 
@@ -509,7 +503,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.080 Creation of district; district jurisdiction. As provided by ORS 267.010 to 267.390, a mass transit district may be created in any metropolitan statistical area for the purpose of providing a mass transit system for the people of the district. Except as otherwise provided in ORS 267.107 (2)(c), the territorial jurisdiction of the district may include all territory within the geographic boundaries of every Oregon county in that metropolitan statistical area. [Formerly 267.100; 2009 c.11 §27]
+      267.080 Creation of district; district jurisdiction. As provided by ORS 267.010 to 267.394, a mass transit district may be created in any metropolitan statistical area for the purpose of providing a mass transit system for the people of the district. Except as otherwise provided in ORS 267.107 (2)(c), the territorial jurisdiction of the district may include all territory within the geographic boundaries of every Oregon county in that metropolitan statistical area. [Formerly 267.100; 2009 c.11 §27]
 
  
 
@@ -523,25 +517,21 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.090 Directors; appointment; term; vacancies; Governor to fix time of first meeting. Except as provided in ORS 267.112:
-
-      (1) Board members of a mass transit district may not be elected at the time of formation, but if a district is formed, the Governor shall, within 60 days after receiving a certified copy of the formation order, appoint from subdistricts the members of the first board of directors of the district, designate one member as the temporary chairperson and fix the time and place of the organizational meeting.
+      267.090 Directors; appointment; term; vacancies; Governor to fix time of first meeting. (1) Board members of a mass transit district may not be elected at the time of formation, but if a district is formed, the Governor shall, within 60 days after receiving a certified copy of the formation order, appoint from subdistricts the members of the first board of directors of the district, designate one member as the temporary chairperson and fix the time and place of the organizational meeting.
 
       (2) The board of directors of a mass transit district shall consist of seven members. One director shall be appointed from each of seven subdistricts. The Governor shall appoint as one of the directors a person who regularly uses the services provided by a mass transit system. Directors shall reside in the subdistrict from which they are respectively appointed. The subdistricts shall be as nearly equal in population as possible based on the latest federal census and shall be designed to ensure representation of the most populous city, other cities and unincorporated territory in the proposed district proportionate to their respective populations provided that if less than the entire district is taxed by the district, the subdistricts shall be wholly within the taxed area. The district or, if the taxed area is less than the entire district, the taxed area shall be divided into subdistricts initially, and after each succeeding federal census, by the Secretary of State.
 
       (3) The term of office of a director is four years, but each director shall serve at the pleasure of the Governor. Before the expiration of the term of a director, the director’s successor shall be appointed. A director is eligible for reappointment. In case of a vacancy for any cause, the Governor shall appoint a person to serve for the unexpired term. A director whose term has expired shall continue to serve until the appointment of a successor unless discharged by the Governor.
 
-      (4) All appointments of members of the board by the Governor are subject to confirmation by the Senate pursuant to section 4, Article III of the Oregon Constitution. [Formerly 267.110; 2007 c.71 §80]
+      (4) All appointments of members of the board by the Governor are subject to confirmation by the Senate pursuant to Article III, section 4, of the Oregon Constitution. [Formerly 267.110; 2007 c.71 §80; 2018 c.4 §5]
 
  
 
-      267.095 Terms of directors first appointed. Except as provided in ORS 267.112:
-
-      (1) Notwithstanding ORS 267.090, the terms of three of the directors of the first board of a district expire on the first Tuesday in the second January after the date of their appointment.
+      267.095 Terms of directors first appointed. (1) Notwithstanding ORS 267.090, the terms of three of the directors of the first board of a district expire on the first Tuesday in the second January after the date of their appointment.
 
       (2) The terms of four of the directors so appointed expire on the first Tuesday in the fourth January after the date of their appointment.
 
-      (3) The respective terms of the directors of the first board shall be determined by the Governor. [Formerly 267.115]
+      (3) The respective terms of the directors of the first board shall be determined by the Governor. [Formerly 267.115; 2018 c.4 §6]
 
  
 
@@ -557,11 +547,11 @@ MASS TRANSIT DISTRICTS
 
  
 
-(Formation  —  Procedure Used in Salem)
+(Formation :B1EM. Procedure Used in Salem)
 
  
 
-      267.107 Resolution to create certain districts; contents. Notwithstanding ORS 267.085:
+      267.107 Resolution to create certain districts; contents; election; filing. Notwithstanding ORS 267.085:
 
       (1) The governing body of the most populous city in a metropolitan statistical area may by resolution propose creation of a mass transit district if the governing body finds that area-wide mass transit needs cannot be met by local transit operation.
 
@@ -575,25 +565,21 @@ MASS TRANSIT DISTRICTS
 
       (d) If approved, be addressed to and filed with the governing body of the county in which the proposed district is principally situated.
 
-      (3) Upon receipt of the resolution under subsection (2) of this section, the county governing body shall commence district formation proceedings as provided in ORS 198.705 to 198.955 and 267.108. [1977 c.347 §2; 1979 c.585 §1; 1999 c.454 §3; 2009 c.11 §30]
+      (3) Upon receipt of the resolution under subsection (2) of this section, the county governing body shall commence district formation proceedings as provided in ORS 198.705 to 198.955.
+
+      (4) The county governing body shall order an election within the proposed district for approval or disapproval by the electors voting on the question of formation of a district under this section, notwithstanding the provisions of ORS 198.810 (3).
+
+      (5) A certified copy of an order forming a mass transit district shall be filed with the Governor. [1977 c.347 §2; 1979 c.585 §1; 1999 c.454 §3; 2009 c.11 §30; 2018 c.4 §1]
 
  
 
-      267.108 Director election and district formation election under ORS 267.107 held at same time; designation of subdistricts. (1) Notwithstanding the provisions of ORS 198.810 (3), the county governing body shall order an election within the proposed district for approval or disapproval by the electors voting on the question of formation of a district under ORS 267.107 and for election of seven district directors.
+      267.108 Appointment of directors. (1) For a mass transit district formed under ORS 267.107, the Governor shall appoint members of the board of directors in accordance with ORS 267.090 and 267.095.
 
-      (2) In addition to the requirements of ORS 198.815 (2), the order calling an election for creation of a district initiated under ORS 267.107 shall describe the boundaries of the seven subdistricts of the proposed district from each of which a director is to be elected. The subdistricts shall be as nearly equal in population as possible based on the latest federal decennial census, shall, where practicable, follow election precinct boundaries and shall together encompass the entire area of the proposed district. [1979 c.585 §5; 1985 c.678 §4; 2005 c.747 §5]
-
- 
-
-      267.109 Costs of election under ORS 267.107. The expenses incurred for the election held under ORS 267.080, 267.107, 267.112 and this section shall be paid by:
-
-      (1) The district, if the resolution is approved by the people.
-
-      (2) Each county participating in the election in the proportion of the number of precincts in the county voting on the resolution to the total number of precincts voting on the resolution, if the resolution is rejected by the people. [1977 c.347 §5]
+      (2) Before making an appointment under this section, the Governor shall solicit recommendations of qualified individuals for the position from one or more local business and civic groups. [1979 c.585 §5; 1985 c.678 §4; 2005 c.747 §5; 2018 c.4 §2]
 
  
 
-      Note: 267.109 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 267 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      267.109 [1977 c.347 §5; repealed by 2018 c.4 §4]
 
  
 
@@ -601,15 +587,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.112 Directors for districts formed under ORS 267.107; terms; vacancies; compensation and expenses. (1) If formation of a district is initiated by resolution adopted and filed in accordance with ORS 267.107, upon the submitting of a formation order by the county governing body to the proposed district electors, one district director shall be elected from each of the seven subdistricts described in the order calling an election for district creation. A director shall reside in the subdistrict from which the director is nominated and elected.
-
-      (2) The board of directors of the district shall consist of the seven directors elected from subdistricts under subsection (1) of this section.
-
-      (3) After the initial formation of a district, the Secretary of State, after each decennial federal census, shall modify the boundaries of the subdistricts so that the subdistricts remain as nearly equal in population as possible based on the latest federal census.
-
-      (4) The term of office of a director shall be four years, provided, however, that three of the first elected directors shall initially have a term of office expiring June 30 of the next odd-numbered year following district formation and four of the first elected directors shall initially have a term of office expiring June 30 of the next odd-numbered year not less than two years following district formation. The first elected directors of the district, upon taking office, shall by lot, supervised by the board, determine which three directors shall have the shorter initial terms and which four shall have the longer initial terms. When a vacancy occurs in the office of a director, the remaining members of the board shall appoint a resident of the affected subdistrict to serve until June 30 of the next odd-numbered year, in which year a director shall be elected to serve the remainder of the unexpired term. A director whose term has expired shall continue to serve until the election of a successor.
-
-      (5) Directors shall not be entitled to compensation for their services but shall be entitled to reimbursement for actual and necessary expenses incurred or paid in the performance of their duties as members of the board. [1975 c.632 §2; 1977 c.347 §4; 1977 c.728 §2a; 1979 c.585 §2; 1985 c.678 §5]
+      267.112 [1975 c.632 §2; 1977 c.347 §4; 1977 c.728 §2a; 1979 c.585 §2; 1985 c.678 §5; repealed by 2018 c.4 §4]
 
  
 
@@ -653,7 +631,7 @@ MASS TRANSIT DISTRICTS
 
       (3) Enforce all ordinances adopted by the board.
 
-      (4) Administer the personnel system adopted by the board and, except for officers appointed by the board, appoint, discipline or remove all officers and employees, subject to ORS 267.010 to 267.390 and the rules of the board.
+      (4) Administer the personnel system adopted by the board and, except for officers appointed by the board, appoint, discipline or remove all officers and employees, subject to ORS 267.010 to 267.394 and the rules of the board.
 
       (5) Prepare and submit to the board within 30 days after the end of each fiscal year a complete report of the finances and administrative activities of the district for that preceding fiscal year.
 
@@ -795,7 +773,7 @@ MASS TRANSIT DISTRICTS
 
       (10) Improve, construct and maintain bridges over navigable streams.
 
-      (11) Do such other acts or things as may be necessary or convenient for the proper exercise of the powers granted to a district by ORS 267.010 to 267.390. [1969 c.643 §8; 1973 c.116 §3; 1975 c.170 §1; 1977 c.550 §1; 1979 c.344 §1; 1979 c.877 §2; 1987 c.689 §1; 2003 c.802 §92; 2007 c.531 §16]
+      (11) Do such other acts or things as may be necessary or convenient for the proper exercise of the powers granted to a district by ORS 267.010 to 267.394. [1969 c.643 §8; 1973 c.116 §3; 1975 c.170 §1; 1977 c.550 §1; 1979 c.344 §1; 1979 c.877 §2; 1987 c.689 §1; 2003 c.802 §92; 2007 c.531 §16]
 
  
 
@@ -903,7 +881,7 @@ MASS TRANSIT DISTRICTS
 
       267.237 Criminal records check; authority of district to require fingerprints; fitness determinations; rules regarding dissemination. (1) As used in this section:
 
-      (a) “District” means a mass transit district organized under ORS 267.010 to 267.390 or a transportation district organized under ORS 267.510 to 267.650.
+      (a) “District” means a mass transit district organized under ORS 267.010 to 267.394 or a transportation district organized under ORS 267.510 to 267.650.
 
       (b) “Qualified entity” means an individual or business or organization, whether public, private, for-profit, nonprofit or voluntary, that, under contract with a district, provides individuals to operate motor vehicles for the transportation of passengers in the public transportation system of the district.
 
@@ -1119,7 +1097,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.300 Authority of district to finance system. (1) Subject to restrictions in the Oregon Constitution, a district board may finance construction, acquisition, purchase, lease, operation and maintenance of a mass transit system and related facilities for the purposes authorized under ORS 267.010 to 267.390 by:
+      267.300 Authority of district to finance system. (1) Subject to restrictions in the Oregon Constitution, a district board may finance construction, acquisition, purchase, lease, operation and maintenance of a mass transit system and related facilities for the purposes authorized under ORS 267.010 to 267.394 by:
 
       (a) Levy of ad valorem taxes under ORS 267.305.
 
@@ -1157,7 +1135,11 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.305 Levy, collection, enforcement of ad valorem taxes. (1) A district may assess, levy and collect taxes each year on the assessed value of all taxable property within the limits of the district or the service area of the district. The proceeds of the tax shall be applied in carrying out the purposes of ORS 267.010 to 267.390.
+      Note: 267.302 is repealed January 1, 2026. See sections 4 and 7, chapter 4, Oregon Laws 2018.
+
+ 
+
+      267.305 Levy, collection, enforcement of ad valorem taxes. (1) A district may assess, levy and collect taxes each year on the assessed value of all taxable property within the limits of the district or the service area of the district. The proceeds of the tax shall be applied in carrying out the purposes of ORS 267.010 to 267.394.
 
       (2) The district may annually also assess, levy and collect a tax without limitation upon all such property in an amount sufficient to pay the yearly interest on bonds theretofore issued by the district and then outstanding, together with any portion of the principal of the bonds maturing within the year. The tax shall be applied only in payment of interest and principal of bonds issued by the district, but the district may apply any funds it may have toward payment of principal and interest of bonds.
 
@@ -1173,7 +1155,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.320 User charges, fees and tolls; persons over 65. (1) Except as otherwise provided in this section, to carry out the powers granted by ORS 267.010 to 267.390, the district board may by ordinance impose and may collect user charges, fees and tolls from those who are served by or use the transit system and other facilities and services of the district.
+      267.320 User charges, fees and tolls; persons over 65. (1) Except as otherwise provided in this section, to carry out the powers granted by ORS 267.010 to 267.394, the district board may by ordinance impose and may collect user charges, fees and tolls from those who are served by or use the transit system and other facilities and services of the district.
 
       (2) The district shall not charge a person over 65 years of age a fee of more than 50 percent of the regular fee for transportation provided by the district. The maximum fee established by this subsection does not apply on any weekday, Monday through Friday, between the hours of 5 a.m. and 9 a.m. or between the hours of 3 p.m. and 7 p.m. [1969 c.643 §26; 1973 c.474 §1; 1975 c.124 §1; 1975 c.169 §1; 1981 c.634 §1; 2003 c.14 §131]
 
@@ -1183,7 +1165,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.330 General obligation bonds; conditions; interest rate; payment of principal and interest; pledge of net revenue. (1) To carry out any of the powers granted by ORS 267.010 to 267.390, a district, when authorized at any properly called election held for the purpose, may borrow money, and sell and dispose of general obligation bonds. Outstanding bonds shall never exceed in the aggregate two and one-half percent of the real market value of all taxable property within the district.
+      267.330 General obligation bonds; conditions; interest rate; payment of principal and interest; pledge of net revenue. (1) To carry out any of the powers granted by ORS 267.010 to 267.394, a district, when authorized at any properly called election held for the purpose, may borrow money, and sell and dispose of general obligation bonds. Outstanding bonds shall never exceed in the aggregate two and one-half percent of the real market value of all taxable property within the district.
 
       (2) The bonds shall be issued from time to time by the district board in behalf of the district as authorized by the electors thereof. The bonds shall mature serially within not to exceed 30 years from issue date. However, for an indebtedness to the federal government or this state, the district may issue one or more bonds of the denominations agreed upon. Bonds shall bear interest at a rate, payable semiannually, as the board shall determine. The bonds shall be so conditioned that the district shall promise and agree therein to pay to the bearer at a place named therein, the principal sum, with interest at the rate named therein, payable semiannually, in accordance with the tenor and terms of the interest coupons attached.
 
@@ -1221,11 +1203,11 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.360 Business, trade, occupational and professional licenses and fees; exceptions. To carry out any of the powers granted by ORS 267.010 to 267.390, a district may by ordinance raise revenue by licensing and imposing a fee on any business, trade, occupation and profession carried on or practiced in the district. This section does not empower a district to require licenses of or impose fees on companies that are licensed by the state under ORS 731.358 or 731.362 to transact insurance, as defined in ORS 731.146, or to require licenses of or impose fees upon the representatives of such companies who are not residents of the district. [1969 c.643 §32]
+      267.360 Business, trade, occupational and professional licenses and fees; exceptions. To carry out any of the powers granted by ORS 267.010 to 267.394, a district may by ordinance raise revenue by licensing and imposing a fee on any business, trade, occupation and profession carried on or practiced in the district. This section does not empower a district to require licenses of or impose fees on companies that are licensed by the state under ORS 731.358 or 731.362 to transact insurance, as defined in ORS 731.146, or to require licenses of or impose fees upon the representatives of such companies who are not residents of the district. [1969 c.643 §32]
 
  
 
-      267.370 District taxing authority. (1) To carry out any of the powers granted by ORS 267.010 to 267.390, a district may by ordinance impose a tax:
+      267.370 District taxing authority. (1) To carry out any of the powers granted by ORS 267.010 to 267.394, a district may by ordinance impose a tax:
 
       (a) Upon the entire taxable income of every resident of the district subject to tax under ORS chapter 316 and upon the taxable income of every nonresident that is derived from sources within the district which income is subject to tax under ORS chapter 316; and
 
@@ -1303,7 +1285,7 @@ MASS TRANSIT DISTRICTS
 
  
 
-      267.385 Employer payroll tax; collection; enforcement. (1) To carry out the powers granted by ORS 267.010 to 267.390, a district may by ordinance impose an excise tax on every employer equal to not more than eight-tenths of one percent of the wages paid with respect to the employment of individuals. For the same purposes, a district may by ordinance impose a tax on each individual equal to not more than eight-tenths of one percent of the individual’s net earnings from self-employment.
+      267.385 Employer payroll tax; collection; enforcement. (1) To carry out the powers granted by ORS 267.010 to 267.394, a district may by ordinance impose an excise tax on every employer equal to not more than eight-tenths of one percent of the wages paid with respect to the employment of individuals. For the same purposes, a district may by ordinance impose a tax on each individual equal to not more than eight-tenths of one percent of the individual’s net earnings from self-employment.
 
       (2) No employer shall make a deduction from the wages of an employee to pay all or any portion of a tax imposed under this section.
 
@@ -1331,9 +1313,13 @@ MASS TRANSIT DISTRICTS
 
       267.390 Acceptance of funds from United States. The district may:
 
-      (1) Accept, without limitation by any other provision of ORS 267.010 to 267.390 requiring approval of indebtedness, any contributions or loans from the United States for the purpose of carrying out any provision of ORS 267.010 to 267.390; and
+      (1) Accept, without limitation by any other provision of ORS 267.010 to 267.394 requiring approval of indebtedness, any contributions or loans from the United States for the purpose of carrying out any provision of ORS 267.010 to 267.394; and
 
       (2) Do anything that the board considers necessary in order to avail itself of aid, assistance or cooperation under this section under any federal law. [1969 c.643 §37]
+
+ 
+
+      267.394 Investment of certain funds held by TriMet. Notwithstanding any provision of ORS chapter 294 or ORS 295.001 to 295.108, funds held in trust by TriMet, as defined in ORS 197A.500, for the purpose of paying post-employment benefits other than pensions, and any funds necessary to pay the reasonable expenses of administering the trust, are not surplus funds for purposes of ORS 294.004 and may be invested in accordance with the standard of judgment and care for the investment of investment funds as set forth in ORS 293.726. [2019 c.16 §2]
 
  
 
@@ -1428,6 +1414,52 @@ ______________________________________________________________________________
  
 
       267.430 Certain state agencies exempt from employer payroll tax. ORS 267.300, 267.380, 267.410 to 267.430 do not apply to entities described in ORS 267.380 (1)(a)(C) that made, and that continue to make, payments under the provisions of ORS 291.405 and 291.407 equivalent to the rate in effect on January 1, 1989. If a mass transit district or transportation district does not collect a tax under ORS 267.300 (1)(g) or 267.615 (1)(g), ORS 267.300, 267.380 and 267.410 to 267.430 do not affect payment under ORS 291.405 and 291.407. [1989 c.869 §6]
+
+ 
+
+(TriMet Crash Advisory Committee)
+
+ 
+
+      267.480 TriMet Crash Advisory Committee. (1) The TriMet Crash Advisory Committee is established. The committee consists of seven members appointed by TriMet’s general manager. When selecting committee members, the general manager shall seek members with a wide variety of backgrounds, including expertise or experience in transportation safety. Members must include:
+
+      (a) One member who is an expert in transportation safety engineering, design or planning, including the efforts by the City of Portland to eliminate transportation-related deaths and serious injuries in Portland.
+
+      (b) One member who is an advocate for public transportation.
+
+      (c) One member who is an advocate for pedestrians or bicyclists.
+
+      (d) One member who is an advocate for transportation safety.
+
+      (e) One member who is an advocate for elderly persons or persons with disabilities.
+
+      (f) One member who is a state or local government official with responsibilities for transportation infrastructure or safety.
+
+      (g) One member who is on TriMet’s board of directors.
+
+      (2) The term of office of each member of the committee is four years. Before the expiration of the term of a member, the general manager shall appoint a successor. A member is eligible for reappointment. In case of a vacancy for any cause, the general manager shall appoint a person to fill the office for the unexpired term.
+
+      (3) A majority of the members of the committee constitutes a quorum for the transaction of business.
+
+      (4) Official action by the committee requires the approval of a majority of the members of the committee.
+
+      (5) The committee shall elect one of its members to serve as chairperson.
+
+      (6) The committee shall review crashes involving TriMet vehicles that result in injury or fatality. The committee may decline to review certain crashes or categories of crashes.
+
+      (7) The committee shall:
+
+      (a) Meet biannually; and
+
+      (b) Report to TriMet’s board of directors as needed, but no less than once per year.
+
+      (8) The general manager may use a currently existing TriMet committee for the purpose of complying with this section.
+
+      (9) As used in this section, “TriMet” means the Tri-County Metropolitan Transportation District of Oregon, a mass transit district created under ORS chapter 267. [2019 c.632 §1]
+
+ 
+
+      Note: 267.480 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 267 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1638,6 +1670,8 @@ PENALTIES
  
 
       267.990 Penalties. Any person violating a police ordinance of a mass transit district commits a Class A misdemeanor. [1969 c.643 §18(1); 2011 c.597 §174]
+
+ 
 
 _______________
 

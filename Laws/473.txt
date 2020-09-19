@@ -41,6 +41,10 @@ LIQUOR; DRUGS
 
  
 
+473.046     Exemption for grapes used for wine produced in certain viticultural areas
+
+ 
+
 473.047     Marketing activity tax credit; rules
 
  
@@ -57,7 +61,7 @@ LIQUOR; DRUGS
 
  
 
-473.070     Statements by manufacturers as to quantities produced; circumstances when annual reporting allowed
+473.070     Statements by manufacturers as to quantities produced; circumstances when annual reporting allowed; electronic methods; rules
 
  
 
@@ -171,7 +175,7 @@ LIQUOR; DRUGS
 
       (5) In the case of vinifera or hybrid grape products harvested in this state, $12.50 of such tax shall be levied and assessed against the person selling or providing such grape products to the winery. If the purchasing winery is licensed under ORS chapter 471, that winery shall deduct the tax levied under this subsection from the price paid to the seller. If the purchasing winery is not licensed under ORS chapter 471, the seller shall report all sales on forms provided by the Oregon Liquor Control Commission and pay $12.50 per ton as a tax directly to the commission.
 
-      (6) Taxes paid by sellers under subsection (5) of this section shall be collected by the Oregon Liquor Control Commission on behalf of the Oregon Wine Board. The commission may retain an amount sufficient to cover the cost of collecting the taxes paid under subsection (5) of this section and shall transfer the remainder of those taxes to the board for deposit as provided in ORS 576.775. Failure to pay a tax imposed under subsection (5) of this section subjects the violator to the penalty provided in ORS 473.992.
+      (6) Taxes paid by sellers under subsection (5) of this section shall be collected by the Oregon Liquor Control Commission on behalf of the Oregon Wine Board. The commission may retain an amount sufficient to cover the cost of collecting the taxes paid under subsection (5) of this section and shall transfer the remainder of those taxes to the board for deposit as provided in ORS 576.877. Failure to pay a tax imposed under subsection (5) of this section subjects the violator to the penalty provided in ORS 473.992.
 
       (7) Except for the tax specified in subsection (4) of this section the taxes specified under this section shall be levied and assessed to the licensed winery at the time of purchase of the product by the winery or of importation of the product, whichever is later. The tax specified in subsection (4) of this section shall be levied and assessed to the licensed winery at the time the wine is made.
 
@@ -179,7 +183,53 @@ LIQUOR; DRUGS
 
  
 
+      Note: The amendments to 473.045 by section 1, chapter 542, Oregon Laws 2019, become operative July 1, 2021. See section 2, chapter 542, Oregon Laws 2019. The text that is operative on and after July 1, 2021, is set forth for the user’s convenience.
+
+      473.045. (1) A tax is hereby imposed upon the sale or use of all agricultural products used in a winery for making wine.
+
+      (2) The amount of the tax shall be $25 per ton of grapes of the vinifera varieties, whether true or hybrid.
+
+      (3) An equivalent tax is imposed upon the sale or use of vinifera or hybrid grape products imported for use in a winery licensed under ORS chapter 471 for making wine. Such tax shall be $25 per ton of grapes used to produce the imported grape product. The tax shall be determined on the basis of one ton of grapes for each 150 gallons of wine made from such vinifera or hybrid grape products.
+
+      (4) A tax on the sale or use of products that are not subject to subsection (2) or (3) of this section that are used to make wine in this state shall be imposed at a rate of $.021 per gallon of wine made from those products.
+
+      (5)(a) In the case of vinifera or hybrid grape products harvested in this state, $12.50 per ton of the tax shall be levied and assessed against the person selling or providing the grape products to the winery and, except as provided in ORS 473.046, $12.50 per ton shall be levied and assessed against the winery purchasing the grape products.
+
+      (b) If the purchasing winery is licensed under ORS chapter 471 or holds a wine self-distribution permit, direct shipper permit or certificate of approval, the purchasing winery shall pay the $25 per ton tax and deduct $12.50 per ton from the price paid to the person selling or providing the grape products to the winery.
+
+      (c) If the purchasing winery is not licensed under ORS chapter 471 and does not hold a wine self-distribution permit, direct shipper permit or certificate of approval, the person selling or providing the grape products to the winery shall report the sale on forms provided by the Oregon Liquor Control Commission and pay $12.50 per ton as a tax directly to the commission.
+
+      (6) Moneys that a winery deducts for taxes described in subsection (5) of this section and forwards to the commission shall be collected by the commission on behalf of the Oregon Wine Board. The commission may retain an amount sufficient to cover the cost of collecting the taxes paid under subsection (5) of this section and shall transfer the remainder of those taxes to the board for deposit as provided in ORS 576.877. Failure to pay a tax imposed under subsection (5) of this section subjects the violator to the penalty provided in ORS 473.992.
+
+      (7) If a winery deducts and pays the tax imposed on an item under this section, resale of the item in bulk to an out-of-state buyer does not subject the out-of-state buyer to the imposition of tax under this section.
+
+      (8) Except for the tax specified in subsection (4) of this section the taxes specified under this section shall be levied and assessed to the winery at the time of purchase of the product by the winery or of importation of the product, whichever is later. The tax specified in subsection (4) of this section shall be levied and assessed to the licensed winery at the time the wine is made.
+
+      (9) The taxes imposed by this section shall be paid to and collected by the commission subject to the same powers as taxes imposed and collected under ORS chapter 473. The tax obligation for a calendar year shall be paid in two installments. Half shall be due on December 31 of the current calendar year. The remaining half shall be due the following June 30.
+
+      (10) The commission may adopt rules for carrying out this section.
+
+ 
+
       Note: 473.045 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 473 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      473.046 Exemption for grapes used for wine produced in certain viticultural areas. A purchase of vinifera or hybrid grapes harvested in this state is exempt from the tax under ORS 473.045 (5) levied and assessed against wineries purchasing grape products, if the grapes are used for wine that:
+
+      (1) Is produced within a federally approved American viticultural area located partially within this state; and
+
+      (2) Does not use Oregon designations or use an American viticultural area located wholly within Oregon on its label or packaging or in its advertising or marketing. [2019 c.542 §3]
+
+ 
+
+      Note: Section 4, chapter 542, Oregon Laws 2019, provides:
+
+      Sec. 4. Section 3 of this 2019 Act [473.046] applies to taxes on grape purchases made on or after July 1, 2021. [2019 c.542 §4]
+
+ 
+
+      Note: 473.046 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 473 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -261,13 +311,7 @@ LIQUOR; DRUGS
 
  
 
-      473.070 Statements by manufacturers as to quantities produced; circumstances when annual reporting allowed. (1) On or before the 20th day of each month, every manufacturer shall file with the Oregon Liquor Control Commission a statement of the quantity of wine, cider and malt beverages produced, purchased or received by the manufacturer during the preceding calendar month.
-
-      (2) Notwithstanding subsection (1) of this section, a manufacturer of wine that was not liable for a privilege tax under this chapter in the prior calendar year and that does not expect to be liable for a privilege tax under this chapter in the current calendar year, or a manufacturer of wine that is newly established during the current calendar year and that does not expect to be liable for a privilege tax under this chapter in the current calendar year, may file a single annual statement of the quantity of wine produced, purchased or received by the manufacturer during the current calendar year. The annual statement shall be filed with the commission on or before January 20 of the following year. [Amended by 1967 c.52 §1; 1981 c.199 §6; 1995 c.301 §26; 1997 c.348 §7; 2005 c.177 §1]
-
- 
-
-      Note: The amendments to 473.070 by section 1, chapter 382, Oregon Laws 2017, apply to statements or privilege taxes due on or after July 1, 2019. See section 2, chapter 382, Oregon Laws 2017. The text that applies to statements or privilege taxes on and after July 1, 2019, is set forth for the user’s convenience. 473.070. (1) On or before the 20th day of each month, every manufacturer shall file with the Oregon Liquor Control Commission a statement of the quantity of wine, cider and malt beverages produced, purchased or received by the manufacturer during the preceding calendar month.
+      473.070 Statements by manufacturers as to quantities produced; circumstances when annual reporting allowed; electronic methods; rules. (1) On or before the 20th day of each month, every manufacturer shall file with the Oregon Liquor Control Commission a statement of the quantity of wine, cider and malt beverages produced, purchased or received by the manufacturer during the preceding calendar month.
 
       (2) Notwithstanding subsection (1) of this section, a manufacturer of wine that was not liable for a privilege tax under this chapter in the prior calendar year and that does not expect to be liable for a privilege tax under this chapter in the current calendar year, or a manufacturer of wine that is newly established during the current calendar year and that does not expect to be liable for a privilege tax under this chapter in the current calendar year, may file a single annual statement of the quantity of wine produced, purchased or received by the manufacturer during the current calendar year. The annual statement shall be filed with the commission on or before January 20 of the following year.
 
@@ -275,7 +319,7 @@ LIQUOR; DRUGS
 
       (a) File statements required under this section; and
 
-      (b) Pay privilege taxes imposed by ORS 473.030 and 473.035.
+      (b) Pay privilege taxes imposed by ORS 473.030 and 473.035. [Amended by 1967 c.52 §1; 1981 c.199 §6; 1995 c.301 §26; 1997 c.348 §7; 2005 c.177 §1; 2017 c.382 §1]
 
  
 
@@ -378,8 +422,6 @@ LIQUOR; DRUGS
  
 
       Note: 473.992 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 473 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
-
- 
 
 _______________
 

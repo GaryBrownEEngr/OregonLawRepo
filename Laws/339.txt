@@ -4,20 +4,6 @@ Chapter 339 — School Attendance; Admission; Discipline; Safety
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0039; 2018 Session Laws 0072; 2018 Session Laws 0076
-
- 
-
- 
-
 
  
 
@@ -87,10 +73,6 @@ COMPULSORY SCHOOL ATTENDANCE
 
  
 
-(Temporary provisions relating to pilot programs to decrease rates of school absenteeism by using trauma-informed approaches are compiled as notes following ORS 339.095)
-
- 
-
 ADMISSION OF STUDENTS
 
  
@@ -131,15 +113,15 @@ RESIDENCY
 
  
 
-(Temporary provisions relating to nonresident student attending school as resident are compiled as notes following ORS 339.133)
-
- 
-
-339.134     Residency of child with disability
+339.134     Residency of child voluntarily placed outside child’s home and living in substitute care program
 
  
 
 339.137     Residency of student at youth care center
+
+ 
+
+339.139     Residency of military children; rules
 
  
 
@@ -175,11 +157,7 @@ STUDENT CONDUCT AND DISCIPLINE
 
  
 
-339.254     Suspension of student driving privileges; policy content
-
- 
-
-339.257     Documentation of enrollment status for students applying for driving privileges; notification of student withdrawal from school to Department of Transportation
+339.256     Prohibition on restriction of access to specialized learning areas or certain common areas
 
  
 
@@ -199,11 +177,11 @@ RESTRAINT AND SECLUSION
 
  
 
-339.288     Prohibitions on use of certain restraints; limitations on use of physical restraint and seclusion
+339.288     Prohibitions on use of certain restraints
 
  
 
-339.291     Use of physical restraint or seclusion
+339.291     Use of restraint or seclusion
 
  
 
@@ -307,6 +285,18 @@ SCHOOL SAFETY
 
  
 
+(Student Safety and Suicide Prevention)
+
+ 
+
+339.341     Statewide School Safety and Prevention System; rules
+
+ 
+
+339.343     Comprehensive district plans on student suicide prevention; rules
+
+ 
+
 (Automated External Defibrillator)
 
  
@@ -353,8 +343,6 @@ SCHOOL SAFETY
 
 339.368     Posters regarding domestic violence; rules
 
- 
-
 (Abuse and Sexual Conduct)
 
  
@@ -363,23 +351,31 @@ SCHOOL SAFETY
 
  
 
-339.372     Policies of school boards on reporting of abuse and sexual conduct
+339.372     Policies of school boards on reporting of suspected abuse and suspected sexual conduct
 
  
 
-339.374     Required background checks by education provider of applicant for position with education provider
+339.374     Required background checks by education providers
 
  
 
-339.378     Disclosure of information and records by education provider; confidentiality
+339.378     Disclosure of information and records by education provider; confidentiality; limitations on assisting another in obtaining new job; discipline
 
  
 
-339.384     Prohibitions and allowances related to hiring of applicant
+339.384     Prohibitions and allowances related to hiring of applicant to be school employee
 
  
 
 339.388     Report of abuse or sexual conduct; investigation; appeal process; disclosure of records
+
+ 
+
+339.390     Investigations by Teacher Standards and Practices Commission of licensed persons; timeline; findings; rules
+
+ 
+
+339.391     Investigations by Department of Education of nonlicensed persons; timeline; findings; rules
 
  
 
@@ -391,7 +387,7 @@ SCHOOL SAFETY
 
  
 
-339.400     Training on prevention and identification
+339.400     Training
 
  
 
@@ -512,6 +508,10 @@ MISCELLANEOUS
  
 
 339.890     Radio frequency identification device policy for students; rules
+
+ 
+
+(Temporary provisions relating to exposure to microwave radiation in schools are compiled as notes following ORS 339.890)
 
  
 
@@ -649,9 +649,29 @@ COMPULSORY SCHOOL ATTENDANCE
 
       339.065 Estimates of attendance; irregular attendance; excused absences. (1) In estimating regular attendance for purposes of the compulsory attendance provisions of ORS 339.005 to 339.030, 339.040 to 339.125, 339.137, 339.420 and 339.990, the principal or teacher shall consider all unexcused absences. Eight unexcused one-half day absences in any four-week period during which the school is in session shall be considered irregular attendance.
 
-      (2) An absence may be excused by a principal or teacher if the absence is caused by the pupil’s sickness, by the sickness of some member of the pupil’s family or by an emergency. A principal or teacher may also excuse absences for other reasons where satisfactory arrangements are made in advance of the absence.
+      (2)(a) An absence may be excused by a principal or teacher if the absence is caused by:
 
-      (3) Any pupil may be excused from attendance by the district school board for a period not to exceed five days in a term of three months or not to exceed 10 days in any term of at least six months. Any such excuse shall be in writing directed to the principal of the school which the pupil attends. [1965 c.100 §281; 1973 c.728 §4; 1987 c.158 §57; 1993 c.45 §114]
+      (A) The pupil’s sickness, including the mental or behavioral health of the pupil;
+
+      (B) The sickness of some member of the pupil’s family; or
+
+      (C) An emergency.
+
+      (b) In addition to the reasons identified in paragraph (a) of this subsection, a principal or teacher:
+
+      (A) Shall excuse not more than seven days of absences during the school year if the pupil is a dependent of a member of the Armed Forces of the United States who is on active duty or who is called into active duty. For the purpose of this subparagraph, “Armed Forces of the United States” includes:
+
+      (i) The Army, Navy, Air Force, Marine Corps and Coast Guard of the United States;
+
+      (ii) Reserve components of the Army, Navy, Air Force, Marine Corps and Coast Guard of the United States; and
+
+      (iii) The National Guard of the United States and the Oregon National Guard.
+
+      (B) May excuse absences for other reasons when satisfactory arrangements are made in advance of the absence.
+
+      (3)(a) Any pupil may be excused from attendance by the district school board for a period not to exceed five days in a term of three months or not to exceed 10 days in any term of at least six months. Any such excuse shall be in writing directed to the principal of the school that the pupil attends.
+
+      (b) When calculating the number of excused absences under this subsection, any absences excused under subsection (2)(b)(A) of this section shall not be counted. [1965 c.100 §281; 1973 c.728 §4; 1987 c.158 §57; 1993 c.45 §114; 2019 c.207 §1; 2019 c.393 §1]
 
  
 
@@ -745,84 +765,6 @@ COMPULSORY SCHOOL ATTENDANCE
 
  
 
-(Pilot programs to decrease rates of school absenteeism by using trauma-informed approaches)
-
- 
-
-      Note: Sections 5 and 6, chapter 68, Oregon Laws 2016, provide:
-
-      Sec. 5. (1) As used in this section, “trauma-informed approach” means an approach that recognizes the signs and symptoms of trauma in students, families and staff and responds by fully integrating knowledge about trauma into policies, procedures and practices for the purposes of resisting the reoccurrence of trauma and promoting resiliency.
-
-      (2) The Chief Education Office, in coordination with the Oregon Health Authority and the Department of Education, shall distribute moneys as provided in this section to school districts and education service districts for the purpose of decreasing rates of school absenteeism.
-
-      (3)(a) A school district or an education service district may apply to receive moneys under this section:
-
-      (A) By submitting an application that includes a proposal consistent with subsection (4) of this section; and
-
-      (B) If the district has at least one school in the district with:
-
-      (i) A school-based health center; or
-
-      (ii) A school-based system for providing behavioral health services and care coordination that may include a school nurse, a school counselor, a school psychologist, a clinical psychologist or a school social worker.
-
-      (b) A school district or an education service district may submit an application jointly with one or more community partners that will participate with the district in the pilot program described in subsection (4) of this section.
-
-      (4) The office shall distribute moneys to an applicant based on the applicant’s proposal to design and implement a pilot program to decrease rates of school absenteeism by using trauma-informed approaches to education, health services and intervention strategies that are based in schools and take advantage of community resources. The proposal must include a plan that:
-
-      (a) Coordinates the services provided by:
-
-      (A) The school;
-
-      (B) The school-based health center or the administrator of the school-based system described in subsection (3)(a)(B)(ii) of this section; and
-
-      (C) Coordinated care organizations, public health entities, nonprofit youth service providers, community-based organizations, social justice groups and similar groups that are located in the community;
-
-      (b) Requires professional development and support for school staff, including educators, school district or education service district professionals, counselors, nurses, classified staff and other staff of the school district or education service district, to create a culture in the district and community that is informed about how to understand, recognize and respond to trauma;
-
-      (c) Provides for at least one trauma specialist who:
-
-      (A) Is permanently assigned at the school-based health center or at the location where the school-based system described in subsection (3)(a)(B)(ii) of this section is provided; and
-
-      (B) Oversees the implementation of the plan, including coordinating the services described in paragraph (a) of this subsection and coordinating the professional development and support described in paragraph (b) of this subsection;
-
-      (d) Indicates how services coordinated under paragraph (a) of this subsection are provided based on a trauma-informed approach and with an understanding, recognition and responsiveness to the effects of trauma on education, absenteeism and school completion;
-
-      (e) Uses evidence-based and evidence-informed approaches, culturally specific approaches when appropriate and national models that are tailored to the community to ensure that data are collected and the effectiveness of the pilot program is determined;
-
-      (f) Provides matching community funding, or resources that are the monetary equivalent of matching funding, in a ratio determined by the office by rule; and
-
-      (g) Pursues additional funding opportunities, including funding under the federal Every Student Succeeds Act (P.L. 114-95).
-
-      (5) The office shall prescribe the timelines by which an applicant may submit an application for moneys under this section and the form of the application.
-
-      (6) The office shall evaluate and rank applications based on the proposals submitted in the applications.
-
-      (7) The office shall distribute moneys to applicants based on:
-
-      (a) The evaluations and rankings described in subsection (6) of this section;
-
-      (b) The moneys appropriated to the office for the purpose of this section;
-
-      (c) The amount of matching community funding available to the applicant; and
-
-      (d) Any available federal grants.
-
-      (8)(a) The office, in collaboration with the Oregon Health Authority and the Department of Education, shall provide coordination among school districts and education service districts receiving moneys under this section.
-
-      (b) The office may coordinate with a statewide nonprofit organization that has experience in supporting school-based health centers and student health organizations for the organization to provide technical assistance to school districts and education service districts receiving moneys under this section.
-
-      (9) Each participating school district and education service district shall provide regular reports on the progress of the district’s pilot program to the office to enable the office to:
-
-      (a) Determine the effectiveness of the pilot program; and
-
-      (b) Submit a report and recommendations for legislation to the interim committees of the Legislative Assembly related to education as required under subsection (10) of this section.
-
-      (10) No later than October 15, 2019, the Chief Education Office, the Oregon Health Authority and the Department of Education, in collaboration with the statewide nonprofit organization described in subsection (8) of this section, shall submit a report to the interim committees of the Legislative Assembly related to education. The report must provide individual and comprehensive evaluations on the outcomes of the pilot programs and include any recommendations for legislation based on the results of the pilot programs. [2016 c.68 §5; 2017 c.137 §1]
-
-      Sec. 6. Section 5 of this 2016 Act is repealed on January 2, 2020. [2016 c.68 §6]
-
- 
-
       339.100 [Amended by 1963 c.544 §47; 1965 c.100 §279; renumbered 339.055]
 
  
@@ -839,9 +781,9 @@ ADMISSION OF STUDENTS
 
       (2)(a) A district must admit an otherwise eligible person who has not yet attained 21 years of age prior to the beginning of the current school year if the person is:
 
-      (A) Receiving special education and has not yet received a high school diploma or a modified diploma as described in ORS 329.451; or
+      (A) Receiving special education and has not yet received a high school diploma as described in ORS 329.451; or
 
-      (B) Receiving special education and has received an extended diploma or an alternative certificate as described in ORS 329.451.
+      (B) Receiving special education and has received a modified diploma, an extended diploma or an alternative certificate as described in ORS 329.451.
 
       (b) A district may admit an otherwise eligible person who is not receiving special education and who has not yet attained 21 years of age prior to the beginning of the current school year if the person is shown to be in need of additional education in order to receive a high school diploma or a modified diploma.
 
@@ -871,7 +813,7 @@ ADMISSION OF STUDENTS
 
       (b) Shall for at least one calendar year from the date of the expulsion and if the expulsion is for more than one calendar year, may for the remaining period of time deny admission to the regular school program to a student who is under expulsion from another school district for an offense that constitutes a violation of a school district policy adopted pursuant to ORS 339.250 (7).
 
-      (9) Notwithstanding the minimum age requirement prescribed by ORS 339.010 and 339.020, a district school board may admit free of charge a child whose needs for cognitive, social and physical development would best be met in the school program, as defined by policies of the district school board, to enter school even though the child has not attained the minimum age requirement but is a resident of the district. [1965 c.100 §285; 1971 c.410 §1; 1977 c.463 §1; 1983 c.193 §1; 1987 c.283 §2; 1989 c.132 §1; 1989 c.215 §1; 1991 c.693 §26; 1995 c.656 §1; 1995 c.660 §46; 1996 c.16 §1; 1999 c.989 §1; 2005 c.209 §29; 2005 c.662 §16; 2007 c.464 §2; 2007 c.660 §18; 2009 c.618 §5; 2011 c.718 §12; 2013 c.267 §10; 2015 c.234 §4; 2017 c.726 §8]
+      (9) Notwithstanding the minimum age requirement prescribed by ORS 339.010 and 339.020, a district school board may admit free of charge a child whose needs for cognitive, social and physical development would best be met in the school program, as defined by policies of the district school board, to enter school even though the child has not attained the minimum age requirement but is a resident of the district. [1965 c.100 §285; 1971 c.410 §1; 1977 c.463 §1; 1983 c.193 §1; 1987 c.283 §2; 1989 c.132 §1; 1989 c.215 §1; 1991 c.693 §26; 1995 c.656 §1; 1995 c.660 §46; 1996 c.16 §1; 1999 c.989 §1; 2005 c.209 §29; 2005 c.662 §16; 2007 c.464 §2; 2007 c.660 §18; 2009 c.618 §5; 2011 c.718 §12; 2013 c.267 §10; 2015 c.234 §4; 2017 c.726 §8; 2018 c.39 §1]
 
  
 
@@ -923,109 +865,7 @@ ADMISSION OF STUDENTS
 
  
 
-      339.127 Factors prohibited from consideration when giving consent to nonresident student; limitations on consent and advertisements. (1) A district school board that admits nonresident students by giving consent as described in ORS 339.133 (5)(a)(A) may not consider race, religion, sex, sexual orientation, ethnicity, national origin, disability, health, whether a student has an individualized education program, the terms of an individualized education program, income level, residence, proficiency in the English language, athletic ability or academic records when:
-
-      (a) Determining whether to give consent; or
-
-      (b) Establishing any terms of consent.
-
-      (2) A district school board that is considering whether to admit a nonresident student by giving consent may require only the following information prior to deciding whether to give consent:
-
-      (a) The name, contact information, date of birth and grade level of the student;
-
-      (b) Information about whether the school district may be prevented or otherwise limited from providing consent as provided by ORS 339.115 (8);
-
-      (c) Information about whether the student may be given priority as provided by subsection (4) of this section; and
-
-      (d) Information about which schools the student prefers to attend.
-
-      (3)(a) A district school board that is considering whether to admit a nonresident student by giving consent may not:
-
-      (A) Request or require any person to provide or have provided any of the following information related to a student prior to the district school board deciding whether to give consent to the student:
-
-      (i) Information about the student’s race, religion, sex, sexual orientation, ethnicity, national origin, disability, health, whether a student has an individualized education program, the terms of an individualized education program, income level, residence, proficiency in the English language or athletic ability; or
-
-      (ii) Academic records, including eligibility for or participation in a talented and gifted program or special education and related services.
-
-      (B) Request or require the student to participate in an interview, to tour any of the schools or facilities of the school district or to otherwise meet with any representatives of a school or a school district prior to the district school board deciding whether to give consent to the student.
-
-      (C) Request any information used to supplement the information described in subsection (2) of this section prior to deciding whether to give consent to the student.
-
-      (b) Nothing in this subsection prevents a student from voluntarily touring any of the schools or facilities of a school district or from requesting or receiving any information from a school or the school district.
-
-      (4)(a) A district school board that gives consent as described in ORS 339.133 (5)(a)(A) may limit the number of students to whom consent is given. The district school board must make the determination whether to limit the number of students to whom consent is given by an annual date established by the board.
-
-      (b) If the number of students seeking consent exceeds any limitations imposed by the district school board, the board must give consent to students based on an equitable lottery selection process. The process may give priority to students who:
-
-      (A) Have siblings currently enrolled in a school of the same school district for which the student seeks admission;
-
-      (B) Previously had received consent as provided by subsection (10) of this section because of a change in legal residence; or
-
-      (C) Attended a public charter school located in the same district for which the student seeks admission for at least three consecutive years, completed the highest grade offered by the public charter school and did not enroll in and attend school in another district following completion of the highest grade offered by the public charter school.
-
-      (c) A district school board may revise the maximum number of students to whom consent will be given at a time other than the annual date established by the board if there are no pending applications for consent.
-
-      (5) A district school board that is requested to give consent to allow a resident student to be admitted by another school district as described in ORS 339.133 (5)(a)(A) may not consider race, religion, sex, sexual orientation, ethnicity, national origin, disability, health, whether a student has an individualized education program, the terms of an individualized education program, income level, residence, proficiency in the English language, athletic ability or academic records when determining whether to give consent.
-
-      (6) If a district school board decides to not give consent to a student, the board must provide a written explanation to the student.
-
-      (7)(a) For a nonresident student who receives consent to be admitted to a school district as described in ORS 339.133 (5)(a)(A), a district school board may:
-
-      (A) Determine the length of time for which consent is given; and
-
-      (B) Revoke consent for failure to comply with minimum standards for behavior or attendance, but may not revoke consent for failure to meet standards for academics.
-
-      (b) Any limitations in length of time for consent, as allowed under paragraph (a) of this subsection, must be applied consistently among all students to whom consent is given. The length of time for which consent is given shall not be affected by any changes in the legal residence of the student if the student wishes to continue to attend the schools of the school district.
-
-      (c) If consent is revoked as provided by paragraph (a) of this subsection, a student may not request consent from the same school district that revoked the consent for the school year following the school year in which the consent was revoked.
-
-      (8) For a resident student who receives consent to be admitted to another school district as described in ORS 339.133 (5)(a)(A), a district school board may not impose any limitations on the length of time for which consent is given to the student. The board may not require the student to receive consent more than one time to be admitted to the same school district, regardless of any time limitations imposed by the district school board under paragraph (a) of this subsection.
-
-      (9)(a) A school district that provides consent to nonresident students to attend the schools of the school district may not expend moneys received from the State School Fund or as Local Revenues, as described in ORS 327.011, to advertise openings for nonresident students if the advertisements are:
-
-      (A) Located outside the boundaries of the school district, including advertisements that are made by signage or billboards; or
-
-      (B) Directed to nonresident students, including:
-
-      (i) Advertisements that are targeted to nonresident students through direct mail or online marketing;
-
-      (ii) Television or radio advertisements; or
-
-      (iii) Newspaper advertisements, unless the advertisement is in a newspaper that primarily serves the residents of the school district.
-
-      (b) Notwithstanding paragraph (a)(A) of this subsection, if a school is located outside the boundaries of the school district, the school district may advertise openings for nonresident students on the property of the school.
-
-      (c) Nothing in this subsection:
-
-      (A) Prohibits a school district from providing information or advertisements to nonresident students if the parents of the students request the information or advertisements.
-
-      (B) Prohibits a public charter school from advertising openings.
-
-      (10) Notwithstanding any other provision of this section, a district school board that is requested to give consent as described in ORS 339.133 (5)(a)(A) must give consent to a student whose legal residence changes to a different school district:
-
-      (a) During the school year, to enable the student to complete the school year in the school district; or
-
-      (b) During the summer prior to the school year, to enable the student to complete the school year following the summer in the school district.
-
-      (11) Nothing in this section:
-
-      (a) Requires a district school board to admit students for whom priority may be given under subsection (4)(b) of this section if the board imposes limitations on the number of students admitted by consent.
-
-      (b) Prevents a district school board from denying admission to a nonresident student as provided by ORS 339.115 (8).
-
-      (c) Prevents a district school board from requesting information or giving consent to a student in the event of:
-
-      (A) An emergency to protect the health, safety or welfare of the student; or
-
-      (B) A hardship of the student, as determined based on rules adopted by the State Board of Education.
-
-      (d) Prevents a district school board from establishing minimum standards for behavior and attendance that a student must maintain to remain enrolled in the schools of the school district. [2013 c.655 §1; 2013 c.655 §3; 2014 c.5 §§1,2; 2015 c.499 §§1,2; 2016 c.60 §§8,21]
-
- 
-
-      Note: The amendments to 339.127 by section 23, chapter 60, Oregon Laws 2016, become operative July 1, 2019. See section 24, chapter 60, Oregon Laws 2016. The text that is operative on and after July 1, 2019, is set forth for the user’s convenience.
-
-      339.127. (1) A district school board that admits nonresident students by giving consent as described in ORS 339.133 (5)(a) may not consider race, religion, sex, sexual orientation, ethnicity, national origin, disability, health, whether a student has an individualized education program, the terms of an individualized education program, income level, residence, proficiency in the English language, athletic ability or academic records when:
+      339.127 Factors prohibited from consideration when giving consent to nonresident student; limitations on consent and advertisements. (1) A district school board that admits nonresident students by giving consent as described in ORS 339.133 (5)(a) may not consider race, religion, sex, sexual orientation, ethnicity, national origin, disability, health, whether a student has an individualized education program, the terms of an individualized education program, income level, residence, proficiency in the English language, athletic ability or academic records when:
 
       (a) Determining whether to give consent; or
 
@@ -1121,7 +961,7 @@ ADMISSION OF STUDENTS
 
       (B) A hardship of the student, as determined based on rules adopted by the State Board of Education.
 
-      (d) Prevents a district school board from establishing minimum standards for behavior and attendance that a student must maintain to remain enrolled in the schools of the school district.
+      (d) Prevents a district school board from establishing minimum standards for behavior and attendance that a student must maintain to remain enrolled in the schools of the school district. [2013 c.655 §1; 2013 c.655 §3; 2014 c.5 §§1,2; 2015 c.499 §§1,2; 2016 c.60 §§8,21,23]
 
  
 
@@ -1165,7 +1005,7 @@ ADMISSION OF STUDENTS
 
       339.129 Education for children in local or regional correctional facilities required; funding; notice to district; access. (1) A school district shall provide or cause to be provided appropriate education for children placed in a local or regional correctional facility located in the school district. The education may be provided by the school district or an education service district.
 
-      (2) The school district may claim State School Fund reimbursement under ORS 327.006 to 327.133, 327.348 and 327.731 and sections 1 to 3, chapter 735, Oregon Laws 2013, for each child who is in a local or regional correctional facility.
+      (2) The school district may claim State School Fund reimbursement under ORS 327.006 to 327.133, 327.348 and 327.731 for each child who is in a local or regional correctional facility.
 
       (3) A local or regional correctional facility shall notify the school district within which the facility is located of the name and date of birth of each school-age child placed in the facility, including a child with a disability under the age of 22 years who may be eligible for special education. The notice shall be in writing and shall be given within five business days of the child’s placement in the facility.
 
@@ -1175,15 +1015,15 @@ ADMISSION OF STUDENTS
 
       (a) “Local correctional facility” means a local correctional facility as defined in ORS 169.005.
 
-      (b) “Regional correctional facility” means a regional correctional facility as defined in ORS 169.620. [1996 c.19 §1; 1999 c.989 §2; 2007 c.846 §16; 2013 c.735 §15]
+      (b) “Regional correctional facility” means a regional correctional facility as defined in ORS 169.620. [1996 c.19 §1; 1999 c.989 §2; 2007 c.846 §16; 2013 c.735 §§15,16]
 
  
 
-      Note: The amendments to 339.129 by section 16, chapter 735, Oregon Laws 2013, become operative July 1, 2020. See section 20, chapter 735, Oregon Laws 2013, as amended by section 1, chapter 299, Oregon Laws 2015. The text that is operative on and after July 1, 2020, is set forth for the user’s convenience.
+      Note: The amendments to 339.129 by section 16, chapter 735, Oregon Laws 2013, become operative July 1, 2020. See section 20, chapter 735, Oregon Laws 2013, as amended by section 1, chapter 299, Oregon Laws 2015. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
 
       339.129. (1) A school district shall provide or cause to be provided appropriate education for children placed in a local or regional correctional facility located in the school district. The education may be provided by the school district or an education service district.
 
-      (2) The school district may claim State School Fund reimbursement under ORS 327.006 to 327.133, 327.348 and 327.731 for each child who is in a local or regional correctional facility.
+      (2) The school district may claim State School Fund reimbursement under ORS 327.006 to 327.133, 327.348 and 327.731 and sections 1 to 3, chapter 735, Oregon Laws 2013, for each child who is in a local or regional correctional facility.
 
       (3) A local or regional correctional facility shall notify the school district within which the facility is located of the name and date of birth of each school-age child placed in the facility, including a child with a disability under the age of 22 years who may be eligible for special education. The notice shall be in writing and shall be given within five business days of the child’s placement in the facility.
 
@@ -1207,7 +1047,9 @@ RESIDENCY
 
       339.133 Determination of residency of student for school purposes. (1) As used in this section:
 
-      (a) “Foster care” means substitute care for children placed by the Department of Human Services or a tribal child welfare agency away from their parents and for whom the department or agency has placement and care responsibility, including placements in foster family homes, foster homes of relatives, group homes, emergency shelters, residential facilities, child care institutions and preadoptive homes.
+      (a)(A) “Foster care” means substitute care for children placed by the Department of Human Services or a tribal child welfare agency away from their parents and for whom the department or agency has placement and care responsibility, including placements in foster family homes, foster homes of relatives, group homes, emergency shelters, residential facilities, child care institutions and preadoptive homes.
+
+      (B) “Foster care” does not mean care for children whose parent or guardian voluntarily placed the child outside the child’s home with a public or private agency and for whom the child’s parent or guardian retains legal guardianship.
 
       (b)(A) “Person in parental relationship” means an adult who has physical custody of an individual or resides in the same household as the individual, interacts with the individual daily, provides the individual with food, clothing, shelter and incidental necessaries and provides the individual with necessary care, education and discipline.
 
@@ -1249,11 +1091,7 @@ RESIDENCY
 
       (d) The Department of Education, the Department of Human Services, tribal child welfare agencies and school districts shall collaborate to ensure that the provisions of this subsection are implemented.
 
-      (5)(a) Except as provided in ORS 327.006 (7) and 335.090, an individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if the individual receives:
-
-      (A) Written consent from both of the affected district school boards as provided by policies adopted by the boards; or
-
-      (B) Written consent from the district school board for the district in which the school is located as provided by section 9, chapter 718, Oregon Laws 2011.
+      (5)(a) Except as provided in ORS 327.006 (6) and 335.090, an individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if the individual receives written consent from both of the affected district school boards as provided by policies adopted by the boards.
 
       (b) An individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if:
 
@@ -1261,15 +1099,17 @@ RESIDENCY
 
       (B) The legal residence of the individual is no longer in the district in which the individual attends school because of the boundary change; and
 
-      (C) The individual has had the same legal residence and has continuously been enrolled in a school in the district since the boundary change. [Formerly 332.595; 1997 c.821 §21; 2005 c.521 §1; 2007 c.464 §1; 2009 c.11 §42; 2010 c.21 §§1,3; 2011 c.718 §§3,4,8,19; 2015 c.781 §§8,10; 2016 c.60 §§4,12,14,16; 2017 c.690 §§2,4; 2017 c.726 §§17,18,19]
+      (C) The individual has had the same legal residence and has continuously been enrolled in a school in the district since the boundary change. [Formerly 332.595; 1997 c.821 §21; 2005 c.521 §1; 2007 c.464 §1; 2009 c.11 §42; 2010 c.21 §§1,3; 2011 c.718 §§3,4,8,19; 2015 c.781 §§8,10; 2016 c.60 §§4,12,14,16; 2017 c.690 §§2,4,6; 2017 c.726 §§17,18,19; 2018 c.72 §§19,21,23; 2019 c.57 §§17,18,19; 2019 c.561 §§1,2,3]
 
  
 
-Note 1: The amendments to 339.133 by section 4, chapter 690, Oregon Laws 2017, become operative July 1, 2018, and apply to State School Fund distributions commencing with the 2018-2019 distributions. See section 5, chapter 690, Oregon Laws 2017. The text that is operative until July 1, 2018, including amendments by section 10, chapter 781, Oregon Laws 2015, sections 4, 12, 14 and 16, chapter 60, Oregon Laws 2016, section 2, chapter 690, Oregon Laws 2017, and sections 17, 18 and 19, chapter 726, Oregon Laws 2017, is set forth for the user’s convenience.
+      Note: The amendments to 339.133 by section 23, chapter 72, Oregon Laws 2018, become operative July 1, 2020, and apply to State School Fund distributions commencing with the 2020-2021 distributions. See section 24, chapter 72, Oregon Laws 2018. The text that is operative until July 1, 2020, including amendments by section 6, chapter 690, Oregon Laws 2017, sections 19 and 21, chapter 72, Oregon Laws 2018, section 18, chapter 57, Oregon Laws 2019, and section 2, chapter 561, Oregon Laws 2019, is set forth for the user’s convenience.
 
       339.133. (1) As used in this section:
 
-      (a) “Foster care” means substitute care for children placed by the Department of Human Services or a tribal child welfare agency away from their parents and for whom the department or agency has placement and care responsibility, including placements in foster family homes, foster homes of relatives, group homes, emergency shelters, residential facilities, child care institutions and preadoptive homes.
+      (a)(A) “Foster care” means substitute care for children placed by the Department of Human Services or a tribal child welfare agency away from their parents and for whom the department or agency has placement and care responsibility, including placements in foster family homes, foster homes of relatives, group homes, emergency shelters, residential facilities, child care institutions and preadoptive homes.
+
+      (B) “Foster care” does not mean care for children whose parent or guardian voluntarily placed the child outside the child’s home with a public or private agency and for whom the child’s parent or guardian retains legal guardianship.
 
       (b)(A) “Person in parental relationship” means an adult who has physical custody of an individual or resides in the same household as the individual, interacts with the individual daily, provides the individual with food, clothing, shelter and incidental necessaries and provides the individual with necessary care, education and discipline.
 
@@ -1311,11 +1151,7 @@ Note 1: The amendments to 339.133 by section 4, chapter 690, Oregon Laws 2017, b
 
       (d) The Department of Education, the Department of Human Services, tribal child welfare agencies and school districts shall collaborate to ensure that the provisions of this subsection are implemented.
 
-      (5)(a) Except as provided in ORS 327.006 (7) and 335.090, an individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if the individual receives:
-
-      (A) Written consent from both of the affected district school boards as provided by policies adopted by the boards; or
-
-      (B) Written consent from the district school board for the district in which the school is located as provided by section 9, chapter 718, Oregon Laws 2011.
+      (5)(a) Except as provided in ORS 327.006 (6) and 335.090, an individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if the individual receives written consent from both of the affected district school boards as provided by policies adopted by the boards.
 
       (b) An individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if:
 
@@ -1339,173 +1175,19 @@ Note 1: The amendments to 339.133 by section 4, chapter 690, Oregon Laws 2017, b
 
  
 
-Note 2: The amendments to 339.133 by section 6, chapter 690, Oregon Laws 2017, become operative July 1, 2019, and apply to State School Fund distributions commencing with the 2019-2020 distributions. See section 7, chapter 690, Oregon Laws 2017. The text that is operative on and after July 1, 2019, is set forth for the user’s convenience.
+      339.134 Residency of child voluntarily placed outside child’s home and living in substitute care program. (1) Except as provided by subsection (2) of this section, a child whose parent or guardian voluntarily placed the child outside the child’s home with a public or private agency and who is living in a licensed, certified or approved substitute care program shall be considered a resident for school purposes in the school district in which the child resides because of the voluntary placement.
 
-      339.133. (1) As used in this section:
+      (2) A child whose parent or guardian voluntarily placed the child outside the child’s home with a public or private agency and who is living in a licensed, certified or approved substitute care program shall be considered a resident for school purposes in the school district in which the child’s parent or guardian resides if:
 
-      (a) “Foster care” means substitute care for children placed by the Department of Human Services or a tribal child welfare agency away from their parents and for whom the department or agency has placement and care responsibility, including placements in foster family homes, foster homes of relatives, group homes, emergency shelters, residential facilities, child care institutions and preadoptive homes.
-
-      (b)(A) “Person in parental relationship” means an adult who has physical custody of an individual or resides in the same household as the individual, interacts with the individual daily, provides the individual with food, clothing, shelter and incidental necessaries and provides the individual with necessary care, education and discipline.
-
-      (B) “Person in parental relationship” does not mean a person with a power of attorney or other written delegation of parental responsibilities if the person does not have other evidence of a parental relationship.
-
-      (c) “School district of origin” means the school district where an individual was a resident before:
-
-      (A) The individual was placed into foster care; or
-
-      (B) The foster care placement of the individual changed.
-
-      (d) “School of origin” means the school that an individual attended before:
-
-      (A) The individual was placed into foster care; or
-
-      (B) The foster care placement of the individual changed.
-
-      (2)(a) Except as provided in subsections (3) to (5) of this section, individuals between the ages of 4 and 18 shall be considered resident for school purposes in the school district in which their parents, their guardians or persons in parental relationship to them reside.
-
-      (b) Nonemancipated individuals between the ages of 4 and 18 living outside the geographic area of the school district for such reasons as attending college, military service, hospital confinement or employment away from home shall be considered resident in the district in which their parents, their guardians or persons in parental relationship to them reside.
-
-      (c) Individuals living temporarily in a school district for the primary purpose of attending a district school may not be considered resident in the district in which they are living temporarily, but shall be considered resident in the district in which they, their parents, their guardians or persons in parental relationship to them reside.
-
-      (3) Individuals considered legally emancipated from their parents shall be considered resident in the district in which they actually reside, irrespective of the residence of their parents, their guardians or persons in parental relationship.
-
-      (4)(a) An individual who is between the ages of 4 and 21 and who is placed in foster care shall be considered a resident of:
-
-      (A) The school district of origin; or
-
-      (B) The school district where the individual resides due to placement by the Department of Human Services or a tribal child welfare agency if a juvenile court determines it is not in the best interest of the individual to continue attending the school of origin or any other school in the school district of origin, based on consideration of all factors relating to the individual’s best interests.
-
-      (b) If a juvenile court makes a determination that it is not in the best interest of the individual to continue attending the school of origin, the individual shall be immediately enrolled in a new school, even if the individual is unable to produce records normally required for enrollment.
-
-      (c) Individuals who are residents of their school district of origin pursuant to paragraph (a)(A) of this subsection shall:
-
-      (A) Remain in the individual’s school district of origin and, if applicable, the individual’s school of origin for the duration of the individual’s time in foster care; and
-
-      (B) Be provided, free of charge, transportation between the individual’s home and the individual’s school district of origin or, if applicable, the individual’s school of origin.
-
-      (d) The Department of Education, the Department of Human Services, tribal child welfare agencies and school districts shall collaborate to ensure that the provisions of this subsection are implemented.
-
-      (5)(a) Except as provided in ORS 327.006 (7) and 335.090, an individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if the individual receives written consent from both of the affected district school boards as provided by policies adopted by the boards.
-
-      (b) An individual whose legal residence is not within the district but who attends school in the district is considered a resident in the district in which the individual attends school if:
-
-      (A) The legal residence of the individual had been in the district in which the individual attends school before a boundary change was made to the district;
-
-      (B) The legal residence of the individual is no longer in the district in which the individual attends school because of the boundary change; and
-
-      (C) The individual has had the same legal residence and has continuously been enrolled in a school in the district since the boundary change.
-
- 
-
-Note 3: Section 22, chapter 718, Oregon Laws 2011, provides:
-
-      Sec. 22. (1) Nothing in the amendments to ORS 339.133 by section 16 of this 2016 Act and the repeal of section 9, chapter 718, Oregon Laws 2011, by section 21, chapter 718, Oregon Laws 2011, affects the status of a person who was considered a resident as provided by ORS 339.133 (5)(a)(B) prior to the 2019-2020 school year.
-
-      (2) Notwithstanding section 9, chapter 718, Oregon Laws 2011, a school district is not required to take any action under section 9, chapter 718, Oregon Laws 2011, for the 2019-2020 school year. [2011 c.718 §22; 2016 c.60 §§18,19]
-
- 
-
-(Temporary provisions relating to nonresident student attending school as resident)
-
- 
-
-      Note: Section 9, chapter 718, Oregon Laws 2011, provides:
-
-      Sec. 9. (1) For purposes of ORS 339.133 (5)(a)(B), a person whose legal residence is not within a school district but who attends school in the district is considered a resident of the district in which the person attends school if the person receives written consent to attend school from the district school board where the school is located, as provided by this section.
-
-      (2)(a) By March 1 of each year, a district school board shall determine whether the board will give consent to persons whose legal residence is not within the school district.
-
-      (b) If the district school board will give consent, the board shall establish standards by which consent will be given. The standards must:
-
-      (A) Identify the number of persons to whom consent will be given for the school year. The district school board may limit the number of persons to whom consent will be given based on school, grade or a combination of school and grade.
-
-      (B) Allow persons who live within the boundaries of the school district the first opportunity to change to a different school in the district if the district school board will be giving consent to attend that school to persons who do not reside within the district.
-
-      (3) A person seeking consent as provided by this section must request consent no later than April 1 prior to the beginning of the school year for which consent is being requested. Requests may be submitted before the district school board makes the determination and establishes the standards described in subsection (2) of this section, but may not be considered by the board when the board makes the determination and establishes the standards.
-
-      (4)(a) A district school board must give consent to a person who requests consent unless:
-
-      (A) The board decides to not give consent to any person as allowed by subsection (2) of this section;
-
-      (B) The board decides to limit the number of persons to whom consent will be given and the person was not selected to be given consent based on the selection process described in subsection (5) of this section; or
-
-      (C) The board is not required to admit the person, as provided by ORS 339.115 (8).
-
-      (b) A district school board may not deny consent or give priority based on race, religion, sex, sexual orientation, ethnicity, national origin, disability, terms of an individualized education program, income level, proficiency in the English language, athletic ability or residence.
-
-      (5) If the number of persons seeking consent exceeds the number of persons to whom the district school board has determined will be given consent, the board shall give consent based on an equitable lottery selection process. The process may give priority to persons who have siblings currently enrolled in a school of the school district, but in no event may a sibling be given priority to any open spot in the schools of the school district over any persons who reside within the school district.
-
-      (6)(a) If a person is considered a resident of the school district as provided by this section and the person has expressed an interest in attending the schools of another school district before the end of the school year, the school district shall meet with the person and encourage the person to continue to attend the schools of the school district for the remainder of the school year.
-
-      (b) If a person is considered a resident of the school district as provided by this section, the school district may not encourage or require the person to attend the schools of another school district as a condition of avoiding a disciplinary measure, including but not limited to suspension or expulsion.
-
-      (7)(a) Except as provided by paragraphs (b) and (c) of this subsection, a person who receives consent and who is considered a resident of a district as provided by this section shall be considered a resident of the district for all educational purposes. A person who is considered a resident of the district as provided by this section shall continue to be considered a resident of the district until the person:
-
-      (A) Graduates from high school;
-
-      (B) Is no longer required to be admitted to the schools of the school district under ORS 339.115; or
-
-      (C) Enrolls in a school in a different school district.
-
-      (b) A school district is not required to provide transportation outside the boundaries of the district to a person who is considered a resident of the district as provided by this section, except that a district:
-
-      (A) Must allow persons who are considered a resident of the district as provided by this section to use existing bus routes and transportation services of the district. Costs incurred for transportation provided under this subparagraph are considered approved transportation costs for purposes of ORS 327.013, except for costs incurred for providing transportation solely to persons who are considered residents of the district as provided by this section if the transportation is provided:
-
-      (i) Outside the boundaries of the district; and
-
-      (ii) For the purpose of transporting the persons between home and school.
-
-      (B) May provide a stipend for a person who is a member of a low-income family, as defined in ORS 339.147, in an amount that does not exceed the district’s average cost per student for transportation.
-
-      (C) Must provide transportation if required by federal law. Costs incurred for transportation provided under this subparagraph are considered approved transportation costs for purposes of ORS 327.013.
-
-      (c) After the first year that a person is considered a resident of a district as provided by this section, the district school board may transfer the person to a different school in the district. Any transfers must be made consistent with district policy and do not affect the status of the person as a resident of the district.
-
-      (8) A district school board shall provide written notification of the attendance of a person who receives consent as provided by this section to the district school board where the legal residence of the person is located. The written notification required by this subsection must be provided no later than May 1 prior to the beginning of the school year for which consent was given.
-
-      (9) Nothing in this section:
-
-      (a) Requires a district school board to give consent to siblings if the board determines that consent will not be given to any students for a school year.
-
-      (b) Prevents a school district from entering into interagency agreements to provide services to persons who do not reside in the school district or are not considered residents of the school district.
-
-      (c) Prevents or otherwise limits a district school board from providing consent to a person who has received consent from the district school board for the school district in which the person resides, as provided by ORS 339.133 (5)(a)(A). [2011 c.718 §9; 2013 c.434 §5; 2016 c.7 §10]
-
- 
-
-      Note: Section 7, chapter 434, Oregon Laws 2013, provides:
-
-      Sec. 7. A school district that provides consent to nonresident persons to attend the schools of the school district as provided by section 9, chapter 718, Oregon Laws 2011, may not expend moneys received from the State School Fund or as Local Revenues, as described in ORS 327.011, to advertise openings for nonresident persons if the advertisements are:
-
-      (1) Located outside the boundaries of the school district, including advertisements that are made by signage or billboards; or
-
-      (2) Directed to persons who are not residents of the school district, including:
-
-      (a) Advertisements that are targeted to nonresidents through direct mail or online direct marketing;
-
-      (b) Television or radio advertisements; or
-
-      (c) Newspaper advertisements, unless the advertisement is in a newspaper that primarily serves the residents of the school district. [2013 c.434 §7]
-
- 
-
-      Note: Section 21, chapter 718, Oregon Laws 2011, provides:
-
-      Sec. 21. Section 9, chapter 718, Oregon Laws 2011, and section 7, chapter 434, Oregon Laws 2013, are repealed on July 1, 2019. [2011 c.718 §21; 2013 c.434 §9; 2016 c.60 §1]
-
- 
-
-      339.134 Residency of child with disability. (1) Notwithstanding ORS 339.133 (4), a child with a disability shall be considered a resident for school purposes in the school district in which the child’s parent or guardian resides if:
-
-      (a) The child is voluntarily placed outside the child’s home by the child’s parent or guardian;
+      (a) The child’s preferences in school attendance are taken into consideration;
 
       (b) The child’s parent or guardian retains legal guardianship of the child;
 
       (c) There is a plan for the child to return home;
 
-      (d) The placement is within 20 miles by the nearest traveled road from the original school building, unless there are physiographic conditions that make transportation to the original school building not feasible; and
+      (d) The voluntary placement is within 20 miles by the nearest traveled road from the school the child attended prior to the voluntary placement, unless there are physiographic conditions that make transportation to the school not feasible; and
 
-      (e) The child’s parent or guardian and the school staff can demonstrate that it is in the best interest of the child to continue to attend the school the child was attending prior to the placement. The best interest of the child may be demonstrated by factors, including but not limited to the following:
+      (e) The child’s parent or guardian and the school staff from the school the child attended prior to the voluntary placement can demonstrate that it is in the best interest of the child to continue to attend the school the child attended prior to the voluntary placement. The best interest of the child may be demonstrated by factors, including but not limited to the following:
 
       (A) The child’s siblings attend the school;
 
@@ -1513,9 +1195,9 @@ Note 3: Section 22, chapter 718, Oregon Laws 2011, provides:
 
       (C) The child has developed and maintained a network of personal contacts, support services and friends and a sense of community within the school.
 
-      (2) If a child qualifies under subsection (1) of this section, the child may continue to attend the school the child was attending prior to the placement in the child’s resident school district.
+      (3) Transportation for a child whose parent or guardian voluntarily placed the child outside the child’s home with a public or private agency and who is living in a licensed, certified or approved substitute care program shall be the responsibility of the child’s resident school district, as determined under subsection (1) or (2) of this section.
 
-      (3) Nothing in this section shall affect the ability of school districts to enter into agreements with other school districts for the transportation of students. [1995 c.567 §2; 2011 c.718 §13; 2017 c.726 §23]
+      (4) Nothing in this section shall affect the ability of school districts to enter into agreements with other school districts for the transportation of students. [1995 c.567 §2; 2011 c.718 §13; 2017 c.726 §23; 2019 c.561 §4]
 
  
 
@@ -1530,6 +1212,36 @@ Note 3: Section 22, chapter 718, Oregon Laws 2011, provides:
       (3) A student described in subsection (1) of this section must be admitted to the public schools of the school district where the student is placed pursuant to ORS 336.580.
 
       (4) Except as provided in ORS 343.261, 343.941, 343.961 and 346.010, the school district shall provide or cause to be provided appropriate education to any student described in subsection (1) of this section, including the identification and evaluation of the student for purposes of determining eligibility as a child with a disability to receive special education and related services enumerated in ORS 343.035 and services related to a disadvantaged child as defined in ORS 343.650. Suspension or expulsion of a student from the regular school program does not relieve the district of the obligation to provide instruction in the residential program in which the child resides or in another appropriate facility. [1993 c.45 §119; 1999 c.989 §34; 2001 c.900 §241; 2007 c.70 §96; 2014 c.81 §11; 2015 c.671 §5]
+
+ 
+
+      339.139 Residency of military children; rules. (1) As used in this section:
+
+      (a) “Military child” means a child who is in a military family covered by the Interstate Compact on Educational Opportunity for Military Children, as determined under rules adopted by the State Board of Education.
+
+      (b) “Military transfer” means the transfer or pending transfer of a parent of a military child pursuant to an official military order.
+
+      (c) “School district of military residence” means the school district in which:
+
+      (A) The family of a military child intends to reside as the result of a military transfer; or
+
+      (B) If the school district in which the family of a military child intends to reside as the result of a military transfer is unknown, the school district in which the military installation identified in the official military order is located.
+
+      (2) For the purposes of enrollment and class placement at a school of a school district, a military child shall be:
+
+      (a) Considered a resident of the school district if the school district is the school district of military residence for the military child; and
+
+      (b) Entitled to the same processes and rights of enrollment and class placement as any child who is a resident of the school district.
+
+      (3) A parent of a military child who is considered a resident of a school district as provided by subsection (2) of this section must provide proof of residency within 10 days after the date of military transfer indicated in the official military order.
+
+      (4) Nothing in this section:
+
+      (a) Requires compliance with the school attendance requirements of ORS 339.010 and 339.020 prior to 10 days after the date of military transfer indicated in the official military order; or
+
+      (b) Entitles a school district to State School Fund distributions for a military child until the military child is first considered present at the school.
+
+      (5) The State Board of Education shall adopt any rules necessary for the administration of this section. [2019 c.347 §1]
 
  
 
@@ -1805,7 +1517,7 @@ STUDENT CONDUCT AND DISCIPLINE
 
       (e) Require an annual reporting to the Department of Education of the name of each school that had an expulsion under this subsection and the number of students expelled from each school.
 
-      (8) Each district school board shall adopt and disseminate written policies for the use of physical force upon a student. The policies must allow an individual who is a teacher, administrator, school employee or school volunteer to use reasonable physical force upon a student when and to the extent the application of force is consistent with ORS 339.291.
+      (8) Each district school board shall adopt and disseminate written policies for the use of physical force upon a student. The policies must allow an individual who is a teacher, administrator, school employee or school volunteer to use reasonable physical force upon a student when and to the extent the application of force is consistent with ORS 339.285 to 339.303.
 
       (9)(a) The authority to discipline a student does not authorize the infliction of corporal punishment. Every resolution, bylaw, rule, ordinance or other act of a district school board, a public charter school or the Department of Education that permits or authorizes the infliction of corporal punishment upon a student is void and unenforceable.
 
@@ -1823,7 +1535,7 @@ STUDENT CONDUCT AND DISCIPLINE
 
       (a) As a half day if the student is out of school for half, or less than half, of the scheduled school day; and
 
-      (b) As a full day if the student is out of school for more than half of the scheduled school day. [1965 c.100 §289; 1971 c.561 §1; 1975 c.665 §1; 1979 c.739 §1a; 1979 c.836 §2; 1981 c.246 §2; 1989 c.619 §2; 1989 c.889 §1; 1995 c.656 §2; 1996 c.16 §2; 1999 c.59 §86; 1999 c.576 §1; 1999 c.717 §4; 2001 c.810 §7; 2011 c.313 §20; 2011 c.665 §§8,9; 2013 c.133 §3; 2013 c.267 §§3,5; 2015 c.237 §1; 2015 c.238 §1]
+      (b) As a full day if the student is out of school for more than half of the scheduled school day. [1965 c.100 §289; 1971 c.561 §1; 1975 c.665 §1; 1979 c.739 §1a; 1979 c.836 §2; 1981 c.246 §2; 1989 c.619 §2; 1989 c.889 §1; 1995 c.656 §2; 1996 c.16 §2; 1999 c.59 §86; 1999 c.576 §1; 1999 c.717 §4; 2001 c.810 §7; 2011 c.313 §20; 2011 c.665 §§8,9; 2013 c.133 §3; 2013 c.267 §§3,5; 2015 c.237 §1; 2015 c.238 §1; 2019 c.267 §8]
 
  
 
@@ -1849,25 +1561,7 @@ STUDENT CONDUCT AND DISCIPLINE
 
  
 
-      339.254 Suspension of student driving privileges; policy content. (1) A school district board may establish a policy regarding when a school superintendent or the board may file with the Department of Transportation a written request to suspend the driving privileges of a student or the right to apply for driving privileges. Such policy shall include:
-
-      (a) A provision authorizing the superintendent or the school district board to file with the Department of Transportation a written request to suspend the driving privileges of a student or the right to apply for driving privileges only if the student is at least 15 years of age and:
-
-      (A) The student has been expelled for bringing a weapon to school;
-
-      (B) The student has been suspended or expelled at least twice for assaulting or menacing a school employee or another student, for willful damage or injury to school property or for use of threats, intimidation, harassment or coercion against a school employee or another student; or
-
-      (C) The student has been suspended or expelled at least twice for possessing, using or delivering any controlled substance or for being under the influence of any controlled substance at a school or on school property or at a school sponsored activity, function or event.
-
-      (b) A provision requiring the school superintendent to meet with the parent or guardian of the student before submitting a written request to the Department of Transportation.
-
-      (c) A provision authorizing the school superintendent or board to request that the driving privileges of the student or the right to apply for driving privileges be suspended for no more than one year.
-
-      (d) Notwithstanding paragraph (c) of this subsection, a provision stating that, if a school superintendent or the school district board files a second written request with the Department of Transportation to suspend the driving privileges of a student, the request is that those privileges be suspended until the student is 21 years of age.
-
-      (e) A provision that a student may appeal the decision of a school superintendent regarding driving privileges of a student under the due process procedures of the school district for suspensions and expulsions.
-
-      (2) If the driving privileges of a student are suspended, the student may apply to the Department of Transportation for a hardship driver permit under ORS 807.240. [1995 c.656 §5; 2003 c.695 §1; 2005 c.209 §30]
+      339.254 [1995 c.656 §5; 2003 c.695 §1; 2005 c.209 §30; repealed by 2018 c.76 §17]
 
  
 
@@ -1875,11 +1569,31 @@ STUDENT CONDUCT AND DISCIPLINE
 
  
 
-      339.257 Documentation of enrollment status for students applying for driving privileges; notification of student withdrawal from school to Department of Transportation. (1) The principal or a designee of the principal of a secondary school shall provide documentation of enrollment status on a form provided by the Department of Transportation to any student at least 15 years of age and under 18 years of age who is properly enrolled in the school, whose driving privileges are suspended under ORS 809.423 (2) and who needs the documentation in order to apply for issuance or reinstatement of driving privileges. The form shall be available at the administrative offices of the school district for a student who applies for issuance or reinstatement of driving privileges during school holidays.
+      339.256 Prohibition on restriction of access to specialized learning areas or certain common areas. (1) As used in this section:
 
-      (2) A school district board may establish a policy authorizing the superintendent of the school district or the board to notify the department of the withdrawal from school of a student who is at least 15 years of age and under 18 years of age. For purposes of this subsection, a student shall be considered to have withdrawn from school after more than 10 consecutive school days of unexcused absences or 15 school days total of unexcused absences during a single semester. A policy adopted under this subsection shall include a provision allowing a student to appeal a decision to notify the department.
+      (a) “Alternative education student” means a student who is part of a school or a separate class group that was designed to best serve the student’s educational needs and interests and to assist the student in achieving the academic standards of the school district and the state.
 
-      (3) The governing body of a private school may establish a policy authorizing a representative of the school to notify the department of a student’s withdrawal. Terms and conditions of the policy shall be the same as those described in subsection (2) of this section for a school district board. [1999 c.789 §4; 2015 c.716 §3; 2017 c.701 §22]
+      (b) “English language learner” has the meaning given that term in ORS 336.079.
+
+      (c) “Special education student” means a student who is receiving special education or related services, as provided by ORS chapter 343.
+
+      (d) “Specialized learning area” includes laboratories, auditoriums and athletic facilities.
+
+      (e) “Traditional student” means a student who is not an alternative education student, an English language learner or a special education student.
+
+      (2) For an alternative education student, an English language learner or a special education student, a school district may not restrict access to specialized learning areas or to the common lunch area, common gathering areas or recreational areas in a manner that is different than any restrictions imposed on traditional students in the same grade.
+
+      (3) Nothing in subsection (2) of this section prevents a school district from:
+
+      (a) Implementing a behavior support or safety plan that restricts a student’s access to common or specialized learning areas based on the specific documented needs or behaviors of the student;
+
+      (b) Imposing discipline that prohibits a student from accessing specific common or specialized learning areas for a defined period of time and for reasons specific to the student’s behavior; or
+
+      (c) Complying with any order from a court or law enforcement agency. [2019 c.334 §1]
+
+ 
+
+      339.257 [1999 c.789 §4; 2015 c.716 §3; 2017 c.701 §22; repealed by 2018 c.76 §17]
 
  
 
@@ -1905,7 +1619,7 @@ STUDENT CONDUCT AND DISCIPLINE
 
       (b) A student’s disability; or
 
-      (c) An excused absence as determined by the policy of the school district. [1995 c.656 §4]
+      (c) An excused absence as determined by the policy of the school district or as provided by ORS 339.065. [1995 c.656 §4; 2019 c.207 §2; 2019 c.393 §2]
 
  
 
@@ -1915,13 +1629,7 @@ RESTRAINT AND SECLUSION
 
       339.285 Definitions for ORS 339.285 to 339.303. As used in ORS 339.285 to 339.303:
 
-      (1)(a) “Physical restraint” means the restriction of a student’s movement by one or more persons holding the student or applying physical pressure upon the student.
-
-      (b)(A) “Physical restraint” does not include the touching or holding of a student without the use of force for the purpose of directing the student or assisting the student in completing a task or activity.
-
-      (B) “Physical restraint” does not include prone restraint as defined in ORS 339.288.
-
-      (2) “Public education program” means a program that:
+      (1) “Public education program” means a program in this state that:
 
       (a) Is for students in early childhood education, elementary school or secondary school;
 
@@ -1929,19 +1637,55 @@ RESTRAINT AND SECLUSION
 
       (c) Receives, or serves students who receive, support in any form from any program supported, directly or indirectly, with funds appropriated to the Department of Education.
 
+      (2)(a) “Restraint” means the restriction of a student’s actions or movements by holding the student or using pressure or other means.
+
+      (b) “Restraint” does not include:
+
+      (A) Holding a student’s hand or arm to escort the student safely and without the use of force from one area to another;
+
+      (B) Assisting a student to complete a task if the student does not resist the physical contact; or
+
+      (C) Providing reasonable intervention with the minimal exertion of force necessary if the intervention does not include a restraint prohibited under ORS 339.288 and the intervention is necessary to:
+
+      (i) Break up a physical fight;
+
+      (ii) Interrupt a student’s impulsive behavior that threatens the student’s immediate safety, including running in front of a vehicle or climbing on unsafe structures or objects; or
+
+      (iii) Effectively protect oneself or another from an assault, injury or sexual contact with the minimum physical contact necessary for protection.
+
       (3)(a) “Seclusion” means the involuntary confinement of a student alone in a room from which the student is physically prevented from leaving.
 
       (b) “Seclusion” does not include the removal of a student for a short period of time to provide the student with an opportunity to regain self-control if the student is in a setting from which the student is not physically prevented from leaving.
 
-      (4) “Serious bodily injury” means any significant impairment of the physical condition of a person, as determined by qualified medical personnel, whether self-inflicted or inflicted by someone else. [2011 c.665 §1]
+      (4) “Serious bodily injury” means any significant impairment of the physical condition of a person, as determined by qualified medical personnel, whether self-inflicted or inflicted by someone else. [2011 c.665 §1; 2019 c.267 §1]
 
  
 
-      339.288 Prohibitions on use of certain restraints; limitations on use of physical restraint and seclusion. (1) The use of a mechanical restraint, chemical restraint or prone restraint on a student in a public education program in this state is prohibited.
+      339.288 Prohibitions on use of certain restraints. (1) The use of the following types of restraint on a student in a public education program is prohibited:
 
-      (2) The use of physical restraint or seclusion on a student in a public education program in this state is prohibited unless used as provided in ORS 339.291.
+      (a) Chemical restraint.
 
-      (3) As used in this section:
+      (b) Mechanical restraint.
+
+      (c) Prone restraint.
+
+      (d) Supine restraint.
+
+      (e) Any restraint that involves the intentional and nonincidental use of a solid object, including a wall or the floor, to impede a student’s movement, unless the restraint is necessary to prevent an imminent life-threatening injury or to gain control of a weapon.
+
+      (f) Any restraint that places, or creates a risk of placing, pressure on a student’s neck or throat.
+
+      (g) Any restraint that places, or creates a risk of placing, pressure on a student’s mouth, unless the restraint is necessary for the purpose of extracting a body part from a bite.
+
+      (h) Any restraint that impedes, or creates a risk of impeding, breathing.
+
+      (i) Any restraint that involves the intentional placement of the hands, feet, elbow, knee or any object on a student’s neck, throat, genitals or other intimate parts.
+
+      (j) Any restraint that causes pressure to be placed, or creates a risk of causing pressure to be placed, on the stomach or back by a knee, foot or elbow bone.
+
+      (k) Any action designed for the primary purpose of inflicting pain.
+
+      (2) As used in this section:
 
       (a) “Chemical restraint” means a drug or medication that is used on a student to control behavior or restrict freedom of movement and that is not:
 
@@ -1957,89 +1701,97 @@ RESTRAINT AND SECLUSION
 
       (ii) A vehicle safety restraint when used as intended during the transport of a student in a moving vehicle.
 
-      (c) “Prone restraint” means a restraint in which a student is held face down on the floor. [2011 c.665 §2]
+      (c) “Prone restraint” means a restraint in which a student is held face down on the floor.
+
+      (d) “Supine restraint” means a restraint in which a student is held face up on the floor. [2011 c.665 §2; 2019 c.267 §2]
 
  
 
-      339.291 Use of physical restraint or seclusion. (1)(a) Physical restraint or seclusion may be used on a student in a public education program only if:
+      339.291 Use of restraint or seclusion. (1) Restraint or seclusion may not be used for discipline, punishment, retaliation or convenience of personnel, contractors or volunteers of a public education program.
 
-      (A) The student’s behavior imposes a reasonable threat of imminent, serious bodily injury to the student or others; and
+      (2)(a) Restraint may be used on a student in a public education program only under the following circumstances:
+
+      (A) The student’s behavior imposes a reasonable risk of imminent and substantial physical or bodily injury to the student or others; and
 
       (B) Less restrictive interventions would not be effective.
 
-      (b) Physical restraint or seclusion may not be used for discipline, punishment or convenience of personnel of the public education program.
+      (b) Seclusion may be used on a student in a public education program only under the following circumstances:
 
-      (2) If physical restraint or seclusion is used on a student, the physical restraint or seclusion must be:
+      (A) The student’s behavior imposes a reasonable risk of imminent and serious bodily injury to the student or others; and
 
-      (a) Used only for as long as the student’s behavior poses a reasonable threat of imminent, serious bodily injury to the student or others;
+      (B) Less restrictive interventions would not be effective.
+
+      (3) If restraint or seclusion is used on a student, the restraint or seclusion must be:
+
+      (a) Used only for as long as the student’s behavior poses a reasonable risk as described in subsection (2) of this section;
 
       (b) Imposed by personnel of the public education program who are:
 
-      (A) Trained to use physical restraint or seclusion through programs described in ORS 339.300; or
+      (A) Trained to use restraint or seclusion through programs described in ORS 339.300; or
 
       (B) Otherwise available in the case of an emergency circumstance when personnel described in subparagraph (A) of this paragraph are not immediately available due to the unforeseeable nature of the emergency circumstance; and
 
-      (c) Continuously monitored by personnel of the public education program for the duration of the physical restraint or seclusion.
+      (c) Continuously monitored by personnel of the public education program for the duration of the restraint or seclusion.
 
-      (3) In addition to the requirements described in subsection (2) of this section, if physical restraint or seclusion continues for more than 30 minutes:
+      (4) In addition to the requirements described in subsection (3) of this section, if restraint or seclusion continues for more than 30 minutes:
 
       (a) The student must be provided with adequate access to the bathroom and water every 30 minutes;
 
       (b) Personnel of the public education program must immediately attempt to verbally or electronically notify a parent or guardian of the student; and
 
-      (c) Every 15 minutes after the first 30 minutes of the physical restraint or seclusion, an administrator for the public education program must provide written authorization for the continuation of the physical restraint or seclusion, including providing documentation for the reason the physical restraint or seclusion must be continued. [2011 c.665 §3]
+      (c) Every 15 minutes after the first 30 minutes of the restraint or seclusion, an administrator for the public education program must provide written authorization for the continuation of the restraint or seclusion, including providing documentation for the reason the restraint or seclusion must be continued. [2011 c.665 §3; 2019 c.267 §3]
 
  
 
-      339.294 Procedures following incident; notification; records. (1) Each entity that has jurisdiction over a public education program must establish procedures for the public education program to follow after an incident involving the use of physical restraint or seclusion.
+      339.294 Procedures following incident; notification; records. (1) Each entity that has jurisdiction over a public education program must establish procedures for the public education program to follow after an incident involving the use of restraint or seclusion.
 
-      (2) Following an incident involving the use of physical restraint or seclusion, the following must be provided to a parent or guardian of the student:
+      (2) Following an incident involving the use of restraint or seclusion, the following must be provided to a parent or guardian of the student:
 
       (a) Verbal or electronic notification of the incident by the end of the school day when the incident occurred.
 
       (b) Written documentation of the incident within 24 hours of the incident that provides:
 
-      (A) A description of the physical restraint or seclusion, including:
+      (A) A description of the restraint or seclusion, including:
 
-      (i) The date of the physical restraint or seclusion;
+      (i) The date of the restraint or seclusion;
 
-      (ii) The times when the physical restraint or seclusion began and ended; and
+      (ii) The times when the restraint or seclusion began and ended; and
 
-      (iii) The location of the physical restraint or seclusion.
+      (iii) The location of the restraint or seclusion.
 
-      (B) A description of the student’s activity that prompted the use of physical restraint or seclusion.
+      (B) A description of the student’s activity that prompted the use of restraint or seclusion.
 
-      (C) The efforts used to de-escalate the situation and the alternatives to physical restraint or seclusion that were attempted.
+      (C) The efforts used to de-escalate the situation and the alternatives to restraint or seclusion that were attempted.
 
-      (D) The names of the personnel of the public education program who administered the physical restraint or seclusion.
+      (D) The names of the personnel of the public education program who administered the restraint or seclusion.
 
-      (E) A description of the training status of the personnel of the public education program who administered the physical restraint or seclusion, including any information that may need to be provided to the parent or guardian under subsection (3) of this section.
+      (E) A description of the training status of the personnel of the public education program who administered the restraint or seclusion, including any information that may need to be provided to the parent or guardian under subsection (3) of this section.
 
       (c) Timely notification of a debriefing meeting to be held as provided by subsection (4) of this section and the parent’s or guardian’s right to attend the meeting.
 
-      (3) If the personnel of the public education program who administered the physical restraint or seclusion had not received training as provided by ORS 339.300, the administrator of the public education program shall ensure that a parent or guardian of the student and the district superintendent receive written notification of:
+      (3) If the personnel of the public education program who administered the restraint or seclusion had not received training as provided by ORS 339.300, the administrator of the public education program shall ensure that a parent or guardian of the student and the district superintendent receive written notification of:
 
       (a) The lack of training; and
 
-      (b) The reason the physical restraint or seclusion was administered by a person without training.
+      (b) The reason the restraint or seclusion was administered by a person without training.
 
-      (4)(a) A debriefing meeting related to the use of physical restraint or seclusion must be held within two school days of the incident and must include all personnel of the public education program who were involved in the incident and any other appropriate personnel.
+      (4)(a) A debriefing meeting related to the use of restraint or seclusion must be held within two school days of the incident and must include all personnel of the public education program who were involved in the incident and any other appropriate personnel.
 
       (b) Written notes must be taken of the debriefing meeting, and a copy of the written notes must be provided to a parent or guardian of the student.
 
-      (5) If a student is involved in five incidents in a school year involving physical restraint or seclusion, a team consisting of personnel of the public education program and a parent or guardian of the student must be formed for the purposes of reviewing and revising the student’s behavior plan and ensuring the provision of any necessary behavioral supports.
+      (5) If a student is involved in five incidents in a school year involving restraint or seclusion, a team consisting of personnel of the public education program and a parent or guardian of the student must be formed for the purposes of reviewing and revising the student’s behavior plan and ensuring the provision of any necessary behavioral supports.
 
-      (6) If serious bodily injury or death of a student occurs in relation to the use of physical restraint or seclusion, written notification of the incident must be provided within 24 hours of the incident to the Department of Human Services.
+      (6) If serious bodily injury or death of a student occurs in relation to the use of restraint or seclusion, written notification of the incident must be provided within 24 hours of the incident to the Department of Human Services.
 
-      (7) If serious bodily injury or death of personnel of the public education program occurs in relation to the use of physical restraint or seclusion, written notification of the incident must be provided within 24 hours of the incident to the district superintendent and, if applicable, to the union representative for the affected party.
+      (7) If serious bodily injury or death of personnel of the public education program occurs in relation to the use of restraint or seclusion, written notification of the incident must be provided within 24 hours of the incident to the district superintendent and, if applicable, to the union representative for the affected party.
 
-      (8) Each public education program must maintain a record of each incident in which injuries or death occurs in relation to the use of physical restraint or seclusion. [2011 c.665 §4]
+      (8) Each public education program must maintain a record of each incident in which injuries or death occurs in relation to the use of restraint or seclusion. [2011 c.665 §4; 2019 c.267 §4]
 
  
 
-      339.297 Annual report. (1) Each entity that has jurisdiction over a public education program must prepare and submit to the Superintendent of Public Instruction an annual report detailing the use of physical restraint and seclusion for the preceding school year, including, at a minimum:
+      339.297 Annual report. (1) Each entity that has jurisdiction over a public education program must prepare and submit to the Department of Education an annual report detailing the use of restraint and seclusion for the preceding school year, including, at a minimum:
 
-      (a) The total number of incidents involving physical restraint.
+      (a) The total number of incidents involving restraint.
 
       (b) The total number of incidents involving seclusion.
 
@@ -2047,19 +1799,19 @@ RESTRAINT AND SECLUSION
 
       (d) The total number of rooms available for use by the public education program for seclusion of a student and a description of the dimensions and design of the rooms.
 
-      (e) The total number of students placed in physical restraint.
+      (e) The total number of students placed in restraint.
 
       (f) The total number of students placed in seclusion.
 
-      (g) The total number of incidents that resulted in injuries or death to students or personnel as a result of the use of physical restraint or seclusion.
+      (g) The total number of incidents that resulted in injuries or death to students or personnel as a result of the use of restraint or seclusion.
 
-      (h) The number of students who were placed in physical restraint or seclusion more than 10 times in the course of a school year and an explanation of what steps have been taken by the public education program to decrease the use of physical restraint and seclusion for each student.
+      (h) The number of students who were placed in restraint or seclusion more than 10 times in the course of a school year and an explanation of what steps have been taken by the public education program to decrease the use of restraint and seclusion for each student.
 
-      (i) The number of incidents in which the personnel of the public education program administering physical restraint or seclusion were not trained as provided by ORS 339.300.
+      (i) The number of incidents in which the personnel of the public education program administering restraint or seclusion were not trained as provided by ORS 339.300.
 
-      (j) The demographic characteristics of all students upon whom physical restraint or seclusion was imposed, including race, ethnicity, gender, disability status, migrant status, English proficiency and status as economically disadvantaged, unless the demographic information would reveal personally identifiable information about an individual student.
+      (j) The demographic characteristics of all students upon whom restraint or seclusion was imposed, including race, ethnicity, gender, disability status, migrant status, English proficiency and status as economically disadvantaged, unless the demographic information would reveal personally identifiable information about an individual student.
 
-      (2)(a) Each entity that has jurisdiction over a public education program shall make its annual report about physical restraint and seclusion available to:
+      (2)(a) Each entity that has jurisdiction over a public education program shall make its annual report about restraint and seclusion available to:
 
       (A) The public at the entity’s main office and the website of the entity;
 
@@ -2069,17 +1821,19 @@ RESTRAINT AND SECLUSION
 
       (D) If the entity is a public charter school, the sponsor of the public charter school.
 
-      (b) Parents and guardians of students in a public education program shall be advised at least once each school year about how to access the report. [2011 c.665 §5; 2013 c.650 §4]
+      (b) Parents and guardians of students in a public education program shall be advised at least once each school year about how to access the report.
+
+      (3) A public education provider that does not comply with the requirement to submit a report to the Department of Education under subsection (1) of this section or to make the report available as described in subsection (2) of this section is considered nonstandard under ORS 327.103. [2011 c.665 §5; 2013 c.650 §4; 2019 c.267 §5]
 
  
 
-      339.300 Training programs. The Department of Education shall approve training programs in physical restraint and seclusion that:
+      339.300 Training programs. The Department of Education shall approve training programs in restraint and seclusion that:
 
-      (1) Teach evidence-based techniques that are shown to be effective in the prevention and safe use of physical restraint or seclusion;
+      (1) Teach evidence-based techniques that are shown to be effective in the prevention and safe use of restraint or seclusion;
 
       (2) Provide evidence-based skills training related to positive behavior support, conflict prevention, de-escalation and crisis response techniques; and
 
-      (3) Are consistent with the philosophies, practices and techniques for physical restraint and seclusion that are established by rule or policy of the Department of Human Services. [2011 c.665 §6]
+      (3) Are consistent with the philosophies, practices and techniques for restraint and seclusion that are established by rule or policy of the Department of Human Services. [2011 c.665 §6; 2019 c.267 §6]
 
  
 
@@ -2133,7 +1887,7 @@ SCHOOL SAFETY
 
       Note: Sections 1 and 2, chapter 93, Oregon Laws 2014, provide:
 
-      Sec. 1. (1) The Task Force on School Safety is established, consisting of 16 members as follows:
+      Sec. 1. (1) The Task Force on School Safety is established, consisting of 18 members as follows:
 
       (a) The Superintendent of State Police or the superintendent’s designee.
 
@@ -2147,7 +1901,7 @@ SCHOOL SAFETY
 
       (f) The Speaker of the House of Representatives shall appoint one member from among members of the House of Representatives.
 
-      (g) The Governor shall appoint 10 members as follows:
+      (g) The Governor shall appoint 12 members as follows:
 
       (A) A member of the Oregon State Sheriffs’ Association;
 
@@ -2165,9 +1919,13 @@ SCHOOL SAFETY
 
       (H) A member of the Confederation of Oregon School Administrators;
 
-      (I) A member representing the Department of Education; and
+      (I) A member representing the Department of Education;
 
-      (J) A member of the Association of Oregon Community Mental Health Programs.
+      (J) A member of the Association of Oregon Community Mental Health Programs;
+
+      (K) A member of the Oregon Health Authority; and
+
+      (L) A member of the Office of Emergency Management.
 
       (2) Members of the Legislative Assembly appointed to the task force are nonvoting members of the task force and may act in an advisory capacity only.
 
@@ -2199,15 +1957,15 @@ SCHOOL SAFETY
 
       (9) The task force may adopt rules necessary for the operation of the task force.
 
-      (10) The task force shall submit a report concerning the floor plan database in the manner provided by ORS 192.245, and may include recommendations for legislation, to an interim committee of the Legislative Assembly related to the judiciary as appropriate no later than September 1, 2017. A second report shall be submitted in a similar manner no later than September 1, 2019.
+      (10) The task force shall submit a report concerning the floor plan database in the manner provided by ORS 192.245, and may include recommendations for legislation, to an interim committee of the Legislative Assembly related to the judiciary as appropriate no later than September 1, 2017. A second report shall be submitted in a similar manner no later than September 1, 2019. A third report shall be submitted in a similar manner no later than September 1, 2021.
 
       (11) The Department of State Police shall provide staff support to the task force.
 
       (12) Members of the task force who are not members of the Legislative Assembly are not entitled to compensation, but may be reimbursed for actual and necessary travel and other expenses incurred by them in the performance of their official duties in the manner and amounts provided for in ORS 292.495. Claims for expenses incurred in performing functions of the task force shall be paid out of funds appropriated to the Department of State Police for purposes of the task force.
 
-      (13) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of its duties and, to the extent permitted by laws relating to confidentiality, to furnish such information and advice as the members of the task force consider necessary to perform their duties. [2014 c.93 §1; 2016 c.74 §6]
+      (13) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of its duties and, to the extent permitted by laws relating to confidentiality, to furnish such information and advice as the members of the task force consider necessary to perform their duties. [2014 c.93 §1; 2016 c.74 §6; 2019 c.685 §1]
 
-      Sec. 2. Section 1, chapter 93, Oregon Laws 2014, is repealed on December 31, 2019. [2014 c.93 §2; 2016 c.74 §7]
+      Sec. 2. Section 1, chapter 93, Oregon Laws 2014, is repealed on December 31, 2021. [2014 c.93 §2; 2016 c.74 §7; 2019 c.685 §2]
 
  
 
@@ -2257,7 +2015,7 @@ SCHOOL SAFETY
 
  
 
-      339.317 Notice to school district of person charged with crime; immunity. (1)(a) No later than five days after a person under 18 years of age is charged with a crime under ORS 137.707 or is waived under ORS 419C.349, 419C.352 or 419C.364, the district attorney or city attorney, if the person is waived to municipal court or, in the case of a juvenile department that has agreed to be responsible for providing the notice required under this section, the juvenile department shall give notice of the charge to the school administrator of the school attended by the person or to the school administrator of the school district in which the person resides. For purposes of this section, “school administrator” has the meaning given that term in ORS 419A.305.
+      339.317 Notice to school district of person charged with crime; immunity. (1)(a) No later than five days after a person under 18 years of age is waived under ORS 419C.349, 419C.352 or 419C.364, the district attorney or city attorney, if the person is waived to municipal court or, in the case of a juvenile department that has agreed to be responsible for providing the notice required under this section, the juvenile department shall give notice of the charge to the school administrator of the school attended by the person or to the school administrator of the school district in which the person resides. For purposes of this section, “school administrator” has the meaning given that term in ORS 419A.305.
 
       (b) The district attorney, city attorney or juvenile department shall include in the notice the following:
 
@@ -2275,11 +2033,11 @@ SCHOOL SAFETY
 
       (G) Any other conditions required by the court.
 
-      (2) A person who sends records under this section is not civilly or criminally liable for failing to disclose the information under this section. [1999 c.620 §1; 2008 c.50 §4; 2009 c.447 §3]
+      (2) A person who sends records under this section is not civilly or criminally liable for failing to disclose the information under this section. [1999 c.620 §1; 2008 c.50 §4; 2009 c.447 §3; 2019 c.634 §11]
 
  
 
-      339.319 Notice to school district of person convicted of crime; immunity. (1)(a) When a person under 18 years of age is convicted of a crime under ORS 137.707 or following waiver under ORS 419C.349, 419C.352, 419C.364 or 419C.370 (1)(b), the agency supervising the person or, in the case of a juvenile department that has agreed to be responsible for providing the notice required under this section, the juvenile department shall give notice of the conviction within five days following sentencing to the school administrator of the school attended by the person or to the school administrator of the school district in which the person resides. For purposes of this section, “school administrator” has the meaning given that term in ORS 419A.305.
+      339.319 Notice to school district of person convicted of crime; immunity. (1)(a) When a person under 18 years of age is convicted of a crime following waiver under ORS 419C.349, 419C.352, 419C.364 or 419C.370 (1)(b), the agency supervising the person or, in the case of a juvenile department that has agreed to be responsible for providing the notice required under this section, the juvenile department shall give notice of the conviction within five days following sentencing to the school administrator of the school attended by the person or to the school administrator of the school district in which the person resides. For purposes of this section, “school administrator” has the meaning given that term in ORS 419A.305.
 
       (b) The agency supervising the person or the juvenile department shall include in the notice:
 
@@ -2299,7 +2057,7 @@ SCHOOL SAFETY
 
       (H) Any other conditions required by the court.
 
-      (2) An agency supervising a person or anyone employed by or acting on behalf of an agency supervising a person who sends records under this section is not civilly or criminally liable for failing to disclose the information under this section. [1999 c.620 §2; 2008 c.50 §5; 2009 c.447 §4]
+      (2) An agency supervising a person or anyone employed by or acting on behalf of an agency supervising a person who sends records under this section is not civilly or criminally liable for failing to disclose the information under this section. [1999 c.620 §2; 2008 c.50 §5; 2009 c.447 §4; 2019 c.634 §12]
 
  
 
@@ -2307,7 +2065,7 @@ SCHOOL SAFETY
 
  
 
-      339.321 Notice to school district and law enforcement agencies of release or discharge of person; immunity. (1) No later than 15 days before the release or discharge of a person committed to the legal custody of the Department of Corrections or the supervisory authority of a county under ORS 137.707 or following waiver under ORS 419C.349, 419C.352, 419C.364 or 419C.370, the department or supervisory authority or, in the case of a juvenile department that has agreed to be responsible for providing the notice required under this section, the juvenile department shall notify the following of the release or discharge if the person is under 21 years of age at the time of the release:
+      339.321 Notice to school district and law enforcement agencies of release or discharge of person; immunity. (1) No later than 15 days before the release or discharge of a person committed to the legal custody of the Department of Corrections or the supervisory authority of a county following waiver under ORS 419C.349, 419C.352, 419C.364 or 419C.370, the department or supervisory authority or, in the case of a juvenile department that has agreed to be responsible for providing the notice required under this section, the juvenile department shall notify the following of the release or discharge if the person is under 21 years of age at the time of the release:
 
       (a) Law enforcement agencies in the community in which the person is going to reside; and
 
@@ -2333,7 +2091,7 @@ SCHOOL SAFETY
 
       (3) The department, supervisory authority or anyone employed by or acting on behalf of the department or supervisory authority who sends records under this section is not civilly or criminally liable for failing to disclose the information under this section.
 
-      (4) As used in this section, “school administrator” has the meaning given that term in ORS 419A.305. [1999 c.620 §5; 2008 c.50 §6; 2009 c.447 §5]
+      (4) As used in this section, “school administrator” has the meaning given that term in ORS 419A.305. [1999 c.620 §5; 2008 c.50 §6; 2009 c.447 §5; 2019 c.634 §13]
 
  
 
@@ -2447,7 +2205,9 @@ SCHOOL SAFETY
 
       (b) “Local law enforcement contact” means a local law enforcement officer designated by the Department of State Police to be notified when the tip line receives a report of a threat to student safety or potential threat to student safety.
 
-      (c) “Service provider” means a person designated by the department to be notified when the tip line receives a report of a threat to student safety or potential threat to student safety. “Service provider” includes:
+      (c) “Personally identifiable information” means any information that would permit the identification of a person who reports information using the tip line, and is not limited to name, phone number, physical address, electronic mail address, race, gender, sexual orientation, disability designation, religious affiliation, national origin, ethnicity, school of attendance, city, county or any geographic identifier included in information conveyed through the tip line, or information identifying the machine or device used by the person in making a report using the tip line.
+
+      (d) “Service provider” means a person designated by the department to be notified when the tip line receives a report of a threat to student safety or potential threat to student safety. “Service provider” includes:
 
       (A) A provider of behavioral health care or mental health care;
 
@@ -2459,7 +2219,7 @@ SCHOOL SAFETY
 
       (E) A professional counselor or a marriage and family therapist licensed under ORS 675.615.
 
-      (d) “Student” means a student of:
+      (e) “Student” means a student of:
 
       (A) A school district, as defined in ORS 332.002;
 
@@ -2471,7 +2231,7 @@ SCHOOL SAFETY
 
       (E) A public university listed under ORS 352.002.
 
-      (e) “Threat to student safety” includes, but is not limited to, a threat or instance of:
+      (f) “Threat to student safety” includes, but is not limited to, a threat or instance of:
 
       (A) Harassment, intimidation or bullying or cyberbullying;
 
@@ -2479,7 +2239,7 @@ SCHOOL SAFETY
 
       (C) Violence against others.
 
-      (f) “Tip line” means a statewide resource designed to accept information concerning threats to student safety or potential threats to student safety through methods of transmission including:
+      (g) “Tip line” means a statewide resource designed to accept information concerning threats to student safety or potential threats to student safety through methods of transmission including:
 
       (A) Telephone calls;
 
@@ -2491,7 +2251,7 @@ SCHOOL SAFETY
 
       (3) In consultation with state and local government behavioral health care providers, the department shall adopt rules necessary to establish and operate the tip line. The rules must include, but are not limited to:
 
-      (a) Provisions that protect the identity of a person reporting information without compromising opportunities for follow-up contact from local law enforcement contacts or service providers to provide further information to or obtain further information from the person; and
+      (a) Provisions that protect the personally identifiable information of a person reporting information without compromising opportunities for follow-up contact from local law enforcement contacts or service providers to provide further information to or obtain further information from the person; and
 
       (b) Written policies and procedures for:
 
@@ -2505,7 +2265,27 @@ SCHOOL SAFETY
 
       (E) Reporting for the purposes of tracking referrals to local law enforcement contacts and service providers resulting from information received on the tip line and tracking the outcome of any action taken in response to the referral.
 
-      (4) The department may seek and accept gifts, grants and donations from any source for the purpose of carrying out its duties under this section. [2016 c.74 §1]
+      (4) The contents of tips reported to the tip line may be disclosed only as allowed under ORS 192.345 (41), except that:
+
+      (a) Personally identifiable information may be disclosed only as provided in this section; and
+
+      (b) Personally identifiable information and other information reported through the tip line may be disclosed to the following persons for the purpose of follow-up contact to obtain or provide further information:
+
+      (A) Tip line staff;
+
+      (B) A school district, education service district, community college, private school that provides educational services to kindergarten through grade 12 students, career school or public university;
+
+      (C) A service provider; or
+
+      (D) Law enforcement.
+
+      (5) Any person authorized to receive tip line information under subsection (4) of this section must use the information only for the purpose of making follow-up contact to obtain or provide further information. Any further information obtained through follow-up contact may be disclosed only to the persons described in subsection (4) of this section.
+
+      (6) Persons authorized to receive tip line information under subsection (4) of this section may not disclose to the public the outcomes or actions taken as a result of tip line information unless the disclosure is required by a statute other than this section.
+
+      (7) Notwithstanding subsections (4) to (6) of this section, the department may release aggregated or summary information for reporting purposes and may provide information obtained through the tip line for the purpose of educating the public about the tip line, but may not disclose personally identifiable information under this subsection.
+
+      (8) The department may seek and accept gifts, grants and donations from any source for the purpose of carrying out its duties under this section. [2016 c.74 §1; 2019 c.130 §1]
 
  
 
@@ -2644,6 +2424,120 @@ SCHOOL SAFETY
  
 
       339.340 [1965 c.100 §294; repealed by 1973 c.728 §6]
+
+ 
+
+(Student Safety and Suicide Prevention)
+
+ 
+
+      339.341 Statewide School Safety and Prevention System; rules. (1) As used in this section:
+
+      (a) “Cyberbullying” has the meaning given that term in ORS 339.351.
+
+      (b) “Harassment, intimidation or bullying” has the meaning given that term in ORS 339.351.
+
+      (c) “Suicidal behavior” includes:
+
+      (A) Self-directed, injurious behavior with an intent to die as a result of the behavior;
+
+      (B) Nonfatal, self-directed, potentially injurious behavior with an intent to die as a result of the behavior that may not result in injury; or
+
+      (C) Thinking about, considering or planning suicide.
+
+      (d) “Violence” means aggressive behavior with the intention to cause, or an outcome that poses a risk of causing, serious or lethal injury.
+
+      (2) The Department of Education shall establish and maintain the Statewide School Safety and Prevention System.
+
+      (3) The system required under this section shall consist of the following:
+
+      (a) Assistance to school districts and education service districts in decreasing acts of harassment, intimidation or bullying and acts of cyberbullying through the implementation of effective prevention programs that:
+
+      (A) Incorporate evidenced-based, multitiered practices; and
+
+      (B) Support resiliency building and trauma-informed care practices.
+
+      (b) Assistance to school districts and education service districts in decreasing youth suicidal behavior through the implementation of effective prevention programs and student wellness programs that focus on early identification and intervention by school safety and prevention specialists, as described in subsection (4) of this section, who:
+
+      (A) Provide training, outreach and technical assistance related to youth suicidal behavior prevention and wellness;
+
+      (B) Support coordination between schools and health agencies, including public and private behavioral health providers; and
+
+      (C) Support school districts and education service districts in the establishment of suicidal behavior prevention programs.
+
+      (c) Assistance to school districts and education service districts in implementing a multidisciplinary student safety assessment system to identify, assess and support students who present a potential risk for violence to others. Multidisciplinary school safety assessment teams shall be made available to assist each school district and education service district in assessing students who are engaged in violence or who are posing a threat of violence to others. The teams shall:
+
+      (A) Assess potential danger and identify circumstances and risk factors that may increase risk for potential violence;
+
+      (B) Develop management and intervention plans in collaboration with community partners; and
+
+      (C) Connect students and families to community resources and supports.
+
+      (d) Promotion and use of the statewide school safety tip line established by ORS 339.329. School safety and prevention specialists, as described in subsection (4) of this section, shall work collaboratively with the Oregon State Police to support school districts and education service districts in accessing and implementing the school safety tip line.
+
+      (4) The system required under this section shall be supported by school safety and prevention specialists who:
+
+      (a) Serve regions of this state;
+
+      (b) Are cross-trained in safety assessments and in the prevention of youth suicide, of acts of bullying, intimidation or harassment and of acts of cyberbullying; and
+
+      (c) Provide or facilitate training, the development of programs and plans, the coordination of local teams and the provision of ongoing consultation to regional partners, school districts and education service districts.
+
+      (5) The State Board of Education, in consultation with the Oregon Health Authority and other representatives of school districts, education service districts, school employees, human services, mental health professionals and law enforcement agencies, shall adopt rules related to the system required under this section. [2019 c.122 §36]
+
+ 
+
+      Note: 339.341 becomes operative July 1, 2020. See section 37, chapter 122, Oregon Laws 2019.
+
+ 
+
+      339.343 Comprehensive district plans on student suicide prevention; rules. (1) This section shall be known and may be cited as Adi’s Act.
+
+      (2) In accordance with rules adopted by the State Board of Education in consultation with the Oregon Health Authority, each school district shall adopt a policy requiring a comprehensive district plan on student suicide prevention for students in kindergarten through grade 12.
+
+      (3) A plan required under this section must include:
+
+      (a) Procedures relating to suicide prevention, intervention and activities that reduce risk and promote healing after a suicide;
+
+      (b) Identification of the school officials responsible for responding to reports of suicidal risk;
+
+      (c) A procedure by which a person may request a school district to review the actions of a school in responding to suicidal risk;
+
+      (d) Methods to address the needs of high-risk groups, including:
+
+      (A) Youth bereaved by suicide;
+
+      (B) Youth with disabilities, mental illness or substance use disorders;
+
+      (C) Youth experiencing homelessness or out-of-home settings, such as foster care; and
+
+      (D) Lesbian, gay, bisexual, transgender, queer and other minority gender identities and sexual orientations;
+
+      (e) A description of, and materials for, any training to be provided to school employees as part of the plan, which must include:
+
+      (A) When and how to refer youth and their families to appropriate mental health services; and
+
+      (B) Programs that can be completed through self-review of suitable suicide prevention materials; and
+
+      (f) Any other requirement prescribed by the State Board of Education by rule, based on consultations with state and national suicide prevention organizations, suicide experts and school-based mental health providers, and based on reviews of national models.
+
+      (4) A school district may consult with state or national suicide prevention organizations, the Department of Education, school-based mental health professionals, parents, guardians, school employees, students, administrators and school board associations when developing the plan required under this section.
+
+      (5) The plan required under this section:
+
+      (a) Must be written to ensure that a school employee acts only within the authorization and scope of the employee’s credentials or licenses. Nothing in this section shall be construed as authorizing or encouraging a school employee to diagnose or treat mental illness unless the employee is specifically licensed and employed to do so.
+
+      (b) Must be:
+
+      (A) Made available annually to the community of the school district, including students of the school district, parents and guardians of students of the school district, and employees and volunteers of the school district.
+
+      (B) Readily available at the school district office and on the school district website, if applicable.
+
+      (6) A school district that does not comply with the requirements of this section is considered to be nonstandard under ORS 327.103. [2019 c.172 §1]
+
+ 
+
+      Note: 339.343 becomes operative July 1, 2020. See section 2, chapter 172, Oregon Laws 2019.
 
  
 
@@ -2823,125 +2717,183 @@ SCHOOL SAFETY
 
       (1) “Abuse” has the meaning given that term in ORS 419B.005.
 
-      (2) “Disciplinary records” means the records related to a personnel discipline action or materials or documents supporting that action.
+      (2) “Agent” means a person acting as an agent for an education provider in a manner that requires the person to have direct, unsupervised contact with students.
 
-      (3) “Education provider” means:
+      (3) “Contractor” means a person providing services to an education provider under a contract in a manner that requires the person to have direct, unsupervised contact with students.
 
-      (a) A school district, as defined in ORS 332.002.
+      (4)(a) “Education provider” means:
 
-      (b) The Oregon School for the Deaf.
+      (A) A school district, as defined in ORS 332.002.
 
-      (c) An educational program under the Youth Corrections Education Program.
+      (B) The Oregon School for the Deaf.
 
-      (d) A public charter school, as defined in ORS 338.005.
+      (C) An educational program under the Youth Corrections Education Program.
 
-      (e) An education service district, as defined in ORS 334.003.
+      (D) A public charter school, as defined in ORS 338.005.
 
-      (f) Any state-operated program that provides educational services to kindergarten through grade 12 students.
+      (E) An education service district, as defined in ORS 334.003.
 
-      (g) A private school.
+      (F) Any state-operated program that provides educational services to students.
 
-      (4) “Investigation” means a detailed inquiry into the factual allegations of a report of suspected abuse or sexual conduct that:
+      (G) A private school.
 
-      (a) Is based on interviews with the complainant, witnesses and the school employee or student who is the subject of the report; and
+      (b) “Education provider” does not include:
 
-      (b) If the subject of the report is a school employee, meets any negotiated standards of an employment contract or agreement.
+      (A) The Oregon Youth Authority;
 
-      (5) “Law enforcement agency” has the meaning given that term in ORS 419B.005.
+      (B) The Department of Corrections; or
 
-      (6) “Private school” means a school that provides to kindergarten through grade 12 students instructional programs that are not limited solely to dancing, drama, music, religious or athletic instruction.
+      (C) The Department of Education, except when functioning as an education provider on behalf of:
 
-      (7) “School board” means the governing board or governing body of an education provider.
+      (i) The Oregon School for the Deaf;
 
-      (8) “School employee” means an employee of an education provider.
+      (ii) An educational program under the Youth Corrections Education Program; or
 
-      (9)(a) “Sexual conduct” means any verbal or physical conduct by a school employee that:
+      (iii) A public charter school, as defined in ORS 338.005, that is sponsored by the Department of Education.
 
-      (A) Is sexual in nature;
+      (5) “Investigation” means a detailed inquiry into the factual allegations of a report of suspected abuse or suspected sexual conduct that:
 
-      (B) Is directed toward a kindergarten through grade 12 student;
+      (a) Is based on interviews with the person who initiated the report, the person who may have been subjected to abuse or sexual conduct, witnesses and the person who is the subject of the report; and
 
-      (C) Has the effect of unreasonably interfering with a student’s educational performance; and
+      (b) Results in a finding that the report:
 
-      (D) Creates an intimidating, hostile or offensive educational environment.
+      (A) Is a substantiated report;
 
-      (b) “Sexual conduct” does not include abuse.
+      (B) Cannot be substantiated; or
 
-      (10) “Substantiated report” means a report of abuse or sexual conduct that:
+      (C) Is not a report of abuse or sexual conduct.
 
-      (a) An education provider has reasonable cause to believe is founded based on the available evidence after conducting an investigation; and
+      (6) “Law enforcement agency” has the meaning given that term in ORS 419B.005.
 
-      (b) Involves conduct that the education provider determines is sufficiently serious to be documented in the school employee’s personnel file or the student’s education record. [2005 c.367 §1; 2007 c.501 §1; 2007 c.858 §68; 2009 c.93 §1; 2009 c.562 §22; 2011 c.301 §6; 2012 c.92 §2]
+      (7) “License” includes a license, registration or certificate issued by the Teacher Standards and Practices Commission.
+
+      (8) “Private school” means a school that provides to students instructional programs that are not limited solely to dancing, drama, music, religious or athletic instruction.
+
+      (9) “School board” means the entity charged with adopting policies for an education provider.
+
+      (10) “School employee” means an employee of an education provider.
+
+      (11)(a) “Sexual conduct” means verbal or physical conduct or verbal, written or electronic communications by a school employee, a contractor, an agent or a volunteer that involve a student and that are:
+
+      (A) Sexual advances or requests for sexual favors directed toward the student; or
+
+      (B) Of a sexual nature that are directed toward the student or that have the effect of unreasonably interfering with the student’s educational performance, or of creating an intimidating, hostile or offensive educational environment.
+
+      (b) “Sexual conduct” does not include touching:
+
+      (A) That is necessitated by the nature of the school employee’s job duties or by the services required to be provided by the contractor, agent or volunteer; and
+
+      (B) For which there is no sexual intent.
+
+      (12) “Student” means any person:
+
+      (a) Who is:
+
+      (A) In any grade from prekindergarten through grade 12; or
+
+      (B) Twenty-one years of age or younger and receiving educational or related services from an education provider that is not a post-secondary institution of education; or
+
+      (b) Who was previously known as a student by the person engaging in sexual conduct and who left school or graduated from high school within 90 days prior to the sexual conduct.
+
+      (13) “Substantiated report” means a report of abuse or sexual conduct that a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission, the Department of Education or an education provider has reasonable cause to believe, based on the available evidence after conducting an investigation, is founded.
+
+      (14) “Volunteer” means a person acting as a volunteer for an education provider in a manner that requires the person to have direct, unsupervised contact with students. [2005 c.367 §1; 2007 c.501 §1; 2007 c.858 §68; 2009 c.93 §1; 2009 c.562 §22; 2011 c.301 §6; 2012 c.92 §2; 2019 c.618 §1]
 
  
 
-      339.372 Policies of school boards on reporting of abuse and sexual conduct. Each school board shall adopt policies on the reporting of abuse and sexual conduct by school employees and the reporting of abuse by students. The policies shall:
+      339.372 Policies of school boards on reporting of suspected abuse and suspected sexual conduct. Each school board shall adopt policies on the reporting of suspected abuse and suspected sexual conduct by school employees, contractors, agents and volunteers and the reporting of suspected abuse by students. The policies shall:
 
-      (1) Specify that abuse and sexual conduct by school employees and abuse by students are not tolerated;
+      (1) Specify that abuse and sexual conduct by school employees, contractors, agents and volunteers and abuse by students are not tolerated.
 
-      (2) Specify that all school employees and students are subject to the policies;
+      (2) Specify that all school employees, contractors, agents, volunteers and students are subject to the policies.
 
-      (3) Require all school employees who have reasonable cause to believe that another school employee has engaged in abuse or sexual conduct or that a student has engaged in abuse to:
+      (3) Require all school employees who have reasonable cause to believe that another school employee or a contractor, an agent or a volunteer has engaged in abuse or sexual conduct or that a student has engaged in abuse to report:
 
-      (a) Report suspected abuse to a law enforcement agency, the Department of Human Services or a designee of the department as required by ORS 419B.010 and 419B.015; and
+      (a) To the licensed administrator designated as provided by subsection (4) of this section all incidents of suspected abuse or suspected sexual conduct; and
 
-      (b) Report suspected abuse or sexual conduct to the person designated as provided by subsection (4) of this section;
+      (b) To a law enforcement agency, the Department of Human Services or a designee of the department as required by ORS 419B.010 and 419B.015 all incidents of suspected abuse, in addition to any report made as required under paragraph (a) of this subsection.
 
-      (4) Designate a person, and an alternate in the event the designated person is the suspected abuser, to receive reports of suspected abuse or sexual conduct by school employees or suspected abuse by students and specify the procedures to be followed by that person upon receipt of a report;
+      (4) Designate a licensed administrator, and an alternate licensed administrator in the event the designated licensed administrator is the suspected abuser, to:
 
-      (5) Require the posting in each school building of the name and contact information for the person designated for the school building to receive reports of suspected abuse or sexual conduct by school employees or suspected abuse by students and the procedures the person will follow upon receipt of a report;
+      (a) Receive reports of suspected abuse or suspected sexual conduct by school employees, contractors, agents or volunteers or suspected abuse by students and specify the procedures to be followed by the licensed administrator upon receipt of a report; and
 
-      (6) Specify that the initiation of a report in good faith about suspected abuse or sexual conduct may not adversely affect any terms or conditions of employment or the work environment of the complainant;
+      (b) In the manner required by ORS 339.388 (2), inform the Teacher Standards and Practices Commission or the Department of Education of reports of suspected sexual conduct received under paragraph (a) of this subsection.
 
-      (7) Specify that the school board or any school employee will not discipline a student for the initiation of a report in good faith about suspected abuse or sexual conduct by a school employee or suspected abuse by a student;
+      (5) Specify the procedures to be followed after a report of suspected abuse or suspected sexual conduct is received, including notification that:
 
-      (8) Require notification by the education provider to the person who initiated the report about actions taken by the education provider based on the report; and
+      (a) All suspected abuse or suspected sexual conduct by school employees, contractors, agents or volunteers will be reported to a law enforcement agency or to a state agency, as appropriate, for investigation;
 
-      (9) Require the education provider to furnish to a school employee at the time of hire the following:
+      (b) A law enforcement agency or a state agency will complete an investigation regardless of any changes in the relationship or duties of the person about whom the report was made; and
 
-      (a) A description of conduct that may constitute abuse or sexual conduct; and
+      (c) An education provider will take necessary actions as provided by ORS 339.388 to ensure the student’s safety after a report is received, including placing a school employee on paid administrative leave pending an investigation or prohibiting a contractor, an agent or a volunteer from providing services to the education provider.
 
-      (b) A description of the information and records that will be disclosed as provided by ORS 339.378 or 339.388 (8) if a report of suspected abuse or sexual conduct is substantiated. [2005 c.367 §2; 2009 c.93 §2; 2012 c.92 §3; 2013 c.553 §2]
+      (6) Require the posting in each school building of:
+
+      (a) The name and contact information for the licensed administrator and alternate licensed administrator designated for the school building to receive reports of suspected abuse or suspected sexual conduct by school employees, contractors, agents and volunteers or suspected abuse by students and the procedures the licensed administrator will follow upon receipt of a report; and
+
+      (b) The contact information for making a report of suspected abuse to a law enforcement agency, the Department of Human Services or a designee of the department as required by ORS 419B.010 and 419B.015 and a statement that the duty to report abuse is in addition to any requirement to make a report to a licensed administrator.
+
+      (7) Specify that the initiation of a report in good faith about suspected abuse or suspected sexual conduct may not adversely affect any terms or conditions of employment or the work environment of the person who initiated the report or who may have been subjected to abuse or sexual conduct.
+
+      (8) Specify that the education provider or any school employee, contractor, agent or volunteer will not discipline a student for the initiation of a report in good faith about suspected abuse or suspected sexual conduct by a school employee, a contractor, an agent or a volunteer or suspected abuse by a student.
+
+      (9) Require notification, as allowed by state and federal law, by the education provider to the person who was subjected to the suspected abuse or suspected sexual conduct about any actions taken by the education provider based on the report.
+
+      (10) Require the education provider to furnish to a school employee at the time of hire, or to a contractor, an agent or a volunteer at the time of beginning service for the education provider, the following:
+
+      (a) A description of conduct that may constitute abuse or sexual conduct;
+
+      (b) A description of the investigatory process and possible consequences if a report of suspected abuse or suspected sexual conduct is substantiated; and
+
+      (c) A description of the prohibitions imposed on school employees, contractors and agents when another school employee, contractor or agent attempts to obtain a new job, as provided by ORS 339.378 (2).
+
+      (11) Specify and make available to students, school employees, contractors, agents and volunteers a policy of appropriate electronic communications with students. [2005 c.367 §2; 2009 c.93 §2; 2012 c.92 §3; 2013 c.553 §2; 2019 c.618 §3]
 
  
 
-      339.374 Required background checks by education provider of applicant for position with education provider. Except as provided in ORS 339.384, before an education provider may hire an applicant for a position with the education provider, the education provider shall:
+      339.374 Required background checks by education providers. (1) Except as provided in ORS 339.384, before an education provider may hire an applicant for a position with the education provider as a school employee, the education provider shall:
 
-      (1) Require the applicant to provide:
+      (a) Require the applicant to provide:
 
-      (a) A list of the applicant’s current and former employers who are education providers.
+      (A) A list of the applicant’s current and former employers who are education providers.
 
-      (b) A written authorization that authorizes the applicant’s current and former employers that are education providers to disclose the information requested under subsection (2) of this section.
+      (B) A written authorization that authorizes education providers identified in subparagraph (A) of this paragraph to disclose the information requested under paragraph (b) of this subsection.
 
-      (c) A written statement of whether the applicant:
+      (C) A written statement of whether the applicant:
 
-      (A) Has been the subject of a substantiated report of abuse or sexual conduct; or
+      (i) Has been the subject of a substantiated report of abuse or sexual conduct; or
 
-      (B) Is the subject of an ongoing investigation related to a report of suspected abuse or sexual conduct.
+      (ii) Is the subject of an ongoing investigation related to a report of suspected abuse or suspected sexual conduct.
 
-      (2) Conduct a review of the employment history of the applicant by contacting the three most recent employers of the applicant who are education providers and requesting:
+      (b) Conduct a review of the employment history of the applicant with education providers by contacting the three most recent education providers identified in paragraph (a)(A) of this subsection and requesting from each education provider:
 
-      (a) The following information:
+      (A) The dates of employment of the applicant by the education provider.
 
-      (A) The dates of employment of the applicant by the education provider;
+      (B) Whether the education provider conducted an investigation and determined that the applicant was the subject of any substantiated reports of abuse or sexual conduct related to the applicant’s employment with the education provider and, if so, the following additional information:
 
-      (B) Whether the applicant was the subject of any substantiated reports of abuse or sexual conduct related to the applicant’s employment with the education provider;
+      (i) The dates of any substantiated reports;
 
-      (C) The dates of any substantiated reports;
+      (ii) The definitions of “abuse” and “sexual conduct” used by the education provider when the education provider determined that any reports were substantiated; and
 
-      (D) The definitions of abuse and sexual conduct used by the education provider when the education provider determined that any reports were substantiated; and
+      (iii) The standards used by the education provider to determine whether any reports were substantiated.
 
-      (E) The standards used by the education provider to determine whether any reports were substantiated.
+      (c) For an applicant who is licensed with the Teacher Standards and Practices Commission, request the commission to verify:
 
-      (b) Any disciplinary records required to be released as provided by ORS 339.388 (8).
+      (A) That the applicant is licensed by the commission; and
 
-      (3) For an applicant who is licensed, registered or certified with the Teacher Standards and Practices Commission, access online information provided by the commission to verify:
+      (B) Whether the commission has an ongoing investigation or has a substantiated report relating to conduct by the applicant that may constitute sexual conduct.
 
-      (a) That the applicant is licensed, registered or certified by the commission; and
+      (d) For an applicant who is not licensed with the Teacher Standards and Practices Commission, request the Department of Education to verify whether the department has an ongoing investigation or has a substantiated report relating to conduct by the applicant that may constitute sexual conduct.
 
-      (b) Whether the commission has provided any information relating to conduct by the applicant that may constitute abuse or sexual conduct.
+      (e) Conduct a nationwide criminal records check if required by ORS 326.603.
 
-      (4) Conduct a nationwide criminal records check if required by ORS 326.603. [2009 c.93 §7; 2012 c.92 §5; 2013 c.553 §3]
+      (2) Before an education provider may accept the services of a contractor, agent or volunteer, the education provider shall:
+
+      (a) For a person who is licensed with the Teacher Standards and Practices Commission, request the commission to verify whether the commission has an ongoing investigation or has a substantiated report relating to conduct by the person that may constitute sexual conduct.
+
+      (b) For a person who is not licensed with the Teacher Standards and Practices Commission, request the Department of Education to verify whether the department has an ongoing investigation or has a substantiated report relating to conduct by the person that may constitute sexual conduct.
+
+      (c) Conduct any background checks required under ORS 326.603, 326.604 or 326.607. [2009 c.93 §7; 2012 c.92 §5; 2013 c.553 §3; 2019 c.618 §4]
 
  
 
@@ -2953,101 +2905,373 @@ SCHOOL SAFETY
 
  
 
-      339.378 Disclosure of information and records by education provider; confidentiality. (1) Not later than 20 days after receiving a request under ORS 339.374, an education provider that has or has had an employment relationship with the applicant shall disclose the information requested and any disciplinary records that must be disclosed as provided by ORS 339.388 (8).
+      339.378 Disclosure of information and records by education provider; confidentiality; limitations on assisting another in obtaining new job; discipline. (1)(a) Not later than 20 days after receiving a request under ORS 339.374 (1)(b), an education provider that has or has had an employment relationship with the applicant shall disclose the information requested.
 
-      (2) An education provider may disclose the information on a standardized form and is not required to provide any additional information related to a substantiated report of abuse or sexual conduct other than the information that is required by ORS 339.374 (2).
+      (b) An education provider may disclose the information on a standardized form and is not required to provide any additional information related to a substantiated report of abuse or sexual conduct other than the information that is required by ORS 339.374 (1)(b).
 
-      (3) Information received under this section is confidential and is not a public record as defined in ORS 192.311. An education provider may use the information only for the purpose of evaluating an applicant’s eligibility to be hired. [2009 c.93 §8; 2012 c.92 §6; 2013 c.553 §4]
+      (c) Information received under this section is confidential and is not a public record as defined in ORS 192.311. An education provider may use the information only for the purpose of evaluating an applicant’s eligibility to be hired.
+
+      (2)(a) Except as provided by paragraphs (b) and (c) of this subsection, an individual who is a school employee, a contractor or an agent may not assist another school employee, contractor or agent in obtaining any new job if the individual knows, or has reasonable cause to believe, that the school employee, contractor or agent engaged in abuse or sexual conduct.
+
+      (b) Nothing in paragraph (a) of this subsection prevents an education provider from:
+
+      (A) Disclosing the information described in subsection (1) of this section; or
+
+      (B) Providing the routine transmission of administrative and personnel files.
+
+      (c) The prohibition prescribed by paragraph (a) of this subsection does not apply if the school employee, contractor or agent knows, or has reasonable cause to believe:
+
+      (A) That the suspected abuse or suspected sexual conduct was reported to a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education; and
+
+      (B) Any of the following are true:
+
+      (i) The report could be neither substantiated nor found to be unsubstantiated following an investigation;
+
+      (ii) The report was found to be unsubstantiated;
+
+      (iii) The report was found to be a substantiated report; or
+
+      (iv) The investigation into the report remains ongoing after four years.
+
+      (3)(a) The commission may take disciplinary action against a licensed school employee for failure to disclose information as required by subsection (1)(a) of this section. In determining whether to take disciplinary action, the commission may take into consideration any evidence presented by the school employee that a longer period of time was necessary for good cause.
+
+      (b) Any violation of the provisions of subsection (2) of this section shall be considered gross neglect of duty under ORS 342.175. [2009 c.93 §8; 2012 c.92 §6; 2013 c.553 §4; 2019 c.618 §5]
 
  
 
-      339.384 Prohibitions and allowances related to hiring of applicant. (1) An education provider may not hire an applicant who does not comply with the requirements of ORS 339.374 (1). A refusal to hire an applicant under this subsection removes the applicant from any education provider policies, any collective bargaining provisions regarding dismissal procedures and appeals and any provisions of ORS 342.805 to 342.937.
+      339.384 Prohibitions and allowances related to hiring of applicant to be school employee. (1) An education provider may not hire an applicant to be a school employee if the applicant does not comply with the requirements of ORS 339.374 (1)(a). A refusal by the education provider to hire an applicant under this subsection removes the applicant from any education provider policies, any collective bargaining provisions regarding dismissal procedures and appeals and any provisions of ORS 342.805 to 342.937.
 
-      (2) An education provider may hire an applicant on a conditional basis pending the education provider’s review of information and records received under ORS 339.378.
+      (2) An education provider may hire an applicant to be a school employee on a conditional basis pending the education provider’s review of information received under ORS 339.378 (1).
 
       (3) An education provider may not deny an applicant employment solely because:
 
-      (a) A current or former employer of an applicant fails or refuses to comply with the requirements of ORS 339.378; or
+      (a) An education provider identified by the applicant under ORS 339.374 (1)(a)(A) fails or refuses to comply with the requirements of ORS 339.378 (1); or
 
-      (b) The applicant has or had an out-of-state employer and the laws or rules of that state prevent the release of information or records requested under ORS 339.378. [2009 c.93 §9]
-
- 
-
-      339.388 Report of abuse or sexual conduct; investigation; appeal process; disclosure of records. (1)(a) A school employee having reasonable cause to believe that a child with whom the employee comes in contact has suffered abuse by another school employee or by a student, or that another school employee or a student with whom the employee comes in contact has abused a child, shall immediately report the information to:
-
-      (A) The person designated in the policy adopted under ORS 339.372; and
-
-      (B) A law enforcement agency, the Department of Human Services or a designee of the department as required by ORS 419B.010 and 419B.015.
-
-      (b) A school employee having reasonable cause to believe that a student with whom the employee comes in contact has been subjected to sexual conduct by another school employee, or that another school employee with whom the employee comes in contact has engaged in sexual conduct, shall immediately report the information to the person designated in the policy adopted under ORS 339.372.
-
-      (2) A person who receives a report under subsection (1) of this section shall follow the procedures required by the policy adopted by the school board under ORS 339.372.
-
-      (3)(a) Except as provided in subsection (4) of this section, when an education provider receives a report of suspected abuse or sexual conduct by one of its employees, and the education provider’s designee determines that there is reasonable cause to support the report, the education provider:
-
-      (A) In the case of suspected abuse, shall place the school employee on paid administrative leave; or
-
-      (B) In the case of suspected sexual conduct, may place the school employee on paid administrative leave or in a position that does not involve direct, unsupervised contact with children.
-
-      (b) A school employee who is placed on paid administrative leave under paragraph (a)(A) of this subsection shall remain on administrative leave until:
-
-      (A) The Department of Human Services or a law enforcement agency determines that the report cannot be substantiated or that the report will not be pursued; or
-
-      (B) The Department of Human Services or a law enforcement agency determines that the report is substantiated and the education provider takes the appropriate disciplinary action against the school employee.
-
-      (4) An education provider may reinstate a school employee placed on paid administrative leave for suspected abuse as provided under subsection (3) of this section or may take the appropriate disciplinary action against the employee if the Department of Human Services or a law enforcement agency is unable to determine, based on a report of suspected abuse, whether abuse occurred.
-
-      (5) If, following an investigation, an education provider determines that a report of suspected abuse or sexual conduct by a school employee is a substantiated report, the education provider shall:
-
-      (a) Inform the school employee that the education provider has determined that the report has been substantiated.
-
-      (b) Provide the school employee with information about the appropriate appeal process for the determination made by the education provider. The appeal process may be the process provided by a collective bargaining agreement or a process administered by a neutral third party and paid for by the school district.
-
-      (c) Following notice of a school employee’s decision not to appeal the determination or following the determination of an appeal that sustained the substantiated report, create a record of the substantiated report and place the record in the personnel file of the school employee. Records created pursuant to this paragraph are confidential and are not public records as defined in ORS 192.311. An education provider may use the record as a basis for providing the information required to be disclosed under ORS 339.378.
-
-      (d) Inform the school employee that information about substantiated reports may be disclosed to a potential employer as provided by subsection (8) of this section and ORS 339.378.
-
-      (6)(a) Notwithstanding the requirements of subsections (3), (4) and (5) of this section, an education provider that is a private school:
-
-      (A) May discipline or terminate a school employee according to:
-
-      (i) The provisions of subsections (3) and (4) of this section; or
-
-      (ii) The standards and policies of the private school if the standards and policies provide the same or greater safeguards for the protection of children compared to the safeguards described in subsections (3) and (4) of this section.
-
-      (B) May follow the procedures described in subsection (5) of this section or may follow any appeals process established by the private school related to suspected child abuse or sexual conduct.
-
-      (b) A private school that chooses to discipline or terminate a school employee according to the standards and policies of the school must provide the information required to be disclosed under ORS 339.378.
-
-      (7) Upon request from a law enforcement agency, the Department of Human Services or the Teacher Standards and Practices Commission, a school district shall provide the records of investigations of suspected abuse by a school employee or former school employee.
-
-      (8)(a) The disciplinary records of a school employee or former school employee convicted of a crime listed in ORS 342.143 are not exempt from disclosure under ORS 192.345 or 192.355.
-
-      (b) If a school employee is convicted of a crime listed in ORS 342.143, the education provider that is the employer of the employee shall disclose the disciplinary records of the employee to any person upon request.
-
-      (c) If a former school employee is convicted of a crime listed in ORS 342.143, the education provider that was the employer of the former employee when the crime was committed shall disclose the disciplinary records of the former employee to any person upon request.
-
-      (9) Prior to disclosure of a disciplinary record under subsection (8) of this section, an education provider shall remove any personally identifiable information from the record that would disclose the identity of a child, a crime victim or a school employee or former school employee who is not the subject of the disciplinary record. [Formerly 339.375; 2012 c.92 §4; 2013 c.553 §1]
+      (b) One or more education providers identified by the applicant under ORS 339.374 (1)(a)(A) are located in another state and the laws or rules of that state prevent the release of information requested under ORS 339.378 (1). [2009 c.93 §9; 2019 c.618 §6]
 
  
 
-      339.392 Prohibitions against certain agreements and contracts. (1) An education provider may not enter into a collective bargaining agreement, an employment contract, an agreement for resignation or termination, a severance agreement or any other contract or agreement that:
+      339.388 Report of abuse or sexual conduct; investigation; appeal process; disclosure of records. (1)(a) A school employee shall immediately submit a report as provided by paragraph (b) of this subsection if the school employee has reasonable cause to believe that:
 
-      (a) Has the effect of suppressing information relating to an ongoing investigation related to a report of suspected abuse or sexual conduct or relating to a substantiated report of abuse or sexual conduct by a current or former employee;
+      (A) A student has been subjected to abuse by another school employee or by a contractor, an agent, a volunteer or a student;
 
-      (b) Affects the duties of the education provider to report suspected abuse or sexual conduct or to discipline a current or former employee for a substantiated report of abuse or sexual conduct;
+      (B) A student has been subjected to sexual conduct by another school employee or by a contractor, an agent or a volunteer; or
 
-      (c) Impairs the ability of the education provider to discipline an employee for a substantiated report of abuse or sexual conduct; or
+      (C) Another school employee or a contractor, an agent or a volunteer has engaged in sexual conduct.
 
-      (d) Requires the education provider to expunge substantiated information about abuse or sexual conduct from any documents maintained by an education provider.
+      (b) The report required under paragraph (a) of this subsection shall be made to:
+
+      (A) The licensed administrator designated in the policies adopted under ORS 339.372, for all reports of suspected abuse or suspected sexual conduct; and
+
+      (B) A law enforcement agency, the Department of Human Services or a designee of the department as required by ORS 419B.010 and 419B.015, for all reports of suspected abuse.
+
+      (2) The licensed administrator who receives a report under subsection (1) of this section shall follow the procedures required by the policies adopted by the school board under ORS 339.372, including:
+
+      (a) Notifying the Teacher Standards and Practices Commission as soon as possible of any reports of suspected sexual conduct that may have been committed by a person who is licensed by the commission; and
+
+      (b) Notifying the Department of Education as soon as possible of any reports of suspected sexual conduct that may have been committed by a person who is not licensed by the commission.
+
+      (3)(a) When a licensed administrator receives a report of suspected abuse or suspected sexual conduct by a school employee and there is reasonable cause to support the report, the education provider shall:
+
+      (A) Place the school employee on paid administrative leave; and
+
+      (B) Take necessary actions to ensure the student’s safety.
+
+      (b) A school employee who is placed on paid administrative leave under paragraph (a) of this subsection shall remain on administrative leave until:
+
+      (A) For a report of suspected abuse, a law enforcement agency or the Department of Human Services determines that the report:
+
+      (i) Is substantiated and the education provider takes the appropriate employment action against the school employee; or
+
+      (ii) Cannot be substantiated or is not a report of abuse and the education provider:
+
+      (I) Determines that an employment policy has been violated and takes appropriate employment action against the school employee; or
+
+      (II) Determines that an employment policy has not been violated and employment action against the school employee is not required.
+
+      (B) For a report of suspected sexual conduct, the Teacher Standards and Practices Commission or the Department of Education determines that the report:
+
+      (i) Is substantiated and the education provider takes the appropriate employment action against the school employee; or
+
+      (ii) Cannot be substantiated or is not a report of sexual conduct and the education provider:
+
+      (I) Determines that an employment policy has been violated and takes appropriate employment action against the school employee; or
+
+      (II) Determines that an employment policy has not been violated and that employment action against the school employee is not required.
+
+      (c) When a school employee is placed on paid administrative leave under paragraph (a) of this subsection, the education provider may not require the school employee to use any accrued leave during the paid administrative leave.
+
+      (4)(a) Except as provided in paragraph (c) of this subsection, when a licensed administrator receives a report of suspected abuse or suspected sexual conduct by a contractor, an agent or a volunteer, the education provider:
+
+      (A) May immediately prohibit the contractor, agent or volunteer from providing services to the education provider.
+
+      (B) Shall prohibit the contractor, agent or volunteer from providing services to the education provider if the education provider determines that there is reasonable cause to support a report of abuse or sexual conduct.
+
+      (b) Except as provided in paragraph (c) of this subsection, an education provider is not required to reinstate a contractor, an agent or a volunteer. Any reinstatement of a contractor, an agent or a volunteer that does occur may not occur until:
+
+      (A) For a report of suspected abuse, a law enforcement agency or the Department of Human Services determines that the report:
+
+      (i) Is substantiated and the education provider takes the appropriate actions to protect students; or
+
+      (ii) Cannot be substantiated or is not a report of abuse and the education provider:
+
+      (I) Takes the appropriate actions to protect students; or
+
+      (II) Determines that no other actions are required to protect students.
+
+      (B) For a report of suspected sexual conduct, the Teacher Standards and Practices Commission or the Department of Education determines that the report:
+
+      (i) Is substantiated and the education provider takes the appropriate actions to protect students; or
+
+      (ii) Cannot be substantiated or is not a report of sexual conduct and the education provider:
+
+      (I) Takes the appropriate actions to protect students; or
+
+      (II) Determines that no other actions are required to protect students.
+
+      (c) If a contract under which a contractor provides services to an education provider or an agreement under which an agent provides services to an education provider sets forth any negotiated standards for the relationship between the contractor or agent and the education provider, the education provider shall comply with those standards but may not in any instance grant the contractor or agent more rights than granted to a school employee under subsection (3) of this section.
+
+      (d) Nothing in this subsection:
+
+      (A) Establishes an employment relationship between an education provider and a contractor or an agent; or
+
+      (B) Confers onto a contractor or an agent any rights of employment.
+
+      (5)(a) When a report of suspected abuse or suspected sexual conduct is investigated by a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education, an education provider may use the findings of the entity that conducted the investigation for the purpose of subsection (3) or (4) of this section and for making any determinations described in subsection (6) of this section.
+
+      (b) Nothing in this subsection prohibits an education provider from:
+
+      (A) Conducting an investigation related to a report of suspected abuse or suspected sexual conduct, except that the education provider must:
+
+      (i) If requested, allow the investigation to be led by an entity identified in paragraph (a) of this subsection, as applicable;
+
+      (ii) Follow any protocols and procedures of entities identified in paragraph (a) of this subsection that are involved in the investigation; and
+
+      (iii) Cooperate with the entities identified in paragraph (a) of this subsection that are involved in the investigation, including by:
+
+      (I) Suspending any investigations of the education provider at the request of the entity; and
+
+      (II) Sharing information with the entity as provided by subsection (10) of this section.
+
+      (B) Taking an employment action, based on information available to the education provider, before an investigation conducted by an entity identified in paragraph (a) of this subsection is completed.
+
+      (6)(a) For each report of suspected abuse or suspected sexual conduct by a school employee, an education provider must determine if:
+
+      (A) An employment policy of the education provider was violated; and
+
+      (B) The education provider will take any employment actions, including disciplinary action against the school employee or changes to the employment relationship or duties of the school employee.
+
+      (b) Determinations made under paragraph (a) of this subsection must be based on the findings of an investigation conducted by:
+
+      (A) A law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education; or
+
+      (B) The education provider, if the education provider conducts an investigation.
+
+      (c) A final determination by a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education that a report of suspected abuse or suspected sexual conduct cannot be substantiated or is not a report of abuse or sexual conduct does not:
+
+      (A) Relieve an education provider of the requirement to make determinations under paragraph (a) of this subsection; or
+
+      (B) Prohibit an education provider from taking any employment actions against a school employee.
+
+      (d) Except as provided by paragraph (e) of this subsection, determinations made under paragraph (a) of this subsection must be made:
+
+      (A) Within 60 calendar days from the date the education provider received from a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education a final determination that a report of suspected abuse or suspected sexual conduct involving a school employee is a substantiated report; or
+
+      (B) Within 90 calendar days from the date the education provider:
+
+      (i) Received from a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education a final determination that a report of suspected abuse or suspected sexual conduct involving a school employee cannot be substantiated or is not a report of abuse or sexual conduct; or
+
+      (ii) Received a report of suspected abuse or suspected sexual conduct if the education provider conducts an investigation.
+
+      (e) The timelines prescribed by paragraph (d) of this subsection may be extended if, for good cause, a longer period of time is necessary. For an education provider that conducts an investigation, good cause may include suspending an investigation as required by subsection (5)(b) of this section.
+
+      (7) If, in the course of an investigation by an education provider, the education provider becomes aware of new information that gives rise to a reasonable cause to believe that abuse or sexual conduct occurred, the education provider shall ensure that a report is made to a law enforcement agency, the Department of Human Services, a designee of the department as required by ORS 419B.010 and 419B.015, the Teacher Standards and Practices Commission or the Department of Education.
+
+      (8) If, following an investigation, an education provider determines that the education provider will take an employment action, the education provider shall:
+
+      (a) Inform the school employee of the employment action that will be taken by the education provider.
+
+      (b) Provide the school employee with information about the appropriate appeal process for the employment action taken by the education provider. The appeal process may be the process provided by a collective bargaining agreement or a process administered by a neutral third party and paid for by the education provider.
+
+      (c) Following notice of a school employee’s decision not to appeal the employment action of an education provider or following the determination of an appeal that sustained the employment action taken by the education provider, create a record of the findings of the substantiated report and the employment action taken by the education provider and place the record in any documents maintained by the education provider on the school employee. Records created pursuant to this paragraph are confidential and are not public records as defined in ORS 192.311. An education provider may use the record as a basis for providing the information required to be disclosed about a school employee under ORS 339.378 (1).
+
+      (d) Inform the school employee that information about substantiated reports may be disclosed to a potential employer as provided by ORS 339.378 (1).
+
+      (9)(a) Notwithstanding the requirements of this section, an education provider that is a private school:
+
+      (A) May take an employment action in relation to a school employee, a contractor, an agent or a volunteer according to:
+
+      (i) The provisions of this section; or
+
+      (ii) The standards and policies of the private school if the standards and policies provide the same or greater safeguards for the protection of students compared to the safeguards described in this section.
+
+      (B) May follow the procedures described in subsection (8) of this section or may follow any appeals process established by the private school related to suspected abuse or suspected sexual conduct.
+
+      (b) A private school that chooses to take an employment action or other action in relation to a school employee, a contractor, an agent or a volunteer according to the standards and policies of the private school must provide the information required to be disclosed under ORS 339.378 (1).
+
+      (10) Upon request from a law enforcement agency, the Department of Human Services, the Teacher Standards and Practices Commission or the Department of Education, in conducting an investigation related to suspected abuse or suspected sexual conduct, an education provider shall immediately provide any requested documents or materials, to the extent allowed by state and federal law, including laws protecting a person from self-incrimination. [Formerly 339.375; 2012 c.92 §4; 2013 c.553 §1; 2019 c.618 §7]
+
+ 
+
+      339.390 Investigations by Teacher Standards and Practices Commission of licensed persons; timeline; findings; rules. (1)(a) When the Teacher Standards and Practices Commission receives a report of suspected sexual conduct that may have been committed by a licensed school employee, contractor, agent or volunteer, the commission shall immediately initiate an investigation.
+
+      (b) An investigation and final determination related to a report received under paragraph (a) of this subsection must be completed and notification of the final determination must be made to the education provider within 90 calendar days following the date on which the report was filed with the commission.
+
+      (c) Notwithstanding paragraph (b) of this subsection, the prescribed timeline for an investigation and final determination may be extended if, for good cause, a longer period of time is necessary.
+
+      (2) The commission shall appoint an investigator and shall furnish the investigator with appropriate professional and other special assistance reasonably required to conduct an investigation. An investigator appointed under this subsection is empowered to:
+
+      (a) Issue subpoenas to require the attendance of witnesses or the production of documents;
+
+      (b) Subpoena witnesses; and
+
+      (c) Swear witnesses and compel obedience in the same manner as provided under ORS 183.440 (2).
+
+      (3)(a) Following the completion of an investigation, the investigator shall report in writing any findings and recommendations to the executive director of the Teacher Standards and Practices Commission.
+
+      (b) If, based on the findings, the executive director believes there is an immediate threat to a student, the executive director shall request that the commission meet in executive session.
+
+      (4) The executive director or the investigator shall report in writing the findings and any recommendations to the commission. The commission shall decide if there is sufficient cause to justify holding a hearing under ORS 342.177.
+
+      (5) If the commission finds that there is sufficient cause to justify holding a hearing under ORS 342.177, the commission shall notify in writing:
+
+      (a) The person charged, enclosing a statement of the charges and a notice of opportunity for hearing;
+
+      (b) The student and, if applicable, the student’s parents;
+
+      (c) The education provider; and
+
+      (d) The person who provided the report of suspected sexual conduct.
+
+      (6) If the commission finds that there is not sufficient cause to justify holding a hearing under ORS 342.177, the commission shall notify in writing:
+
+      (a) The person charged;
+
+      (b) The student and, if applicable, the student’s parents;
+
+      (c) The education provider; and
+
+      (d) The person who provided the report of suspected sexual conduct.
+
+      (7)(a) Except as provided in paragraph (b) of this subsection, the documents and materials used in the investigation undertaken under this section, and the report related to the investigation, are confidential and not subject to public inspection unless the commission makes a final determination to suspend or revoke a license, discipline a person holding a license or revoke the right to apply for a license, as provided under ORS 342.175.
+
+      (b) To the extent allowed by state and federal law, the commission shall make available any documents, materials and reports to:
+
+      (A) A law enforcement agency or the Department of Human Services for the purpose of conducting an investigation under ORS 419B.005 to 419B.050;
+
+      (B) The Department of Education for the purpose of conducting an investigation under ORS 339.391; or
+
+      (C) An education provider for the purpose of taking any disciplinary actions or making changes in the employment relationship or duties of the school employee, contractor, agent or volunteer.
+
+      (c) The commission shall retain documents and materials related to any report received under this section, regardless of whether the commission found sufficient cause to justify holding a hearing under this section.
+
+      (8) Notwithstanding ORS 192.660 (6), the commission may make its findings under this section in executive session. The provisions of ORS 192.660 (4) apply to executive sessions held pursuant to this subsection.
+
+      (9) The commission shall adopt any rules necessary for the administration of this section, including a process to appeal the findings of the commission under this section. [2019 c.618 §23]
+
+ 
+
+      339.391 Investigations by Department of Education of nonlicensed persons; timeline; findings; rules. (1)(a) When the Department of Education receives a report of suspected sexual conduct that may have been committed by a school employee, contractor, agent or volunteer that is not licensed with the Teacher Standards and Practices Commission, the department shall immediately initiate an investigation.
+
+      (b) An investigation and final determination related to the report received under paragraph (a) of this subsection must be completed and notification of the final determination must be made to the education provider within 90 calendar days following the date on which the report was filed with the department.
+
+      (c) Notwithstanding paragraph (b) of this subsection, the prescribed timeline for an investigation and final determination may be extended if the department determines that, for good cause, a longer period of time is necessary.
+
+      (2) The department shall appoint an investigator and shall furnish the investigator with appropriate professional and other special assistance reasonably required to conduct an investigation. An investigator appointed under this subsection is empowered to:
+
+      (a) Issue subpoenas to require the attendance of witnesses or the production of documents;
+
+      (b) Subpoena witnesses; and
+
+      (c) Swear witnesses and compel obedience in the same manner as provided under ORS 183.440 (2).
+
+      (3)(a) Following the completion of an investigation, the Department of Education shall notify:
+
+      (A) The person charged;
+
+      (B) The student and, if applicable, the student’s parents;
+
+      (C) The education provider;
+
+      (D) The person who provided the report of suspected sexual conduct; and
+
+      (E) Any regulatory board that is not the Teacher Standards and Practices Commission and that licenses, registers, certifies or otherwise authorizes the school employee, contractor, agent or volunteer to practice a profession or to provide professional services.
+
+      (b) The notification required under paragraph (a) of this subsection shall include the following information as allowed by state and federal law:
+
+      (A) The statutory authority of the department to conduct the investigation;
+
+      (B) The procedural background for the investigation;
+
+      (C) The legal standards and arguments used for the investigation;
+
+      (D) The department’s findings of fact from the investigation;
+
+      (E) The department’s final determination based on the investigation; and
+
+      (F) The right to an appeal, as provided by subsection (5) of this section.
+
+      (4)(a) Except as provided in paragraph (b) of this subsection, the documents and materials used in the investigation undertaken under this section, and the report related to the investigation, are confidential and not subject to public inspection.
+
+      (b) To the extent allowed by state and federal law, the department shall make available any documents, materials and reports to:
+
+      (A) A law enforcement agency or the Department of Human Services if necessary to conduct an investigation under ORS 419B.005 to 419B.050;
+
+      (B) The Teacher Standards and Practices Commission if necessary for the commission to conduct an investigation under ORS 339.390; and
+
+      (C) An education provider if necessary for the education provider to take any disciplinary action or changes in the employment relationship or duties of the school employee, contractor, agent or volunteer.
+
+      (c) The Department of Education shall retain documents and materials related to any report received under this section, regardless of whether the department found sufficient cause to justify holding a hearing under this section.
+
+      (5) A person may appeal the final determination made by the department under this section as a contested case under ORS chapter 183.
+
+      (6) The State Board of Education shall adopt any rules necessary for the administration of this section. [2019 c.618 §32]
+
+ 
+
+      Note: 339.391 becomes operative July 1, 2020. See section 33, chapter 618, Oregon Laws 2019.
+
+ 
+
+      Note: Section 33, chapter 618, Oregon Laws 2019, provides:
+
+      Sec. 33. (1) Section 32 of this 2019 Act [339.391] becomes operative on July 1, 2020.
+
+      (2) Section 32 of this 2019 Act applies to reports of suspected sexual conduct received on or after July 1, 2020.
+
+      (3)(a) For the purposes of ORS 339.372 (4)(b) and 339.388 (2)(b), a licensed administrator is not required to inform the Department of Education of reports of suspected sexual conduct involving a person who is not licensed by the Teacher Standards and Practices Commission if the report is received before July 1, 2020.
+
+      (b) For the purpose of ORS 339.374 (1)(d), an education provider is not required to verify with the Department of Education whether the department has an ongoing investigation or has a substantiated report relating to conduct by an applicant who is not licensed with the Teacher Standards and Practices Commission if the applicant is considered for employment before July 1, 2020.
+
+      (c) For the purpose of ORS 339.374 (2)(b), an education provider is not required to verify with the Department of Education whether the department has an ongoing investigation or has a substantiated report relating to conduct by a person who is not licensed with the Teacher Standards and Practices Commission if the person begins providing services to the education provider before July 1, 2020.
+
+      (d) Notwithstanding ORS 339.388, an education provider must conduct an investigation related to a report of suspected sexual conduct by a person who is not licensed by the Teacher Standards and Practices Commission if the report is received before July 1, 2020. An investigation conducted under this paragraph must be completed as provided by ORS 339.388 (6)(d)(B)(ii).
+
+      (e) The Department of Education is not required to take any action on information received under section 14 of this 2019 Act [419B.019] or ORS 419B.020 if the department receives the information before July 1, 2020.
+
+      (4) Notwithstanding the operative date set forth in subsection (1) of this section, the Department of Education and the State Board of Education may take any action before the operative date set forth in subsection (1) of this section that is necessary to enable the department to exercise, on and after the operative date set forth in subsection (1) of this section, all of the duties, functions and powers conferred on the department by section 32 of this 2019 Act. [2019 c.618 §33]
+
+ 
+
+      339.392 Prohibitions against certain agreements and contracts. (1) An education provider may not enter into a collective bargaining agreement, an employment contract, an agreement for resignation or termination, a severance agreement or any similar contract or agreement that:
+
+      (a) Has the effect of impairing or terminating an ongoing investigation, or suppressing information relating to an ongoing investigation, related to a report of suspected abuse or suspected sexual conduct;
+
+      (b) Has the effect of suppressing information relating to a substantiated report of abuse or sexual conduct by a current or former school employee, contractor, agent or volunteer;
+
+      (c) Affects the duties of the education provider to report suspected abuse or suspected sexual conduct or to discipline a current or former school employee, contractor, agent or volunteer for a substantiated report of abuse or sexual conduct;
+
+      (d) Impairs the ability of the education provider to discipline a school employee, a contractor, an agent or a volunteer for a substantiated report of abuse or sexual conduct; or
+
+      (e) Requires the education provider to expunge substantiated information about abuse or sexual conduct from any documents maintained by an education provider.
 
       (2) Any provision of an employment contract or agreement that is contrary to this section is void and unenforceable.
 
       (3) Nothing in this section prevents an education provider from entering into a collective bargaining agreement that includes:
 
-      (a) Standards for investigation of a report of abuse or sexual conduct; or
+      (a) Standards for investigation of a report of suspected abuse or suspected sexual conduct; or
 
-      (b) An appeal process from the determination by an education provider that a report of abuse or sexual conduct has been substantiated as provided in ORS 339.388 (5). [2009 c.93 §10; 2012 c.92 §7]
+      (b) An appeal process from the determination made by or the action taken by an education provider related to a report of abuse or sexual conduct. [2009 c.93 §10; 2012 c.92 §7; 2019 c.618 §8]
 
  
 
@@ -3055,11 +3279,25 @@ SCHOOL SAFETY
 
  
 
-      339.400 Training on prevention and identification. (1) An education provider shall provide to school employees training each school year on the prevention and identification of abuse and sexual conduct and on the obligations of school employees under ORS 419B.005 to 419B.050 and under policies adopted by the school board to report abuse and sexual conduct.
+      339.400 Training. (1) An education provider shall provide to school employees each school year training on:
 
-      (2) An education provider shall make the training provided under subsection (1) of this section available each school year to parents and legal guardians of children who attend a school operated by the education provider. The training shall be provided separately from the training provided to school employees under subsection (1) of this section.
+      (a) The prevention and identification of abuse and sexual conduct;
 
-      (3) An education provider shall make training that is designed to prevent abuse and sexual conduct available each school year to children who attend a school operated by the education provider. [Formerly 339.377; 2012 c.92 §8]
+      (b) The obligations of school employees under ORS 339.388 and 419B.005 to 419B.050 and under policies adopted by the school board to report suspected abuse and suspected sexual conduct; and
+
+      (c) Appropriate electronic communications with students as provided by ORS 339.372 (11).
+
+      (2) An education provider shall provide to contractors, agents and volunteers each school year information on:
+
+      (a) The prevention and identification of abuse and sexual conduct;
+
+      (b) The obligations of school employees under policies adopted by the school board to report abuse and sexual conduct; and
+
+      (c) Appropriate electronic communications with students as described in ORS 339.372 (11).
+
+      (3) An education provider shall make the training provided under subsection (1) of this section available each school year to contractors, agents and volunteers and to parents and legal guardians of students who attend a school operated by the education provider. The training shall be provided separately from the training provided to school employees under subsection (1) of this section.
+
+      (4) An education provider shall make available each school year to students who attend a school operated by the education provider a training that is designed to prevent abuse and sexual conduct. [Formerly 339.377; 2012 c.92 §8; 2019 c.618 §10]
 
  
 
@@ -3068,8 +3306,6 @@ SCHOOL SAFETY
  
 
 RELIGIOUS INSTRUCTION
-
- 
 
       339.420 Child excused to receive religious instruction. Upon application of the parent or guardian of the child, or, if the child has attained the age of majority, upon application of the child, a child attending the public school may be excused from school for periods not exceeding two hours in any week for elementary pupils and five hours in any week for secondary pupils to attend weekday schools giving instruction in religion. [1965 c.100 §298; 1973 c.827 §32; 1977 c.276 §1]
 
@@ -3091,7 +3327,11 @@ INTERSCHOLASTIC ACTIVITIES
 
       (a) “Homeschooled student” means a child who is taught by a private teacher, a parent or a legal guardian, as described in ORS 339.030.
 
-      (b) “Interscholastic activities” means athletics, music, speech and other similar or related activities.
+      (b) “Interscholastic activities” includes:
+
+      (A) For students in any grade from kindergarten through grade 12, athletics, music, speech and other similar or related activities.
+
+      (B) For students in any grade from kindergarten through grade eight, activities that are offered only before or after regular school hours and that may, but are not required to, involve interaction among other schools.
 
       (c) “Public charter school” has the meaning given that term in ORS 338.005.
 
@@ -3101,7 +3341,7 @@ INTERSCHOLASTIC ACTIVITIES
 
       (i) The school district’s school or class attendance requirements; and
 
-      (ii) The class requirements of the voluntary association that administers interscholastic activities.
+      (ii) The class requirements of the voluntary association that administers the interscholastic activity, if applicable.
 
       (B) For a student who attends a public charter school, the student must meet all school district eligibility requirements except the school district’s school or class attendance requirements.
 
@@ -3111,19 +3351,25 @@ INTERSCHOLASTIC ACTIVITIES
 
       (B) Meet alternative requirements that a school district adopts, in consultation with the student’s parent or legal guardian, to participate in interscholastic activities, including but not limited to a requirement that a student submit a portfolio of work samples to a school district committee for review to determine whether the student is eligible to participate in interscholastic activities.
 
-      (3) In addition to the requirements set forth in subsection (2) of this section, a public charter school that enrolls a student who intends to participate in an interscholastic activity must pay to the school district or school that offers the interscholastic activity, as appropriate:
+      (3)(a) In addition to the requirements set forth in subsection (2) of this section, a public charter school that enrolls a student who intends to participate in an interscholastic activity must pay to the school district or school that offers the interscholastic activity, as appropriate and if the school district or school requires payment as provided by this subsection:
 
-      (a) A fee that is equivalent to not more than five percent of the amount of the school district’s General Purpose Grant per ADMw, as calculated under ORS 327.013; and
+      (A) An annual fee that is equivalent to not more than five percent of the amount of the school district’s General Purpose Grant per ADMw, as calculated under ORS 327.013; and
 
-      (b) An additional fee that is equivalent to not more than five percent of the amount of the school district’s General Purpose Grant per ADMw, as calculated under ORS 327.013, if participating in the interscholastic activity requires the student to enroll in a course for credit. The school district and the public charter school shall enter into an agreement to specify the fee required under this paragraph, but the agreement may not require for each interscholastic activity in which the student participates a fee that is equivalent to more than five percent more than the fee required under paragraph (a) of this subsection.
+      (B) An additional annual fee that is equivalent to not more than five percent of the amount of the school district’s General Purpose Grant per ADMw, as calculated under ORS 327.013, if participating in the interscholastic activity requires the student to enroll in a course for credit.
+
+      (b) The school district and the public charter school shall enter into an agreement to specify the amount of the fees described in paragraph (a) of this subsection.
+
+      (c) A public charter school is required to pay a fee described in paragraph (a) of this subsection only once per year per student participating in an interscholastic activity at a school in the school district, regardless of the number of interscholastic activities in which the student participates.
 
       (4) A homeschooled student or a student who attends a public charter school may participate in interscholastic activities while awaiting examination results.
 
       (5) A homeschooled student, or a student who attends a public charter school, who does not maintain academic eligibility is ineligible to participate in interscholastic activities for the duration of the school year in which the student becomes academically ineligible and for the following year. The student must take the required examinations at the end of the second year and meet the standards described in subsection (2)(b) of this section to become eligible for the third year.
 
-      (6) A homeschooled student or a student who attends a public charter school must fulfill the same responsibilities and standards of behavior and performance, including related class or practice requirements, as other students who participate in the interscholastic activity of the team or squad and must meet the same standards for acceptance on the team or squad. The student must also comply with all public school requirements during the time of participation.
+      (6)(a) A homeschooled student or a student who attends a public charter school must fulfill the same responsibilities and standards of behavior and performance, including related class or practice requirements, as other students who participate in the interscholastic activity. The student must also comply with all public school requirements during the time of participation.
 
-      (7) A homeschooled student, or a student who attends a public charter school, who participates in interscholastic activities must reside within the attendance boundaries of the school at which the student participates. [1991 c.914 §§1,2; 1999 c.717 §2; 2003 c.14 §150; 2017 c.550 §2]
+      (b) A student who attends a public charter school must be allowed to participate in an interscholastic activity in the same manner that a resident of the school district may participate in the interscholastic activity. A school district may not give priority to residents of the school district to participate in interscholastic activities, but may require a student who attends a public charter school to satisfy any standards for acceptance for participation.
+
+      (7) A homeschooled student, or a student who attends a public charter school, who participates in interscholastic activities must reside within the attendance boundaries of the school at which the student participates unless the school district has a policy that allows any student attending a school of the school district to participate in interscholastic activities at any school of the school district. [1991 c.914 §§1,2; 1999 c.717 §2; 2003 c.14 §150; 2017 c.550 §2; 2018 c.16 §1]
 
  
 
@@ -3349,11 +3595,13 @@ ADMINISTRATION OF MEDICATION TO STUDENTS
 
       (a) Medication that is not injected;
 
-      (b) Premeasured doses of epinephrine that are injected; and
+      (b) Premeasured doses of epinephrine that are injected;
 
-      (c) Medication that is available for treating adrenal insufficiency.
+      (c) Medication that is available for treating adrenal insufficiency; and
 
-      (2) “Medication” does not include nonprescription sunscreen. [1997 c.144 §1; 2013 c.486 §1; 2015 c.162 §2; 2015 c.676 §1]
+      (d) Naloxone or any similar medication that is in any form available for safe administration and that is designed to rapidly reverse an overdose of an opioid drug.
+
+      (2) “Medication” does not include nonprescription sunscreen. [1997 c.144 §1; 2013 c.486 §1; 2015 c.162 §2; 2015 c.676 §1; 2019 c.375 §1]
 
  
 
@@ -3381,6 +3629,8 @@ ADMINISTRATION OF MEDICATION TO STUDENTS
 
       (D) Protocols for preventing exposures to allergens.
 
+      (e) Rules for the administration of naloxone or any similar medication that is in any form available for safe administration and that is designed to rapidly reverse an overdose of an opioid drug by trained school personnel to any student or other individual on school premises who the personnel believe in good faith is experiencing an overdose of an opioid drug.
+
       (2)(a) School district boards shall adopt policies and procedures that provide for:
 
       (A) The administration of prescription and nonprescription medication to students by trained school personnel, including the administration of medications that treat adrenal insufficiency;
@@ -3389,7 +3639,11 @@ ADMINISTRATION OF MEDICATION TO STUDENTS
 
       (C) The administration of premeasured doses of epinephrine to students and other individuals.
 
-      (b) Policies and procedures adopted under paragraph (a) of this subsection shall be consistent with the rules adopted by the State Board of Education under subsection (1) of this section. A school district board shall not require school personnel who have not received appropriate training to administer medication. [1997 c.144 §4; 2009 c.595 §214; 2013 c.486 §2; 2015 c.676 §2]
+      (b) Policies and procedures adopted under paragraph (a) of this subsection shall be consistent with the rules adopted by the State Board of Education under subsection (1) of this section. A school district board shall not require school personnel who have not received appropriate training to administer medication.
+
+      (3)(a) School district boards may adopt policies and procedures that provide for the administration of naloxone or any similar medication that is in any form available for safe administration and that is designed to rapidly reverse an overdose of an opioid drug.
+
+      (b) Policies and procedures adopted under paragraph (a) of this subsection shall be consistent with the rules adopted by the State Board of Education under subsection (1) of this section. [1997 c.144 §4; 2009 c.595 §214; 2013 c.486 §2; 2015 c.676 §2; 2019 c.375 §2]
 
  
 
@@ -3403,7 +3657,11 @@ ADMINISTRATION OF MEDICATION TO STUDENTS
 
       339.871 Liability of school personnel for student self-administering medication or for student or individual unable to self-administer medication. (1) A school administrator, school nurse, teacher or other school employee designated by the school administrator is not liable in a criminal action or for civil damages as a result of a student’s self-administration of medication, as described in ORS 339.866, if the school administrator, school nurse, teacher or other school employee, in compliance with the instructions of the student’s Oregon licensed health care professional, in good faith assists the student’s self-administration of the medication, if the medication is available to the student pursuant to written permission and instructions of the student’s parent, guardian or Oregon licensed health care professional.
 
-      (2) A school administrator, school nurse, teacher or other school employee designated by the school administrator is not liable in a criminal action or for civil damages as a result of the use of medication if the school administrator, school nurse, teacher or other school employee in good faith administers autoinjectable epinephrine to a student or other individual with a severe allergy who is unable to self-administer the medication, regardless of whether the student or individual has a prescription for epinephrine.
+      (2) A school administrator, school nurse, teacher or other school employee designated by the school administrator is not liable in a criminal action or for civil damages as a result of the use of medication if the school administrator, school nurse, teacher or other school employee in good faith administers:
+
+      (a) Autoinjectable epinephrine to a student or other individual with a severe allergy who is unable to self-administer the medication, regardless of whether the student or individual has a prescription for epinephrine; or
+
+      (b) Naloxone or any similar medication that is in any form available for safe administration and that is designed to rapidly reverse an overdose of an opioid drug to a student or other individual who the school administrator, school nurse, teacher or other school employee believes in good faith is experiencing an overdose of an opioid drug.
 
       (3) A school district and the members of a school district board are not liable in a criminal action or for civil damages as a result of the use of medication if:
 
@@ -3411,7 +3669,13 @@ ADMINISTRATION OF MEDICATION TO STUDENTS
 
       (b) The person administered the autoinjectable epinephrine on school premises, including at a school, on school property under the jurisdiction of the district or at an activity under the jurisdiction of the school district.
 
-      (4) The civil and criminal immunities imposed by this section do not apply to an act or omission amounting to gross negligence or willful and wanton misconduct. [2007 c.830 §2; 2013 c.318 §2; 2013 c.486 §9]
+      (4) A school district and the members of a school district board are not liable in a criminal action or for civil damages as a result of the use of medication if:
+
+      (a) Any person in good faith administers naloxone or any similar medication that is in any form available for safe administration and that is designed to rapidly reverse an overdose of an opioid drug to a student or other individual who the person believes in good faith is experiencing an overdose of an opioid drug; and
+
+      (b) The person administered the naloxone or similar medication on school premises, including at a school, on school property under the jurisdiction of the district or at an activity under the jurisdiction of the school district.
+
+      (5) The civil and criminal immunities imposed by this section do not apply to an act or omission amounting to gross negligence or willful and wanton misconduct. [2007 c.830 §2; 2013 c.318 §2; 2013 c.486 §9; 2019 c.375 §3]
 
  
 
@@ -3512,6 +3776,24 @@ MISCELLANEOUS
       (c) Allow a student or a parent of a student to choose not to have the student wear, carry or use an item with a radio frequency identification device.
 
       (3) Any policy adopted by a school district board that requires a student to wear, carry or use an item with a radio frequency identification device for the purpose of locating or tracking the student or taking attendance must incorporate the standards adopted by the State Board of Education. [2013 c.427 §1]
+
+ 
+
+(Temporary provisions relating to exposure to microwave radiation in schools)
+
+ 
+
+      Note: Section 1, chapter 677, Oregon Laws 2019, provides:
+
+      Sec. 1. (1)(a) The Oregon Health Authority shall:
+
+      (A) Review peer-reviewed, independently funded scientific studies of the health effects of exposure to microwave radiation, particularly exposure that results from the use of wireless network technologies in schools or similar environments; and
+
+      (B) Report the results of the review to an interim committee of the Legislative Assembly related to education not later than January 2, 2021.
+
+      (b) The review described in paragraph (a) of this subsection must, at a minimum, consist of a literature review of peer-reviewed, independently funded scientific studies that examine the health effects of exposure to microwave radiation on children.
+
+      (2) The Department of Education shall develop recommendations to schools in this state for practices and alternative technologies that would reduce students’ exposure to microwave radiation that the review described in subsection (1) of this section identifies as harmful. [2019 c.677 §1]
 
  
 

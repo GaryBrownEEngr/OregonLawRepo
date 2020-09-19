@@ -209,6 +209,10 @@ FORCIBLE ENTRY AND WRONGFUL DETAINER
 
  
 
+105.163     Setting aside judgment
+
+ 
+
 105.165     Alternative method of removing, storing and disposing of tenant’s personal property; requirements; landlord liability
 
  
@@ -242,6 +246,14 @@ MODIFICATION OF LEASE TERMS
  
 
 105.190     Covenant of good faith and fair dealing; rights and obligations of parties
+
+ 
+
+ENCUMBRANCES
+
+ 
+
+105.200     Request for itemized statement
 
  
 
@@ -421,7 +433,7 @@ HOUSING RECEIVERSHIP
 
  
 
-105.425     Definitions for ORS 105.420 to 105.445 and 105.455
+105.425     Definitions for ORS 105.420 to 105.455
 
  
 
@@ -433,7 +445,7 @@ HOUSING RECEIVERSHIP
 
  
 
-105.440     Review of abatement expenditures by court; lien for unpaid expenses
+105.440     Report of abatement expenditures; court approval; lien
 
  
 
@@ -1045,8 +1057,6 @@ ACTIONS FOR RECOVERY OF REAL PROPERTY
 
       105.060 Effect of new trial on plaintiff’s possession. If the plaintiff has taken possession of the property before the judgment is set aside and a new trial granted as provided in ORS 105.055 (2), the possession is not thereby affected in any way. If judgment is given for the defendant in the new trial, the defendant is entitled to restitution by execution in the same manner as if the defendant were plaintiff.
 
- 
-
       105.065 [Repealed by 1969 c.591 §305]
 
  
@@ -1107,23 +1117,23 @@ THE COUNTY OF ____________
 
  
 
-(Tenant),                        )
+ 
 
-                                       )       
+(Tenant),                     )
 
-            Plaintiff(s),        )
+      Plaintiff(s),           )
 
-                                       )
+                                    )
 
-            vs.                      )        No.___
+      vs.                         )           No.___
 
-                                       )
+                                    )
 
-(Landlord),                    )
+(Landlord),                 )
 
-                                       )
+                                    )
 
-            Defendant(s).     )
+      Defendant(s).        )
 
  
 
@@ -1151,23 +1161,23 @@ ______________________________________________________________________________
 
 II
 
- 
-
       Defendant(s) took the personal property alleged in paragraph I from premises rented by plaintiff(s) from defendant(s) at:
 
  
 
 ______________ (street and number)
 
+ 
+
 ______________ (city)
+
+ 
 
 ______________ (county)
 
  
 
 III
-
- 
 
       Plaintiff(s) (is) (are) entitled to possession of the personal property because:
 
@@ -1193,9 +1203,13 @@ ______________________________________________________________________________
 
       Wherefore, plaintiff(s) pray(s) for possession of the personal property and costs and disbursements incurred herein.
 
+ 
+
+ 
+
 ________        ______________
 
-Date                Signature of Plaintiff(s)
+Date    Signature of Plaintiff(s)
 
 ______________________________________________________________________________
 
@@ -1213,29 +1227,31 @@ THE COUNTY OF ____________
 
  
 
-(Tenant),                        )
+ 
 
-                                       )
+(Tenant),         )
 
-      Plaintiff(s),              )
+                        )
 
-                                       )
+Plaintiff(s),     )
 
-      vs.                            )        No.___
+                        )
 
-                                       )
+      vs.             )           No.___
 
-(Landlord),                    )
+                        )
 
-                                       )
+(Landlord),     )
 
-      Defendant(s).           )
+                        )
+
+Defendant(s).  )
+
+ 
 
  
 
 ANSWER
-
- 
 
       I (we) deny that the plaintiff(s) is (are) entitled to possession of the personal property subject of the complaint because:
 
@@ -1263,6 +1279,8 @@ ______________________________________________________________________________
 
  
 
+ 
+
 ________        ______________
 
 Date                Signature of defendant(s)
@@ -1283,7 +1301,7 @@ ______________________________________________________________________________
 
  
 
-      105.113 Form of summons. Notwithstanding ORCP 7, for premises to which ORS chapter 90 or ORS 91.120 applies, the summons must be in substantially the following form and be available from the court clerk:
+      105.113 Form of summons. (1) Notwithstanding ORCP 7, for premises to which ORS chapter 90 or ORS 91.120 applies, the summons must be in substantially the following form and be available from the court clerk:
 
 ______________________________________________________________________________
 
@@ -1303,9 +1321,15 @@ RESIDENTIAL EVICTION
 
  
 
+ 
+
 PLAINTIFF (Landlord or agent):
 
+ 
+
 ___________________________
+
+ 
 
 ___________________________
 
@@ -1313,9 +1337,15 @@ ___________________________
 
       vs.
 
+ 
+
 DEFENDANT (Tenants/Occupants):
 
+ 
+
 ___________________________
+
+ 
 
 ___________________________
 
@@ -1324,6 +1354,8 @@ ___________________________
 TO: _______________(Street address and city of property occupied by defendant)
 
 _______________(Mailing address if different)
+
+ 
 
  
 
@@ -1341,23 +1373,23 @@ ON_________, 2_____ AT _____ A.M./P.M., you must come to the County Court House 
 
  
 
-·       If you do not appear in court and your landlord does, your landlord will win automatically and can have the Sheriff physically remove   you.
+      •If you do not appear in court and your landlord does, your landlord will win automatically and can have the Sheriff physically remove you.
 
  
 
-·       If you do show up in court and your landlord does not, this eviction action will be dropped.
+      •If you do show up in court and your landlord does not, this eviction action will be dropped.
 
  
 
-·       If both of you show up:
+      •If both of you show up:
 
  
 
-o   The judge may ask you to try to reach an agreement with your landlord, but this is voluntary. Trained mediators may be available free of charge to help resolve disputes.
+            •The judge may ask you to try to reach an agreement with your landlord, but this is voluntary. Trained mediators may be available free of charge to help resolve disputes.
 
  
 
-o   The court will schedule a trial if you and your landlord do not reach an agreement or if you do not agree to move out.
+            •The court will schedule a trial if you and your landlord do not reach an agreement or if you do not agree to move out.
 
  
 
@@ -1365,23 +1397,25 @@ IF YOU WANT A TRIAL, YOU MUST:
 
  
 
-·       Show up in court at the time scheduled above;
+      •Show up in court at the time scheduled above;
 
  
 
-·       On the same day, file an Answer with the Court giving a legal reason why you should not be evicted (the Court can give you a form);
+      •On the same day, file an Answer with the Court giving a legal reason why you should not be evicted (the Court can give you a form);
 
  
 
-·       Give a copy of the Answer to your landlord (or your landlord’s agent or attorney); and
+      •Give a copy of the Answer to your landlord (or your landlord’s agent or attorney); and
 
  
 
-·       Pay a filing fee of $_____ (the judge may allow payment to be deferred in certain circumstances).
+      •Pay a filing fee of $_____ (the judge may allow payment to be deferred in certain circumstances).
 
  
 
 IF YOU HAVE QUESTIONS, YOU SHOULD SEE AN ATTORNEY IMMEDIATELY. If you need help finding an attorney, you can contact the Oregon State Bar’s Lawyer Referral Service online at www.oregonstatebar.org or by calling 503-684-3763 (in the Portland metropolitan area) or toll-free elsewhere in Oregon at 800-452-7636.
+
+ 
 
 ___________________________
 
@@ -1391,7 +1425,11 @@ Signature of Plaintiff (landlord or agent)
 
 Plaintiff’s address:
 
+ 
+
 ___________________________
+
+ 
 
 ___________________________
 
@@ -1399,9 +1437,21 @@ ___________________________
 
 Plaintiff’s telephone number: _________
 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
 ______________________________________________________________________________
 
-[2001 c.596 §8; 2011 c.398 §4; 2017 c.252 §26]
+      (2) Except as provided in ORS 408.515 (3), the information required under ORS 408.515 must be included with the summons. [2001 c.596 §8; 2011 c.398 §4; 2017 c.252 §26; 2019 c.405 §4]
 
  
 
@@ -1475,23 +1525,25 @@ THE COUNTY OF ____________
 
  
 
-(Tenant),                        )
+ 
 
-                                       )
+(Tenant),                     )
 
-      Plaintiff(s),              )
+      Plaintiff(s),           )
 
-                                       )
+                                    )
 
-      vs.                            )        No.___
+      vs.                         )           No.___
 
-                                       )
+                                    )
 
-(Landlord),                    )
+(Landlord),                 )
 
-                                       )
+                                    )
 
-      Defendant(s).           )
+      Defendant(s).        )
+
+ 
 
  
 
@@ -1509,11 +1561,17 @@ I
 
       Defendant is a group recovery home subject to ORS 90.440. Defendant removed plaintiff from the group recovery home dwelling unit rented by plaintiff from defendant at:
 
-______________ (street and number)
+ 
 
-______________ (city)
+______________(street and number)
 
-______________ (county)
+ 
+
+______________(city)
+
+ 
+
+______________(county)
 
  
 
@@ -1537,9 +1595,11 @@ III
 
       ______Defendant removed plaintiff under ORS 90.440 in bad faith.
 
-     
+      Wherefore, plaintiff prays for possession of the group recovery home dwelling unit and costs and disbursements incurred herein.
 
-Wherefore, plaintiff prays for possession of the group recovery home dwelling unit and costs and disbursements incurred herein.
+ 
+
+ 
 
 ________        ______________
 
@@ -1561,29 +1621,31 @@ THE COUNTY OF ____________
 
  
 
-(Tenant),                        )
+ 
 
-                                       )
+(Tenant),                     )
 
-      Plaintiff(s),              )
+                                    )
 
-                                       )
+      Plaintiff(s),           )
 
-      vs.                            )        No.___
+                                    )
 
-                                       )
+      vs.                         )           No.___
 
-(Landlord),                    )
+                                    )
 
-                                       )
+(Landlord),                 )
 
-      Defendant(s).           )
+                                    )
+
+      Defendant(s).        )
+
+ 
 
  
 
 ANSWER
-
- 
 
       We deny that the plaintiff is entitled to possession of the group recovery home dwelling unit that is the subject of the complaint because:
 
@@ -1593,13 +1655,17 @@ ANSWER
 
       ______The defendant did not remove the plaintiff in bad faith as alleged.
 
-     
-
       We ask that the plaintiff take nothing by the complaint and that we be awarded our costs and disbursements.
+
+ 
+
+ 
 
 ________        ______________
 
 Date                Signature of defendant
+
+ 
 
 ______________________________________________________________________________
 
@@ -1689,9 +1755,11 @@ Telephone: _________
 
  
 
-1.
+      1.
 
       Tenants are in possession of the dwelling unit, premises or rental property described above or located at:
+
+ 
 
 _____________________
 
@@ -1703,73 +1771,83 @@ _____________________
 
  
 
-      ___   24-hour notice for personal
+ 
 
-               injury, substantial damage, extremely
+      ___            24-hour notice for personal
 
-               outrageous act or unlawful occupant.
+                        injury, substantial damage, extremely
 
-               ORS 90.396 or 90.403.
+                        outrageous act or unlawful occupant.
 
-      ___   24-hour or 48-hour notice for
+                        ORS 90.396 or 90.403.
 
-               violation of a drug or alcohol
+      ___            24-hour or 48-hour notice for
 
-               program. ORS 90.398.
+                        violation of a drug or alcohol
 
-      ___   24-hour notice for perpetrating
+                        program. ORS 90.398.
 
-               domestic violence, sexual assault or
+      ___            24-hour notice for perpetrating
 
-               stalking. ORS 90.445.
+                        domestic violence, sexual assault or
 
-      ___   72-hour or 144-hour notice for
+                        stalking. ORS 90.445.
 
-               nonpayment of rent. ORS 90.394.
+      ___            72-hour or 144-hour notice for
 
-      ___   7-day notice with stated cause in
+                        nonpayment of rent. ORS 90.394.
 
-               a week-to-week tenancy. ORS 90.392 (6).
+      ___            7-day notice with stated cause in
 
-      ___   10-day notice for a pet violation,
+                        a week-to-week tenancy. ORS 90.392 (6).
 
-               a repeat violation in a month-to-month
+      ___            10-day notice for a pet violation,
 
-               tenancy or without stated cause in a
+                        a repeat violation in a month-to-month
 
-               week-to-week tenancy. ORS 90.392 (5),
+                        tenancy or without stated cause in a
 
-               90.405 or 90.427 (2).
+                        week-to-week tenancy. ORS 90.392 (5),
 
-      ___   20-day notice for a repeat violation.
+                        90.405 or 90.427 (2).
 
-               ORS 90.630 (4).
+      ___            20-day notice for a repeat violation.
 
-      ___   30-day, 60-day or 180-day notice without
+                        ORS 90.630 (5).
 
-               stated cause in a month-to-month
+      ___            30-day, 60-day or 180-day notice without
 
-               tenancy. ORS 90.427 (3) or (4) or 90.429.
+                        stated cause in a month-to-month
 
-      ___   30-day notice with stated cause.
+                        tenancy. ORS 90.427 (3)(b) or (8)(a)(B)
 
-               ORS 90.392, 90.630 or 90.632.
+                        or (C) or 90.429.
 
-      ___   60-day notice with stated cause.
+      ___            30-day notice with stated cause.
 
-               ORS 90.632.
+                        ORS 90.392, 90.630 or 90.632.
 
-      ___   Notice to bona fide tenants after
+      ___            60-day notice with stated cause.
 
-               foreclosure sale or termination of
+                        ORS 90.632.
 
-               fixed term tenancy after foreclosure
+      ___            90-day notice with stated cause.
 
-               sale. ORS 86.782 (6)(c).
+                        ORS 90.427 (5) or (7).
 
-      ___   Other notice _________
+      ___            Notice to bona fide tenants after
 
-      ___   No notice (explain) _________
+                        foreclosure sale or termination of
+
+                        fixed term tenancy after foreclosure
+
+                        sale. ORS 86.782 (6)(c).
+
+      ___            Other notice _________
+
+      ___            No notice (explain) _________
+
+ 
 
  
 
@@ -1793,9 +1871,9 @@ Signature of landlord or agent.
 
 ______________________________________________________________________________
 
-      (2) The complaint must be signed by the plaintiff or an attorney representing the plaintiff as provided by ORCP 17, or verified by an agent or employee of the plaintiff or an agent or employee of an agent of the plaintiff.
+      (2) The complaint must be signed by the plaintiff, or an attorney representing the plaintiff as provided by ORCP 17, or verified by an agent or employee of the plaintiff or an agent or employee of an agent of the plaintiff.
 
-      (3) A copy of the notice relied upon, if any, must be attached to the complaint. [2001 c.596 §5 (105.123, 105.124 and 105.126 enacted in lieu of 105.125); 2005 c.22 §80; 2005 c.391 §29; 2007 c.508 §13; 2009 c.431 §3; 2011 c.510 §3; 2017 c.324 §4]
+      (3) A copy of the notice relied upon, if any, must be attached to the complaint. [2001 c.596 §5 (105.123, 105.124 and 105.126 enacted in lieu of 105.125); 2005 c.22 §80; 2005 c.391 §29; 2007 c.508 §13; 2009 c.431 §3; 2011 c.510 §3; 2017 c.324 §4; 2019 c.1 §8; 2019 c.625 §67]
 
  
 
@@ -1814,6 +1892,8 @@ IN THE CIRCUIT COURT
 FOR THE COUNTY OF
 
 _________
+
+ 
 
  
 
@@ -1843,11 +1923,17 @@ No. _____
 
  
 
-1.
+ 
+
+      1.
 
       Defendant is in possession of the following premises:
 
+ 
+
 __________________
+
+ 
 
 __________________(city)
 
@@ -1865,23 +1951,27 @@ __________________(city)
 
  
 
-      _____     30-day notice (month-to-month
+ 
 
-                     tenancy)
+      _____        30-day notice (month-to-month
 
-      _____     30-day notice (cause)
+                        tenancy)
 
-      _____     Notice to bona fide tenants after
+      _____        30-day notice (cause)
 
-                     foreclosure sale or termination of
+      _____        Notice to bona fide tenants after
 
-                     fixed term tenancy after foreclosure
+                        foreclosure sale or termination of
 
-                     sale. ORS 86.782 (6)(c).
+                        fixed term tenancy after foreclosure
 
-      _____     Other notice (explain) ________
+                        sale. ORS 86.782 (6)(c).
 
-      _____     No notice (explain) _________
+      _____        Other notice (explain) ________
+
+      _____        No notice (explain) _________
+
+ 
 
  
 
@@ -1890,6 +1980,8 @@ __________________(city)
  
 
       Wherefore, plaintiff prays for possession of the premises, costs and disbursements and attorney fees, if applicable.
+
+ 
 
 __________________
 
@@ -1919,13 +2011,13 @@ ______________________________________________________________________________
 
       (2) Upon filing a complaint in the case of a dwelling unit to which ORS chapter 90 applies, the clerk shall:
 
-      (a) Collect a filing fee of $83;
+      (a) Collect a filing fee of $88;
 
       (b) Collect any other fee authorized by law or ordinance; and
 
       (c) With the assistance of the plaintiff or an agent of the plaintiff, complete the applicable summons and provide to the plaintiff or an agent of the plaintiff sufficient copies of the summons and complaint for service.
 
-      (3) The court shall collect a filing fee of $83 from a defendant that demands a trial under this section.
+      (3) The court shall collect a filing fee of $88 from a defendant that demands a trial under this section.
 
       (4) An action pursuant to ORS 105.110 shall be brought in the name of a person entitled to possession as plaintiff. The plaintiff may appear in person or through an attorney. In an action to which ORS chapter 90 applies, the plaintiff may also appear through a nonattorney who is an agent or employee of the plaintiff or an agent or employee of an agent of the plaintiff.
 
@@ -1935,19 +2027,7 @@ ______________________________________________________________________________
 
       (b) The agency, by rule, authorizes an officer or employee to appear on its behalf in the particular type of action being conducted.
 
-      (6) An action brought under ORS 105.110 by a person entitled to possession of premises on the basis of circumstances described in ORS 105.115 (1)(d), (e) or (f) is subject to the filing fees and other court or sheriff fees applicable to an action concerning a dwelling unit that is subject to ORS chapter 90. The procedure under ORS 105.105 to 105.168 that is applicable to an action concerning a dwelling unit subject to ORS chapter 90 shall also apply to an action brought under ORS 105.115 (1)(d), (e) or (f), except that the complaint must be in the form prescribed in ORS 105.126. [Amended by 1975 c.256 §10; 1977 c.877 §15; 1979 c.284 §94; 1981 c.753 §10; 1983 c.581 §1; 1985 c.588 §16; 1987 c.829 §5; 1991 c.92 §1; 1993 c.369 §17; 1995 c.273 §17; 1997 c.801 §34; 2003 c.737 §§47,48; 2005 c.702 §§53,54,55; 2007 c.493 §§8,18b; 2007 c.860 §8; 2009 c.638 §2; 2011 c.595 §55; 2013 c.685 §§37,37a; 2014 c.76 §11; 2017 c.663 §9]
-
- 
-
-      Note: Section 10, chapter 663, Oregon Laws 2017, provides:
-
-      Sec. 10. (1) The amendments to ORS 21.010, 21.135, 21.145, 21.155, 21.160, 21.170, 21.180, 24.135, 46.570 and 105.130 by sections 1 to 9 of this 2017 Act apply to filings made on or after October 1, 2017.
-
-      (2) If a civil action or proceeding is filed before October 1, 2017, and an answer or other first appearance is not filed in the proceeding until on or after October 1, 2017, the person filing the answer or other first appearance must pay the appropriate fee prescribed in ORS 21.010, 21.135, 21.145, 21.155, 21.160, 21.165, 21.170, 21.175, 21.180, 46.570 and 105.130, as in effect on October 1, 2017.
-
-      (3) Notwithstanding ORS 21.105 and 21.160, if an action or proceeding based on a tort or contract is filed before October 1, 2017, and the complaint or any other pleading filed in the proceeding is amended on or after October 1, 2017, to increase the amount claimed, the person filing the amended pleading must pay an additional filing fee if the filing fee under ORS 21.160 is greater than the filing fee previously paid. The amount of the additional filing fee is equal to the difference between the filing fee previously paid and the filing fee provided by ORS 21.160 for the amount claimed.
-
-      (4) Notwithstanding ORS 21.105, 21.170 and 21.180, if a petition for the appointment of a personal representative or the initial documents for a conservatorship proceeding are filed before October 1, 2017, and the inventory filed in the proceeding is amended to increase the value of the estate on or after October 1, 2017, the person filing the amended pleading must pay an additional filing fee that is equal to the difference between the filing fee that was paid by the party when the original pleading was filed and the filing fee that would have been collected under ORS 21.170 or 21.180 if the amount had been pleaded in the original pleading. [2017 c.663 §10]
+      (6) An action brought under ORS 105.110 by a person entitled to possession of premises on the basis of circumstances described in ORS 105.115 (1)(d), (e) or (f) is subject to the filing fees and other court or sheriff fees applicable to an action concerning a dwelling unit that is subject to ORS chapter 90. The procedure under ORS 105.105 to 105.168 that is applicable to an action concerning a dwelling unit subject to ORS chapter 90 shall also apply to an action brought under ORS 105.115 (1)(d), (e) or (f), except that the complaint must be in the form prescribed in ORS 105.126. [Amended by 1975 c.256 §10; 1977 c.877 §15; 1979 c.284 §94; 1981 c.753 §10; 1983 c.581 §1; 1985 c.588 §16; 1987 c.829 §5; 1991 c.92 §1; 1993 c.369 §17; 1995 c.273 §17; 1997 c.801 §34; 2003 c.737 §§47,48; 2005 c.702 §§53,54,55; 2007 c.493 §§8,18b; 2007 c.860 §8; 2009 c.638 §2; 2011 c.595 §55; 2013 c.685 §§37,37a; 2014 c.76 §11; 2017 c.663 §9; 2019 c.605 §10]
 
  
 
@@ -1999,6 +2079,8 @@ THE COUNTY OF ____________
 
  
 
+ 
+
 (Landlord),                 )
 
                                     )
@@ -2025,7 +2107,7 @@ ANSWER
 
       I (we) deny that the plaintiff(s) is (are) entitled to possession because:
 
-__  The landlord did not make repairs.
+__The landlord did not make repairs.
 
       List any repair problems: ________
 
@@ -2033,13 +2115,13 @@ __  The landlord did not make repairs.
 
       ________________________
 
-__  The landlord is attempting to evict me (us) because of my (our) complaints (or the eviction is      otherwise retaliatory).
+__The landlord is attempting to evict me (us) because of my (our) complaints (or the eviction is otherwise retaliatory).
 
-__  The landlord is attempting to evict me because of my status as a victim of domestic violence,        sexual assault or stalking.
+__The landlord is attempting to evict me because of my status as a victim of domestic violence, sexual assault or stalking.
 
-__  The eviction notice is wrong.
+__The eviction notice is wrong.
 
-__  List any other defenses: _________
+__List any other defenses: _________
 
       ________________________
 
@@ -2053,9 +2135,15 @@ __  List any other defenses: _________
 
       I (we) ask that the plaintiff(s) not be awarded possession of the premises and that I (we) be awarded my (our) costs and disbursements and attorney fees, if applicable, or a prevailing party fee.
 
+ 
+
+ 
+
 ________        ______________
 
 Date                Signature of defendant(s)
+
+ 
 
 ______________________________________________________________________________
 
@@ -2063,9 +2151,9 @@ ______________________________________________________________________________
 
  
 
-      105.138 Compelling arbitration; procedure. (1) Notwithstanding ORS 105.137 (6), if a party to an action to which ORS 90.505 to 90.850 apply moves for an order compelling arbitration and abating the proceedings, the court shall summarily determine whether the controversy between the parties is subject to an arbitration agreement enforceable under ORS 90.610 (2) and, if so, shall issue an order compelling the parties to submit to arbitration in accordance with the agreement and abating the action for not more than 30 days, unless the parties agree to an order of abatement for a longer period acceptable to the court.
+      105.138 Compelling arbitration; procedure. (1) Notwithstanding ORS 105.137 (6), if a party to an action to which ORS 90.505 to 90.850 apply moves for an order compelling arbitration and abating the proceedings, the court shall summarily determine whether the controversy between the parties is subject to an arbitration agreement enforceable under ORS 90.769 and, if so, shall issue an order compelling the parties to submit to arbitration in accordance with the agreement and abating the action for not more than 30 days, unless the parties agree to an order of abatement for a longer period acceptable to the court.
 
-      (2) If the court issues an order compelling arbitration under subsection (1) of this section, the court may not order the payment of rent into court pending the arbitration unless the court finds such an order is necessary to protect the rights of the parties. [1989 c.918 §7; 1991 c.844 §20; 1995 c.559 §46; 2001 c.596 §49a; 2007 c.508 §15]
+      (2) If the court issues an order compelling arbitration under subsection (1) of this section, the court may not order the payment of rent into court pending the arbitration unless the court finds such an order is necessary to protect the rights of the parties. [1989 c.918 §7; 1991 c.844 §20; 1995 c.559 §46; 2001 c.596 §49a; 2007 c.508 §15; 2019 c.625 §68]
 
  
 
@@ -2155,7 +2243,11 @@ Case No. _____
 
  
 
+ 
+
 Landlord or agent (Plaintiff):
+
+ 
 
 __________________
 
@@ -2167,15 +2259,23 @@ __________________
 
 Tenant/Occupant (Defendant):
 
+ 
+
 __________________
 
  
 
 Address of Property:
 
-__________________
+ 
 
 __________________
+
+ 
+
+__________________
+
+ 
 
  
 
@@ -2201,9 +2301,15 @@ __________________
 
       3. Here is my explanation for the reason or reasons checked above:
 
-___________________________
+ 
 
 ___________________________
+
+ 
+
+___________________________
+
+ 
 
 ___________________________
 
@@ -2211,11 +2317,15 @@ ___________________________
 
       I hereby declare that the above statement is true to the best of my knowledge and belief, and that I understand it is made for use as evidence in court and is subject to penalty for perjury.
 
+ 
+
 _______________
 
 (Signature of tenant)
 
 Date: ________
+
+ 
 
 ______________________________________________________________________________
 
@@ -2305,13 +2415,19 @@ Case Number ______
 
  
 
+ 
+
 TO: _____________________
 
 (Tenant/Defendant)
 
+ 
+
 ___________________________
 
 (Address of rental property)
+
+ 
 
  
 
@@ -2335,6 +2451,8 @@ MOVE OUT DATE: _________
 
       If you and everyone else living there do not move out by that time, the Sheriff will physically remove you. You must also move all of your belongings by that time. Anything you leave behind will be stored or disposed of as allowed by law.
 
+ 
+
 __________________
 
 Deputy Court Administrator
@@ -2355,17 +2473,21 @@ County of _________
 
 NOTICE OF RESTITUTION
 
-Case Number _________
-
  
 
-TO: __________________
+Case Number _________ TO: __________________
 
 (Defendant/Tenant)
 
-___________________________
+ 
 
 ___________________________
+
+ 
+
+___________________________
+
+ 
 
 ___________________________
 
@@ -2383,13 +2505,15 @@ MOVE OUT DATE: _________
 
       If you and everyone else living there do not move out by that time, the Sheriff will physically remove you. You must also move all of your belongings by that time. Anything you leave behind will be stored or disposed of as allowed by law.
 
+ 
+
 ________________________
 
 Deputy Court Administrator
 
-______________________________________________________________________________
+ 
 
-[2001 c.596 §16 (105.151, 105.152, 105.153, 105.156, 105.157, 105.158, 105.159 and 105.161 enacted in lieu of 105.154)]
+______________________________________________________________________________ [2001 c.596 §16 (105.151, 105.152, 105.153, 105.156, 105.157, 105.158, 105.159 and 105.161 enacted in lieu of 105.154)]
 
  
 
@@ -2407,15 +2531,17 @@ ______________________________________________________________________________
 
  
 
-State of Oregon,          )                       WRIT OF
+State of Oregon,          )           WRIT OF
 
                                     )           ss.        EXECUTION OF
 
-                                    )                       JUDGMENT OF
+                                    )           JUDGMENT OF
 
-                                    )                       RESTITUTION
+                                    )           RESTITUTION
 
 County of_____          )
+
+ 
 
  
 
@@ -2423,11 +2549,17 @@ To the Sheriff:
 
       This was an eviction action for possession of the following premises:
 
+ 
+
 ___________________________
+
+ 
 
 ___________________________
 
 (city)
+
+ 
 
 ___________________________
 
@@ -2443,27 +2575,37 @@ ___________________________
 
       The plaintiff shall be responsible for removing, storing and disposing of any personal property left by the defendant on the premises following the removal of the defendant and the return of possession of the premises, as provided by ORS 105.165.
 
-      DATED this ___ day of_________.
+      DATED this ___ day of______,___.
+
+ 
+
+ 
 
       __________________
 
       Deputy Court Administrator
 
+ 
+
       __________________
 
       Plaintiff
+
+ 
 
       __________________
 
       Address
 
+ 
+
       __________________
 
       City/State/Zip
 
-______________________________________________________________________________
+ 
 
-[2001 c.596 §17 (105.151, 105.152, 105.153, 105.156, 105.157, 105.158, 105.159 and 105.161 enacted in lieu of 105.154); 2003 c.378 §29; 2005 c.391 §37; 2007 c.255 §4]
+______________________________________________________________________________ [2001 c.596 §17 (105.151, 105.152, 105.153, 105.156, 105.157, 105.158, 105.159 and 105.161 enacted in lieu of 105.154); 2003 c.378 §29; 2005 c.391 §37; 2007 c.255 §4]
 
  
 
@@ -2473,11 +2615,17 @@ ______________________________________________________________________________
 
 EVICTION TRESPASS NOTICE
 
-Occupants of these premises located at:
+      Occupants of these premises located at:
+
+ 
 
 ___________________________
 
+ 
+
 ___________________________
+
+ 
 
 ___________________________
 
@@ -2489,21 +2637,37 @@ have been evicted by an order of the court in ___________ vs.___________, Case N
 
       Any personal property present on these premises at the time this notice was served, (date)_______________, is in the possession of the landlord and may be redeemed by contacting the landlord at:
 
-___________________________
+ 
 
 ___________________________
 
+ 
+
 ___________________________
+
+ 
+
+___________________________
+
+ 
 
 DATED _______________
 
+ 
+
+ 
+
+ 
+
 _______________
+
+ 
 
 SHERIFF
 
-______________________________________________________________________________
+ 
 
-[2001 c.596 §18 (105.151, 105.152, 105.153, 105.156, 105.157, 105.158, 105.159 and 105.161 enacted in lieu of 105.154); 2003 c.378 §30]
+______________________________________________________________________________ [2001 c.596 §18 (105.151, 105.152, 105.153, 105.156, 105.157, 105.158, 105.159 and 105.161 enacted in lieu of 105.154); 2003 c.378 §30]
 
  
 
@@ -2561,6 +2725,28 @@ ______________________________________________________________________________
 
  
 
+      105.163 Setting aside judgment. (1) A person who was a defendant in an action under ORS 105.105 to 105.168 may apply by motion to the court where the judgment was entered for an order setting aside the judgment and sealing the official records of the action pertaining to the applicant. The court shall grant the motion if the court finds that:
+
+      (a) The judgment was a judgment of restitution entered against the applicant, a period of at least five years has passed from the date of entry of the judgment and the applicant has satisfied any money award included in the judgment;
+
+      (b) The judgment was a judgment by stipulation of the parties under ORS 105.145 (2) and the applicant has complied with the terms of the stipulated agreement and satisfied any money award included in the judgment; or
+
+      (c) The judgment was a judgment or judgment of dismissal entered in the applicant’s favor.
+
+      (2) The applicant shall serve a copy of the motion filed under subsection (1) of this section upon the person who was the plaintiff in the action under ORS 105.105 to 105.168. Within 30 days of service of the motion, if a written objection is filed, the court shall schedule a hearing.
+
+      (3) If, under subsection (2) of this section, no objection is filed or after a hearing the court determines that the applicant is eligible for relief under subsection (1) of this section, the court shall enter an appropriate order setting aside the judgment and sealing the official records of the action pertaining to the applicant. Upon entry of the order, the judgment that is the subject of the motion shall be deemed not to have been entered, and the applicant may answer accordingly any questions relating to its occurrence.
+
+      (4) The court may not charge a filing fee for the filing of a motion under subsection (1) of this section. [2019 c.351 §2]
+
+ 
+
+      Note: Section 3, chapter 351, Oregon Laws 2019, provides:
+
+      Sec. 3. Section 2 of this 2019 Act [105.163] applies to any judgment entered before, on or after the effective date of this 2019 Act [January 1, 2020]. [2019 c.351 §3]
+
+ 
+
       105.165 Alternative method of removing, storing and disposing of tenant’s personal property; requirements; landlord liability. (1) If ORS chapter 90 applies to a dwelling unit, following restitution of the premises to the plaintiff by the sheriff pursuant to ORS 105.161, the plaintiff shall remove, store and dispose of any personal property left by the defendant on the premises as provided in ORS 90.425 or 90.675.
 
       (2) If ORS chapter 90 does not apply to a premises, the plaintiff or landlord shall remove, store and dispose of any personal property left by the defendant or tenant upon the premises following recovery of possession of the premises by the plaintiff or landlord:
@@ -2578,8 +2764,6 @@ ______________________________________________________________________________
       (3) Any cost incurred by the plaintiff for execution pursuant to ORS 105.151 or 105.158 to 105.161 or for removal, storage or sale of the defendant’s property under this section and not recovered pursuant to ORS 90.425 (13) or 90.675 (13) shall be added to the judgment.
 
       (4) If the plaintiff fails to permit the defendant to recover possession of the defendant’s personal property under subsection (1) of this section, the defendant may recover from the plaintiff, in addition to any other amount provided by law, twice the actual damages or twice the monthly rent, whichever is greater. [1981 c.753 §9; 1989 c.506 §23; 1989 c.910 §5; 1993 c.369 §18; 1995 c.559 §51; 1997 c.577 §39; 2001 c.596 §48; 2003 c.378 §32; 2003 c.658 §10]
-
- 
 
       105.168 Minor as party in proceedings pertaining to residential dwellings. Notwithstanding ORCP 27 or any other provision of law, a minor, as defined in ORS 109.697 and who is a tenant as defined under ORS 90.100, may appear as a party without appointment of a guardian or guardian ad litem in an action for forcible entry or wrongful detainer, under ORS 105.105 to 105.168 regarding possession of a residential dwelling unit to which ORS chapter 90 applies, or in an action based upon a contract for a residential dwelling unit or for utility services provided to that unit. [1993 c.369 §31]
 
@@ -2634,6 +2818,22 @@ MODIFICATION OF LEASE TERMS
  
 
       105.190 Covenant of good faith and fair dealing; rights and obligations of parties. Whenever a covenant of good faith and fair dealing is implied in the lease of real property, a party’s rights or duties under such covenant may be modified only by express provision in the lease agreement. [1997 c.845 §1]
+
+ 
+
+ENCUMBRANCES
+
+ 
+
+      105.200 Request for itemized statement. (1) As used in this section, “encumbrance” means:
+
+      (a) A claim, lien, charge or other liability that is attached to and is binding upon real property in this state as security for payment of a monetary obligation; or
+
+      (b) A reservation of title to real property in this state under a land sale contract.
+
+      (2)(a) A person, or an agent of the person, that holds a lien that is an encumbrance upon real property may request from a person that holds another lien that is an encumbrance upon the real property an itemized statement of the amount that is necessary to pay off the other lien. The statement must include the per diem interest that accrues after the date of the statement if the obligation that the lien secures bears interest.
+
+      (b) The person that receives a request for a statement under paragraph (a) of this subsection may provide the statement without the permission of the obligor on the other lien unless federal or state law requires the obligor’s consent. [2019 c.140 §2]
 
  
 
@@ -2829,6 +3029,8 @@ PARTITION
 
       (2) The reasonable costs of partition, including reasonable attorney fees and disbursements, that are for services performed for the common benefit of all parties, shall be paid by the parties that will share in the lands divided in proportion to their respective interests therein, and shall be included and specified in the judgment. They shall be a lien on the several shares, and the judgment may be enforced by execution against the parties separately. When, however, a controversy arises between some of the parties only, the court may require the expense of such controversy to be paid by any of, or all, the parties thereto. [Amended by 1971 c.502 §1; 2003 c.576 §368]
 
+ 
+
 HOUSING RECEIVERSHIP
 
  
@@ -2841,39 +3043,47 @@ HOUSING RECEIVERSHIP
 
  
 
-      105.425 Definitions for ORS 105.420 to 105.445 and 105.455. As used in ORS 105.420 to 105.445 and 105.455:
+      105.425 Definitions for ORS 105.420 to 105.455. As used in ORS 105.420 to 105.455:
 
-      (1) “Abatement” means the removal or correction of any condition at a property including demolition that violates the provisions of any duly enacted building or housing code, as well as the making of such other improvements or corrections as are needed to effect the rehabilitation of the property or structure, but not including the closing or physical securing of the structure.
+      (1) “Abatement” means the removal or correction, including by demolition, of any condition at a property that violates the provisions of any duly enacted building or housing code or the making of other improvements or corrections needed to rehabilitate the property or structure, but does not include the closing or physical securing of the structure.
 
       (2) “Building code” or “housing code” means any law, ordinance or governmental regulation concerning habitability or the construction, maintenance, operation, occupancy, use or appearance of any property.
 
-      (3) “Governing body” means the city council, board of commissioners, county court or other managing board of a municipality or county.
+      (3) “Interested party” means any person or entity that possesses any legal or equitable interest of record in the property, including the owner, the holder of any lien or encumbrance of record on the property and any person who must or may be made a defendant in a foreclosure suit under ORS 88.030.
 
-      (4) “Interested party” means any person or entity that possesses any legal or equitable interest of record in the property, including but not limited to the holder of any lien or encumbrance of record on the property.
-
-      (5) “Property” means real property and all improvements thereon including edifices, structures, buildings, unit or part thereof used or intended to be used for residential purposes including single-family, duplex, multifamily structures and mixed-use structures which have one or more residential units. [1989 c.649 §3]
+      (4) “Property” means real property and all improvements thereon including edifices, structures, buildings, unit or part thereof used or intended to be used for residential purposes including single-family, duplex, multifamily structures and mixed-use structures which have one or more residential units. [1989 c.649 §3; 2019 c.191 §1]
 
  
 
-      105.430 Receivership for buildings that constitute threat to public health, safety or welfare; procedure. (1) If residential property is found to be in violation of building or housing codes which the city or county, in the exercise of reasonable discretion believes constitutes a threat to the public health, safety or welfare, the city or county in addition to any other remedies available to it may apply to a court of competent jurisdiction for the appointment of a receiver to perform an abatement.
+      105.430 Receivership for buildings that constitute threat to public health, safety or welfare; procedure. (1) If residential property is in violation of building or housing codes such that the city or county believes it constitutes a threat to the public health, safety or welfare, the city or county, in addition to any other remedies available, may apply to the circuit court of the county in which the property is located for the appointment of a receiver to perform an abatement.
 
-      (2) At least 60 days prior to the filing of an application for appointment of a receiver pursuant to ORS 105.420 to 105.455, the city or county shall give written notice by regular mail to all interested parties of its intent to file the application and information relative to:
+      (2) No less than 60 days prior to the filing of a petition for appointment of a receiver, the city or county shall give written notice by regular mail to all interested parties of the following:
 
       (a) The identity of the property;
 
-      (b) The violations of the building or housing codes giving rise to the application for the receiver;
+      (b) The violations of the building or housing codes giving rise to the need for the receiver;
 
       (c) The name, address and telephone number of the person or department where additional information can be obtained concerning violations and their remedy; and
 
-      (d) The city or county which may seek the appointment of a receiver pursuant to ORS 105.420 to 105.455 unless action is taken within 60 days by an interested party.
+      (d) That the city or county may petition the court for the appointment of a receiver pursuant to ORS 105.420 to 105.455 unless action is taken within 60 days by an interested party.
 
-      (3) A city or county may not apply for the appointment of a receiver pursuant to ORS 105.420 to 105.455 if an interested party has commenced and is then prosecuting in a timely fashion an action or other judicial or nonjudicial proceeding to foreclose a security interest on the property, or to obtain specific performance of or forfeit the purchaser’s interest in under a land sale contract.
+      (3) A city or county may not file a petition for the appointment of a receiver if:
 
-      (4) Notice of the application for the appointment of a receiver pursuant to ORS 105.420 to 105.455 shall be served on all interested parties.
+      (a) Probate proceedings have been commenced under ORS chapter 112 and are currently pending in the county of the property for an owner of the property, unless authorized by an order of the probate court.
 
-      (5) If, following the application for appointment of a receiver, one or more of the interested parties elects to correct the conditions at the property giving rise to the city’s or county’s application for the appointment of a receiver, the party or parties shall be required to post security in an amount and character as the court deems appropriate to insure timely performance of all work necessary to make corrections, as well as such other conditions as the court deems appropriate to effect the timely completion of the corrections by the interested party or parties.
+      (b) An interested party has commenced and is timely prosecuting an action or other judicial or nonjudicial proceeding to foreclose a security interest on the property, or to obtain specific performance or forfeiture of the purchaser’s interest under a land sale contract.
 
-      (6) In the event that no interested party elects to act pursuant to subsection (5) of this section or fails to timely perform work undertaken pursuant to subsection (5) of this section, the court shall make a determination that the property is an unsafe or insanitary condition and appoint a receiver to complete the abatement.
+      (4) The petition for the appointment of a receiver pursuant to ORS 105.420 to 105.455 must be served on all interested parties in the manner provided by ORCP 7 D.
+
+      (5) If, following the filing of a petition for appointment of a receiver, an interested party intends to correct the conditions at the property giving rise to the petition for the appointment of a receiver or initiate a proceeding described in subsection (3) of this section, the court may stay the matter and order the party to post security in an amount the court deems appropriate to insure timely performance and other conditions the court deems appropriate to effect the timely completion of the corrections or proceeding.
+
+      (6) The court shall appoint a receiver under ORS 105.420 to 105.455 if the court finds that the city or county has complied with this section and that the property is a threat to public health, safety or welfare and:
+
+      (a) No interested party appears within 30 days after service;
+
+      (b) An interested party fails to comply with an order under subsection (5) of this section; or
+
+      (c) If the matter has not been stayed under subsection (5) of this section, upon a hearing that shall be held no later than 30 days after requested by the city or county.
 
       (7) A receiver may be any one of the following:
 
@@ -2885,33 +3095,57 @@ HOUSING RECEIVERSHIP
 
       (d) A city or county agency, bureau or similar subdivision designated by the city or county as being responsible for the rehabilitation of property.
 
-      (8) A receiver appointed by the court pursuant to ORS 105.420 to 105.455 shall not be required to give security or bond of any sort prior to appointment. [1989 c.649 §4; 1995 c.79 §34]
+      (8) A receiver appointed by the court pursuant to ORS 105.420 to 105.455 may not be required to give security or bond of any sort prior to appointment.
+
+      (9) In lieu of the appointment of a receiver under subsection (6) of this section, upon the motion of city or county the court shall enter a general judgment in favor of the city or county against the real property in the amount of the estimated costs of abatement if:
+
+      (a) The court finds the city or county has complied with the requirements of this section;
+
+      (b) The court finds the property is in an unsafe or insanitary condition;
+
+      (c)(A) No interested party appears within 30 days after service; or
+
+      (B) An interested party fails to comply with an order under subsection (5) of this section;
+
+      (d) The city or county has proven by evidence in the record that the reasonably estimated cost of abatement exceeds 25 percent of the property’s real market value, as shown on the property’s most recent tax records;
+
+      (e) The property is not currently occupied as a dwelling; and
+
+      (f) The motion for judgment has been served by the city or county on all interested parties, including interested parties in default, in the manner provided for by ORCP 9 C, no less than 30 days prior to the motion.
+
+      (10) A judgment given under subsection (9) of this section shall have the priority of a lien created under ORS 105.440 (2) as provided in ORS 105.445. [1989 c.649 §4; 1995 c.79 §34; 2019 c.191 §2]
 
  
 
-      105.435 Authority of receiver; financing agreements; fee; abatement work exempt from public contracting law. (1) A receiver appointed by the court, pursuant to ORS 105.420 to 105.455, shall have the authority to do any or all of the following unless specifically limited by the court:
+      105.435 Authority of receiver; financing agreements; fee; abatement work exempt from public contracting law. (1) A receiver appointed by the court pursuant to ORS 105.420 to 105.455 may, unless specifically limited by the court:
 
-      (a) Take possession and control of the property including the right to enter, modify and terminate tenancies pursuant to ORS 105.105 to 105.161 and to charge and collect rents derived therefrom, applying said sum to the costs incurred due to the abatement and receivership;
+      (a) Take possession and control of the property including the right to enter, modify and terminate tenancies pursuant to ORS 105.105 to 105.161, to charge and collect rents and to apply rents to the costs incurred due to the abatement and receivership;
 
-      (b) Negotiate contracts and pay all expenses associated with the operation and conservation of the property including, but not limited to, all utility, fuel, custodial, repair or insurance costs;
+      (b) Negotiate contracts and pay all expenses associated with the operation and conservation of the property including all utility, fuel, custodial, repair or insurance costs;
 
-      (c) Pay all accrued property taxes, penalties, assessments and other charges imposed on the property by a unit of government as well as any accruing charge of like nature accruing during the pendency of the receivership;
+      (c) Pay all accrued property taxes, penalties, assessments and other charges imposed on the property by a unit of government and any charge accruing during the pendency of the receivership;
 
-      (d) Dispose of any or all abandoned personal property found at the structure; and
+      (d) Dispose of any or all abandoned personal property found at the structure;
 
-      (e) Enter into contracts and pay for the performance of any work necessary to complete the abatement.
+      (e) Enter into contracts and pay for the performance of any work necessary to complete the abatement; and
 
-      (2) In addition to the powers set forth in subsection (1) of this section, the receiver may, under such terms and condition as a court shall allow, enter into financing agreements with public or private lenders and encumber the property therewith so as to have moneys available to correct the conditions at the property giving rise to the abatement.
+      (f) Under such terms and condition as a court allows, enter into financing agreements with public or private lenders and encumber the property to have moneys available to correct the conditions at the property giving rise to the abatement.
 
-      (3) A receiver may charge an administrative fee at an hourly rate approved by the court or at a rate of 15 percent of the total cost of the abatement, whichever the court deems more appropriate.
+      (2) A court may approve a charge of an administrative fee for a receiver at an hourly rate approved by the court or at a rate not to exceed 15 percent of the total cost of the abatement.
 
-      (4) All abatement work done under ORS 105.420 to 105.455 is exempt from the public contracting statutes set forth in ORS 279C.005, 279C.100 to 279C.125 and 279C.300 to 279C.470 and ORS chapters 279A and 279B, except ORS 279A.125, 279A.250 to 279A.290 and 279B.235. [1989 c.649 §§5,6; 2003 c.794 §196]
+      (3) All abatement work done under ORS 105.420 to 105.455 is exempt from the public contracting statutes set forth in ORS 279C.005, 279C.100 to 279C.125 and 279C.300 to 279C.470 and ORS chapters 279A and 279B, except ORS 279A.125, 279A.250 to 279A.290 and 279B.235. [1989 c.649 §§5,6; 2003 c.794 §196; 2019 c.191 §3]
 
  
 
-      105.440 Review of abatement expenditures by court; lien for unpaid expenses. (1) All moneys expended and all costs and obligations incurred by the receiver in performing the abatement shall be reviewed by the court for reasonableness and their necessity in performing the abatement. To the extent that the court finds the moneys, costs or obligations, or any combination thereof, to be reasonable and necessary, it shall issue an order reciting this fact as well as the amount found to be reasonable and necessary.
+      105.440 Report of abatement expenditures; court approval; lien. (1) From time to time as the court may order during the receivership, but at least once no later than 60 days after the receivership begins and once no later than 30 days after the receivership terminates, a receiver shall file a report as described in ORS 37.200. Upon the court’s approval of the report, the court shall order:
 
-      (2) If the costs and obligations incurred due to the abatement have not been paid, the order of the court shall be filed with the county recorder within 60 days of its filing with the court and shall thereafter constitute a lien on the property. [1989 c.649 §7]
+      (a) That the property is liable for any net losses of the receiver over the course of the reporting period, including administrative fees of the receiver, plus interest at the greater of the legal rate of interest or the rate charged by any obligations incurred by the receiver for the benefit of the property;
+
+      (b) That the county recorder may enter the order as a lien against the property within 60 days after the date of the order; and
+
+      (c) That the lien has priority over all other liens, mortgages and encumbrances as provided in ORS 105.445.
+
+      (2) Unless all losses of the receiver recited in an order under subsection (1) of this section have been paid, at any time within 60 days after the date of the order, the receiver may file the order with the county recorder as a lien on the property. [1989 c.649 §7; 2019 c.191 §4]
 
  
 
@@ -2949,7 +3183,7 @@ HOUSING RECEIVERSHIP
 
  
 
-      105.455 Short title. ORS 105.420 to 105.430 and 105.455 may be cited as the Oregon Housing Receivership Act. [1989 c.649 §1]
+      105.455 Short title. ORS 105.420 to 105.455 may be cited as the Oregon Housing Receivership Act. [1989 c.649 §1; 2019 c.191 §5]
 
  
 
@@ -3037,6 +3271,10 @@ _____This sale or transfer is by a governmental agency.
 
  
 
+ 
+
+ 
+
 ______________________
 
 Signature(s) of Seller claiming exclusion
@@ -3045,11 +3283,19 @@ Signature(s) of Seller claiming exclusion
 
 Date ________
 
+ 
+
+ 
+
+ 
+
 ______________________
 
  
 
 Buyer(s) to acknowledge Seller’s claim
+
+ 
 
 Date ________
 
@@ -3071,7 +3317,9 @@ Section 2. SELLER’S PROPERTY DISCLOSURE STATEMENT
 
  
 
-NOTICE TO THE BUYER: THE FOLLOWING REPRESENTATIONS ARE MADE BY THE SELLER(S) CONCERNING THE CONDITION OF THE PROPERTY LOCATED AT _______________ (“THE PROPERTY”).
+NOTICE TO THE BUYER: THE FOLLOWING REPRESENTATIONS ARE MADE BY THE SELLER(S) CONCERNING THE CONDITION OF THE PROPERTY LOCATED AT
+
+_______________(“THE PROPERTY”).
 
  
 
@@ -3099,489 +3347,495 @@ The following are representations made by the seller and are not the representat
 
  
 
-1.   TITLE
+ 
 
-A.  Do you have legal authority to sell the property?         [ ]Yes     [ ]No     [ ]Unknown
+      1.   TITLE
 
-*B. Is title to the property subject to any of the
+      A.  Do you have legal authority to sell the property?      [ ]Yes  [ ]No   [ ]Unknown
 
-following:                                                                            [ ]Yes     [ ]No     [ ]Unknown
+      *B. Is title to the property subject to any of the
 
-(1) First right of refusal
+      following: [ ]Yes  [ ]No   [ ]Unknown
 
-(2) Option
+      (1) First right of refusal
 
-(3) Lease or rental agreement
+      (2) Option
 
-(4) Other listing
+      (3) Lease or rental agreement
 
-(5) Life estate?
+      (4) Other listing
 
-*C. Is the property being transferred an
+      (5) Life estate?
 
-unlawfully established unit of land?                                   [ ]Yes     [ ]No     [ ]Unknown
+      *C. Is the property being transferred an
 
-*D. Are there any encroachments, boundary
+      unlawfully established unit of land?        [ ]Yes  [ ]No   [ ]Unknown
 
-agreements, boundary disputes or recent
+      *D. Are there any encroachments, boundary
 
-boundary changes?                                                              [ ]Yes     [ ]No     [ ]Unknown
+      agreements, boundary disputes or recent
 
-*E. Are there any rights of way, easements,
+      boundary changes?           [ ]Yes  [ ]No   [ ]Unknown
 
-licenses, access limitations or claims that
+      *E. Are there any rights of way, easements,
 
-may affect your interest in the property?                            [ ]Yes     [ ]No     [ ]Unknown
+      licenses, access limitations or claims that
 
-*F. Are there any agreements for joint
+      may affect your interest in the property? [ ]Yes  [ ]No   [ ]Unknown
 
-maintenance of an easement or right of way?                     [ ]Yes     [ ]No     [ ]Unknown
+      *F. Are there any agreements for joint
 
-*G. Are there any governmental studies, designations,
+      maintenance of an easement or right of way?      [ ]Yes  [ ]No   [ ]Unknown
 
-zoning overlays, surveys or notices that would
+      *G. Are there any governmental studies, designations,
 
-affect the property?                                                             [ ]Yes     [ ]No     [ ]Unknown
+      zoning overlays, surveys or notices that would
 
-*H. Are there any pending or existing governmental
+      affect the property?          [ ]Yes  [ ]No   [ ]Unknown
 
-assessments against the property?                                       [ ]Yes     [ ]No     [ ]Unknown
+      *H. Are there any pending or existing governmental
 
-*I.  Are there any zoning violations or
+      assessments against the property? [ ]Yes  [ ]No   [ ]Unknown
 
-nonconforming uses?                                                           [ ]Yes     [ ]No     [ ]Unknown
+      *I.  Are there any zoning violations or
 
-*J. Is there a boundary survey for the
+      nonconforming uses?        [ ]Yes  [ ]No   [ ]Unknown
 
-property?                                                                             [ ]Yes     [ ]No     [ ]Unknown
+      *J. Is there a boundary survey for the
 
-*K. Are there any covenants, conditions,
+      property?  [ ]Yes  [ ]No   [ ]Unknown
 
-restrictions or private assessments that
+      *K. Are there any covenants, conditions,
 
-affect the property?                                                             [ ]Yes     [ ]No     [ ]Unknown
+      restrictions or private assessments that
 
-*L. Is the property subject to any special tax
+      affect the property?          [ ]Yes  [ ]No   [ ]Unknown
 
-assessment or tax treatment that may result
+      *L. Is the property subject to any special tax
 
-in levy of additional taxes if the property
+      assessment or tax treatment that may result
 
-is sold?                                                                                 [ ]Yes     [ ]No     [ ]Unknown
+      in levy of additional taxes if the property
+
+      is sold?      [ ]Yes  [ ]No   [ ]Unknown
 
  
 
-2.   WATER
+      2.   WATER
 
-A.  Household water
+      A.  Household water
 
-(1) The source of the water is (check ALL that apply):
+      (1) The source of the water is (check ALL that apply):
 
-[ ]Public [ ]Community [ ]Private
+      [ ]Public [ ]Community [ ]Private
 
-[ ]Other ________
+      [ ]Other ________
 
-(2) Water source information:
+      (2) Water source information:
 
-*a. Does the water source require a water permit?             [ ]Yes     [ ]No     [ ]Unknown
+      *a. Does the water source require a water permit?          [ ]Yes  [ ]No   [ ]Unknown
 
-If yes, do you have a permit?                                              [ ]Yes     [ ]No
+      If yes, do you have a permit?       [ ]Yes  [ ]No
 
-b.   Is the water source located on the property?                 [ ]Yes     [ ]No     [ ]Unknown
+      b.   Is the water source located on the property?  [ ]Yes  [ ]No   [ ]Unknown
 
-*If not, are there any written agreements for
+      *If not, are there any written agreements for
 
-a shared water source?                                                        [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      a shared water source?     [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-*c. Is there an easement (recorded or unrecorded)
+      *c. Is there an easement (recorded or unrecorded)
 
-for your access to or maintenance of the water
+      for your access to or maintenance of the water
 
-source?                                                                                 [ ]Yes     [ ]No     [ ]Unknown
+      source?      [ ]Yes  [ ]No   [ ]Unknown
 
-d.   If the source of water is from a well or spring,
+      d.   If the source of water is from a well or spring,
 
-have you had any of the following in the past
+      have you had any of the following in the past
 
-12 months? [ ]Flow test [ ]Bacteria test
+      12 months? [ ]Flow test [ ]Bacteria test
 
-[ ]Chemical contents test                                                     [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      [ ]Chemical contents test  [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-*e. Are there any water source plumbing problems
+      *e. Are there any water source plumbing problems
 
-or needed repairs?                                                               [ ]Yes     [ ]No     [ ]Unknown
+      or needed repairs? [ ]Yes  [ ]No   [ ]Unknown
 
-(3) Are there any water treatment systems for
+      (3) Are there any water treatment systems for
 
-the property?                                                                       [ ]Yes     [ ]No     [ ]Unknown
+      the property?        [ ]Yes  [ ]No   [ ]Unknown
 
-[ ]Leased [ ]Owned
+      [ ]Leased [ ]Owned
 
-B.  Irrigation
+      B.  Irrigation
 
-(1) Are there any [ ] water rights or [ ] other
+      (1) Are there any [ ] water rights or [ ] other
 
-irrigation rights for the property?                                        [ ]Yes     [ ]No     [ ]Unknown
+      irrigation rights for the property? [ ]Yes  [ ]No   [ ]Unknown
 
-*(2)     If any exist, has the irrigation water been
+      *(2)           If any exist, has the irrigation water been
 
-used during the last five-year period?                                 [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      used during the last five-year period?      [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-*(3)     Is there a water rights certificate or other
+      *(3)           Is there a water rights certificate or other
 
-written evidence available?                                                 [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      written evidence available?          [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-C.  Outdoor sprinkler system
+      C.  Outdoor sprinkler system
 
-(1) Is there an outdoor sprinkler system for the
+      (1) Is there an outdoor sprinkler system for the
 
-property?                                                                             [ ]Yes     [ ]No     [ ]Unknown
+      property?  [ ]Yes  [ ]No   [ ]Unknown
 
-(2) Has a back flow valve been installed?                          [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      (2) Has a back flow valve been installed?           [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-(3) Is the outdoor sprinkler system operable?                     [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
- 
-
-3.   SEWAGE SYSTEM
-
-A.  Is the property connected to a public or
-
-community sewage system?                                                [ ]Yes     [ ]No     [ ]Unknown
-
-B.  Are there any new public or community sewage
-
-systems proposed for the property?                                    [ ]Yes     [ ]No     [ ]Unknown
-
-C.  Is the property connected to an on-site septic
-
-system?                                                                                [ ]Yes     [ ]No     [ ]Unknown
-
-(1) If yes, when was the system installed?                         ________             [ ]Unknown      [ ]NA
-
-(2) *If yes, was the system installed by permit?                 [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-(3) *Has the system been repaired or altered?                    [ ]Yes     [ ]No     [ ]Unknown
-
-(4) *Has the condition of the system been
-
-evaluated and a report issued?                                            [ ]Yes     [ ]No     [ ]Unknown
-
-(5) Has the septic tank ever been pumped?                        [ ]Yes     [ ]No     [ ]Unknown
-
-If yes, when?                                                                        ________             [ ]NA
-
-(6) Does the system have a pump?                                     [ ]Yes     [ ]No     [ ]Unknown
-
-(7) Does the system have a treatment unit such
-
-as a sand filter or an aerobic unit?                                       [ ]Yes     [ ]No     [ ]Unknown
-
-(8) *Is a service contract for routine
-
-maintenance required for the system?                                 [ ]Yes     [ ]No     [ ]Unknown
-
-(9) Are all components of the system located on
-
-the property?                                                                       [ ]Yes     [ ]No     [ ]Unknown
-
-D.  *Are there any sewage system problems or
-
-needed repairs?                                                                    [ ]Yes     [ ]No     [ ]Unknown
-
-E.   Does your sewage system require on-site
-
-pumping to another level?                                                   [ ]Yes     [ ]No     [ ]Unknown
+      (3) Is the outdoor sprinkler system operable?      [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
  
 
-4.   DWELLING INSULATION
+      3.   SEWAGE SYSTEM
 
-A.  Is there insulation in the:
+      A.  Is the property connected to a public or
 
-(1) Ceiling?                                                                         [ ]Yes     [ ]No     [ ]Unknown
+      community sewage system?         [ ]Yes  [ ]No   [ ]Unknown
 
-(2) Exterior walls?                                                              [ ]Yes     [ ]No     [ ]Unknown
+      B.  Are there any new public or community sewage
 
-(3) Floors?                                                                           [ ]Yes     [ ]No     [ ]Unknown
+      systems proposed for the property?         [ ]Yes  [ ]No   [ ]Unknown
 
-B.  Are there any defective insulated doors or
+      C.  Is the property connected to an on-site septic
 
-windows?                                                                             [ ]Yes     [ ]No     [ ]Unknown
+      system?     [ ]Yes  [ ]No   [ ]Unknown
 
- 
+      (1) If yes, when was the system installed?          ________        [ ]Unknown     [ ]NA
 
-5.   DWELLING STRUCTURE
+      (2) *If yes, was the system installed by permit?  [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-*A. Has the roof leaked?                                                      [ ]Yes     [ ]No     [ ]Unknown
+      (3) *Has the system been repaired or altered?     [ ]Yes  [ ]No   [ ]Unknown
 
-If yes, has it been repaired?                                                 [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      (4) *Has the condition of the system been
 
-B.  Are there any additions, conversions or
+      evaluated and a report issued?     [ ]Yes  [ ]No   [ ]Unknown
 
-remodeling?                                                                         [ ]Yes     [ ]No     [ ]Unknown
+      (5) Has the septic tank ever been pumped?         [ ]Yes  [ ]No   [ ]Unknown
 
-If yes, was a building permit required?                               [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      If yes, when?         ________        [ ]NA
 
-If yes, was a building permit obtained?                              [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      (6) Does the system have a pump?          [ ]Yes  [ ]No   [ ]Unknown
 
-If yes, was final inspection obtained?                                 [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      (7) Does the system have a treatment unit such
 
-C.  Are there smoke alarms or detectors?                           [ ]Yes     [ ]No     [ ]Unknown
+      as a sand filter or an aerobic unit?            [ ]Yes  [ ]No   [ ]Unknown
 
-D.  Are there carbon monoxide alarms?                             [ ]Yes     [ ]No     [ ]Unknown
+      (8) *Is a service contract for routine
 
-E.   Is there a woodstove or fireplace
+      maintenance required for the system?      [ ]Yes  [ ]No   [ ]Unknown
 
-insert included in the sale?                                                  [ ]Yes     [ ]No     [ ]Unknown
+      (9) Are all components of the system located on
 
-*If yes, what is the make? ________
+      the property?        [ ]Yes  [ ]No   [ ]Unknown
 
-*If yes, was it installed with a permit?                               [ ]Yes     [ ]No     [ ]Unknown
+      D.  *Are there any sewage system problems or
 
-*If yes, is a certification label issued by the
+      needed repairs?     [ ]Yes  [ ]No   [ ]Unknown
 
-United States Environmental Protection
+      E.   Does your sewage system require on-site
 
-Agency (EPA) or the Department of
-
-Environmental Quality (DEQ) affixed to it?                       [ ]Yes     [ ]No     [ ]Unknown
-
-*F. Has pest and dry rot, structural or
-
-“whole house” inspection been done
-
-within the last three years?                                                  [ ]Yes     [ ]No     [ ]Unknown
-
-*G. Are there any moisture problems, areas of water
-
-penetration, mildew odors or other moisture
-
-conditions (especially in the basement)?                            [ ]Yes     [ ]No     [ ]Unknown
-
-*If yes, explain on attached sheet the frequency
-
-and extent of problem and any insurance claims,
-
-repairs or remediation done.
-
-H.  Is there a sump pump on the property?                         [ ]Yes     [ ]No     [ ]Unknown
-
-I.    Are there any materials used in the
-
-construction of the structure that are or
-
-have been the subject of a recall, class
-
-action suit, settlement or litigation?                                    [ ]Yes     [ ]No     [ ]Unknown
-
-If yes, what are the materials? ________
-
-(1) Are there problems with the materials?                        [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-(2) Are the materials covered by a warranty?                     [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-(3) Have the materials been inspected?                              [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-(4) Have there ever been claims filed for these
-
-materials by you or by previous owners?                            [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-If yes, when? ________
-
-(5) Was money received?                                                   [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-(6) Were any of the materials repaired or
-
-replaced?                                                                             [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      pumping to another level? [ ]Yes  [ ]No   [ ]Unknown
 
  
 
-6.   DWELLING SYSTEMS AND FIXTURES
+      4.   DWELLING INSULATION
 
-If the following systems or fixtures are included
+      A.  Is there insulation in the:
 
-in the purchase price, are they in good working
+      (1) Ceiling?          [ ]Yes  [ ]No   [ ]Unknown
 
-order on the date this form is signed?
+      (2) Exterior walls?           [ ]Yes  [ ]No   [ ]Unknown
 
-A.  Electrical system, including wiring, switches,
+      (3) Floors?            [ ]Yes  [ ]No   [ ]Unknown
 
-outlets and service                                                               [ ]Yes     [ ]No     [ ]Unknown
+      B.  Are there any defective insulated doors or
 
-B.  Plumbing system, including pipes, faucets,
-
-fixtures and toilets                                                               [ ]Yes     [ ]No     [ ]Unknown
-
-C.  Water heater tank                                                          [ ]Yes     [ ]No     [ ]Unknown
-
-D.  Garbage disposal                                                           [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-E.   Built-in range and oven                                                 [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-F.   Built-in dishwasher                                                       [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-G.  Sump pump                                                                   [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-H.  Heating and cooling systems                                         [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-I.    Security system [ ]Owned [ ]Leased                             [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
-
-J.   Are there any materials or products used in
-
-the systems and fixtures that are or have
-
-been the subject of a recall, class action
-
-suit settlement or litigation?                                                [ ]Yes     [ ]No     [ ]Unknown
-
-If yes, what product? _______________
-
-(1) Are there problems with the product?                           [ ]Yes     [ ]No     [ ]Unknown
-
-(2) Is the product covered by a warranty?                          [ ]Yes     [ ]No     [ ]Unknown
-
-(3) Has the product been inspected?                                   [ ]Yes     [ ]No     [ ]Unknown
-
-(4) Have claims been filed for this product
-
-by you or by previous owners?                                           [ ]Yes     [ ]No     [ ]Unknown
-
-If yes, when? _______________
-
-(5) Was money received?                                                   [ ]Yes     [ ]No     [ ]Unknown
-
-(6) Were any of the materials or products repaired
-
-or replaced?                                                                         [ ]Yes     [ ]No     [ ]Unknown
+      windows?  [ ]Yes  [ ]No   [ ]Unknown
 
  
 
-7.   COMMON INTEREST
+      5.   DWELLING STRUCTURE
 
-A.  Is there a Home Owners’ Association
+      *A. Has the roof leaked?   [ ]Yes  [ ]No   [ ]Unknown
 
-or other governing entity?                                                   [ ]Yes     [ ]No     [ ]Unknown
+      If yes, has it been repaired?          [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-Name of Association or Other Governing
+      B.  Are there any additions, conversions or
 
-Entity _______________
+      remodeling?          [ ]Yes  [ ]No   [ ]Unknown
 
-Contact Person __________________
+      If yes, was a building permit required?    [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-Address ______________________
+      If yes, was a building permit obtained?   [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-Phone Number __________________
+      If yes, was final inspection obtained?      [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-B.  Regular periodic assessments: $_____
+      C.  Are there smoke alarms or detectors? [ ]Yes  [ ]No   [ ]Unknown
 
-per [ ]Month [ ]Year [ ]Other _____
+      D.  Are there carbon monoxide alarms?  [ ]Yes  [ ]No   [ ]Unknown
 
-*C. Are there any pending or proposed special
+      E.   Is there a woodstove or fireplace
 
-assessments?                                                                       [ ]Yes     [ ]No     [ ]Unknown
+      insert included in the sale?           [ ]Yes  [ ]No   [ ]Unknown
 
-D.  Are there shared “common areas” or joint
+      *If yes, what is the make? ________
 
-maintenance agreements for facilities like
+      *If yes, was it installed with a permit?    [ ]Yes  [ ]No   [ ]Unknown
 
-walls, fences, pools, tennis courts, walkways
+      *If yes, is a certification label issued by the
 
-or other areas co-owned in undivided interest
+      United States Environmental Protection
 
-with others?                                                                         [ ]Yes     [ ]No     [ ]Unknown
+      Agency (EPA) or the Department of
 
-E.   Is the Home Owners’ Association or other
+      Environmental Quality (DEQ) affixed to it?        [ ]Yes  [ ]No   [ ]Unknown
 
-governing entity a party to pending litigation
+      *F. Has pest and dry rot, structural or
 
-or subject to an unsatisfied judgment?                                [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      “whole house” inspection been done
 
-F.   Is the property in violation of recorded
+      within the last three years?           [ ]Yes  [ ]No   [ ]Unknown
 
-covenants, conditions and restrictions or in
+      *G. Are there any moisture problems, areas of water
 
-violation of other bylaws or governing rules,
+      penetration, mildew odors or other moisture
 
-whether recorded or not?                                                     [ ]Yes     [ ]No     [ ]Unknown      [ ]NA
+      conditions (especially in the basement)? [ ]Yes  [ ]No   [ ]Unknown
 
- 
+      *If yes, explain on attached sheet the frequency
 
-8.   SEISMIC
+      and extent of problem and any insurance claims,
 
-Was the house constructed before 1974?                            [ ]Yes     [ ]No     [ ]Unknown
+      repairs or remediation done.
 
-If yes, has the house been bolted to its
+      H.  Is there a sump pump on the property?          [ ]Yes  [ ]No   [ ]Unknown
 
-foundation?                                                                          [ ]Yes     [ ]No     [ ]Unknown
+      I.    Are there any materials used in the
 
- 
+      construction of the structure that are or
 
-9.   GENERAL
+      have been the subject of a recall, class
 
-A.  Are there problems with settling, soil,
+      action suit, settlement or litigation?         [ ]Yes  [ ]No   [ ]Unknown
 
-standing water or drainage on the property
+      If yes, what are the materials? ________
 
-or in the immediate area?                                                    [ ]Yes     [ ]No     [ ]Unknown
+      (1) Are there problems with the materials?         [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-B.  Does the property contain fill?                                      [ ]Yes     [ ]No     [ ]Unknown
+      (2) Are the materials covered by a warranty?      [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-C.  Is there any material damage to the property or
+      (3) Have the materials been inspected?   [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-any of the structure(s) from fire, wind, floods,
+      (4) Have there ever been claims filed for these
 
-beach movements, earthquake, expansive soils
+      materials by you or by previous owners? [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-or landslides?                                                                      [ ]Yes     [ ]No     [ ]Unknown
+      If yes, when? ________
 
-D.  Is the property in a designated floodplain?                   [ ]Yes     [ ]No     [ ]Unknown
+      (5) Was money received? [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
-E.   Is the property in a designated slide or other
+      (6) Were any of the materials repaired or
 
-geologic hazard zone?                                                         [ ]Yes     [ ]No     [ ]Unknown
-
-*F. Has any portion of the property been tested
-
-or treated for asbestos, formaldehyde, radon
-
-gas, lead-based paint, mold, fuel or chemical
-
-storage tanks or contaminated soil or water?                      [ ]Yes     [ ]No     [ ]Unknown
-
-G.  Are there any tanks or underground storage
-
-tanks (e.g., septic, chemical, fuel, etc.)
-
-on the property?                                                                  [ ]Yes     [ ]No     [ ]Unknown
-
-H.  Has the property ever been used as an illegal
-
-drug manufacturing or distribution site?                             [ ]Yes     [ ]No     [ ]Unknown
-
-*If yes, was a Certificate of Fitness issued?                       [ ]Yes     [ ]No     [ ]Unknown
-
-*I.  Has the property been classified as
-
-forestland-urban interface?                                                 [ ]Yes     [ ]No     [ ]Unknown
+      replaced?  [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
 
  
 
-10. FULL DISCLOSURE BY SELLERS
+      6.   DWELLING SYSTEMS AND FIXTURES
 
-*A. Are there any other material defects affecting
+      If the following systems or fixtures are included
 
-this property or its value that a prospective
+      in the purchase price, are they in good working
 
-buyer should know about?                                                   [ ]Yes     [ ]No
+      order on the date this form is signed?
 
-*If yes, describe the defect on attached sheet and
+      A.  Electrical system, including wiring, switches,
 
-explain the frequency and extent of the problem
+      outlets and service [ ]Yes  [ ]No   [ ]Unknown
 
-and any insurance claims, repairs or remediation.
+      B.  Plumbing system, including pipes, faucets,
 
-B.  Verification:
+      fixtures and toilets [ ]Yes  [ ]No   [ ]Unknown
+
+      C.  Water heater tank       [ ]Yes  [ ]No   [ ]Unknown
+
+      D.  Garbage disposal        [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      E.   Built-in range and oven          [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      F.   Built-in dishwasher    [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      G.  Sump pump    [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      H.  Heating and cooling systems  [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      I.    Security system [ ]Owned [ ]Leased  [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      J.   Are there any materials or products used in
+
+      the systems and fixtures that are or have
+
+      been the subject of a recall, class action
+
+      suit settlement or litigation?         [ ]Yes  [ ]No   [ ]Unknown
+
+      If yes, what product? _______________
+
+      (1) Are there problems with the product? [ ]Yes  [ ]No   [ ]Unknown
+
+      (2) Is the product covered by a warranty?           [ ]Yes  [ ]No   [ ]Unknown
+
+      (3) Has the product been inspected?        [ ]Yes  [ ]No   [ ]Unknown
+
+      (4) Have claims been filed for this product
+
+      by you or by previous owners?    [ ]Yes  [ ]No   [ ]Unknown
+
+      If yes, when? _______________
+
+      (5) Was money received? [ ]Yes  [ ]No   [ ]Unknown
+
+      (6) Were any of the materials or products repaired
+
+      or replaced?          [ ]Yes  [ ]No   [ ]Unknown
+
+ 
+
+      7.   COMMON INTEREST
+
+      A.  Is there a Home Owners’ Association
+
+      or other governing entity? [ ]Yes  [ ]No   [ ]Unknown
+
+      Name of Association or Other Governing
+
+      Entity _______________
+
+      Contact Person __________________
+
+      Address ______________________
+
+      Phone Number __________________
+
+      B.  Regular periodic assessments: $_____
+
+      per [ ]Month [ ]Year [ ]Other _____
+
+      *C. Are there any pending or proposed special
+
+      assessments?        [ ]Yes  [ ]No   [ ]Unknown
+
+      D.  Are there shared “common areas” or joint
+
+      maintenance agreements for facilities like
+
+      walls, fences, pools, tennis courts, walkways
+
+      or other areas co-owned in undivided interest
+
+      with others?          [ ]Yes  [ ]No   [ ]Unknown
+
+      E.   Is the Home Owners’ Association or other
+
+      governing entity a party to pending litigation
+
+      or subject to an unsatisfied judgment?     [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+      F.   Is the property in violation of recorded
+
+      covenants, conditions and restrictions or in
+
+      violation of other bylaws or governing rules,
+
+      whether recorded or not?  [ ]Yes  [ ]No   [ ]Unknown     [ ]NA
+
+ 
+
+      8.   SEISMIC
+
+      Was the house constructed before 1974? [ ]Yes  [ ]No   [ ]Unknown
+
+      If yes, has the house been bolted to its
+
+      foundation?           [ ]Yes  [ ]No   [ ]Unknown
+
+ 
+
+      9.   GENERAL
+
+      A.  Are there problems with settling, soil,
+
+      standing water or drainage on the property
+
+      or in the immediate area? [ ]Yes  [ ]No   [ ]Unknown
+
+      B.  Does the property contain fill?           [ ]Yes  [ ]No   [ ]Unknown
+
+      C.  Is there any material damage to the property or
+
+      any of the structure(s) from fire, wind, floods,
+
+      beach movements, earthquake, expansive soils
+
+      or landslides?       [ ]Yes  [ ]No   [ ]Unknown
+
+      D.  Is the property in a designated floodplain?    [ ]Yes  [ ]No   [ ]Unknown
+
+      Note: Flood insurance may be required for
+
+      homes in a floodplain.
+
+      E.   Is the property in a designated slide or
+
+      other geologic hazard zone?         [ ]Yes  [ ]No   [ ]Unknown
+
+      *F. Has any portion of the property been tested
+
+      or treated for asbestos, formaldehyde, radon
+
+      gas, lead-based paint, mold, fuel or chemical
+
+      storage tanks or contaminated soil or water?       [ ]Yes  [ ]No   [ ]Unknown
+
+      G.  Are there any tanks or underground storage
+
+      tanks (e.g., septic, chemical, fuel, etc.)
+
+      on the property?   [ ]Yes  [ ]No   [ ]Unknown
+
+      H.  Has the property ever been used as an illegal
+
+      drug manufacturing or distribution site?  [ ]Yes  [ ]No   [ ]Unknown
+
+      *If yes, was a Certificate of Fitness issued?        [ ]Yes  [ ]No   [ ]Unknown
+
+      *I.  Has the property been classified as
+
+      forestland-urban interface?          [ ]Yes  [ ]No   [ ]Unknown
+
+ 
+
+      10. FULL DISCLOSURE BY SELLERS
+
+      *A. Are there any other material defects affecting
+
+      this property or its value that a prospective
+
+      buyer should know about?            [ ]Yes  [ ]No
+
+      *If yes, describe the defect on attached sheet and
+
+      explain the frequency and extent of the problem
+
+      and any insurance claims, repairs or remediation.
+
+      B.  Verification:
 
       The foregoing answers and attached explanations (if any) are complete and correct to
 
@@ -3599,7 +3853,11 @@ prospective buyers of the property or their agents.
 
       SELLER ______________________ DATE _______________
 
+ 
+
       SELLER ______________________ DATE _______________
+
+ 
 
 ______________________________________________________________________________
 
@@ -3631,6 +3889,8 @@ BUYER HEREBY ACKNOWLEDGES RECEIPT OF A COPY OF THIS SELLER’S PROPERTY DISCLOSU
 
 BUYER ______________________ DATE _______________
 
+ 
+
 BUYER ______________________ DATE _______________
 
  
@@ -3641,13 +3901,19 @@ Agent receiving disclosure statement on buyer’s behalf to sign and date:
 
 ______________________Real Estate Licensee
 
+ 
+
 ______________________Real Estate Firm
+
+ 
 
 Date received by agent ________
 
+ 
+
 ______________________________________________________________________________
 
-[2003 c.328 §3; 2007 c.30 §13; 2007 c.866 §8; 2009 c.387 §18; 2009 c.591 §14a; 2013 c.435 §1; 2017 c.147 §1]
+[2003 c.328 §3; 2007 c.30 §13; 2007 c.866 §8; 2009 c.387 §18; 2009 c.591 §14a; 2013 c.435 §1; 2017 c.147 §1; 2019 c.584 §1]
 
  
 
@@ -3920,8 +4186,6 @@ SUITS TO QUIET TITLE AND REMOVE CLOUD
  
 
       105.615 Action by tenant in common against cotenants. Unless otherwise agreed or provided in a granting document, a tenant in common of real property may acquire fee simple title to the real property by adverse possession as against all other cotenants if the tenant in common or the tenant in common’s predecessor in interest has been in possession of the real property, exclusive of all other cotenants, for an uninterrupted period of 20 years or more and has paid all taxes assessed against such property while in possession. Notice of the exclusive possession need not be given to the other cotenants by the cotenant in possession. [1969 c.350 §1; 1989 c.1069 §3]
-
- 
 
       105.618 Adverse possession of railroad property. A person may not acquire by adverse possession, as defined in ORS 105.620, property owned by a railroad or used for a railroad operation. [2007 c.440 §1]
 
@@ -4471,6 +4735,8 @@ ACTION TO ESTABLISH BOUNDARY
 
       105.725 Proceedings on motion to confirm report. The report of the commissioners may be confirmed by the court upon written motion of either party to the suit whenever it appears to the court that the motion was served upon the adverse party two days before the presentation thereof and no exceptions have been filed to the report within two days after the service. If exceptions are filed to the report, they may be heard with the motion to confirm, and the court may confirm, modify or set aside the report as is just, and in the latter case may appoint a new commission or refer the matter to the same commissioners with appropriate instructions.
 
+ 
+
 ACTIONS BASED ON CHANGE OF GRADE
 
  
@@ -4494,6 +4760,8 @@ ACTIONS BASED ON CHANGE OF GRADE
       (3) The trial circuit court shall, in its general judgment, apportion such just compensation as it may award among the various persons found by it to own or have some right, title or interest in such real property. The awarded compensation shall be apportioned according to the rules of law governing the distribution of awards made when real property is taken under the power of eminent domain.
 
       (4) The liability of the state or the liability of the county, as the case may be, terminates wholly when it pays into court the sums determined by the circuit court to be just compensation. Any cause of action granted by this section is barred unless such action is commenced within six months after the change of grade is physically completed and accepted by the Department of Transportation or the county. [Formerly 373.040; 1973 c.197 §6; 2003 c.576 §240]
+
+ 
 
 EXTINGUISHMENT OF FUTURE INTERESTS
 
@@ -4601,7 +4869,7 @@ MISCELLANEOUS ACTIONS
 
  
 
-      105.815 When double damages are awarded for trespass; exception. (1) Except as provided in subsection (3) of this section, if, upon the trial of an action included in ORS 105.810, it appears that the trespass was casual or involuntary, or that the defendant had probable cause to believe that the land on which the trespass was committed was the land of the defendant or the land of the person in whose service or by whose direction the act was done, or that the tree or timber was taken from uninclosed woodland for the purpose of repairing any public highway or bridge upon the land or adjoining it, judgment shall be given for double damages.
+      105.815 When double damages are awarded for trespass; exception. (1) Except as provided in subsection (3) of this section, if, upon the trial of an action included in ORS 105.810, it appears that the trespass was casual or involuntary, or that the defendant had probable cause to believe that the land on which the trespass was committed was the land of the defendant or the land of the person in whose service or by whose direction the act was done, or that the tree or timber was taken from unenclosed woodland for the purpose of repairing any public highway or bridge upon the land or adjoining it, judgment shall be given for double damages.
 
       (2) A judgment for the costs of litigation and reforestation as provided in ORS 105.810 shall be in addition to and not in lieu of a judgment for damages under this section.
 
@@ -5019,9 +5287,11 @@ RULE AGAINST PERPETUITIES
 
       (5) A nonvested property interest held by a charity, government or governmental agency or subdivision, if the nonvested property interest is preceded by an interest held by another charity, government or governmental agency or subdivision;
 
-      (6) A nonvested property interest in or a power of appointment with respect to a trust or other property arrangement forming part of a pension, profit sharing, stock bonus, health, disability, death benefit, income deferral or other current or deferred benefit plan for one or more employees, independent contractors or their beneficiaries or spouses, to which contributions are made for the purpose of distributing to or for the benefit of the participants or their beneficiaries or spouses the property, income or principal in the trust or other property arrangement, except a nonvested property interest or a power of appointment that is created by an election of a participant or a beneficiary or spouse; or
+      (6) A nonvested property interest in or a power of appointment with respect to a trust or other property arrangement forming part of a pension, profit sharing, stock bonus, health, disability, death benefit, income deferral or other current or deferred benefit plan for one or more employees, independent contractors or their beneficiaries or spouses, to which contributions are made for the purpose of distributing to or for the benefit of the participants or their beneficiaries or spouses the property, income or principal in the trust or other property arrangement, except a nonvested property interest or a power of appointment that is created by an election of a participant or a beneficiary or spouse;
 
-      (7) A property interest, power of appointment or arrangement that was not subject to the common-law rule against perpetuities or is excluded by another statute of this state. [1989 c.208 §4]
+      (7) A property interest, power of appointment or arrangement that was not subject to the common-law rule against perpetuities or is excluded by another statute of this state; or
+
+      (8) A stewardship trust created pursuant to ORS 130.193 if the terms of the trust clearly elect that the statutory rule against perpetuities not apply to the trust and include a reference to this subsection. [1989 c.208 §4; 2019 c.162 §6]
 
  
 

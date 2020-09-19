@@ -4,12 +4,6 @@ Chapter 254 — Conduct of Elections
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -195,6 +189,10 @@ VOTING
 
  
 
+254.473     State payment for return of ballots by mail
+
+ 
+
 254.474     Voting booths for primary and general elections
 
  
@@ -247,7 +245,11 @@ POST-ELECTION PROCEDURES
 
  
 
-254.529     Hand count of ballots at general election; comparison with tally of vote tally system; procedures
+254.529     Choice of conducting hand recount of ballots or risk-limiting audit; procedures for hand recount
+
+ 
+
+254.532     Risk-limiting audit; procedures; rules
 
  
 
@@ -296,8 +298,6 @@ SPECIAL ELECTION IN CASE OF DEATH OF NOMINEE
  
 
 254.660     Conduct of special election; rules
-
- 
 
  
 
@@ -711,7 +711,9 @@ PREPARATORY PROCEDURES
 
       (2) Not later than the 68th day before the date of any election the Secretary of State shall mail or deliver to each county clerk a copy of the random ordering of the letters of the alphabet.
 
-      (3) The county clerk shall arrange by surname the names of the candidates on the ballot in the random order of the letters of the alphabet completed by the Secretary of State under subsection (1) of this section. [Formerly 249.362; 1983 c.253 §1; 1987 c.267 §47; 1993 c.713 §49; 2007 c.154 §27]
+      (3) The county clerk shall arrange by surname the names of the candidates on the ballot in the random order of the letters of the alphabet completed by the Secretary of State under subsection (1) of this section.
+
+      (4) The requirements of this section apply only if at least one contested candidate race will be on the ballot. [Formerly 249.362; 1983 c.253 §1; 1987 c.267 §47; 1993 c.713 §49; 2007 c.154 §27; 2018 c.70 §11; 2019 c.675 §8]
 
  
 
@@ -719,9 +721,9 @@ PREPARATORY PROCEDURES
 
  
 
-      254.165 Adjusting ballot when vacancy occurs; notice to Secretary of State; exception. (1) If the filing officer determines that a candidate has died, withdrawn or become disqualified, or that the candidate will not qualify in time for the office if elected, the name of the candidate may not be printed on the ballots or, if they have already been printed, shall be erased or canceled before the ballots are delivered to the electors. The name of a candidate nominated to fill a vacancy in nomination or office shall be printed on the ballots or, if they have already been printed, the county clerk shall cause the name to appear on the ballots before the ballots are delivered to the electors. A filing officer, other than the Secretary of State, shall notify the Secretary of State of any action taken under this section.
+      254.165 Adjusting ballot when vacancy occurs; notice to Secretary of State; exception. (1) If the filing officer determines that a candidate has died, withdrawn or become disqualified, or that the candidate will not qualify in time for the office if elected, the name of the candidate may not be printed on the ballots or, if ballots have already been printed, the ballots must be reprinted without the name of the candidate before the ballots are delivered to the electors. The name of a candidate nominated to fill a vacancy in nomination or office must be printed on the ballots or, if the ballots have already been printed, the county clerk shall cause the name to appear on the ballots before the ballots are delivered to the electors. A filing officer, other than the Secretary of State, shall notify the Secretary of State of any action taken under this section.
 
-      (2) Subsection (1) of this section does not apply if the filing officer makes the determination under subsection (1) of this section on or after the 47th day before the date of the election.
+      (2) Subsection (1) of this section does not apply if the filing officer makes the determination under subsection (1) of this section on or after the 61st day before the date of the election.
 
       (3) As used in this section:
 
@@ -737,7 +739,7 @@ PREPARATORY PROCEDURES
 
       (D) County clerk, regarding a candidate for a district office to be voted on in a district situated wholly within the county.
 
-      (E) City clerk, auditor or recorder, regarding a candidate for a city office. [Formerly 250.161; 1983 c.514 §12; 1991 c.719 §28; 1999 c.410 §48; 2007 c.154 §28; 2009 c.366 §1]
+      (E) City clerk, auditor or recorder, regarding a candidate for a city office. [Formerly 250.161; 1983 c.514 §12; 1991 c.719 §28; 1999 c.410 §48; 2007 c.154 §28; 2009 c.366 §1; 2018 c.70 §6]
 
  
 
@@ -953,11 +955,13 @@ VOTING
 
       (3) An elector voting under this section shall complete and sign a registration card.
 
-      (4) The elector shall insert the ballot into a small envelope provided by the county clerk and then insert the small envelope into a larger envelope. The larger envelope shall be delivered to the county clerk and shall be segregated and not counted until the registration of the elector is verified under this section.
+      (4)(a) The elector shall insert the ballot into a small envelope provided by the county clerk and then insert the small envelope into a larger envelope. The larger envelope shall be delivered to the county clerk and shall be segregated and not counted until the registration of the elector is verified under this section.
+
+      (b) An envelope provided under this subsection must comply with the prohibitions set forth in ORS 254.470 (11).
 
       (5) The county clerk shall determine if the elector is validly registered to vote and if the vote was properly cast. The ballot shall be counted only if the county clerk determines the registration of the elector is considered active or inactive.
 
-      (6) A vote shall be counted only if the elector is qualified to vote for the particular office or on the measure. [Formerly 247.205; 1999 c.410 §53; 2007 c.154 §35]
+      (6) A vote shall be counted only if the elector is qualified to vote for the particular office or on the measure. [Formerly 247.205; 1999 c.410 §53; 2007 c.154 §35; 2019 c.508 §4]
 
  
 
@@ -1069,11 +1073,13 @@ VOTING
 
  
 
-      254.458 Alternatives to secrecy envelope procedures. Notwithstanding any provision of ORS 254.470:
+      254.458 Alternatives to secrecy envelope procedures. (1) Notwithstanding any provision of ORS 254.470:
 
-      (1) A county clerk may apply to the Secretary of State for approval of any procedure to be used in lieu of the envelope procedures described in ORS 254.470; and
+      (a) A county clerk may apply to the Secretary of State for approval of any procedure to be used in lieu of the envelope procedures described in ORS 254.470; and
 
-      (2) Upon receiving an application under subsection (1) of this section, the secretary may approve a procedure to be used in lieu of the envelope procedures described in ORS 254.470 if the secretary determines that the procedure will provide substantially the same degree of secrecy as ORS 254.470. [1995 c.607 §84; 2007 c.154 §39]
+      (b) Upon receiving an application under subsection (1) of this section, the secretary may approve a procedure to be used in lieu of the envelope procedures described in ORS 254.470 if the secretary determines that the procedure will provide substantially the same degree of secrecy as ORS 254.470.
+
+      (2) A procedure approved by the secretary under this section must comply with the prohibitions set forth in ORS 254.470 (11). [1995 c.607 §84; 2007 c.154 §39; 2019 c.508 §5]
 
  
 
@@ -1109,7 +1115,7 @@ VOTING
 
       (b) The county clerk shall mail the official ballot of a major political party to an elector not affiliated with any political party if the elector has applied for the ballot as provided in this subsection and that party has provided under ORS 254.365 for a primary election that admits electors not affiliated with any political party.
 
-      (c) An elector not affiliated with any political party who wishes to vote in the primary election of a major political party shall apply to the county clerk in writing. The application shall indicate which major political party ballot the elector wishes to receive. Except for electors described in subsection (4) of this section, and subject to ORS 247.203, the application must be received by the county clerk not later than 5 p.m. of the 21st day before the date of the election.
+      (c) An elector not affiliated with any political party who wishes to vote in the primary election of a major political party shall apply to the county clerk in writing. The application must be completed, signed and submitted by the elector electronically, in person or by mail, in a manner determined by the secretary by rule and must indicate which major political party ballot the elector wishes to receive. Except for electors described in subsection (4) of this section, and subject to ORS 247.203, the application must be received by the county clerk not later than 5 p.m. of the 21st day before the date of the election.
 
       (d) If the primary election ballot includes city, county or nonpartisan offices or measures, the county clerk shall mail to each elector who is not eligible to vote for party candidates a ballot limited to those offices and measures for which the elector is eligible to vote.
 
@@ -1127,7 +1133,7 @@ ______________________________________________________________________________
 
       (b) The elector may return the marked ballot to the county clerk by United States mail or by depositing the ballot at the office of the county clerk, at any place of deposit designated by the county clerk or at any location described in ORS 254.472 or 254.474.
 
-      (c) The ballot must be returned in the return identification envelope. If the elector returns the ballot by mail, the elector must provide the postage.
+      (c) The ballot must be returned in the return identification envelope.
 
       (d) Subject to paragraph (e) of this subsection, if a person returns a ballot for an elector, the person shall deposit the ballot in a manner described in paragraph (b) of this subsection not later than two days after receiving the ballot.
 
@@ -1145,7 +1151,15 @@ ______________________________________________________________________________
 
       (9) The county clerk shall verify the signature of each elector on the return identification envelope with the signature on the elector’s registration record, according to the procedure provided by rules adopted by the Secretary of State. If the county clerk determines that an elector to whom a replacement ballot has been issued has voted more than once, the county clerk shall count only one ballot cast by that elector.
 
-      (10) At 8 p.m. on election day, electors who are at the county clerk’s office, a place of deposit designated under subsection (1) of this section or any location described in ORS 254.472 or 254.474 and who are in line waiting to vote or deposit a voted ballot shall be considered to have begun the act of voting. [1981 c.805 §2; 1983 c.199 §2; 1985 c.575 §2; 1987 c.357 §3; 1987 c.733 §7a; 1993 c.493 §44; 1995 c.607 §43; 1995 c.712 §65; 1995 c.742 §17; 1999 c.410 §57; 1999 c.999 §54a; 1999 c.1002 §11; 2001 c.104 §79; 2001 c.805 §7; 2001 c.965 §14; 2005 c.797 §47; 2007 c.71 §78; 2007 c.154 §40a; 2008 c.53 §5; 2009 c.511 §24; 2013 c.520 §18; 2013 c.617 §3; 2013 c.679 §3; 2015 c.169 §3; 2017 c.749 §50]
+      (10) At 8 p.m. on election day, electors who are at the county clerk’s office, a place of deposit designated under subsection (1) of this section or any location described in ORS 254.472 or 254.474 and who are in line waiting to vote or deposit a voted ballot shall be considered to have begun the act of voting.
+
+      (11)(a)(A) Except as provided in subparagraph (B) of this paragraph, the name of the Secretary of State may not appear in the secretary’s official capacity on the return identification envelope, secrecy envelope or on any instructions or materials included with the ballot if the secretary is a candidate in the election for which the ballot is printed.
+
+      (B) This paragraph does not prohibit the name of the Secretary of State from appearing in the secretary’s official capacity in the voters’ pamphlet.
+
+      (b) The name of the county clerk or other filing officer may not appear in the official capacity of the county clerk or filing officer on the return identification envelope, secrecy envelope or on any instructions or materials included with the ballot if the county clerk or filing officer is a candidate in the election for which the ballot is printed.
+
+      (c) As used in this subsection, “filing officer” has the meaning given that term in ORS 254.165. [1981 c.805 §2; 1983 c.199 §2; 1985 c.575 §2; 1987 c.357 §3; 1987 c.733 §7a; 1993 c.493 §44; 1995 c.607 §43; 1995 c.712 §65; 1995 c.742 §17; 1999 c.410 §57; 1999 c.999 §54a; 1999 c.1002 §11; 2001 c.104 §79; 2001 c.805 §7; 2001 c.965 §14; 2005 c.797 §47; 2007 c.71 §78; 2007 c.154 §40a; 2008 c.53 §5; 2009 c.511 §24; 2013 c.520 §18; 2013 c.617 §3; 2013 c.679 §3; 2015 c.169 §3; 2017 c.749 §50; 2018 c.70 §4; 2019 c.508 §3; 2019 c.638 §3]
 
  
 
@@ -1166,6 +1180,14 @@ ______________________________________________________________________________
  
 
       254.472 Compartments for marking ballots. The county clerk shall provide, at any location where ballots are issued, at least three suitable compartments, shelves or tables at which electors may mark their ballots. The arrangement of the compartments, shelves or tables shall ensure that the elector may conveniently mark the ballot with absolute secrecy. The compartments, shelves or tables shall be available during the entire time that ballots may be issued. [1999 c.410 §42]
+
+ 
+
+      254.473 State payment for return of ballots by mail. (1) Except as provided in subsection (2) of this section, for each election held in this state, electors shall be provided with a return identification envelope that may be returned by business reply mail. The state shall bear the cost of complying with this subsection.
+
+      (2) The Secretary of State may require that the return identification envelopes provided to electors be returned by mail by using a method other than business reply mail if the secretary determines that an alternative method is more cost effective or efficient. The state shall bear the cost of returning ballots by mail under any method adopted by the secretary under this subsection.
+
+      (3) As used in this section, “business reply mail” means a mailing service allowing a preaddressed return identification envelope to be mailed by an elector without charge, with the state paying the mailing fee for a return identification envelope that is returned by United States mail but not for a return identification envelope that is not returned by United States mail. [2019 c.638 §2]
 
  
 
@@ -1301,15 +1323,21 @@ POST-ELECTION PROCEDURES
 
  
 
-      254.529 Hand count of ballots at general election; comparison with tally of vote tally system; procedures. (1) At each general election, the county clerk shall conduct a hand count of ballots as described in this section and compare the tally of votes for those ballots produced by a vote tally system with the tally of votes for those ballots produced by the hand count.
+      254.529 Choice of conducting hand recount of ballots or risk-limiting audit; procedures for hand recount. (1) At each primary election, general election and special election, the county clerk shall make a determination on whether to conduct:
 
-      (2)(a) In the event that the unofficial tally of ballots produced by a vote tally system reveals that the margin of victory between the two candidates receiving the largest number of votes in the county is less than one percent of the total votes cast in that election in the county, the county clerk shall conduct a hand count of ballots in at least 10 percent of all precincts or of ballots in at least 10 percent of all batches of ballots collected by the county clerk.
+      (a) A hand count of ballots as described in this section and compare the tally of votes for those ballots produced by a vote tally system with the tally of votes for those ballots produced by the hand count; or
+
+      (b) A risk-limiting audit in the manner described in ORS 254.532.
+
+      (2) If the county clerk determines that a hand count will be conducted:
+
+      (a) In the event that the unofficial tally of ballots produced by a vote tally system reveals that the margin of victory between the two candidates receiving the largest number of votes in the county is less than one percent of the total votes cast in that election in the county, the county clerk shall conduct a hand count of ballots in at least 10 percent of all precincts or of ballots in at least 10 percent of all batches of ballots collected by the county clerk.
 
       (b) In the event that the unofficial tally of ballots reveals that the margin of victory between the two candidates receiving the largest number of votes in the county is greater than or equal to one percent but less than two percent of the total votes cast in the county, the county clerk shall conduct a hand count of ballots in at least five percent of all precincts or of ballots in at least five percent of all batches of ballots collected by the county clerk.
 
       (c) In the event that the unofficial tally of ballots reveals that the margin of victory between the two candidates receiving the largest number of votes in the county is greater than or equal to two percent of the total votes cast in the county, the county clerk shall conduct a hand count of ballots in at least three percent of all precincts or of ballots in at least three percent of all batches of ballots collected by the county clerk.
 
-      (3) The county clerk shall conduct a hand count of ballots cast in the election contest between the two candidates receiving the largest number of votes in the county, an election contest for an office to be voted on in the state at large and, if possible, an election contest for a state measure. The Secretary of State shall select the precincts or batches at random. At the general election:
+      (3) If the county clerk determines that a hand count will be conducted, the county clerk shall conduct a hand count of ballots cast in the election contest between the two candidates receiving the largest number of votes in the county, an election contest for an office to be voted on in the state at large and, if possible, an election contest for a state measure. The Secretary of State shall select the precincts or batches at random. At the election:
 
       (a) If selecting precincts, no fewer than 150 ballots must have been cast in at least one of the precincts selected.
 
@@ -1321,15 +1349,15 @@ POST-ELECTION PROCEDURES
 
       (C) Three percent of the total number of ballots cast in the election for a hand count required under subsection (2)(c) of this section.
 
-      (4) Not later than 5 p.m. of the 15th business day after the date of the general election, the Secretary of State shall advise county clerks in writing of:
+      (4) Not later than 5 p.m. of the 15th business day after the date of the election, the Secretary of State shall in writing advise the county clerks who made a determination that a hand count will be conducted of:
 
       (a) The election contests for which ballots are to be hand counted; and
 
       (b) The precincts or batches in which ballots are to be hand counted.
 
-      (5) A county clerk shall begin the hand counts prescribed by this section not later than the 23rd day after the election and complete the hand counts not later than the 30th day after the election. The results of the hand counts shall be provided to the Secretary of State, who shall make the results publicly available on the Secretary of State’s website.
+      (5) A county clerk shall begin the hand counts under this section not later than the 23rd day after the election and complete the hand counts not later than the 30th day after the election. The results of the hand counts shall be provided to the Secretary of State, who shall make the results publicly available on the Secretary of State’s website.
 
-      (6) A comparison of the tally of votes produced by a vote tally system with the tally of votes produced by the hand count required by this section must show that the tally of votes produced by the vote tally system differs by no more than one-half of one percent from the tally of votes produced by the hand count.
+      (6) A comparison of the tally of votes produced by a vote tally system with the tally of votes produced by the hand count under this section must show that the tally of votes produced by the vote tally system differs by no more than one-half of one percent from the tally of votes produced by the hand count.
 
       (7)(a) If a hand count conducted under this section results in a tally of votes for a candidate or measure that is different from the tally of votes produced by the vote tally system for that candidate or measure, and the difference for each race is equal to or less than one-half of one percent, the tally of votes produced by the vote tally system is the official tally of votes for that vote tally system.
 
@@ -1339,7 +1367,7 @@ POST-ELECTION PROCEDURES
 
       (d) If the second hand count conducted under this subsection results in a tally of votes for a candidate or measure that is different from the tally of votes produced by the vote tally system for that candidate or measure, and the difference in any race is greater than one-half of one percent, the county clerk shall conduct a hand count of all ballots counted by that vote tally system. The hand count is the official tally of votes for that vote tally system. If the hand count is the official tally of votes, not later than the 30th day after the election, the county clerk shall certify amended abstracts of votes to appropriate elections officials.
 
-      (8) For purposes of conducting the hand counts required under this section, the county clerk shall:
+      (8) For purposes of conducting the hand counts under this section, the county clerk shall:
 
       (a) Retain custody of the ballots; and
 
@@ -1349,7 +1377,13 @@ POST-ELECTION PROCEDURES
 
       (a) To precincts that are subject to a recount under ORS 258.161, 258.280 or 258.290.
 
-      (b) If federal law requires a post-election hand count of ballots at the general election to verify election results and the Secretary of State determines that the requirements of federal law are at least as stringent as the requirements of subsections (1) to (8) of this section. [2007 c.881 §2; 2009 c.511 §11; 2017 c.749 §42]
+      (b) If federal law requires a post-election hand count of ballots at the primary election, general election or special election to verify election results and the Secretary of State determines that the requirements of federal law are at least as stringent as the requirements of subsections (1) to (8) of this section. [2007 c.881 §2; 2009 c.511 §11; 2017 c.749 §42; 2019 c.562 §3]
+
+ 
+
+      Note: Section 5, chapter 562, Oregon Laws 2019, provides:
+
+      Sec. 5. Section 2 of this 2019 Act [254.532] and the amendments to ORS 254.529 and 254.535 by sections 3 and 4 of this 2019 Act apply to primary elections, general elections and special elections held on or after September 1, 2020. [2019 c.562 §5]
 
  
 
@@ -1357,11 +1391,61 @@ POST-ELECTION PROCEDURES
 
  
 
-      254.535 Preservation of certain materials; retention of records. (1) Except as provided in subsection (3) of this section, each tally sheet, return sheet and ballot return identification envelope shall be preserved for two years after the election to which it relates.
+      254.532 Risk-limiting audit; procedures; rules. (1) As used in this section:
+
+      (a) “Incorrect election outcome” means an election outcome that differs from the election outcome that would result from an accurate hand count of all validly cast ballots.
+
+      (b) “Risk” means the probability that an audit procedure would fail to detect an incorrect election outcome.
+
+      (c) “Risk limit” means the largest acceptable risk.
+
+      (d) “Risk-limiting audit” means a set of procedures to ensure that the risk does not exceed the risk limit.
+
+      (2) At each primary election, general election or special election, the county clerk for each county shall make a determination on whether to conduct a hand count of ballots in the manner described in ORS 254.529 or to conduct a risk-limiting audit in the manner described in this section.
+
+      (3) If the county clerk makes a determination under subsection (2) of this section to conduct a risk-limiting audit, the county clerk shall conduct a risk-limiting audit for one or more single-county election contests. For an election contest involving more than one county, the county clerk may request that the Secretary of State or the county clerks in the other counties holding the election coordinate for the purpose of conducting a multicounty risk-limiting audit.
+
+      (4) A risk-limiting audit conducted under this section must:
+
+      (a) Permit members of the public to observe the procedures and verify the results of the audit;
+
+      (b) Ensure that the entity directly involved in tabulating or examining ballots during the audit does not have the sole authority to establish the policies and regulations for the audit or to judge whether an audit has satisfied those policies and regulations;
+
+      (c) Ensure that all ballots tabulated or examined during an audit are protected from loss, substitution, alteration or addition;
+
+      (d) Ensure that the audit takes into account all forms of validly cast ballots, including accepted provisional ballots;
+
+      (e) Include mechanisms that permit the entity conducting the audit to respond to particular allegations regarding election irregularities;
+
+      (f) Be conducted in a timely manner that permits the initially reported outcome to be corrected before an election contest is certified;
+
+      (g) Ensure that no change or error in technology used to assist with the audit could result in an undetected change in the results of the audit; and
+
+      (h) Be based on direct visual human examination of elector-marked ballots.
+
+      (5) A risk-limiting audit conducted under this section may not rely on a scanned image of a ballot or a machine interpretation of marks on a ballot to determine elector intent.
+
+      (6) The Secretary of State, in consultation with county clerks and individuals or entities with significant statistical expertise in conducting audits, shall establish rules for the implementation of this section, including:
+
+      (a) Setting the risk limit; and
+
+      (b) Establishing the procedures to be used for conducting a risk-limiting audit. [2019 c.562 §2]
+
+ 
+
+      Note: See note under 254.529.
+
+ 
+
+      254.535 Preservation of certain materials; retention of records. (1) Except as provided in subsection (3) of this section, each tally sheet, return sheet, record relating to a risk-limiting audit conducted under ORS 254.532, record relating to a hand count of ballots conducted under ORS 254.529 and ballot return identification envelope shall be preserved for two years after the election to which it relates.
 
       (2) Except as provided in subsection (3) of this section, the county clerk shall destroy the ballots and written challenge statements not sooner than the 90th day after the final day permitted for a contest of the election, unless otherwise ordered by the court.
 
-      (3) In accordance with 42 U.S.C. 1974, any ballot, voter registration records and any other materials relating to any election at which a candidate is nominated or elected to federal office shall be retained for not less than 22 months following the date of the election. [1979 c.190 §275; 1999 c.410 §62; 2007 c.154 §48]
+      (3) In accordance with 42 U.S.C. 1974, any ballot, voter registration records and any other materials relating to any election at which a candidate is nominated or elected to federal office shall be retained for not less than 22 months following the date of the election. [1979 c.190 §275; 1999 c.410 §62; 2007 c.154 §48; 2019 c.562 §4]
+
+ 
+
+      Note: See note under 254.529.
 
  
 
@@ -1399,15 +1483,15 @@ POST-ELECTION PROCEDURES
 
       (2) In the case of an individual nominated or elected by write-in votes to a public office:
 
-      (a) Not later than the 27th day after the election, the filing officer shall:
+      (a) Not later than the 31st day after the election, the filing officer shall:
 
       (A) Prepare and deliver by regular mail the form described in subsection (1) of this section to the individual; and
 
       (B) If the filing officer has the electronic mail address of the individual, prepare and deliver by electronic mail the form described in subsection (1) of this section to the individual;
 
-      (b) Not later than the 35th day after the election, if the individual accepts the nomination or office, the individual shall sign and file the form with the filing officer; and
+      (b) Not later than the 41st day after the election, if the individual accepts the nomination or office, the individual shall sign and file the form with the filing officer; and
 
-      (c) Not later than the 40th day after the election, if the individual files the form by the deadline specified in paragraph (b) of this subsection, the filing officer shall prepare and deliver a certificate of nomination or election to the individual and, if applicable, issue a proclamation declaring the election of the candidate to the office. [1991 c.719 §56; 2005 c.157 §1; 2014 c.67 §4; 2014 c.112 §4; 2015 c.43 §1]
+      (c) Not later than the 45th day after the election, if the individual files the form by the deadline specified in paragraph (b) of this subsection, the filing officer shall prepare and deliver a certificate of nomination or election to the individual and, if applicable, issue a proclamation declaring the election of the candidate to the office. [1991 c.719 §56; 2005 c.157 §1; 2014 c.67 §4; 2014 c.112 §4; 2015 c.43 §1; 2018 c.70 §9]
 
  
 

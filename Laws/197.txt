@@ -4,14 +4,6 @@ Chapter 197 — Comprehensive Land Use Planning I
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
 
  
 
@@ -221,6 +213,8 @@ GOALS COMPLIANCE
 
 197.277     Oregon Forest Practices Act; exclusion
 
+ 
+
 197.279     Approved wetland conservation plans comply with goals; exception; rules
 
  
@@ -231,7 +225,21 @@ GOALS COMPLIANCE
 
 URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
-197.295     Definitions for ORS 197.295 to 197.314 and 197.475 to 197.490
+ 
+
+197.286     Definitions for ORS 197.286 to 197.314 and 197.475 to 197.490
+
+ 
+
+197.290     Housing production strategy
+
+ 
+
+197.291     Review of housing production strategy
+
+ 
+
+197.293     Identification of cities with unmet housing needs; effect
 
  
 
@@ -239,11 +247,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
  
 
-Note          Legislative findings regarding urban growth boundary--2014 c.92 §1
-
- 
-
-Note          Urban growth boundary designation--2014 c.92 §4
+(Temporary provisions relating to housing needs analyses are compiled as notes following ORS 197.296)
 
  
 
@@ -251,7 +255,7 @@ Note          Urban growth boundary designation--2014 c.92 §4
 
  
 
-197.299     Metropolitan service district analysis of buildable land supply; schedule for accommodating needed housing; need for land for school; extension of schedule; revision of determination and analysis
+197.299     Metropolitan service district accommodation of needed housing and school lands; allocation of housing capacity to cities
 
  
 
@@ -260,6 +264,10 @@ Note          Urban growth boundary designation--2014 c.92 §4
  
 
 197.302     Metropolitan service district determination of buildable land supply; corrective action; enforcement
+
+ 
+
+Note          Metro urban growth boundary designation--2014 c.92 §§2(2),4
 
  
 
@@ -283,11 +291,13 @@ Note          Urban growth boundary designation--2014 c.92 §4
 
  
 
-197.312     Limitation on city and county authority to prohibit certain kinds of housing; zoning requirements for farmworker housing; real estate sales office
+197.312     Limitation on city and county prohibitions
 
  
 
 197.313     Interpretation of ORS 197.312
+
+ 
 
 197.314     Required siting of manufactured homes; minimum lot size; approval standards
 
@@ -298,6 +308,8 @@ Note          Urban growth boundary designation--2014 c.92 §4
  
 
 ENFORCEMENT OF PLANNING REQUIREMENTS
+
+ 
 
 197.319     Procedures prior to request of an enforcement order
 
@@ -324,6 +336,8 @@ ENFORCEMENT OF PLANNING REQUIREMENTS
  
 
 197.350     Burden of persuasion or proof in appeal to board or commission
+
+ 
 
 197.353     Measure 37 timelines; death of claimant
 
@@ -355,13 +369,19 @@ EXPEDITED LAND DIVISIONS
 
 ACTIVITIES ON FEDERAL LAND
 
+ 
+
 197.390     Activities on federal land; list; permit required; enjoining violations
 
  
 
 197.395     Application for permit; review and issuance; conditions; restrictions; review
 
+ 
+
 AREAS OF CRITICAL CONCERN
+
+ 
 
 197.405     Designation of areas of critical state concern; commission recommendation; committee review; approval by Legislative Assembly
 
@@ -383,15 +403,17 @@ RESIDENTIAL AND RECREATIONAL DEVELOPMENT
 
  
 
-(Temporary provisions relating to transferable development opportunities are compiled as notes following ORS 197.430)
+(Temporary provisions relating to Metolius resort sites are compiled as notes following ORS 197.430)
 
  
 
-(Temporary provisions relating to Skyline Forest Sustainable Development Area are compiled as notes following ORS 197.430)
+(Temporary provisions relating to transfer of development rights pilot program are compiled as notes following ORS 197.430)
 
  
 
-(Temporary provisions relating to residential and recreational development are compiled as notes following ORS 197.430)
+(Temporary provisions relating to Grant County guest ranch are compiled as notes following ORS 197.430)
+
+ 
 
 SITING SPEEDWAY DESTINATION
 
@@ -414,6 +436,8 @@ SITING SPEEDWAY DESTINATION
  
 
 SITING OF DESTINATION RESORTS
+
+ 
 
 197.435     Definitions for ORS 197.435 to 197.467
 
@@ -445,6 +469,8 @@ SITING OF DESTINATION RESORTS
 
 197.465     Comprehensive plan implementing measures
 
+ 
+
 197.467     Conservation easement to protect resource site
 
  
@@ -465,6 +491,8 @@ MOBILE HOME, MANUFACTURED DWELLING AND RECREATIONAL VEHICLE PARKS
 
 197.490     Restriction on establishment of park
 
+ 
+
 197.492     Definitions for ORS 197.492 and 197.493
 
  
@@ -474,6 +502,8 @@ MOBILE HOME, MANUFACTURED DWELLING AND RECREATIONAL VEHICLE PARKS
  
 
 MORATORIUM ON CONSTRUCTION OR LAND DEVELOPMENT
+
+ 
 
 197.505     Definitions for ORS 197.505 to 197.540
 
@@ -505,6 +535,8 @@ MORATORIUM ON CONSTRUCTION OR LAND DEVELOPMENT
 
 POST-ACKNOWLEDGMENT PROCEDURES
 
+ 
+
 197.610     Submission of proposed comprehensive plan or land use regulation changes to Department of Land Conservation and Development; rules
 
  
@@ -526,6 +558,10 @@ POST-ACKNOWLEDGMENT PROCEDURES
  
 
 197.626     Submission of land use decisions that expand urban growth boundary or designate urban or rural reserves
+
+ 
+
+197.627     Meaning of “compliance with the goals” for certain purposes
 
  
 
@@ -623,7 +659,11 @@ SPECIAL RESIDENCES
 
 197.667     Location of residential facility; application and supporting documentation
 
+ 
+
 197.670     Zoning requirements and prohibitions for residential homes and residential facilities
+
+ 
 
 FARMWORKER HOUSING
 
@@ -643,6 +683,8 @@ FARMWORKER HOUSING
 
 ECONOMIC DEVELOPMENT
 
+ 
+
 197.707     Legislative intent
 
  
@@ -656,6 +698,10 @@ ECONOMIC DEVELOPMENT
  
 
 197.714     Cooperation of county and city concerning industrial development
+
+ 
+
+197.716     Industrial and employment uses in listed counties; economic opportunity analysis
 
  
 
@@ -693,7 +739,11 @@ ECONOMIC DEVELOPMENT
 
 GOAL EXCEPTIONS
 
+ 
+
 197.732     Goal exceptions; criteria; rules; review
+
+ 
 
 197.734     Exceptions to certain statewide planning goal criteria; rules
 
@@ -703,9 +753,7 @@ GOAL EXCEPTIONS
 
  
 
-MISCELLANEOUS
-
-197.747     Meaning of “compliance with the goals” for certain purposes
+URBAN DEVELOPMENT
 
  
 
@@ -725,6 +773,14 @@ MISCELLANEOUS
 
  
 
+197.758     Development of middle housing; local regulations
+
+ 
+
+197.761     Development of residential platted lot
+
+ 
+
 197.763     Conduct of local quasi-judicial land use hearings; notice requirements; hearing procedures
 
  
@@ -737,6 +793,10 @@ MISCELLANEOUS
 
  
 
+MISCELLANEOUS
+
+ 
+
 197.768     Local government or special district adoption of public facilities strategy; public hearing; written findings
 
  
@@ -746,6 +806,10 @@ MISCELLANEOUS
  
 
 197.772     Consent for designation as historic property
+
+ 
+
+197.779     Development of housing on public property
 
  
 
@@ -762,6 +826,8 @@ MISCELLANEOUS
  
 
 LAND USE BOARD OF APPEALS
+
+ 
 
 197.805     Policy on review of land use decisions
 
@@ -821,11 +887,15 @@ LAND USE BOARD OF APPEALS
 
 197.855     Deadline for final court order; exceptions
 
+ 
+
 197.860     Stay of proceedings to allow mediation
 
  
 
 GENERAL PROVISIONS
+
+ 
 
       197.005 Legislative findings. The Legislative Assembly finds that:
 
@@ -1127,7 +1197,7 @@ LAND CONSERVATION AND DEVELOPMENT COMMISSION
 
  
 
-      Note: Legislative Counsel has substituted “chapter 792, Oregon Laws 1993,” for the words “this 1993 Act” in section 11, chapter 792, Oregon Laws 1993, which amended 197.045. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 20 of ORS.
+      Note: Legislative Counsel has substituted “chapter 792, Oregon Laws 1993,” for the words “this 1993 Act” in section 11, chapter 792, Oregon Laws 1993, which amended 197.045. Specific ORS references have not been substituted, pursuant to 173.160. These sections may be determined by referring to the 1993 Comparative Section Table located in Volume 22 of ORS.
 
  
 
@@ -1272,6 +1342,8 @@ ______________________________________________________________________________
       (1) Negotiate with the interstate agency in defining the areas of responsibility of the commission and the interstate planning agency; and
 
       (2) Cooperate with the interstate planning agency in the performance of its functions. [1973 c.80 §12; 1977 c.664 §8; 1987 c.14 §6; 2001 c.672 §5]
+
+ 
 
       197.055 [1973 c.80 §16; repealed by 1977 c.664 §42]
 
@@ -1811,8 +1883,6 @@ GOALS COMPLIANCE
 
       197.270 Copies of comprehensive plan and land use regulations; post review. Within six months following completion of the periodic review process, the affected local government shall file three complete and accurate copies of its comprehensive plan and land use regulations with the Department of Land Conservation and Development. This document can be either a new printing or an up-to-date compilation of the required materials. [1987 c.729 §13]
 
- 
-
       197.274 Review of Metro regional framework plan. (1) The Metro regional framework plan, its separate components and amendments to the regional framework plan or to its separate components are subject to review:
 
       (a) For compliance with land use planning statutes, statewide land use planning goals and administrative rules corresponding to the statutes and goals, in the same manner as a comprehensive plan for purposes of:
@@ -1836,8 +1906,6 @@ GOALS COMPLIANCE
       (2) No goal or rule shall be adopted, construed or administered in a manner to require or allow local governments to take any action prohibited by ORS 527.722.
 
       (3) The Land Conservation and Development Commission shall amend goals and rules as necessary to implement ORS 197.180, 197.277, 197.825, 215.050, 477.440, 477.455, 477.460, 526.009, 526.016, 526.156, 527.620, 527.630, 527.660, 527.670, 527.683 to 527.687, 527.715, 527.990 and 527.992. [1987 c.919 §2; 2013 c.307 §5]
-
- 
 
       197.279 Approved wetland conservation plans comply with goals; exception; rules. (1) Wetland conservation plans approved by the Director of the Department of State Lands pursuant to ORS chapter 196 shall be deemed to comply with the requirements of statewide planning goals relating to other than estuarine wetlands for those areas, uses and activities which are regulated by the wetland conservation plans.
 
@@ -1865,7 +1933,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
  
 
-      197.295 Definitions for ORS 197.295 to 197.314 and 197.475 to 197.490. As used in ORS 197.295 to 197.314 and 197.475 to 197.490:
+      197.286 Definitions for ORS 197.286 to 197.314 and 197.475 to 197.490. As used in ORS 197.286 to 197.314 and 197.475 to 197.490:
 
       (1) “Buildable lands” means lands in urban and urbanizable areas that are suitable, available and necessary for residential uses. “Buildable lands” includes both vacant land and developed land likely to be redeveloped.
 
@@ -1875,23 +1943,153 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (4) “Manufactured homes” has the meaning given that term in ORS 446.003.
 
-      (5) “Mobile home park” has the meaning given that term in ORS 446.003.
+      (5) “Mobile home park” has the meaning given that term in ORS 446.007.
 
       (6) “Periodic review” means the process and procedures as set forth in ORS 197.628 to 197.651.
 
-      (7) “Urban growth boundary” means an urban growth boundary included or referenced in a comprehensive plan. [1981 c.884 §4; 1983 c.795 §1; 1987 c.785 §1; 1989 c.648 §51; 1991 c.226 §16; 1991 c.612 §12; 1995 c.79 §73; 1995 c.547 §2]
+      (7) “Urban growth boundary” means an urban growth boundary included or referenced in a comprehensive plan. [Formerly 197.295]
+
+ 
+
+      197.290 Housing production strategy. (1) A city with a population greater than 10,000 shall develop and adopt a housing production strategy under this section no later than one year after:
+
+      (a) The city’s deadline for completing a housing capacity analysis under ORS 197.296 (2)(a);
+
+      (b) The city’s deadline for completing a housing capacity analysis under ORS 197.296 (10)(b); or
+
+      (c) A date scheduled by the Land Conservation and Development Commission following the allocation of housing capacity to the city by a metropolitan service district under ORS 197.299 (2)(d).
+
+      (2) A housing production strategy must include a list of specific actions, including the adoption of measures and policies, that the city shall undertake to promote development within the city to address a housing need identified under ORS 197.296 (6) for the most recent 20-year period described in ORS 197.296 (2)(b). Actions under this subsection may include:
+
+      (a) The reduction of financial and regulatory impediments to developing needed housing, including removing or easing approval standards or procedures for needed housing at higher densities or that is affordable;
+
+      (b) The creation of financial and regulatory incentives for development of needed housing, including creating incentives for needed housing at higher densities or that is affordable; and
+
+      (c) The development of a plan to access resources available at local, regional, state and national levels to increase the availability and affordability of needed housing.
+
+      (3) In creating a housing production strategy, a city shall review and consider:
+
+      (a) Socioeconomic and demographic characteristics of households living in existing needed housing;
+
+      (b) Market conditions affecting the provision of needed housing;
+
+      (c) Measures already adopted by the city to promote the development of needed housing;
+
+      (d) Existing and expected barriers to the development of needed housing; and
+
+      (e) For each action the city includes in its housing production strategy:
+
+      (A) The schedule for its adoption;
+
+      (B) The schedule for its implementation;
+
+      (C) Its expected magnitude of impact on the development of needed housing; and
+
+      (D) The time frame over which it is expected to impact needed housing.
+
+      (4) The housing production strategy must include within its index a copy of the city’s most recently completed survey under ORS 456.586 (2).
+
+      (5) The adoption of a housing production strategy is not a land use decision and is not subject to appeal or review except as provided in ORS 197.291. [2019 c.640 §4]
+
+ 
+
+      197.291 Review of housing production strategy. (1) No later than 20 days after a city’s adoption or amendment of a housing production strategy under ORS 197.290, a city shall submit the adopted strategy or amended strategy to the Department of Land Conservation and Development.
+
+      (2) The submission under subsection (1) of this section must include copies of:
+
+      (a) The signed decision adopting the housing production strategy or amended strategy;
+
+      (b) The text of the housing production strategy clearly indicating any amendments to the most recent strategy submitted under this section;
+
+      (c) A brief narrative summary of the housing production strategy; and
+
+      (d) The information reviewed and considered under ORS 197.293 (2).
+
+      (3) On the same day the city submits notice of the housing production strategy or amended strategy, the city shall provide a notice to persons that participated in the proceedings that led to the adoption of the strategy and requested notice in writing.
+
+      (4) Within 10 days of receipt of the submission under subsection (1) of this section, the department shall provide notice to persons described under ORS 197.615 (3).
+
+      (5) The notices given under subsections (3) and (4) of this section must state:
+
+      (a) How and where materials described in subsection (2) of this section may be freely obtained;
+
+      (b) That comments on the strategy may be submitted to the department within 45 days after the department has received the submission; and
+
+      (c) That there is no further right of appeal.
+
+      (6) Based upon criteria adopted by the Land Conservation and Development Commission, including any criteria adopted under ORS 197.293 (2), the department shall, within 120 days after receiving the submission under subsection (1) of this section:
+
+      (a) Approve the housing production strategy;
+
+      (b) Approve the housing production strategy, subject to further review and actions under ORS 197.293 (2); or
+
+      (c) Remand the housing production strategy for further modification as identified by the department.
+
+      (7) A determination by the department under subsection (6) of this section is not a land use decision and is final and not subject to appeal. [2019 c.640 §5]
+
+ 
+
+      197.293 Identification of cities with unmet housing needs; effect. (1) The Land Conservation and Development Commission, in consultation with the Housing and Community Services Department, shall adopt criteria for reviewing and identifying cities with a population greater than 10,000 that have not sufficiently:
+
+      (a) Achieved production of needed housing within their jurisdiction; or
+
+      (b) Implemented a housing production strategy adopted under ORS 197.290.
+
+      (2) The criteria adopted by the commission under subsection (1) of this section may include the city’s:
+
+      (a) Unmet housing need as described in ORS 197.296 (6);
+
+      (b) Unmet housing need in proportion to the city’s population;
+
+      (c) Percentage of households identified as severely rent burdened as described in ORS 456.586;
+
+      (d) Recent housing development;
+
+      (e) Recent adoption of a housing production strategy under ORS 197.290 or adoption of actions pursuant to a housing production strategy;
+
+      (f) Recent or frequent previous identification by the Department of Land Conservation and Development under this section; or
+
+      (g) Other attributes that the commission considers relevant.
+
+      (3) The Department of Land Conservation and Development may review cities under the criteria adopted under subsection (2) of this section for the purposes of prioritizing actions by the department, including:
+
+      (a) Awarding available technical or financial resources;
+
+      (b) Providing enhanced review and oversight of the city’s housing production strategy;
+
+      (c) Requiring a report and explanation if a city does not implement an action within the approximate time frame scheduled within a housing production strategy;
+
+      (d) Entering into agreements with the city relating to the city’s modification or implementation of its housing production strategy; or
+
+      (e) Petitioning the commission to act under ORS 197.319 to 197.335 to require the city to comply with ORS 197.286 to 197.314 or statewide land use planning goals related to housing or urbanization. [2019 c.640 §6]
+
+ 
+
+      197.295 [1981 c.884 §4; 1983 c.795 §1; 1987 c.785 §1; 1989 c.648 §51; 1991 c.226 §16; 1991 c.612 §12; 1995 c.79 §73; 1995 c.547 §2; 2019 c.422 §29; renumbered 197.286 in 2019]
 
       197.296 Factors to establish sufficiency of buildable lands within urban growth boundary; analysis and determination of residential housing patterns. (1)(a) The provisions of subsections (2) to (9) of this section apply to metropolitan service district regional framework plans and local government comprehensive plans for lands within the urban growth boundary of a city that is located outside of a metropolitan service district and has a population of 25,000 or more.
 
       (b) The Land Conservation and Development Commission may establish a set of factors under which additional cities are subject to the provisions of this section. In establishing the set of factors required under this paragraph, the commission shall consider the size of the city, the rate of population growth of the city or the proximity of the city to another city with a population of 25,000 or more or to a metropolitan service district.
 
-      (2) At periodic review pursuant to ORS 197.628 to 197.651 or at any other legislative review of the comprehensive plan or regional framework plan that concerns the urban growth boundary and requires the application of a statewide planning goal relating to buildable lands for residential use, a local government shall demonstrate that its comprehensive plan or regional framework plan provides sufficient buildable lands within the urban growth boundary established pursuant to statewide planning goals to accommodate estimated housing needs for 20 years. The 20-year period shall commence on the date initially scheduled for completion of the periodic or legislative review.
+      (2)(a) A local government shall demonstrate that its comprehensive plan or regional framework plan provides sufficient buildable lands within the urban growth boundary established pursuant to statewide planning goals to accommodate estimated housing needs for 20 years:
+
+      (A) At periodic review under ORS 197.628 to 197.651;
+
+      (B) As scheduled by the commission:
+
+      (i) At least once each eight years for local governments that are not within a metropolitan service district; or
+
+      (ii) At least once each six years for a metropolitan service district; or
+
+      (C) At any other legislative review of the comprehensive plan or regional framework plan that concerns the urban growth boundary and requires the application of a statewide planning goal relating to buildable lands for residential use.
+
+      (b) The 20-year period shall commence on the date initially scheduled for completion of the review under paragraph (a) of this subsection.
 
       (3) In performing the duties under subsection (2) of this section, a local government shall:
 
       (a) Inventory the supply of buildable lands within the urban growth boundary and determine the housing capacity of the buildable lands; and
 
-      (b) Conduct an analysis of housing need by type and density range, in accordance with ORS 197.303 and statewide planning goals and rules relating to housing, to determine the number of units and amount of land needed for each needed housing type for the next 20 years.
+      (b) Conduct an analysis of existing and projected housing need by type and density range, in accordance with all factors under ORS 197.303 and statewide planning goals and rules relating to housing, to determine the number of units and amount of land needed for each needed housing type for the next 20 years.
 
       (4)(a) For the purpose of the inventory described in subsection (3)(a) of this section, “buildable lands” includes:
 
@@ -1913,37 +2111,35 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (c) Except for land that may be used for residential infill or redevelopment, a local government shall create a map or document that may be used to verify and identify specific lots or parcels that have been determined to be buildable lands.
 
-      (5)(a) Except as provided in paragraphs (b) and (c) of this subsection, the determination of housing capacity and need pursuant to subsection (3) of this section must be based on data relating to land within the urban growth boundary that has been collected since the last periodic review or five years, whichever is greater. The data shall include:
+      (5)(a) Except as provided in paragraphs (b) and (c) of this subsection, the determination of housing capacity pursuant to subsection (3)(a) of this section must be based on data relating to land within the urban growth boundary that has been collected since the last review under subsection (2)(a)(B) of this section. The data shall include:
 
       (A) The number, density and average mix of housing types of urban residential development that have actually occurred;
 
       (B) Trends in density and average mix of housing types of urban residential development;
 
-      (C) Demographic and population trends;
+      (C) Market factors that may substantially impact future urban residential development; and
 
-      (D) Economic trends and cycles; and
+      (D) The number, density and average mix of housing types that have occurred on the buildable lands described in subsection (4)(a) of this section.
 
-      (E) The number, density and average mix of housing types that have occurred on the buildable lands described in subsection (4)(a) of this section.
+      (b) A local government shall make the determination described in paragraph (a) of this subsection using a shorter time period than the time period described in paragraph (a) of this subsection if the local government finds that the shorter time period will provide more accurate and reliable data related to housing capacity. The shorter time period may not be less than three years.
 
-      (b) A local government shall make the determination described in paragraph (a) of this subsection using a shorter time period than the time period described in paragraph (a) of this subsection if the local government finds that the shorter time period will provide more accurate and reliable data related to housing capacity and need. The shorter time period may not be less than three years.
+      (c) A local government shall use data from a wider geographic area or use a time period longer than the time period described in paragraph (a) of this subsection if the analysis of a wider geographic area or the use of a longer time period will provide more accurate, complete and reliable data relating to trends affecting housing need than an analysis performed pursuant to paragraph (a) of this subsection. The local government must clearly describe the geographic area, time frame and source of data used in a determination performed under this paragraph.
 
-      (c) A local government shall use data from a wider geographic area or use a time period for economic cycles and trends longer than the time period described in paragraph (a) of this subsection if the analysis of a wider geographic area or the use of a longer time period will provide more accurate, complete and reliable data relating to trends affecting housing need than an analysis performed pursuant to paragraph (a) of this subsection. The local government must clearly describe the geographic area, time frame and source of data used in a determination performed under this paragraph.
+      (6) If the housing need determined pursuant to subsection (3)(b) of this section is greater than the housing capacity determined pursuant to subsection (3)(a) of this section, the local government shall take one or both of the following actions to accommodate the additional housing need:
 
-      (6) If the housing need determined pursuant to subsection (3)(b) of this section is greater than the housing capacity determined pursuant to subsection (3)(a) of this section, the local government shall take one or more of the following actions to accommodate the additional housing need:
+      (a) Amend its urban growth boundary to include sufficient buildable lands to accommodate housing needs for the next 20 years. As part of this process, the local government shall consider the effects of measures taken pursuant to paragraph (b) of this subsection. The amendment shall include sufficient land reasonably necessary to accommodate the siting of new public school facilities. The need and inclusion of lands for new public school facilities shall be a coordinated process between the affected public school districts and the local government that has the authority to approve the urban growth boundary.
 
-      (a) Amend its urban growth boundary to include sufficient buildable lands to accommodate housing needs for the next 20 years. As part of this process, the local government shall consider the effects of measures taken pursuant to paragraph (b) of this subsection. The amendment shall include sufficient land reasonably necessary to accommodate the siting of new public school facilities. The need and inclusion of lands for new public school facilities shall be a coordinated process between the affected public school districts and the local government that has the authority to approve the urban growth boundary;
+      (b) Amend its comprehensive plan, regional framework plan, functional plan or land use regulations to include new measures that demonstrably increase the likelihood that residential development will occur at densities sufficient to accommodate housing needs for the next 20 years without expansion of the urban growth boundary. A local government or metropolitan service district that takes this action shall adopt findings regarding the density expectations assumed to result from measures adopted under this paragraph based upon the factors listed in ORS 197.303 (2) and data in subsection (5)(a) of this section. The density expectations may not project an increase in residential capacity above achieved density by more than three percent without quantifiable validation of such departures. For a local government located outside of a metropolitan service district, a quantifiable validation must demonstrate that the assumed housing capacity has been achieved in areas that are zoned to allow no greater than the same authorized density level within the local jurisdiction or a jurisdiction in the same region. For a metropolitan service district, a quantifiable validation must demonstrate that the assumed housing capacity has been achieved in areas that are zoned to allow no greater than the same authorized density level within the metropolitan service district.
 
-      (b) Amend its comprehensive plan, regional framework plan, functional plan or land use regulations to include new measures that demonstrably increase the likelihood that residential development will occur at densities sufficient to accommodate housing needs for the next 20 years without expansion of the urban growth boundary. A local government or metropolitan service district that takes this action shall monitor and record the level of development activity and development density by housing type following the date of the adoption of the new measures; or
+      (c) As used in this subsection, “authorized density level” has the meaning given that term in ORS 227.175.
 
-      (c) Adopt a combination of the actions described in paragraphs (a) and (b) of this subsection.
+      (7) Using the housing need analysis conducted under subsection (3)(b) of this section, the local government shall determine the overall average density and overall mix of housing types at which residential development of needed housing types must occur in order to meet housing needs over the next 20 years. If that density is greater than the actual density of development determined under subsection (5)(a)(A) of this section, or if that mix is different from the actual mix of housing types determined under subsection (5)(a)(A) of this section, the local government, as part of its periodic review, shall adopt measures that demonstrably increase the likelihood that residential development will occur at the housing types and density and at the mix of housing types required to meet housing needs over the next 20 years.
 
-      (7) Using the analysis conducted under subsection (3)(b) of this section, the local government shall determine the overall average density and overall mix of housing types at which residential development of needed housing types must occur in order to meet housing needs over the next 20 years. If that density is greater than the actual density of development determined under subsection (5)(a)(A) of this section, or if that mix is different from the actual mix of housing types determined under subsection (5)(a)(A) of this section, the local government, as part of its periodic review, shall adopt measures that demonstrably increase the likelihood that residential development will occur at the housing types and density and at the mix of housing types required to meet housing needs over the next 20 years.
+      (8)(a) A local government outside a metropolitan service district that takes any actions under subsection (6) or (7) of this section shall demonstrate that the comprehensive plan and land use regulations comply with goals and rules adopted by the commission and implement ORS 197.286 to 197.314.
 
-      (8)(a) A local government outside a metropolitan service district that takes any actions under subsection (6) or (7) of this section shall demonstrate that the comprehensive plan and land use regulations comply with goals and rules adopted by the commission and implement ORS 197.295 to 197.314.
+      (b) A local government shall determine the density and mix of housing types anticipated as a result of actions taken under subsections (6) and (7) of this section and monitor and record the actual density and mix of housing types achieved following the adoption of these actions. The local government shall compare actual and anticipated density and mix. The local government shall submit its comparison to the commission at the next review of its urban growth boundary under subsection (2)(a) of this section.
 
-      (b) The local government shall determine the density and mix of housing types anticipated as a result of actions taken under subsections (6) and (7) of this section and monitor and record the actual density and mix of housing types achieved. The local government shall compare actual and anticipated density and mix. The local government shall submit its comparison to the commission at the next periodic review or at the next legislative review of its urban growth boundary, whichever comes first.
-
-      (9) In establishing that actions and measures adopted under subsections (6) and (7) of this section demonstrably increase the likelihood of higher density residential development, the local government shall at a minimum ensure that land zoned for needed housing is in locations appropriate for the housing types identified under subsection (3) of this section and is zoned at density ranges that are likely to be achieved by the housing market using the analysis in subsection (3) of this section. Actions or measures, or both, may include but are not limited to:
+      (9) In establishing that actions and measures adopted under subsections (6) and (7) of this section demonstrably increase the likelihood of higher density residential development, the local government shall at a minimum ensure that land zoned for needed housing is in locations appropriate for the housing types identified under subsection (3) of this section, is zoned at density ranges that are likely to be achieved by the housing market using the analysis in subsection (3) of this section and is in areas where sufficient urban services are planned to enable the higher density development to occur over the 20-year period. Actions or measures, or both, may include but are not limited to:
 
       (a) Increases in the permitted density on existing residential land;
 
@@ -1965,7 +2161,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (10)(a) The provisions of this subsection apply to local government comprehensive plans for lands within the urban growth boundary of a city that is located outside of a metropolitan service district and has a population of less than 25,000.
 
-      (b) At periodic review pursuant to ORS 197.628 to 197.651 or at any other legislative review of the comprehensive plan that requires the application of a statewide planning goal relating to buildable lands for residential use, a city shall, according to rules of the commission:
+      (b) As required under paragraph (c) of this subsection, a city shall, according to rules of the commission:
 
       (A) Determine the estimated housing needs within the jurisdiction for the next 20 years;
 
@@ -1973,65 +2169,113 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (C) Adopt measures necessary to accommodate the estimated housing needs determined under this subsection.
 
-      (c) For the purpose of the inventory described in this subsection, “buildable lands” includes those lands described in subsection (4)(a) of this section. [1995 c.547 §3; 2001 c.908 §1; 2003 c.177 §1; 2015 c.27 §19; 2017 c.102 §1]
+      (c) The actions required under paragraph (b) of this subsection shall be undertaken:
+
+      (A) At periodic review pursuant to ORS 197.628 to 197.651;
+
+      (B) On a schedule established by the commission for cities with a population greater than 10,000, not to exceed once each eight years; or
+
+      (C) At any other legislative review of the comprehensive plan that requires the application of a statewide planning goal relating to buildable lands for residential use.
+
+      (d) For the purpose of the inventory described in this subsection, “buildable lands” includes those lands described in subsection (4)(a) of this section. [1995 c.547 §3; 2001 c.908 §1; 2003 c.177 §1; 2015 c.27 §19; 2017 c.102 §1; 2019 c.639 §5; 2019 c.640 §8a]
 
  
 
-      Note: Sections 1, 2 (2) and 4, chapter 92, Oregon Laws 2014, provide:
+      Note: Sections 1 and 2, chapter 640, Oregon Laws 2019, provide:
 
-      Sec. 1. Legislative findings regarding urban growth boundary. The Legislative Assembly finds and declares that:
+      Sec. 1. Housing needs analyses. (1) As used in this section:
 
-      (1) Oregon law requires a metropolitan service district to establish an urban growth boundary and to maintain development capacity sufficient for a 20-year period within the boundary based on periodic assessments of the development capacity within the boundary.
+      (a) “Area median income” means the median income for households established by the United States Department of Housing and Urban Development.
 
-      (2) Metro, the metropolitan service district for the Portland metropolitan area, has not implemented an approved legislative amendment to the urban growth boundary since 2005.
+      (b) “Existing housing stock” means housing, by affordability level and type, actually constructed in a city or Metro.
 
-      (3) In 2010, Metro assessed the development capacity within the urban growth boundary and determined that the boundary did not contain sufficient capacity for a 20-year period.
+      (c) “High income” means above 120 percent of the area median income.
 
-      (4) The Metro Council, the governing body of Metro, established policies, including an investment strategy, for using land within the urban growth boundary more efficiently by adopting Ordinance No. 10-1244B on December 16, 2010.
+      (d) “Housing shortage” means the difference between the estimated housing units of different affordability levels and housing types needed to accommodate the existing population and the existing housing stock, measured in dwelling units.
 
-      (5) Ordinance No. 10-1244B significantly increased the development capacity of the land within the urban growth boundary, but left unmet needs for housing and employment.
+      (e) “Low income” means income above 50 percent and at or below 80 percent of the area median income.
 
-      (6) On July 28, 2011, the Metro Council held a public hearing in Hillsboro to allow public review of and to take comments on proposed expansion of the urban growth boundary to fill the unmet needs for housing and employment in the region.
+      (f) “Metro” means a metropolitan service district organized under ORS chapter 268.
 
-      (7) On September 14 and 28, 2011, the Metro Council sought advice on expansion of the urban growth boundary from the Metro Policy Advisory Committee, which is composed primarily of elected and other local government officials in the region. On September 28, 2011, the Metro Council received a recommendation from the committee.
+      (g) “Moderate income” means income above 80 percent and at or below 120 percent of the area median income.
 
-      (8) The Metro Council, with the advice and support of the committee, established six desired outcomes as the basis for comparing policy and strategy options to increase the development capacity of the region.
+      (h) “Region” has the meaning given that term in ORS 284.752.
 
-      (9) On September 30, 2011, the Metro Council reported likely effects of the proposed expansion of the urban growth boundary to:
+      (i) “Very low income” means income at or below 50 percent of the area median income.
 
-      (a) The cities and counties in the region; and
+      (2) The Housing and Community Services Department, in coordination with the Department of Land Conservation and Development and the Oregon Department of Administrative Services, shall develop a methodology for calculating:
 
-      (b) Nearly 34,000 households within one mile of land proposed to be included within the urban growth boundary.
+      (a) A regional housing needs analysis that identifies the total number of housing units necessary to accommodate anticipated populations in a region over the next 20 years based on:
 
-      (10) The Metro Council developed, in cooperation with the cities and counties responsible for land use planning in areas potentially to be included within the urban growth boundary, policies and strategies addressing the affordability of housing, the compatibility of residential use with nearby agricultural practices and the protection of industrial lands from conflicting uses.
+      (A) Trends in density and in the average mix of housing types of urban residential development;
 
-      (11) On October 6 and 20, 2011, the Metro Council held public hearings on the proposed expansion of the urban growth boundary.
+      (B) Demographic and population trends;
 
-      (12) On October 20, 2011, the Metro Council unanimously adopted Ordinance No. 11-1264B, expanding the urban growth boundary to fill the unmet needs for increased development capacity for housing and for industries that require large areas of developable land.
+      (C) Economic trends and cycles; and
 
-      (13) The adopted policies and strategies reflect the intention of the Metro Council to develop vibrant, prosperous and sustainable communities with reliable transportation choices that minimize carbon emissions and to distribute the benefits and burdens of development equitably in the Portland metropolitan area.
+      (D) Equitable distribution of publicly supported housing within a region.
 
-      (14) The Director of the Department of Land Conservation and Development referred the expansion of the urban growth boundary by Ordinance No. 11-1264B to the Land Conservation and Development Commission for review.
+      (b) An estimate of existing housing stock of each city and Metro.
 
-      (15) On May 10, 2012, the commission held a public hearing, according to rule-based procedures adopted by the commission, to consider the proposed amendment to the urban growth boundary made by Ordinance No. 11-1264B.
+      (c) A housing shortage analysis for each city and Metro.
 
-      (16) The commission continued the public hearing to June 14, 2012, and requested that the Metro Council submit additional information describing how the record demonstrates compliance with the appropriate statewide land use planning goals, administrative rules and instructions.
+      (d) An estimate of the number of housing units necessary to accommodate anticipated population growth over the next 20 years for each city and Metro.
 
-      (17) On June 14, 2012, the commission unanimously approved the expansion of the urban growth boundary by Ordinance No. 11-1264B in Approval Order 12-UGB-001826.
+      (3) The methodologies for calculating the regional housing needs analysis, the estimate of existing housing stock, the housing shortage analysis and the estimate of housing necessary to accommodate growth that are developed under subsection (2) of this section must classify housing by:
 
-      (18) Metro and other local governments have made significant investments in infrastructure to ensure that housing, education and employment needs in the region are met.
+      (a) Housing type, including attached and detached single-family housing, multifamily housing and manufactured dwellings or mobile homes; and
 
-      (19) Ordinance No. 11-1264B and its findings satisfy Metro’s obligations under ORS 197.295 to 197.314 and under statewide land use planning goals relating to citizen involvement, establishment of a coordinated planning process and policy framework and transition from rural to urban land uses. [2014 c.92 §1]
+      (b) Affordability, by housing that is affordable to households with:
 
-      Sec. 2. (2) Section 4 of this 2014 Act is added to and made a part of ORS 197.295 to 197.314. [2014 c.92 §2(2)]
+      (A) Very low income;
 
-      Sec. 4. Urban growth boundary designation. For the purpose of land use planning in Oregon, the Legislative Assembly designates the urban growth boundary designated in Metro Ordinance No. 11-1264B, adopted October 20, 2011, as the acknowledged urban growth boundary of Metro, subject to the conditions of approval in the ordinance, except that:
+      (B) Low income;
 
-      (1) The real property in Area 7C on Metro’s map denominated as the “Urban and Rural Reserves in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” is included within the acknowledged urban growth boundary.
+      (C) Moderate income; or
 
-      (2) The real property in Area 7D on Metro’s map denominated as the “Urban and Rural Reserves in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” is included within the acknowledged urban growth boundary.
+      (D) High income.
 
-      (3) The real property in Area 7E on Metro’s map denominated as the “Urban and Rural Reserves in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” is included within the acknowledged urban growth boundary. [2014 c.92 §4]
+      (4) No later than September 1, 2020, the Housing and Community Services Department, in coordination with the Department of Land Conservation and Development and the Oregon Department of Administrative Services, shall conduct for each region a regional housing needs analysis and, for each city and Metro, shall estimate existing housing stock, conduct a housing shortage analysis and estimate the housing necessary to accommodate growth.
+
+      (5) In developing the methodologies and conducting the analyses under this section, the Housing and Community Services Department may:
+
+      (a) Consult or contract with subject matter experts, cities and Metro, regional solutions centers described in ORS 284.754 (2) and other jurisdictions that have created or conducted regional housing needs analyses.
+
+      (b) Consider the most recent consolidated population forecast produced by the Portland State University Population Research Center in making any relevant calculation or forecast.
+
+      (c) Consider any other relevant existing analyses, data and other information collected or produced by state agencies or public entities.
+
+      (d) Make changes to the regional boundaries in order to make regions more accurately align with shared employment, transportation or housing market dynamics. [2019 c.640 §1]
+
+      Sec. 2. Reports. (1) No later than March 1, 2021, the Housing and Community Services Department, in consultation with the Department of Land Conservation and Development and the Oregon Department of Administrative Services, shall submit a report, in the manner provided in ORS 192.245 to an appropriate committee of the Legislative Assembly, that summarizes the findings of the regional housing needs analysis, estimate of housing stock, housing shortage analysis and estimate of housing necessary to accommodate growth conducted under section 1 (4) of this 2019 Act.
+
+      (2) No later than March 1, 2021, the Department of Land Conservation and Development, in consultation with the Oregon Department of Administrative Services and the Housing and Community Services Department, shall submit a report, in the manner provided in ORS 192.245, to an appropriate committee of the Legislative Assembly that evaluates:
+
+      (a) Whether a regional housing needs analysis and housing shortage analysis described in section 1 of this 2019 Act could appropriately allocate among the cities or local governments in a region the housing shortage described;
+
+      (b) How a regional housing needs analysis and housing shortage analysis may compare to existing assessments of housing need and capacity conducted by local governments under ORS 197.296 (3) and (10) in terms of:
+
+      (A) Cost and cost effectiveness;
+
+      (B) Reliability and accuracy;
+
+      (C) Repeatability; and
+
+      (D) Predictability;
+
+      (c) How a regional housing needs analysis and housing shortage analysis may relate to statewide planning goals related to housing and any rules and policies adopted pursuant to these goals and ORS 197.295 to 197.314 [series became 197.286 to 197.314];
+
+      (d) Whether different boundaries would be more appropriate for defining regions within the regional housing needs analysis based on:
+
+      (A) Relevance of data in appropriately defining a commuting, employment or housing market; or
+
+      (B) Ease or cost of collecting or analyzing data;
+
+      (e) Other ways in which the regional housing needs analysis or housing shortage analysis could be improved; and
+
+      (f) Whether the regional housing needs analysis, or an improved version, could serve as an acceptable methodology statewide for land use planning relating to housing.
+
+      (3) In preparing the report required under subsection (2) of this section, the Department of Land Conservation and Development may consult or contract with other state agencies, subject matter experts, private firms, local governments, regional solutions centers described in ORS 284.754 (2) and other jurisdictions that have created or conducted regional housing needs analyses. [2019 c.640 §2]
 
  
 
@@ -2055,19 +2299,23 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (c) Maximum efficiency of land uses within a proposed urban growth boundary requires inclusion of lower priority lands in order to include or to provide services to higher priority lands.
 
-      (4) When a city includes land within the urban growth boundary of the city pursuant to ORS 197.295 to 197.314, the city shall prioritize lands for inclusion as provided in ORS 197A.320. [1995 c.547 §5; 1999 c.59 §56; 2013 c.575 §12]
+      (4) When a city includes land within the urban growth boundary of the city pursuant to ORS 197.286 to 197.314, the city shall prioritize lands for inclusion as provided in ORS 197A.320. [1995 c.547 §5; 1999 c.59 §56; 2013 c.575 §12]
 
  
 
-      197.299 Metropolitan service district analysis of buildable land supply; schedule for accommodating needed housing; need for land for school; extension of schedule; revision of determination and analysis. (1) A metropolitan service district organized under ORS chapter 268 shall complete the inventory, determination and analysis required under ORS 197.296 (3) not later than six years after completion of the previous inventory, determination and analysis.
+      197.299 Metropolitan service district accommodation of needed housing and school lands; allocation of housing capacity to cities. (1) A metropolitan service district organized under ORS chapter 268 shall complete the inventory, determination and analysis required under ORS 197.296 (3) not later than six years after completion of the previous inventory, determination and analysis.
 
       (2)(a) The metropolitan service district shall take such action as necessary under ORS 197.296 (6)(a) to accommodate one-half of a 20-year buildable land supply determined under ORS 197.296 (3) within one year of completing the analysis.
 
       (b) The metropolitan service district shall take all final action under ORS 197.296 (6)(a) necessary to accommodate a 20-year buildable land supply determined under ORS 197.296 (3) within two years of completing the analysis.
 
-      (c) The metropolitan service district shall take action under ORS 197.296 (6)(b), within one year after the analysis required under ORS 197.296 (3)(b) is completed, to provide sufficient buildable land within the urban growth boundary to accommodate the estimated housing needs for 20 years from the time the actions are completed. The metropolitan service district shall consider and adopt new measures that the governing body deems appropriate under ORS 197.296 (6)(b).
+      (c) The metropolitan service district shall take action under ORS 197.296 (6)(b), within one year after the analysis required under ORS 197.296 (3)(b) is completed, to provide sufficient buildable land within the urban growth boundary to accommodate the estimated housing needs for 20 years from the time the actions are completed.
 
-      (3) The Land Conservation and Development Commission may grant an extension to the time limits of subsection (2) of this section if the Director of the Department of Land Conservation and Development determines that the metropolitan service district has provided good cause for failing to meet the time limits.
+      (d) The metropolitan service district shall consider and adopt new measures that the governing body deems appropriate under ORS 197.296 (6)(b) and shall allocate any housing capacity that is not accommodated under this section to be accommodated by the application of ORS 197.296 (6)(b) by cities within the metropolitan service district with a population greater than 10,000.
+
+      (e) Cities to which housing capacity is allocated under paragraph (d) of this subsection shall take steps, at least once every six years as scheduled by the Land Conservation and Development Commission, to demonstrably increase the likelihood that residential development will occur at densities sufficient to accommodate housing needs for the next 20 years as required by ORS 197.296 (6)(b).
+
+      (3) The commission may grant an extension to the time limits of subsection (2) of this section if the Director of the Department of Land Conservation and Development determines that the metropolitan service district has provided good cause for failing to meet the time limits.
 
       (4)(a) The metropolitan service district shall establish a process to expand the urban growth boundary to accommodate a need for land for a public school that cannot reasonably be accommodated within the existing urban growth boundary. The metropolitan service district shall design the process to:
 
@@ -2097,7 +2345,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (A) Must adopt the urban growth boundary expansion not more than four years after completing its most recent demonstration of sufficient buildable lands under ORS 197.296; and
 
-      (B) Is exempt from the boundary location requirements described in the statewide land use planning goals relating to urbanization. [1997 c.763 §2; 2001 c.908 §2; 2005 c.590 §1; 2007 c.579 §2; 2014 c.92 §5; 2017 c.199 §1]
+      (B) Is exempt from the boundary location requirements described in the statewide land use planning goals relating to urbanization. [1997 c.763 §2; 2001 c.908 §2; 2005 c.590 §1; 2007 c.579 §2; 2014 c.92 §5; 2017 c.199 §1; 2019 c.640 §9]
 
  
 
@@ -2137,7 +2385,21 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
  
 
-      197.303 “Needed housing” defined. (1) As used in ORS 197.307, “needed housing” means all housing on land zoned for residential use or mixed residential and commercial use that is determined to meet the need shown for housing within an urban growth boundary at price ranges and rent levels that are affordable to households within the county with a variety of incomes, including but not limited to households with low incomes, very low incomes and extremely low incomes, as those terms are defined by the United States Department of Housing and Urban Development under 42 U.S.C. 1437a. “Needed housing” includes the following housing types:
+      Note: Sections 2 (2) and 4, chapter 92, Oregon Laws 2014, provide:
+
+      Sec. 2. (2) Section 4 of this 2014 Act is added to and made a part of ORS 197.295 to 197.314 [series became 197.286 to 197.314]. [2014 c.92 §2(2)]
+
+      Sec. 4. Metro urban growth boundary designation. For the purpose of land use planning in Oregon, the Legislative Assembly designates the urban growth boundary designated in Metro Ordinance No. 11-1264B, adopted October 20, 2011, as the acknowledged urban growth boundary of Metro, subject to the conditions of approval in the ordinance, except that:
+
+      (1) The real property in Area 7C on Metro’s map denominated as the “Urban and Rural Reserves in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” is included within the acknowledged urban growth boundary.
+
+      (2) The real property in Area 7D on Metro’s map denominated as the “Urban and Rural Reserves in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” is included within the acknowledged urban growth boundary.
+
+      (3) The real property in Area 7E on Metro’s map denominated as the “Urban and Rural Reserves in Washington County, Attachment A to Staff Report for Resolution No. 11-4245 (03/17/11 DRAFT),” is included within the acknowledged urban growth boundary. [2014 c.92 §4]
+
+ 
+
+      197.303 “Needed housing” defined. (1) As used in ORS 197.286 to 197.314, “needed housing” means all housing on land zoned for residential use or mixed residential and commercial use that is determined to meet the need shown for housing within an urban growth boundary at price ranges and rent levels that are affordable to households within the county with a variety of incomes, including but not limited to households with low incomes, very low incomes and extremely low incomes, as those terms are defined by the United States Department of Housing and Urban Development under 42 U.S.C. 1437a. “Needed housing” includes the following housing types:
 
       (a) Attached and detached single-family housing and multiple family housing for both owner and renter occupancy;
 
@@ -2149,17 +2411,33 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (e) Housing for farmworkers.
 
-      (2) Subsection (1)(a) and (d) of this section does not apply to:
+      (2) For the purpose of estimating housing needs, as described in ORS 197.296 (3)(b), a local government shall use the population projections prescribed by ORS 195.033 or 195.036 and shall consider and adopt findings related to changes in each of the following factors since the last review under ORS 197.296 (2)(a)(B) and the projected future changes in these factors over a 20-year planning period:
+
+      (a) Household sizes;
+
+      (b) Household demographics;
+
+      (c) Household incomes;
+
+      (d) Vacancy rates; and
+
+      (e) Housing costs.
+
+      (3) A local government shall make the estimate described in subsection (2) of this section using a shorter time period than since the last review under ORS 197.296 (2)(a)(B) if the local government finds that the shorter time period will provide more accurate and reliable data related to housing need. The shorter time period may not be less than three years.
+
+      (4) A local government shall use data from a wider geographic area or use a time period longer than the time period described in subsection (2) of this section if the analysis of a wider geographic area or the use of a longer time period will provide more accurate, complete and reliable data relating to trends affecting housing need than an analysis performed pursuant to subsection (2) of this section. The local government must clearly describe the geographic area, time frame and source of data used in an estimate performed under this subsection.
+
+      (5) Subsection (1)(a) and (d) of this section does not apply to:
 
       (a) A city with a population of less than 2,500.
 
       (b) A county with a population of less than 15,000.
 
-      (3) A local government may take an exception under ORS 197.732 to the definition of “needed housing” in subsection (1) of this section in the same manner that an exception may be taken under the goals. [1981 c.884 §6; 1983 c.795 §2; 1989 c.380 §1; 2011 c.354 §2; 2017 c.745 §4]
+      (6) A local government may take an exception under ORS 197.732 to the definition of “needed housing” in subsection (1) of this section in the same manner that an exception may be taken under the goals. [1981 c.884 §6; 1983 c.795 §2; 1989 c.380 §1; 2011 c.354 §2; 2017 c.745 §4; 2019 c.639 §6; 2019 c.640 §10a]
 
  
 
-      197.304 Lane County accommodation of needed housing. (1) Notwithstanding an intergovernmental agreement pursuant to ORS 190.003 to 190.130 or acknowledged comprehensive plan provisions to the contrary, a city within Lane County that has a population of 50,000 or more within its boundaries shall meet its obligation under ORS 197.295 to 197.314 separately from any other city within Lane County. The city shall, separately from any other city:
+      197.304 Lane County accommodation of needed housing. (1) Notwithstanding an intergovernmental agreement pursuant to ORS 190.003 to 190.130 or acknowledged comprehensive plan provisions to the contrary, a city within Lane County that has a population of 50,000 or more within its boundaries shall meet its obligation under ORS 197.286 to 197.314 separately from any other city within Lane County. The city shall, separately from any other city:
 
       (a) Establish an urban growth boundary, consistent with the jurisdictional area of responsibility specified in the acknowledged comprehensive plan; and
 
@@ -2217,11 +2495,65 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (d) The manufactured home shall have exterior siding and roofing which in color, material and appearance is similar to the exterior siding and roofing material commonly used on residential dwellings within the community or which is comparable to the predominant materials used on surrounding dwellings as determined by the local permit approval authority.
 
+      (e) The manufactured home shall be certified by the manufacturer to have an exterior thermal envelope meeting performance standards which reduce levels equivalent to the performance standards required of single-family dwellings constructed under the Low-Rise Residential Dwelling Code as defined in ORS 455.010.
+
+      (f) The manufactured home shall have a garage or carport constructed of like materials. A jurisdiction may require an attached or detached garage in lieu of a carport where such is consistent with the predominant construction of immediately surrounding dwellings.
+
+      (g) In addition to the provisions in paragraphs (a) to (f) of this subsection, a city or county may subject a manufactured home and the lot upon which it is sited to any development standard, architectural requirement and minimum size requirement to which a conventional single-family residential dwelling on the same lot would be subject. [1981 c.884 §5; 1983 c.795 §3; 1989 c.380 §2; 1989 c.964 §6; 1993 c.184 §3; 1997 c.733 §2; 1999 c.357 §1; 2001 c.613 §2; 2011 c.354 §3; 2017 c.745 §5; 2019 c.401 §7]
+
+ 
+
+      Note: The amendments to 197.307 by section 14, chapter 401, Oregon Laws 2019, become operative January 2, 2026. See section 18, chapter 401, Oregon Laws 2019, as amended by section 1c, chapter 422, Oregon Laws 2019. The text that is operative on and after January 2, 2026, is set forth for the user’s convenience.
+
+      197.307. (1) The availability of affordable, decent, safe and sanitary housing opportunities for persons of lower, middle and fixed income, including housing for farmworkers, is a matter of statewide concern.
+
+      (2) Many persons of lower, middle and fixed income depend on government assisted housing as a source of affordable, decent, safe and sanitary housing.
+
+      (3) When a need has been shown for housing within an urban growth boundary at particular price ranges and rent levels, needed housing shall be permitted in one or more zoning districts or in zones described by some comprehensive plans as overlay zones with sufficient buildable land to satisfy that need.
+
+      (4) Except as provided in subsection (6) of this section, a local government may adopt and apply only clear and objective standards, conditions and procedures regulating the development of housing, including needed housing. The standards, conditions and procedures:
+
+      (a) May include, but are not limited to, one or more provisions regulating the density or height of a development.
+
+      (b) May not have the effect, either in themselves or cumulatively, of discouraging needed housing through unreasonable cost or delay.
+
+      (5) The provisions of subsection (4) of this section do not apply to:
+
+      (a) An application or permit for residential development in an area identified in a formally adopted central city plan, or a regional center as defined by Metro, in a city with a population of 500,000 or more.
+
+      (b) An application or permit for residential development in historic areas designated for protection under a land use planning goal protecting historic areas.
+
+      (6) In addition to an approval process for needed housing based on clear and objective standards, conditions and procedures as provided in subsection (4) of this section, a local government may adopt and apply an alternative approval process for applications and permits for residential development based on approval criteria regulating, in whole or in part, appearance or aesthetics that are not clear and objective if:
+
+      (a) The applicant retains the option of proceeding under the approval process that meets the requirements of subsection (4) of this section;
+
+      (b) The approval criteria for the alternative approval process comply with applicable statewide land use planning goals and rules; and
+
+      (c) The approval criteria for the alternative approval process authorize a density at or above the density level authorized in the zone under the approval process provided in subsection (4) of this section.
+
+      (7) Subject to subsection (4) of this section, this section does not infringe on a local government’s prerogative to:
+
+      (a) Set approval standards under which a particular housing type is permitted outright;
+
+      (b) Impose special conditions upon approval of a specific development proposal; or
+
+      (c) Establish approval procedures.
+
+      (8) In accordance with subsection (4) of this section and ORS 197.314, a jurisdiction may adopt any or all of the following placement standards, or any less restrictive standard, for the approval of manufactured homes located outside mobile home parks:
+
+      (a) The manufactured home shall be multisectional and enclose a space of not less than 1,000 square feet.
+
+      (b) The manufactured home shall be placed on an excavated and back-filled foundation and enclosed at the perimeter such that the manufactured home is located not more than 12 inches above grade.
+
+      (c) The manufactured home shall have a pitched roof, except that no standard shall require a slope of greater than a nominal three feet in height for each 12 feet in width.
+
+      (d) The manufactured home shall have exterior siding and roofing which in color, material and appearance is similar to the exterior siding and roofing material commonly used on residential dwellings within the community or which is comparable to the predominant materials used on surrounding dwellings as determined by the local permit approval authority.
+
       (e) The manufactured home shall be certified by the manufacturer to have an exterior thermal envelope meeting performance standards which reduce levels equivalent to the performance standards required of single-family dwellings constructed under the state building code as defined in ORS 455.010.
 
       (f) The manufactured home shall have a garage or carport constructed of like materials. A jurisdiction may require an attached or detached garage in lieu of a carport where such is consistent with the predominant construction of immediately surrounding dwellings.
 
-      (g) In addition to the provisions in paragraphs (a) to (f) of this subsection, a city or county may subject a manufactured home and the lot upon which it is sited to any development standard, architectural requirement and minimum size requirement to which a conventional single-family residential dwelling on the same lot would be subject. [1981 c.884 §5; 1983 c.795 §3; 1989 c.380 §2; 1989 c.964 §6; 1993 c.184 §3; 1997 c.733 §2; 1999 c.357 §1; 2001 c.613 §2; 2011 c.354 §3; 2017 c.745 §5]
+      (g) In addition to the provisions in paragraphs (a) to (f) of this subsection, a city or county may subject a manufactured home and the lot upon which it is sited to any development standard, architectural requirement and minimum size requirement to which a conventional single-family residential dwelling on the same lot would be subject.
 
  
 
@@ -2243,11 +2575,11 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (5) A regulation, provision or requirement adopted or imposed under subsection (4) of this section:
 
-      (a) May not require more than 20 percent of housing units within a multifamily structure to be sold or rented as affordable housing;
+      (a) May not require more than 20 percent of housing units within a multifamily structure to be sold or rented as affordable housing.
 
-      (b) May apply only to multifamily structures containing at least 20 housing units;
+      (b) May apply only to multifamily structures containing at least 20 housing units.
 
-      (c) Must provide developers the option to pay an in-lieu fee, in an amount determined by the city or county, in exchange for providing the requisite number of housing units within the multifamily structure to be sold or rented at below-market rates; and
+      (c) Must provide developers the option to pay an in-lieu fee, in an amount determined by the city or county, in exchange for providing the requisite number of housing units within the multifamily structure to be sold or rented at below-market rates.
 
       (d) Must require the city or county to offer a developer of multifamily structures, other than a developer that elects to pay an in-lieu fee pursuant to paragraph (c) of this subsection, at least one of the following incentives:
 
@@ -2258,6 +2590,8 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
       (C) Finance-based incentives.
 
       (D) Full or partial exemption from ad valorem property taxes on the terms described in this subparagraph. For purposes of any statute granting a full or partial exemption from ad valorem property taxes that uses a definition of “low income” to mean income at or below 60 percent of the area median income and for which the multifamily structure is otherwise eligible, the city or county shall allow the multifamily structure of the developer to qualify using a definition of “low income” to mean income at or below 80 percent of the area median income.
+
+      (e) Does not apply to a CCRC, as defined in ORS 101.020, that executes and records a covenant with the applicable city or county in which the CCRC agrees to operate all units within its structure as a CCRC. Units within a CCRC that are offered or converted into residential units that are for sale or rent and are not subject to ORS chapter 101 must comply with regulations, provisions or requirements adopted by the city or county that are consistent with those applicable to a new multifamily structure under subsection (3) or (4) of this section.
 
       (6) A regulation, provision or requirement adopted or imposed under subsection (4) of this section may offer developers one or more of the following incentives:
 
@@ -2297,7 +2631,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (C) The approval criteria for the alternative approval process authorize a density at or above the density level authorized in the zone under the approval process provided in paragraph (a) of this subsection.
 
-      (10) If a regulation, provision or requirement adopted or imposed by a city or county under subsection (4) of this section requires that a percentage of housing units in a new multifamily structure be designated as affordable housing, any incentives offered under subsection (5)(d) or (6) of this section shall be related in a manner determined by the city or county to the required percentage of affordable housing units. [1999 c.848 §2; 2007 c.691 §8; 2016 c.59 §1]
+      (10) If a regulation, provision or requirement adopted or imposed by a city or county under subsection (4) of this section requires that a percentage of housing units in a new multifamily structure be designated as affordable housing, any incentives offered under subsection (5)(d) or (6) of this section shall be related in a manner determined by the city or county to the required percentage of affordable housing units. [1999 c.848 §2; 2007 c.691 §8; 2016 c.59 §1; 2019 c.412 §1]
 
  
 
@@ -2331,7 +2665,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
  
 
-      197.312 Limitation on city and county authority to prohibit certain kinds of housing; zoning requirements for farmworker housing; real estate sales office. (1) A city or county may not by charter prohibit from all residential zones attached or detached single-family housing, multifamily housing for both owner and renter occupancy or manufactured homes. A city or county may not by charter prohibit government assisted housing or impose additional approval standards on government assisted housing that are not applied to similar but unassisted housing.
+      197.312 Limitation on city and county prohibitions. (1) A city or county may not by charter prohibit from all residential zones attached or detached single-family housing, multifamily housing for both owner and renter occupancy or manufactured homes. A city or county may not by charter prohibit government assisted housing or impose additional approval standards on government assisted housing that are not applied to similar but unassisted housing.
 
       (2)(a) A single-family dwelling for a farmworker and the farmworker’s immediate family is a permitted use in any residential or commercial zone that allows single-family dwellings as a permitted use.
 
@@ -2343,29 +2677,19 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (4) A city or county may not prohibit a property owner or developer from maintaining a real estate sales office in a subdivision or planned community containing more than 50 lots or dwelling units for the sale of lots or dwelling units that remain available for sale to the public.
 
-      (5)(a) A city with a population greater than 2,500 or a county with a population greater than 15,000 shall allow in areas zoned for detached single-family dwellings the development of at least one accessory dwelling unit for each detached single-family dwelling, subject to reasonable local regulations relating to siting and design.
+      (5)(a) A city with a population greater than 2,500 or a county with a population greater than 15,000 shall allow in areas within the urban growth boundary that are zoned for detached single-family dwellings the development of at least one accessory dwelling unit for each detached single-family dwelling, subject to reasonable local regulations relating to siting and design.
 
-      (b) As used in this subsection, “accessory dwelling unit” means an interior, attached or detached residential structure that is used in connection with or that is accessory to a single-family dwelling. [1983 c.795 §5; 1989 c.964 §7; 2001 c.437 §1; 2001 c.613 §3; 2011 c.354 §4; 2017 c.745 §6]
+      (b) As used in this subsection:
 
- 
+      (A) “Accessory dwelling unit” means an interior, attached or detached residential structure that is used in connection with or that is accessory to a single-family dwelling.
 
-      Note: The amendments to 197.312 by section 6, chapter 745, Oregon Laws 2017, become operative July 1, 2018. See section 12, chapter 745, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
+      (B) “Reasonable local regulations relating to siting and design” does not include owner-occupancy requirements of either the primary or accessory structure or requirements to construct additional off-street parking.
 
-      197.312. (1) A city or county may not by charter prohibit from all residential zones attached or detached single-family housing, multifamily housing for both owner and renter occupancy or manufactured homes. A city or county may not by charter prohibit government assisted housing or impose additional approval standards on government assisted housing that are not applied to similar but unassisted housing.
-
-      (2)(a) A single-family dwelling for a farmworker and the farmworker’s immediate family is a permitted use in any residential or commercial zone that allows single-family dwellings as a permitted use.
-
-      (b) A city or county may not impose a zoning requirement on the establishment and maintenance of a single-family dwelling for a farmworker and the farmworker’s immediate family in a residential or commercial zone described in paragraph (a) of this subsection that is more restrictive than a zoning requirement imposed on other single-family dwellings in the same zone.
-
-      (3)(a) Multifamily housing for farmworkers and farmworkers’ immediate families is a permitted use in any residential or commercial zone that allows multifamily housing generally as a permitted use.
-
-      (b) A city or county may not impose a zoning requirement on the establishment and maintenance of multifamily housing for farmworkers and farmworkers’ immediate families in a residential or commercial zone described in paragraph (a) of this subsection that is more restrictive than a zoning requirement imposed on other multifamily housing in the same zone.
-
-      (4) A city or county may not prohibit a property owner or developer from maintaining a real estate sales office in a subdivision or planned community containing more than 50 lots or dwelling units for the sale of lots or dwelling units that remain available for sale to the public.
+      (6) Subsection (5) of this section does not prohibit local governments from regulating vacation occupancies, as defined in ORS 90.100, to require owner-occupancy or off-street parking. [1983 c.795 §5; 1989 c.964 §7; 2001 c.437 §1; 2001 c.613 §3; 2011 c.354 §4; 2017 c.745 §6; 2018 c.15 §7; 2019 c.639 §7]
 
  
 
-      197.313 Interpretation of ORS 197.312. Nothing in ORS 197.312 or in the amendments to ORS 197.295, 197.303, 197.307 by sections 1, 2 and 3, chapter 795, Oregon Laws 1983, shall be construed to require a city or county to contribute to the financing, administration or sponsorship of government assisted housing. [1983 c.795 §6]
+      197.313 Interpretation of ORS 197.312. Nothing in ORS 197.312 or in the amendments to ORS 197.286, 197.303, 197.307 by sections 1, 2 and 3, chapter 795, Oregon Laws 1983, shall be construed to require a city or county to contribute to the financing, administration or sponsorship of government assisted housing. [1983 c.795 §6]
 
  
 
@@ -2389,17 +2713,13 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
  
 
-      197.315 [1973 c.80 §54; 1977 c.664 §25; repealed by 1979 c.772 §26]
-
- 
-
 (Temporary provisions relating to affordable housing pilot program)
 
  
 
       Note: Sections 1 to 9, chapter 52, Oregon Laws 2016, provide:
 
-      Sec. 1. Sections 2 to 9 of this 2016 Act are added to and made a part of ORS 197.295 to 197.314. [2016 c.52 §1]
+      Sec. 1. Sections 2 to 9 of this 2016 Act are added to and made a part of ORS 197.295 to 197.314 [series became 197.286 to 197.314]. [2016 c.52 §1]
 
       Sec. 2. Legislative findings. The Legislative Assembly finds and declares that a supply of land dedicated to affordable housing, planned and zoned to encourage development of affordable housing and protected for affordable housing siting over a long period, is necessary for the economic prosperity of communities in this state. [2016 c.52 §2]
 
@@ -2411,7 +2731,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (3) Protect land dedicated to affordable housing from conversion to other uses before or after the development of affordable housing. [2016 c.52 §3]
 
-      Sec. 4. Establishment of site selection process. (1) Under the rules adopted under section 3 of this 2016 Act, the Land Conservation and Development Commission shall establish a site selection process by which the commission shall select two pilot projects, one from a city with a population of 25,000 or less and one from a city with a population greater than 25,000, from among nominations made by local governments.
+      Sec. 4. Establishment of site selection process. (1) Under the rules adopted under section 3, chapter 52, Oregon Laws 2016, the Land Conservation and Development Commission shall establish a site selection process by which the commission shall select two pilot projects, one from a city with a population of 25,000 or less and one from a city with a population greater than 25,000, from among nominations made by local governments. However, if the commission has not received any qualifying nominations from a city with a population of 25,000 or less on or before the effective date of this 2019 Act [January 1, 2020], the commission may select any two pilot projects eligible for selection on or before August 17, 2018.
 
       (2) A local government may nominate a pilot project that provides a site dedicated to affordable housing within the jurisdiction of the local government.
 
@@ -2419,7 +2739,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (a) Submit a concept plan for the pilot project, including any proposed amendments to the comprehensive plan and land use regulations required to implement the pilot project; and
 
-      (b) Demonstrate that the landowner of the site has agreed to designation of the landowner’s property as a pilot project for the purposes of sections 2 to 9 of this 2016 Act.
+      (b) Demonstrate that the landowner of the site has agreed to designation of the landowner’s property as a pilot project for the purposes of sections 2 to 9, chapter 52, Oregon Laws 2016.
 
       (4) The commission shall select pilot projects that are:
 
@@ -2441,7 +2761,7 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
       (b) Metro and cities and counties included in the Metro urban growth boundary; and
 
-      (c) Local governments within Jefferson County that are served by the North Unit Irrigation District. [2016 c.52 §4]
+      (c) Local governments within Jefferson County that are served by the North Unit Irrigation District. [2016 c.52 §4; 2019 c.32 §1]
 
       Sec. 5. Rules. (1) The Land Conservation and Development Commission shall, by rule:
 
@@ -2511,6 +2831,10 @@ URBAN GROWTH BOUNDARIES AND NEEDED HOUSING WITHIN BOUNDARIES
 
  
 
+      197.315 [1973 c.80 §54; 1977 c.664 §25; repealed by 1979 c.772 §26]
+
+ 
+
 ENFORCEMENT OF PLANNING REQUIREMENTS
 
  
@@ -2523,7 +2847,7 @@ ENFORCEMENT OF PLANNING REQUIREMENTS
 
       (A) Revisions to the local comprehensive plan, land use regulations, special district cooperative or urban service agreement or decision-making process which is the basis for the order; or
 
-      (B) That an action be taken regarding the local comprehensive plan, land use regulations, special district agreement or decision-making process that is the basis for the order.
+      (B) That an action be taken regarding the local comprehensive plan, land use regulations, special district agreement, housing production strategy or decision-making process that is the basis for the order.
 
       (2)(a) The local government or special district shall issue a written response to the request within 60 days of the date the request is mailed to the local government or special district.
 
@@ -2531,11 +2855,11 @@ ENFORCEMENT OF PLANNING REQUIREMENTS
 
       (c) If the local government or special district does not act in a manner which the requestor believes is adequate to address the issues raised in the request within the time period provided in paragraph (a) of this subsection, a petition may be presented to the Land Conservation and Development Commission under ORS 197.324.
 
-      (3) A metropolitan service district may request an enforcement order under ORS 197.320 (12) without first complying with subsections (1) and (2) of this section. [1989 c.761 §4; 1993 c.804 §9; 2007 c.176 §2]
+      (3) A metropolitan service district may request an enforcement order under ORS 197.320 (12) without first complying with subsections (1) and (2) of this section. [1989 c.761 §4; 1993 c.804 §9; 2007 c.176 §2; 2019 c.640 §11]
 
  
 
-      197.320 Power of commission to order compliance with goals and plans. The Land Conservation and Development Commission shall issue an order requiring a local government, state agency or special district to take action necessary to bring its comprehensive plan, land use regulation, limited land use decisions or other land use decisions into compliance with the goals, acknowledged comprehensive plan provisions or land use regulations if the commission has good cause to believe:
+      197.320 Power of commission to order compliance with goals and plans. The Land Conservation and Development Commission shall issue an order requiring a local government, state agency or special district to take action necessary to bring its comprehensive plan, land use regulation, limited land use decisions or other land use decisions or actions into compliance with the goals, acknowledged comprehensive plan provisions, land use regulations or housing production strategy if the commission has good cause to believe:
 
       (1) A comprehensive plan or land use regulation adopted by a local government not on a compliance schedule is not in compliance with the goals by the date set in ORS 197.245 or 197.250 for such compliance;
 
@@ -2557,9 +2881,13 @@ ENFORCEMENT OF PLANNING REQUIREMENTS
 
       (10) A local government’s approval standards, special conditions on approval of specific development proposals or procedures for approval do not comply with ORS 197.307 (4) or (6);
 
-      (11) A local government is not making satisfactory progress toward meeting its obligations under ORS 195.065; or
+      (11) A local government is not making satisfactory progress toward meeting its obligations under ORS 195.065;
 
-      (12) A local government within the jurisdiction of a metropolitan service district has failed to make changes to the comprehensive plan or land use regulations to comply with the regional framework plan of the district or has engaged in a pattern or practice of decision-making that violates a requirement of the regional framework plan. [1977 c.664 §34; 1979 c.284 §123; 1981 c.748 §32; 1983 c.827 §58; 1987 c.729 §8; 1989 c.761 §2; 1991 c.612 §13; 1991 c.817 §24; 1993 c.804 §10; 1995 c.547 §4; 2003 c.793 §2; 2007 c.176 §3; 2015 c.374 §1]
+      (12) A local government within the jurisdiction of a metropolitan service district has failed to make changes to the comprehensive plan or land use regulations to comply with the regional framework plan of the district or has engaged in a pattern or practice of decision-making that violates a requirement of the regional framework plan; or
+
+      (13) A city is not making satisfactory progress in taking actions listed in its housing production strategy under ORS 197.290. [1977 c.664 §34; 1979 c.284 §123; 1981 c.748 §32; 1983 c.827 §58; 1987 c.729 §8; 1989 c.761 §2; 1991 c.612 §13; 1991 c.817 §24; 1993 c.804 §10; 1995 c.547 §4; 2003 c.793 §2; 2007 c.176 §3; 2015 c.374 §1; 2019 c.640 §12]
+
+ 
 
       197.324 Proceedings prior to order of compliance with goals; disclosure notice. (1) On its own motion, the Land Conservation and Development Commission may initiate a proceeding to carry out the provisions of ORS 197.320. If the commission proceeds on its own motion, it shall proceed as set forth in ORS 197.328.
 
@@ -2575,8 +2903,6 @@ ENFORCEMENT OF PLANNING REQUIREMENTS
 
 ______________________________________________________________________________
 
- 
-
 NOTICE: THE OREGON LAND CONSERVATION AND DEVELOPMENT COMMISSION HAS FOUND GOOD CAUSE FOR AN ENFORCEMENT PROCEEDING AGAINST ________ (Name of local government). AN ENFORCEMENT ORDER MAY BE EVENTUALLY ADOPTED THAT COULD LIMIT, PROHIBIT OR REQUIRE APPLICATION OF SPECIFIED CRITERIA TO ANY ACTION AUTHORIZED BY THIS DECISION BUT NOT APPLIED FOR UNTIL AFTER ADOPTION OF THE ENFORCEMENT ORDER. FUTURE APPLICATIONS FOR BUILDING PERMITS OR ANY TIME EXTENSIONS MAY BE AFFECTED.
 
 ______________________________________________________________________________ [1989 c.761 §5; 1995 c.778 §3]
@@ -2584,6 +2910,8 @@ ______________________________________________________________________________ [
  
 
       197.325 [1973 c.80 §45; repealed by 1977 c.664 §42]
+
+ 
 
       197.328 Procedures to consider order to comply with goals. If a proceeding is initiated under ORS 197.324, the following procedures apply:
 
@@ -2859,11 +3187,15 @@ ACTIVITIES ON FEDERAL LAND
 
       (4) Actions pursuant to this section are subject to review under ORS 197.830 to 197.845. [1975 c.486 §3; 1977 c.664 §26; 1979 c.772 §7c; 1981 c.748 §40; 1983 c.827 §44]
 
+ 
+
       197.400 [1973 c.80 §25; 1977 c.664 §27; repealed by 1981 c.748 §56]
 
  
 
 AREAS OF CRITICAL CONCERN
+
+ 
 
       197.405 Designation of areas of critical state concern; commission recommendation; committee review; approval by Legislative Assembly. (1) The Land Conservation and Development Commission may recommend to appropriate legislative committees the designation of areas of critical state concern. Each such recommendation:
 
@@ -2890,6 +3222,8 @@ AREAS OF CRITICAL CONCERN
       197.410 Use and activities regulated; enjoining violations. (1) No use or activity subjected to state regulations required or allowed for a designated area of critical state concern shall be undertaken except in accordance with the applicable state regulations.
 
       (2) Any person or agency acting in violation of subsection (1) of this section may be enjoined in civil proceedings brought in the name of the county or the State of Oregon. [1973 c.80 §30; 1977 c.664 §29; 1981 c.748 §13]
+
+ 
 
       197.415 [1973 c.80 §27; 1977 c.664 §30; repealed by 1981 c.748 §56]
 
@@ -2931,6 +3265,8 @@ AREAS OF CRITICAL CONCERN
 
       197.420 [1973 c.80 §28; 1977 c.664 §31; repealed by 1981 c.748 §56]
 
+ 
+
       197.425 [1973 c.80 §29; 1977 c.664 §32; repealed by 1981 c.748 §56]
 
  
@@ -2947,45 +3283,17 @@ AREAS OF CRITICAL CONCERN
 
       (5) Give notice of any order relating to a particular violation of the state regulations for the area involved or a particular violation of ORS chapters 195, 196 and 197 by mailing notice to the person or public body conducting or proposing to conduct the project affected in the manner provided by ORS chapter 183. [1973 c.80 §31; 1977 c.664 §33; 1981 c.748 §14]
 
+ 
+
 RESIDENTIAL AND RECREATIONAL DEVELOPMENT
 
  
 
-(Temporary provisions relating to transferable development opportunities)
+(Temporary provisions relating to Metolius resort sites)
 
  
 
-      Note: Sections 1 to 8, chapter 636, Oregon Laws 2009, provide:
-
-      Sec. 1. The Legislative Assembly finds that:
-
-      (1) Providing for rural unemployment reductions and living wage job opportunities brings stability to economically distressed rural communities.
-
-      (2) Sections 1 to 9 of this 2009 Act are intended to reduce unemployment and create living wage jobs in economically distressed counties.
-
-      (3) Working forests make vital contributions to Oregon by providing jobs, timber, timber products, tax base and other social and economic benefits, by helping to maintain soil, air and water resources, by reducing levels of carbon dioxide in the atmosphere and by providing habitat for wildlife and aquatic life.
-
-      (4) Population growth, escalating land values, increasing risks due to wildfire and invasive species, and changes in land ownership and management objectives, with a resulting increase in conflict caused by dispersed residential development, require that new methods be developed to facilitate continued management of private lands zoned for forest use for timber harvest.
-
-      (5) It is the public policy of the State of Oregon to:
-
-      (a) Explore alternative methods to encourage the continued management of private forestlands for timber production.
-
-      (b) Protect water quality, wildlife habitat and other important natural resources by limiting location of dispersed residential development on forestlands.
-
-      (c) Provide for an orderly and efficient transition from rural to urban land uses by establishing locations at which residential development rights or development opportunities transferred from forestlands may be used.
-
-      (d) Provide for a limited number of demonstration projects for small-scale recreation communities that:
-
-      (A) Create incentives for economic development in areas that are in need of long-term job creation;
-
-      (B) Enhance the state’s leadership in sustainability and natural resource stewardship;
-
-      (C) Encourage appropriate public access to and stewardship of recreational resources on public lands consistent with the carrying capacity of the lands and resources; and
-
-      (D) Provide for additional sources of long-term funding for stewardship of natural resources. [2009 c.636 §1]
-
-      Sec. 1a. Sections 1 to 9 of this 2009 Act may be cited as the Rural Unemployment Reductions and Living-Wage Job Opportunities Bring Stability Act or the RURAL JOBS Act. [2009 c.636 §1a]
+      Note: Sections 2 to 5, chapter 636, Oregon Laws 2009, provide:
 
       Sec. 2. As used in sections 2 to 5 of this 2009 Act:
 
@@ -2999,11 +3307,11 @@ RESIDENTIAL AND RECREATIONAL DEVELOPMENT
 
       Sec. 3. (1) Notwithstanding ORS 215.700 to 215.780, one or two small-scale recreation communities may be established as specified in sections 2 to 5, chapter 636, Oregon Laws 2009.
 
-      (2) The owner of a Metolius resort site may apply to a county for approval of a small-scale recreation community within three years after the effective date of this 2017 Act [June 29, 2017] if:
+      (2) The owner of a Metolius resort site may apply to a county for approval of a small-scale recreation community within three years after June 29, 2017, if:
 
       (a) Prior to June 29, 2010, the owner notified the Department of Land Conservation and Development that the owner elected to seek approval of a small-scale recreation community; and
 
-      (b) The owner renews the election described in paragraph (a) of this subsection within 30 days after the effective date of this 2017 Act.
+      (b) The owner renews the election described in paragraph (a) of this subsection within 30 days after June 29, 2017.
 
       (3) A small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, may be established only in conjunction with a transfer of development opportunity from a Metolius resort site. A transfer of development opportunity must be carried out through an agreement between the owner of a Metolius resort site and the owner of the site proposed for development of a small-scale recreation community. In the agreement, the owner of the Metolius resort site must:
 
@@ -3017,7 +3325,7 @@ RESIDENTIAL AND RECREATIONAL DEVELOPMENT
 
       (C) Contains other provisions, as required by the Department of Land Conservation and Development, that are necessary to ensure that the conservation easement is enforceable.
 
-      (4)(a) A small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, must be sited on land that is within a county described in paragraph (b) of this subsection and that is either:
+      (4)(a) A small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, must be sited on land that is within a county described in paragraph (b) of this subsection and that is either or both of the following:
 
       (A) Planned and zoned for forest use; or
 
@@ -3075,13 +3383,15 @@ RESIDENTIAL AND RECREATIONAL DEVELOPMENT
 
       (A) Open space and scenic and historic areas;
 
-      (B) Estuarine resources; or
+      (B) Natural or conservation management unit requirements for estuarine resources; or
 
       (C) Beaches and dunes.
 
       (6)(a) All land on which a small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, is sited must be at least one-quarter mile from the nearest state park.
 
-      (b) Any buildings or other improvements developed within the boundaries of land on which a small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, is sited must be located at least one mile from the nearest state park. [2009 c.636 §3; 2009 c.888 §1; 2011 c.404 §1; 2015 c.748 §1; 2017 c.494 §1] Sec. 4. (1) A small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, must meet the following development standards:
+      (b) Any buildings or other improvements developed within the boundaries of land on which a small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, is sited must be located at least one mile from the nearest state park.
+
+      (7) If a county listed in subsection (4)(b)(B), (D), (F), (G) or (M) of this section approves an application for a small-scale recreation community that also requires a federal license or permit, that approval shall be deemed to constitute an acknowledged exception under ORS 197.732 to any applicable statewide land use planning goal with which the use would not otherwise comply. [2009 c.636 §3; 2009 c.888 §1; 2011 c.404 §1; 2015 c.748 §1; 2017 c.494 §1; 2018 c.15 §8] Sec. 4. (1) A small-scale recreation community authorized under sections 2 to 5, chapter 636, Oregon Laws 2009, must meet the following development standards:
 
       (a) The community must be located on a tract that contains 320 or fewer acres of land.
 
@@ -3143,11 +3453,9 @@ RESIDENTIAL AND RECREATIONAL DEVELOPMENT
 
       Sec. 5. (1) An application for a small-scale recreation community under sections 2 to 5, chapter 636, Oregon Laws 2009, may be filed only by the owner of a Metolius resort site and the owner of the site on which development of the small-scale recreation community is proposed and must be filed jointly by the owners. The owners shall file a copy of the application with the Department of Land Conservation and Development at the same time that the owners file the application with the county having land use jurisdiction over the proposed development site.
 
-      (2) A county shall review an application for a small-scale recreation community under sections 2 to 5, chapter 636, Oregon Laws 2009, as a
+      (2) A county shall review an application for a small-scale recreation community under sections 2 to 5, chapter 636, Oregon Laws 2009, as a use permitted under section 3 (4)(a), chapter 636, Oregon Laws 2009, and as a land division under ORS chapter 92.
 
-conditional use in a forest zone and as a land division under ORS chapter 92.
-
-      (3) In addition to the standards set forth in sections 2 to 5, chapter 636, Oregon Laws 2009, the small-scale recreation community must meet the land division standards and other development standards of the county, including standards for streets, utilities and services, unless the standards conflict with sections 2 to 5, chapter 636, Oregon Laws 2009. If the development standards of the county are dependent on the zoning of the site, the county shall apply the development standards for the county’s most dense rural residential zone.
+      (3) In addition to the standards set forth in sections 2 to 5, chapter 636, Oregon Laws 2009, the applicant for a small-scale recreation community must demonstrate to the county that streets, utilities and services adequate to serve the small-scale recreation community are available or will be made available prior to occupancy of the small-scale recreation community.
 
       (4) If more than two applications for a small-scale recreation community are filed under sections 2 to 5, chapter 636, Oregon Laws 2009, and a county has not yet approved an application, the department shall determine which of the applications may proceed, taking into consideration:
 
@@ -3159,7 +3467,15 @@ conditional use in a forest zone and as a land division under ORS chapter 92.
 
       (5) When two applications for small-scale recreation communities have been approved, additional applications may not be considered.
 
-      (6) A county may charge a fee to cover the costs of processing an application. [2009 c.636 §5; 2009 c.888 §3]
+      (6) A county may charge a fee to cover the costs of processing an application. [2009 c.636 §5; 2009 c.888 §3; 2018 c.15 §9]
+
+ 
+
+(Temporary provisions relating to transfer of development rights pilot program)
+
+ 
+
+      Note: Sections 6 to 8, chapter 636, Oregon Laws 2009, provide:
 
       Sec. 6. (1) There is established the Oregon Transfer of Development Rights Pilot Program in the Department of Land Conservation and Development. Working with the State Forestry Department, the State Department of Agriculture and local governments and with other state agencies, as appropriate, the Department of Land Conservation and Development shall implement the pilot program.
 
@@ -3249,137 +3565,11 @@ conditional use in a forest zone and as a land division under ORS chapter 92.
 
  
 
-(Temporary provisions relating to Skyline Forest Sustainable Development Area)
+(Temporary provisions relating to Grant County guest ranch)
 
  
 
-      Note: Section 9, chapter 636, Oregon Laws 2009, provides:
-
-      Sec. 9. (1) As used in this section:
-
-      (a) “Community forestlands” has the meaning given that term in ORS 530.600.
-
-      (b) “Skyline Forest” means that certain real property consisting of approximately 33,000 contiguous acres in Deschutes County owned on June 1, 2009, by Cascade Timberlands (Oregon) LLC and located within sections 7, 8, 15, 16, 17, 18, 19, 20, 21, 22, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35 and 36, township 16 south, range 10 east; sections 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 22, 23, 24, 25, 26, 27, 35 and 36, township 17 south, range 10 east; and sections 6, 7, 8, 9, 17, 18, 19, 20, 29, 30, 31, 32 and 33, township 17 south, range 11 east.
-
-      (c) “Skyline Forest Sustainable Development Area” means a portion of up to 3,000 contiguous acres of the tract known as the Skyline Forest that is located in township 16 south, range 10 east, Deschutes County: portions of the northwest quarter, southwest quarter, southeast quarter, northeast quarter of section 7; portions of the northwest quarter, southwest quarter, southeast quarter of section 8; portions of the southwest quarter of section 16; portions of the northwest quarter, southwest quarter, southeast quarter, northeast quarter of section 17; portions of the northwest quarter, southwest quarter, southeast quarter, northeast quarter of section 18; section 19; portions of the northwest quarter, southwest quarter, northeast quarter of section 20; portions of the northwest quarter of section 21; portions of the northwest quarter of section 29; and portions of the north half of section 30.
-
-      (d) “Skyline Conservation Tract” means the portion of the Skyline Forest consisting of approximately 30,000 contiguous acres that is not included within the Skyline Forest Sustainable Development Area.
-
-      (e) “Southern Conservation Tract” means that certain real property consisting of approximately 34,700 acres in Deschutes and Klamath Counties owned on June 1, 2009, by Cascade Timberlands (Oregon) LLC and located within one of the following areas:
-
-      (A) “Area one” consists of approximately 14,000 acres of land located within sections 1, 2, 3, 10, 11, 12, 13, 14, 15, 21, 22, 23, 25, 26, 27, 28, 29, 32, 33, 34 and 35 of township 22 south, range 9 east, Deschutes County; and sections 5, 6, 7, 8, 17, 18, 30 and 31 of township 22 south, range 10 east, Deschutes County;
-
-      (B) “Area two” consists of approximately 9,700 acres of land located within sections 2, 3, 4, 5, 9, 10, 11, 14, 15, 17, 19, 20, 21, 22, 23, 27, 28, 29, 30, 31, 32, 33 and 34 of township 23 south, range 9 east, Klamath County and the portion of Parcel 3, Partition Plat No. 34-08 located in township 23 south, range 9 east, Klamath County; and
-
-      (C) “Area three” consists of approximately 11,000 acres of land located within sections 14, 23, 24, 25, 26, 34 and 35 of township 23 south, range 9 east; sections 3, 4, 8, 9 and 17 of township 24 south, range 9 east; section 1 of township 25 south, range 7 east; sections 1, 2, 3, 4, 9, 10, 12, 13, 14, 15, 16 and 17 of township 25 south, range 8 east; Parcel 1, Partition Plat No. 34-08 located in township 24 south, ranges 7 and 8 east, and township 25 south, range 8 east, Klamath County; and the portion of Parcel 3, Partition Plat No. 34-08 located in township 24 south, ranges 8 and 9 east, Klamath County and lying west of U.S. Route 97.
-
-      (f) “Land trust” means the Deschutes Land Trust, an Oregon nonprofit corporation or another nonprofit conservation organization that is either accredited by the Land Trust Accreditation Commission or is nationally recognized as a land conservation organization, the primary mission of which is land conservation.
-
-      (2) Contingent upon satisfaction of the requirements of subsection (3) of this section, the Skyline Forest Sustainable Development Area may be developed and used for the following purposes:
-
-      (a) The Skyline Forest Sustainable Development Area may contain up to 282 residential units, a caretaker’s residence, a restaurant, a small community store, a small-scale community conference center, an equestrian facility, small-scale recreational, commercial and basic service uses, and all utility, maintenance and security facilities necessary to support the development. The residential units may be permanent residences, rental units or lodging units. The specific number of residential units allowed within the Skyline Forest Sustainable Development Area, up to a maximum of 282, is dependent upon the number of acres of the Skyline Conservation Tract and the Southern Conservation Tract conveyed to a land trust or a federal or state agency pursuant to this section. Up to:
-
-      (A) 137 residential units shall be allowed within the Skyline Forest Sustainable Development Area in exchange for the conveyance of the Skyline Conservation Tract to a land trust;
-
-      (B) 183 residential units shall be allowed within the Skyline Forest Sustainable Development Area in exchange for the conveyance of the Skyline Conservation Tract and area one of the Southern Conservation Tract to a land trust or to a federal or state agency;
-
-      (C) 224 residential units shall be allowed within the Skyline Forest Sustainable Development Area in exchange for the conveyance of the Skyline Conservation Tract, area one and area two of the Southern Conservation Tract to a land trust or to a federal or state agency; or
-
-      (D) 282 residential units shall be allowed within the Skyline Forest Sustainable Development Area in exchange for the conveyance of the Skyline Conservation Tract, area one, area two and area three of the Southern Conservation Tract to a land trust or to a federal or state agency.
-
-      (b) The Skyline Forest Sustainable Development Area may not contain a golf course or golf-related facilities.
-
-      (c) All development, not including access roads and utility lines to the Skyline Forest Sustainable Development Area and up to five acres for maintenance and security facilities, shall be located on 1,200 contiguous acres within the Skyline Forest Sustainable Development Area. The owner shall use the remaining undeveloped 1,800 acres of the Skyline Forest Sustainable Development Area for the primary purposes of minimizing the risk of wildfire and maintaining wildlife habitat value. However, an equestrian facility may be located within the otherwise undeveloped 1,800 acres if the facility is located on no more than 40 acres contiguous to the developed portion of the Skyline Forest Sustainable Development Area. The owner shall cause a conservation easement pursuant to ORS 271.715 to 271.795 to be recorded on the entirety of the undeveloped 1,800 acres prohibiting partitions and development, but allowing access roads, utility lines, maintenance and security facilities and recreational uses, such as picnic grounds, trails, the equestrian facility and restrooms. The conservation easement must be held by a land trust and shall contain terms agreed to by the State Department of Fish and Wildlife and the State Forestry Department.
-
-      (d) Roads, utility corridors and all utility facilities necessary to serve the Skyline Forest Sustainable Development Area shall be allowed as outright permitted uses within the Skyline Forest Sustainable Development Area, the Skyline Forest and on nearby lands regardless of the comprehensive plan or zoning designation of the lands.
-
-      (e) The uses allowed by this subsection shall be allowed only upon approval of a master plan as provided by subsection (5) of this section. The master plan shall contain design criteria and standards to ensure that sustainability principles will be incorporated into the development and operation of uses within the Skyline Forest Sustainable Development Area. The design criteria and standards shall promote sustainable building design, water conservation and energy conservation.
-
-      (f) The master plan described in subsection (5) of this section shall incorporate design criteria and standards to ensure that there will be negligible visual impacts under normal daylight viewing conditions from Awbrey Butte and the Plainview scenic turnout located on the McKenzie-Bend Highway No. 17, also known as U.S. Route 20, near milepost 9. The design criteria and standards shall also require all outdoor lighting to be downward facing, to the extent practicable.
-
-      (g) The Skyline Forest Sustainable Development Area shall be served by one primary access route and by one or more emergency and secondary access routes that use existing roads as much as practicable. The access routes may be private or public roads, including roads managed by the United States Forest Service. The primary access route shall intersect the McKenzie-Bend Highway No. 17, also known as U.S. Route 20, between mileposts 3 and 6 to provide access from the eastern boundary of the Skyline Forest Sustainable Development Area to the referenced highway.
-
-      (h) The Skyline Forest Sustainable Development Area, including all access roads, must be developed in consultation with the State Department of Fish and Wildlife to minimize impacts on wildlife, particularly deer and elk populations.
-
-      (i) The Skyline Forest Sustainable Development Area, including all access roads, must be developed in consultation with the State Forestry Department and the United States Forest Service to minimize wildfire risks.
-
-      (j) The owner of the Skyline Forest Sustainable Development Area shall provide adequate firefighting facilities and services to address the needs of the development. All structures shall be designed and maintained consistent with the default wildfire safety standards of the Oregon Forestland-Urban Interface Fire Protection Act of 1997, as set forth in administrative rules of the State Forestry Department.
-
-      (k) Any wells used to provide water for uses within the Skyline Forest Sustainable Development Area shall be sited to minimize impacts of groundwater use on Whychus Creek and Melvin Springs.
-
-      (3) The land uses described in subsection (2) of this section shall be allowed within the Skyline Forest Sustainable Development Area upon the satisfaction of the following conditions:
-
-      (a) The owner of the Skyline Forest and the Southern Conservation Tract transfers:
-
-      (A) The Skyline Conservation Tract to a land trust for the purpose of creating community forestlands; and
-
-      (B) The Southern Conservation Tract, whether to a single buyer or multiple buyers, to a land trust for the purpose of creating community forestlands or to a federal or state agency. However, the owner may choose to retain all or a portion of the Southern Conservation Tract, in which case the number of residential units allowed within the Skyline Forest Sustainable Development Area shall be limited as set forth in subsection (2)(a) of this section.
-
-      (b) The consideration for any transfer does not exceed the fair market value of the property as established by an appraisal based on the hypothetical condition or assumption that all development rights on the properties, whether actual or potential, have been extinguished as contemplated by subsection (7) of this section. The appraisal must comply with the Uniform Standards of Professional Appraisal Practice. The appraisal shall comply with the Uniform Appraisal Standards for Federal Land Acquisitions if:
-
-      (A) The land trust or state agency proposes, in part or in whole, to use federal funds to purchase the property and has demonstrated a reasonable likelihood that federal funds will be secured for the purchase; or
-
-      (B) The property is being conveyed to a federal agency.
-
-      (c) The Skyline Conservation Tract and the Southern Conservation Tract will be managed so that wildlife and recreational values are safeguarded and the overall forest health, including sustainable timber production and wildfire prevention, is maintained over the long term.
-
-      (d) The owner of the Skyline Forest Sustainable Development Area obtains the land use approvals required by subsection (5) of this section.
-
-      (4) The uses authorized by subsection (2) of this section shall be allowed as outright permitted uses by Deschutes County, following approval of the master plan required by subsection (5) of this section by Deschutes County. The uses allowed by subsection (2) of this section are allowed notwithstanding those provisions of ORS 215.700 to 215.780 relating to lot size and dwelling standards on forestlands, those statewide land use planning goals relating to agricultural lands, forestlands, public facilities and services, transportation and urbanization and those provisions of Deschutes County’s comprehensive plan and land use regulations limiting uses of forestlands. Approval of the master plan and land division applications required by subsection (5) of this section for the development and use of the Skyline Forest Sustainable Development Area and all associated road and utility corridors does not require exceptions to any statewide planning goal or amendment of any local comprehensive plan or land use regulation. Deschutes County shall apply only the provisions of this section as standards and criteria for an application for, or amendment to, a master plan or land division application or other development permit applications submitted pursuant to this section.
-
-      (5) The owner of the Skyline Forest Sustainable Development Area may submit an application to Deschutes County for approval of a master plan for the development and use of the area. The application must be submitted within five years after the effective date of chapter 636, Oregon Laws 2009 [June 29, 2009], subject to the following:
-
-      (a) The master plan shall demonstrate compliance with subsection (2) of this section and include a tentative land division application to create the lots within the Skyline Forest Sustainable Development Area.
-
-      (b) Deschutes County shall process the master plan and all land division applications pursuant to the procedural review provisions of its local land use regulations. However, Deschutes County shall approve the master plan and any tentative or final land division applications if the applications are consistent with subsections (2) and (3) of this section. No additional land use or land division standards shall apply to the approval and development of the Skyline Forest Sustainable Development Area.
-
-      (c) Deschutes County shall condition final approval of the master plan and land division applications on the execution of an agreement to record a conservation easement in accordance with subsection (2)(c) of this section, an agreement to transfer the Skyline Conservation Tract to a land trust for the purpose of creating community forestlands and, if applicable, an agreement to transfer all or a portion of the Southern Conservation Tract either to a land trust for the purpose of creating community forestland or to a federal or state agency. The agreements shall specify that recordation of the conservation easement, transfer of the Skyline Conservation Tract and transfer of all or a portion of the Southern Conservation Tract shall be contingent upon the following terms:
-
-      (A) The owner of the Skyline Forest Sustainable Development Area shall obtain all federal, state and local licenses, permits, rights and other entitlements necessary for development of the Skyline Forest Sustainable Development Area, each of which shall be final and no longer subject to appeal;
-
-      (B) The land trust or the federal or state agencies, as applicable, shall obtain adequate funding to purchase the Skyline Conservation Tract or the Southern Conservation Tract, as applicable, in accordance with subsection (3)(b) of this section; and
-
-      (C) The land trust or the federal or state agencies shall develop and implement management standards that provide reasonable assurance to the owner of the Skyline Forest Sustainable Development Area that the Skyline Conservation Tract and the Southern Conservation Tract will be managed to establish forest health, manage wildfire risk and maintain compatibility with the Skyline Forest Sustainable Development Area.
-
-      (d) The master plan and all associated land division plans shall govern development of the Skyline Forest Sustainable Development Area in perpetuity and shall not expire. Regulations requiring the submittal of final plats within a specified time period following tentative plan approval shall not apply to the Skyline Forest Sustainable Development Area. The master plan may be amended at any time following an administrative review by Deschutes County. Deschutes County shall approve the amendments if the amended master plan remains consistent with subsections (2) and (3) of this section.
-
-      (6) The Deschutes Land Trust, an Oregon nonprofit corporation, shall have a right of first opportunity to purchase the Skyline Conservation Tract and the Southern Conservation Tract, and any purchase agreement shall provide a minimum of three years for the Deschutes Land Trust to obtain funding for any purchase. If at any time after two years from the date of any purchase agreement or the date of filing of a master plan under subsection (5) of this section, whichever is later, the Deschutes Land Trust has failed to demonstrate a reasonable likelihood it will be able to obtain the funds necessary to complete the purchase, the owner of the Skyline Conservation Tract and the Southern Conservation Tract may seek alternative buyers for any property that is the subject of a purchase agreement under this subsection. The Deschutes Land Trust will in good faith notify the owner of the Skyline Conservation Tract and the Southern Conservation Tract if at any time during the period of any purchase agreement the Deschutes Land Trust concludes it does not wish to complete the purchase or will be unable to obtain the necessary funding to complete the purchase.
-
-      (7) Development and construction of uses within the Skyline Forest Sustainable Development Area may proceed according to the approved master plan once the transfer of fee title of the Skyline Conservation Tract and, as applicable, all or a portion of the Southern Conservation Tract, is complete. Following transfer of fee title of the Skyline Conservation Tract and, as applicable, all or a portion of the Southern Conservation Tract, all development rights on the conveyed lands are extinguished and the conveyed lands shall be thereafter managed as community forestlands or as federal or state forestlands.
-
-      (8) At any time within five years after the effective date of chapter 636, Oregon Laws 2009, the owner of the Skyline Forest Sustainable Development Area may either file an application for a master plan pursuant to subsection (5) of this section, or submit written notice to Deschutes County and the Deschutes Land Trust stating the owner’s intent to relinquish the development opportunities authorized by this section. Until the owner of the Skyline Forest Sustainable Development Area files a master plan application or submits a notice of relinquishment under this subsection, the owner may not divide, develop, obtain a lot of record determination or prohibit public access to any portion of the Skyline Forest. If the owner of the Skyline Forest Sustainable Development Area submits a notice of relinquishment under this subsection, or the owner allows the five-year time period to elapse without taking any action under this subsection, the development opportunities authorized by this section shall expire and the owner may divide, develop and prohibit public access to any portion of Skyline Forest pursuant to the laws in effect at that time.
-
-      (9) If the owner of the Skyline Forest Sustainable Development Area does not file a master plan within five years of the effective date of chapter 636, Oregon Laws 2009, or if Deschutes County does not approve a master plan as provided in subsection (5) of this section within 10 years of the effective date of chapter 636, Oregon Laws 2009, then the provisions of subsection (2) of this section shall cease to have any force or effect.
-
-      (10) The development opportunities provided by this section are fully transferable and will run with the land in the event of a change of ownership of the Skyline Forest or all or a portion of the Southern Conservation Tract. [2009 c.636 §9; 2009 c.888 §4]
-
- 
-
-(Temporary provisions relating to residential and recreational development)
-
- 
-
-      Note: Sections 1 and 2, chapter 686, Oregon Laws 2011, provide:
-
-      Sec. 1. The Legislative Assembly finds and declares that:
-
-      (1) Working farms and cattle ranches make vital contributions to Oregon by:
-
-      (a) Providing jobs, timber, agricultural products, tax base, tourism and other social and economic benefits;
-
-      (b) Helping to maintain soil, air and water resources;
-
-      (c) Reducing levels of carbon dioxide in the atmosphere; and
-
-      (d) Providing habitat for wildlife and aquatic life.
-
-      (2) New methods must be developed to facilitate continued management of private farms and cattle ranches as population growth, escalating land values, increasing risks from wildfire and invasive species, and changes in land ownership or management objectives result in increased conflict with dispersed residential development.
-
-      (3) The public policy of the State of Oregon is to:
-
-      (a) Encourage, and explore alternative methods to encourage, the continued management of private farm and forest lands for timber production, agricultural production and cattle ranching.
-
-      (b) Protect water quality, wildlife habitat and other important natural resources by limiting location of dispersed residential development on farm and forest land. [2011 c.686 §1]
+      Note: Section 2, chapter 686, Oregon Laws 2011, provides:
 
       Sec. 2. (1) As used in this section:
 
@@ -3859,7 +4049,7 @@ MOBILE HOME, MANUFACTURED DWELLING AND RECREATIONAL VEHICLE PARKS
 
       (b) If a city or county requires a hearing before approval of a mobile home or manufactured dwelling park, application of the criteria and standards adopted pursuant to paragraph (a) of this subsection shall be the sole issue to be determined at the hearing.
 
-      (c) No criteria or standards established under paragraph (a) of this subsection shall be adopted which would preclude the development of mobile home or manufactured dwelling parks within the intent of ORS 197.295 and 197.475 to 197.490. [1987 c.785 §4; 1989 c.648 §54]
+      (c) No criteria or standards established under paragraph (a) of this subsection shall be adopted which would preclude the development of mobile home or manufactured dwelling parks within the intent of ORS 197.286 and 197.475 to 197.490. [1987 c.785 §4; 1989 c.648 §54]
 
  
 
@@ -3879,9 +4069,11 @@ MOBILE HOME, MANUFACTURED DWELLING AND RECREATIONAL VEHICLE PARKS
 
       197.492 Definitions for ORS 197.492 and 197.493. As used in this section and ORS 197.493:
 
-      (1) “Manufactured dwelling park,” “mobile home park” and “recreational vehicle” have the meaning given those terms in ORS 446.003.
+      (1) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
 
-      (2) “Recreational vehicle park”:
+      (2) “Mobile home park” and “recreational vehicle” have the meanings given those terms in ORS 446.007.
+
+      (3) “Recreational vehicle park”:
 
       (a) Means a place where two or more recreational vehicles are located within 500 feet of one another on a lot, tract or parcel of land under common ownership and having as its primary purpose:
 
@@ -3893,7 +4085,7 @@ MOBILE HOME, MANUFACTURED DWELLING AND RECREATIONAL VEHICLE PARKS
 
       (A) An area designated only for picnicking or overnight camping; or
 
-      (B) A manufactured dwelling park or mobile home park. [2005 c.619 §11]
+      (B) A manufactured dwelling park or mobile home park. [2005 c.619 §11; 2019 c.422 §30]
 
  
 
@@ -4157,12 +4349,6 @@ POST-ACKNOWLEDGMENT PROCEDURES
 
  
 
-      Note: Section 1, chapter 81, Oregon Laws 2016, provides:
-
-      Sec. 1. Notwithstanding ORS 197A.320, a city outside of Metro that submitted to the Director of the Department of Land Conservation and Development, pursuant to ORS 197.610, a proposed change to an acknowledged comprehensive plan or a land use regulation that included an evaluation or an amendment of its urban growth boundary, or that received approval of a periodic review work program that included a work task to amend or evaluate its urban growth boundary pursuant to ORS 197.633, prior to January 1, 2016, but did not complete the evaluation or amendment of its urban growth boundary prior to January 1, 2016, may complete the evaluation or amendment pursuant to statutes and administrative rules in effect on June 30, 2013. [2016 c.81 §1]
-
- 
-
       197.612 Comprehensive plan or land use regulation changes to conform plan or regulations to new requirement in statute, goal or rule. (1) Notwithstanding contrary provisions of state and local law, a local government that proposes a change to an acknowledged comprehensive plan or a land use regulation solely for the purpose of conforming the plan and regulations to new requirements in a land use statute, statewide land use planning goal or rule of the Land Conservation and Development Commission implementing the statutes or goals may take action to change the comprehensive plan or the land use regulation without holding a public hearing if:
 
       (a) The local government gives notice to the Department of Land Conservation and Development of the proposed change in the manner provided by ORS 197.610 and 197.615; and
@@ -4273,7 +4459,7 @@ POST-ACKNOWLEDGMENT PROCEDURES
 
       (2) When the commission reviews a final land use decision of a metropolitan service district under subsection (1)(a), (c), (d) or (f) of this section, the commission shall issue a final order in writing within 180 days after the commission votes whether to approve the decision.
 
-      (3) When reviewing an amendment of an urban growth boundary under subsection (1)(b) of this section and ORS 197.295 to 197.314:
+      (3) When reviewing an amendment of an urban growth boundary under subsection (1)(b) of this section and ORS 197.286 to 197.314:
 
       (a) At the request of and in coordination with the city, the Director of the Department of Land Conservation and Development shall parse work tasks in a manner that allows the Department of Land Conservation and Development to issue final orders approving or remanding sequential phases required for completion of the work tasks, including a final order approving:
 
@@ -4292,6 +4478,14 @@ POST-ACKNOWLEDGMENT PROCEDURES
       (d) The director shall provide a letter to the local government certifying the approval of each sequential phase of a work task, unless an interested party has filed a timely objection to the phase of the work task consistent with administrative rules for conducting periodic review.
 
       (4) A final order of the commission under this section may be appealed to the Court of Appeals in the manner described in ORS 197.650 and 197.651. [1999 c.622 §14; 2001 c.672 §10; 2003 c.793 §4; 2007 c.723 §7; 2011 c.469 §1; 2014 c.92 §6; 2017 c.521 §1]
+
+ 
+
+      197.627 Meaning of “compliance with the goals” for certain purposes. For the purposes of acknowledgment under ORS 197.251, board review under ORS 197.805 to 197.855, review of a proposed regional problem-solving agreement under ORS 197.652 to 197.658 or periodic review under ORS 197.628 to 197.651, “compliance with the goals” means the comprehensive plan and regulations, on the whole, conform with the purposes of the goals and any failure to meet individual goal requirements is technical or minor in nature. [Formerly 197.747]
+
+ 
+
+      Note: 197.627 was made a part of ORS chapter 197 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -4347,6 +4541,8 @@ POST-ACKNOWLEDGMENT PROCEDURES
 
       197.630 [1981 c.748 §5c; repealed by 1983 c.827 §59]
 
+ 
+
       197.631 Commission to amend regulations to facilitate periodic review. In order to use state and local periodic review resources most efficiently and effectively and to concentrate periodic review on adequate provision of economic development, needed housing, transportation, public facilities and services and urbanization, the Land Conservation and Development Commission shall adopt, amend or repeal the statewide land use planning goals, guidelines and corresponding rules as necessary to facilitate periodic review and to provide for compliance by local governments with those goals not described in ORS 197.628 (2) through the post-acknowledgment procedures of ORS 197.610 to 197.625. [1999 c.622 §11; 2005 c.829 §3; 2015 c.261 §3]
 
  
@@ -4375,7 +4571,7 @@ POST-ACKNOWLEDGMENT PROCEDURES
 
       (b) For procedural issues, is whether the local government failed to follow the procedures applicable to the matter before the local government in a manner that prejudiced the substantial rights of a party to the proceeding.
 
-      (c) For issues concerning compliance with applicable laws, is whether the local government’s decision on the whole complies with applicable statutes, statewide land use planning goals, administrative rules, the comprehensive plan, the regional framework plan, the functional plan and land use regulations. The commission shall defer to a local government’s interpretation of the comprehensive plan or land use regulations in the manner provided in ORS 197.829. For purposes of this paragraph, “complies” has the meaning given the term “compliance” in the phrase “compliance with the goals” in ORS 197.747.
+      (c) For issues concerning compliance with applicable laws, is whether the local government’s decision on the whole complies with applicable statutes, statewide land use planning goals, administrative rules, the comprehensive plan, the regional framework plan, the functional plan and land use regulations. The commission shall defer to a local government’s interpretation of the comprehensive plan or land use regulations in the manner provided in ORS 197.829. For purposes of this paragraph, “complies” has the meaning given the term “compliance” in the phrase “compliance with the goals” in ORS 197.627.
 
       (4) A decision by the Director of the Department of Land Conservation and Development to approve a work program, that no work program is necessary or that no further work is necessary is final and not subject to appeal.
 
@@ -4394,10 +4590,6 @@ POST-ACKNOWLEDGMENT PROCEDURES
       (c) The parties to the appeal and the commission agree to an extension, not to exceed an additional 90 days.
 
       (7) The commission and a local government shall attempt to complete periodic review within three years after approval of a work program. To promote the timely completion of periodic review, the commission shall establish a system of incentives to encourage local government compliance with timelines in periodic review work programs. [1991 c.612 §3; 1993 c.18 §38; 1999 c.622 §3; 2001 c.527 §1; 2005 c.829 §4; 2011 c.469 §2]
-
- 
-
-      Note: See note under 197.610.
 
  
 
@@ -4450,6 +4642,8 @@ POST-ACKNOWLEDGMENT PROCEDURES
  
 
       197.640 [1981 c.748 §9; 1983 c.827 §11; 1987 c.69 §1; 1987 c.729 §7; 1987 c.856 §8; repealed by 1991 c.612 §23]
+
+ 
 
       197.641 [1983 c.827 §11b; 1987 c.729 §8a; repealed by 1991 c.612 §23]
 
@@ -4789,11 +4983,15 @@ FARMWORKER HOUSING
 
       197.705 [1973 c.482 §1; repealed by 1977 c.665 §24]
 
+ 
+
 ECONOMIC DEVELOPMENT
 
  
 
       197.707 Legislative intent. It was the intent of the Legislative Assembly in enacting ORS chapters 195, 196, 197, 215 and 227 not to prohibit, deter, delay or increase the cost of appropriate development, but to enhance economic development and opportunity for the benefit of all citizens. [1983 c.827 §16]
+
+ 
 
       197.710 [1973 c.482 §3; repealed by 1977 c.665 §24]
 
@@ -4847,9 +5045,9 @@ ECONOMIC DEVELOPMENT
 
  
 
-      197.714 Cooperation of county and city concerning industrial development. (1) Notwithstanding the authority granted in ORS 197.713 to allow industrial development, including accessory uses subordinate to the industrial development, in areas zoned for industrial use, when a county or its designee considers action under ORS 197.713 (1) for land within 10 miles of the urban growth boundary of a city, the county or its designee shall give notice to the city at least 21 days prior to taking action.
+      197.714 Cooperation of county and city concerning industrial development. (1) Notwithstanding the authority granted in ORS 197.713 and 197.716 to allow industrial or other employment use development, when a county or its designee considers action under ORS 197.713 or 197.716 for land within 10 miles of the urban growth boundary of a city, the county or its designee shall give notice to the city at least 21 days prior to taking action.
 
-      (2) If the city objects to the authorization of industrial development under ORS 197.713, the city and county shall negotiate to establish conditions on the industrial development or changes in the development necessary to mitigate concerns raised by the city’s objection. [2003 c.688 §2]
+      (2) If the city objects to the authorization of industrial or other employment use development under ORS 197.713 or 197.716, the city and county shall negotiate to establish conditions on the industrial or other employment use designation, development or changes in the development necessary to mitigate concerns raised by the city’s objection. [2003 c.688 §2; 2019 c.170 §3]
 
  
 
@@ -4858,6 +5056,86 @@ ECONOMIC DEVELOPMENT
  
 
       197.715 [1973 c.482 §2; repealed by 1977 c.665 §24]
+
+ 
+
+      197.716 Industrial and employment uses in listed counties; economic opportunity analysis. (1) As used in this section:
+
+      (a) “Economic opportunity analysis” means an analysis performed by a county that:
+
+      (A) Identifies the major categories of industrial uses or other employment uses that could reasonably be expected to expand or locate in the county based on a review of trends on a national, state, regional or county level;
+
+      (B) Identifies the number of sites by type reasonably expected to be needed to accommodate the expected employment growth based on the site characteristics typical of expected uses;
+
+      (C) Estimates the types and amounts of industrial uses and other employment uses likely to occur in the county based on subparagraphs (A) and (B) of this paragraph and considering the county’s economic advantages and disadvantages, including:
+
+      (i) Location, size and buying power of markets;
+
+      (ii) Availability of transportation facilities for access and freight mobility;
+
+      (iii) Public facilities and public services;
+
+      (iv) Labor market factors;
+
+      (v) Access to suppliers and utilities;
+
+      (vi) Necessary support services;
+
+      (vii) Limits on development due to federal and state environmental protection laws; and
+
+      (viii) Educational and technical training programs;
+
+      (D) Assesses community economic development potential through a public process in conjunction with state agencies and consistent with any categories or particular types of industrial uses and other employment uses desired by the community as identified in an existing comprehensive plan;
+
+      (E) Examines existing firms in the county to identify the types of sites that may require expansion;
+
+      (F) Includes an inventory of vacant and developed lands within the county designated for industrial use or other employment use, including:
+
+      (i) The description, including site characteristics, of vacant or developed sites within each plan or zoning district; and
+
+      (ii) A description of any development constraints or infrastructure needs that affect the buildable area of sites in the inventory; and
+
+      (G) Identifies additional potential sites for designation and rezoning that could reasonably accommodate expected industrial uses and other employment uses that cannot be met by existing inventories.
+
+      (b) “Industrial use” means industrial employment activities, including manufacturing, assembly, fabrication, processing, storage, logistics, warehousing, importation, distribution and transshipment and research and development.
+
+      (c) “Listed county” means Baker, Gilliam, Grant, Harney, Lake, Malheur, Sherman, Union, Wallowa or Wheeler County.
+
+      (d) “Other employment use” means all nonindustrial employment activities, including small scale commercial use, wholesale, service, nonprofit, business headquarters, administrative, governmental or employment activities that serve the medical, educational, social service, recreational or security industries and that occupy retail, office or flexible building types of any size or multibuilding campuses.
+
+      (e) “Reasonably be expected to expand or locate in the county” means that the county possesses the appropriate locational factors for the use or category of use.
+
+      (f)(A) “Small scale commercial use” means the low-impact use of land primarily for the retail sale of products or services, including offices.
+
+      (B) “Small scale commercial use” does not include use of land for factories, warehouses, freight terminals or wholesale distribution centers.
+
+      (2) A listed county that has adopted an economic opportunity analysis as part of its comprehensive plan may amend its comprehensive plan, land use regulations and zoning map to designate not more than 10 sites outside an urban growth boundary that cumulatively total not more than 50 acres of land if the sites were identified in any economic opportunity analysis as additional potential sites for industrial uses or other employment uses in order to allow for industrial uses and other employment uses without requiring an exception under ORS 197.732 to any statewide land use planning goals related to:
+
+      (a) Agriculture;
+
+      (b) Forest use; or
+
+      (c) Urbanization.
+
+      (3) A county may not designate a site under subsection (2) of this section:
+
+      (a) On any lands designated as high-value farmland as defined in ORS 195.300;
+
+      (b) Unless the county complies with ORS 197.714; and
+
+      (c) If any portion of the proposed site is for lands designated for forest use, unless the county:
+
+      (A) Notifies the State Forester in writing not less than 21 days before designating the site; and
+
+      (B) Cooperates with the State Forester in:
+
+      (i) Updating and classifying forestland-urban interface lands in and around the site;
+
+      (ii) Taking necessary steps to implement or update the forestland-urban interface fire protection system in and around the site as described in ORS 477.015 to 477.061; and
+
+      (iii) Implementing other fire protection measures authorized by the State Forester.
+
+      (4) A county may not amend its comprehensive plan, land use regulations or zoning map under this section to allow a use that would conflict with an administrative rule adopted for the purpose of implementing the Oregon Sage-Grouse Action Plan and Executive Order 15-18. [2019 c.170 §2]
 
  
 
@@ -5033,8 +5311,6 @@ ECONOMIC DEVELOPMENT
 
       197.730 [1973 c.482 §6; repealed by 1977 c.665 §24]
 
- 
-
 GOAL EXCEPTIONS
 
  
@@ -5127,15 +5403,15 @@ GOAL EXCEPTIONS
 
  
 
-MISCELLANEOUS
-
- 
-
-      197.747 Meaning of “compliance with the goals” for certain purposes. For the purposes of acknowledgment under ORS 197.251, board review under ORS 197.805 to 197.855, review of a proposed regional problem-solving agreement under ORS 197.652 to 197.658 or periodic review under ORS 197.628 to 197.651, “compliance with the goals” means the comprehensive plan and regulations, on the whole, conform with the purposes of the goals and any failure to meet individual goal requirements is technical or minor in nature. [1983 c.827 §14; 1989 c.761 §9; 1991 c.612 §18; 2009 c.873 §11]
+      197.747 [1983 c.827 §14; 1989 c.761 §9; 1991 c.612 §18; 2009 c.873 §11; renumbered 197.627 in 2019]
 
  
 
       197.750 [1973 c.482 §5; repealed by 1977 c.665 §24]
+
+ 
+
+URBAN DEVELOPMENT
 
  
 
@@ -5171,7 +5447,137 @@ MISCELLANEOUS
 
       197.757 Acknowledgment deadline for newly incorporated cities. Cities incorporated after January 1, 1982, shall have their comprehensive plans and land use regulations acknowledged under ORS 197.251 no later than four years after the date of incorporation. [1983 c.827 §13]
 
+ 
+
+      197.758 Development of middle housing; local regulations. (1) As used in this section:
+
+      (a) “Cottage clusters” means groupings of no fewer than four detached housing units per acre with a footprint of less than 900 square feet each and that include a common courtyard.
+
+      (b) “Middle housing” means:
+
+      (A) Duplexes;
+
+      (B) Triplexes;
+
+      (C) Quadplexes;
+
+      (D) Cottage clusters; and
+
+      (E) Townhouses.
+
+      (c) “Townhouses” means a dwelling unit constructed in a row of two or more attached units, where each dwelling unit is located on an individual lot or parcel and shares at least one common wall with an adjacent unit.
+
+      (2) Except as provided in subsection (4) of this section, each city with a population of 25,000 or more and each county or city within a metropolitan service district shall allow the development of:
+
+      (a) All middle housing types in areas zoned for residential use that allow for the development of detached single-family dwellings; and
+
+      (b) A duplex on each lot or parcel zoned for residential use that allows for the development of detached single-family dwellings.
+
+      (3) Except as provided in subsection (4) of this section, each city not within a metropolitan service district with a population of more than 10,000 and less than 25,000 shall allow the development of a duplex on each lot or parcel zoned for residential use that allows for the development of detached single-family dwellings. Nothing in this subsection prohibits a local government from allowing middle housing types in addition to duplexes.
+
+      (4) This section does not apply to:
+
+      (a) Cities with a population of 1,000 or fewer;
+
+      (b) Lands not within an urban growth boundary;
+
+      (c) Lands that are not incorporated and also lack sufficient urban services, as defined in ORS 195.065;
+
+      (d) Lands that are not zoned for residential use, including lands zoned primarily for commercial, industrial, agricultural or public uses; or
+
+      (e) Lands that are not incorporated and are zoned under an interim zoning designation that maintains the land’s potential for planned urban development.
+
+      (5) Local governments may regulate siting and design of middle housing required to be permitted under this section, provided that the regulations do not, individually or cumulatively, discourage the development of all middle housing types permitted in the area through unreasonable costs or delay. Local governments may regulate middle housing to comply with protective measures adopted pursuant to statewide land use planning goals.
+
+      (6) This section does not prohibit local governments from permitting:
+
+      (a) Single-family dwellings in areas zoned to allow for single-family dwellings; or
+
+      (b) Middle housing in areas not required under this section. [2019 c.639 §2]
+
+ 
+
+      Note: Sections 3 and 4, chapter 639, Oregon Laws 2019, provide:
+
+      Sec. 3. (1) Notwithstanding ORS 197.646, a local government shall adopt land use regulations or amend its comprehensive plan to implement section 2 of this 2019 Act [197.758] no later than:
+
+      (a) June 30, 2021, for each city subject to section 2 (3) of this 2019 Act; or
+
+      (b) June 30, 2022, for each local government subject to section 2 (2) of this 2019 Act.
+
+      (2) The Land Conservation and Development Commission, with the assistance of the Building Codes Division of the Department of Consumer and Business Services, shall develop a model middle housing ordinance no later than December 31, 2020.
+
+      (3) A local government that has not acted within the time provided under subsection (1) of this section shall directly apply the model ordinance developed by the commission under subsection (2) of this section under ORS 197.646 (3) until the local government acts as described in subsection (1) of this section.
+
+      (4) In adopting regulations or amending a comprehensive plan under this section, a local government shall consider ways to increase the affordability of middle housing by considering ordinances and policies that include but are not limited to:
+
+      (a) Waiving or deferring system development charges;
+
+      (b) Adopting or amending criteria for property tax exemptions under ORS 307.515 to 307.523, 307.540 to 307.548 or 307.651 to 307.687 or property tax freezes under ORS 308.450 to 308.481; and
+
+      (c) Assessing a construction tax under ORS 320.192 and 320.195.
+
+      (5) When a local government makes a legislative decision to amend its comprehensive plan or land use regulations to allow middle housing in areas zoned for residential use that allow for detached single-family dwellings, the local government is not required to consider whether the amendments significantly affect an existing or planned transportation facility. [2019 c.639 §3]
+
+      Sec. 4. (1) Notwithstanding section 3 (1) or (3) of this 2019 Act, the Department of Land Conservation and Development may grant to a local government that is subject to section 2 of this 2019 Act [197.758] an extension of the time allowed to adopt land use regulations or amend its comprehensive plan under section 3 of this 2019 Act.
+
+      (2) An extension under this section may be applied only to specific areas where the local government has identified water, sewer, storm drainage or transportation services that are either significantly deficient or are expected to be significantly deficient before December 31, 2023, and for which the local government has established a plan of actions that will remedy the deficiency in those services that is approved by the department. The extension may not extend beyond the date that the local government intends to correct the deficiency under the plan.
+
+      (3) In areas where the extension under this section does not apply, the local government shall apply its own land use regulations consistent with section 3 (1) of this 2019 Act or the model ordinance developed under section 3 (2) of this 2019 Act.
+
+      (4) A request for an extension by a local government must be filed with the department no later than:
+
+      (a) December 31, 2020, for a city subject to section 2 (3) of this 2019 Act.
+
+      (b) June 30, 2021, for a local government subject to section 2 (2) of this 2019 Act.
+
+      (5) The department shall grant or deny a request for an extension under this section:
+
+      (a) Within 90 days of receipt of a complete request from a city subject to section 2 (3) of this 2019 Act.
+
+      (b) Within 120 days of receipt of a complete request from a local government subject to section 2 (2) of this 2019 Act.
+
+      (6) The department shall adopt rules regarding the form and substance of a local government’s application for an extension under this section. The department may include rules regarding:
+
+      (a) Defining the affected areas;
+
+      (b) Calculating deficiencies of water, sewer, storm drainage or transportation services;
+
+      (c) Service deficiency levels required to qualify for the extension;
+
+      (d) The components and timing of a remediation plan necessary to qualify for an extension;
+
+      (e) Standards for evaluating applications; and
+
+      (f) Establishing deadlines and components for the approval of a plan of action. [2019 c.639 §4]
+
+ 
+
       197.760 [1973 c.482 §9a; repealed by 1977 c.665 §24]
+
+ 
+
+      197.761 Development of residential platted lot. Within the urban growth boundary of a city with a population greater than 25,000, local governments shall allow, subject to reasonable local regulations relating to siting and design, the development of at least one dwelling unit on each platted lot that is zoned to allow for single-family dwellings, unless the local government determines that:
+
+      (1) The lot cannot be adequately served by water, sewer, storm water drainage or streets, or will not be adequately served at the time that development on the lot is complete;
+
+      (2) The lot contains a slope of 25 percent or greater;
+
+      (3) The lot is within a 100-year floodplain; or
+
+      (4) Development of the lot is constrained by land use regulations based on statewide land use planning goals relating to:
+
+      (a) Natural disasters and hazards; or
+
+      (b) Natural resources, including air, water, land, natural areas or open spaces, but not including historic resources. [2019 c.623 §2]
+
+ 
+
+      Note: Sections 3 and 4, chapter 623, Oregon Laws 2019, provide:
+
+      Sec. 3. A local government is not required to consider whether the amendments significantly affect an existing or planned transportation facility when amending the local government’s comprehensive plan or land use regulations to comply with section 2 of this 2019 Act [197.761]. [2019 c.623 §3]
+
+      Sec. 4. Section 2 of this 2019 Act [197.761] applies to applications for the development of a dwelling unit filed on or after March 1, 2020. [2019 c.623 §4]
 
  
 
@@ -5297,6 +5703,12 @@ MISCELLANEOUS
 
       197.767 [1987 c.729 §4; repealed by 1989 c.837 §34]
 
+ 
+
+MISCELLANEOUS
+
+ 
+
       197.768 Local government or special district adoption of public facilities strategy; public hearing; written findings. (1) As used in this section, “special district” has the meaning given that term in ORS 197.505.
 
       (2)(a) A local government or special district may adopt a public facilities strategy if the public facilities strategy:
@@ -5363,9 +5775,35 @@ MISCELLANEOUS
 
       197.775 [1973 c.482 §11; repealed by 1977 c.665 §24]
 
+ 
+
+      197.779 Development of housing on public property. (1) As used in this section, “public property” means all real property of the state, counties, cities, incorporated towns or villages, school districts, irrigation districts, drainage districts, ports, water districts, service districts, metropolitan service districts, housing authorities, public universities listed in ORS 352.002 or all other public or municipal corporations in this state.
+
+      (2) Notwithstanding any land use regulation, comprehensive plan, or statewide land use planning goal, a local government may allow the development of housing on public property provided:
+
+      (a) The real property is not inventoried as a park or open space as a protective measure pursuant to a statewide land use planning goal;
+
+      (b) The real property is located within the urban growth boundary;
+
+      (c) The real property is zoned for residential development or adjacent to parcels zoned for residential development;
+
+      (d) The housing complies with applicable land use regulations and meets the standards and criteria for residential development for the underlying zone of the land or the adjacent residential land described in paragraph (c) of this subsection;
+
+      (e) At least 50 percent of the residential units provided under this section is affordable to households with incomes equal to or less than 60 percent of the area median income, as defined in ORS 456.270; and
+
+      (f) The affordability of the residential units described in paragraph (e) of this subsection is subject to an affordable housing covenant, as described in ORS 456.270 to 456.295, held by the local government or the Housing and Community Services Department and with a duration of no less than 60 years.
+
+      (3) Notwithstanding any statewide land use planning goal, a local government may amend its comprehensive plan and land use regulations to allow public property to be used for the purposes described in subsection (2) of this section. [2019 c.640 §15]
+
+ 
+
       197.780 [1973 c.482 §12; repealed by 1977 c.665 §24]
 
+ 
+
       197.785 [1973 c.482 §13; repealed by 1977 c.665 §24]
+
+ 
 
       197.790 [1973 c.482 §14; repealed by 1977 c.665 §24]
 
@@ -5477,6 +5915,8 @@ LAND USE BOARD OF APPEALS
 
       (b) To enforce orders of the board in appropriate proceedings brought by the board or a party to the board proceeding resulting in the order. [1983 c.827 §30; 1987 c.729 §14; 1987 c.856 §9; 1987 c.919 §4; 1989 c.761 §11; 1991 c.817 §4; 1995 c.595 §26; 1999 c.348 §16; 2005 c.22 §146; 2005 c.245 §1; 2005 c.829 §10; 2007 c.354 §30]
 
+ 
+
       197.828 Board review of limited land use decision. (1) The Land Use Board of Appeals shall either reverse, remand or affirm a limited land use decision on review.
 
       (2) The board shall reverse or remand a limited land use decision if:
@@ -5559,7 +5999,7 @@ LAND USE BOARD OF APPEALS
 
       (9) A notice of intent to appeal a land use decision or limited land use decision shall be filed not later than 21 days after the date the decision sought to be reviewed becomes final. A notice of intent to appeal plan and land use regulation amendments processed pursuant to ORS 197.610 to 197.625 shall be filed not later than 21 days after notice of the decision sought to be reviewed is mailed or otherwise submitted to parties entitled to notice under ORS 197.615. Failure to include a statement identifying when, how and to whom notice was provided under ORS 197.615 does not render the notice defective. Copies of the notice of intent to appeal shall be served upon the local government, special district or state agency and the applicant of record, if any, in the local government, special district or state agency proceeding. The notice shall be served and filed in the form and manner prescribed by rule of the board and shall be accompanied by a filing fee of $200 and a deposit for costs to be established by the board. If a petition for review is not filed with the board as required in subsections (10) and (11) of this section, the filing fee and deposit shall be awarded to the local government, special district or state agency as cost of preparation of the record.
 
-      (10)(a) Within 21 days after service of the notice of intent to appeal, the local government, special district or state agency shall transmit to the board the original or a certified copy of the entire record of the proceeding under review. By stipulation of all parties to the review proceeding the record may be shortened. The board may require or permit subsequent corrections to the record; however, the board shall issue an order on a motion objecting to the record within 60 days of receiving the motion.
+      (10)(a) Within 21 days after service of the notice of intent to appeal, the local government, special district or state agency shall transmit to the board the original or a certified copy of the entire record of the proceeding under review. By stipulation of all parties to the review proceeding the record may be shortened. The board may require or permit subsequent corrections to the record; however, the board shall issue an order on a motion objecting to the record within 60 days of receiving the motion. If the board denies a petitioner’s objection to the record, the board may establish a new deadline for the petition for review to be filed that may not be less than 14 days from the later of the original deadline for the brief or the date of denial of the petitioner’s record objection.
 
       (b) Within 10 days after service of a notice of intent to appeal, the board shall provide notice to the petitioner and the respondent of their option to enter into mediation pursuant to ORS 197.860. Any person moving to intervene shall be provided such notice within seven days after a motion to intervene is filed. The notice required by this paragraph shall be accompanied by a statement that mediation information or assistance may be obtained from the Department of Land Conservation and Development.
 
@@ -5575,13 +6015,17 @@ LAND USE BOARD OF APPEALS
 
       (13)(a) The board shall adopt rules establishing deadlines for filing petitions and briefs and for oral argument.
 
-      (b) At any time subsequent to the filing of a notice of intent and prior to the date set for filing the record, or, on appeal of a decision under ORS 197.610 to 197.625, prior to the filing of the respondent’s brief, the local government or state agency may withdraw its decision for purposes of reconsideration. If a local government or state agency withdraws an order for purposes of reconsideration, it shall, within such time as the board may allow, affirm, modify or reverse its decision. If the petitioner is dissatisfied with the local government or agency action after withdrawal for purposes of reconsideration, the petitioner may refile the notice of intent and the review shall proceed upon the revised order. An amended notice of intent shall not be required if the local government or state agency, on reconsideration, affirms the order or modifies the order with only minor changes.
+      (b) At any time subsequent to the filing of a notice of intent and prior to the date set for filing the record, or, on appeal of a decision under ORS 197.610 to 197.625, prior to the filing of the respondent’s brief, the local government or state agency may withdraw its decision for purposes of reconsideration. If a local government or state agency withdraws an order for purposes of reconsideration, it shall, within such time as the board may allow, affirm, modify or reverse its decision. If the petitioner is dissatisfied with the local government or agency action after withdrawal for purposes of reconsideration, the petitioner may refile the notice of intent and the review shall proceed upon the revised order. An amended notice of intent is not required if the local government or state agency, on reconsideration, affirms the order or modifies the order with only minor changes.
 
       (14) The board shall issue a final order within 77 days after the date of transmittal of the record. If the order is not issued within 77 days the applicant may apply in Marion County or the circuit court of the county where the application was filed for a writ of mandamus to compel the board to issue a final order.
 
-      (15)(a) Upon entry of its final order the board may, in its discretion, award costs to the prevailing party including the cost of preparation of the record if the prevailing party is the local government, special district or state agency whose decision is under review. The board shall apply the deposit required by subsection (9) of this section to any costs charged against the petitioner.
+      (15) Upon entry of its final order, the board:
 
-      (b) The board shall also award reasonable attorney fees and expenses to the prevailing party against any other party who the board finds presented a position without probable cause to believe the position was well-founded in law or on factually supported information.
+      (a) May, in its discretion, award costs to the prevailing party including the cost of preparation of the record if the prevailing party is the local government, special district or state agency whose decision is under review. The board shall apply the deposit required by subsection (9) of this section to any costs charged against the petitioner.
+
+      (b) Shall award reasonable attorney fees and expenses to the prevailing party against any other party who the board finds presented a position or filed any motion without probable cause to believe the position or motion was well-founded in law or on factually supported information.
+
+      (c) Upon affirming a quasi-judicial land use decision approving an application that is only for the development of publicly supported housing, as defined in ORS 456.250, shall award reasonable attorney fees and expenses to a prevailing respondent that is the applicant or local government.
 
       (16) Orders issued under this section may be enforced in appropriate judicial proceedings.
 
@@ -5599,7 +6043,7 @@ LAND USE BOARD OF APPEALS
 
       (c) A list of respondents, the number of reviews involving each respondent and the rate at which reviews involving the respondent have resulted in decisions of the board to uphold, reverse or remand the land use decision or limited land use decision. Additionally, when a respondent is the local government that made the land use decision or limited land use decision, the board shall track whether the local government appears before the board.
 
-      (d) A list of reviews, and a brief summary of the circumstances in each review, under which the board exercises its discretion to require a losing party to pay the attorney fees of the prevailing party. [1983 c.827 §31; 1985 c.119 §3; 1987 c.278 §1; 1987 c.729 §16; 1989 c.761 §12; 1991 c.817 §7; 1993 c.143 §1; 1993 c.310 §1; 1995 c.160 §1; 1995 c.595 §3; 1997 c.187 §1; 1997 c.452 §1; 1999 c.255 §2; 1999 c.348 §17; 1999 c.621 §3; 2003 c.791 §28; 2003 c.793 §6; 2009 c.885 §38; 2011 c.280 §9; 2011 c.483 §1; 2013 c.513 §1]
+      (d) A list of reviews, and a brief summary of the circumstances in each review, under which the board exercises its discretion to require a losing party to pay the attorney fees of the prevailing party. [1983 c.827 §31; 1985 c.119 §3; 1987 c.278 §1; 1987 c.729 §16; 1989 c.761 §12; 1991 c.817 §7; 1993 c.143 §1; 1993 c.310 §1; 1995 c.160 §1; 1995 c.595 §3; 1997 c.187 §1; 1997 c.452 §1; 1999 c.255 §2; 1999 c.348 §17; 1999 c.621 §3; 2003 c.791 §28; 2003 c.793 §6; 2009 c.885 §38; 2011 c.280 §9; 2011 c.483 §1; 2013 c.513 §1; 2019 c.221 §1; 2019 c.447 §1]
 
  
 
@@ -5733,7 +6177,7 @@ LAND USE BOARD OF APPEALS
 
       (7)(a) The court shall hear oral argument within 49 days of the date of transmittal of the record.
 
-      (b) The court may hear oral argument more than 49 days from the date of transmittal of the record provided the court determines that the ends of justice served by holding oral argument on a later day outweigh the best interests of the public and the parties. The court shall not hold oral argument more than 49 days from the date of transmittal of the record because of general congestion of the court calendar or lack of diligent preparation or attention to the case by any member of the court or any party.
+      (b) The court may hear oral argument more than 49 days from the date of transmittal of the record provided the court determines that the ends of justice served by holding oral argument on a later day outweigh the best interests of the public and the parties. The court may not hold oral argument more than 49 days from the date of transmittal of the record because of general congestion of the court calendar or lack of diligent preparation or attention to the case by any member of the court or any party.
 
       (c) The court shall set forth in writing a determination to hear oral argument more than 49 days from the date the record is transmitted, together with the reasons for its determination, and shall provide a copy to the parties. The court shall schedule oral argument as soon as practicable thereafter.
 
@@ -5743,7 +6187,7 @@ LAND USE BOARD OF APPEALS
 
       (B) Whether the failure to hold oral argument at a later date likely would result in a miscarriage of justice.
 
-      (8) Judicial review of an order issued under ORS 197.830 to 197.845 shall be confined to the record. The court shall not substitute its judgment for that of the board as to any issue of fact.
+      (8) Judicial review of an order issued under ORS 197.830 to 197.845 must be confined to the record. The court may not substitute its judgment for that of the board as to any issue of fact.
 
       (9) The court may affirm, reverse or remand the order. The court shall reverse or remand the order only if it finds:
 
@@ -5761,11 +6205,15 @@ LAND USE BOARD OF APPEALS
 
       (a) The party appealed a decision of the board to the Court of Appeals; and
 
-      (b) In making the decision being appealed to the Court of Appeals, the board awarded attorney fees and expenses against that party under ORS 197.830 (15)(b).
+      (b) In making the decision being appealed to the Court of Appeals, the board awarded attorney fees and expenses against that party under ORS 197.830 (15)(b) or (c).
 
-      (13) Upon entry of its final order, the court shall award attorney fees and expenses to a party who prevails on a claim that an approval condition imposed by a local government on an application for a permit pursuant to ORS 215.416 or 227.175 is unconstitutional under section 18, Article I, Oregon Constitution, or the Fifth Amendment to the United States Constitution.
+      (13) Upon entry of its final order, the court shall award attorney fees and expenses to a party who:
 
-      (14) The undertaking required in subsection (12) of this section must be filed with the board and served on the opposing parties within 10 days after the date the petition was filed with the Court of Appeals. [1983 c.827 §35; 1989 c.515 §1; 1989 c.761 §26; 1995 c.595 §19; 1997 c.733 §1; 1999 c.575 §1; 1999 c.621 §10; 2009 c.25 §1]
+      (a) Prevails on a claim that an approval condition imposed by a local government on an application for a permit pursuant to ORS 215.416 or 227.175 is unconstitutional under section 18, Article I, Oregon Constitution, or the Fifth Amendment to the United States Constitution; or
+
+      (b) Is entitled to attorney fees under ORS 197.830 (15)(c).
+
+      (14) The undertaking required in subsection (12) of this section must be filed with the board and served on the opposing parties within 10 days after the date the petition was filed with the Court of Appeals. [1983 c.827 §35; 1989 c.515 §1; 1989 c.761 §26; 1995 c.595 §19; 1997 c.733 §1; 1999 c.575 §1; 1999 c.621 §10; 2009 c.25 §1; 2019 c.221 §2]
 
  
 
@@ -5787,8 +6235,8 @@ LAND USE BOARD OF APPEALS
 
  
 
-      197.860 Stay of proceedings to allow mediation.
+      197.860 Stay of proceedings to allow mediation. All parties to an appeal may at any time prior to a final decision by the Court of Appeals under ORS 197.855 stipulate that the appeal proceeding be stayed for any period of time agreeable to the parties and the board or court to allow the parties to enter mediation. Following mediation, the board or the court may, at the request of the parties, dismiss the appeal or remand the decision to the board or the local government with specific instructions for entry of a final decision on remand. If the parties fail to agree to a stipulation for remand or dismissal through mediation within the time the appeal is stayed, the appeal shall proceed with such reasonable extension of appeal deadlines as the board or Court of Appeals considers appropriate. [1989 c.761 §14]
 
-All parties to an appeal may at any time prior to a final decision by the Court of Appeals under ORS 197.855 stipulate that the appeal proceeding be stayed for any period of time agreeable to the parties and the board or court to allow the parties to enter mediation. Following mediation, the board or the court may, at the request of the parties, dismiss the appeal or remand the decision to the board or the local government with specific instructions for entry of a final decision on remand. If the parties fail to agree to a stipulation for remand or dismissal through mediation within the time the appeal is stayed, the appeal shall proceed with such reasonable extension of appeal deadlines as the board or Court of Appeals considers appropriate. [1989 c.761 §14]_______________
+_______________
 
  

@@ -7,6 +7,8 @@ Chapter 133 — Arrest and Related Procedures; Search and Seizure; Extradition
 
  
 
+ 
+
 ARREST AND RELATED PROCEDURES
 
  
@@ -163,7 +165,11 @@ ARREST
 
  
 
-133.400     Recording of custodial interviews
+133.400     Recording of custodial interviews of adults
+
+ 
+
+133.402     Recording of custodial interviews of juveniles
 
  
 
@@ -1025,8 +1031,6 @@ WARRANT OF ARREST
 
 ARREST
 
- 
-
       133.220 Who may make arrest. An arrest may be effected by:
 
       (1) A peace officer under a warrant;
@@ -1247,11 +1251,7 @@ ARREST
 
  
 
-      133.400 Recording of custodial interviews. (1) A custodial interview conducted by a peace officer in a law enforcement facility shall be electronically recorded if the interview is conducted:
-
-      (a) In connection with an investigation into aggravated murder as defined in ORS 163.095 or a crime listed in ORS 137.700 or 137.707; or
-
-      (b) With a person under 18 years of age in connection with an investigation into a felony, or an allegation that the person being interviewed committed an act that, if committed by an adult, would constitute a felony.
+      133.400 Recording of custodial interviews of adults. (1) A custodial interview conducted by a peace officer in a law enforcement facility shall be electronically recorded if the interview is conducted in connection with an investigation into aggravated murder as defined in ORS 163.095 or a crime listed in ORS 137.700 or 137.707.
 
       (2) Subsection (1) of this section does not apply to:
 
@@ -1273,19 +1273,83 @@ ARREST
 
       (i) A custodial interview for which the state demonstrates good cause for the failure to electronically record the interview.
 
-      (3)(a) If the state offers an unrecorded statement made under the circumstances described in subsection (1)(a) of this section in a criminal proceeding alleging the commission of aggravated murder or a crime listed in ORS 137.700 or 137.707, or under the circumstances described in subsection (1)(b) of this section in a criminal proceeding alleging the commission of a felony, and the state is unable to demonstrate, by a preponderance of the evidence, that an exception described in subsection (2) of this section applies, upon the request of the defendant, the court shall instruct the jury regarding the legal requirement described in subsection (1) of this section and the superior reliability of electronic recordings when compared with testimony about what was said and done.
+      (3)(a) If the state offers an unrecorded statement made under the circumstances described in subsection (1) of this section in a criminal proceeding alleging the commission of aggravated murder or a crime listed in ORS 137.700 or 137.707 and the state is unable to demonstrate, by a preponderance of the evidence, that an exception described in subsection (2) of this section applies, upon the request of the defendant, the court shall instruct the jury regarding the legal requirement described in subsection (1) of this section and the superior reliability of electronic recordings when compared with testimony about what was said and done.
 
       (b) The court may not exclude the defendant’s statement or dismiss criminal charges as a result of a violation of this section.
 
       (c) If each of the statements made by the defendant that the state offers into evidence is recorded, the court may not give a cautionary jury instruction regarding the content of the defendant’s statements.
 
-      (4) If the state offers an unrecorded statement made under the circumstances described in subsection (1)(b) of this section in a juvenile delinquency proceeding alleging the commission of an act that, if committed by an adult, would constitute a felony, and the state is unable to demonstrate, by a preponderance of the evidence, that an exception described in subsection (2) of this section applies, the court shall consider the superior reliability of electronic recordings when compared with testimony about what was said and done when determining the evidentiary value of the statement.
+      (4) A law enforcement agency that creates an electronic recording of a custodial interview shall preserve the recording until the defendant’s conviction for the offense is final and all direct, post-conviction relief and habeas corpus appeals are exhausted, or until the prosecution of the offense is barred by law.
+
+      (5) The state shall provide an electronic copy of a defendant’s custodial interview to a defendant in accordance with ORS 135.805 to 135.873. Providing an electronic copy of the custodial interview to the defendant constitutes compliance with ORS 135.815 (1)(b), and the state is not required to provide the defendant with a transcript of the contents of the interview. Unless the court orders otherwise, the defendant’s attorney may not copy, disseminate or republish the electronic copy of the custodial interview, except to provide a copy to an agent of the defendant’s attorney for the limited purpose of case preparation.
+
+      (6) An electronic recording of a custodial interview, and any transcription of the recording, that is certified as containing a complete recording, or a complete transcription, of the entirety of the custodial interview, from the advisement of constitutional rights to the conclusion of the custodial interview, is admissible in any pretrial or post-trial hearing for the purpose of establishing the contents of a statement made in the recording and the identity of the person who made the statement, if the statement is otherwise admissible. A certification that complies with this subsection satisfies the requirements of ORS 40.505 and 132.320 for the recording or transcription. This subsection does not prohibit a party from calling a witness to testify regarding the custodial interview.
+
+      (7) As used in this section:
+
+      (a) “Custodial interview” means an interview in which the person questioned is in custody and is required to be advised of the person’s constitutional rights.
+
+      (b) “Good cause” includes, but is not limited to, situations in which:
+
+      (A) The defendant refused, or expressed an unwillingness, to have the custodial interview electronically recorded;
+
+      (B) The failure to electronically record the custodial interview was the result of equipment failure and a replacement device was not immediately available;
+
+      (C) The person operating the recording equipment believed, in good faith, that the equipment was recording the custodial interview;
+
+      (D) Electronically recording the custodial interview would jeopardize the safety of any person or the identity of a confidential informant;
+
+      (E) Exigent circumstances prevented the recording of the custodial interview; or
+
+      (F) The peace officer conducting the custodial interview reasonably believed, at the time the custodial interview began, that the custodial interview was conducted in connection with a crime other than aggravated murder as defined in ORS 163.095 or a crime listed in ORS 137.700 or 137.707.
+
+      (c) “Law enforcement facility” means a courthouse, building or premises that is a place of operation for a municipal police department, county sheriff’s office or other law enforcement agency at which persons may be detained in connection with a juvenile delinquency petition or criminal charge. [2009 c.488 §1; 2017 c.431 §1; 2019 c.216 §1]
+
+ 
+
+      133.402 Recording of custodial interviews of juveniles. (1)(a) A custodial interview inside a law enforcement facility that is conducted by a peace officer, a school resource officer or a special campus security officer shall be electronically recorded if the custodial interview is conducted with a person under 18 years of age in connection with an investigation into a misdemeanor or a felony, or an allegation that the person being interviewed committed an act that, if committed by an adult, would constitute a misdemeanor or a felony.
+
+      (b) A custodial interview anywhere outside of a law enforcement facility that is conducted by a peace officer, a school resource officer or a special campus security officer shall be electronically recorded if:
+
+      (A) The custodial interview is conducted with a person under 18 years of age in connection with an investigation into a misdemeanor or a felony, or an allegation that the person being interviewed committed an act that, if committed by an adult, would constitute a misdemeanor or a felony; and
+
+      (B) A video camera is worn upon the officer’s person.
+
+      (2) Subsection (1) of this section does not apply to:
+
+      (a) A statement made before a grand jury;
+
+      (b) A statement made on the record in open court;
+
+      (c) A custodial interview conducted in another state in compliance with the laws of that state;
+
+      (d) A custodial interview conducted by a federal law enforcement officer in compliance with the laws of the United States;
+
+      (e) A statement that was spontaneously volunteered and did not result from a custodial interview;
+
+      (f) A statement made during custody processing in response to a routine question;
+
+      (g) A law enforcement agency that employs five or fewer peace officers;
+
+      (h) A custodial interview conducted in connection with an investigation carried out by a youth corrections officer or a staff member of the Oregon State Hospital in the performance of the officer’s or staff member’s official duties of treatment, custody, control or supervision of individuals committed to or confined in a place of incarceration or detention;
+
+      (i) A custodial interview for which the state demonstrates good cause for the failure to electronically record the custodial interview; or
+
+      (j) A custodial interview if the defendant’s or youth’s age was unknown to the officer or would not have been objectively apparent to a reasonable officer.
+
+      (3)(a) If the state offers an unrecorded statement made under the circumstances described in subsection (1) of this section in a criminal proceeding alleging the commission of a misdemeanor or a felony, or an allegation that a person being interviewed committed an act that, if committed by an adult, would constitute a misdemeanor or a felony, and the state is unable to demonstrate, by a preponderance of the evidence, that an exception described in subsection (2) of this section applies, upon the request of the defendant, the court shall instruct the jury regarding the legal requirement described in subsection (1) of this section and the superior reliability of electronic recordings when compared with testimony about what was said and done.
+
+      (b) The court may not exclude the defendant’s statement or dismiss criminal charges as a result of a violation of this section.
+
+      (c) If each of the statements made by the defendant that the state offers into evidence is recorded, the court may not give a cautionary jury instruction regarding the content of the defendant’s statements.
+
+      (4) If the state offers an unrecorded statement made under the circumstances described in subsection (1) of this section in a juvenile delinquency proceeding alleging the commission of an act that, if committed by an adult would constitute a misdemeanor or a felony, and the state is unable to demonstrate, by a preponderance of the evidence, that an exception described in subsection (2) of this section applies, the court shall consider the superior reliability of electronic recordings when compared with testimony about what was said and done when determining the evidentiary value of the statement.
 
       (5) A law enforcement agency that creates an electronic recording of a custodial interview shall preserve the recording until the defendant’s conviction or youth’s adjudication for the offense is final and all direct, post-conviction relief and habeas corpus appeals are exhausted, or until the prosecution of the offense is barred by law.
 
-      (6) The state shall provide an electronic copy of a defendant’s or youth’s custodial interview to a defendant or youth in accordance with ORS 135.805 to 135.873. Providing an electronic copy of the custodial interview to the defendant or youth constitutes compliance with ORS 135.815 (1)(b), and the state is not required to provide the defendant or youth with a transcript of the contents of the interview. Unless the court orders otherwise, the defendant’s or youth’s attorney may not copy, disseminate or republish the electronic copy of the custodial interview, except to provide a copy to an agent of the defendant’s or youth’s attorney for the limited purpose of case preparation.
+      (6) The state shall provide an electronic copy of a defendant’s or youth’s custodial interview to a defendant or youth in accordance with ORS 135.805 to 135.873. Providing an electronic copy of the custodial interview to the defendant or youth constitutes compliance with ORS 135.815 (1)(b), and the state is not required to provide the defendant or youth with a transcript of the contents of the custodial interview. Unless the court orders otherwise, the defendant’s or youth’s attorney may not copy, disseminate or republish the electronic copy of the custodial interview, except to provide a copy to an agent of the defendant’s or youth’s attorney for the limited purpose of case preparation.
 
-      (7) An electronic recording of a custodial interview, and any transcription of the recording, that is certified as containing a complete recording, or a complete transcription, of the entirety of the custodial interview, from the advisement of constitutional rights to the conclusion of the custodial interview, is admissible in any pretrial or post-trial hearing for the purpose of establishing the contents of a statement made in the recording and the identity of the person who made the statement, if the statement is otherwise admissible. A certification that complies with this subsection satisfies the requirements of ORS 40.505 and 132.320 for the recording or transcription. This subsection does not prohibit a party from calling a witness to testify regarding the custodial interview.
+      (7) An electronic recording of a custodial interview, and any transcription of the recording, that is certified as containing a complete recording, or a complete transcription, of the entirety of the custodial interview, from the advisement of constitutional rights to the conclusion of the custodial interview, is admissible in any preadjudication or post-adjudication hearing for the purpose of establishing the contents of a statement made in the recording and the identity of the person who made the statement, if the statement is otherwise admissible. A certification that complies with this subsection satisfies the requirements of ORS 40.505 and 132.320 for the recording or transcription. This subsection does not prohibit a party from calling a witness to testify regarding the custodial interview.
 
       (8) As used in this section:
 
@@ -1303,15 +1367,19 @@ ARREST
 
       (E) Exigent circumstances prevented the recording of the custodial interview; or
 
-      (F) The peace officer conducting the custodial interview reasonably believed, at the time the custodial interview began, that the custodial interview:
-
-      (i) Was conducted in connection with a crime other than aggravated murder as defined in ORS 163.095 or a crime listed in ORS 137.700 or 137.707; or
-
-      (ii) Was conducted in connection with a crime other than a felony, or an allegation that the person being interviewed committed an act that, if committed by an adult, would constitute a felony, if the person is under 18 years of age.
+      (F) The person conducting the custodial interview did not possess a wearable video camera to electronically record the custodial interview outside of a law enforcement facility.
 
       (c) “Law enforcement facility” means a courthouse, building or premises that is a place of operation for a municipal police department, county sheriff’s office or other law enforcement agency at which persons may be detained in connection with a juvenile delinquency petition or criminal charge.
 
-      (d) “Youth” means a person under 18 years of age who is suspected or alleged to have committed an act that, if committed by an adult, would constitute a felony. [2009 c.488 §1; 2017 c.431 §1]
+      (d) “Peace officer” has the meaning given that term in ORS 133.005.
+
+      (e) “School resource officer” means a peace officer who is assigned to a school.
+
+      (f) “Special campus security officer” means a special campus security officer described in ORS 352.118. [2019 c.216 §2]
+
+ 
+
+      Note: 133.402 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 133 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1585,7 +1653,9 @@ SEARCH AND SEIZURE
 
  
 
-(Search and Seizure Pursuant to Warrant)
+(Search and Seizure
+
+Pursuant to Warrant)
 
  
 
@@ -1627,13 +1697,13 @@ SEARCH AND SEIZURE
 
       (7) Instead of the written affidavit described in subsection (6) of this section, the judge may take an oral statement under oath. The oral statement shall be recorded and a copy of the recording submitted to the judge who took the oral statement. In such cases, the judge shall certify that the recording of the sworn oral statement is a true recording of the oral statement under oath and shall retain the recording as part of the record of proceedings for the issuance of the warrant. The recording shall constitute an affidavit for the purposes of this section. The applicant shall retain a copy of the recording and shall provide a copy of the recording to the district attorney if the district attorney is not the applicant.
 
-      (8)(a) In addition to the procedure set out in subsection (7) of this section, the proposed warrant and the affidavit may be sent to the court by facsimile transmission or any similar electronic transmission that delivers a complete printable image of the signed affidavit and proposed warrant. The affidavit may have a notarized acknowledgment, or the affiant may swear to the affidavit by telephone. A judge administering an oath telephonically under this subsection must execute a declaration that recites the manner and time of the oath’s administration. The declaration must be filed with the return.
+      (8)(a) In addition to the procedure set out in subsection (7) of this section, the proposed warrant and the affidavit may be sent to the court by facsimile transmission or any similar electronic transmission that delivers a complete printable image of the signed affidavit and proposed warrant. The affidavit may have a notarized acknowledgment, or the affiant may swear to the affidavit by telephone. If the affiant swears to the affidavit by telephone, the affidavit may be signed electronically. A judge administering an oath telephonically under this subsection must execute a declaration that recites the manner and time of the oath’s administration. The declaration must be filed with the return.
 
       (b) When a court issues a warrant upon an application made under paragraph (a) of this subsection:
 
       (A) The court may transmit the signed warrant to the person making application under subsection (5) of this section by means of facsimile transmission or similar electronic transmission, as described in paragraph (a) of this subsection. The court shall file the original signed warrant and a printed image of the application with the return.
 
-      (B) The person making application shall deliver the original signed affidavit to the court with the return. If the affiant swore to the affidavit by telephone, the affiant must so note next to the affiant’s signature on the affidavit. [1973 c.836 §83; 1985 c.344 §1; 1989 c.983 §3; 1995 c.658 §73; 1999 c.56 §1; 2007 c.547 §1; 2009 c.334 §1; 2013 c.155 §11; 2013 c.225 §1; 2015 c.415 §1]
+      (B) The person making application shall deliver the original signed affidavit to the court with the return. If the affiant swore to the affidavit by telephone, the affiant must so note next to the affiant’s signature on the affidavit. [1973 c.836 §83; 1985 c.344 §1; 1989 c.983 §3; 1995 c.658 §73; 1999 c.56 §1; 2007 c.547 §1; 2009 c.334 §1; 2013 c.155 §11; 2013 c.225 §1; 2015 c.415 §1; 2019 c.399 §7]
 
  
 
@@ -1941,19 +2011,21 @@ SEARCH AND SEIZURE
 
       (a) Aggravated murder under ORS 163.095;
 
-      (b) Murder under ORS 163.115;
+      (b) Murder in the first degree under ORS 163.107;
 
-      (c) Manslaughter in the first degree under ORS 163.118;
+      (c) Murder in the second degree under ORS 163.115;
 
-      (d) Manslaughter in the second degree under ORS 163.125;
+      (d) Manslaughter in the first degree under ORS 163.118;
 
-      (e) Aggravated vehicular homicide under ORS 163.149;
+      (e) Manslaughter in the second degree under ORS 163.125;
 
-      (f) Rape in the first degree under ORS 163.375;
+      (f) Aggravated vehicular homicide under ORS 163.149;
 
-      (g) Sodomy in the first degree under ORS 163.405; or
+      (g) Rape in the first degree under ORS 163.375;
 
-      (h) Unlawful sexual penetration in the first degree under ORS 163.411.
+      (h) Sodomy in the first degree under ORS 163.405; or
+
+      (i) Unlawful sexual penetration in the first degree under ORS 163.411.
 
       (4) “Custodian” means a law enforcement agency as defined in ORS 131.550, or any other person or public body as defined in ORS 174.109, that is charged with the collection, preservation or retrieval of evidence in connection with a criminal investigation or criminal prosecution. “Custodian” does not include a court.
 
@@ -1965,7 +2037,7 @@ SEARCH AND SEIZURE
 
       (8) “Supervisory authority” has the meaning given that term in ORS 144.087.
 
-      (9) “Victim” has the meaning given that term in ORS 131.007. [2011 c.275 §2]
+      (9) “Victim” has the meaning given that term in ORS 131.007. [2011 c.275 §2; 2019 c.635 §7]
 
  
 
@@ -2393,7 +2465,9 @@ INTERCEPTION OF COMMUNICATIONS
 
  
 
-VIDEO CAMERAS WORN BY LAW ENFORCEMENT OFFICERS
+VIDEO CAMERAS WORN BY
+
+LAW ENFORCEMENT OFFICERS
 
  
 
@@ -2431,7 +2505,9 @@ VIDEO CAMERAS WORN BY LAW ENFORCEMENT OFFICERS
 
  
 
-UNIFORM CRIMINAL EXTRADITION ACT
+UNIFORM CRIMINAL
+
+EXTRADITION ACT
 
  
 
@@ -2529,7 +2605,7 @@ UNIFORM CRIMINAL EXTRADITION ACT
 
  
 
-      133.807 Commitment to await arrest on requisition. If from the initial examination before the judge or magistrate it appears that the person held is the person charged with having committed the crime alleged, the judge or magistrate must commit the person to jail by a warrant reciting the accusation for a period of at least 45 days to enable the arrest of the accused to be made under a warrant of the Governor on a requisition of the executive authority of the state having jurisdiction of the defense, unless the accused is released as provided in ORS 133.809, or until the accused shall be legally discharged. The period of time may be extended upon good cause shown demonstrating the need for additional time to allow the executive authority of the state having jurisdiction of the defense to comply with procedural requirements of the Uniform Criminal Extradition Act, 18 U.S.C. 3182, or section 2, Article IV of the United States Constitution. [Formerly 147.150; 1999 c.553 §1]
+      133.807 Commitment to await arrest on requisition. If from the initial examination before the judge or magistrate it appears that the person held is the person charged with having committed the crime alleged, the judge or magistrate must commit the person to jail by a warrant reciting the accusation for a period of at least 45 days to enable the arrest of the accused to be made under a warrant of the Governor on a requisition of the executive authority of the state having jurisdiction of the offense, unless the accused is released as provided in ORS 133.809, or until the accused shall be legally discharged. The period of time may be extended upon good cause shown demonstrating the need for additional time to allow the executive authority of the state having jurisdiction of the offense to comply with procedural requirements of the Uniform Criminal Extradition Act, 18 U.S.C. 3182, or Article IV, section 2, of the United States Constitution. [Formerly 147.150; 1999 c.553 §1; 2019 c.13 §29]
 
  
 

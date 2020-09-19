@@ -4,20 +4,6 @@ Chapter 317 — Corporation Excise Tax
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0101; 2018 Session Laws 0105
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0101; 2018 Session Laws 0111
-
- 
-
- 
-
 
  
 
@@ -371,6 +357,10 @@ FOREIGN INCOME; DOMESTIC INTERNATIONAL SALES CORPORATIONS; INSURERS
 
  
 
+(Temporary provisions relating to post-1986 deferred foreign income and global intangible low-taxed income are compiled as notes following ORS 317.625)
+
+ 
+
 317.635     Domestic international sales corporation; exemption from minimum tax
 
  
@@ -412,14 +402,6 @@ UNITARY TAX
  
 
 317.715     Tax return of corporation in affiliated group making consolidated federal return
-
- 
-
-317.716     Addition to unitary group income of taxable income or loss of certain corporations incorporated in offshore jurisdictions; rules
-
- 
-
-317.717     Report to Legislative Assembly
 
  
 
@@ -477,7 +459,7 @@ GENERAL PROVISIONS
 
       317.010 Definitions. As used in this chapter, unless the context requires otherwise:
 
-      (1) “Centrally assessed corporation” means every corporation the property of which is assessed by the Department of Revenue under ORS 308.505 to 308.681.
+      (1) “Centrally assessed corporation” means every corporation the property of which is assessed by the Department of Revenue under ORS 308.505 to 308.674.
 
       (2) “Department” means the Department of Revenue.
 
@@ -493,7 +475,7 @@ GENERAL PROVISIONS
 
       (7) “Internal Revenue Code,” except where the Legislative Assembly has provided otherwise, refers to the laws of the United States or to the Internal Revenue Code as they are amended and in effect:
 
-      (a) On December 31, 2016; or
+      (a) On December 31, 2018; or
 
       (b) If related to the definition of taxable income, as applicable to the tax year of the taxpayer.
 
@@ -509,7 +491,7 @@ GENERAL PROVISIONS
 
       (c) To the amount determined as Oregon apportioned income or loss under paragraph (b) of this subsection, add nonapportionable income allocable entirely to Oregon under ORS 314.280 or 314.625 to 314.645, or subtract nonapportionable loss allocable entirely to Oregon under ORS 314.280 or 314.625 to 314.645. The resulting figure is “taxable income or loss” for those corporations carrying on taxable transactions or activities both within and without Oregon.
 
-      (11) As used in ORS 317.122 and 317.650 to 317.665, “ insurer” means any domestic, foreign or alien insurer as defined in ORS 731.082 and any interinsurance and reciprocal exchange and its attorney in fact with respect to its attorney in fact net income as a corporate attorney in fact acting as attorney in compliance with ORS 731.458, 731.462, 731.466 and 731.470 for the reciprocal or interinsurance exchange. However, “insurer” does not include title insurers or health care service contractors operating pursuant to ORS 750.005 to 750.095. [Amended by 1953 c.385 §9; 1959 c.631 §1; 1963 c.571 §1; subsection (18) enacted as 1969 c.600 §2; 1975 c.368 §4; 1977 c.866 §2; 1983 c.162 §3; 1984 c.1 §5; 1985 c.802 §20; 1987 c.293 §31; 1989 c.625 §15; 1991 c.457 §8; 1993 c.726 §38; 1995 c.556 §12; 1995 c.786 §12; 1997 c.154 §49; 1997 c.839 §26; 1999 c.224 §8; 2001 c.660 §46; 2003 c.77 §19; 2005 c.832 §31; 2007 c.614 §14; 2008 c.45 §14; 2009 c.5 §24; 2009 c.403 §2; 2009 c.909 §§26,27; 2010 c.82 §§27,28; 2011 c.7 §24; 2012 c.31 §23; 2013 c.377 §23; 2014 c.52 §25; 2015 c.442 §17; 2016 c.33 §20; 2017 c.43 §9; 2017 c.527 §23]
+      (11) As used in ORS 317.122 and 317.650 to 317.665, “ insurer” means any domestic, foreign or alien insurer as defined in ORS 731.082 and any interinsurance and reciprocal exchange and its attorney in fact with respect to its attorney in fact net income as a corporate attorney in fact acting as attorney in compliance with ORS 731.458, 731.462, 731.466 and 731.470 for the reciprocal or interinsurance exchange. However, “insurer” does not include title insurers or health care service contractors operating pursuant to ORS 750.005 to 750.095. [Amended by 1953 c.385 §9; 1959 c.631 §1; 1963 c.571 §1; subsection (18) enacted as 1969 c.600 §2; 1975 c.368 §4; 1977 c.866 §2; 1983 c.162 §3; 1984 c.1 §5; 1985 c.802 §20; 1987 c.293 §31; 1989 c.625 §15; 1991 c.457 §8; 1993 c.726 §38; 1995 c.556 §12; 1995 c.786 §12; 1997 c.154 §49; 1997 c.839 §26; 1999 c.224 §8; 2001 c.660 §46; 2003 c.77 §19; 2005 c.832 §31; 2007 c.614 §14; 2008 c.45 §14; 2009 c.5 §24; 2009 c.403 §2; 2009 c.909 §§26,27; 2010 c.82 §§27,28; 2011 c.7 §24; 2012 c.31 §23; 2013 c.377 §23; 2014 c.52 §25; 2015 c.442 §17; 2016 c.33 §20; 2017 c.43 §9; 2017 c.527 §23; 2018 c.101 §23; 2019 c.319 §24]
 
  
 
@@ -681,7 +663,7 @@ IMPOSITION OF TAX
 
  
 
-      317.070 Tax on centrally assessed, mercantile, manufacturing and business corporations and financial institutions. Every centrally assessed corporation, the property of which is assessed by the Department of Revenue under ORS 308.505 to 308.681, and every mercantile, manufacturing and business corporation and every financial institution doing business within this state, except as provided in ORS 317.080 and 317.090, shall annually pay to this state, for the privilege of carrying on or doing business by it within this state, an excise tax according to or measured by its Oregon taxable income, to be computed in the manner provided by this chapter, at the rate provided in ORS 317.061. [Amended by 1957 c.607 §3; 1957 c.709 §1; subsection (3) of 1963 Replacement Part derived from 1957 c.607 §11; 1957 c.709 §2 and 1957 s.s. c.5 §1; 1959 c.631 §2; 1963 c.627 §22 (referred and rejected); 1965 c.322 §1; 1965 c.544 §1; 1971 c.247 §1; 1975 c.368 §5; 1977 c.866 §3; 1982 1 c.16 §11; 1983 c.162 §7; 1985 c.565 §55; 1997 c.154 §50; 1999 c.21 §45; 1999 c.60 §1; 2009 c.403 §3]
+      317.070 Tax on centrally assessed, mercantile, manufacturing and business corporations and financial institutions. Every centrally assessed corporation, the property of which is assessed by the Department of Revenue under ORS 308.505 to 308.674, and every mercantile, manufacturing and business corporation and every financial institution doing business within this state, except as provided in ORS 317.080 and 317.090, shall annually pay to this state, for the privilege of carrying on or doing business by it within this state, an excise tax according to or measured by its Oregon taxable income, to be computed in the manner provided by this chapter, at the rate provided in ORS 317.061. [Amended by 1957 c.607 §3; 1957 c.709 §1; subsection (3) of 1963 Replacement Part derived from 1957 c.607 §11; 1957 c.709 §2 and 1957 s.s. c.5 §1; 1959 c.631 §2; 1963 c.627 §22 (referred and rejected); 1965 c.322 §1; 1965 c.544 §1; 1971 c.247 §1; 1975 c.368 §5; 1977 c.866 §3; 1982 1 c.16 §11; 1983 c.162 §7; 1985 c.565 §55; 1997 c.154 §50; 1999 c.21 §45; 1999 c.60 §1; 2009 c.403 §3]
 
  
 
@@ -841,13 +823,13 @@ CREDITS
 
       (d) “Manufactured dwelling park” has the meaning given that term in ORS 446.003.
 
-      (e) “Nonprofit corporation” means a corporation that is exempt from income taxes under section 501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, 2016.
+      (e) “Nonprofit corporation” means a corporation that is exempt from income taxes under section 501(c)(3) or (4) of the Internal Revenue Code as amended and in effect on December 31, 2018.
 
       (f) “Preservation project” means housing that was previously developed as affordable housing with a contract for rent assistance from the United States Department of Housing and Urban Development or the United States Department of Agriculture and that is being acquired by a sponsoring entity.
 
       (g) “Qualified assignee” means any investor participating in the secondary market for real estate loans.
 
-      (h) “Qualified borrower” means any borrower that is a sponsoring entity that has a controlling interest in the real property that is financed by a qualified loan. A controlling interest includes, but is not limited to, a controlling interest in the general partner of a limited partnership that owns the real property.
+      (h) “Qualified borrower” means any borrower that is a sponsoring entity that has a controlling interest in the real property that is financed by a qualified loan. A controlling interest includes a controlling interest in the general partner of a limited partnership that owns the real property.
 
       (i) “Qualified loan” means:
 
@@ -857,11 +839,11 @@ CREDITS
 
       (j) “Sponsoring entity” means a nonprofit corporation, nonprofit cooperative, state governmental entity, local unit of government as defined in ORS 466.706, housing authority or any other person, provided that the person has agreed to restrictive covenants imposed by a nonprofit corporation, nonprofit cooperative, state governmental entity, local unit of government or housing authority.
 
-      (2) The Department of Revenue shall allow a credit against taxes otherwise due under this chapter for the taxable year to a lending institution that makes a qualified loan certified by the Housing and Community Services Department as provided in subsection (7) of this section. The amount of the credit is equal to the difference between:
+      (2) The Department of Revenue shall allow a credit against taxes otherwise due under this chapter for the tax year to a lending institution that makes a qualified loan certified by the Housing and Community Services Department as provided in subsection (7) of this section. The amount of the credit is equal to the difference between:
 
-      (a) The amount of finance charge charged by the lending institution during the taxable year at an annual rate less than the market rate for a qualified loan that is made before January 1, 2026, that complies with the requirements of this section; and
+      (a) The amount of finance charge charged by the lending institution during the tax year at an annual rate less than the market rate for a qualified loan that is made before January 1, 2026, that complies with the requirements of this section; and
 
-      (b) The amount of finance charge that would have been charged during the taxable year by the lending institution for the qualified loan for housing construction, development, acquisition or rehabilitation measured at the annual rate charged by the lending institution for nonsubsidized loans made under like terms and conditions at the time the qualified loan for housing construction, development, acquisition or rehabilitation is made.
+      (b) The amount of finance charge that would have been charged during the tax year by the lending institution for the qualified loan for housing construction, development, acquisition or rehabilitation measured at the annual rate charged by the lending institution for nonsubsidized loans made under like terms and conditions at the time the qualified loan for housing construction, development, acquisition or rehabilitation is made.
 
       (3) The maximum amount of credit for the difference between the amounts described in subsection (2)(a) and (b) of this section may not exceed four percent of the average unpaid balance of the qualified loan during the tax year for which the credit is claimed.
 
@@ -921,9 +903,17 @@ CREDITS
 
       (13) The lending institution shall file an annual statement with the Housing and Community Services Department, specifying that it has conformed with all requirements imposed by law to qualify for a tax credit under this section.
 
-      (14) Notwithstanding subsection (1)(h) and (j) of this section, a qualified borrower on a loan to finance the construction, development, acquisition or rehabilitation of a manufactured dwelling park under subsection (5)(c) of this section must be a nonprofit corporation, manufactured dwelling park nonprofit cooperative, state governmental entity, local unit of government as defined in ORS 466.706 or housing authority.
+      (14) Notwithstanding subsection (1)(h) and (j) of this section, a qualified borrower on a loan to finance the construction, development, acquisition or rehabilitation of a manufactured dwelling park under subsection (5)(c) of this section must be:
 
-      (15) The Housing and Community Services Department and the Department of Revenue may adopt rules to carry out the provisions of this section. [1989 c.1045 §2; 1991 c.737 §1; 1993 c.813 §8; 1995 c.746 §43; 1997 c.425 §1; 1997 c.631 §458; 1997 c.839 §31; 1999 c.21 §46; 1999 c.90 §23; 1999 c.857 §§1,4; 2001 c.660 §§47,48; 2005 c.476 §§1,3; 2007 c.843 §61; 2008 c.29 §6; 2008 c.45 §15; 2009 c.5 §25; 2009 c.82 §1a; 2009 c.609 §8a; 2009 c.909 §28; 2009 c.913 §31; 2010 c.82 §30; 2011 c.7 §25; 2011 c.475 §2; 2012 c.31 §24; 2013 c.377 §24; 2014 c.52 §26; 2015 c.180 §46; 2015 c.442 §18; 2016 c.33 §23; 2017 c.284 §1; 2017 c.527 §24; 2017 c.610 §4]
+      (a) A nonprofit corporation, manufactured dwelling park nonprofit cooperative, state governmental entity, local unit of government as defined in ORS 466.706 or housing authority; or
+
+      (b) A nonprofit corporation or housing authority that has a controlling interest in the real property that is financed by a qualified loan. A controlling interest includes a controlling interest in the general partner of a limited partnership that owns the real property.
+
+      (15) The Department of Revenue may require that a lending institution that has earned the credit and a lending institution that intends to claim the credit jointly file a notice, as prescribed by the Department of Revenue. The notice must comply with ORS 315.056 (2) or 315.058 (2).
+
+      (16) The Housing and Community Services Department shall provide information to the Department of Revenue about all certifications executed under this section, if required by ORS 315.058.
+
+      (17) The Housing and Community Services Department and the Department of Revenue may adopt rules to carry out the provisions of this section. [1989 c.1045 §2; 1991 c.737 §1; 1993 c.813 §8; 1995 c.746 §43; 1997 c.425 §1; 1997 c.631 §458; 1997 c.839 §31; 1999 c.21 §46; 1999 c.90 §23; 1999 c.857 §§1,4; 2001 c.660 §§47,48; 2005 c.476 §§1,3; 2007 c.843 §61; 2008 c.29 §6; 2008 c.45 §15; 2009 c.5 §25; 2009 c.82 §1a; 2009 c.609 §8a; 2009 c.909 §28; 2009 c.913 §31; 2010 c.82 §30; 2011 c.7 §25; 2011 c.475 §2; 2012 c.31 §24; 2013 c.377 §24; 2014 c.52 §26; 2015 c.180 §46; 2015 c.442 §18; 2016 c.33 §23; 2017 c.284 §1; 2017 c.527 §24; 2017 c.610 §4; 2018 c.101 §24; 2018 c.111 §3; 2019 c.319 §26; 2019 c.483 §9]
 
  
 
@@ -1517,33 +1507,33 @@ MODIFICATIONS TO TAXABLE INCOME
 
  
 
-      317.267 Dividends received by corporation from certain other corporations. (1) To derive Oregon taxable income, there shall be added to federal taxable income amounts received as dividends from corporations deducted for federal purposes pursuant to section 243 or 245 of the Internal Revenue Code, except section 245(c) of the Internal Revenue Code, amounts paid as dividends by a public utility or telecommunications utility and deducted for federal purposes pursuant to section 247 of the Internal Revenue Code or dividends eliminated under Treasury Regulations adopted under section 1502 of the Internal Revenue Code that are paid by members of an affiliated group that are eliminated from a consolidated federal return pursuant to ORS 317.715 (2).
+      317.267 Dividends received by corporation from certain other corporations. (1) To derive Oregon taxable income, there shall be added to federal taxable income:
+
+      (a) Amounts received as dividends from corporations deducted for federal purposes pursuant to section 243 or 245 of the Internal Revenue Code, except section 245(c) of the Internal Revenue Code;
+
+      (b) Amounts deducted for income repatriated, deemed or otherwise, under section 965 of the Internal Revenue Code;
+
+      (c) Amounts deducted as global intangible low-taxed income pursuant to section 250 of the Internal Revenue Code;
+
+      (d) Amounts paid as dividends by a public utility or telecommunications utility and deducted for federal purposes pursuant to section 247 of the Internal Revenue Code; or
+
+      (e) Dividends eliminated under Treasury Regulations adopted under section 1502 of the Internal Revenue Code that are paid by members of an affiliated group that are eliminated from a consolidated federal return pursuant to ORS 317.715 (2).
 
       (2) To derive Oregon taxable income, after the modification prescribed under subsection (1) of this section, there shall be subtracted from federal taxable income an amount equal to 70 percent of dividends (determined without regard to section 78 of the Internal Revenue Code) received or deemed received from corporations if such dividends are included in federal taxable income. However:
 
       (a) In the case of any dividend on debt-financed portfolio stock as described in section 246A of the Internal Revenue Code, the subtraction allowed under this subsection shall be reduced under the same conditions and in same amount as the dividends received deduction otherwise allowable for federal income tax purposes is reduced under section 246A of the Internal Revenue Code.
 
-      (b) In the case of any dividend received from a 20 percent owned corporation, as defined in section 243(c) of the Internal Revenue Code, this subsection shall be applied by substituting “80 percent” for “70 percent.”
+      (b) In the case of any dividend received from a 20 percent owned corporation, as defined in section 243(c) of the Internal Revenue Code, or global intangible low-taxed income included in gross income pursuant to section 951A of the Internal Revenue Code, this subsection shall be applied by substituting “80 percent” for “70 percent.”
 
-      (c) A dividend that is not treated as a dividend under section 243(d) or 965(c)(3) of the Internal Revenue Code may not be treated as a dividend for purposes of this subsection.
+      (c) A dividend that is not treated as a dividend under section 243(d) of the Internal Revenue Code may not be treated as a dividend for purposes of this subsection.
 
       (d) If a dividends received deduction is not allowed for federal tax purposes because of section 246(a) or (c) of the Internal Revenue Code, a subtraction may not be made under this subsection for received dividends that are described in section 246(a) or (c) of the Internal Revenue Code.
 
       (e) In the case of any dividend received from an alien, domestic or foreign insurer, as defined in ORS 731.082, that would be included in the taxpayer’s consolidated Oregon return but for the application of ORS 317.710 (5) or (7), this subsection shall be applied by substituting “100 percent” for “70 percent.”
 
-      (3) There shall be excluded from the sales factor of any apportionment formula employed to attribute income to this state any amount subtracted from federal taxable income under subsection (2) of this section. [1983 c.162 §13; 1984 c.1 §9; 1985 c.802 §33; 1987 c.293 §38; 1987 c.447 §119; 1987 c.911 §8i; 1989 c.625 §21; 2003 c.77 §21; 2005 c.80 §2; 2005 c.832 §33; 2013 c.707 §3; 2015 c.755 §5; 2017 c.316 §1]
+      (f) A subtraction under this subsection is not allowed for any amount of foreign-source dividend income, as described in section 245A of the Internal Revenue Code, that is included in gross income.
 
- 
-
-      Note: Section 4, chapter 316, Oregon Laws 2017, provides:
-
-      Sec. 4. The amendments to ORS 317.267, 317.710 and 317.715 by sections 1 to 3 of this 2017 Act apply to any tax year for which:
-
-      (1) A return is subject to audit or adjustment by the Department of Revenue on or after the effective date of this 2017 Act [October 6, 2017];
-
-      (2) A return is subject to an appeal on or after the effective date of this 2017 Act; or
-
-      (3) A claim of refund may be made on or after the effective date of this 2017 Act. [2017 c.316 §4]
+      (3) There shall be excluded from the sales factor of any apportionment formula employed to attribute income to this state any amount subtracted from federal taxable income under subsection (2) of this section or deducted under section 245A of the Internal Revenue Code. The amount of any dividend or of any global intangible low-taxed income that is apportionable shall be determined as provided by the apportionment formula applicable to the taxpayer, as provided in ORS 314.280 and 314.605 to 314.675, but may not include any amount subtracted under subsection (2) of this section. [1983 c.162 §13; 1984 c.1 §9; 1985 c.802 §33; 1987 c.293 §38; 1987 c.447 §119; 1987 c.911 §8i; 1989 c.625 §21; 2003 c.77 §21; 2005 c.80 §2; 2005 c.832 §33; 2013 c.707 §3; 2015 c.755 §5; 2017 c.316 §1; 2018 c.101 §28; 2019 c.556 §5]
 
  
 
@@ -1935,7 +1925,7 @@ MODIFICATIONS TO TAXABLE INCOME
 
       Sec. 9. Amounts received as a result of the sale of a manufactured dwelling park to a corporate entity formed by the tenants of the park, or by a nonprofit corporation or housing authority, as described in section 2, chapter 89, Oregon Laws 2014 [90.844], are exempt from the tax imposed by this chapter. [2005 c.826 §9; 2014 c.89 §17; 2015 c.217 §10]
 
-      Sec. 10. (1) Section 9, chapter 826, Oregon Laws 2005, applies to tax years beginning on or after January 1, 2006, and before January 1, 2020. [2005 c.826 §10; 2007 c.906 §22; 2013 c.750 §37; 2015 c.217 §15(1)]
+      Sec. 10. (1) Section 9, chapter 826, Oregon Laws 2005, applies to tax years beginning on or after January 1, 2006, and before January 1, 2026. [2005 c.826 §10; 2007 c.906 §22; 2013 c.750 §37; 2015 c.217 §15(1); 2019 c.579 §22(1)]
 
  
 
@@ -2191,6 +2181,44 @@ INSURERS
 
  
 
+(Temporary provisions relating to post-1986 deferred foreign income and global intangible low-taxed income)
+
+ 
+
+      Note: Sections 30 to 34 and 37, chapter 101, Oregon Laws 2018, provide:
+
+      Sec. 30. Section 31 of this 2018 Act is added to and made a part of ORS chapter 317. [2018 c.101 §30]
+
+      Sec. 31. On or before July 1, 2021, the Department of Revenue shall:
+
+      (1) Estimate the increase, if any, of corporate tax revenue received by the department and attributable to the treatment of post-1986 deferred foreign income under An Act to Provide for Reconciliation Pursuant to Titles II and V of the Concurrent Resolution on the Budget for Fiscal Year 2018 (P.L. 115-97); and
+
+      (2) Notwithstanding ORS 317.853, distribute an amount equal to the estimate required under subsection (1) of this section as follows:
+
+      (a) 18 percent shall be transferred to the Employer Incentive Fund established under section 1 of this 2018 Act [section 1, chapter 105, Oregon Laws 2018].
+
+      (b) 82 percent shall be transferred to the School Districts Unfunded Liability Fund established under section 24 of this 2018 Act [section 24, chapter 105, Oregon Laws 2018]. [2018 c.101 §31; 2018 c.105 §32]
+
+      Sec. 32. Section 33 of this 2018 Act is added to and made a part of ORS chapter 317. [2018 c.101 §32]
+
+      Sec. 33. (1) A credit against the taxes otherwise due under ORS chapter 317 or 318 shall be allowed to a taxpayer for Oregon tax attributable to income reported under section 965 of the Internal Revenue Code as post-1986 deferred foreign income.
+
+      (2) The credit allowed under this section may not exceed the lesser of:
+
+      (a) The amount of Oregon tax attributable to income reported under section 965 of the Internal Revenue Code as post-1986 deferred foreign income for tax years beginning on or after January 1, 2017, and before January 1, 2018; or
+
+      (b) The total amount of tax, if any, attributable to the addition required under ORS 317.716 and imposed for all tax years beginning on or after January 1, 2014, and before January 1, 2017.
+
+      (3) The credit allowed under this section may not exceed the tax liability of the taxpayer for the tax year.
+
+      (4) Any tax credit otherwise allowable under this section that is not used by the taxpayer in a particular tax year may be carried forward and offset against the taxpayer’s tax liability for the next succeeding tax year. Any credit remaining unused in the next succeeding tax year may be carried forward and used in the second succeeding tax year. Any credit remaining unused in the second succeeding tax year may be carried forward and used in the third succeeding tax year. Any credit remaining unused in the third succeeding tax year may be carried forward and used in the fourth succeeding tax year. Any credit remaining unused in the fourth succeeding tax year may be carried forward and used in the fifth succeeding tax year, but may not be used in any tax year thereafter. [2018 c.101 §33]
+
+      Sec. 34. Except as provided in section 33 (4) of this 2018 Act, section 33 of this 2018 Act applies to tax years beginning on or after January 1, 2017, and before January 1, 2018. [2018 c.101 §34]
+
+      Sec. 37. On or before December 1, 2020, the Department of Revenue shall report in the manner required by ORS 192.245 to a committee of the Legislative Assembly related to revenue regarding the relative efficacy of the provisions of ORS 317.716, in comparison to the provisions of section 951A of the Internal Revenue Code, requiring shareholders of controlled foreign corporations to include global intangible low-taxed income in gross income. [2018 c.101 §37]
+
+ 
+
       317.635 Domestic international sales corporation; exemption from minimum tax. (1) Except as provided in ORS 317.283, a domestic international sales corporation, commonly referred to as “DISC,” as defined in section 992 of the Internal Revenue Code, shall be taxed in the manner provided for other corporations under this chapter and without regard to sections 991 to 996 of the Internal Revenue Code.
 
       (2) An interest charge DISC formed on or before January 1, 2014, is exempt from the tax imposed under ORS 317.090. [1983 c.162 §39; 1985 c.802 §22b; 2013 s.s. c.5 §6]
@@ -2321,10 +2349,6 @@ UNITARY TAX
 
  
 
-      Note: See note under 317.267.
-
- 
-
       317.713 Group losses as offset to income of subsidiary paying preferred dividends. If the use of group losses to offset income of a subsidiary paying dividends on preferred stock is limited under section 1503(f) of the Internal Revenue Code, a like limitation shall apply for purposes of this chapter. For purposes of applying section 1503(f) of the Internal Revenue Code, “group losses” and “separately computed taxable income” shall be determined by taking into consideration only that income and loss which is allocated or apportioned to Oregon, with the additions, subtractions, modifications and other adjustments under this chapter and ORS chapter 314. [1991 c.457 §14]
 
  
@@ -2339,41 +2363,11 @@ UNITARY TAX
 
  
 
-      Note: See note under 317.267.
+      317.716 [2015 c.755 §2; repealed by 2018 c.101 §35]
 
  
 
-      317.716 Addition to unitary group income of taxable income or loss of certain corporations incorporated in offshore jurisdictions; rules. (1)(a) For purposes of determining Oregon taxable income, the taxable income or loss of any corporation that is a member of a unitary group or that is a corporation that files a separate return and that is incorporated in any of the jurisdictions listed in paragraph (b) of this subsection shall be added to the federal consolidated taxable income of the unitary group filing a consolidated Oregon return or to the federal taxable income of the corporation filing a separate return.
-
-      (b) This section applies to Andorra, Anguilla, Antigua and Barbuda, Aruba, the Bahamas, Bahrain, Barbados, Belize, Bermuda, Bonaire, the British Virgin Islands, the Cayman Islands, the Cook Islands, Curacao, Cyprus, Dominica, Gibraltar, Grenada, Guatemala, Guernsey-Sark-Alderney, the Isle of Man, Jersey, Liberia, Liechtenstein, Luxembourg, Malta, the Marshall Islands, Mauritius, Montserrat, Nauru, Niue, Saba, Samoa, San Marino, Seychelles, Sint Eustatius, Sint Maarten, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Trinidad and Tobago, the Turks and Caicos Islands, the U.S. Virgin Islands and Vanuatu.
-
-      (2) Nothing in subsection (1)(a) of this section precludes either a taxpayer or the Department of Revenue from asserting that the provisions of ORS 314.667 apply.
-
-      (3) The department shall adopt rules:
-
-      (a) To determine the computation of income or loss for a corporation that is a member of a unitary group and that is not otherwise required to file a consolidated federal return.
-
-      (b) To prevent double taxation or double deduction of any amount included in the computation of income under this section.
-
-      (c) To implement this section. [2015 c.755 §2]
-
- 
-
-      317.717 Report to Legislative Assembly. On or before January 1 of each odd-numbered year, the Department of Revenue shall submit a report to the Legislative Assembly in the manner provided by ORS 192.245. The report shall include recommendations for legislation related to jurisdictions listed in ORS 317.716, including recommendations for additions to or subtractions from the list of jurisdictions in ORS 317.716. In making the determination of which jurisdictions to recommend for inclusion, the department shall determine whether a jurisdiction is one that for the tax year has no or nominal effective tax on the relevant income and for which at least one of the following applies:
-
-      (1) The jurisdiction has laws or practices that prevent effective exchange of information for tax purposes with other governments about taxpayers benefiting from the tax regime.
-
-      (2) The jurisdiction has a tax regime that lacks transparency. A tax regime lacks transparency if the details of legislative, legal or administrative provisions are not open and apparent or are not consistently applied among similarly situated taxpayers, or if the information needed by tax authorities to determine a taxpayer’s correct tax liability, such as accounting records and underlying documentation, is not adequately available.
-
-      (3) The jurisdiction facilitates the establishment of foreign-owned entities without the need for a local substantive presence or prohibits these entities from having any commercial impact on the local economy.
-
-      (4) The jurisdiction explicitly or implicitly excludes the jurisdiction’s resident taxpayers from taking advantage of the tax regime’s benefits or prohibits enterprises that benefit from the regime from operating in the jurisdiction’s domestic market.
-
-      (5) The jurisdiction has created a tax regime that is favorable for tax avoidance, based upon an overall assessment of relevant factors, including whether the jurisdiction has a significant untaxed offshore financial or other services sector relative to its overall economy. [2013 c.707 §4; 2015 c.755 §4]
-
- 
-
-      Note: 317.717 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 317 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      317.717 [2013 c.707 §4; 2015 c.755 §4; repealed by 2018 c.101 §35]
 
  
 

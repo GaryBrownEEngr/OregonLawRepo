@@ -4,16 +4,6 @@ Chapter 803 — Vehicle Title and Registration
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
- 
-
 
  
 
@@ -60,6 +50,10 @@ TITLES
  
 
 803.035     Optional titling; rules
+
+ 
+
+803.036     Optional titling; park model recreational vehicles; rules
 
  
 
@@ -439,7 +433,7 @@ REGISTRATION
 
  
 
-803.460     Certification or other proof of compliance with financial responsibility requirements; rules
+803.460     Proof of compliance with financial responsibility requirements; rules
 
  
 
@@ -509,6 +503,10 @@ REGISTRATION
 
  
 
+803.552     Car rental company; issuance of plates; fees; rules
+
+ 
+
 (Stickers)
 
  
@@ -545,11 +543,15 @@ REGISTRATION
 
  
 
-(Miscellaneous)
+(Diesel Engines)
 
  
 
-803.590     Disposition of plates and refund of fees when certain vehicles are destroyed or withdrawn from service
+803.591     Requirements for vehicles with diesel engines; exceptions; rules
+
+ 
+
+803.593     Annual report
 
  
 
@@ -565,7 +567,7 @@ VEHICLE PERMITS
 
  
 
-803.602     Statement of insurance coverage for certain trip permits
+803.602     Proof of insurance coverage for certain trip permits
 
  
 
@@ -791,6 +793,38 @@ TITLES
 
  
 
+      803.036 Optional titling; park model recreational vehicles; rules. (1) As used in this section:
+
+      (a) “Mobile home park” has the meaning given that term in ORS 446.003.
+
+      (b) “Park model recreational vehicle” means a recreational vehicle, as defined in ORS 174.101, that:
+
+      (A) Is designed for use as temporary living quarters;
+
+      (B) Is built on a single chassis mounted on wheels;
+
+      (C) Has a gross trailer area that does not exceed 400 square feet;
+
+      (D) Is more than eight and one-half feet wide;
+
+      (E) Complies with any manufacturing standards that the Director of Transportation recognizes as being in widespread use and applicable to park model recreational vehicles; and
+
+      (F) Meets any other requirements imposed by the director by rule.
+
+      (2) The Department of Transportation, by rule, may provide for optional titling under ORS 803.035. The department may not issue a registration for a park model recreational vehicle.
+
+      (3) The department may require an applicant for optional titling to:
+
+      (a) Provide a manufacturer certificate or other information the department deems adequate for ensuring that the vehicle was constructed in compliance with manufacturing standards described in subsection (1)(b)(E) of this section; and
+
+      (b) Attest that the vehicle:
+
+      (A) Is not permanently affixed to land for use as a permanent dwelling; or
+
+      (B) Is located within a mobile home park. [2019 c.585 §2; 2019 c.585 §2a]
+
+ 
+
       803.040 Effect of title. (1) If this state has issued title for a vehicle, the vehicle shall remain titled by this state and subject to all of the provisions of the vehicle code relating to vehicles titled by this state until one of the following occurs:
 
       (a) The vehicle becomes legally titled under the laws of another jurisdiction.
@@ -833,13 +867,21 @@ TITLES
 
       (i) Unless the vehicle is exempted from odometer disclosure requirements, the applicant shall submit an appropriate odometer disclosure form. The department shall determine what constitutes an appropriate form in any particular situation. The department may make exceptions by rule to the requirement for submission of an odometer disclosure form.
 
-      (2)(a) The department may not issue title for a vehicle:
+      (2) The department may not issue title for a vehicle:
 
-      (A) Required by ORS 803.210 to be inspected unless the vehicle has been inspected as described in ORS 803.212 and the inspection fee paid under ORS 803.215.
+      (a) Required by ORS 803.210 to be inspected unless the vehicle has been inspected as described in ORS 803.212 and the inspection fee paid under ORS 803.215.
 
-      (B) If the current vehicle title, certificate or ownership document is a junk title, junk certificate or similar ownership document issued by another jurisdiction, or has a junk or similar brand or notation.
+      (b) If the current vehicle title, certificate, ownership document or the vehicle record available through electronic record inquiry:
 
-      (b) The department may adopt any rules it considers necessary for the administration of this subsection. [1983 c.338 §178; 1985 c.16 §61; 1985 c.402 §7; 1985 c.410 §1; 1987 c.146 §5; 1989 c.148 §9; 1991 c.873 §8; 1993 c.233 §21; 2001 c.675 §7; 2003 c.24 §1; 2003 c.655 §100; 2007 c.693 §4]
+      (A) Has a junk status;
+
+      (B) Is a junk title, junk certificate or similar ownership document issued by another jurisdiction; or
+
+      (C) Has a junk or similar brand or notation.
+
+      (c) As prescribed in ORS 803.591.
+
+      (3) The department may adopt any rules it considers necessary for the administration of subsection (2)(a) and (b) of this section. [1983 c.338 §178; 1985 c.16 §61; 1985 c.402 §7; 1985 c.410 §1; 1987 c.146 §5; 1989 c.148 §9; 1991 c.873 §8; 1993 c.233 §21; 2001 c.675 §7; 2003 c.24 §1; 2003 c.655 §100; 2007 c.693 §4; 2019 c.312 §18; 2019 c.645 §8]
 
  
 
@@ -889,9 +931,9 @@ TITLES
 
       803.060 Renewal. A title does not require a renewal and is valid until one of the following occurs:
 
-      (1) The vehicle is destroyed, dismantled or substantially altered.
+      (1) The vehicle is destroyed or dismantled.
 
-      (2) Any interest reflected on the title changes. [1983 c.338 §182; 1985 c.316 §1; 1993 c.233 §24]
+      (2) Any interest reflected on the title changes. [1983 c.338 §182; 1985 c.316 §1; 1993 c.233 §24; 2019 c.17 §5]
 
  
 
@@ -985,7 +1027,7 @@ TITLES
 
  
 
-      Note: The amendments to 803.091 by section 38, chapter 750, Oregon Laws 2017, become operative January 1, 2022, and apply to fees imposed on or after January 1, 2022. See sections 39 and 139, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
+      Note: The amendments to 803.091 by section 38, chapter 750, Oregon Laws 2017, become operative January 1, 2022, and apply to fees imposed on or after January 1, 2022. See section 39, chapter 750, Oregon Laws 2017, and section 139, chapter 750, Oregon Laws 2017, as amended by section 31, chapter 93, Oregon Laws 2018. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
 
       803.091. (1) As used in this section, “miles per gallon” or “MPG” means the distance traveled in a vehicle powered by one gallon of fuel.
 
@@ -1063,9 +1105,9 @@ TITLES
 
       (a) In the case of a transfer by operation of law of any interest shown on an Oregon title, the personal representative, receiver, trustee, sheriff or other representative or successor in interest of the person whose interest is transferred shall release or assign interest and if required by the department by rule, as provided under ORS 803.102, complete an odometer disclosure statement and shall provide the certificate, if any, and disclosure statement if required to the transferee. The representative or successor shall also provide the transferee with information satisfactory to the department concerning all facts entitling such representative or successor to transfer title. If there is no person to assign interest, the person to whom interest is awarded or otherwise transferred shall be responsible for the requirements of this paragraph.
 
-      (b) In the case of a transfer at death of the interest of the owner, lessor or security interest holder if the estate is not being probated and title is not being transferred under the provisions of ORS 114.545, interest may be assigned through the use of an affidavit. The affidavit shall be on a form prescribed by the department and signed by all of the known heirs of the person whose interest is being transferred stating the name of the person to whom the ownership interest has been passed. If any heir has not arrived at the age of majority or is otherwise incapacitated, the parent or guardian of the heir shall sign the affidavit. In the case of a transfer under this paragraph, one of the heirs or any other person designated by the department by rule shall complete any odometer disclosure statement required under ORS 803.102.
+      (b) In the case of a transfer at death of the interest of the owner, lessor or security interest holder if the estate is not being probated and title is not being transferred under the provisions of ORS 114.547, interest may be assigned through the use of an affidavit. The affidavit shall be on a form prescribed by the department and signed by all of the known heirs of the person whose interest is being transferred stating the name of the person to whom the ownership interest has been passed. If any heir has not arrived at the age of majority or is otherwise incapacitated, the parent or guardian of the heir shall sign the affidavit. In the case of a transfer under this paragraph, one of the heirs or any other person designated by the department by rule shall complete any odometer disclosure statement required under ORS 803.102.
 
-      (c) In the case of a transfer at death of the interest of the owner, lessor or security interest holder where transfer occurs under the provisions of ORS 114.545, the “affiant” as defined in ORS 114.505 is the person required to assign interest. The department may designate by rule the affiant or any other person to complete any odometer disclosure statement required under ORS 803.102.
+      (c) In the case of a transfer at death of the interest of the owner, lessor or security interest holder where transfer occurs under the provisions of ORS 114.547, the affiant as defined in ORS 114.505 is the person required to assign interest. The department may designate by rule the affiant or any other person to complete any odometer disclosure statement required under ORS 803.102.
 
       (d) Upon the termination of a lease, in lieu of the lessee releasing interest, the lessor may provide information satisfactory to the department that the lease has been terminated. The lessor shall provide an odometer disclosure statement if required under ORS 803.102. If the lessor does not take possession of the vehicle upon termination of the lease, the information in the odometer disclosure given by the lessor may be taken from an odometer disclosure given by the lessee to the lessor under ORS 803.102 unless the lessor has reason to believe that the disclosure by the lessee does not reflect the actual mileage of the vehicle.
 
@@ -1075,7 +1117,7 @@ TITLES
 
       (4) The department by rule may allow odometer disclosure statements to be on a form other than the certificate of title.
 
-      (5) Persons subject to the provisions of this section shall provide to the transferee a title certificate, if one has been issued and is in their possession, the release or assignment of interest, and any required odometer disclosure statement. If an odometer disclosure statement is required, the transferee shall provide a signed disclosure to the transferor in a form determined by the department by rule. [1989 c.148 §2; 1991 c.67 §213; 1991 c.873 §13; 1993 c.233 §30; 2001 c.675 §10; 2003 c.655 §103]
+      (5) Persons subject to the provisions of this section shall provide to the transferee a title certificate, if one has been issued and is in their possession, the release or assignment of interest, and any required odometer disclosure statement. If an odometer disclosure statement is required, the transferee shall provide a signed disclosure to the transferor in a form determined by the department by rule. [1989 c.148 §2; 1991 c.67 §213; 1991 c.873 §13; 1993 c.233 §30; 2001 c.675 §10; 2003 c.655 §103; 2019 c.165 §29]
 
  
 
@@ -1407,13 +1449,15 @@ PROVISIONS APPLICABLE TO BOTH TITLE AND REGISTRATION
 
  
 
-      803.203 Proof of payment of taxes. (1) A person that purchases a taxable motor vehicle from a seller that is not subject to the privilege tax imposed under ORS 320.405 may not register or title the taxable motor vehicle in Oregon unless the person provides proof that the person:
+      803.203 Proof of payment of taxes. (1) A person that purchases a taxable motor vehicle from a seller that is not subject to the privilege tax imposed under ORS 320.405 may not register or title the taxable motor vehicle in Oregon unless the person provides proof that:
 
-      (a) Paid the use tax imposed under ORS 320.410; or
+      (a) The person paid the use tax imposed under ORS 320.410;
 
-      (b) Is not required to pay the use tax for the reasons provided in ORS 320.410 (4).
+      (b) The person is not required to pay the use tax for the reasons provided in ORS 320.410 (4); or
 
-      (2) The person shall provide the proof described in subsection (1) of this section to the Department of Transportation in the manner established by the department by rule. [2017 c.750 §109]
+      (c) The taxable motor vehicle was purchased and titled by a car rental company as defined in ORS 803.219 using an electronic integrator.
+
+      (2) The person shall provide the proof described in subsection (1) of this section to the Department of Transportation in the manner established by the department by rule. [2017 c.750 §109; 2019 c.491 §12]
 
  
 
@@ -1715,13 +1759,13 @@ REGISTRATION
 
  
 
-      803.350 Qualifications for registration; fee; rules. This section establishes the requirements for qualification for registration. The Department of Transportation shall not issue registration to a vehicle if the requirements under this section are not met. The department, in the absence of just cause for refusing to register a vehicle upon application, shall assign a distinctive number or other distinctive means of identification and shall issue registration for a vehicle if all of the following requirements are met:
+      803.350 Qualifications for registration; fee; rules. This section establishes the requirements for qualification for registration. The Department of Transportation may not issue registration to a vehicle if the requirements under this section are not met. The department, in the absence of just cause for refusing to register a vehicle upon application, shall assign a distinctive number or other distinctive means of identification and shall issue registration for a vehicle if all of the following requirements are met:
 
       (1) The applicant applies for and is granted title in the applicant’s name at the same time the person makes application for registration, or presents satisfactory evidence that title covering the vehicle has been previously issued to the applicant.
 
       (2) The applicant completes an application described under ORS 803.370. If the vehicle is a reconstructed or assembled vehicle or a replica, the person must indicate that fact in the application or be subject to ORS 803.225.
 
-      (3) The applicant pays the department the registration fee established under ORS 803.420 and any applicable fees for issuance of registration plates.
+      (3) The applicant pays the department the registration fee established under ORS 803.420 and 803.422 and any applicable fees for issuance of registration plates.
 
       (4) For motor vehicles, proof of compliance with pollution control equipment requirements is provided to the department. Proof required to comply with this subsection is described under ORS 815.310. This subsection does not apply if the vehicle is exempt from the requirements for proof of compliance under ORS 815.300.
 
@@ -1737,7 +1781,7 @@ REGISTRATION
 
       (c) For purposes of this subsection, “new motor vehicle” means a motor vehicle with 7,500 miles or less on the odometer when the vehicle is initially registered under ORS 803.420 (6)(a), 805.100, 805.110 or 805.120.
 
-      (9) If required to do so by the department, the applicant provides the department with satisfactory proof that the vehicle was designed to be operated on highways and meets equipment requirements imposed by statute or rule for the lawful operation of a vehicle on highways. The department may adopt rules specifying the kinds of vehicles that are subject to this subsection and what constitutes satisfactory proof under this subsection. [1983 c.338 §210; 1985 c.16 §78; 1985 c.305 §9; 1985 c.402 §11; 1987 c.146 §7; 1989 c.22 §1; 1993 c.233 §48; 2001 c.293 §3; 2007 c.366 §1; 2017 c.62 §4; 2017 c.750 §39d]
+      (9) If required to do so by the department, the applicant provides the department with satisfactory proof that the vehicle was designed to be operated on highways and meets equipment requirements imposed by statute or rule for the lawful operation of a vehicle on highways. The department may adopt rules specifying the kinds of vehicles that are subject to this subsection and what constitutes satisfactory proof under this subsection. [1983 c.338 §210; 1985 c.16 §78; 1985 c.305 §9; 1985 c.402 §11; 1987 c.146 §7; 1989 c.22 §1; 1993 c.233 §48; 2001 c.293 §3; 2007 c.366 §1; 2017 c.62 §4; 2017 c.750 §39d; 2018 c.114 §11]
 
  
 
@@ -1745,7 +1789,7 @@ REGISTRATION
 
  
 
-      803.360 Domicile requirements for registration; exceptions. (1) No person may register or renew the registration of a vehicle in this state unless the person is domiciled in this state, as described in ORS 803.355. This section does not apply to persons required by ORS 803.200 or any other provision of law, to register vehicles in this state.
+      803.360 Domicile requirements for registration; exceptions. (1) A person may not register or renew the registration of a vehicle in this state unless the person is domiciled in this state, as described in ORS 803.355. This section does not apply to persons required by ORS 803.200 or any other provision of law, to register vehicles in this state.
 
       (2) Notwithstanding subsection (1) of this section, a person who is not domiciled in this state may register or renew the registration of a vehicle that:
 
@@ -1753,9 +1797,9 @@ REGISTRATION
 
       (b) Is used primarily for personal transportation within the state;
 
-      (c) Is a private passenger vehicle or a vehicle with a loaded weight of less than 10,000 pounds; and
+      (c) Is a private passenger vehicle or a vehicle with a loaded weight of no more than 10,000 pounds; and
 
-      (d) Is not a motor home or a camper. [1985 c.305 §8; 2005 c.770 §3]
+      (d) Is not a motor home or a camper. [1985 c.305 §8; 2005 c.770 §3; 2019 c.312 §31]
 
  
 
@@ -1993,6 +2037,8 @@ REGISTRATION
 
       (d) Trailers, $10.
 
+      (e) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under ORS 805.060, $10.
+
       (11) The registration fee for trailers registered as part of a fleet under an agreement reached pursuant to ORS 802.500 is the same fee as the fee for vehicles of the same type registered under other provisions of the Oregon Vehicle Code.
 
       (12) The registration fee for vehicles with proportional registration under ORS 826.009, or proportional fleet registration under ORS 826.011, is the same fee as the fee for vehicles of the same type under this section except that the fees shall be fixed on an apportioned basis as provided under the agreement established under ORS 826.007.
@@ -2005,7 +2051,7 @@ REGISTRATION
 
       (14)(a)(A) For the period beginning January 1, 2018, and ending December 31, 2019, the registration fee for motor vehicles required to establish a registration weight under ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2013,111 +2059,113 @@ ______________________________________________________________________________
 
  
 
-      8,000         or       less                         $            63
+      8,000         or         less                        $    63
 
-      8,001         to       10,000                                396
+      8,001         to         10,000                         396
 
-      10,001       to       12,000                                450
+      10,001       to         12,000                         450
 
-      12,001       to       14,000                                504
+      12,001       to         14,000                         504
 
-      14,001       to       16,000                                558
+      14,001       to         16,000                         558
 
-      16,001       to       18,000                                612
+      16,001       to         18,000                         612
 
-      18,001       to       20,000                                682
+      18,001       to         20,000                         682
 
-      20,001       to       22,000                                736
+      20,001       to         22,000                         736
 
-      22,001       to       24,000                                808
+      22,001       to         24,000                         808
 
-      24,001       to       26,000                                879
+      24,001       to         26,000                         879
 
-      26,001       to       28,000                                375
+      26,001       to         28,000                         375
 
-      28,001       to       30,000                                391
+      28,001       to         30,000                         391
 
-      30,001       to       32,000                                422
+      30,001       to         32,000                         422
 
-      32,001       to       34,000                                438
+      32,001       to         34,000                         438
 
-      34,001       to       36,000                                468
+      34,001       to         36,000                         468
 
-      36,001       to       38,000                                485
+      36,001       to         38,000                         485
 
-      38,001       to       40,000                                515
+      38,001       to         40,000                         515
 
-      40,001       to       42,000                                532
+      40,001       to         42,000                         532
 
-      42,001       to       44,000                                562
+      42,001       to         44,000                         562
 
-      44,001       to       46,000                                578
+      44,001       to         46,000                         578
 
-      46,001       to       48,000                                593
+      46,001       to         48,000                         593
 
-      48,001       to       50,000                                625
+      48,001       to         50,000                         625
 
-      50,001       to       52,000                                656
+      50,001       to         52,000                         656
 
-      52,001       to       54,000                                672
+      52,001       to         54,000                         672
 
-      54,001       to       56,000                                686
+      54,001       to         56,000                         686
 
-      56,001       to       58,000                                717
+      56,001       to         58,000                         717
 
-      58,001       to       60,000                                750
+      58,001       to         60,000                         750
 
-      60,001       to       62,000                                780
+      60,001       to         62,000                         780
 
-      62,001       to       64,000                                811
+      62,001       to         64,000                         811
 
-      64,001       to       66,000                                827
+      64,001       to         66,000                         827
 
-      66,001       to       68,000                                857
+      66,001       to         68,000                         857
 
-      68,001       to       70,000                                874
+      68,001       to         70,000                         874
 
-      70,001       to       72,000                                904
+      70,001       to         72,000                         904
 
-      72,001       to       74,000                                921
+      72,001       to         74,000                         921
 
-      74,001       to       76,000                                951
+      74,001       to         76,000                         951
 
-      76,001       to       78,000                                967
+      76,001       to         78,000                         967
 
-      78,001       to       80,000                                998
+      78,001       to         80,000                         998
 
-      80,001       to       82,000                             1,014
+      80,001       to         82,000                         1,014
 
-      82,001       to       84,000                             1,045
+      82,001       to         84,000                         1,045
 
-      84,001       to       86,000                             1,061
+      84,001       to         86,000                         1,061
 
-      86,001       to       88,000                             1,092
+      86,001       to         88,000                         1,092
 
-      88,001       to       90,000                             1,108
+      88,001       to         90,000                         1,108
 
-      90,001       to       92,000                             1,139
+      90,001       to         92,000                         1,139
 
-      92,001       to       94,000                             1,155
+      92,001       to         94,000                         1,155
 
-      94,001       to       96,000                             1,185
+      94,001       to         96,000                         1,185
 
-      96,001       to       98,000                             1,202
+      96,001       to         98,000                         1,202
 
-      98,001       to       100,000                           1,218
+      98,001       to         100,000                       1,218
 
-      100,001     to       102,000                           1,249
+      100,001     to         102,000                       1,249
 
-      102,001     to       104,000                           1,265
+      102,001     to         104,000                       1,265
 
-      104,001     to       105,500                           1,295
+      104,001     to         105,500                       1,295
 
-______________________________________________________________________________
+ 
+
+ 
 
       (B) For the period beginning on January 1, 2020, and ending on December 31, 2021, the registration fee for motor vehicles required to establish a registration weight under ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2125,111 +2173,113 @@ ______________________________________________________________________________
 
  
 
-      8,000         or       less                         $            70
+      8,000         or         less                        $    70
 
-      8,001         to       10,000                                437
+      8,001         to         10,000                         437
 
-      10,001       to       12,000                                497
+      10,001       to         12,000                         497
 
-      12,001       to       14,000                                556
+      12,001       to         14,000                         556
 
-      14,001       to       16,000                                616
+      14,001       to         16,000                         616
 
-      16,001       to       18,000                                676
+      16,001       to         18,000                         676
 
-      18,001       to       20,000                                753
+      18,001       to         20,000                         753
 
-      20,001       to       22,000                                813
+      20,001       to         22,000                         813
 
-      22,001       to       24,000                                893
+      22,001       to         24,000                         893
 
-      24,001       to       26,000                                970
+      24,001       to         26,000                         970
 
-      26,001       to       28,000                                375
+      26,001       to         28,000                         375
 
-      28,001       to       30,000                                391
+      28,001       to         30,000                         391
 
-      30,001       to       32,000                                422
+      30,001       to         32,000                         422
 
-      32,001       to       34,000                                438
+      32,001       to         34,000                         438
 
-      34,001       to       36,000                                468
+      34,001       to         36,000                         468
 
-      36,001       to       38,000                                485
+      36,001       to         38,000                         485
 
-      38,001       to       40,000                                515
+      38,001       to         40,000                         515
 
-      40,001       to       42,000                                532
+      40,001       to         42,000                         532
 
-      42,001       to       44,000                                562
+      42,001       to         44,000                         562
 
-      44,001       to       46,000                                578
+      44,001       to         46,000                         578
 
-      46,001       to       48,000                                593
+      46,001       to         48,000                         593
 
-      48,001       to       50,000                                625
+      48,001       to         50,000                         625
 
-      50,001       to       52,000                                656
+      50,001       to         52,000                         656
 
-      52,001       to       54,000                                672
+      52,001       to         54,000                         672
 
-      54,001       to       56,000                                686
+      54,001       to         56,000                         686
 
-      56,001       to       58,000                                717
+      56,001       to         58,000                         717
 
-      58,001       to       60,000                                750
+      58,001       to         60,000                         750
 
-      60,001       to       62,000                                780
+      60,001       to         62,000                         780
 
-      62,001       to       64,000                                811
+      62,001       to         64,000                         811
 
-      64,001       to       66,000                                827
+      64,001       to         66,000                         827
 
-      66,001       to       68,000                                857
+      66,001       to         68,000                         857
 
-      68,001       to       70,000                                874
+      68,001       to         70,000                         874
 
-      70,001       to       72,000                                904
+      70,001       to         72,000                         904
 
-      72,001       to       74,000                                921
+      72,001       to         74,000                         921
 
-      74,001       to       76,000                                951
+      74,001       to         76,000                         951
 
-      76,001       to       78,000                                967
+      76,001       to         78,000                         967
 
-      78,001       to       80,000                                998
+      78,001       to         80,000                         998
 
-      80,001       to       82,000                             1,014
+      80,001       to         82,000                         1,014
 
-      82,001       to       84,000                             1,045
+      82,001       to         84,000                         1,045
 
-      84,001       to       86,000                             1,061
+      84,001       to         86,000                         1,061
 
-      86,001       to       88,000                             1,092
+      86,001       to         88,000                         1,092
 
-      88,001       to       90,000                             1,108
+      88,001       to         90,000                         1,108
 
-      90,001       to       92,000                             1,139
+      90,001       to         92,000                         1,139
 
-      92,001       to       94,000                             1,155
+      92,001       to         94,000                         1,155
 
-      94,001       to       96,000                             1,185
+      94,001       to         96,000                         1,185
 
-      96,001       to       98,000                             1,202
+      96,001       to         98,000                         1,202
 
-      98,001       to       100,000                           1,218
+      98,001       to         100,000                       1,218
 
-      100,001     to       102,000                           1,249
+      100,001     to         102,000                       1,249
 
-      102,001     to       104,000                           1,265
+      102,001     to         104,000                       1,265
 
-      104,001     to       105,500                           1,295
+      104,001     to         105,500                       1,295
 
-______________________________________________________________________________
+ 
+
+ 
 
       (b)(A)(i) For the period beginning January 1, 2018, and ending December 31, 2019, the registration fee for motor vehicles with a registration weight of more than 8,000 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined in ORS 825.017 (13), is as provided in the following chart:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2237,109 +2287,111 @@ ______________________________________________________________________________
 
  
 
-      8,001         to       10,000                    $            64
+      8,001         to         10,000                   $    64
 
-      10,001       to       12,000                                  76
+      10,001       to         12,000                         76
 
-      12,001       to       14,000                                  83
+      12,001       to         14,000                         83
 
-      14,001       to       16,000                                  95
+      14,001       to         16,000                         95
 
-      16,001       to       18,000                                102
+      16,001       to         18,000                         102
 
-      18,001       to       20,000                                114
+      18,001       to         20,000                         114
 
-      20,001       to       22,000                                121
+      20,001       to         22,000                         121
 
-      22,001       to       24,000                                133
+      22,001       to         24,000                         133
 
-      24,001       to       26,000                                140
+      24,001       to         26,000                         140
 
-      26,001       to       28,000                                152
+      26,001       to         28,000                         152
 
-      28,001       to       30,000                                159
+      28,001       to         30,000                         159
 
-      30,001       to       32,000                                171
+      30,001       to         32,000                         171
 
-      32,001       to       34,000                                178
+      32,001       to         34,000                         178
 
-      34,001       to       36,000                                191
+      34,001       to         36,000                         191
 
-      36,001       to       38,000                                197
+      36,001       to         38,000                         197
 
-      38,001       to       40,000                                210
+      38,001       to         40,000                         210
 
-      40,001       to       42,000                                216
+      40,001       to         42,000                         216
 
-      42,001       to       44,000                                229
+      42,001       to         44,000                         229
 
-      44,001       to       46,000                                235
+      44,001       to         46,000                         235
 
-      46,001       to       48,000                                241
+      46,001       to         48,000                         241
 
-      48,001       to       50,000                                254
+      48,001       to         50,000                         254
 
-      50,001       to       52,000                                267
+      50,001       to         52,000                         267
 
-      52,001       to       54,000                                273
+      52,001       to         54,000                         273
 
-      54,001       to       56,000                                279
+      54,001       to         56,000                         279
 
-      56,001       to       58,000                                292
+      56,001       to         58,000                         292
 
-      58,001       to       60,000                                305
+      58,001       to         60,000                         305
 
-      60,001       to       62,000                                318
+      60,001       to         62,000                         318
 
-      62,001       to       64,000                                330
+      62,001       to         64,000                         330
 
-      64,001       to       66,000                                337
+      64,001       to         66,000                         337
 
-      66,001       to       68,000                                349
+      66,001       to         68,000                         349
 
-      68,001       to       70,000                                356
+      68,001       to         70,000                         356
 
-      70,001       to       72,000                                368
+      70,001       to         72,000                         368
 
-      72,001       to       74,000                                375
+      72,001       to         74,000                         375
 
-      74,001       to       76,000                                387
+      74,001       to         76,000                         387
 
-      76,001       to       78,000                                394
+      76,001       to         78,000                         394
 
-      78,001       to       80,000                                406
+      78,001       to         80,000                         406
 
-      80,001       to       82,000                                413
+      80,001       to         82,000                         413
 
-      82,001       to       84,000                                425
+      82,001       to         84,000                         425
 
-      84,001       to       86,000                                432
+      84,001       to         86,000                         432
 
-      86,001       to       88,000                                445
+      86,001       to         88,000                         445
 
-      88,001       to       90,000                                451
+      88,001       to         90,000                         451
 
-      90,001       to       92,000                                464
+      90,001       to         92,000                         464
 
-      92,001       to       94,000                                470
+      92,001       to         94,000                         470
 
-      94,001       to       96,000                                483
+      94,001       to         96,000                         483
 
-      96,001       to       98,000                                489
+      96,001       to         98,000                         489
 
-      98,001       to       100,000                              495
+      98,001       to         100,000                       495
 
-      100,001     to       102,000                              508
+      100,001     to         102,000                       508
 
-      102,001     to       104,000                              514
+      102,001     to         104,000                       514
 
-      104,001     to       105,500                              527
+      104,001     to         105,500                       527
+
+ 
 
 ______________________________________________________________________________
 
       (ii) For the period beginning on January 1, 2020, and ending on December 31, 2021, the registration fee for motor vehicles with a registration weight of more than 8,000 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined in ORS 825.017 (13), is as provided in the following chart:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2347,109 +2399,111 @@ ______________________________________________________________________________
 
  
 
-      8,001         to      10,000                    $            68
+      8,001         to        10,000                   $    68
 
-      10,001       to       12,000                                  81
+      10,001       to         12,000                         81
 
-      12,001       to       14,000                                  88
+      12,001       to         14,000                         88
 
-      14,001       to       16,000                                101
+      14,001       to         16,000                         101
 
-      16,001       to       18,000                                108
+      16,001       to         18,000                         108
 
-      18,001       to       20,000                                122
+      18,001       to         20,000                         122
 
-      20,001       to       22,000                                128
+      20,001       to         22,000                         128
 
-      22,001       to       24,000                                142
+      22,001       to         24,000                         142
 
-      24,001       to       26,000                                149
+      24,001       to         26,000                         149
 
-      26,001       to       28,000                                162
+      26,001       to         28,000                         162
 
-      28,001       to       30,000                                169
+      28,001       to         30,000                         169
 
-      30,001       to       32,000                                182
+      30,001       to         32,000                         182
 
-      32,001       to       34,000                                189
+      32,001       to         34,000                         189
 
-      34,001       to       36,000                                203
+      34,001       to         36,000                         203
 
-      36,001       to       38,000                                209
+      36,001       to         38,000                         209
 
-      38,001       to       40,000                                223
+      38,001       to         40,000                         223
 
-      40,001       to       42,000                                230
+      40,001       to         42,000                         230
 
-      42,001       to       44,000                                243
+      42,001       to         44,000                         243
 
-      44,001       to       46,000                                250
+      44,001       to         46,000                         250
 
-      46,001       to       48,000                                257
+      46,001       to         48,000                         257
 
-      48,001       to       50,000                                270
+      48,001       to         50,000                         270
 
-      50,001       to       52,000                                284
+      50,001       to         52,000                         284
 
-      52,001       to       54,000                                290
+      52,001       to         54,000                         290
 
-      54,001       to       56,000                                297
+      54,001       to         56,000                         297
 
-      56,001       to       58,000                                311
+      56,001       to         58,000                         311
 
-      58,001       to       60,000                                324
+      58,001       to         60,000                         324
 
-      60,001       to       62,000                                338
+      60,001       to         62,000                         338
 
-      62,001       to       64,000                                351
+      62,001       to         64,000                         351
 
-      64,001       to       66,000                                358
+      64,001       to         66,000                         358
 
-      66,001       to       68,000                                371
+      66,001       to         68,000                         371
 
-      68,001       to       70,000                                378
+      68,001       to         70,000                         378
 
-      70,001       to       72,000                                392
+      70,001       to         72,000                         392
 
-      72,001       to       74,000                                398
+      72,001       to         74,000                         398
 
-      74,001       to       76,000                                412
+      74,001       to         76,000                         412
 
-      76,001       to       78,000                                419
+      76,001       to         78,000                         419
 
-      78,001       to       80,000                                432
+      78,001       to         80,000                         432
 
-      80,001       to       82,000                                439
+      80,001       to         82,000                         439
 
-      82,001       to       84,000                                452
+      82,001       to         84,000                         452
 
-      84,001       to       86,000                                459
+      84,001       to         86,000                         459
 
-      86,001       to       88,000                                473
+      86,001       to         88,000                         473
 
-      88,001       to       90,000                                479
+      88,001       to         90,000                         479
 
-      90,001       to       92,000                                493
+      90,001       to         92,000                         493
 
-      92,001       to       94,000                                500
+      92,001       to         94,000                         500
 
-      94,001       to       96,000                                513
+      94,001       to         96,000                         513
 
-      96,001       to       98,000                                520
+      96,001       to         98,000                         520
 
-      98,001       to       100,000                              527
+      98,001       to         100,000                       527
 
-      100,001     to       102,000                              540
+      100,001     to         102,000                       540
 
-      102,001     to       104,000                              547
+      102,001     to         104,000                       547
 
-      104,001     to       105,500                              560
+      104,001     to         105,500                       560
 
-______________________________________________________________________________
+ 
 
-      (B)(i) For the period beginning January 1, 2018, and ending December 31, 2019, the registration fee for motor vehicles with a registration weight of more than 8,000 pounds that are certified under ORS 822.205, unless the motor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to transport manufactured structures, is as provided in the following chart:
+ 
 
-______________________________________________________________________________
+      (B)(i) For the period beginning January 1, 2018, and ending December 31, 2019, the registration fee for motor vehicles that are certified under ORS 822.205, unless the motor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to transport manufactured structures, is as provided in the following chart:
+
+ 
 
  
 
@@ -2457,109 +2511,113 @@ ______________________________________________________________________________
 
  
 
-      8,001         to       10,000                    $          130
+      8,000         or         less                        $    56
 
-      10,001       to       12,000                                155
+      8,001         to         10,000                         130
 
-      12,001       to       14,000                                168
+      10,001       to         12,000                         155
 
-      14,001       to       16,000                                194
+      12,001       to         14,000                         168
 
-      16,001       to       18,000                                207
+      14,001       to         16,000                         194
 
-      18,001       to       20,000                                232
+      16,001       to         18,000                         207
 
-      20,001       to       22,000                                245
+      18,001       to         20,000                         232
 
-      22,001       to       24,000                                272
+      20,001       to         22,000                         245
 
-      24,001       to       26,000                                284
+      22,001       to         24,000                         272
 
-      26,001       to       28,000                                310
+      24,001       to         26,000                         284
 
-      28,001       to       30,000                                324
+      26,001       to         28,000                         310
 
-      30,001       to       32,000                                349
+      28,001       to         30,000                         324
 
-      32,001       to       34,000                                362
+      30,001       to         32,000                         349
 
-      34,001       to       36,000                                389
+      32,001       to         34,000                         362
 
-      36,001       to       38,000                                401
+      34,001       to         36,000                         389
 
-      38,001       to       40,000                                427
+      36,001       to         38,000                         401
 
-      40,001       to       42,000                                439
+      38,001       to         40,000                         427
 
-      42,001       to       44,000                                466
+      40,001       to         42,000                         439
 
-      44,001       to       46,000                                479
+      42,001       to         44,000                         466
 
-      46,001       to       48,000                                491
+      44,001       to         46,000                         479
 
-      48,001       to       50,000                                517
+      46,001       to         48,000                         491
 
-      50,001       to       52,000                                544
+      48,001       to         50,000                         517
 
-      52,001       to       54,000                                556
+      50,001       to         52,000                         544
 
-      54,001       to       56,000                                569
+      52,001       to         54,000                         556
 
-      56,001       to       58,000                                594
+      54,001       to         56,000                         569
 
-      58,001       to       60,000                                621
+      56,001       to         58,000                         594
 
-      60,001       to       62,000                                646
+      58,001       to         60,000                         621
 
-      62,001       to       64,000                                673
+      60,001       to         62,000                         646
 
-      64,001       to       66,000                                686
+      62,001       to         64,000                         673
 
-      66,001       to       68,000                                711
+      64,001       to         66,000                         686
 
-      68,001       to       70,000                                724
+      66,001       to         68,000                         711
 
-      70,001       to       72,000                                751
+      68,001       to         70,000                         724
 
-      72,001       to       74,000                                763
+      70,001       to         72,000                         751
 
-      74,001       to       76,000                                789
+      72,001       to         74,000                         763
 
-      76,001       to       78,000                                801
+      74,001       to         76,000                         789
 
-      78,001       to       80,000                                828
+      76,001       to         78,000                         801
 
-      80,001       to       82,000                                841
+      78,001       to         80,000                         828
 
-      82,001       to       84,000                                866
+      80,001       to         82,000                         841
 
-      84,001       to       86,000                                879
+      82,001       to         84,000                         866
 
-      86,001       to       88,000                                906
+      84,001       to         86,000                         879
 
-      88,001       to       90,000                                918
+      86,001       to         88,000                         906
 
-      90,001       to       92,000                                944
+      88,001       to         90,000                         918
 
-      92,001       to       94,000                                958
+      90,001       to         92,000                         944
 
-      94,001       to       96,000                                983
+      92,001       to         94,000                         958
 
-      96,001       to       98,000                                996
+      94,001       to         96,000                         983
 
-      98,001       to       100,000                           1,008
+      96,001       to         98,000                         996
 
-      100,001     to       102,000                           1,035
+      98,001       to         100,000                       1,008
 
-      102,001     to       104,000                           1,048
+      100,001     to         102,000                       1,035
 
-      104,001     to       105,500                           1,073
+      102,001     to         104,000                       1,048
 
-______________________________________________________________________________
+      104,001     to         105,500                       1,073
 
-      (ii) For the period beginning on January 1, 2020, and ending on December 31, 2021, the registration fee for motor vehicles with a registration weight of more than 8,000 pounds that are certified under ORS 822.205, unless the motor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to transport manufactured structures, is as provided in the following chart:
+ 
 
-______________________________________________________________________________
+ 
+
+      (ii) For the period beginning on January 1, 2020, and ending on December 31, 2021, the registration fee for motor vehicles that are certified under ORS 822.205, unless the motor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to transport manufactured structures, is as provided in the following chart:
+
+ 
 
  
 
@@ -2567,111 +2625,115 @@ ______________________________________________________________________________
 
  
 
-      8,001         to       10,000                    $          138
+      8,000         or         less                        $    61
 
-      10,001       to       12,000                                165
+      8,001         to         10,000                         138
 
-      12,001       to       14,000                                178
+      10,001       to         12,000                         165
 
-      14,001       to       16,000                                207
+      12,001       to         14,000                         178
 
-      16,001       to       18,000                                220
+      14,001       to         16,000                         207
 
-      18,001       to       20,000                                247
+      16,001       to         18,000                         220
 
-      20,001       to       22,000                                261
+      18,001       to         20,000                         247
 
-      22,001       to       24,000                                289
+      20,001       to         22,000                         261
 
-      24,001       to       26,000                                302
+      22,001       to         24,000                         289
 
-      26,001       to       28,000                                329
+      24,001       to         26,000                         302
 
-      28,001       to       30,000                                344
+      26,001       to         28,000                         329
 
-      30,001       to       32,000                                371
+      28,001       to         30,000                         344
 
-      32,001       to       34,000                                385
+      30,001       to         32,000                         371
 
-      34,001       to       36,000                                413
+      32,001       to         34,000                         385
 
-      36,001       to       38,000                                427
+      34,001       to         36,000                         413
 
-      38,001       to       40,000                                454
+      36,001       to         38,000                         427
 
-      40,001       to       42,000                                467
+      38,001       to         40,000                         454
 
-      42,001       to       44,000                                495
+      40,001       to         42,000                         467
 
-      44,001       to       46,000                                509
+      42,001       to         44,000                         495
 
-      46,001       to       48,000                                522
+      44,001       to         46,000                         509
 
-      48,001       to       50,000                                549
+      46,001       to         48,000                         522
 
-      50,001       to       52,000                                578
+      48,001       to         50,000                         549
 
-      52,001       to       54,000                                591
+      50,001       to         52,000                         578
 
-      54,001       to       56,000                                605
+      52,001       to         54,000                         591
 
-      56,001       to       58,000                                632
+      54,001       to         56,000                         605
 
-      58,001       to       60,000                                660
+      56,001       to         58,000                         632
 
-      60,001       to       62,000                                687
+      58,001       to         60,000                         660
 
-      62,001       to       64,000                                716
+      60,001       to         62,000                         687
 
-      64,001       to       66,000                                729
+      62,001       to         64,000                         716
 
-      66,001       to       68,000                                756
+      64,001       to         66,000                         729
 
-      68,001       to       70,000                                770
+      66,001       to         68,000                         756
 
-      70,001       to       72,000                                798
+      68,001       to         70,000                         770
 
-      72,001       to       74,000                                811
+      70,001       to         72,000                         798
 
-      74,001       to       76,000                                838
+      72,001       to         74,000                         811
 
-      76,001       to       78,000                                852
+      74,001       to         76,000                         838
 
-      78,001       to       80,000                                880
+      76,001       to         78,000                         852
 
-      80,001       to       82,000                                894
+      78,001       to         80,000                         880
 
-      82,001       to       84,000                                921
+      80,001       to         82,000                         894
 
-      84,001       to       86,000                                934
+      82,001       to         84,000                         921
 
-      86,001       to       88,000                                963
+      84,001       to         86,000                         934
 
-      88,001       to       90,000                                976
+      86,001       to         88,000                         963
 
-      90,001       to       92,000                             1,003
+      88,001       to         90,000                         976
 
-      92,001       to       94,000                             1,018
+      90,001       to         92,000                         1,003
 
-      94,001       to       96,000                             1,045
+      92,001       to         94,000                         1,018
 
-      96,001       to       98,000                             1,058
+      94,001       to         96,000                         1,045
 
-      98,001       to       100,000                           1,072
+      96,001       to         98,000                         1,058
 
-      100,001     to       102,000                           1,100
+      98,001       to         100,000                       1,072
 
-      102,001     to       104,000                           1,114
+      100,001     to         102,000                       1,100
 
-      104,001     to       105,500                           1,141
+      102,001     to         104,000                       1,114
 
-______________________________________________________________________________
+      104,001     to         105,500                       1,141
+
+ 
+
+ 
 
       (C) The owner of a vehicle described in subparagraph (A) or (B) of this paragraph must certify at the time of initial registration, in a manner determined by the department by rule, that the motor vehicle will be used exclusively to transport manufactured structures or exclusively as described in ORS 822.210, unless the motor vehicle is registered under paragraph (a) of this subsection, or as described in ORS 825.015 or 825.017 (13). Registration of a vehicle described in subparagraph (A) or (B) of this paragraph is invalid if the vehicle is operated in any manner other than that described in the certification under this subparagraph.
 
       (c)(A) For the period beginning on January 1, 2018, and ending on December 31, 2019, subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registration weight given in the declaration of weight submitted under ORS 803.435:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2679,111 +2741,113 @@ ______________________________________________________________________________
 
  
 
-      8,000         or       less                         $            44
+      8,000         or         less                        $    44
 
-      8,001         to       10,000                                  58
+      8,001         to         10,000                         58
 
-      10,001       to       12,000                                  67
+      10,001       to         12,000                         67
 
-      12,001       to       14,000                                  86
+      12,001       to         14,000                         86
 
-      14,001       to       16,000                                  97
+      14,001       to         16,000                         97
 
-      16,001       to       18,000                                116
+      16,001       to         18,000                         116
 
-      18,001       to       20,000                                126
+      18,001       to         20,000                         126
 
-      20,001       to       22,000                                145
+      20,001       to         22,000                         145
 
-      22,001       to       24,000                                154
+      22,001       to         24,000                         154
 
-      24,001       to       26,000                                174
+      24,001       to         26,000                         174
 
-      26,001       to       28,000                                183
+      26,001       to         28,000                         183
 
-      28,001       to       30,000                                202
+      28,001       to         30,000                         202
 
-      30,001       to       32,000                                212
+      30,001       to         32,000                         212
 
-      32,001       to       34,000                                231
+      32,001       to         34,000                         231
 
-      34,001       to       36,000                                241
+      34,001       to         36,000                         241
 
-      36,001       to       38,000                                260
+      36,001       to         38,000                         260
 
-      38,001       to       40,000                                271
+      38,001       to         40,000                         271
 
-      40,001       to       42,000                                290
+      40,001       to         42,000                         290
 
-      42,001       to       44,000                                298
+      42,001       to         44,000                         298
 
-      44,001       to       46,000                                319
+      44,001       to         46,000                         319
 
-      46,001       to       48,000                                328
+      46,001       to         48,000                         328
 
-      48,001       to       50,000                                347
+      48,001       to         50,000                         347
 
-      50,001       to       52,000                                357
+      50,001       to         52,000                         357
 
-      52,001       to       54,000                                366
+      52,001       to         54,000                         366
 
-      54,001       to       56,000                                386
+      54,001       to         56,000                         386
 
-      56,001       to       58,000                                405
+      56,001       to         58,000                         405
 
-      58,001       to       60,000                                414
+      58,001       to         60,000                         414
 
-      60,001       to       62,000                                424
+      60,001       to         62,000                         424
 
-      62,001       to       64,000                                443
+      62,001       to         64,000                         443
 
-      64,001       to       66,000                                462
+      64,001       to         66,000                         462
 
-      66,001       to       68,000                                472
+      66,001       to         68,000                         472
 
-      68,001       to       70,000                                483
+      68,001       to         70,000                         483
 
-      70,001       to       72,000                                502
+      70,001       to         72,000                         502
 
-      72,001       to       74,000                                511
+      72,001       to         74,000                         511
 
-      74,001       to       76,000                                531
+      74,001       to         76,000                         531
 
-      76,001       to       78,000                                540
+      76,001       to         78,000                         540
 
-      78,001       to       80,000                                559
+      78,001       to         80,000                         559
 
-      80,001       to       82,000                                569
+      80,001       to         82,000                         569
 
-      82,001       to       84,000                                588
+      82,001       to         84,000                         588
 
-      84,001       to       86,000                                598
+      84,001       to         86,000                         598
 
-      86,001       to       88,000                                617
+      86,001       to         88,000                         617
 
-      88,001       to       90,000                                626
+      88,001       to         90,000                         626
 
-      90,001       to       92,000                                646
+      90,001       to         92,000                         646
 
-      92,001       to       94,000                                655
+      92,001       to         94,000                         655
 
-      94,001       to       96,000                                674
+      94,001       to         96,000                         674
 
-      96,001       to       98,000                                685
+      96,001       to         98,000                         685
 
-      98,001       to       100,000                              704
+      98,001       to         100,000                       704
 
-      100,001     to       102,000                              714
+      100,001     to         102,000                       714
 
-      102,001     to       104,000                              733
+      102,001     to         104,000                       733
 
-      104,001     to       105,500                              743
+      104,001     to         105,500                       743
 
-______________________________________________________________________________
+ 
+
+ 
 
       (B) For the period beginning on January 1, 2020, and ending on December 31, 2021, subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registration weight given in the declaration of weight submitted under ORS 803.435:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2791,113 +2855,121 @@ ______________________________________________________________________________
 
  
 
-      8,000         or       less                         $            47
+      8,000         or         less                        $    47
 
-      8,001         to       10,000                                  62
+      8,001         to         10,000                         62
 
-      10,001       to       12,000                                  72
+      10,001       to         12,000                         72
 
-      12,001       to       14,000                                  92
+      12,001       to         14,000                         92
 
-      14,001       to       16,000                                103
+      14,001       to         16,000                         103
 
-      16,001       to       18,000                                123
+      16,001       to         18,000                         123
 
-      18,001       to       20,000                                134
+      18,001       to         20,000                         134
 
-      20,001       to       22,000                                154
+      20,001       to         22,000                         154
 
-      22,001       to       24,000                                163
+      22,001       to         24,000                         163
 
-      24,001       to       26,000                                185
+      24,001       to         26,000                         185
 
-      26,001       to       28,000                                194
+      26,001       to         28,000                         194
 
-      28,001       to       30,000                                215
+      28,001       to         30,000                         215
 
-      30,001       to       32,000                                225
+      30,001       to         32,000                         225
 
-      32,001       to       34,000                                246
+      32,001       to         34,000                         246
 
-      34,001       to       36,000                                257
+      34,001       to         36,000                         257
 
-      36,001       to       38,000                                277
+      36,001       to         38,000                         277
 
-      38,001       to       40,000                                288
+      38,001       to         40,000                         288
 
-      40,001       to       42,000                                308
+      40,001       to         42,000                         308
 
-      42,001       to       44,000                                317
+      42,001       to         44,000                         317
 
-      44,001       to       46,000                                339
+      44,001       to         46,000                         339
 
-      46,001       to       48,000                                348
+      46,001       to         48,000                         348
 
-      48,001       to       50,000                                369
+      48,001       to         50,000                         369
 
-      50,001       to       52,000                                379
+      50,001       to         52,000                         379
 
-      52,001       to       54,000                                389
+      52,001       to         54,000                         389
 
-      54,001       to       56,000                                410
+      54,001       to         56,000                         410
 
-      56,001       to       58,000                                431
+      56,001       to         58,000                         431
 
-      58,001       to       60,000                                440
+      58,001       to         60,000                         440
 
-      60,001       to       62,000                                451
+      60,001       to         62,000                         451
 
-      62,001       to       64,000                                471
+      62,001       to         64,000                         471
 
-      64,001       to       66,000                                491
+      64,001       to         66,000                         491
 
-      66,001       to       68,000                                502
+      66,001       to         68,000                         502
 
-      68,001       to       70,000                                513
+      68,001       to         70,000                         513
 
-      70,001       to       72,000                                533
+      70,001       to         72,000                         533
 
-      72,001       to       74,000                                543
+      72,001       to         74,000                         543
 
-      74,001       to       76,000                                564
+      74,001       to         76,000                         564
 
-      76,001       to       78,000                                574
+      76,001       to         78,000                         574
 
-      78,001       to       80,000                                594
+      78,001       to         80,000                         594
 
-      80,001       to       82,000                                605
+      80,001       to         82,000                         605
 
-      82,001       to       84,000                                625
+      82,001       to         84,000                         625
 
-      84,001       to       86,000                                636
+      84,001       to         86,000                         636
 
-      86,001       to       88,000                                656
+      86,001       to         88,000                         656
 
-      88,001       to       90,000                                666
+      88,001       to         90,000                         666
 
-      90,001       to       92,000                                687
+      90,001       to         92,000                         687
 
-      92,001       to       94,000                                697
+      92,001       to         94,000                         697
 
-      94,001       to       96,000                                717
+      94,001       to         96,000                         717
 
-      96,001       to       98,000                                728
+      96,001       to         98,000                         728
 
-      98,001       to       100,000                              748
+      98,001       to         100,000                       748
 
-      100,001     to       102,000                              759
+      100,001     to         102,000                       759
 
-      102,001     to       104,000                              779
+      102,001     to         104,000                       779
 
-      104,001     to       105,500                              790
-
-______________________________________________________________________________
-
-      (d) For any vehicle that is registered under a quarterly registration period, the registration fee is a minimum of $15 for each quarter registered plus an additional fee of $2. [1983 c.338 §226; 1985 c.16 §85; 1985 c.177 §2; 1985 c.189 §2; 1985 c.245 §2; 1985 c.253 §4; 1985 c.401 §6; 1985 c.547 §13; 1987 c.6 §2; 1987 c.25 §3; 1987 c.440 §3; 1987 c.750 §7; 1989 c.43 §23; 1989 c.723 §§8,8a; 1989 c.864 §7; 1989 c.865 §§7,7a,7b,7c,7d,7e,7f; 1989 c.992 §§11,11a,11b,11c; 1991 c.284 §17; 1991 c.497 §13; 1991 c.880 §10; 1993 c.174 §7; 1993 c.662 §3; 1993 c.751 §23a; 1995 c.447 §3; 2001 c.124 §3; 2001 c.293 §6; 2003 c.589 §7; 2003 c.618 §2; 2003 c.655 §112; 2005 c.280 §3; 2007 c.664 §1; 2007 c.693 §3d; 2009 c.865 §§43,43a; 2011 c.287 §3; 2015 c.283 §4; 2017 c.750 §34]
+      104,001     to         105,500                       790
 
  
 
-      Note: The amendments to 803.420 by section 35, chapter 750, Oregon Laws 2017, become operative January 1, 2022, and apply to registration fees imposed on or after January 1, 2022. See sections 36 and 139, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
+ 
+
+      (d) For any vehicle that is registered under a quarterly registration period, the registration fee is a minimum of $15 for each quarter registered plus an additional fee of $2.
+
+      (15) The registration and renewal fees for vehicles specified in this subsection that are required to establish a registration weight under ORS 803.430 or 826.013 are as follows:
+
+      (a) State-owned vehicles registered under ORS 805.045, $10.
+
+      (b) Undercover vehicles registered under ORS 805.060, $10. [1983 c.338 §226; 1985 c.16 §85; 1985 c.177 §2; 1985 c.189 §2; 1985 c.245 §2; 1985 c.253 §4; 1985 c.401 §6; 1985 c.547 §13; 1987 c.6 §2; 1987 c.25 §3; 1987 c.440 §3; 1987 c.750 §7; 1989 c.43 §23; 1989 c.723 §§8,8a; 1989 c.864 §7; 1989 c.865 §§7,7a,7b,7c,7d,7e,7f; 1989 c.992 §§11,11a,11b,11c; 1991 c.284 §17; 1991 c.497 §13; 1991 c.880 §10; 1993 c.174 §7; 1993 c.662 §3; 1993 c.751 §23a; 1995 c.447 §3; 2001 c.124 §3; 2001 c.293 §6; 2003 c.589 §7; 2003 c.618 §2; 2003 c.655 §112; 2005 c.280 §3; 2007 c.664 §1; 2007 c.693 §3d; 2009 c.865 §§43,43a; 2011 c.287 §3; 2015 c.283 §4; 2017 c.750 §34; 2018 c.114 §3; 2019 c.491 §16]
+
+ 
+
+      Note: The amendments to 803.420 by section 35, chapter 750, Oregon Laws 2017, become operative January 1, 2022, and apply to registration fees imposed on or after January 1, 2022. See section 36, chapter 750, Oregon Laws 2017, and section 139, chapter 750, Oregon Laws 2017, as amended by section 31, chapter 93, Oregon Laws 2018. The text that is operative on and after January 1, 2022, including amendments by section 4, chapter 114, Oregon Laws 2018, and section 17, chapter 491, Oregon Laws 2019, is set forth for the user’s convenience.
 
       803.420. (1) The vehicle registration fees imposed under this section shall be based on the classifications determined by the Department of Transportation by rule. The department may classify a vehicle to ensure that registration fees for the vehicle are the same as for other vehicles the department determines to be comparable.
 
@@ -2961,6 +3033,8 @@ ______________________________________________________________________________
 
       (d) Trailers, $10.
 
+      (e) State-owned vehicles registered under ORS 805.045 and undercover vehicles registered under ORS 805.060, $10.
+
       (11) The registration fee for trailers registered as part of a fleet under an agreement reached pursuant to ORS 802.500 is the same fee as the fee for vehicles of the same type registered under other provisions of the Oregon Vehicle Code.
 
       (12) The registration fee for vehicles with proportional registration under ORS 826.009, or proportional fleet registration under ORS 826.011, is the same fee as the fee for vehicles of the same type under this section except that the fees shall be fixed on an apportioned basis as provided under the agreement established under ORS 826.007.
@@ -2973,7 +3047,7 @@ ______________________________________________________________________________
 
       (14)(a) The registration fee for motor vehicles required to establish a registration weight under ORS 803.430 or 826.013, tow vehicles used to transport property for hire other than as described in ORS 822.210 and commercial buses is as provided in the following chart, based upon the weight submitted in the declaration of weight prepared under ORS 803.435 or 826.015:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -2981,111 +3055,113 @@ ______________________________________________________________________________
 
  
 
-      8,000         or       less                         $            74
+      8,000         or         less                        $    74
 
-      8,001         to       10,000                                464
+      8,001         to         10,000                         464
 
-      10,001       to       12,000                                528
+      10,001       to         12,000                         528
 
-      12,001       to       14,000                                591
+      12,001       to         14,000                         591
 
-      14,001       to       16,000                                655
+      14,001       to         16,000                         655
 
-      16,001       to       18,000                                718
+      16,001       to         18,000                         718
 
-      18,001       to       20,000                                801
+      18,001       to         20,000                         801
 
-      20,001       to       22,000                                864
+      20,001       to         22,000                         864
 
-      22,001       to       24,000                                949
+      22,001       to         24,000                         949
 
-      24,001       to       26,000                             1,031
+      24,001       to         26,000                         1,031
 
-      26,001       to       28,000                                375
+      26,001       to         28,000                         375
 
-      28,001       to       30,000                                391
+      28,001       to         30,000                         391
 
-      30,001       to       32,000                                422
+      30,001       to         32,000                         422
 
-      32,001       to       34,000                                438
+      32,001       to         34,000                         438
 
-      34,001       to       36,000                                468
+      34,001       to         36,000                         468
 
-      36,001       to       38,000                                485
+      36,001       to         38,000                         485
 
-      38,001       to       40,000                                515
+      38,001       to         40,000                         515
 
-      40,001       to       42,000                                532
+      40,001       to         42,000                         532
 
-      42,001       to       44,000                                562
+      42,001       to         44,000                         562
 
-      44,001       to       46,000                                578
+      44,001       to         46,000                         578
 
-      46,001       to       48,000                                593
+      46,001       to         48,000                         593
 
-      48,001       to       50,000                                625
+      48,001       to         50,000                         625
 
-      50,001       to       52,000                                656
+      50,001       to         52,000                         656
 
-      52,001       to       54,000                                672
+      52,001       to         54,000                         672
 
-      54,001       to       56,000                                686
+      54,001       to         56,000                         686
 
-      56,001       to       58,000                                717
+      56,001       to         58,000                         717
 
-      58,001       to       60,000                                750
+      58,001       to         60,000                         750
 
-      60,001       to       62,000                                780
+      60,001       to         62,000                         780
 
-      62,001       to       64,000                                811
+      62,001       to         64,000                         811
 
-      64,001       to       66,000                                827
+      64,001       to         66,000                         827
 
-      66,001       to       68,000                                857
+      66,001       to         68,000                         857
 
-      68,001       to       70,000                                874
+      68,001       to         70,000                         874
 
-      70,001       to       72,000                                904
+      70,001       to         72,000                         904
 
-      72,001       to       74,000                                921
+      72,001       to         74,000                         921
 
-      74,001       to       76,000                                951
+      74,001       to         76,000                         951
 
-      76,001       to       78,000                                967
+      76,001       to         78,000                         967
 
-      78,001       to       80,000                                998
+      78,001       to         80,000                         998
 
-      80,001       to       82,000                             1,014
+      80,001       to         82,000                         1,014
 
-      82,001       to       84,000                             1,045
+      82,001       to         84,000                         1,045
 
-      84,001       to       86,000                             1,061
+      84,001       to         86,000                         1,061
 
-      86,001       to       88,000                             1,092
+      86,001       to         88,000                         1,092
 
-      88,001       to       90,000                             1,108
+      88,001       to         90,000                         1,108
 
-      90,001       to       92,000                             1,139
+      90,001       to         92,000                         1,139
 
-      92,001       to       94,000                             1,155
+      92,001       to         94,000                         1,155
 
-      94,001       to       96,000                             1,185
+      94,001       to         96,000                         1,185
 
-      96,001       to       98,000                             1,202
+      96,001       to         98,000                         1,202
 
-      98,001       to       100,000                           1,218
+      98,001       to         100,000                       1,218
 
-      100,001     to       102,000                           1,249
+      100,001     to         102,000                       1,249
 
-      102,001     to       104,000                           1,265
+      102,001     to         104,000                       1,265
 
-      104,001     to       105,500                           1,295
+      104,001     to         105,500                       1,295
 
-______________________________________________________________________________
+ 
+
+ 
 
       (b)(A) The registration fee for motor vehicles with a registration weight of more than 8,000 pounds that are described in ORS 825.015, that are operated by a charitable organization as defined in ORS 825.017 (13), is as provided in the following chart:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -3093,109 +3169,111 @@ ______________________________________________________________________________
 
  
 
-      8,001         to      10,000                    $            71
+      8,001         to        10,000                   $    71
 
-      10,001       to       12,000                                  85
+      10,001       to         12,000                         85
 
-      12,001       to       14,000                                  92
+      12,001       to         14,000                         92
 
-      14,001       to       16,000                                107
+      14,001       to         16,000                         107
 
-      16,001       to       18,000                                114
+      16,001       to         18,000                         114
 
-      18,001       to       20,000                                128
+      18,001       to         20,000                         128
 
-      20,001       to       22,000                                135
+      20,001       to         22,000                         135
 
-      22,001       to       24,000                                149
+      22,001       to         24,000                         149
 
-      24,001       to       26,000                                156
+      24,001       to         26,000                         156
 
-      26,001       to       28,000                                170
+      26,001       to         28,000                         170
 
-      28,001       to       30,000                                178
+      28,001       to         30,000                         178
 
-      30,001       to       32,000                                192
+      30,001       to         32,000                         192
 
-      32,001       to       34,000                                199
+      32,001       to         34,000                         199
 
-      34,001       to       36,000                                213
+      34,001       to         36,000                         213
 
-      36,001       to       38,000                                220
+      36,001       to         38,000                         220
 
-      38,001       to       40,000                                234
+      38,001       to         40,000                         234
 
-      40,001       to       42,000                                241
+      40,001       to         42,000                         241
 
-      42,001       to       44,000                                256
+      42,001       to         44,000                         256
 
-      44,001       to       46,000                                263
+      44,001       to         46,000                         263
 
-      46,001       to       48,000                                270
+      46,001       to         48,000                         270
 
-      48,001       to       50,000                                284
+      48,001       to         50,000                         284
 
-      50,001       to       52,000                                298
+      50,001       to         52,000                         298
 
-      52,001       to       54,000                                305
+      52,001       to         54,000                         305
 
-      54,001       to       56,000                                312
+      54,001       to         56,000                         312
 
-      56,001       to       58,000                                327
+      56,001       to         58,000                         327
 
-      58,001       to       60,000                                341
+      58,001       to         60,000                         341
 
-      60,001       to       62,000                                355
+      60,001       to         62,000                         355
 
-      62,001       to       64,000                                369
+      62,001       to         64,000                         369
 
-      64,001       to       66,000                                376
+      64,001       to         66,000                         376
 
-      66,001       to       68,000                                391
+      66,001       to         68,000                         391
 
-      68,001       to       70,000                                398
+      68,001       to         70,000                         398
 
-      70,001       to       72,000                                412
+      70,001       to         72,000                         412
 
-      72,001       to       74,000                                419
+      72,001       to         74,000                         419
 
-      74,001       to       76,000                                433
+      74,001       to         76,000                         433
 
-      76,001       to       78,000                                440
+      76,001       to         78,000                         440
 
-      78,001       to       80,000                                454
+      78,001       to         80,000                         454
 
-      80,001       to       82,000                                462
+      80,001       to         82,000                         462
 
-      82,001       to       84,000                                476
+      82,001       to         84,000                         476
 
-      84,001       to       86,000                                483
+      84,001       to         86,000                         483
 
-      86,001       to       88,000                                497
+      86,001       to         88,000                         497
 
-      88,001       to       90,000                                504
+      88,001       to         90,000                         504
 
-      90,001       to       92,000                                518
+      90,001       to         92,000                         518
 
-      92,001       to       94,000                                525
+      92,001       to         94,000                         525
 
-      94,001       to       96,000                                540
+      94,001       to         96,000                         540
 
-      96,001       to       98,000                                547
+      96,001       to         98,000                         547
 
-      98,001       to       100,000                              554
+      98,001       to         100,000                       554
 
-      100,001     to       102,000                              568
+      100,001     to         102,000                       568
 
-      102,001     to       104,000                              575
+      102,001     to         104,000                       575
 
-      104,001     to       105,500                              589
+      104,001     to         105,500                       589
 
-______________________________________________________________________________
+ 
 
-      (B) The registration fee for motor vehicles with a registration weight of more than 8,000 pounds that are certified under ORS 822.205, unless the motor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to transport manufactured structures, is as provided in the following chart:
+ 
 
-______________________________________________________________________________
+      (B) The registration fee for motor vehicles that are certified under ORS 822.205, unless the motor vehicles are registered under paragraph (a) of this subsection, or that are used exclusively to transport manufactured structures, is as provided in the following chart:
+
+ 
 
  
 
@@ -3203,111 +3281,115 @@ ______________________________________________________________________________
 
  
 
-      8,001         to       10,000                    $          145
+      8,000         or         less                        $    63
 
-      10,001       to       12,000                                173
+      8,001         to         10,000                         145
 
-      12,001       to       14,000                                187
+      10,001       to         12,000                         173
 
-      14,001       to       16,000                                217
+      12,001       to         14,000                         187
 
-      16,001       to       18,000                                231
+      14,001       to         16,000                         217
 
-      18,001       to       20,000                                260
+      16,001       to         18,000                         231
 
-      20,001       to       22,000                                274
+      18,001       to         20,000                         260
 
-      22,001       to       24,000                                304
+      20,001       to         22,000                         274
 
-      24,001       to       26,000                                318
+      22,001       to         24,000                         304
 
-      26,001       to       28,000                                346
+      24,001       to         26,000                         318
 
-      28,001       to       30,000                                362
+      26,001       to         28,000                         346
 
-      30,001       to       32,000                                391
+      28,001       to         30,000                         362
 
-      32,001       to       34,000                                405
+      30,001       to         32,000                         391
 
-      34,001       to       36,000                                435
+      32,001       to         34,000                         405
 
-      36,001       to       38,000                                449
+      34,001       to         36,000                         435
 
-      38,001       to       40,000                                477
+      36,001       to         38,000                         449
 
-      40,001       to       42,000                                491
+      38,001       to         40,000                         477
 
-      42,001       to       44,000                                521
+      40,001       to         42,000                         491
 
-      44,001       to       46,000                                535
+      42,001       to         44,000                         521
 
-      46,001       to       48,000                                550
+      44,001       to         46,000                         535
 
-      48,001       to       50,000                                578
+      46,001       to         48,000                         550
 
-      50,001       to       52,000                                608
+      48,001       to         50,000                         578
 
-      52,001       to       54,000                                622
+      50,001       to         52,000                         608
 
-      54,001       to       56,000                                636
+      52,001       to         54,000                         622
 
-      56,001       to       58,000                                665
+      54,001       to         56,000                         636
 
-      58,001       to       60,000                                694
+      56,001       to         58,000                         665
 
-      60,001       to       62,000                                723
+      58,001       to         60,000                         694
 
-      62,001       to       64,000                                753
+      60,001       to         62,000                         723
 
-      64,001       to       66,000                                767
+      62,001       to         64,000                         753
 
-      66,001       to       68,000                                795
+      64,001       to         66,000                         767
 
-      68,001       to       70,000                                809
+      66,001       to         68,000                         795
 
-      70,001       to       72,000                                839
+      68,001       to         70,000                         809
 
-      72,001       to       74,000                                853
+      70,001       to         72,000                         839
 
-      74,001       to       76,000                                882
+      72,001       to         74,000                         853
 
-      76,001       to       78,000                                896
+      74,001       to         76,000                         882
 
-      78,001       to       80,000                                926
+      76,001       to         78,000                         896
 
-      80,001       to       82,000                                940
+      78,001       to         80,000                         926
 
-      82,001       to       84,000                                968
+      80,001       to         82,000                         940
 
-      84,001       to       86,000                                983
+      82,001       to         84,000                         968
 
-      86,001       to       88,000                             1,012
+      84,001       to         86,000                         983
 
-      88,001       to       90,000                             1,027
+      86,001       to         88,000                         1,012
 
-      90,001       to       92,000                             1,055
+      88,001       to         90,000                         1,027
 
-      92,001       to       94,000                             1,071
+      90,001       to         92,000                         1,055
 
-      94,001       to       96,000                             1,099
+      92,001       to         94,000                         1,071
 
-      96,001       to       98,000                             1,113
+      94,001       to         96,000                         1,099
 
-      98,001       to       100,000                           1,127
+      96,001       to         98,000                         1,113
 
-      100,001     to       102,000                           1,157
+      98,001       to         100,000                       1,127
 
-      102,001     to       104,000                           1,172
+      100,001     to         102,000                       1,157
 
-      104,001     to       105,500                           1,200
+      102,001     to         104,000                       1,172
 
-______________________________________________________________________________
+      104,001     to         105,500                       1,200
+
+ 
+
+ 
 
       (C) The owner of a vehicle described in subparagraph (A) or (B) of this paragraph must certify at the time of initial registration, in a manner determined by the department by rule, that the motor vehicle will be used exclusively to transport manufactured structures or exclusively as described in ORS 822.210, unless the motor vehicle is registered under paragraph (a) of this subsection, or as described in ORS 825.015 or 825.017 (13). Registration of a vehicle described in subparagraph (A) or (B) of this paragraph is invalid if the vehicle is operated in any manner other than that described in the certification under this subparagraph.
 
       (c) Subject to paragraph (d) of this subsection, the registration fee for motor vehicles registered as farm vehicles under ORS 805.300 is as provided in the following chart, based upon the registration weight given in the declaration of weight submitted under ORS 803.435:
 
-______________________________________________________________________________
+ 
 
  
 
@@ -3315,109 +3397,117 @@ ______________________________________________________________________________
 
  
 
-      8,000         or       less                         $            50
+      8,000         or         less                        $    50
 
-      8,001         to       10,000                                  65
+      8,001         to         10,000                         65
 
-      10,001       to       12,000                                  75
+      10,001       to         12,000                         75
 
-      12,001       to       14,000                                  97
+      12,001       to         14,000                         97
 
-      14,001       to       16,000                                108
+      14,001       to         16,000                         108
 
-      16,001       to       18,000                                129
+      16,001       to         18,000                         129
 
-      18,001       to       20,000                                141
+      18,001       to         20,000                         141
 
-      20,001       to       22,000                                162
+      20,001       to         22,000                         162
 
-      22,001       to       24,000                                172
+      22,001       to         24,000                         172
 
-      24,001       to       26,000                                195
+      24,001       to         26,000                         195
 
-      26,001       to       28,000                                204
+      26,001       to         28,000                         204
 
-      28,001       to       30,000                                226
+      28,001       to         30,000                         226
 
-      30,001       to       32,000                                237
+      30,001       to         32,000                         237
 
-      32,001       to       34,000                                258
+      32,001       to         34,000                         258
 
-      34,001       to       36,000                                270
+      34,001       to         36,000                         270
 
-      36,001       to       38,000                                291
+      36,001       to         38,000                         291
 
-      38,001       to       40,000                                302
+      38,001       to         40,000                         302
 
-      40,001       to       42,000                                324
+      40,001       to         42,000                         324
 
-      42,001       to       44,000                                334
+      42,001       to         44,000                         334
 
-      44,001       to       46,000                                356
+      44,001       to         46,000                         356
 
-      46,001       to       48,000                                366
+      46,001       to         48,000                         366
 
-      48,001       to       50,000                                388
+      48,001       to         50,000                         388
 
-      50,001       to       52,000                                399
+      50,001       to         52,000                         399
 
-      52,001       to       54,000                                409
+      52,001       to         54,000                         409
 
-      54,001       to       56,000                                432
+      54,001       to         56,000                         432
 
-      56,001       to       58,000                                453
+      56,001       to         58,000                         453
 
-      58,001       to       60,000                                463
+      58,001       to         60,000                         463
 
-      60,001       to       62,000                                474
+      60,001       to         62,000                         474
 
-      62,001       to       64,000                                496
+      62,001       to         64,000                         496
 
-      64,001       to       66,000                                517
+      64,001       to         66,000                         517
 
-      66,001       to       68,000                                528
+      66,001       to         68,000                         528
 
-      68,001       to       70,000                                540
+      68,001       to         70,000                         540
 
-      70,001       to       72,000                                561
+      70,001       to         72,000                         561
 
-      72,001       to       74,000                                571
+      72,001       to         74,000                         571
 
-      74,001       to       76,000                                594
+      74,001       to         76,000                         594
 
-      76,001       to       78,000                                604
+      76,001       to         78,000                         604
 
-      78,001       to       80,000                                625
+      78,001       to         80,000                         625
 
-      80,001       to       82,000                                636
+      80,001       to         82,000                         636
 
-      82,001       to       84,000                                657
+      82,001       to         84,000                         657
 
-      84,001       to       86,000                                669
+      84,001       to         86,000                         669
 
-      86,001       to       88,000                                690
+      86,001       to         88,000                         690
 
-      88,001       to       90,000                                700
+      88,001       to         90,000                         700
 
-      90,001       to       92,000                                723
+      90,001       to         92,000                         723
 
-      92,001       to       94,000                                733
+      92,001       to         94,000                         733
 
-      94,001       to       96,000                                754
+      94,001       to         96,000                         754
 
-      96,001       to       98,000                                765
+      96,001       to         98,000                         765
 
-      98,001       to       100,000                              787
+      98,001       to         100,000                       787
 
-      100,001     to       102,000                              798
+      100,001     to         102,000                       798
 
-      102,001     to       104,000                              819
+      102,001     to         104,000                       819
 
-      104,001     to       105,500                              831
+      104,001     to         105,500                       831
 
-______________________________________________________________________________
+ 
+
+ 
 
       (d) For any vehicle that is registered under a quarterly registration period, the registration fee is a minimum of $15 for each quarter registered plus an additional fee of $2.
+
+      (15) The registration and renewal fees for vehicles specified in this subsection that are required to establish a registration weight under ORS 803.430 or 826.013 are as follows:
+
+      (a) State-owned vehicles registered under ORS 805.045, $10.
+
+      (b) Undercover vehicles registered under ORS 805.060, $10.
 
  
 
@@ -3439,7 +3529,7 @@ ______________________________________________________________________________
 
  
 
-      Note: The amendments to 803.422 by section 33, chapter 750, Oregon Laws 2017, become operative January 1, 2022, and apply to fees imposed on or after January 1, 2022. See sections 39 and 139, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
+      Note: The amendments to 803.422 by section 33, chapter 750, Oregon Laws 2017, become operative January 1, 2022, and apply to fees imposed on or after January 1, 2022. See section 39, chapter 750, Oregon Laws 2017, and section 139, chapter 750, Oregon Laws 2017, as amended by section 31, chapter 93, Oregon Laws 2018. The text that is operative on and after January 1, 2022, is set forth for the user’s convenience.
 
       803.422. (1) As used in this section, “miles per gallon” or “MPG” means the distance traveled in a vehicle powered by one gallon of fuel.
 
@@ -3553,7 +3643,15 @@ ______________________________________________________________________________
 
       (4) Any registration fee imposed under this section shall be imposed in a manner consistent with ORS 803.420.
 
-      (5) No county or district may impose a vehicle registration fee that would by itself, or in combination with any other vehicle registration fee imposed under this section, exceed the amount of the fee imposed under ORS 803.420 (6)(a). The owner of any vehicle subject to multiple fees under this section shall be allowed a credit or credits with respect to one or more of such fees so that the total of such fees does not exceed the amount of the fee imposed under ORS 803.420 (6)(a). [1989 c.864 §2; 2017 c.750 §39f]
+      (5) A county or district may not impose a vehicle registration fee that would by itself, or in combination with any other vehicle registration fee imposed under this section, exceed the sum of the fee imposed under ORS 803.420 (6)(a) and the fee applicable to the registered vehicle under ORS 803.422. The owner of any vehicle subject to multiple fees under this section shall be allowed a credit or credits with respect to one or more of such fees so that the total of such fees does not exceed the sum of the fee imposed under ORS 803.420 (6)(a) and the fee applicable to the registered vehicle under ORS 803.422. [1989 c.864 §2; 2017 c.750 §39f; 2018 c.93 §23]
+
+ 
+
+      Note: Sections 5 and 6, chapter 491, Oregon Laws 2019, provide:
+
+      Sec. 5. Section 6 of this 2019 Act is added to and made a part of the Oregon Vehicle Code. [2019 c.491 §5]
+
+      Sec. 6. Notwithstanding ORS 803.445 (5), a metropolitan service district established under ORS chapter 268 may impose a vehicle registration fee that does not exceed the sum of the fee imposed under ORS 803.420 (6)(a) and the fee applicable to the registered vehicle under ORS 803.422, if the vehicle registration fee is approved by the electors of the district before December 31, 2022. [2019 c.491 §6]
 
  
 
@@ -3593,11 +3691,11 @@ ______________________________________________________________________________
 
  
 
-      803.460 Certification or other proof of compliance with financial responsibility requirements; rules. The Department of Transportation shall not renew the registration of a motor vehicle unless one of the following occurs:
+      803.460 Proof of compliance with financial responsibility requirements; rules. The Department of Transportation shall not renew the registration of a motor vehicle unless one of the following occurs:
 
-      (1) The owner of the vehicle certifies compliance with financial responsibility requirements for the vehicle and certifies that the owner will remain in compliance with the requirements for the term of the registration or until the vehicle is sold. This subsection does not apply if a renewal of registration is accompanied by an application for transfer of title arising from the sale of the vehicle. Exemptions from this subsection are established in ORS 806.020. The form of certification required for this subsection shall be as required under ORS 806.180.
+      (1) The owner of the vehicle provides proof of compliance with financial responsibility requirements for the vehicle and certifies that the owner will remain in compliance with the requirements for the term of the registration or until the vehicle is sold. This subsection does not apply if a renewal of registration is accompanied by an application for transfer of title arising from the sale of the vehicle. Exemptions from this subsection are established in ORS 806.020. The form of proof of compliance required for this subsection shall be as required under ORS 806.180.
 
-      (2) The department receives satisfactory proof of compliance with financial responsibility requirements by some means other than the certification described in subsection (1) of this section. The department may determine by rule what constitutes satisfactory proof for purposes of this subsection. [1983 c.338 §235; 1985 c.714 §7; 1993 c.751 §92]
+      (2) The department receives satisfactory proof of compliance with financial responsibility requirements by some means other than the means described in subsection (1) of this section. The department may determine by rule what constitutes satisfactory proof of compliance with financial responsibility requirements for purposes of this subsection. [1983 c.338 §235; 1985 c.714 §7; 1993 c.751 §92; 2019 c.312 §9]
 
  
 
@@ -3705,13 +3803,21 @@ ______________________________________________________________________________
 
  
 
-      803.530 Period of validity; transfer; replacement. Registration plates assigned to a vehicle by the Department of Transportation shall remain with the vehicle to which the plates are assigned and are valid only during the registration period for which the plates are issued except as provided in the following:
+      803.530 Period of validity; transfer; replacement. (1) Registration plates assigned to a vehicle by the Department of Transportation shall remain with the vehicle to which the plates are assigned and are valid only during the registration period for which the plates are issued except as provided in this section.
 
-      (1) The department may allow registration plates to be transferred to another vehicle upon receipt of an application and payment of a plate transfer fee under ORS 803.575 in addition to any required registration fee. The department shall transfer registration plates under this subsection unless the department determines that the plates are:
+      (2) The department may allow registration plates to be transferred to another vehicle if:
 
-      (a) So old, damaged, mutilated or otherwise rendered illegible as to be not useful for purposes of identification; or
+      (a) The department receives an application;
 
-      (b) Not any of the following:
+      (b) The applicant pays the plate transfer fee under ORS 803.575; and
+
+      (c) The applicant complies with the registration qualifications described in ORS 803.350.
+
+      (3) The department shall transfer registration plates under this section if the applicant and the vehicle qualify for the plates and the plates are:
+
+      (a) Legible and capable of being used for identification purposes; and
+
+      (b) Any of the following:
 
       (A) From a current issue of registration plates;
 
@@ -3721,27 +3827,39 @@ ______________________________________________________________________________
 
       (D) Special registration plates issued under ORS 805.255, 805.260, 805.263, 805.266, 805.278 or 805.283;
 
-      (E) Group plates issued under ORS 805.205; or
+      (E) Group registration plates issued under ORS 805.205;
 
-      (F) Veterans plates issued under ORS 805.105.
+      (F) Veterans’ recognition registration plates issued under ORS 805.105;
 
-      (2) The owner of a registered vehicle to which a plate is assigned may replace a registration plate that is illegally altered or that is lost, destroyed or mutilated in a manner that renders illegible any identification on the plate. The following apply to this subsection:
+      (G) Pacific Wonderland registration plates issued under ORS 805.287; or
 
-      (a) To replace a plate under this subsection, the owner must apply to the department for replacement of the damaged or lost plate in a form prescribed by the department and pay the replacement plate fee established under ORS 803.575.
+      (H) Registration plates issued through the special registration program under ORS 805.222.
 
-      (b) The application must state the facts of the damage, destruction or loss of the plate.
+      (4) Notwithstanding ORS 803.400, when registration plates are transferred from one vehicle to another vehicle owned by the same person, the registration period represented by the plates also transfers with the plates. When registration plates are transferred from one vehicle to another vehicle not owned by the same person, the remaining registration period represented by the transferred plates ceases for both the vehicle receiving the transferred plates and the vehicle from which the plates were removed.
 
-      (c) The department, in lieu of replacement, may issue duplicate plates for the same fee as charged for replacements.
+      (5) The owner of a registered vehicle to which a plate is assigned may replace a registration plate. The following apply to this subsection:
 
-      (d) The plates issued under this subsection are valid only for the period of the plates replaced.
+      (a) To replace a plate under this subsection, the owner must apply to the department for replacement of the plate in a form prescribed by the department and pay the replacement plate fee established under ORS 803.575.
 
-      (3) A county may replace a registration plate that is from a specially designed government series with a registration plate that is from a regular series. The following apply to this subsection:
+      (b) The department, in lieu of replacement, may issue duplicate plates for the same fee as charged for replacements.
+
+      (c) The plates issued under this subsection are valid only for the period of the plates replaced.
+
+      (6) A county may replace a registration plate that is from a specially designed government series with a registration plate that is from a regular series. The following apply to this subsection:
 
       (a) To replace a plate under this subsection, the county must apply to the department for replacement of the plate in a form prescribed by the department and pay the replacement plate fee established under ORS 803.575.
 
       (b) The plates issued under this subsection are valid only for the period of the plates replaced.
 
-      (4) This section does not apply to special interest registration plates approved under ORS 805.210. [1983 c.338 §259; 1985 c.16 §100; 1985 c.174 §5; 1985 c.243 §3; 1985 c.570 §3; 1987 c.158 §163; 1993 c.741 §120; 2001 c.827 §3; 2003 c.409 §8; 2005 c.71 §1; 2015 c.540 §3; 2015 c.806 §17]
+      (7) If the department retired the vehicle’s registration under ORS 819.030 because the vehicle is totaled or substantially altered, a person may apply under subsection (2) of this section to transfer the registration plates to another vehicle.
+
+      (8) Subject to subsections (2) and (4) of this section, after the department authorizes the use of special interest plates under ORS 805.210, a person may apply to transfer the plates to either:
+
+      (a) A vehicle that was previously determined by the department to qualify as a vehicle of special interest; or
+
+      (b) A vehicle approved by the department as a vehicle of special interest at the time of application.
+
+      (9) If a person described in subsection (8) of this section provides the department with only one special interest registration plate for transfer and the department’s vehicle records show the special interest registration plate belongs to a vehicle record with no owner matching an applicant, the applicant shall provide proof, as determined by the department by rule, that the plate is no longer used on the vehicle it is currently showing being registered to in the department’s vehicle records. [1983 c.338 §259; 1985 c.16 §100; 1985 c.174 §5; 1985 c.243 §3; 1985 c.570 §3; 1987 c.158 §163; 1993 c.741 §120; 2001 c.827 §3; 2003 c.409 §8; 2005 c.71 §1; 2015 c.540 §3; 2015 c.806 §17; 2018 c.114 §10; 2019 c.17 §3]
 
  
 
@@ -3861,6 +3979,34 @@ ______________________________________________________________________________
 
  
 
+      803.552 Car rental company; issuance of plates; fees; rules. (1) As used in this section:
+
+      (a) “Car rental company” has the meaning given that term in ORS 803.219.
+
+      (b) “Integrator” has the meaning given that term in ORS 802.600.
+
+      (2) If the Department of Transportation receives an application for vehicle registration from a car rental company that was submitted to an integrator and the application does not include the primary ownership record for the motor vehicle, the department may issue registration plates for the vehicle if the conditions described in subsection (3) of this section are met.
+
+      (3) Before the department may issue registration plates under subsection (2) of this section, a car rental company must:
+
+      (a) Possess a valid Oregon vehicle dealer certificate issued or renewed under ORS 822.020 or 822.040;
+
+      (b) Certify that the car rental company has not received the primary ownership record for the vehicle as of the date the application is submitted; and
+
+      (c) Meet any other requirements adopted by the department by rule.
+
+      (4) In addition to any fee for registration or issuance of registration plates, the department may charge a fee for providing the services authorized by this section. The department shall establish the amount of the fee by rule.
+
+      (5) The department shall adopt rules to carry out the provisions of this section. [2019 c.348 §2]
+
+ 
+
+      Note: 803.552 was added to and made a part of the Oregon Vehicle Code by legislative action but was not added to ORS chapter 803 or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+ 
+
 (Stickers)
 
  
@@ -3885,7 +4031,7 @@ ______________________________________________________________________________
 
       803.565 Removal of stickers upon sale of vehicle by dealer or towing business. (1) Except as provided in subsections (2) and (3) of this section, when a person who has a vehicle dealer certificate issued under ORS 822.020 or a towing business certificate issued under ORS 822.205 sells a motor vehicle that has valid Oregon registration plates, the person shall remove the registration stickers from the registration plates of the vehicle if the vehicle:
 
-      (a) Has a gross vehicle weight rating of 8,000 pounds or less;
+      (a) Has a gross vehicle weight rating of 10,000 pounds or less;
 
       (b) Is designed to carry passengers; and
 
@@ -3897,7 +4043,7 @@ ______________________________________________________________________________
 
       (b) The person sells the vehicle to another person who has a vehicle dealer certificate issued under ORS 822.020.
 
-      (3) A person who has a towing business certificate issued under ORS 822.205 need not remove registration stickers under subsection (1) of this section if the person sells the vehicle to a person who has a vehicle dealer certificate issued under ORS 822.020 or to a person who has a dismantler certificate issued under ORS 822.110. [2003 c.600 §2; 2005 c.61 §1; 2005 c.654 §40]
+      (3) A person who has a towing business certificate issued under ORS 822.205 need not remove registration stickers under subsection (1) of this section if the person sells the vehicle to a person who has a vehicle dealer certificate issued under ORS 822.020 or to a person who has a dismantler certificate issued under ORS 822.110. [2003 c.600 §2; 2005 c.61 §1; 2005 c.654 §40; 2019 c.312 §32]
 
  
 
@@ -3925,13 +4071,13 @@ ______________________________________________________________________________
 
       (2) The fee for issuance of a replacement or duplicate registration plate under ORS 803.530 is the fee established under ORS 803.570, together with a fee of $5 if the plate is issued at the time of renewal of registration or a fee of $10 if the plate is issued at any other time.
 
-      (3) The fee for transfer of registration plate under ORS 803.530 or 803.590 is $6.
+      (3) The fee for transfer of registration plate under ORS 803.530 is $6.
 
       (4) The fee for issuance of replacement registration stickers under ORS 803.555, is $10.
 
       (5) The fee for issuance of both replacement or duplicate registration plates and replacement registration stickers, when issued at the same time, is the fee established under ORS 803.570, together with a fee of $5 if the plate and stickers are issued at the time of renewal of registration or a fee of $10 if the plate and stickers are issued at any other time.
 
-      (6) A fee paid under subsection (2), (4) or (5) of this section includes the cost of any duplicate or replacement registration card issued. [1983 c.338 §271; 1985 c.16 §110; 1985 c.174 §8; 1985 c.736 §2; 1987 c.750 §8; 1993 c.751 §95; 1999 c.1009 §1; 2001 c.668 §2]
+      (6) A fee paid under subsection (2), (4) or (5) of this section includes the cost of any duplicate or replacement registration card issued. [1983 c.338 §271; 1985 c.16 §110; 1985 c.174 §8; 1985 c.736 §2; 1987 c.750 §8; 1993 c.751 §95; 1999 c.1009 §1; 2001 c.668 §2; 2019 c.17 §4]
 
  
 
@@ -3957,25 +4103,99 @@ ______________________________________________________________________________
 
  
 
-(Miscellaneous)
+      803.590 [1983 c.338 §219; 1985 c.253 §2; 1987 c.750 §9; 1989 c.43 §29; 1989 c.103 §1; 1989 c.723 §12; 1993 c.751 §96; 2003 c.655 §116; 2005 c.770 §4; repealed by 2019 c.17 §6]
 
  
 
-      803.590 Disposition of plates and refund of fees when certain vehicles are destroyed or withdrawn from service. (1) The owner of a vehicle described in this subsection shall be permitted to transfer the registration plates from the vehicle to a like vehicle to be similarly used if the vehicle is destroyed or permanently withdrawn from service within this state and if the registration fee for the vehicle was more than $10. To make a transfer of registration under this section, the owner of the vehicle shall pay the Department of Transportation a registration transfer fee established under ORS 803.575, file a statement indicating the withdrawal or destruction with the department and surrender any registration card issued for the vehicle. If the weight in the declaration of weight of the vehicle receiving the transferred registration exceeds that of the vehicle destroyed or withdrawn, the owner must pay registration fees on the increased weight. This subsection applies to the following vehicles:
+(Diesel Engines)
 
-      (a) Motor trucks with a registration weight of more than 10,000 pounds.
+ 
 
-      (b) Truck tractors with a registration weight of more than 8,000 pounds.
+      803.591 Requirements for vehicles with diesel engines; exceptions; rules. (1) As used in this section and ORS 803.593:
 
-      (c) Commercial buses.
+      (a) “Diesel engine” has the meaning given that term in ORS 468A.795.
 
-      (2) If a vehicle described under this subsection is destroyed accidentally so as to be incapable of further operation, the person in whose name the vehicle is registered is entitled to a refund of that portion of the fee applicable to the then unexpired portion of the registration period. Any registration card and registration plates issued for the vehicle must be surrendered to the department for cancellation when application for refund is made under this section. Claims for refunds under this section shall be filed and paid as provided for refunds under ORS 802.110. To qualify for a refund under this section, a registration fee in excess of $10 must have been paid for the vehicle, the vehicle must have been registered in this state and the vehicle must be one of the following:
+      (b) “Heavy-duty truck” has the meaning given that term in ORS 468A.795.
 
-      (a) A motor truck with a registration weight of more than 10,000 pounds.
+      (c) “Medium-duty truck” has the meaning given that term in ORS 468A.795.
 
-      (b) A truck tractor with a registration weight of more than 8,000 pounds.
+      (d) “Public body” has the meaning given that term in ORS 174.109.
 
-      (c) A travel trailer or camper. [1983 c.338 §219; 1985 c.253 §2; 1987 c.750 §9; 1989 c.43 §29; 1989 c.103 §1; 1989 c.723 §12; 1993 c.751 §96; 2003 c.655 §116; 2005 c.770 §4]
+      (2) On and after January 1, 2025, the Department of Transportation may not issue a certificate of title for the following motor vehicles if the address of the owner of the motor vehicle is located within Multnomah, Clackamas or Washington County:
+
+      (a) A medium-duty truck powered by a model year 2009 or older diesel engine.
+
+      (b) A heavy-duty truck powered by a model year 2006 or older diesel engine.
+
+      (3) The department may not issue registration or renewal of registration on and after the following dates for the following motor vehicles if the address of the owner of the motor vehicle is located within Multnomah, Clackamas or Washington County:
+
+      (a) January 1, 2023, for a medium-duty truck or a heavy-duty truck if the motor vehicle is powered by a model year 1996 or older diesel engine.
+
+      (b) January 1, 2029, for:
+
+      (A) A medium-duty truck powered by a model year 2009 or older diesel engine.
+
+      (B) A heavy-duty truck powered by a model year 2009 or older diesel engine owned by a public body.
+
+      (C) A heavy-duty truck powered by a model year 2006 or older diesel engine owned by a person other than a public body.
+
+      (4) Notwithstanding subsections (2) and (3) of this section, the department may issue a certificate of title, issue registration or issue renewal of registration for a motor vehicle described in subsection (2) or (3) of this section after a date described in subsection (2) or (3) of this section if:
+
+      (a) The diesel engine that powers the motor vehicle has been retrofitted with approved retrofit technology pursuant to rules adopted by the Environmental Quality Commission under ORS 468A.810; and
+
+      (b) Proof of certification of the retrofit has been issued under ORS 468A.810.
+
+      (5) The following motor vehicles are exempt from the requirements of this section:
+
+      (a) Motor vehicles registered as farm vehicles under the provisions of ORS 805.300.
+
+      (b) Farm tractors.
+
+      (c) Implements of husbandry.
+
+      (d) Motor vehicles used exclusively as training vehicles.
+
+      (e) Publicly and privately owned emergency vehicles.
+
+      (f) Ambulances.
+
+      (g) Campers.
+
+      (h) Motor homes.
+
+      (i) Recreational vehicles.
+
+      (j) Heavy-duty trucks operated for 5,000 miles or fewer on highways of this state during one calendar year.
+
+      (k) Carriers with a fleet size of five or fewer heavy-duty trucks.
+
+      (L) Antique vehicles.
+
+      (m) Motor trucks, as defined in ORS 801.355, used primarily to transport logs.
+
+      (6)(a) In order for registration to continue to be valid for a motor vehicle that is owned by a public body and subject to subsection (3) of this section, the public body shall, in a manner determined by the department by rule, submit proof to the department that the motor vehicle complies with subsection (3) of this section. Proof of compliance must be on a form supplied by the department and must include such information as the department may require. Proof of compliance for a motor vehicle owned by a public body is valid until the ownership of the vehicle changes.
+
+      (b) The department shall provide notice to a public body of the requirement under this subsection to submit proof of compliance with subsection (3) of this section. The notice shall be issued to the public body no later than one year prior to the date that the proof of compliance must be submitted to the department.
+
+      (7) The department may adopt rules as necessary to administer this section. [2019 c.645 §4]
+
+ 
+
+      Note: 803.591 and 803.593 were added to and made a part of the Oregon Vehicle Code by legislative action but were not added to ORS chapter 803 or any series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      803.593 Annual report. (1) No later than September 15 of each year, the Department of Transportation shall submit a report in the manner provided by ORS 192.245 to the interim committees of the Legislative Assembly related to transportation and the environment on the registration of medium-duty trucks and heavy-duty trucks in this state. The purposes of the report shall be to identify and address trends in the registration of medium-duty trucks and heavy-duty trucks in this state over time and to identify any effects that the requirements of ORS 803.591 may have on the trends in registration.
+
+      (2) The report shall include information on:
+
+      (a) The number of medium-duty trucks and heavy-duty trucks registered in each county in this state; and
+
+      (b) The number of medium-duty trucks and heavy-duty trucks registered in this state that are motor vehicles described in ORS 803.591 (5). [2019 c.645 §5]
+
+ 
+
+      Note: See note under 803.591.
 
  
 
@@ -3987,17 +4207,25 @@ VEHICLE PERMITS
 
       (1) The department shall issue the following types of trip permits to authorize the described type of operation and, except as provided in subsection (2) of this section, may not issue trip permits for any other purpose:
 
-      (a) A heavy motor vehicle trip permit may be issued for a motor vehicle with a combined weight or loaded weight of more than 8,000 pounds or that is a fixed load motor vehicle, and that is not registered in this state. A permit described in this paragraph is valid for 10 consecutive days.
+      (a) A heavy motor vehicle trip permit may be issued for the following vehicles that are not registered in this state:
 
-      (b) A heavy trailer trip permit may be issued for a trailer that will be operated on the highways at a loaded weight of more than 8,000 pounds or that is a fixed load vehicle, and that is not registered to allow operation of the vehicle in this state. A permit described in this paragraph is valid for 10 consecutive days. This paragraph does not apply to travel trailers.
+      (A) Motor vehicles with a combined weight or loaded weight of more than 10,000 pounds;
 
-      (c) A light vehicle trip permit may be issued for a vehicle with a combined weight or loaded weight of less than 8,001 pounds that is not a fixed load vehicle and that is not registered to allow operation of the vehicle in this state. Permits described in this paragraph may be issued for a period of 21 consecutive days. The department may not issue more than two permits under this paragraph in a 12-month period for any one vehicle unless all registered owners of the vehicle are replaced by new owners. If there is a complete change in ownership of the vehicle, as shown by the registration records for the vehicle, a new owner may receive permits for the vehicle under this paragraph as if no permits had been issued for the vehicle. This paragraph does not apply to campers, travel trailers or motor homes, which are eligible for recreational vehicle trip permits under paragraph (d) of this subsection.
+      (B) Truck tractors that are more than 8,000 pounds; or
 
-      (d) A recreational vehicle trip permit may be issued for a period of up to 10 consecutive days for a camper, travel trailer or motor home that is not registered for operation in this state. A person buying a recreational vehicle trip permit must show proof satisfactory to the Department of Transportation that the person is the owner of the camper, travel trailer or motor home for which the permit will be granted. A person may not receive recreational vehicle trip permits authorizing more than 10 days of operation in any 12-month period. A person who applies for a recreational vehicle trip permit must certify that the person has not been granted permits that together, and including the permit applied for, exceed the maximum number of days of operation allowed by this paragraph.
+      (C) Fixed load motor vehicles.
 
-      (e) A registration weight trip permit may be issued for a vehicle that is registered in this state, to allow the vehicle to be operated with a greater combined weight or loaded weight than is permitted by the registration weight established for the vehicle or at a greater combined weight or loaded weight than is otherwise permitted under the registration for the vehicle if the vehicle is not required to establish a registration weight. A permit issued under this paragraph does not authorize movements or operations for which a variance permit is required under ORS 818.200. A permit issued under this paragraph shall show the maximum registration weight allowed for operation under the permit. A permit issued under this paragraph is valid for 10 consecutive days.
+      (b) A permit described in paragraph (a) of this subsection is valid for 10 consecutive days.
 
-      (f) A registered vehicle trip permit may be issued for a vehicle that is registered in this state to allow the vehicle to operate under conditions or in ways not permitted by the terms of the vehicle registration. The department shall determine by rule the kinds of operation for which permits may be issued under this paragraph. A permit issued under this paragraph is valid for 10 consecutive days.
+      (c) A heavy trailer trip permit may be issued for a trailer that will be operated on the highways at a loaded weight of more than 8,000 pounds or that is a fixed load vehicle, and that is not registered to allow operation of the vehicle in this state. A permit described in this paragraph is valid for 10 consecutive days. This paragraph does not apply to travel trailers.
+
+      (d) A light vehicle trip permit may be issued for a vehicle with a combined weight or loaded weight of less than 10,001 pounds that is not a fixed load vehicle and that is not registered to allow operation of the vehicle in this state. Permits described in this paragraph may be issued for a period of 21 consecutive days. The department may not issue more than two permits under this paragraph in a 12-month period for any one vehicle unless all registered owners of the vehicle are replaced by new owners. If there is a complete change in ownership of the vehicle, as shown by the registration records for the vehicle, a new owner may receive permits for the vehicle under this paragraph as if no permits had been issued for the vehicle. This paragraph does not apply to campers, travel trailers or motor homes, which are eligible for recreational vehicle trip permits under paragraph (e) of this subsection.
+
+      (e) A recreational vehicle trip permit may be issued for a period of up to 10 consecutive days for a camper, travel trailer or motor home that is not registered for operation in this state. A person buying a recreational vehicle trip permit must show proof satisfactory to the department that the person is the owner of the camper, travel trailer or motor home for which the permit will be granted. A person may not receive recreational vehicle trip permits authorizing more than 10 days of operation in any 12-month period. The department may determine by rule the method for ensuring a person has not exceeded the maximum number of days of operation allowed by the permit.
+
+      (f) A registration weight trip permit may be issued for a vehicle that is registered in this state, to allow the vehicle to be operated with a greater combined weight or loaded weight than is permitted by the registration weight established for the vehicle or at a greater combined weight or loaded weight than is otherwise permitted under the registration for the vehicle if the vehicle is not required to establish a registration weight. A permit issued under this paragraph does not authorize movements or operations for which a variance permit is required under ORS 818.200. A permit issued under this paragraph shall show the maximum registration weight allowed for operation under the permit. A permit issued under this paragraph is valid for 10 consecutive days.
+
+      (g) A registered vehicle trip permit may be issued for a vehicle that is registered in this state to allow the vehicle to operate under conditions or in ways not permitted by the terms of the vehicle registration. The department shall determine by rule the kinds of operation for which permits may be issued under this paragraph. A permit issued under this paragraph is valid for 10 consecutive days.
 
       (2) The department shall allow a person issued a vehicle dealer certificate under ORS 822.020 or a towing business certificate under ORS 822.205 to issue a 10-day trip permit to a person who buys a motor vehicle from the person with the certificate if the registration stickers are removed in accordance with ORS 803.565. The following apply to trip permits issued under this subsection:
 
@@ -4033,7 +4261,7 @@ VEHICLE PERMITS
 
       (10) Unregistered vehicles that are operated without a trip permit are subject to the prohibitions and penalties for operation of unregistered vehicles under ORS 803.300 or 803.315, as appropriate.
 
-      (11) A trip permit may be issued to a school vehicle registered under ORS 805.050 for use of the vehicle for purposes not permitted under ORS 805.050. [1983 c.338 §272; 1985 c.16 §111; 1985 c.313 §4; 1985 c.547 §16; 1989 c.723 §13; 1991 c.284 §19; 1991 c.360 §4; 1991 c.407 §29; 1993 c.174 §9; 1995 c.733 §86; 1997 c.421 §1; 2001 c.412 §1; 2003 c.600 §3; 2003 c.655 §117; 2007 c.50 §3]
+      (11) A trip permit may be issued to a school vehicle registered under ORS 805.050 for use of the vehicle for purposes not permitted under ORS 805.050. [1983 c.338 §272; 1985 c.16 §111; 1985 c.313 §4; 1985 c.547 §16; 1989 c.723 §13; 1991 c.284 §19; 1991 c.360 §4; 1991 c.407 §29; 1993 c.174 §9; 1995 c.733 §86; 1997 c.421 §1; 2001 c.412 §1; 2003 c.600 §3; 2003 c.655 §117; 2007 c.50 §3; 2019 c.312 §29]
 
  
 
@@ -4045,7 +4273,7 @@ VEHICLE PERMITS
 
  
 
-      803.602 Statement of insurance coverage for certain trip permits. An applicant for a light vehicle trip permit, a recreational vehicle trip permit for a motor vehicle or a trip permit issued under ORS 803.600 (2) must submit, at the time of application, a statement indicating that the vehicle that will be operated under the permit is covered by an insurance policy that meets the requirements of ORS 806.080 and will continue to be covered by the policy for as long as the permit is valid. The statement shall include the name of the insurer and the policy number. The Department of Transportation or, if the permit is issued under ORS 803.600 (2), the person with the vehicle dealer certificate or towing business certificate shall refuse to issue a permit to a person who does not submit the statement required by this section. [1991 c.360 §2; 1993 c.751 §28; 2001 c.412 §2; 2003 c.600 §5]
+      803.602 Proof of insurance coverage for certain trip permits. An applicant for a light vehicle trip permit, a recreational vehicle trip permit for a motor vehicle or a trip permit issued under ORS 803.600 (2) must submit, at the time of application, proof indicating that the vehicle that will be operated under the permit is covered by an insurance policy that meets the requirements of ORS 806.080 and will continue to be covered by the policy for as long as the permit is valid. The proof must include the name of the insurer and the policy number. The Department of Transportation or, if the permit is issued under ORS 803.600 (2), the person with the vehicle dealer certificate or towing business certificate shall refuse to issue a permit to a person who does not present the proof required by this section. [1991 c.360 §2; 1993 c.751 §28; 2001 c.412 §2; 2003 c.600 §5; 2019 c.312 §30]
 
  
 
@@ -4161,9 +4389,9 @@ VEHICLE PERMITS
 
  
 
-      Note: The amendments to 803.645 by section 49, chapter 750, Oregon Laws 2017, become operative January 1, 2024, and apply to fees imposed on or after January 1, 2024. See sections 50 and 139, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2024, is set forth for the user’s convenience.
+      Note: The amendments to 803.645 by section 49, chapter 750, Oregon Laws 2017, become operative January 1, 2024, and apply to fees imposed on or after January 1, 2024. See section 50, chapter 750, Oregon Laws 2017, and section 139, chapter 750, Oregon Laws 2017, as amended by section 31, chapter 93, Oregon Laws 2018. The text that is operative on and after January 1, 2024, is set forth for the user’s convenience.
 
-      803.645. (1) Fees for trip permits issued under ORS 803.600 are as follows:
+      803.645. Fees for trip permits issued under ORS 803.600 are as follows:
 
       (1) For a heavy motor vehicle trip permit, $43.
 
@@ -4203,6 +4431,12 @@ VEHICLE PERMITS
 
       803.665 Towing commercial fishing boat without permit. Notwithstanding ORS 803.600, a person may tow the person’s own commercial fishing boat without a trip permit and regardless of the weight permitted under the registration of the trailer if the combined weight of the towing vehicle, the trailer and the boat is 15,000 pounds or less. [1989 c.992 §12b]
 
+ 
+
 CHAPTER 804 [Reserved for expansion]
 
+ 
+
 _______________
+
+ 

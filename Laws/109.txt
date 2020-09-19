@@ -505,7 +505,7 @@ RIGHTS OF MINORS
 
  
 
-109.610     Right to care for certain diseases without parental consent
+109.610     Right to care for certain sexually transmitted infections without parental consent
 
  
 
@@ -775,7 +775,7 @@ PARENT AND CHILD RELATIONSHIP
 
       (A) A voluntary acknowledgment of paternity form has been filed in this or another state and the period for rescinding or challenging the voluntary acknowledgment on grounds other than fraud, duress or material mistake of fact has expired; or
 
-      (B) Parentage has been established pursuant to an order or judgment entered under ORS 109.124 to 109.230 or 416.430.
+      (B) Parentage has been established pursuant to an order or judgment entered under ORS 25.550 or 109.124 to 109.230.
 
       (c) As used in this subsection, “expenses of a minor child” includes only expenses incurred for the benefit of a minor child.
 
@@ -795,7 +795,7 @@ PARENT AND CHILD RELATIONSHIP
 
  
 
-      109.015 Proceedings for child support if child receives public assistance. If public assistance, as defined in ORS 416.400, is provided for any dependent child, the administrator, as defined in ORS 25.010, may initiate proceedings under ORS chapter 18, 107, 108, 109, 110 or 125 or ORS 25.010 to 25.243, 25.378, 25.402, 416.400 to 416.465, 419B.400 or 419C.590 to obtain support for the child from one or both parents or from any other person legally responsible for the support of the child, including a guardian or conservator. In any proceeding under any statute cited in this section, the obligee is a party. [1983 c.767 §2; 1985 c.671 §44c; 1991 c.67 §22; 1993 c.33 §371; 1993 c.596 §19; 1993 c.798 §45; 1995 c.608 §36; 1997 c.249 §37; 2003 c.73 §54; 2003 c.572 §14; 2003 c.576 §577b; 2007 c.643 §2]
+      109.015 Proceedings for child support if child receives public assistance. If public assistance, as defined in ORS 25.501, is provided for any dependent child, the administrator, as defined in ORS 25.010, may initiate proceedings under ORS chapter 18, 107, 108, 109, 110 or 125 or ORS 25.010 to 25.243, 25.378, 25.402, 25.501 to 25.556, 419B.400 or 419C.590 to obtain support for the child from one or both parents or from any other person legally responsible for the support of the child, including a guardian or conservator. In any proceeding under any statute cited in this section, the obligee is a party. [1983 c.767 §2; 1985 c.671 §44c; 1991 c.67 §22; 1993 c.33 §371; 1993 c.596 §19; 1993 c.798 §45; 1995 c.608 §36; 1997 c.249 §37; 2003 c.73 §54; 2003 c.572 §14; 2003 c.576 §577b; 2007 c.643 §2]
 
  
 
@@ -875,6 +875,8 @@ PARENT AND CHILD RELATIONSHIP
 
       (b) The natural parents of the adopted person, their descendants and kindred
 
+ 
+
 shall be the same to all legal intents and purposes after the entry of such judgment as if the adopted person had been born in lawful wedlock to the adoptive parents and had not been born to the natural parents.
 
       (2) When a person has been or shall be adopted in this state by a stepparent, this section shall leave unchanged the relationship, rights and obligations between such adopted person and descendants of the adopted person and natural parent of the adopted person, who is the spouse of the person who adopted the person, and the descendants and kindred of such natural parent. [1953 c.650 §1; 2003 c.576 §134]
@@ -935,13 +937,13 @@ shall be the same to all legal intents and purposes after the entry of such judg
 
       (e) An effective acknowledgement of paternity by the man under ORS 109.070 or pursuant to the laws of another state, unless the acknowledgement has been rescinded or successfully challenged;
 
-      (f) Establishment of paternity by an administrative order issued pursuant to ORS chapter 416;
+      (f) Establishment of paternity by an administrative order issued pursuant to ORS 25.501 to 25.556;
 
       (g) Filiation proceedings; or
 
       (h) Parentage being established or declared by another provision of law.
 
-      (2) A person is the mother of a child to whom the person gives birth. [2017 c.651 §2]
+      (2) A person is the mother of a child to whom the person gives birth. [2017 c.651 §2; 2019 c.13 §28]
 
  
 
@@ -993,7 +995,7 @@ shall be the same to all legal intents and purposes after the entry of such judg
 
       (f) If the court finds by a preponderance of the evidence that the acknowledgment was signed because of fraud, duress or material mistake of fact, the court shall set aside the acknowledgment unless, giving consideration to the interests of the parties and the child, the court finds that setting aside the acknowledgment would be substantially inequitable.
 
-      (7) Within one year after a voluntary acknowledgment of paternity form is filed in this state and if blood tests, as defined in ORS 109.251, have not been completed, a party to the acknowledgment, or the department if the child named in the acknowledgment is in the care and custody of the department under ORS chapter 419B, may apply to the administrator for an order for blood tests in accordance with ORS 416.443.
+      (7) Within one year after a voluntary acknowledgment of paternity form is filed in this state and if blood tests, as defined in ORS 109.251, have not been completed, a party to the acknowledgment, or the department if the child named in the acknowledgment is in the care and custody of the department under ORS chapter 419B, may apply to the administrator for an order for blood tests in accordance with ORS 25.554.
 
       (8)(a) A voluntary acknowledgment of paternity is not valid if, before the party signed the acknowledgment:
 
@@ -1109,7 +1111,7 @@ shall be the same to all legal intents and purposes after the entry of such judg
 
  
 
-      109.073 Social Security number of parent in paternity order. Except as otherwise provided in ORS 25.020, the final four digits of the Social Security number of a parent who is subject to a parentage determination pursuant to ORS 109.065 (1)(e) or (g) or 416.400 to 416.465 shall be included in the order, judgment or other declaration establishing paternity. [1997 c.746 §123; 1999 c.80 §94; 2005 c.160 §§12,18; 2015 c.197 §5; 2017 c.651 §17]
+      109.073 Social Security number of parent in paternity order. Except as otherwise provided in ORS 25.020, the final four digits of the Social Security number of a parent who is subject to a parentage determination pursuant to ORS 25.501 to 25.556 or 109.065 (1)(e) or (g) shall be included in the order, judgment or other declaration establishing paternity. [1997 c.746 §123; 1999 c.80 §94; 2005 c.160 §§12,18; 2015 c.197 §5; 2017 c.651 §17]
 
  
 
@@ -1183,7 +1185,7 @@ shall be the same to all legal intents and purposes after the entry of such judg
 
       (2) The petitioner shall state in the petition, to the extent known:
 
-      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the minor child, including a proceeding brought under ORS 25.287, 107.085, 107.135, 107.431, 108.110, 109.103, 109.165, 125.025, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110; and
+      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the minor child, including a proceeding brought under ORS 25.287, 25.501 to 25.556, 107.085, 107.135, 107.431, 108.110, 109.103, 109.165, 125.025, 419B.400 or 419C.590 or ORS chapter 110; and
 
       (b) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the minor child.
 
@@ -1201,7 +1203,7 @@ shall be the same to all legal intents and purposes after the entry of such judg
 
       (2) A parent may initiate the proceeding by filing with the court a petition setting forth the facts and circumstances upon which the parent relies. The parent shall state in the petition, to the extent known:
 
-      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including one brought under ORS 109.100, 109.165, 125.025, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110; and
+      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including one brought under ORS 25.501 to 25.556, 109.100, 109.165, 125.025, 419B.400 or 419C.590 or ORS chapter 110; and
 
       (b) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the child.
 
@@ -1463,7 +1465,7 @@ FILIATION PROCEEDINGS
 
       (2) The moving party shall state in the motion, to the extent known:
 
-      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including a proceeding brought under ORS 25.287, 109.100, 125.025, 416.400 to 416.465, 419B.400 or 419C.590 or ORS chapter 110; and
+      (a) Whether there is pending in this state or any other jurisdiction any type of support proceeding involving the child, including a proceeding brought under ORS 25.287, 25.501 to 25.556, 109.100, 125.025, 419B.400 or 419C.590 or ORS chapter 110; and
 
       (b) Whether there exists in this state or any other jurisdiction a support order, as defined in ORS 110.503, involving the child, other than the judgment the party is moving to set aside, alter or modify.
 
@@ -1493,7 +1495,7 @@ FILIATION PROCEEDINGS
 
  
 
-      109.175 Determination of legal custody after parentage established. (1) If parentage of a child born out of wedlock is established pursuant to a petition filed under ORS 109.125 or an order or judgment entered pursuant to ORS 109.124 to 109.230 or ORS 416.400 to 416.465, or if parentage is established by the filing of a voluntary acknowledgment of paternity as provided by ORS 109.065 (1)(e), the parent with physical custody at the time of filing of the petition or the notice under ORS 416.415, or the parent with physical custody at the time of the filing of the voluntary acknowledgment of paternity, has sole legal custody until a court specifically orders otherwise. The first time the court determines who should have legal custody, neither parent shall have the burden of proving a change of circumstances. The court shall give primary consideration to the best interests and welfare of the child and shall consider all the standards set out in ORS 107.137.
+      109.175 Determination of legal custody after parentage established. (1) If parentage of a child born out of wedlock is established pursuant to a petition filed under ORS 109.125 or an order or judgment entered pursuant to ORS 25.501 to 25.556 or 109.124 to 109.230, or if parentage is established by the filing of a voluntary acknowledgment of paternity as provided by ORS 109.065 (1)(e), the parent with physical custody at the time of filing of the petition or the notice under ORS 25.511, or the parent with physical custody at the time of the filing of the voluntary acknowledgment of paternity, has sole legal custody until a court specifically orders otherwise. The first time the court determines who should have legal custody, neither parent shall have the burden of proving a change of circumstances. The court shall give primary consideration to the best interests and welfare of the child and shall consider all the standards set out in ORS 107.137.
 
       (2) In any proceeding under this section, the court may cause an investigation, examination or evaluation to be made under ORS 107.425 or may appoint an individual or a panel or may designate a program to assist the court in creating parenting plans or resolving disputes regarding parenting time and to assist parents in creating and implementing parenting plans under ORS 107.425 (3). [1983 c.761 §11; 1985 c.671 §42; 1995 c.608 §4; 1999 c.59 §25; 1999 c.569 §8; 2001 c.833 §3; 2005 c.160 §§15,21; 2017 c.651 §25]
 
@@ -1605,7 +1607,7 @@ UNIFORM ACT ON BLOOD TESTS TO DETERMINE PATERNITY
 
  
 
-      109.252 Authority for blood test; effect of refusal to submit to test; payment for test. (1) Unless the court or administrator finds good cause not to proceed in a proceeding under ORS 109.125 to 109.230 and 416.400 to 416.465, in which parentage is a relevant fact, the court or administrator, as defined in ORS 25.010, upon the court’s or administrator’s own initiative or upon suggestion made by or on behalf of any person whose blood is involved may, or upon motion of any party to the action made at a time so as not to delay the proceedings unduly shall, order the mother, child, alleged father and any other named respondent who may be the father to submit to blood tests. If any person refuses to submit to such tests, the court or administrator may resolve the question of parentage against such person or enforce the court’s or administrator’s order if the rights of others and the interests of justice so require.
+      109.252 Authority for blood test; effect of refusal to submit to test; payment for test. (1) Unless the court or administrator finds good cause not to proceed in a proceeding under ORS 25.501 to 25.556 and 109.125 to 109.230, in which parentage is a relevant fact, the court or administrator, as defined in ORS 25.010, upon the court’s or administrator’s own initiative or upon suggestion made by or on behalf of any person whose blood is involved may, or upon motion of any party to the action made at a time so as not to delay the proceedings unduly shall, order the mother, child, alleged father and any other named respondent who may be the father to submit to blood tests. If any person refuses to submit to such tests, the court or administrator may resolve the question of parentage against such person or enforce the court’s or administrator’s order if the rights of others and the interests of justice so require.
 
       (2) When child support enforcement services are being provided under ORS 25.080, the Child Support Program shall pay any costs for blood tests subject to recovery from the party who requested the tests. If the original test result is contested prior to the entry of an order establishing parentage, the court or administrator shall order additional testing upon request and advance payment by the party making the request. [1953 c.628 §1; 1969 c.619 §13; 1983 c.762 §7; 1985 c.671 §43; 1999 c.80 §25; 2001 c.455 §18; 2007 c.71 §28; 2017 c.651 §27]
 
@@ -1715,16 +1717,6 @@ ADOPTION
 
  
 
-      Note: Section 12 (1), chapter 795, Oregon Laws 2015, provides:
-
-      Sec. 12. (1) Section 5 of this 2015 Act [109.306] and the amendments to ORS 109.309, 419A.004, 419B.090 and 419B.395 by sections 1 to 4 of this 2015 Act apply to:
-
-      (a) Children and wards who are in the legal custody of the Department of Human Services before, on or after the operative date specified in section 13 (1) of this 2015 Act [September 1, 2015]; and
-
-      (b) Children and wards for whom placement decisions are made on or after the operative date specified in section 13 (1) of this 2015 Act. [2015 c.795 §12(1)]
-
- 
-
       Note: 109.306 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 109 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -1810,10 +1802,6 @@ ADOPTION
       (b) A person is not required to file a home study or a placement report with the court when the department has granted the person a waiver under department rules.
 
       (13) The adoption shall comply with the Indian Child Welfare Act (25 U.S.C. 1901 et seq.), if applicable. [1993 c.717 §2 (enacted in lieu of 109.310); 1993 c.717 §9; 1995 c.90 §3; 1995 c.730 §2; 1997 c.470 §1; 1999 c.160 §2; 1999 c.649 §52; 2003 c.258 §1; 2003 c.576 §144; 2005 c.475 §1; 2013 c.346 §2; 2015 c.511 §7; 2015 c.795 §4]
-
- 
-
-      Note: See first note under 109.306.
 
  
 
@@ -2247,25 +2235,25 @@ FOR THE COUNTY OF _________
 
  
 
-_________,                 )
+_________,     )
 
-Petitioner,                   )     NO._____
+Petitioner,       )           NO._____
 
-                                    )
+                        )
 
-                                    )     ANSWER
+                        )           ANSWER
 
-and                               )
+and                  )
 
-                                    )
+                        )
 
-_________,                 )
+_________,     )
 
-Respondent.                )
+Respondent.    )
 
  
 
-      [  ] I consent to the entry of a judgment of nonparentage.
+      I consent to the entry of a judgment of nonparentage.
 
       [  ] I do not consent to the entry of a judgment of nonparentage. The court should not enter a judgment of nonparentage for the following reasons:
 
@@ -2285,7 +2273,7 @@ __________________
 
 Signature
 
-DATE: _____________________
+DATE:_____________________
 
 ADDRESS OR CONTACT ADDRESS:
 
@@ -2427,21 +2415,21 @@ FOR THE COUNTY OF _________
 
  
 
-_________,                 )
+_________,     )
 
-Petitioner,                   )     NO._____
+Petitioner,       )           NO._____
 
-                                    )
+                        )
 
-                                    )     ANSWER
+                        )           ANSWER
 
-and                               )
+and                  )
 
-                                    )
+                        )
 
-_________,                 )
+_________,     )
 
-Respondent.                )
+Respondent.    )
 
  
 
@@ -2465,7 +2453,7 @@ __________________
 
 Signature
 
-DATE: __________________
+DATE:__________________
 
 ADDRESS OR CONTACT ADDRESS:
 
@@ -2822,6 +2810,8 @@ ___________
  
 
 In the Matter of the Adoption of:
+
+ 
 
 ___________________________
 
@@ -3397,9 +3387,11 @@ RIGHTS OF MINORS
 
  
 
-      109.610 Right to care for certain diseases without parental consent. (1) Notwithstanding any other provision of law, a minor who may have come into contact with any venereal disease, including HIV, may give consent to the furnishing of hospital, medical or surgical care related to the diagnosis or treatment of such disease, if the disease or condition is one which is required by law or regulation adopted pursuant to law to be reported to a state or local health agency or officer. Such consent shall not be subject to disaffirmance because of minority.
+      109.610 Right to care for certain sexually transmitted infections without parental consent. (1) Notwithstanding any other provision of law, a minor who may have come into contact with any sexually transmitted infection may give consent to the furnishing of hospital, medical or surgical care related to the diagnosis or treatment of the sexually transmitted infection, if the sexually transmitted infection is one that is required by law or regulation adopted pursuant to law to be reported to a state or local health agency or officer. Consent given under this subsection may not be disaffirmed based on minority.
 
-      (2) The consent of the parent, parents, or legal guardian of such minor shall not be necessary to authorize such hospital, medical or surgical care and without having given consent the parent, parents, or legal guardian shall not be liable for payment for any such care rendered. [Formerly 109.105; 1977 c.303 §1; 2012 c.26 §5; 2015 c.736 §48]
+      (2)(a) The consent of a parent or legal guardian of a minor described in subsection (1) of this section is not required to authorize the care described in subsection (1) of this section.
+
+      (b) A parent or legal guardian who does not consent to the care described in subsection (1) of this section is not liable for payment for the care provided under subsection (1) of this section. [Formerly 109.105; 1977 c.303 §1; 2012 c.26 §5; 2015 c.736 §48; 2019 c.456 §§1,1a]
 
  
 

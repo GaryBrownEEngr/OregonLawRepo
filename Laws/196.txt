@@ -4,8 +4,6 @@ Chapter 196 — Columbia River Gorge; Ocean Resource Planning; Wetlands; Removal
 
  
 
- 
-
 
  
 
@@ -171,10 +169,6 @@ Note          Technical advisory committee report--2012 c.27 §4
 
  
 
-Note          Committee to evaluate grant of permit for ocean renewable energy facilities--2015 c.386 §14
-
- 
-
 (Marine Reserves)
 
  
@@ -220,6 +214,10 @@ Note          Committee to evaluate grant of permit for ocean renewable energy f
  
 
 196.569     Report
+
+ 
+
+196.570     Agreements between Oregon Ocean Science Trust and private organizations; records; use of funds
 
  
 
@@ -379,6 +377,10 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
+(Streamlining)
+
+ 
+
 Note          Provision relating to fills depending on EPA approval--1989 c.45 §2
 
  
@@ -387,7 +389,13 @@ Note          Provision relating to fills depending on EPA approval--1989 c.45 �
 
  
 
-196.800     Definitions for ORS 196.600 to 196.905
+Note          Proposal for partial state assumption of permit authority--2019 c.652 §§1,2
+
+(Generally)
+
+ 
+
+196.800     Definitions for ORS 196.600 to 196.921
 
  
 
@@ -487,11 +495,55 @@ Note          Wetland delineation determinations--2012 c.108 §§1,2,3,4
 
  
 
-196.905     Applicability; rules
+(Traditionally Maintained Channels)
 
  
 
-196.910     Monitoring fill and removal activities; public education and information materials; periodic reports to legislative committee
+196.906     Legislative findings and declarations
+
+ 
+
+196.909     Definitions
+
+ 
+
+196.911     Maintenance without permit; applicability; notice
+
+ 
+
+196.913     Prohibitions; conditions
+
+ 
+
+196.915     State agencies’ review and responses to notice; additional conditions; expedited review; variances; inspections; records; rules
+
+ 
+
+196.917     Notice of violation; reasonable efforts to induce voluntary compliance
+
+ 
+
+196.919     Memoranda of understanding
+
+ 
+
+(Temporary provisions relating to study and reporting regarding maintenance activities in traditionally maintained channels are compiled as notes following ORS 196.919)
+
+ 
+
+(Applicability; Rules)
+
+ 
+
+196.921     Applicability; rules
+
+ 
+
+(Monitoring; Education; Reports)
+
+ 
+
+196.931 Monitoring fill and removal activities; public education and information materials; periodic reports to legislative committee
 
  
 
@@ -629,8 +681,6 @@ ______________________________________________________________________________
 
       A compact is entered into by and between the states of Washington and Oregon, signatories hereto, with the consent of the Congress of the United States of America, granted by an Act entitled, “The Columbia River Gorge National Scenic Area Act,” P.L. 99-663.
 
- 
-
 ARTICLE I
 
  
@@ -713,8 +763,6 @@ Funding
 
       f. The accounts of the commission shall be open at any reasonable time for inspection by the public.
 
- 
-
 ARTICLE V
 
  
@@ -770,6 +818,8 @@ ARTICLE I
  
 
 Findings and Purpose
+
+ 
 
  
 
@@ -878,6 +928,8 @@ ARTICLE II
  
 
 Definitions
+
+ 
 
  
 
@@ -1439,8 +1491,6 @@ OREGON OCEAN RESOURCES MANAGEMENT
 
       196.475 [1987 c.576 §13; 1991 c.501 §15; repealed by 2003 c.744 §14]
 
- 
-
       196.485 State agency coordination requirements; incorporation of plans. (1) If a state agency incorporates the Oregon Ocean Resources Management Plan and Territorial Sea Plan by reference in its coordination program and, upon a finding by the Land Conservation and Development Commission that the agency has amended its rules, procedures and standards to conform with the objectives and requirements of the plan and Territorial Sea Plan, the state agency shall satisfy the requirements of state agency planning and coordination required by ORS 197.180 for ocean planning.
 
       (2) If a state agency does not incorporate the plan or Territorial Sea Plan in its coordination program, the agency shall be subject to the state agency coordination requirements of ORS chapters 195, 196 and 197 for state agency programs, procedures and standards that in any way affect ocean resources.
@@ -1466,24 +1516,6 @@ OREGON OCEAN RESOURCES MANAGEMENT
  
 
       196.515 Short title. ORS 196.405 to 196.485 shall be known as the Oregon Ocean Resources Management Act. [1987 c.576 §2]
-
- 
-
-      Note: Section 14, chapter 386, Oregon Laws 2015, provides:
-
-      Sec. 14. Committee to evaluate grant of permit for ocean renewable energy facilities. (1) The Department of State Lands shall convene a committee to assist the department in evaluating whether to establish by rule a general permit under ORS 196.816, or grant by rule a general authorization under ORS 196.850, for ocean renewable energy facilities that are used as components of research projects or demonstration projects that produce ocean renewable energy.
-
-      (2) The committee required under subsection (1) of this section shall include, but is not limited to:
-
-      (a) Representatives of ocean renewable energy industries;
-
-      (b) Representatives of marine industries; and
-
-      (c) Representatives of interests related to ocean resources.
-
-      (3) Notwithstanding any contrary provision of ORS 196.816 or 196.850, the department shall, before establishing a general permit under ORS 196.816 or granting a general authorization under ORS 196.850 for the ocean renewable energy facilities described in subsection (1) of this section, convene an advisory committee in accordance with ORS 183.333 to assist the department in drafting rules under ORS 196.816 or 196.850 and this section.
-
-      (4) As used in this section, “ocean renewable energy” and “ocean renewable energy facility” have the meaning given those terms in section 1 of this 2015 Act [274.870]. [2015 c.386 §14]
 
  
 
@@ -1631,13 +1663,15 @@ OREGON OCEAN RESOURCES MANAGEMENT
 
       (b) Moneys appropriated by the Legislative Assembly;
 
-      (c) Interest earned on moneys in the fund; and
+      (c) Interest earned on moneys in the fund;
 
-      (d) Any moneys described in subsection (4) of this section.
+      (d) Any moneys described in subsection (4) of this section; and
+
+      (e) Other moneys deposited in the fund from any source.
 
       (4) Subject to and consistent with federal law, any moneys received by the State of Oregon from the federal government that constitute the state’s distributive share of the amounts collected under the Outer Continental Shelf Lands Act, 43 U.S.C. 1331 et seq., shall be deposited in the fund.
 
-      (5) Of the moneys in the fund that are derived from the state’s distributive share of the amounts collected under the Outer Continental Shelf Lands Act, 43 U.S.C. 1331 et seq., the coastal county adjacent to the lands containing tracts for which the moneys are received by the state shall receive 30 percent of the distributive share received by the state for those lands. Where the lands containing tracts for which moneys are received are located adjacent to more than one county of this state, each county adjacent to the lands shall receive a portion of the 30 percent allocation that is proportionate to the area of the lands that are adjacent to the county. [2013 c.776 §3]
+      (5) Of the moneys in the fund that are derived from the state’s distributive share of the amounts collected under the Outer Continental Shelf Lands Act, 43 U.S.C. 1331 et seq., the coastal county adjacent to the lands containing tracts for which the moneys are received by the state shall receive 30 percent of the distributive share received by the state for those lands. Where the lands containing tracts for which moneys are received are located adjacent to more than one county of this state, each county adjacent to the lands shall receive a portion of the 30 percent allocation that is proportionate to the area of the lands that are adjacent to the county. [2013 c.776 §3; 2019 c.94 §2]
 
  
 
@@ -1666,6 +1700,36 @@ OREGON OCEAN RESOURCES MANAGEMENT
  
 
       Note: See note under 196.565.
+
+ 
+
+      196.570 Agreements between Oregon Ocean Science Trust and private organizations; records; use of funds. (1) In order to further the strategic priorities of the Oregon Ocean Science Trust, the executive director of the Oregon Ocean Science Trust may enter into an agreement with a private, nonprofit organization under which the organization shall solicit gifts, grants and donations in support of the work of the trust.
+
+      (2) At least 30 days before the executive director may enter into an agreement under subsection (1) of this section, the trust shall:
+
+      (a) Submit a copy of the proposed agreement to the Legislative Assembly in the manner provided by ORS 192.245; and
+
+      (b) Provide public notice of the proposed agreement on the trust’s website.
+
+      (3) The executive director may advise, and receive advice from, the organization described in subsection (1) of this section. If allowed by the charter and bylaws of the organization, the executive director may serve as a voting or nonvoting member of the board of directors of the organization, except that the executive director may not:
+
+      (a) Serve as chairperson of the board of directors of the organization.
+
+      (b) Vote for, or appoint, other members of the board of directors of the organization.
+
+      (c) Exercise any control of the financial affairs of the organization.
+
+      (d) Oversee the daily operations of the organization.
+
+      (4) Each organization described in subsection (1) of this section shall maintain records regarding the gifts, grants and donations solicited in support of the work of the trust and, at the request of the trust, shall provide the trust with the information contained in the records.
+
+      (5) Funds received by an organization under this section that are transferred to the trust shall be deposited in the Oregon Ocean Science Fund to be used as provided for in ORS 196.567.
+
+      (6) The provisions of this section do not affect the authority of any state agency other than the trust to enter into agreements with private organizations under which the organization shall solicit gifts, grants and donations for the benefit of the state agency. [2019 c.94 §1]
+
+ 
+
+      Note: 196.570 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 196 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1831,11 +1895,11 @@ MITIGATION
 
       196.600 Definitions for ORS 196.600 to 196.655. As used in ORS 196.600 to 196.655:
 
-      (1) “Compensatory mitigation” means activities conducted by a permittee or third party to create, restore, enhance or preserve the functions and values of the water resources of this state to compensate for the removal-fill related adverse effects of project development to waters of this state or to resolve violations of ORS 196.800 to 196.905. Compensatory mitigation for removal-fill activities does not affect permit requirements of other state departments.
+      (1) “Compensatory mitigation” means activities conducted by a permittee or third party to create, restore, enhance or preserve the functions and values of the water resources of this state to compensate for the removal-fill related adverse effects of project development to waters of this state or to resolve violations of ORS 196.800 to 196.921. Compensatory mitigation for removal-fill activities does not affect permit requirements of other state departments.
 
       (2) “Credit” means the measure of the increase in the functions and values of the water resources of this state achieved at a mitigation bank site.
 
-      (3) “Mitigation bank” means a site created, restored, enhanced or preserved in accordance with ORS 196.600 to 196.655 to compensate for unavoidable adverse impacts to waters of this state due to activities which otherwise comply with the requirements of ORS 196.600 to 196.905.
+      (3) “Mitigation bank” means a site created, restored, enhanced or preserved in accordance with ORS 196.600 to 196.655 to compensate for unavoidable adverse impacts to waters of this state due to activities which otherwise comply with the requirements of ORS 196.600 to 196.921.
 
       (4) “Mitigation bank instrument” means the legally binding and enforceable agreement between the Director of the Department of State Lands and a mitigation bank sponsor that formally establishes the mitigation bank and stipulates the terms and conditions of the mitigation bank’s construction, operation and long-term management.
 
@@ -1843,7 +1907,7 @@ MITIGATION
 
       (6) “On-site compensatory mitigation” means activities conducted at the project site to create, restore, enhance or preserve the functions and values of the water resources of this state in order to compensate for the adverse impacts to waters of this state from project development.
 
-      (7) “Permit action” means activity under a specific removal or fill permit or other authorization requested or issued under ORS 196.600 to 196.905.
+      (7) “Permit action” means activity under a specific removal or fill permit or other authorization requested or issued under ORS 196.600 to 196.921.
 
       (8) “Service area” means the boundaries set forth in a mitigation bank instrument that include one or more watersheds identified on the United States Geological Survey, Hydrologic Unit Map - 1974, State of Oregon, for which a mitigation bank provides credits to compensate for adverse effects from project developments to waters of this state. Service areas for mitigation banks are not mutually exclusive.
 
@@ -1873,9 +1937,9 @@ MITIGATION
 
       (2) Acquire or accept title to lands suitable for use in mitigation banks or actions, or to preserve sensitive or unique habitat in or near the waters of this state.
 
-      (3) Pay costs incurred for alterations needed to create, restore, enhance or preserve waters of this state for purposes of carrying out the provisions of ORS 196.600 to 196.655 or 196.800 to 196.905.
+      (3) Pay costs incurred for alterations needed to create, restore, enhance or preserve waters of this state for purposes of carrying out the provisions of ORS 196.600 to 196.655 or 196.800 to 196.921.
 
-      (4) Authorize payment of administrative, research or scientific monitoring expenses of the Department of State Lands in carrying out the provisions of ORS 196.600 to 196.655 or 196.800 to 196.905.
+      (4) Authorize payment of administrative, research or scientific monitoring expenses of the Department of State Lands in carrying out the provisions of ORS 196.600 to 196.655 or 196.800 to 196.921.
 
       (5) Disburse funds received under the federal Coastal Zone Management Act of 1972, as amended (16 U.S.C. 1451 et seq.), for such purposes as specifically stipulated in a grant award.
 
@@ -1905,7 +1969,7 @@ MITIGATION
 
       (3) The rules adopted by the department under this section must also include:
 
-      (a) Guidelines for the use of mitigation banks to compensate for adverse effects of project development or to resolve violations of ORS 196.800 to 196.905 related to waters of this state; and
+      (a) Guidelines for the use of mitigation banks to compensate for adverse effects of project development or to resolve violations of ORS 196.800 to 196.921 related to waters of this state; and
 
       (b) Guidelines for allowing a permittee or third party to create a mitigation bank or to conduct compensatory mitigation in order to create, restore, enhance or preserve water resources of this state.
 
@@ -1915,7 +1979,7 @@ MITIGATION
 
       196.620 Resource values and credits for mitigation banks; use and withdrawal of credits; annual evaluation of system by director. (1) For each mitigation bank, the Department of State Lands shall establish a system of resource values and credits.
 
-      (2) A credit from a mitigation bank may be withdrawn for a condition imposed on a permit in accordance with ORS 196.825 (5), for any other authorization issued in accordance with ORS 196.800 to 196.905 or to resolve a violation of ORS 196.800 to 196.905. At the request of a mitigation bank sponsor, the Director of the Department of State Lands may authorize the withdrawal of mitigation bank credits by a public benefit corporation as defined in ORS 65.001 or a public body as defined by ORS 174.109 designated by the director for the purpose of reserving credits for future use in accordance with this subsection. The director shall manage such transactions to ensure that each credit is used no more than one time to satisfy a use in accordance with this section.
+      (2) A credit from a mitigation bank may be withdrawn for a condition imposed on a permit in accordance with ORS 196.825 (5), for any other authorization issued in accordance with ORS 196.800 to 196.921 or to resolve a violation of ORS 196.800 to 196.921. At the request of a mitigation bank sponsor, the Director of the Department of State Lands may authorize the withdrawal of mitigation bank credits by a public benefit corporation as defined in ORS 65.001 or a public body as defined by ORS 174.109 designated by the director for the purpose of reserving credits for future use in accordance with this subsection. The director shall manage such transactions to ensure that each credit is used no more than one time to satisfy a use in accordance with this section.
 
       (3) Credits from a mitigation bank may be used only as described in subsection (2) of this section for permits, authorizations or resolutions of violations approved within the service area of the mitigation bank, consistent with the mitigation bank instrument, unless the director determines that it is environmentally preferable to exceed this limitation.
 
@@ -1927,11 +1991,11 @@ MITIGATION
 
       (b) Conducted other creation, restoration, enhancement or preservation actions to establish other functions and values at the mitigation bank site; and
 
-      (c) Evaluated the results of the actions and determined that a high probability exists that the functions and values of the mitigation bank site are equal to or greater than the functions and values of the area to be impacted or that the functions and values of the mitigation bank compensate for unavoidable adverse effects on the waters of this state due to the activities otherwise allowed under ORS 196.600 to 196.905.
+      (c) Evaluated the results of the actions and determined that a high probability exists that the functions and values of the mitigation bank site are equal to or greater than the functions and values of the area to be impacted or that the functions and values of the mitigation bank compensate for unavoidable adverse effects on the waters of this state due to the activities otherwise allowed under ORS 196.600 to 196.921.
 
       (6) The price for any mitigation credit shall be set at an amount that will compensate the state for all of the costs and expenses the state has incurred and is expected to incur in establishing and maintaining that portion of the mitigation bank.
 
-      (7) The director shall not consider the availability or nonavailability of mitigation bank credits in deciding whether to grant or deny any removal or fill permit under ORS 196.600 to 196.905.
+      (7) The director shall not consider the availability or nonavailability of mitigation bank credits in deciding whether to grant or deny any removal or fill permit under ORS 196.600 to 196.921.
 
       (8) The director annually shall:
 
@@ -1949,7 +2013,7 @@ MITIGATION
 
       (b) The mitigation bank site for which credits are proposed to be withdrawn is not sufficiently similar in functions and values to the area to be impacted; or
 
-      (c) The functions and values of the mitigation bank do not compensate for unavoidable adverse effects on the waters of this state due to the activities otherwise allowed under ORS 196.600 to 196.905. [Formerly 541.565; 1997 c.444 §3; 2003 c.738 §7; 2005 c.22 §135; 2007 c.804 §70; 2007 c.849 §10; 2009 c.343 §5; 2011 c.370 §2]
+      (c) The functions and values of the mitigation bank do not compensate for unavoidable adverse effects on the waters of this state due to the activities otherwise allowed under ORS 196.600 to 196.921. [Formerly 541.565; 1997 c.444 §3; 2003 c.738 §7; 2005 c.22 §135; 2007 c.804 §70; 2007 c.849 §10; 2009 c.343 §5; 2011 c.370 §2]
 
  
 
@@ -1991,13 +2055,7 @@ MITIGATION
 
  
 
-      196.643 Payments to comply with permit condition, authorization or resolution of violation; report; rules. (1) A person who provides off-site compensatory mitigation in order to comply with a condition imposed on a permit in accordance with ORS 196.825 (5), an authorization issued in accordance with ORS 196.800 to 196.905 or a resolution of a violation of ORS 196.800 to 196.905 may make a payment for credits to the Oregon Removal-Fill Mitigation Fund when:
-
-      (a) Credits from an approved mitigation bank are not available; or
-
-      (b)(A) Credits from an approved mitigation bank were not available in a region at the time the first payment for credits was made to the Oregon Removal-Fill Mitigation Fund; and
-
-      (B) The expenses associated with a Department of State Lands mitigation bank project in the region in accordance with this section and ORS 196.650 have not been fully recovered by the Department of State Lands.
+      196.643 Payments to comply with permit condition, authorization or resolution of violation; report; rules. (1) A person who provides off-site compensatory mitigation in order to comply with a condition imposed on a permit in accordance with ORS 196.825 (5), an authorization issued in accordance with ORS 196.800 to 196.921 or a resolution of a violation of ORS 196.800 to 196.921 may make a payment for credits to an approved mitigation bank with available credits or to the Oregon Removal-Fill Mitigation Fund.
 
       (2) Any payments for off-site compensatory mitigation made to the Oregon Removal-Fill Mitigation Fund under subsection (1) of this section must be sufficient to cover the costs and expenses of land acquisition, project design and engineering, construction, planting, monitoring, maintenance, long-term management and protection activities, administration and other costs and expenses related to the off-site compensatory mitigation, which may vary depending on the region of this state where the off-site compensatory mitigation is conducted, and shall be calculated by the Department of State Lands as follows:
 
@@ -2013,7 +2071,7 @@ MITIGATION
 
       (c) Efforts undertaken by the department to improve efficiencies of the department related to off-site compensatory mitigation.
 
-      (d) The effectiveness of the July 2010 “Oregon Rapid Wetland Assessment Protocol” of the department in protecting the functions and values of wetlands through off-site compensatory mitigation. [2003 c.738 §22; 2007 c.849 §11; 2009 c.343 §10; 2011 c.370 §3; 2013 c.257 §1; 2015 c.343 §1]
+      (d) The effectiveness of the July 2010 “Oregon Rapid Wetland Assessment Protocol” of the department in protecting the functions and values of wetlands through off-site compensatory mitigation. [2003 c.738 §22; 2007 c.849 §11; 2009 c.343 §10; 2011 c.370 §3; 2013 c.257 §1; 2015 c.343 §1; 2019 c.652 §3]
 
  
 
@@ -2025,7 +2083,7 @@ MITIGATION
 
       (3) Moneys awarded for such purposes as specifically stipulated under grants through the federal Emergency Wetlands Resources Act of 1986, P.L. 99-645, or the federal Coastal Zone Management Act of 1972, 16 U.S.C. 1451 et seq., as amended;
 
-      (4) Moneys obtained by gift, bequest, donation or grant from any other public or private source for the purposes of ORS 196.600 to 196.655 or 196.800 to 196.905;
+      (4) Moneys obtained by gift, bequest, donation or grant from any other public or private source for the purposes of ORS 196.600 to 196.655 or 196.800 to 196.921;
 
       (5) Repayment of moneys from the fund, including interest on such moneys; and
 
@@ -2037,7 +2095,7 @@ MITIGATION
 
       (1) For the voluntary acquisition of land or interests therein suitable for use in mitigation banks.
 
-      (2) To pay for specific projects to create, restore, enhance or preserve water resources of this state for purposes of carrying out the provisions of ORS 196.600 to 196.905. Moneys deposited in the fund for impacts to the waters of this state may be used only for projects that create, restore, enhance or preserve water resources of this state.
+      (2) To pay for specific projects to create, restore, enhance or preserve water resources of this state for purposes of carrying out the provisions of ORS 196.600 to 196.921. Moneys deposited in the fund for impacts to the waters of this state may be used only for projects that create, restore, enhance or preserve water resources of this state.
 
       (3) For the implementation of long-term protection measures related to projects that create, restore, enhance or preserve water resources of this state.
 
@@ -2115,7 +2173,7 @@ WETLAND CONSERVATION PLANS
 
       (1) Promote the protection, conservation and best use of wetland resources, their functions and values through the integration and close coordination of statewide planning goals, local comprehensive plans and state and federal regulatory programs.
 
-      (2) Use a single definition of “wetlands” for the purposes of ORS 196.800 to 196.905 and statewide planning goals and a single, uniform methodology of delineating wetland boundaries.
+      (2) Use a single definition of “wetlands” for the purposes of ORS 196.800 to 196.921 and statewide planning goals and a single, uniform methodology of delineating wetland boundaries.
 
       (3) Develop a statewide inventory of wetlands based on uniform identification standards and criteria at a scale practicable for planning and regulatory purposes, and to make such inventory available to state agencies and local governments to facilitate better management of wetland resources and closer coordination of local, state and federal wetland programs.
 
@@ -2123,7 +2181,7 @@ WETLAND CONSERVATION PLANS
 
       (5) Establish the opportunity to increase wetland resources by encouraging wetland restoration and creation where appropriate.
 
-      (6) Reduce the delays and uncertainty which can occur in the current wetland planning and regulatory framework through improved coordination of the provisions in ORS 196.800 to 196.905 with local land use planning and regulation and by providing mechanisms for expedited permit review consistent with the protection and conservation of wetland resources.
+      (6) Reduce the delays and uncertainty which can occur in the current wetland planning and regulatory framework through improved coordination of the provisions in ORS 196.800 to 196.921 with local land use planning and regulation and by providing mechanisms for expedited permit review consistent with the protection and conservation of wetland resources.
 
       (7) Continue to meet the requirements of federal law in the protection and management of wetland resources, while asserting the interests of this state, in concert with those of local governments in urging the federal resource and regulatory agencies to develop a uniform wetland policy and more consistent, cohesive standards to implement the Federal Water Pollution Control Act (33 U.S.C. 1344).
 
@@ -2149,7 +2207,7 @@ WETLAND CONSERVATION PLANS
 
       (7) A wetland inventory developed by another party may be utilized by the Department of State Lands if it is consistent with standards adopted pursuant to this section, after consulting with the affected local government, and is reviewed and approved by the Department of State Lands as complying with the standards adopted pursuant to subsection (2) of this section.
 
-      (8) Nothing in this section shall restrict the regulatory jurisdiction of the Department of State Lands under ORS 196.800 to 196.905.
+      (8) Nothing in this section shall restrict the regulatory jurisdiction of the Department of State Lands under ORS 196.800 to 196.921.
 
       (9) In compiling and updating the Statewide Wetlands Inventory, the Department of State Lands shall identify opportunities for wetland creation, restoration and enhancement when the information is available. [1989 c.837 §6; 2003 c.253 §6]
 
@@ -2285,7 +2343,7 @@ WETLAND CONSERVATION PLANS
 
       (4) If the director finds that the proposed local government amendment to acknowledged comprehensive plan and land use regulations meets the requirements of ORS 196.681, the director shall approve the plan by order, and notify the local government within 10 days of the completion of the public review provided in subsection (3) of this section.
 
-      (5) If the amendments to acknowledged comprehensive plan and land use regulations adopted by the local government are determined not to comply with the requirements of ORS 196.668 to 196.692, 196.800, 196.810, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.905, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350, the director shall revoke the approval order or amend the order to insure compliance with the requirements of ORS 196.668 to 196.692, 196.800, 196.810, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.905, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350.
+      (5) If the amendments to acknowledged comprehensive plan and land use regulations adopted by the local government are determined not to comply with the requirements of ORS 196.668 to 196.692, 196.800, 196.810, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.921, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350, the director shall revoke the approval order or amend the order to insure compliance with the requirements of ORS 196.668 to 196.692, 196.800, 196.810, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.921, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350.
 
       (6) The department shall review each approved wetland conservation plan every five years. After such review the director shall either modify, reissue or rescind the order approving the plan.
 
@@ -2299,7 +2357,7 @@ WETLAND CONSERVATION PLANS
 
       (8) Wetland conservation plans approved by the Director of the Department of State Lands pursuant to ORS 196.668 to 196.692 shall be deemed to comply with the requirements of any statewide planning goals relating to wetlands, other than estuarine wetlands, for those areas, uses and activities which are regulated by the plan.
 
-      (9) An order by the director regarding approval, amendment or review of a wetland conservation plan shall be reviewable by the Land Use Board of Appeals as a land use decision of a state agency. For the purpose of such review, the director’s order shall not become final until the local government adopts its wetland conservation plan or plan amendment. The Land Use Board of Appeals shall consolidate for review appeals of the director’s order and the local government adoption. The Land Use Board of Appeals shall review such order for compliance with the requirements of ORS 196.668 to 196.692, 196.800, 196.810, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.905, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350.
+      (9) An order by the director regarding approval, amendment or review of a wetland conservation plan shall be reviewable by the Land Use Board of Appeals as a land use decision of a state agency. For the purpose of such review, the director’s order shall not become final until the local government adopts its wetland conservation plan or plan amendment. The Land Use Board of Appeals shall consolidate for review appeals of the director’s order and the local government adoption. The Land Use Board of Appeals shall review such order for compliance with the requirements of ORS 196.668 to 196.692, 196.800, 196.810, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.921, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350.
 
       (10) Nothing in this section shall be construed to require a contested case proceeding regarding approval, amendment or review of a wetland conservation plan.
 
@@ -2367,7 +2425,7 @@ WETLAND CONSERVATION PLANS
 
  
 
-      196.687 Regulation of alteration or fill of artificially created wetlands. (1) Notwithstanding the provisions of ORS 196.600 to 196.905, state or local governments shall not prohibit or restrict the alteration or fill of wetland areas up to one acre in size that have been artificially created from upland for the purpose of controlling, storing or maintaining storm water.
+      196.687 Regulation of alteration or fill of artificially created wetlands. (1) Notwithstanding the provisions of ORS 196.600 to 196.921, state or local governments shall not prohibit or restrict the alteration or fill of wetland areas up to one acre in size that have been artificially created from upland for the purpose of controlling, storing or maintaining storm water.
 
       (2) An area that was developed as a storm water detention or retention facility as a condition of a development approval shall not be altered or filled without acceptance by the approving authority of a plan to mitigate the loss of functional capabilities of the detention or retention facility.
 
@@ -2379,7 +2437,7 @@ WETLAND CONSERVATION PLANS
 
       (4) The provisions of this section do not apply to land used to mitigate the loss of wetlands.
 
-      (5) If the Department of State Lands assumes responsibility under 33 U.S.C. 1344(g) of the Federal Water Pollution Control Act, ORS 196.600 to 196.905 shall apply to artificially created wetlands described in subsections (1) and (2) of this section. [1995 c.482 §1]
+      (5) If the Department of State Lands assumes responsibility under 33 U.S.C. 1344(g) of the Federal Water Pollution Control Act, ORS 196.600 to 196.921 shall apply to artificially created wetlands described in subsections (1) and (2) of this section. [1995 c.482 §1]
 
  
 
@@ -2405,7 +2463,7 @@ WETLAND CONSERVATION PLANS
 
  
 
-      196.692 Rules. (1) The Department of State Lands shall adopt rules to carry out the provisions of ORS 196.668 to 196.692, 196.800, 196.810, 196.818, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.905, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350.
+      196.692 Rules. (1) The Department of State Lands shall adopt rules to carry out the provisions of ORS 196.668 to 196.692, 196.800, 196.810, 196.818, 196.825, 196.830, 196.850 to 196.860, 196.885, 196.921, 197.015, 197.279, 215.213, 215.283, 215.284, 215.418 and 227.350.
 
       (2) Rules adopted pursuant to subsection (1) of this section shall include rules governing the application for and issuance of permits to remove material from the beds or banks of any waters of this state or to fill any waters of this state including, but not limited to, clear and objective standards and criteria for determining whether to grant or deny a permit. [1989 c.837 §32; 2001 c.460 §1; 2007 c.850 §4]
 
@@ -2483,6 +2541,10 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
+(Streamlining)
+
+ 
+
       Note: Section 2, chapter 45, Oregon Laws 1989, provides:
 
       Sec. 2. Provision relating to fills depending on EPA approval. (1) Notwithstanding any other provision of ORS 541.605 to 541.685 [renumbered 196.800 to 196.900 in 1989]:
@@ -2509,7 +2571,49 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
-      196.800 Definitions for ORS 196.600 to 196.905. As used in ORS 196.600 to 196.905, unless the context requires otherwise:
+      Note: Sections 1 and 2, chapter 652, Oregon Laws 2019, provide:
+
+      Sec. 1. Proposal for partial state assumption of permit authority. (1) As used in this section:
+
+      (a)(A) “Development activities” includes dredging, filling, grading, paving, excavation and other activities related to making man-made changes to improved or unimproved real estate.
+
+      (B) “Development activities” does not include farming, ranching or forestry activities, or activities that would otherwise be considered development activities under subparagraph (A) of this paragraph if the activities are associated with:
+
+      (i) Farming, ranching or forestry activities; or
+
+      (ii) Activities by a district organized under ORS chapter 545, 547, 552, 553 or 554, including activities that occur outside the district’s boundaries but that are related to the district’s operations.
+
+      (b) “Mining and activities associated with mining” includes any activity involving extraction of materials from the ground that is subject to regulation by the State Department of Geology and Mineral Industries, the processing or manufacturing of the materials, mining reclamation activities and voluntary restoration activities associated with a mining operation.
+
+      (2) The Department of State Lands shall develop a proposal, including recommendations for legislation to be introduced during the 2020 regular session of the Legislative Assembly, for partial assumption by the department of the authority to administer permits for the discharge of dredge or fill materials under section 404 of the Federal Water Pollution Control Act (P.L. 92-500, as amended).
+
+      (3) In developing the proposal, the Department of State Lands shall collaborate with the Department of Justice, the Department of Environmental Quality, the Department of Land Conservation and Development, the State Department of Fish and Wildlife, the State Department of Agriculture, the State Forestry Department, the State Department of Geology and Mineral Industries, the National Marine Fisheries Service, the United States Fish and Wildlife Service, the United States Environmental Protection Agency and representatives of any other state or federal agency as the Department of State Lands determines is necessary for developing the proposal in a manner that will satisfy federal and state legal requirements.
+
+      (4) The proposal shall include provisions necessary for the Department of State Lands to assume authority to administer permits for the discharge of dredge or fill materials under section 404 of the Federal Water Pollution Control Act (P.L. 92-500, as amended) only for:
+
+      (a) Development activities within an acknowledged urban growth boundary;
+
+      (b) Mining and activities associated with mining; and
+
+      (c) The creation and operation of mitigation banks.
+
+      (5)(a) The proposal shall include:
+
+      (A) Recommendations, in both narrative form and in the form of requested draft statutory language, for the enactment of statutes, or for the amendment or repeal of ORS 196.600 to 196.905 [series became 196.600 to 196.921], section 2, chapter 45, Oregon Laws 1989, sections 1 to 14, chapter 516, Oregon Laws 2001, or any other statutes or session laws, as necessary to demonstrate that the statutory laws and regulations of the State of Oregon provide adequate legal authority for the state to receive a grant of authority from the United States Environmental Protection Agency to implement the program for partial assumption; and
+
+      (B) Any other provisions that the department determines are necessary to provide the Legislative Assembly the opportunity, during the 2020 regular session of the Legislative Assembly, to take all actions necessary to allow for the department to formally submit to the United States Environmental Protection Agency a complete application for partial assumption, such that the United States Environmental Protection Agency may have the opportunity to review and consider approval of the application before the convening of the 2021 regular session of the Legislative Assembly.
+
+      (b) The recommendations required under paragraph (a) of this subsection must include recommendations on the amendments to statutes and session laws necessary to ensure that, if any of the amendments to ORS 196.800, 196.810, 196.825, 196.850, 196.895, 196.905 [renumbered 196.921], 196.990, 390.835, 421.628 and 459.047 by sections 1 to 10, chapter 516, Oregon Laws 2001, or the repeal of section 2, chapter 45, Oregon Laws 1989, by section 13, chapter 516, Oregon Laws 2001, become operative, the operation will not result in permitting or regulatory requirements pursuant to ORS 196.600 to 196.905 on and after the operative date that exceed the permitting or regulatory requirements pursuant to ORS 196.600 to 196.905, as in effect on the effective date of this 2019 Act [August 9, 2019], for activities for which the Department of State Lands is not directed to propose assumption of authority to administer permits as described in subsection (4) of this section. [2019 c.652 §1]
+
+      Sec. 2. Section 1 of this 2019 Act is repealed on January 2, 2021. [2019 c.652 §2]
+
+ 
+
+(Generally)
+
+ 
+
+      196.800 Definitions for ORS 196.600 to 196.921. As used in ORS 196.600 to 196.921, unless the context requires otherwise:
 
       (1) “Channel relocation” means a change in location of a channel in which a new channel is dug and the flow is diverted from the old channel into the new channel if more than 50 cubic yards of material is removed in constructing the new channel or if it would require more than 50 cubic yards of material to completely fill the old channel.
 
@@ -2567,7 +2671,7 @@ REMOVAL OF MATERIAL; FILLING
 
       Note: Operation of the amendments to 196.800 by section 1, chapter 516, Oregon Laws 2001, is dependent upon further approval by the Legislative Assembly. See section 11, chapter 516, Oregon Laws 2001, as amended by section 19, chapter 11, Oregon Laws 2009. The text that is operative after that approval, including amendments by section 8, chapter 253, Oregon Laws 2003, section 15, chapter 738, Oregon Laws 2003, section 3, chapter 849, Oregon Laws 2007, section 19, chapter 343, Oregon Laws 2009, and section 2, chapter 198, Oregon Laws 2013, is set forth for the user’s convenience.
 
-      196.800. As used in ORS 196.600 to 196.905, unless the context requires otherwise:
+      196.800. As used in ORS 196.600 to 196.921, unless the context requires otherwise:
 
       (1) “Channel relocation” means a change in location of a channel in which a new channel is dug and the flow is diverted from the old channel into the new channel.
 
@@ -2625,7 +2729,7 @@ REMOVAL OF MATERIAL; FILLING
 
       Note: Sections 11 to 14, chapter 516, Oregon Laws 2001, provide:
 
-      Sec. 11. The amendments to ORS 196.800, 196.810, 196.850, 196.895, 196.905, 196.990, 390.835, 421.628 and 459.047 by sections 1 to 10, chapter 516, Oregon Laws 2001, and the repeal of section 2, chapter 45, Oregon Laws 1989, by section 13, chapter 516, Oregon Laws 2001, become operative on January 2 of the even-numbered year following the date the United States Environmental Protection Agency grants authority by letter to the Department of State Lands to administer permits for the discharge of dredge or fill materials under section 404 of the Federal Water Pollution Control Act (P.L. 92-500, as amended) and the Legislative Assembly approves the grant of authority. [2001 c.516 §11; 2009 c.11 §19]
+      Sec. 11. The amendments to ORS 196.800, 196.810, 196.850, 196.895, 196.905 [renumbered 196.921], 196.990, 390.835, 421.628 and 459.047 by sections 1 to 10, chapter 516, Oregon Laws 2001, and the repeal of section 2, chapter 45, Oregon Laws 1989, by section 13, chapter 516, Oregon Laws 2001, become operative on January 2 of the even-numbered year following the date the United States Environmental Protection Agency grants authority by letter to the Department of State Lands to administer permits for the discharge of dredge or fill materials under section 404 of the Federal Water Pollution Control Act (P.L. 92-500, as amended) and the Legislative Assembly approves the grant of authority. [2001 c.516 §11; 2009 c.11 §19]
 
       Sec. 12. (1) The Department of State Lands may take any action necessary to prepare to fully implement the provisions of this 2001 Act prior to the operative date of this 2001 Act.
 
@@ -2643,11 +2747,11 @@ REMOVAL OF MATERIAL; FILLING
 
       (2) The director shall take into consideration all beneficial uses of water including streambank protection when administering fill and removal statutes.
 
-      (3) There shall be no condemnation, inverse condemnation, other taking, or confiscating of property under ORS 196.600 to 196.905 without due process of law. [Formerly 541.610 and then 196.675; 2003 c.738 §16; 2012 c.108 §7]
+      (3) There shall be no condemnation, inverse condemnation, other taking, or confiscating of property under ORS 196.600 to 196.921 without due process of law. [Formerly 541.610 and then 196.675; 2003 c.738 §16; 2012 c.108 §7]
 
  
 
-      196.810 Permit required to remove material from bed or banks of waters; status of permit; exceptions; rules. (1)(a) Except as otherwise specifically permitted under ORS 196.600 to 196.905, a person may not remove any material from the beds or banks of any waters of this state or fill any waters of this state without a permit issued under authority of the Director of the Department of State Lands, or in a manner contrary to the conditions set out in the permit, or in a manner contrary to the conditions set out in an order approving a wetland conservation plan.
+      196.810 Permit required to remove material from bed or banks of waters; status of permit; exceptions; rules. (1)(a) Except as otherwise specifically permitted under ORS 196.600 to 196.921, a person may not remove any material from the beds or banks of any waters of this state or fill any waters of this state without a permit issued under authority of the Director of the Department of State Lands, or in a manner contrary to the conditions set out in the permit, or in a manner contrary to the conditions set out in an order approving a wetland conservation plan.
 
       (b) Notwithstanding the permit requirements of this section and notwithstanding the provisions of ORS 196.800 (3) and (13), if any removal or fill activity is proposed in essential indigenous anadromous salmonid habitat, except for those activities customarily associated with agriculture, a permit is required. “Essential indigenous anadromous salmonid habitat” as defined under this section shall be further defined and designated by rule by the Department of State Lands in consultation with the State Department of Fish and Wildlife and in consultation with other affected parties.
 
@@ -2661,7 +2765,7 @@ REMOVAL OF MATERIAL; FILLING
 
       (C) The Department of State Lands may not issue a removal or fill permit for an ocean renewable energy facility that does not comply with the criteria described in that part of the Territorial Sea Plan that addresses the development of ocean renewable energy facilities in the territorial sea.
 
-      (f) Nothing in this section limits or otherwise changes the exemptions under ORS 196.905.
+      (f) Nothing in this section limits or otherwise changes the exemptions under ORS 196.921.
 
       (g) As used in paragraphs (b) and (c) of this subsection:
 
@@ -2675,9 +2779,9 @@ REMOVAL OF MATERIAL; FILLING
 
       (E) “Wet perimeter” means the area of the stream that is under water or is exposed as a nonvegetated dry gravel bar island surrounded on all sides by actively moving water at the time the activity occurs.
 
-      (2) A public body, as defined in ORS 174.109, may not issue a lease or permit contrary or in opposition to the conditions set out in the permit issued under ORS 196.600 to 196.905.
+      (2) A public body, as defined in ORS 174.109, may not issue a lease or permit contrary or in opposition to the conditions set out in the permit issued under ORS 196.600 to 196.921.
 
-      (3) Subsection (1) of this section does not apply to removal of material under a contract, permit or lease with any public body, as defined in ORS 174.109, entered into before September 13, 1967. However, no such contract, permit or lease may be renewed or extended on or after September 13, 1967, unless the person removing the material has obtained a permit under ORS 196.600 to 196.905.
+      (3) Subsection (1) of this section does not apply to removal of material under a contract, permit or lease with any public body, as defined in ORS 174.109, entered into before September 13, 1967. However, no such contract, permit or lease may be renewed or extended on or after September 13, 1967, unless the person removing the material has obtained a permit under ORS 196.600 to 196.921.
 
       (4) Notwithstanding subsection (1) of this section, the Department of State Lands may issue, orally or in writing, an emergency authorization to a person for the removal of material from the beds or banks or filling of any waters of this state in an emergency, for the purpose of making repairs or for the purpose of preventing irreparable harm, injury or damage to persons or property. The emergency authorization issued under this subsection:
 
@@ -2693,7 +2797,7 @@ REMOVAL OF MATERIAL; FILLING
 
       Note: Operation of the amendments to 196.810 by section 2, chapter 516, Oregon Laws 2001, is dependent upon further approval by the Legislative Assembly. See section 11, chapter 516, Oregon Laws 2001, as amended by section 19, chapter 11, Oregon Laws 2009. The text that is operative after that approval, including amendments by section 97, chapter 14, Oregon Laws 2003, section 64, chapter 71, Oregon Laws 2007, section 5, chapter 625, Oregon Laws 2007, section 15, chapter 849, Oregon Laws 2007, and section 11, chapter 386, Oregon Laws 2015, is set forth for the user’s convenience.
 
-      196.810. (1)(a) Except as otherwise specifically permitted under ORS 196.600 to 196.905, a person may not remove any material from the beds or banks of any waters of this state or fill any waters of this state without a permit issued under authority of the Director of the Department of State Lands, or in a manner contrary to the conditions set out in the permit, or in a manner contrary to the conditions set out in an order approving a wetland conservation plan.
+      196.810. (1)(a) Except as otherwise specifically permitted under ORS 196.600 to 196.921, a person may not remove any material from the beds or banks of any waters of this state or fill any waters of this state without a permit issued under authority of the Director of the Department of State Lands, or in a manner contrary to the conditions set out in the permit, or in a manner contrary to the conditions set out in an order approving a wetland conservation plan.
 
       (b) A permit is not required under paragraph (a) of this subsection for prospecting or other nonmotorized activities resulting in the removal from or fill of less than one cubic yard of material at any one individual site and, cumulatively, not more than five cubic yards of material within a particular stream segment in a single year. Prospecting or other nonmotorized activities may be conducted only within the bed or wet perimeter of the waterway and may not occur at any site where fish eggs are present. Removal or filling activities customarily associated with mining require a permit under paragraph (a) of this subsection.
 
@@ -2705,11 +2809,11 @@ REMOVAL OF MATERIAL; FILLING
 
       (C) The Department of State Lands may not issue a removal or fill permit for an ocean renewable energy facility that does not comply with the criteria described in that part of the Territorial Sea Plan that addresses the development of ocean renewable energy facilities in the territorial sea.
 
-      (e) Nothing in this section limits or otherwise changes the exemptions under ORS 196.905.
+      (e) Nothing in this section limits or otherwise changes the exemptions under ORS 196.921.
 
-      (2) A public body, as defined in ORS 174.109, may not issue a lease or permit contrary or in opposition to the conditions set out in the permit issued under ORS 196.600 to 196.905.
+      (2) A public body, as defined in ORS 174.109, may not issue a lease or permit contrary or in opposition to the conditions set out in the permit issued under ORS 196.600 to 196.921.
 
-      (3) Subsection (1) of this section does not apply to removal of material under a contract, permit or lease with any public body, as defined in ORS 174.109, entered into before September 13, 1967. However, a contract, permit or lease may not be renewed or extended on or after September 13, 1967, unless the person removing the material has obtained a permit under ORS 196.600 to 196.905.
+      (3) Subsection (1) of this section does not apply to removal of material under a contract, permit or lease with any public body, as defined in ORS 174.109, entered into before September 13, 1967. However, a contract, permit or lease may not be renewed or extended on or after September 13, 1967, unless the person removing the material has obtained a permit under ORS 196.600 to 196.921.
 
       (4) Notwithstanding subsection (1) of this section, the Department of State Lands may issue, orally or in writing, an emergency authorization to a person for the removal of material from the beds or banks or filling of any waters of this state in an emergency, for the purpose of making repairs or for the purpose of preventing irreparable harm, injury or damage to persons or property. The emergency authorization issued under this subsection:
 
@@ -2735,7 +2839,7 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
-      196.812 Large woody debris; rules. The provisions of ORS 196.600 to 196.905 do not affect the removal of large woody debris if the large woody debris:
+      196.812 Large woody debris; rules. The provisions of ORS 196.600 to 196.921 do not affect the removal of large woody debris if the large woody debris:
 
       (1) Poses a direct and demonstrable danger to livestock, human life or real property;
 
@@ -2747,7 +2851,7 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
-      Note: 196.812 was added to and made a part of 196.600 to 196.905 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 196.812 was added to and made a part of 196.600 to 196.921 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -2811,13 +2915,19 @@ REMOVAL OF MATERIAL; FILLING
 
       (6) Each holder of a material removal or fill permit shall pay a fee during the term of the permit in accordance with the schedule set forth in subsection (2) of this section, except that the applicant shall pay only the base fee. For multiyear permits valid over a period of more than one year, the department may assess a one-time fee that covers all fees due under subsection (2) of this section for the period of the permit. The permit shall be suspended during any period of delinquency of payment as though no permit was applied for. Notwithstanding this subsection the director may, before granting a renewal of the permit, require the permittee to show that the continued exercise of the permit is consistent with the protection, conservation and best use of the water resources of this state.
 
-      (7) Fees received under this section shall be credited to the Common School Fund for use by the department in administration of ORS 196.600 to 196.905.
+      (7) Fees received under this section shall be credited to the Common School Fund for use by the department in administration of ORS 196.600 to 196.921.
 
-      (8) The director shall issue an order revising the fees specified in this section on January 1 of each year, beginning in 2009, based on changes in the Portland-Salem, OR-WA Consumer Price Index for All Urban Consumers for All Items as published by the Bureau of Labor Statistics of the United States Department of Labor. The director shall round the amount of each fee to the nearest dollar. The revised fees shall take effect January 1 and apply for that calendar year. [Formerly 541.620 and then 196.685; 2007 c.849 §1; 2009 c.342 §1; 2009 c.882 §2; 2015 c.386 §12]
+      (8) The director shall issue an order revising the fees specified in this section on January 1 of each year, beginning in 2009, based on changes in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor. The director shall round the amount of each fee to the nearest dollar. The revised fees shall take effect January 1 and apply for that calendar year. [Formerly 541.620 and then 196.685; 2007 c.849 §1; 2009 c.342 §1; 2009 c.882 §2; 2015 c.386 §12; 2019 c.57 §9]
 
  
 
-      196.816 General permits allowing removal of certain amount of material for maintaining drainage; rules; waiver of fees. Notwithstanding ORS 196.810, the Department of State Lands may establish by rule a general permit that allows the removal of no more than 100 cubic yards of material from waters of this state, including in essential indigenous anadromous salmonid habitat, for the purpose of maintaining drainage and protecting agricultural land. The department may waive the fees specified in ORS 196.815 for removal taking place under the provisions of this section. [2011 c.713 §7]
+      196.816 General permits allowing removal of certain amount of material for maintaining drainage; rules; waiver of fees. (1) As used in this section, “traditionally maintained channel” has the meaning given that term in ORS 196.909.
+
+      (2) Notwithstanding ORS 196.810, the Department of State Lands may establish by rule a general permit that allows the removal of no more than 100 cubic yards of material from waters of this state, including in essential indigenous anadromous salmonid habitat, for the purpose of maintaining drainage and protecting agricultural land.
+
+      (3) Notwithstanding ORS 196.810, the department shall establish by rule one or more general permits that allow the removal of material from waters of this state, including in essential indigenous anadromous salmonid habitat, to conduct maintenance of traditionally maintained channels during channel conditions where flowing or standing water is present. The general permits must require the maintenance to be conducted in a manner that protects, maintains or improves existing agricultural and ecological functions of the channels, including the life history functions of fish and wildlife that inhabit the channels. In establishing a general permit under this subsection, the department shall utilize best available science and shall consult with the State Department of Agriculture, the State Department of Fish and Wildlife, other relevant state or federal agencies and representatives of agricultural interests and conservation interests.
+
+      (4) The Department of State Lands may waive the fees specified in ORS 196.815 for removal taking place under the provisions of this section. [2011 c.713 §7; 2019 c.699 §9]
 
  
 
@@ -2827,7 +2937,7 @@ REMOVAL OF MATERIAL; FILLING
 
       (B) By order for an applicant or group of applicants to cover activities that are substantially similar in nature, are recurring or ongoing, and have predictable effects and outcomes.
 
-      (b) The department must find that the project is in compliance with the review standards set forth in ORS 196.600 to 196.905 and would not result in long-term harm to water resources of this state.
+      (b) The department must find that the project is in compliance with the review standards set forth in ORS 196.600 to 196.921 and would not result in long-term harm to water resources of this state.
 
       (c) The department shall condition any such general permit upon actions necessary to minimize environmental effects.
 
@@ -2875,15 +2985,15 @@ REMOVAL OF MATERIAL; FILLING
 
       (b) Any subsequent federal supplements to the manual or applicable guidance documents issued by the United States Army Corps of Engineers, including guidance documents for the area in which a delineation will take place, as adopted by rule of the Director of the Department of State Lands. Such rules must comply with those federal supplements and guidance documents.
 
-      (9) The director shall issue an order revising the fee specified in subsection (2) of this section on January 1 of each year, based on changes in the Portland-Salem, OR-WA Consumer Price Index for All Urban Consumers for All Items as published by the Bureau of Labor Statistics of the United States Department of Labor. The director shall round the amount to the nearest dollar. The revised fee shall take effect January 1 and apply for that calendar year.
+      (9) The director shall issue an order revising the fee specified in subsection (2) of this section on January 1 of each year, based on changes in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor. The director shall round the amount to the nearest dollar. The revised fee shall take effect January 1 and apply for that calendar year.
 
-      (10) Fees received under this section shall be credited to the Common School Fund for use by the department in administration of ORS 196.600 to 196.905. [2007 c.850 §2; 2012 c.108 §5]
+      (10) Fees received under this section shall be credited to the Common School Fund for use by the department in administration of ORS 196.600 to 196.921. [2007 c.850 §2; 2012 c.108 §5; 2019 c.57 §10]
 
  
 
       Note: Sections 1 to 4, chapter 108, Oregon Laws 2012, provide:
 
-      Sec. 1. Section 2 of this 2012 Act is added to and made a part of ORS 196.600 to 196.905. [2012 c.108 §1]
+      Sec. 1. Section 2 of this 2012 Act is added to and made a part of ORS 196.600 to 196.905 [series became 196.600 to 196.921]. [2012 c.108 §1]
 
       Sec. 2. Wetland delineation determinations. (1)(a) A person may request an independent review of a determination made under:
 
@@ -2929,7 +3039,7 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
-      196.820 Prohibition against issuance of permits to fill Smith Lake or Bybee Lake; exception. (1) Notwithstanding any provision of ORS 196.600 to 196.905 to the contrary, except as provided in subsection (2) of this section, the Director of the Department of State Lands shall not issue any permit to fill Smith Lake or Bybee Lake, located in Multnomah County, below the contour line which lies 11 feet above mean sea level as determined by the 1947 adjusted United States Coastal Geodetic Survey Datum.
+      196.820 Prohibition against issuance of permits to fill Smith Lake or Bybee Lake; exception. (1) Notwithstanding any provision of ORS 196.600 to 196.921 to the contrary, except as provided in subsection (2) of this section, the Director of the Department of State Lands shall not issue any permit to fill Smith Lake or Bybee Lake, located in Multnomah County, below the contour line which lies 11 feet above mean sea level as determined by the 1947 adjusted United States Coastal Geodetic Survey Datum.
 
       (2) The Director of the Department of State Lands may issue a permit to fill Smith Lake or Bybee Lake, located in Multnomah County, if such fill is to enhance or maintain fish and wildlife habitat or support recreational use or public access at or near Smith Lake or Bybee Lake. A fill shall be considered to be for the purpose of enhancing or maintaining fish and wildlife habitat if the proposed fill is approved by the State Department of Fish and Wildlife. [Formerly 541.622 and then 196.690; 2016 c.84 §9]
 
@@ -2937,7 +3047,7 @@ REMOVAL OF MATERIAL; FILLING
 
       196.825 Criteria for issuance of permit; conditions; consultation with public bodies; hearing; appeal. (1) The Director of the Department of State Lands shall issue a permit applied for under ORS 196.815 if the director determines that the project described in the application:
 
-      (a) Is consistent with the protection, conservation and best use of the water resources of this state as specified in ORS 196.600 to 196.905; and
+      (a) Is consistent with the protection, conservation and best use of the water resources of this state as specified in ORS 196.600 to 196.921; and
 
       (b) Would not unreasonably interfere with the paramount policy of this state to preserve the use of its waters for navigation, fishing and public recreation.
 
@@ -2969,7 +3079,7 @@ REMOVAL OF MATERIAL; FILLING
 
       (i) Whether the applicant has provided all practicable mitigation to reduce the adverse effects of the proposed fill or removal in the manner set forth in ORS 196.800. In determining whether the applicant has provided all practicable mitigation, the director shall consider the findings regarding wetlands set forth in ORS 196.668 and whether the proposed mitigation advances the policy objectives for the protection of wetlands set forth in ORS 196.672.
 
-      (4) The director may issue a permit for a project that results in a substantial fill in an estuary for a nonwater dependent use only if the project is for a public use and would satisfy a public need that outweighs harm to navigation, fishery and recreation and if the proposed fill meets all other criteria contained in ORS 196.600 to 196.905.
+      (4) The director may issue a permit for a project that results in a substantial fill in an estuary for a nonwater dependent use only if the project is for a public use and would satisfy a public need that outweighs harm to navigation, fishery and recreation and if the proposed fill meets all other criteria contained in ORS 196.600 to 196.921.
 
       (5) If the director issues a permit, the director may impose such conditions as the director considers necessary to carry out the purposes of ORS 196.805 and 196.830 and subsection (1) of this section and to provide mitigation for the reasonably expected adverse effects of project development. In formulating such conditions the director may request comment from public bodies, as defined in ORS 174.109, federal agencies and tribal governments affected by the permit. Each permit is valid only for the time specified therein. The director shall impose, as conditions to any permit, general authorization or wetland conservation plan, measures to provide mitigation for the reasonably expected adverse effects of project development. Compensatory mitigation shall be limited to replacement of the functions and values of the impacted water resources of this state.
 
@@ -3079,7 +3189,7 @@ REMOVAL OF MATERIAL; FILLING
 
  
 
-      196.835 Hearing regarding issuance of permit; procedure; appeals; suspension of permit pending appeal. Any person aggrieved or adversely affected by the grant of a permit by the Director of the Department of State Lands may file a written request for hearing with the director within 21 days after the date the permit was granted. If the director finds that the person making the written request has a legally protected interest which is adversely affected by the grant of the permit, the director shall set the matter down for hearing within 30 days after receipt of the request. The hearing shall be conducted as a contested case in accordance with ORS 183.415 to 183.430, 183.440 to 183.460 and 183.470. The permittee shall be a party to the proceeding. Within 45 days of the hearing the director shall enter an order containing findings of fact and conclusions of law. The order shall rescind, affirm or modify the director’s original order. Appeals from the director’s final order may be taken to the Court of Appeals in the manner provided by ORS 183.482. A permit to fill granted by the director may be suspended by the director during the pendency of the proceedings before the director and any appeal. The director shall not suspend the permit unless the person aggrieved or adversely affected by grant of permit makes a showing before the director by clear and convincing evidence that commencement or continuation of the fill would cause irremediable damage and would be inconsistent with ORS 196.600 to 196.905. [Formerly 541.627 and then 196.705; 2003 c.738 §19]
+      196.835 Hearing regarding issuance of permit; procedure; appeals; suspension of permit pending appeal. Any person aggrieved or adversely affected by the grant of a permit by the Director of the Department of State Lands may file a written request for hearing with the director within 21 days after the date the permit was granted. If the director finds that the person making the written request has a legally protected interest which is adversely affected by the grant of the permit, the director shall set the matter down for hearing within 30 days after receipt of the request. The hearing shall be conducted as a contested case in accordance with ORS 183.415 to 183.430, 183.440 to 183.460 and 183.470. The permittee shall be a party to the proceeding. Within 45 days of the hearing the director shall enter an order containing findings of fact and conclusions of law. The order shall rescind, affirm or modify the director’s original order. Appeals from the director’s final order may be taken to the Court of Appeals in the manner provided by ORS 183.482. A permit to fill granted by the director may be suspended by the director during the pendency of the proceedings before the director and any appeal. The director shall not suspend the permit unless the person aggrieved or adversely affected by grant of permit makes a showing before the director by clear and convincing evidence that commencement or continuation of the fill would cause irremediable damage and would be inconsistent with ORS 196.600 to 196.921. [Formerly 541.627 and then 196.705; 2003 c.738 §19]
 
  
 
@@ -3127,7 +3237,7 @@ REMOVAL OF MATERIAL; FILLING
 
       (b) For actions that result in moving 50 or more cubic yards of material, the department may establish a fee for the general authorization. The fee may not exceed $250 and shall be based on the cost of processing the general authorization.
 
-      (10) The department shall credit any fee collected under this section to the Common School Fund for use by the department in administration of ORS 196.600 to 196.905. [1989 c.837 §9 (enacted in lieu of 541.640); renumbered 196.850 in 1989; 2003 c.253 §11; 2007 c.849 §6]
+      (10) The department shall credit any fee collected under this section to the Common School Fund for use by the department in administration of ORS 196.600 to 196.921. [1989 c.837 §9 (enacted in lieu of 541.640); renumbered 196.850 in 1989; 2003 c.253 §11; 2007 c.849 §6]
 
  
 
@@ -3179,7 +3289,7 @@ REMOVAL OF MATERIAL; FILLING
 
       (b) For actions that result in moving 50 or more cubic yards of material, the department may establish a fee for the general authorization. The fee may not exceed $250 and shall be based on the cost of processing the general authorization.
 
-      (11) The department shall credit any fee collected under this section to the Common School Fund for use by the department in administration of ORS 196.600 to 196.905.
+      (11) The department shall credit any fee collected under this section to the Common School Fund for use by the department in administration of ORS 196.600 to 196.921.
 
  
 
@@ -3193,17 +3303,17 @@ REMOVAL OF MATERIAL; FILLING
 
       196.860 Enforcement powers of director. (1) If the Director of the Department of State Lands determines that material is being removed from or filling is occurring in any of the waters of this state without a permit issued under ORS 196.825, or in a manner contrary to the conditions set out in the permit, or in a manner contrary to the conditions set out in an order approving a wetland conservation plan, the director may:
 
-      (a) Investigate, hold hearings, make orders and take action, as provided in ORS 196.600 to 196.905, as soon as possible.
+      (a) Investigate, hold hearings, make orders and take action, as provided in ORS 196.600 to 196.921, as soon as possible.
 
       (b) For the purpose of investigating conditions relating to the removal or filling, through the employees or the duly authorized representatives of the Department of State Lands, enter at reasonable times upon any private or public property.
 
       (c) Conduct public hearings in accordance with ORS chapter 183.
 
-      (d) Publish findings and recommendations as they are developed relative to public policies and procedures necessary for the correction of conditions or violations of ORS 196.600 to 196.905.
+      (d) Publish findings and recommendations as they are developed relative to public policies and procedures necessary for the correction of conditions or violations of ORS 196.600 to 196.921.
 
       (e) Give notice of any proposed order relating to a violation by personal service or by mailing the notice by registered or certified mail to the person affected. Any person aggrieved by a proposed order of the director may request a hearing within 20 days of the date of personal service or mailing of the notice. Hearings shall be conducted under the provisions of ORS chapter 183 applicable to contested cases, and judicial review of final orders shall be conducted in the Court of Appeals according to ORS 183.482. If no hearing is requested or if the party fails to appear, a final order shall be issued upon a prima facie case on the record of the agency.
 
-      (f) Take appropriate action for the enforcement of any rules or final orders. Any violation of ORS 196.600 to 196.905 or of any rule or final order of the director under ORS 196.600 to 196.905 may be enjoined in civil abatement proceedings brought in the name of the State of Oregon. In any such proceedings the director may seek and the court may award a sum of money sufficient to compensate the public for any destruction or infringement of any public right of navigation, fishery or recreation resulting from the violation. Proceedings thus brought by the director shall set forth if applicable the dates of notice and hearing and the specific rule or order of the director, together with the facts of noncompliance, the facts giving rise to the public nuisance, and a statement of the damages to any public right of navigation, fishery or recreation, if any, resulting from the violation.
+      (f) Take appropriate action for the enforcement of any rules or final orders. Any violation of ORS 196.600 to 196.921 or of any rule or final order of the director under ORS 196.600 to 196.921 may be enjoined in civil abatement proceedings brought in the name of the State of Oregon. In any such proceedings the director may seek and the court may award a sum of money sufficient to compensate the public for any destruction or infringement of any public right of navigation, fishery or recreation resulting from the violation. Proceedings thus brought by the director shall set forth if applicable the dates of notice and hearing and the specific rule or order of the director, together with the facts of noncompliance, the facts giving rise to the public nuisance, and a statement of the damages to any public right of navigation, fishery or recreation, if any, resulting from the violation.
 
       (2)(a) In addition to the administrative action the director may take under subsection (1) of this section, the director may enter an order requiring any person to cease and desist from any violation if the director determines that the violation presents an imminent and substantial risk of injury, loss or damage to water resources.
 
@@ -3253,11 +3363,11 @@ Note: 196.875 [formerly 541.662 and 196.740] was enacted by two identical provis
 
  
 
-      196.880 Fill under permit presumed not to affect public rights; public rights extinguished. If the Director of the Department of State Lands issues a permit to fill pursuant to ORS 196.600 to 196.905, it shall be presumed that such fill does not infringe upon the public rights of navigation, fishery or recreation, and the public rights to lands created by the fill shall be considered extinguished. [Formerly 541.665 and then 196.745]
+      196.880 Fill under permit presumed not to affect public rights; public rights extinguished. If the Director of the Department of State Lands issues a permit to fill pursuant to ORS 196.600 to 196.921, it shall be presumed that such fill does not infringe upon the public rights of navigation, fishery or recreation, and the public rights to lands created by the fill shall be considered extinguished. [Formerly 541.665 and then 196.745]
 
  
 
-      196.885 Annual report of fill and removal activities; contents of report. The Director of the Department of State Lands shall submit an annual report to the State Land Board on the activities conducted under ORS 196.600 to 196.905. The annual report shall include the following:
+      196.885 Annual report of fill and removal activities; contents of report. The Director of the Department of State Lands shall submit an annual report to the State Land Board on the activities conducted under ORS 196.600 to 196.921. The annual report shall include the following:
 
       (1) The number of fill and removal permits applied for, denied and granted, organized according to whether or not the permits were for waters subject to section 404 of the Federal Water Pollution Control Act (P.L. 92-500, as amended). For all permits granted or outstanding during the prior year, a separate summary shall be included for fills and removals, organized by river or other water body, that shows:
 
@@ -3295,7 +3405,7 @@ Note: 196.875 [formerly 541.662 and 196.740] was enacted by two identical provis
 
  
 
-      196.890 Civil penalties. Any person who violates any provision of ORS 196.600 to 196.905 or any rule, order or permit adopted or issued under ORS 196.600 to 196.905 shall be subject to a civil penalty in an amount to be determined by the Director of the Department of State Lands of not more than $10,000 per day of violation. [Formerly 541.675 and then 196.755]
+      196.890 Civil penalties. Any person who violates any provision of ORS 196.600 to 196.921 or any rule, order or permit adopted or issued under ORS 196.600 to 196.921 shall be subject to a civil penalty in an amount to be determined by the Director of the Department of State Lands of not more than $10,000 per day of violation. [Formerly 541.675 and then 196.755]
 
  
 
@@ -3303,7 +3413,7 @@ Note: 196.875 [formerly 541.662 and 196.740] was enacted by two identical provis
 
       (2) The provisions of this section are in addition to and not in lieu of any other penalty or sanction provided by law. An action taken by the Director of the Department of State Lands under this section may be joined by the director with any other action taken against the same person under ORS 196.860 (1)(f).
 
-      (3) Any civil penalty recovered under this section shall be deposited in the Common School Fund for use by the Department of State Lands in administration of ORS 196.600 to 196.905, 196.990 and 541.990 and as otherwise required by law. [Formerly 541.680 and then 196.760; 1991 c.734 §12]
+      (3) Any civil penalty recovered under this section shall be deposited in the Common School Fund for use by the Department of State Lands in administration of ORS 196.600 to 196.921, 196.990 and 541.990 and as otherwise required by law. [Formerly 541.680 and then 196.760; 1991 c.734 §12]
 
 Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon Laws 2001, is dependent upon further approval by the Legislative Assembly. See section 11, chapter 516, Oregon Laws 2001, as amended by section 19, chapter 11, Oregon Laws 2009. The text that is operative after that approval is set forth for the user’s convenience.
 
@@ -3311,7 +3421,7 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
       (2) The provisions of this section are in addition to and not in lieu of any other penalty or sanction provided by law. An action taken by the Director of the Department of State Lands under this section may be joined by the director with any other action taken against the same person under ORS 196.860 (1)(f).
 
-      (3) Any civil penalty recovered under this section shall be deposited in the Common School Fund for use by the Department of State Lands in administration of ORS 196.600 to 196.905, 196.990 and 541.990 and as otherwise required by law.
+      (3) Any civil penalty recovered under this section shall be deposited in the Common School Fund for use by the Department of State Lands in administration of ORS 196.600 to 196.921, 196.990 and 541.990 and as otherwise required by law.
 
       (4) Notwithstanding any provision of ORS 183.745, any person having an interest that is adversely affected or aggrieved by an alleged violation for which civil penalties are imposed under ORS 196.890 may intervene in a contested case proceeding pertaining to the imposition of civil penalties under this section.
 
@@ -3337,9 +3447,267 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
  
 
-      196.905 Applicability; rules. (1) Nothing in ORS 196.600 to 196.905 applies to filling the beds of the waters of this state for the purpose of constructing, operating and maintaining dams or other diversions for which permits or certificates have been or shall be issued under ORS chapter 537 or 539 and for which preliminary permits or licenses have been or shall be issued under ORS 543.010 to 543.610.
+      196.905 [Formerly 541.695 and then 196.770; 1999 c.610 §1; 2009 c.342 §3; 2011 c.16 §1; 2011 c.406 §3; 2017 c.428 §1; renumbered 196.921 in 2019]
 
-      (2) Nothing in ORS 196.600 to 196.905 applies to removal of materials from the beds or banks or filling of the waters of a nonnavigable natural waterway, or any portion thereof, in this state, if:
+ 
+
+(Traditionally Maintained Channels)
+
+ 
+
+      196.906 Legislative findings and declarations. (1) The Legislative Assembly finds and declares that:
+
+      (a) It is in the best interest of the state to create a simple regulatory approach for the maintenance of channels used for agricultural drainage and to improve awareness of, and compliance with, the removal and fill program provided for under ORS 196.600 to 196.921.
+
+      (b) The provisions of ORS 196.906 to 196.919 are designed to protect the economic viability of Oregon’s farmers and ranchers by allowing for the maintenance of channels used for agricultural drainage to be conducted in a manner that protects, maintains or improves ecological function of the channels.
+
+      (2) The Legislative Assembly declares that it is the policy of the state:
+
+      (a) To adaptively manage the implementation of ORS 196.906 to 196.919 to allow for a workable process for persons to maintain traditionally maintained channels while protecting the ecological and life history functions of fish and wildlife that inhabit the channels; and
+
+      (b) To place a high priority on and to encourage the identification and development of opportunities for voluntary actions to restore, improve or enhance the ecological health or benefits of traditionally maintained channels. [2019 c.699 §2]
+
+ 
+
+      Note: 196.906 to 196.919 were added to and made a part of 196.600 to 196.921 by legislative action but were not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      196.909 Definitions. As used in ORS 196.906 to 196.919:
+
+      (1) “Adaptive management” has the meaning given that term in ORS 541.890.
+
+      (2) “Channel” means the defined bed and bank that serve to confine where a stream of water runs.
+
+      (3) “Dry” means:
+
+      (a) Channel conditions where no flowing or standing water is present, other than small quantities of water that may occur in low areas of the channel as a direct result of active maintenance activities; and
+
+      (b) For the channel of a waterway that is subject to tidal influence, the existence of channel conditions described in paragraph (a) of this subsection during all tidal conditions.
+
+      (4) “Maintenance” means channel upkeep and removal from the channel of sediment, vegetation or debris, in the minimum amount necessary to restore the serviceability of the channel for facilitating drainage.
+
+      (5) “Traditionally maintained channel” means the channel of a segment, set of segments or the entirety of a drainage ditch, intermittent stream or perennial stream that:
+
+      (a) Has been routinely subject to maintenance to facilitate drainage related to farming or ranching operations; and
+
+      (b) Has been serviceable for facilitating drainage within the past five years. [2019 c.699 §3]
+
+ 
+
+      Note: See note under 196.906.
+
+ 
+
+      196.910 [1997 c.508 §2; 1999 c.59 §54; 2003 c.253 §14; 2007 c.354 §3; renumbered 196.931 in 2019]
+
+ 
+
+      196.911 Maintenance without permit; applicability; notice. (1) Notwithstanding the permit requirements of ORS 196.810, a person may engage in removal activities or fill activities, or both, for conducting maintenance of a traditionally maintained channel without a permit from the Department of State Lands if:
+
+      (a) The person has a valid notice of maintenance activities on file with the State Department of Agriculture prior to initiating activities for the maintenance of a traditionally maintained channel; and
+
+      (b) The maintenance activities are conducted in compliance with the notice described in paragraph (a) of this subsection and with ORS 196.913 and 196.915.
+
+      (2) Notwithstanding the permit requirements of ORS 196.810, a district organized under ORS chapter 545, 547, 552 or 553 or a district improvement company or district improvement corporation organized under ORS chapter 554 may engage in removal activities or fill activities, or both, for conducting maintenance of a traditionally maintained channel without a permit from the Department of State Lands if:
+
+      (a) The district, company or corporation has a valid notice of maintenance activities on file with the State Department of Agriculture prior to initiating activities for the maintenance of a traditionally maintained channel;
+
+      (b) The maintenance activities are conducted in compliance with the notice described in paragraph (a) of this subsection and with ORS 196.913 and 196.915; and
+
+      (c) The governing body of the district, company or corporation, as part of the notice filed pursuant to subsection (3) of this section, agrees to submit to the jurisdiction of the Department of State Lands and the State Department of Agriculture for purposes of enforcement of ORS 196.906 to 196.919.
+
+      (3) A person shall file a notice of maintenance activities with the State Department of Agriculture on a form developed by the department. A notice filed under this subsection is valid for a period of five years from the date that the notice is filed. The notice must:
+
+      (a) Identify the location of the traditionally maintained channel in which the maintenance activities will occur;
+
+      (b) Include a description of the maintenance activities that, at a minimum, identifies the linear miles of channel to be maintained and the estimated volume per linear mile of material that will be removed from the channel over the course of a five-year period; and
+
+      (c) If the maintenance activities will be undertaken in part by a district, company or corporation described in subsection (2) of this section and in part by persons subject to the jurisdiction of the district, company or corporation, clearly identify which activities will be undertaken by the district, company or corporation and which activities will be undertaken by a person subject to the jurisdiction of the district, company or corporation.
+
+      (4) A district, company or corporation described in subsection (2) of this section shall endeavor to submit the notice required under subsection (2) of this section in coordination with submission of notices under subsection (1) of this section by persons subject to the jurisdiction of the district, company or corporation. The State Department of Agriculture may develop a consolidated form for the filing of notices by districts, companies and corporations and persons subject to the jurisdiction of the districts, companies and corporations. [2019 c.699 §4]
+
+ 
+
+      Note: See note under 196.906.
+
+ 
+
+      196.913 Prohibitions; conditions. (1) Activities for conducting maintenance of a traditionally maintained channel pursuant to a notice submitted under ORS 196.911 may not result in:
+
+      (a) The removal of more than 3,000 cubic yards per linear mile of traditionally maintained channel over the course of the five-year period for which the notice is valid;
+
+      (b) The spreading of material in a wetland or converted wetland pursuant to subsection (2)(k) of this section in a volume greater than 3,000 cubic yards per linear mile of traditionally maintained channel over the course of the five-year period for which the notice is valid;
+
+      (c) The removal or fill of material, or any other maintenance, occurring in a channel that has been designated by rule and mapped by the Department of State Lands as essential indigenous anadromous salmonid habitat as defined in ORS 196.810; or
+
+      (d) The enlargement of a water right or in otherwise causing injury to another existing water right.
+
+      (2) In addition to complying with all applicable laws related to fish passage as described in ORS 509.585 and all applicable laws related to water quality, maintenance activities conducted pursuant to a notice submitted under ORS 196.911 must comply with the following conditions:
+
+      (a) A traditionally maintained channel must be dry before the commencement of any removal activities in the channel. If there is standing water in the channel that is due to a rain event and not indicative of a perennial stream, a person must request a variance under ORS 196.915 (5) prior to initiation of maintenance activities.
+
+      (b) A person must complete removal activities during the applicable regional dry maintenance time period established by the State Department of Fish and Wildlife for the region where the traditionally maintained channel is located.
+
+      (c) The body of motorized equipment used to conduct removal or fill activities must be operated from the bank of the channel, with only the bucket or portion of the motorized equipment that actively removes material operating within the channel.
+
+      (d) The bottom of the channel bed must be excavated on a smooth grade, in a manner that avoids creating depressions or grade changes within the channel.
+
+      (e) Maintenance activities must be conducted in a manner that minimizes new erosion into the channel.
+
+      (f) Removal of woody vegetation must be limited to the minimum amount needed to complete the maintenance activity.
+
+      (g) Revegetation must occur for any riparian areas that serve as a buffer adjacent to the channel and that experience vegetation loss as a result of the maintenance activity. This condition is satisfied whether revegetation occurs naturally or after seeding.
+
+      (h) Work related to the maintenance activity must be conducted only from one bank of the channel, on either the north or east side, when practicable, to minimize the ecological impacts of the maintenance activity.
+
+      (i) Motorized equipment used for maintenance activities must utilize existing crossings, if crossing the channel is necessary to complete maintenance activities.
+
+      (j) Maintenance activities must begin at the most upstream location of the traditionally maintained channel and progress downstream.
+
+      (k) Material that is removed from the channel may be temporarily placed in a wetland or converted wetland to dry, provided that the material must, no later than one year after the date that the maintenance activity was completed, be moved to uplands or be spread in a thin layer outside the riparian area that serves as a buffer adjacent to the channel. Fill activities related to the maintenance of a traditionally maintained channel must be limited to fill pursuant to this paragraph.
+
+      (L) Maintenance activities may not result in converting wetlands to uplands and may not materially change the depth or functionality of a wetland.
+
+      (m) Impacts to wetlands by the maintenance activities must be temporary and must be limited to impacts related to accessing the site to conduct removal activities in the channel, the removal of material and the disposal of removed material.
+
+      (n) Maintenance activities may not result in a change in location of a channel through the digging of a new channel and the diversion of the flow from the old channel into the new channel or in increasing the width or depth of the channel beyond the width or depth to which the channel has routinely been maintained to facilitate drainage.
+
+      (o) The maintenance activities must not alter any existing inlet or outlet connections with other waterways. [2019 c.699 §5]
+
+ 
+
+      Note: See note under 196.906.
+
+ 
+
+      196.915 State agencies’ review and responses to notice; additional conditions; expedited review; variances; inspections; records; rules. (1) The State Department of Agriculture shall, no later than five days after the date the department receives a notice filed pursuant to ORS 196.911, provide a copy of the notice to the State Department of Fish and Wildlife. The State Department of Fish and Wildlife shall, within 30 days after receiving a copy of the notice, provide a response to the State Department of Agriculture. The response may indicate that a review was conducted and the work may proceed, or may provide recommendations on:
+
+      (a) Whether the maintenance activities described in the notice will meet the requirements of ORS 196.913; and
+
+      (b) Whether conditions in addition to those required under ORS 196.913 are necessary to address the presence of endangered or threatened species, to protect endangered or threatened species’ habitat quality or quantity, or to otherwise protect the existing functions of the channel.
+
+      (2)(a) Except as provided under paragraph (b) of this subsection, the State Department of Agriculture shall include any conditions recommended by the State Department of Fish and Wildlife in the response to the notice required under subsection (3) of this section.
+
+      (b) If the State Department of Agriculture disagrees with the recommendations of the State Department of Fish and Wildlife, the State Department of Agriculture shall provide a copy of the notice and of the recommendations to the Department of State Lands for the Department of State Lands to make a final determination regarding:
+
+      (A) Whether the maintenance activities described in the notice may occur without a removal or fill permit; and
+
+      (B) What conditions in addition to those required under ORS 196.913, if any, are necessary for the maintenance activities to occur without a removal or fill permit.
+
+      (c) The Department of State Lands shall provide any final determination required pursuant to paragraph (b) of this subsection to the State Department of Agriculture within five days after receiving the copies of the notice and recommendations.
+
+      (3) The State Department of Agriculture shall provide a response to a notice filed pursuant to ORS 196.911 no later than 45 days after the date that the notice is received. The response must include any conditions in addition to those required under ORS 196.913 that the departments have determined are necessary, pursuant to the process described in subsection (2) of this section, for maintenance activities to occur in the traditionally maintained channel without a removal or fill permit. If the State Department of Agriculture does not provide a response to a notice within the time period described in this subsection, maintenance activities may proceed as described in the notice and pursuant to ORS 196.913.
+
+      (4) Upon a request from the person submitting a notice under ORS 196.911, the State Department of Agriculture and the State Department of Fish and Wildlife may provide for expedited review under subsections (1) to (3) of this section, if the expedited review is necessary to allow for maintenance activities to occur within a specific time period.
+
+      (5) Prior to initiation of maintenance activities, a person who has a notice of maintenance activities on file with the State Department of Agriculture may request from the State Department of Agriculture a variance from any condition required under ORS 196.913 (2) or this section. The State Department of Agriculture shall consult with the State Department of Fish and Wildlife before granting a variance under this subsection. A person that has applied for a variance may not commence maintenance activities until after the State Department of Agriculture has granted the variance and informed the person of any modifications to conditions or additional conditions that must be met for the maintenance to occur.
+
+      (6)(a) Subject to paragraph (b) of this subsection, the State Department of Agriculture or the State Department of Fish and Wildlife may enter onto and inspect lands for which notices have been filed under ORS 196.911 in order to develop the recommendations and response required by subsections (1) to (3) of this section or to ascertain compliance with ORS 196.906 to 196.919.
+
+      (b) To enter onto and inspect lands under this subsection:
+
+      (A) The Department of Agriculture shall first make a reasonable attempt to notify the landowner;
+
+      (B) The departments may only enter onto and inspect the lands at a reasonable time; and
+
+      (C) The State Department of Fish and Wildlife may not, without the express agreement of the person, district, company or corporation that filed the notice, enter onto and inspect the lands unless accompanied by the State Department of Agriculture.
+
+      (7) The State Department of Agriculture shall maintain a record of a notice filed pursuant to ORS 196.911 and any related correspondence for 10 years after the date that the notice is received.
+
+      (8)(a) The Department of State Lands may, after consultation with the State Department of Agriculture and the State Department of Fish and Wildlife, adopt rules as necessary to implement ORS 196.906 to 196.919. Rules adopted pursuant to this subsection may include, but need not be limited to, rules:
+
+      (A) Modifying the volume limits for removal or fill set forth in ORS 196.913 (1) or applying different volume limits within certain geographies for certain types or categories of traditionally maintained channels; or
+
+      (B) Modifying the conditions that apply for maintenance of a traditionally maintained channel set forth in ORS 196.913 (2).
+
+      (b) Any rules adopted under paragraph (a)(A) or (B) of this subsection must be based on the best available scientific information and on findings that the rules will:
+
+      (A) Allow for maintenance of traditionally maintained channels to be conducted in a manner that protects, maintains or improves the existing ecological and habitat function of traditionally maintained channels; and
+
+      (B) Result in appropriate changes to the conditions required for conducting maintenance activities, under an adaptive management approach, for carrying out the state policy stated in ORS 196.906.
+
+      (9) Nothing in ORS 196.906 to 196.919 limits or otherwise changes the exemptions under ORS 196.921.
+
+      (10) The costs of activities taken by the State Department of Fish and Wildlife to carry out the duties of the department under ORS 196.906 to 196.919 may not be charged to another state agency as recompensable assistance under ORS 496.167 and 496.168. [2019 c.699 §6]
+
+ 
+
+      Note: See note under 196.906.
+
+ 
+
+      196.917 Notice of violation; reasonable efforts to induce voluntary compliance. Upon finding that a person has engaged in removal activities or fill activities for the maintenance of a traditionally maintained channel without a permit required under ORS 196.810 and in violation of ORS 196.911, 196.913 or 196.915, the State Department of Agriculture or the Department of State Lands, in consultation with the State Department of Fish and Wildlife, shall notify the person and direct the person to take any actions necessary to bring the maintenance activities into compliance with ORS 196.600 to 196.921 within a reasonable period of time. In all cases, the State Department of Agriculture or the Department of State Lands shall make reasonable efforts to induce voluntary compliance, prior to the assessment of any civil penalty under ORS 196.890 for violation of ORS 196.911, 196.913 or 196.915. [2019 c.699 §7]
+
+ 
+
+      Note: See note under 196.906.
+
+ 
+
+      196.919 Memoranda of understanding. (1) The Department of State Lands and the State Department of Agriculture shall enter into a memorandum of understanding providing for the State Department of Agriculture to implement ORS 196.906 to 196.919. Subject to the terms of the memorandum of understanding, the State Department of Agriculture:
+
+      (a) May perform the functions of the Department of State Lands in implementing and enforcing ORS 196.906 to 196.919.
+
+      (b) Shall, in coordination with soil and water conservation districts, work to provide education on the requirements of ORS 196.906 to 196.919.
+
+      (c) Shall, in coordination with the Department of State Lands, develop and implement a process for responding to requests to review the accuracy of the designation by the Department of State Lands and mapping of essential indigenous anadromous salmonid habitat as defined in ORS 196.810.
+
+      (2) The Department of State Lands may enter into any memorandum of understanding other than that required under subsection (1) of this section that is necessary for the implementation and enforcement of ORS 196.906 to 196.919.
+
+      (3) The State Department of Agriculture, in consultation with the Department of State Lands and the State Department of Fish and Wildlife, shall biennially conduct an adaptive management review of the implementation of ORS 196.906 to 196.919 to determine whether implementation changes are required to best carry out the policy stated in ORS 196.906. [2019 c.699 §8]
+
+ 
+
+      Note: See note under 196.906.
+
+ 
+
+      Note: Sections 10 to 15, chapter 699, Oregon Laws 2019, provide:
+
+      Sec. 10. Benefits and impacts study. (1) The College of Agricultural Sciences of Oregon State University shall conduct a study of the benefits and impacts of maintenance activities in traditionally maintained channels on habitat complexity and other biological parameters, including the benefits and impacts of maintenance activities for fish and wildlife that inhabit the channels. In conducting the study, the college shall assess the impacts of maintenance activities at a variety of geographic locations, in a variety of channel types and on a variety of channel conditions.
+
+      (2) In designing and implementing the study, the college shall consult with representatives of agricultural interests and conservation interests, the Department of State Lands, the State Department of Agriculture, the State Department of Fish and Wildlife and any other interested agencies of state government, as defined in ORS 174.111, as necessary to develop study questions and to design the study in a manner that will best align with the needs of the Department of State Lands, the State Department of Agriculture and the State Department of Fish and Wildlife in applying adaptive management to the implementation of sections 2 to 8 of this 2019 Act [196.906 to 196.919] and ORS 196.816 (3).
+
+      (3) The college shall submit a report on the study required by this section, and may include recommendations for legislation, to the interim committees of the Legislative Assembly related to agriculture in the manner provided under ORS 192.245, and to the Department of State Lands, the State Department of Agriculture and the State Department of Fish and Wildlife no later than January 1, 2025. [2019 c.699 §10]
+
+      Sec. 11. Sunset. Section 10 of this 2019 Act is repealed on January 2, 2025. [2019 c.699 §11]
+
+      Sec. 12. Use of report on benefits and impacts study in adaptive management. Upon receipt of the study results contained in the report required under section 10 of this 2019 Act, the State Department of Agriculture shall consider the results in developing adaptive management recommendations pursuant to section 8 (3) of this 2019 Act [196.919 (3)]. [2019 c.699 §12]
+
+      Sec. 13. Sunset. Section 12 of this 2019 Act is repealed on January 2, 2027. [2019 c.699 §13]
+
+      Sec. 14. Joint biennial report on maintenance activities. (1) The State Department of Agriculture, the Department of State Lands and the State Department of Fish and Wildlife shall jointly prepare a report on activities in this state for the maintenance of traditionally maintained channels. The State Department of Agriculture shall coordinate preparation of the report.
+
+      (2) The report shall:
+
+      (a) Describe activities related to the implementation of sections 2 to 8 [196.906 to 196.919], 10 and 12 of this 2019 Act and the amendments to ORS 196.816 by section 9 of this 2019 Act, including methods of implementation, compliance information and outcomes;
+
+      (b) Provide a discussion of the biennial adaptive management review required under section 8 (3) of this 2019 Act [196.919 (3)];
+
+      (c) Include information on the number of notices required under section 4 of this 2019 Act [196.911] on file with the Department of Agriculture, the linear miles of traditionally maintained channel in this state being maintained and the amount of cubic yards of material being removed pursuant to sections 2 to 8 of this 2019 Act;
+
+      (d) Provide a discussion of the potential impacts and benefits to agricultural lands and ecological function by maintenance conducted pursuant to sections 2 to 8 of this 2019 Act;
+
+      (e) Provide a discussion of opportunities to provide incentives to landowners to improve or enhance the ecological functions of channels maintained under sections 2 to 8 of this 2019 Act, including incentives provided to landowners during the period covered by the report; and
+
+      (f) Include any other relevant information on the implementation and effectiveness of sections 2 to 8 of this 2019 Act.
+
+      (3) The report may include recommendations for legislation.
+
+      (4) The report shall be submitted to the interim committees of the Legislative Assembly related to agriculture in the manner provided under ORS 192.245 no later than December 15 of each odd-numbered year. [2019 c.699 §14]
+
+      Sec. 15. Sunset. Section 14 of this 2019 Act is repealed on January 2, 2030. [2019 c.699 §15]
+
+ 
+
+(Applicability; Rules)
+
+ 
+
+      196.921 Applicability; rules. (1) Nothing in ORS 196.600 to 196.921 applies to filling the beds of the waters of this state for the purpose of constructing, operating and maintaining dams or other diversions for which permits or certificates have been or shall be issued under ORS chapter 537 or 539 and for which preliminary permits or licenses have been or shall be issued under ORS 543.010 to 543.610.
+
+      (2) Nothing in ORS 196.600 to 196.921 applies to removal of materials from the beds or banks or filling of the waters of a nonnavigable natural waterway, or any portion thereof, in this state, if:
 
       (a) Such waterway or portion is situated within forestland; and
 
@@ -3369,7 +3737,7 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
       (10) Nothing in ORS 196.800 to 196.900 applies to removal or filling, or both, for maintenance, including emergency reconstruction of recently damaged parts, of currently serviceable roads or transportation structures such as groins and riprap protecting roads, causeways and bridge abutments or approaches.
 
-      (11) Nothing in ORS 196.600 to 196.905 applies to removal or filling, or both, within the beds or banks of any waters of this state conducted as part of a surface mining operation, that is the subject of a memorandum of agreement between the Department of State Lands and the State Department of Geology and Mineral Industries in which the State Department of Geology and Mineral Industries is assigned sole responsibility for permitting as described in ORS 517.797.
+      (11) Nothing in ORS 196.600 to 196.921 applies to removal or filling, or both, within the beds or banks of any waters of this state conducted as part of a surface mining operation, that is the subject of a memorandum of agreement between the Department of State Lands and the State Department of Geology and Mineral Industries in which the State Department of Geology and Mineral Industries is assigned sole responsibility for permitting as described in ORS 517.797.
 
       (12) The Department of State Lands may adopt a rule that exempts from the requirement to obtain a permit under ORS 196.800 to 196.900 voluntary habitat restoration projects that have only minimal adverse impact on waters of this state.
 
@@ -3401,13 +3769,13 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
       (b) “Converted wetlands” does not include any stream, slough, ditched creek, spring, lake or any other waters of this state that are located within or adjacent to a converted wetland area.
 
-      (c) “Replacement” means the construction of a new structure that is substantially similar in size, sited in a substantially similar location and constructed in place of a previously existing structure. [Formerly 541.695 and then 196.770; 1999 c.610 §1; 2009 c.342 §3; 2011 c.16 §1; 2011 c.406 §3; 2017 c.428 §1]
+      (c) “Replacement” means the construction of a new structure that is substantially similar in size, sited in a substantially similar location and constructed in place of a previously existing structure. [Formerly 196.905]
 
  
 
-      Note: Operation of the amendments to 196.905 by section 6, chapter 516, Oregon Laws 2001, is dependent upon further approval by the Legislative Assembly. See section 11, chapter 516, Oregon Laws 2001, as amended by section 19, chapter 11, Oregon Laws 2009. The text that is operative after that approval, including amendments by section 13, chapter 253, Oregon Laws 2003, section 4, chapter 342, Oregon Laws 2009, section 2, chapter 16, Oregon Laws 2011, section 4, chapter 406, Oregon Laws 2011, and section 2, chapter 428, Oregon Laws 2017, is set forth for the user’s convenience.
+      Note: Operation of the amendments to 196.921 (formerly 196.905) by section 6, chapter 516, Oregon Laws 2001, is dependent upon further approval by the Legislative Assembly. See section 11, chapter 516, Oregon Laws 2001, as amended by section 19, chapter 11, Oregon Laws 2009. The text that is operative after that approval, including amendments by section 13, chapter 253, Oregon Laws 2003, section 4, chapter 342, Oregon Laws 2009, section 2, chapter 16, Oregon Laws 2011, section 4, chapter 406, Oregon Laws 2011, and section 2, chapter 428, Oregon Laws 2017, is set forth for the user’s convenience.
 
-      196.905. (1) Notwithstanding the exemptions in subsections (3) to (8) of this section, a permit under ORS 196.600 to 196.905 is required for any fill or removal of material in or from the waters of this state when:
+      196.921. (1) Notwithstanding the exemptions in subsections (3) to (8) of this section, a permit under ORS 196.600 to 196.921 is required for any fill or removal of material in or from the waters of this state when:
 
       (a) The fill or removal is a part of an activity whose purpose is to bring an area of state waters into a use to which it was not previously subject; and
 
@@ -3415,7 +3783,7 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
       (B) The reach of the waters may be reduced.
 
-      (2) Nothing in ORS 196.600 to 196.905 applies to removal of materials from the beds or banks or filling of the waters of a nonnavigable natural waterway, or any portion thereof, in this state, if:
+      (2) Nothing in ORS 196.600 to 196.921 applies to removal of materials from the beds or banks or filling of the waters of a nonnavigable natural waterway, or any portion thereof, in this state, if:
 
       (a) Such waterway or portion is situated within forestland; and
 
@@ -3465,7 +3833,7 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
       (c) Maintenance activities are confined to the scope of construction for the original project.
 
-      (12) Nothing in ORS 196.600 to 196.905 applies to removal or filling, or both, within the beds or banks of any waters of this state conducted as part of a surface mining operation that is the subject of a memorandum of agreement between the Department of State Lands and the State Department of Geology and Mineral Industries in which the State Department of Geology and Mineral Industries is assigned sole responsibility for permitting as described in ORS 517.797.
+      (12) Nothing in ORS 196.600 to 196.921 applies to removal or filling, or both, within the beds or banks of any waters of this state conducted as part of a surface mining operation that is the subject of a memorandum of agreement between the Department of State Lands and the State Department of Geology and Mineral Industries in which the State Department of Geology and Mineral Industries is assigned sole responsibility for permitting as described in ORS 517.797.
 
       (13) The department may adopt a rule that exempts from the requirement to obtain a permit under ORS 196.800 to 196.900 voluntary habitat restoration projects that have only minimal adverse impact on waters of this state.
 
@@ -3515,17 +3883,21 @@ Note: Operation of the amendments to 196.895 by section 5, chapter 516, Oregon L
 
  
 
-      196.910 Monitoring fill and removal activities; public education and information materials; periodic reports to legislative committee. The Department of State Lands shall:
+(Monitoring; Education; Reports)
+
+ 
+
+      196.931 Monitoring fill and removal activities; public education and information materials; periodic reports to legislative committee. The Department of State Lands shall:
 
       (1) Monitor removal and fill activities, including but not limited to prospecting and placer mining, within designated essential indigenous anadromous salmonid habitat areas to determine the effects of such activities on salmonid spawning and rearing habitat and compile the results in an annual report.
 
       (2) Cooperate with the State Department of Fish and Wildlife and other interested parties to develop and distribute public education and information materials designed to increase understanding and awareness of permit requirements and acceptable removal and fill practices related to prospecting and placer mining.
 
-      (3) Report periodically to the appropriate legislative committee on the progress of the Department of State Lands in implementing ORS 196.810. [1997 c.508 §2; 1999 c.59 §54; 2003 c.253 §14; 2007 c.354 §3]
+      (3) Report periodically to the appropriate legislative committee on the progress of the Department of State Lands in implementing ORS 196.810. [Formerly 196.910]
 
  
 
-      Note: 196.910 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 196 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 196.931 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 196 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -3539,15 +3911,13 @@ PENALTIES
 
       Note: Operation of the amendments to 196.990 by section 7, chapter 516, Oregon Laws 2001, is dependent upon further approval by the Legislative Assembly. See section 11, chapter 516, Oregon Laws 2001, as amended by section 19, chapter 11, Oregon Laws 2009. The text that is operative after that approval is set forth for the user’s convenience.
 
-      196.990. (1) A person commits the offense of unlawful removal from or filling of waters of this state if the person knowingly violates ORS 196.810 or an order issued thereunder, or any rule or condition of a permit issued under ORS 196.600 to 196.905.
+      196.990. (1) A person commits the offense of unlawful removal from or filling of waters of this state if the person knowingly violates ORS 196.810 or an order issued thereunder, or any rule or condition of a permit issued under ORS 196.600 to 196.921.
 
       (2) Notwithstanding ORS 161.515, unlawful removal from or filling of waters of this state is an offense punishable by a fine of up to $10,000 per day of violation.
 
  
 
       Note: See second note under 196.800.
-
- 
 
 _______________
 

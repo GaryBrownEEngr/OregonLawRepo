@@ -4,20 +4,6 @@ Chapter 135 — Arraignment and Pretrial Provisions
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0037
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0037
-
- 
-
- 
-
 
  
 
@@ -227,7 +213,7 @@ RELEASE OF DEFENDANT
 
  
 
-135.252     Release agreement conditions related to medical use of cannabis
+135.253     Waiver of appearance at trial as release condition prohibited
 
  
 
@@ -323,7 +309,7 @@ PLEADINGS
 
  
 
-135.385     Defendant to be advised by court
+135.385     Defendant to be advised by court; inquiry into immigration status prohibited
 
  
 
@@ -348,6 +334,10 @@ PLEADINGS
  
 
 135.415     Criteria to be considered in plea discussions and plea agreements
+
+ 
+
+135.418     Prohibited plea agreement provisions
 
  
 
@@ -776,6 +766,14 @@ MISCELLANEOUS
  
 
 135.980     Rehabilitative programs directory; compilation; availability
+
+ 
+
+135.983     Court inquiry into defendant’s immigration status prohibited
+
+ 
+
+135.985     Procedure when defendant is servicemember
 
  
 
@@ -1455,7 +1453,7 @@ RELEASE OF DEFENDANT
 
       135.246 Release conditions related to medical use of cannabis. (1) As used in this section, “cannabinoid concentrate,” “cannabinoid extract,” “medical cannabinoid product,” “registry identification card” and “usable marijuana” have the meanings given those terms in ORS 475B.791.
 
-      (2) Notwithstanding ORS 135.245, the conditions of release of a person who holds a registry identification card and is released from custody related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as conditions of release of a person released from custody related to prescription drugs. [2016 c.24 §53b]
+      (2) If a person who holds a registry identification card is released under ORS 135.230 to 135.290, any release conditions related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as would be imposed release conditions related to prescription drugs. [2016 c.24 §53b; 2019 c.292 §6]
 
  
 
@@ -1509,9 +1507,13 @@ RELEASE OF DEFENDANT
 
  
 
-      135.252 Release agreement conditions related to medical use of cannabis. (1) As used in this section, “cannabinoid concentrate,” “cannabinoid extract,” “medical cannabinoid product,” “registry identification card” and “usable marijuana” have the meanings given those terms in ORS 475B.791.
+      135.252 [2016 c.24 §53f; repealed by 2019 c.292 §10]
 
-      (2) Notwithstanding any other provision of ORS 135.230 to 135.290, the conditions of a release agreement of a person who holds a registry identification card and is released before judgment related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as the conditions of a release agreement of a person who is released before judgment related to the use of prescription drugs. [2016 c.24 §53f]
+ 
+
+      135.253 Waiver of appearance at trial as release condition prohibited. (1) The court may not condition a defendant’s release on the defendant’s waiver of appearance in person at trial.
+
+      (2) A release agreement may not contain a provision prohibited by subsection (1) of this section. [2018 c.37 §4]
 
  
 
@@ -1737,7 +1739,7 @@ PLEADINGS
 
  
 
-      135.385 Defendant to be advised by court. (1) The court shall not accept a plea of guilty or no contest to a felony or other charge on which the defendant appears in person without first addressing the defendant personally and determining that the defendant understands the nature of the charge.
+      135.385 Defendant to be advised by court; inquiry into immigration status prohibited. (1) The court shall not accept a plea of guilty or no contest to a felony or other charge on which the defendant appears in person without first addressing the defendant personally and determining that the defendant understands the nature of the charge.
 
       (2) The court shall inform the defendant:
 
@@ -1753,11 +1755,45 @@ PLEADINGS
 
       (c) When the offense charged is one for which a different or additional penalty is authorized by reason of the fact that the defendant may be adjudged a dangerous offender, that this fact may be established after a plea in the present action, thereby subjecting the defendant to different or additional penalty.
 
-      (d) That if the defendant is not a citizen of the United States conviction of a crime may result, under the laws of the United States, in deportation, exclusion from admission to the United States or denial of naturalization.
+      (d) That if the defendant is not a citizen of the United States conviction of a crime may result, under the laws of the United States, in removal proceedings, deportation, exclusion from admission to the United States or denial of naturalization.
 
       (e) That if the defendant is entering a guilty plea pursuant to a plea offer and agreed disposition recommendation under ORS 135.405, the court will agree to impose sentence as provided in the agreed disposition recommendation.
 
-      (f) That if the defendant enters a plea of guilty or no contest to an offense involving domestic violence, as defined in ORS 135.230, and is convicted of the offense, federal law may prohibit the defendant from possessing, receiving, shipping or transporting any firearm or firearm ammunition and that the conviction may negatively affect the defendant’s ability to serve in the Armed Forces of the United States as defined in ORS 348.282 or to be employed in law enforcement. [1973 c.836 §167; 1979 c.118 §1; 2001 c.635 §12; 2007 c.220 §1]
+      (f) That if the defendant enters a plea of guilty or no contest to an offense involving domestic violence, as defined in ORS 135.230, and is convicted of the offense, federal law may prohibit the defendant from possessing, receiving, shipping or transporting any firearm or firearm ammunition and that the conviction may negatively affect the defendant’s ability to serve in the Armed Forces of the United States as defined in ORS 348.282 or to be employed in law enforcement.
+
+      (3) At the time of the plea, including while informing the defendant under subsection (2)(d) of this section, the court may not inquire into the defendant’s immigration status or require the defendant to disclose the defendant’s immigration status.
+
+      (4) After informing the defendant under subsection (2)(d) of this section, upon the defendant’s request, the court shall allow the defendant additional time to consider the decision to enter a plea of guilty or no contest. [1973 c.836 §167; 1979 c.118 §1; 2001 c.635 §12; 2007 c.220 §1; 2019 c.437 §1]
+
+ 
+
+      Note: The amendments to 135.385 by section 13, chapter 384, Oregon Laws 2019, become operative June 30, 2021. See section 28, chapter 384, Oregon Laws 2019. The text that is operative on and after June 30, 2021, is set forth for the user’s convenience.
+
+      135.385. (1) The court shall not accept a plea of guilty or no contest to a felony or other charge on which the defendant appears in person without first addressing the defendant personally and determining that the defendant understands the nature of the charge.
+
+      (2) The court shall inform the defendant:
+
+      (a) That by a plea of guilty or no contest the defendant waives the right:
+
+      (A) To trial by jury;
+
+      (B) Of confrontation; and
+
+      (C) Against self-incrimination.
+
+      (b) Of the maximum possible sentence on the charge, including the maximum possible sentence from consecutive sentences.
+
+      (c) When the offense charged is one for which a different or additional penalty is authorized by reason of the fact that the defendant may be adjudged a dangerous offender, that this fact may be established after a plea in the present action, thereby subjecting the defendant to different or additional penalty.
+
+      (d) That if the defendant is not a citizen of the United States conviction of a crime may result, under the laws of the United States, in removal proceedings, deportation, exclusion from admission to the United States or denial of naturalization.
+
+      (e) That if the defendant is entering a guilty plea pursuant to a plea offer and agreed disposition recommendation under ORS 135.405, the court will agree to impose sentence as provided in the agreed disposition recommendation.
+
+      (f) That if the defendant enters a plea of guilty or no contest to an offense involving domestic violence, as defined in ORS 135.230, and is convicted of the offense, federal law may prohibit the defendant from possessing, receiving, shipping or transporting any firearm or firearm ammunition and that the conviction may negatively affect the defendant’s ability to serve in the Armed Forces of the United States as defined in ORS 366.931 or to be employed in law enforcement.
+
+      (3) At the time of the plea, including while informing the defendant under subsection (2)(d) of this section, the court may not inquire into the defendant’s immigration status or require the defendant to disclose the defendant’s immigration status.
+
+      (4) After informing the defendant under subsection (2)(d) of this section, upon the defendant’s request, the court shall allow the defendant additional time to consider the decision to enter a plea of guilty or no contest.
 
  
 
@@ -1787,7 +1823,7 @@ PLEADINGS
 
  
 
-      135.405 Plea discussions and plea agreements. (1) In cases in which it appears that the interest of the public in the effective administration of criminal justice would thereby be served, and in accordance with the criteria set forth in ORS 135.415, the district attorney may engage in plea discussions for the purpose of reaching a plea agreement.
+      135.405 Plea discussions and plea agreements. (1) In cases in which it appears that the interest of the public in the effective administration of criminal justice would thereby be served, and in accordance with the criteria set forth in ORS 135.415 and the prohibitions set forth in ORS 135.418, the district attorney may engage in plea discussions for the purpose of reaching a plea agreement.
 
       (2) The district attorney shall engage in plea discussions or reach a plea agreement with the defendant only through defense counsel, except when, as a matter of record, the defendant has effectively waived the right of the defendant to counsel or, if the defendant is not eligible for appointed counsel, has not retained counsel.
 
@@ -1801,39 +1837,9 @@ PLEADINGS
 
       (4) Similarly situated defendants should be afforded equal plea agreement opportunities.
 
-      (5) The district attorney may not condition a plea offer on a requirement that the defendant waive:
+      (5)(a) A district attorney may provide a plea offer and agreed disposition recommendation to the defendant at the time of arraignment or first appearance of the defendant for a crime in open court under an early disposition program established under ORS 135.941.
 
-      (a) The disclosure obligation of ORS 135.815 (1)(g); or
-
-      (b) The ability to receive the audio recording of grand jury proceedings as permitted under ORS 132.270, if the indictment has been indorsed “a true bill.”
-
-      (6)(a) A district attorney may provide a plea offer and agreed disposition recommendation to the defendant at the time of arraignment or first appearance of the defendant for a crime in open court under an early disposition program established under ORS 135.941.
-
-      (b) Unless extended by the court, a plea offer and agreed disposition recommendation made under paragraph (a) of this subsection expire upon completion of the arraignment. Except for good cause, a court may not extend a plea offer and agreed disposition recommendation under this paragraph for more than seven days for a misdemeanor or 21 days for a felony. [1973 c.836 §170; 2001 c.635 §10; 2001 c.962 §79; 2013 c.525 §2; 2017 c.650 §8]
-
- 
-
-      Note: The amendments to 135.405 by section 8, chapter 650, Oregon Laws 2017, become operative March 1, 2018. See section 18, chapter 650, Oregon Laws 2017. The text that is operative until March 1, 2018, is set forth for the user’s convenience.
-
-      135.405. (1) In cases in which it appears that the interest of the public in the effective administration of criminal justice would thereby be served, and in accordance with the criteria set forth in ORS 135.415, the district attorney may engage in plea discussions for the purpose of reaching a plea agreement.
-
-      (2) The district attorney shall engage in plea discussions or reach a plea agreement with the defendant only through defense counsel, except when, as a matter of record, the defendant has effectively waived the right of the defendant to counsel or, if the defendant is not eligible for appointed counsel, has not retained counsel.
-
-      (3) The district attorney in reaching a plea agreement may agree to, but is not limited to, one or more of the following, as required by the circumstances of the individual case:
-
-      (a) To make or not to oppose favorable recommendations as to the sentence which should be imposed if the defendant enters a plea of guilty or no contest to the offense charged;
-
-      (b) To seek or not to oppose dismissal of the offense charged if the defendant enters a plea of guilty or no contest to another offense reasonably related to the defendant’s conduct; or
-
-      (c) To seek or not to oppose dismissal of other charges or to refrain from bringing potential charges if the defendant enters a plea of guilty or no contest to the offense charged.
-
-      (4) Similarly situated defendants should be afforded equal plea agreement opportunities.
-
-      (5) The district attorney may not condition a plea offer on a requirement that the defendant waive the disclosure obligation of ORS 135.815 (1)(g).
-
-      (6)(a) A district attorney may provide a plea offer and agreed disposition recommendation to the defendant at the time of arraignment or first appearance of the defendant for a crime in open court under an early disposition program established under ORS 135.941.
-
-      (b) Unless extended by the court, a plea offer and agreed disposition recommendation made under paragraph (a) of this subsection expire upon completion of the arraignment. Except for good cause, a court may not extend a plea offer and agreed disposition recommendation under this paragraph for more than seven days for a misdemeanor or 21 days for a felony.
+      (b) Unless extended by the court, a plea offer and agreed disposition recommendation made under paragraph (a) of this subsection expire upon completion of the arraignment. Except for good cause, a court may not extend a plea offer and agreed disposition recommendation under this paragraph for more than seven days for a misdemeanor or 21 days for a felony. [1973 c.836 §170; 2001 c.635 §10; 2001 c.962 §79; 2013 c.525 §2; 2017 c.650 §8; 2018 c.37 §5]
 
  
 
@@ -1872,6 +1878,30 @@ PLEADINGS
       (5) The defendant has given or offered cooperation when the cooperation has resulted or may result in the successful prosecution of other offenders engaged in equally serious or more serious criminal conduct.
 
       (6) The defendant by the plea of the defendant has aided in avoiding delay in the disposition of other cases and thereby has increased the probability of prompt and certain application of correctional measures to other offenders. [1973 c.836 §171]
+
+ 
+
+      135.418 Prohibited plea agreement provisions. (1) A prosecuting attorney may not condition a defendant’s plea offer on:
+
+      (a) The defendant’s waiver of:
+
+      (A) The disclosure obligation of ORS 135.815 (1)(g).
+
+      (B) The ability to receive the audio recording of grand jury proceedings as permitted under ORS 132.270, if the indictment has been indorsed “a true bill.”
+
+      (C) Eligibility for transitional leave under ORS 421.168.
+
+      (D) Eligibility for a reduction in the term of incarceration under ORS 421.120 or 421.121.
+
+      (E) Eligibility for any reduction in sentence, leave or release from custody or any other program for which the executing or releasing authority may consider the defendant, including programs for which the executing or releasing authority determines eligibility and programs for which consideration must be ordered by the sentencing court under ORS 137.750.
+
+      (b) A requirement that the defendant or the defense attorney stipulate to the unconstitutionality of an existing law.
+
+      (2)(a) A plea agreement may not contain a provision prohibited by subsection (1) of this section.
+
+      (b) A prohibited provision described in subsection (1) of this section in a plea agreement is contrary to public policy and is void and unenforceable.
+
+      (3) As used in this section, “executing or releasing authority” has the meaning given that term in ORS 137.750. [2018 c.37 §2; 2019 c.684 §1]
 
  
 
@@ -1973,7 +2003,7 @@ PRETRIAL MOTIONS
 
       (b) When the names of the witnesses examined before the grand jury are not inserted at the foot of the indictment or indorsed thereon.
 
-      (2) Nothing in subsection (1)(b) of this section shall affect the application of ORS 132.580. [Amended by 1959 c.426 §2; 1973 c.836 §178]
+      (2) Subsection (1)(b) of this section does not apply if the absence of a witness’s name is permitted under ORS 132.580. [Amended by 1959 c.426 §2; 1973 c.836 §178; 2019 c.338 §3]
 
  
 
@@ -2267,15 +2297,15 @@ PROSECUTION OF PRISONERS
 
  
 
-      135.760 Notice requesting early trial on pending charge. (1) Any inmate in the custody of the Department of Corrections or of the supervisory authority of a county pursuant to a commitment under ORS 137.124 (2) against whom there is pending at the time of commitment or against whom there is filed at any time during imprisonment, in any court of this state, an indictment, information or criminal complaint charging the inmate with the commission of a crime, may give written notice to the district attorney of the county in which the inmate is so charged requesting the district attorney to prosecute and bring the inmate to trial on the charge forthwith.
+      135.760 Notice requesting early trial on pending charge. (1) Any adult in the custody of the Department of Corrections or of the supervisory authority of a county pursuant to a commitment under ORS 137.124 (2) against whom there is pending at the time of commitment or against whom there is filed at any time during imprisonment, in any court of this state, an indictment, information or criminal complaint charging the adult in custody with the commission of a crime, may give written notice to the district attorney of the county in which the adult in custody is so charged requesting the district attorney to prosecute and bring the adult in custody to trial on the charge forthwith.
 
-      (2) The notice provided for in subsection (1) of this section shall be signed by the inmate and set forth the place and term of imprisonment. A copy of the notice shall be sent to the court in which the inmate has been charged by indictment, information or complaint. [Formerly 134.510; 1987 c.320 §19; 1995 c.423 §9b]
+      (2) The notice provided for in subsection (1) of this section shall be signed by the adult in custody and set forth the place and term of imprisonment. A copy of the notice shall be sent to the court in which the adult in custody has been charged by indictment, information or complaint. [Formerly 134.510; 1987 c.320 §19; 1995 c.423 §9b; 2019 c.213 §15]
 
  
 
-      135.763 Trial within 90 days of notice unless continuance granted. (1) The district attorney, after receiving a notice requesting trial under ORS 135.760, shall, within 90 days of receipt of the notice, bring the inmate to trial upon the pending charge.
+      135.763 Trial within 90 days of notice unless continuance granted. (1) The district attorney, after receiving a notice requesting trial under ORS 135.760, shall, within 90 days of receipt of the notice, bring the adult in custody to trial upon the pending charge.
 
-      (2) The court shall grant any reasonable continuance with the consent of the defendant. Notwithstanding the defendant’s lack of consent, the court may grant a continuance on motion of the district attorney or on its own motion, for good cause shown. The fact of imprisonment is not good cause for the purposes of this subsection. [Formerly 134.520; 1993 c.542 §1]
+      (2) The court shall grant any reasonable continuance with the consent of the defendant. Notwithstanding the defendant’s lack of consent, the court may grant a continuance on motion of the district attorney or on its own motion, for good cause shown. The fact of imprisonment is not good cause for the purposes of this subsection. [Formerly 134.520; 1993 c.542 §1; 2019 c.213 §16]
 
  
 
@@ -2283,35 +2313,35 @@ PROSECUTION OF PRISONERS
 
       (2) This section shall not apply:
 
-      (a) When failure to bring the inmate to trial within 90 days after the district attorney receives notice under ORS 135.760 was the result of motions filed on behalf of the inmate, or of a grant by the court of a continuance on motion of the district attorney or on its own motion, for good cause shown; or
+      (a) When failure to bring the adult in custody to trial within 90 days after the district attorney receives notice under ORS 135.760 was the result of motions filed on behalf of the adult in custody, or of a grant by the court of a continuance on motion of the district attorney or on its own motion, for good cause shown; or
 
-      (b) When the inmate is unavailable for trial, other than by imprisonment, or because of other pending criminal proceedings against the inmate. [Formerly 134.530; 1993 c.542 §2]
-
- 
-
-      135.767 Presence of prisoner at proceedings. (1) Whenever the presence of an inmate in the custody of the Department of Corrections or of the supervisory authority of a county pursuant to a commitment under ORS 137.124 (2) is necessary in any criminal proceeding under ORS 135.760 to 135.773, the court wherein the inmate is charged with the commission of a crime may:
-
-      (a) Issue an order directing the Director of the Department of Corrections or the supervisory authority of a county to surrender the inmate to the sheriff of the county where the inmate is to be tried; or
-
-      (b) Ensure that arrangements for the inmate to appear by simultaneous electronic transmission as described in ORS 131.045 have been made.
-
-      (2) The county where an inmate is charged with commission of a crime shall pay the costs of:
-
-      (a) Transportation and maintenance of the inmate removed under this section; or
-
-      (b) Providing for the inmate to appear by simultaneous electronic transmission.
-
-      (3) If an inmate is transported under this section for a criminal proceeding under ORS 135.760 to 135.773, at the conclusion of the proceeding, notwithstanding the provisions of ORS 137.167, the inmate shall be returned by the sheriff to the custody of the Department of Corrections or the supervisory authority of the county in which the inmate is imprisoned.
-
-      (4) The time during which an inmate is in the custody of the sheriff under this section is part of and shall be counted as time served under the original sentence. [Formerly 134.540; 1983 c.740 §14; 1987 c.320 §20; 1995 c.423 §9c; 2005 c.566 §8]
+      (b) When the adult in custody is unavailable for trial, other than by imprisonment, or because of other pending criminal proceedings against the adult in custody. [Formerly 134.530; 1993 c.542 §2; 2019 c.213 §17]
 
  
 
-      135.770 Release of prisoner prohibited. No inmate in the custody of a sheriff under ORS 135.767 shall be released pending a criminal proceeding under ORS 135.760 to 135.773 or any appeal therefrom. [Formerly 134.550]
+      135.767 Presence of prisoner at proceedings. (1) Whenever the presence of an adult in the custody of the Department of Corrections or of the supervisory authority of a county pursuant to a commitment under ORS 137.124 (2) is necessary in any criminal proceeding under ORS 135.760 to 135.773, the court wherein the adult in custody is charged with the commission of a crime may:
+
+      (a) Issue an order directing the Director of the Department of Corrections or the supervisory authority of a county to surrender the adult in custody to the sheriff of the county where the adult in custody is to be tried; or
+
+      (b) Ensure that arrangements for the adult in custody to appear by simultaneous electronic transmission as described in ORS 131.045 have been made.
+
+      (2) The county where an adult in custody is charged with commission of a crime shall pay the costs of:
+
+      (a) Transportation and maintenance of the adult in custody removed under this section; or
+
+      (b) Providing for the adult in custody to appear by simultaneous electronic transmission.
+
+      (3) If an adult in custody is transported under this section for a criminal proceeding under ORS 135.760 to 135.773, at the conclusion of the proceeding, notwithstanding the provisions of ORS 137.167, the adult in custody shall be returned by the sheriff to the custody of the Department of Corrections or the supervisory authority of the county in which the adult in custody is imprisoned.
+
+      (4) The time during which an adult is in the custody of the sheriff under this section is part of and shall be counted as time served under the original sentence. [Formerly 134.540; 1983 c.740 §14; 1987 c.320 §20; 1995 c.423 §9c; 2005 c.566 §8; 2019 c.213 §18]
 
  
 
-      135.773 District attorney to furnish certain documents. The district attorney shall, in all proceedings against inmates under ORS 135.760 to 135.773, obtain for and furnish to the court a certified copy of the judgment, sentence or commitment order pursuant to which the inmate is imprisoned. [Formerly 134.560]
+      135.770 Release of prisoner prohibited. No adult in the custody of a sheriff under ORS 135.767 shall be released pending a criminal proceeding under ORS 135.760 to 135.773 or any appeal therefrom. [Formerly 134.550; 2019 c.213 §19]
+
+ 
+
+      135.773 District attorney to furnish certain documents. The district attorney shall, in all proceedings against adults in custody under ORS 135.760 to 135.773, obtain for and furnish to the court a certified copy of the judgment, sentence or commitment order pursuant to which the adult in custody is imprisoned. [Formerly 134.560; 2019 c.213 §20]
 
  
 
@@ -2325,13 +2355,23 @@ ______________________________________________________________________________
 
 AGREEMENT ON DETAINERS
 
+ 
+
       The contracting states solemnly agree that:
+
+ 
 
 ARTICLE I
 
+ 
+
       The party states find that charges outstanding against a prisoner, detainers based on untried indictments, informations or complaints, and difficulties in securing speedy trial of persons already incarcerated in other jurisdictions, produce uncertainties which obstruct programs of prisoner treatment and rehabilitation. Accordingly, it is the policy of the party states and the purpose of this agreement to encourage the expeditious and orderly disposition of such charges and determination of the proper status of any and all detainers based on untried indictments, informations or complaints. The party states also find that proceedings with reference to such charges and detainers, when emanating from another jurisdiction, cannot properly be had in the absence of cooperative procedures. It is the further purpose of this agreement to provide such cooperative procedures.
 
+ 
+
 ARTICLE II
+
+ 
 
       As used in this agreement:
 
@@ -2343,7 +2383,11 @@ ARTICLE II
 
       (d) “Department of Corrections institution” of this state shall mean any institution operated by the Department of Corrections.
 
+ 
+
 ARTICLE III
+
+ 
 
       (a) Whenever a person has entered upon a term of imprisonment in a penal or correctional institution of a party state, and whenever during the continuance of the term of imprisonment there is pending in any other party state any untried indictment, information or complaint on the basis of which a detainer has been lodged against the prisoner, the prisoner shall be brought to trial within 180 days after the prisoner shall have caused to be delivered to the prosecuting officer and the appropriate court of the prosecuting officer’s jurisdiction written notice of the place of imprisonment and the request of the prisoner for a final disposition to be made of the indictment, information or complaint: Provided, that for good cause shown in open court, the prisoner or the counsel of the prisoner being present, the court having jurisdiction of the matter may grant any necessary or reasonable continuance. The request of the prisoner shall be accompanied by a certificate of the appropriate official having custody of the prisoner, stating the term of commitment under which the prisoner is being held, the time already served, the time remaining to be served on the sentence, the amount of good time earned, the time of parole eligibility of the prisoner, and any decisions of the state parole agency relating to the prisoner.
 
@@ -2357,7 +2401,11 @@ ARTICLE III
 
       (f) Escape from custody by the prisoner subsequent to the execution of the request for final disposition referred to in paragraph (a) of this Article shall void the request.
 
+ 
+
 ARTICLE IV
+
+ 
 
       (a) The appropriate officer of the jurisdiction in which an untried indictment, information or complaint is pending shall be entitled to have a prisoner against whom the officer has lodged a detainer and who is serving a term of imprisonment in any party state made available in accordance with paragraph (a) of Article V of this agreement upon presentation of a written request for temporary custody or availability to the appropriate authorities of the state in which the prisoner is incarcerated: Provided, that the court having jurisdiction of such indictment, information or complaint shall have duly approved, recorded and transmitted the request; And provided further, that there shall be a period of 30 days after receipt by the appropriate authorities before the request be honored, within which period the governor of the sending state may disapprove the request for temporary custody or availability, either upon the own motion of the governor or upon motion of the prisoner.
 
@@ -2369,7 +2417,11 @@ ARTICLE IV
 
       (e) If trial is not had on any indictment, information or complaint contemplated hereby prior to the prisoner’s being returned to the original place of imprisonment pursuant to paragraph (e) of Article V of this agreement, such indictment, information or complaint shall not be of any further force or effect, and the court shall enter an order dismissing the same with prejudice.
 
+ 
+
 ARTICLE V
+
+ 
 
       (a) In response to a request made under Article III or Article IV of this agreement, the appropriate authority in a sending state shall offer to deliver temporary custody of such prisoner to the appropriate authority in the state where such indictment, information or complaint is pending against such person in order that speedy and efficient prosecution may be had. If the request for final disposition is made by the prisoner, the offer of temporary custody shall accompany the written notice provided for in Article III of this agreement. In the case of a federal prisoner, the appropriate authority in the receiving state shall be entitled to temporary custody as provided by this agreement or to the prisoner’s presence in federal custody at the place for trial, whichever custodial arrangement may be approved by the custodian.
 
@@ -2391,21 +2443,37 @@ ARTICLE V
 
       (h) From the time that a party state receives custody of a prisoner pursuant to this agreement until such prisoner is returned to the territory and custody of the sending state, the state in which the one or more untried indictments, informations or complaints are pending or in which trial is being had shall be responsible for the prisoner and shall also pay all costs of transporting, caring for, keeping and returning the prisoner. The provisions of this paragraph shall govern unless the states concerned shall have entered into a supplementary agreement providing for a different allocation of costs and responsibilities as between or among themselves. Nothing contained in this paragraph shall be construed to alter or affect any internal relationship among the departments, agencies and officers of and in the government of a party state, or between a party state and its subdivisions, as to the payment of costs, or responsibilities therefor.
 
+ 
+
 ARTICLE VI
+
+ 
 
       (a) In determining the duration and expiration dates of the time periods provided in Articles III and IV of this agreement, the running of such time periods shall be tolled whenever and for as long as the prisoner is unable to stand trial, as determined by the court having jurisdiction of the matter.
 
       (b) No provision of this agreement, and no remedy made available by this agreement, shall apply to any person who is adjudged to be a person with mental illness.
 
+ 
+
 ARTICLE VII
+
+ 
 
       Each state party to this agreement shall designate an officer who, acting jointly with like officers of other party states, shall promulgate rules and regulations to carry out more effectively the terms and provisions of this agreement, and who shall provide within and without the state, information necessary to the effective operation of this agreement.
 
+ 
+
 ARTICLE VIII
+
+ 
 
       This agreement shall enter into full force and effect as to a party state when such state has enacted the agreement into law. A state party to this agreement may withdraw herefrom by enacting a statute repealing the agreement. However, the withdrawal of any state shall not affect the status of any proceedings already initiated by prisoners or by state officers at the time such withdrawal takes effect, nor shall it affect their rights in respect thereof.
 
+ 
+
 ARTICLE IX
+
+ 
 
       This agreement shall be liberally construed so as to effectuate its purposes. The provisions of this agreement shall be severable and if any phrase, clause, sentence or provision of this agreement is declared to be contrary to the constitution of any party state or of the United States or the applicability thereof to any government, agency, person or circumstance is held invalid, the validity of the remainder of this agreement and the applicability thereof to any government, agency, person or circumstance shall not be affected thereby. If this agreement shall be held contrary to the constitution of any state party to this agreement, the agreement shall remain in full force and effect as to the remaining states and in full force and effect as to the state affected as to all severable matters.
 
@@ -2425,7 +2493,7 @@ ______________________________________________________________________________ [
 
  
 
-      135.785 Surrender of custody under ORS 135.775. The official in charge of a Department of Corrections institution in this state shall give over the person of any inmate thereof whenever so required by the operation of the Agreement on Detainers. [Formerly 134.645; 1987 c.320 §21]
+      135.785 Surrender of custody under ORS 135.775. The official in charge of a Department of Corrections institution in this state shall give over the person of any adult in custody thereof whenever so required by the operation of the Agreement on Detainers. [Formerly 134.645; 1987 c.320 §21; 2019 c.213 §21]
 
  
 
@@ -2499,7 +2567,7 @@ PRETRIAL DISCOVERY
 
       (b) Any report relating to the test results;
 
-      (c) A copy of the form provided to the defendant under ORS 813.100 (3)(b); and
+      (c) A copy of the form provided to the defendant under ORS 813.100 (2)(b); and
 
       (d) Any checklist prepared by the operator of the instrument for the test.
 
@@ -2535,7 +2603,7 @@ PRETRIAL DISCOVERY
 
       (c) “Represented defendant” means a defendant who is represented by a lawyer in a criminal action.
 
-      (d) “Social media” has the meaning given that term in ORS 659A.330. [1973 c.836 §214; 1989 c.790 §5; 1993 c.469 §2; 1999 c.304 §1; 2005 c.545 §1; 2007 c.581 §1; 2013 c.525 §1; 2017 c.171 §1]
+      (d) “Social media” has the meaning given that term in ORS 659A.330. [1973 c.836 §214; 1989 c.790 §5; 1993 c.469 §2; 1999 c.304 §1; 2005 c.545 §1; 2007 c.581 §1; 2013 c.525 §1; 2017 c.171 §1; 2019 c.475 §11]
 
  
 
@@ -2743,7 +2811,7 @@ DIVERSION
 
       135.893 Diversion conditions related to medical use of cannabis. (1) As used in this section, “cannabinoid concentrate,” “cannabinoid extract,” “medical cannabinoid product,” “registry identification card” and “usable marijuana” have the meanings given those terms in ORS 475B.791.
 
-      (2) Notwithstanding ORS 135.891, the conditions of diversion of a person who holds a registry identification card and enters into a diversion agreement related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as the conditions of diversion of a person who enters into a diversion agreement related to prescription drugs. [2016 c.24 §53d]
+      (2) For a person who holds a registry identification card who is subject to a diversion agreement under ORS 135.891, the diversion conditions related to the use of usable marijuana, medical cannabinoid products, cannabinoid concentrates or cannabinoid extracts must be imposed in the same manner as the diversion conditions related to prescription drugs. [2016 c.24 §53d; 2019 c.292 §7]
 
  
 
@@ -3134,6 +3202,30 @@ MISCELLANEOUS
  
 
       Note: 135.980 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 135 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      135.983 Court inquiry into defendant’s immigration status prohibited. (1) The court may not inquire into a defendant’s immigration status, and may not require a defendant to disclose the defendant’s immigration status, at any time during a criminal proceeding.
+
+      (2) Subsection (1) of this section does not prohibit a defendant from knowingly and voluntarily disclosing to the court the defendant’s immigration status at any time during the criminal proceeding. [2019 c.437 §2]
+
+ 
+
+      Note: 135.983 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 135 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      135.985 Procedure when defendant is servicemember. (1) As used in this section, “servicemember” means a person who is a member, or who served as a member, of the Armed Forces of the United States, the reserve components of the Armed Forces of the United States or the National Guard.
+
+      (2) At the time of arraignment on a criminal charge, the court shall inform the defendant that the defendant’s status as a servicemember may make the defendant eligible for treatment programs, diversion, specialty courts or mitigated sentencing, and that the defendant may obtain information about these options by consulting with the defendant’s attorney.
+
+      (3) In a criminal proceeding the defendant’s attorney may, with the permission of the defendant, notify the court that the defendant is a servicemember.
+
+      (4) The fact that a defendant is a servicemember may not be used as an aggravating factor in determining the defendant’s sentence. [2019 c.86 §1]
+
+ 
+
+      Note: 135.985 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 135 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 

@@ -4,20 +4,6 @@ Chapter 468A — Air Quality
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0102
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0102
-
- 
-
- 
-
 
  
 
@@ -27,7 +13,7 @@ AIR QUALITY
 
  
 
-PUBLIC HEALTH AND SAFETY
+HOUSING; LOTTERY AND GAMES; ENVIRONMENT
 
  
 
@@ -263,7 +249,7 @@ CLIMATE CHANGE
 
  
 
-468A.274  Emergency deferral; order; methods for deferring compliance; duration
+468A.274  Emergency deferral; order; methods for deferring compliance; duration; other remedies
 
  
 
@@ -299,7 +285,7 @@ FEDERAL OPERATING PERMIT PROGRAM
 
  
 
-468A.300  Definitions for federal operating permit program
+468A.300  Definitions
 
  
 
@@ -328,6 +314,40 @@ FEDERAL OPERATING PERMIT PROGRAM
  
 
 468A.330  Small Business Stationary Source Technical and Environmental Compliance Assistance Program
+
+ 
+
+TOXIC AIR CONTAMINANTS
+
+ 
+
+468A.335  Definitions
+
+468A.337  Individual air contamination source program; rules
+
+ 
+
+468A.339  Pilot program; rules; applicability
+
+ 
+
+468A.341  Clean Communities Fund; uses
+
+ 
+
+468A.343  Public meetings; private actions
+
+ 
+
+(Temporary provisions relating to benchmarks for excess noncancer risk for existing air contamination sources are compiled as notes following ORS 468A.343)
+
+ 
+
+468A.345  Fees
+
+ 
+
+Note          Fee increases--2018 c.102 §§14,15
 
  
 
@@ -679,11 +699,23 @@ DIESEL ENGINES
 
  
 
-468A.805  Environmental Mitigation Trust Agreement moneys; uses
+468A.805  Environmental Mitigation Trust Agreement moneys; uses; rules
 
  
 
 468A.807  Rules; compliance with applicable requirements
+
+ 
+
+468A.810  Certification of approved retrofit technologies; rules
+
+ 
+
+468A.813  Voluntary emission control label program; rules; fees
+
+ 
+
+Note          Supporting Businesses in Reducing Diesel Emissions Task Force--2019 c.645 §§19,20
 
  
 
@@ -1603,63 +1635,7 @@ CLIMATE CHANGE
 
  
 
-      468A.274 Emergency deferral; order; methods for deferring compliance; duration. (1) The Department of Environmental Quality shall issue an order declaring an emergency deferral:
-
-      (a) No later than 15 calendar days after the date that the department determines that:
-
-      (A) There is a known shortage of a fuel or low carbon fuel that is needed for regulated parties to comply with the low carbon fuel standard; and
-
-      (B) The magnitude of the shortage of that fuel is greater than the equivalent of five percent of the amount of the fuel forecasted to be available during the effective compliance period; or
-
-      (b) Immediately upon the issuance by the Governor of a proclamation, executive order or directive pursuant to ORS 176.750 to 176.815 declaring an energy emergency due to a shortage of gasoline or diesel.
-
-      (2) An order declaring an emergency deferral under this section must set forth:
-
-      (a) The duration of the emergency deferral;
-
-      (b) The types of fuel to which the emergency deferral applies; and
-
-      (c) Which of the following methods the department has selected for deferring compliance with the scheduled applicable low carbon fuel standard during the emergency deferral:
-
-      (A) Temporarily adjusting the scheduled applicable low carbon fuel standard to a standard identified in the order that better reflects the availability of credits during the emergency deferral and requiring regulated parties to comply with the temporary standard;
-
-      (B) Allowing for the carryover of deficits accrued during the emergency deferral into one or more future compliance periods without penalty; or
-
-      (C) Suspending deficit accrual during the emergency deferral period.
-
-      (3)(a) In implementing an emergency deferral, the department may take an action for deferring compliance with the low carbon fuel standard other than, or in addition to, selecting a method under subsection (2)(c) of this section only if the department determines that none of the methods under subsection (2)(c) of this section will provide a sufficient mechanism for containing the costs of compliance with the low carbon fuel standards during the emergency deferral.
-
-      (b) If the department makes the determination specified in paragraph (a) of this subsection, the department shall:
-
-      (A) Include in the order declaring an emergency deferral the determination and the action to be taken; and
-
-      (B) Provide written notification and justification of the determination and the action to:
-
-      (i) The Governor;
-
-      (ii) The President of the Senate;
-
-      (iii) The Speaker of the House of Representatives;
-
-      (iv) The majority and minority leaders of the Senate; and
-
-      (v) The majority and minority leaders of the House of Representatives.
-
-      (4)(a) Except as provided in paragraph (b) of this subsection, the duration of an emergency deferral:
-
-      (A) Implemented using the method described in subsection (2)(c)(A) of this section may not be less than one calendar quarter; and
-
-      (B) Implemented using a method described in subsection (2)(c)(B) or (C) or subsection (3) of this section may not be less than 30 calendar days.
-
-      (b) An emergency deferral may not continue past the end of the compliance period during which the emergency deferral is issued.
-
-      (c) An emergency deferral may be terminated prior to the expiration date of the emergency deferral only if new information becomes available indicating that the shortage for which the emergency deferral was issued has ended. Only the Environmental Quality Commission may terminate, by order, an emergency deferral before the expiration date of the emergency deferral. Termination of an emergency deferral is effective 15 calendar days after the date that the order declaring the termination is adopted. [2017 c.750 §165]
-
- 
-
-      Note: The amendments to 468A.274 by section 169, chapter 750, Oregon Laws 2017, become operative January 1, 2019. See section 168, chapter 750, Oregon Laws 2017. The text that is operative on and after January 1, 2019, is set forth for the user’s convenience.
-
-      468A.274. (1) The Department of Environmental Quality shall issue an order declaring an emergency deferral:
+      468A.274 Emergency deferral; order; methods for deferring compliance; duration; other remedies. (1) The Department of Environmental Quality shall issue an order declaring an emergency deferral:
 
       (a) No later than 15 calendar days after the date that the department determines that:
 
@@ -1715,7 +1691,7 @@ CLIMATE CHANGE
 
       (a) Require a regulated party to purchase credits for an amount that exceeds the maximum price for credits in the most recent credit clearance market; or
 
-      (b) Compel a person to sell credits.
+      (b) Compel a person to sell credits. [2017 c.750 §165; 2017 c.750 §169]
 
  
 
@@ -1753,7 +1729,7 @@ CLIMATE CHANGE
 
       (4)(a) The commission shall set the maximum price for credits in a credit clearance market, which may not exceed $200 for 2018.
 
-      (b) For 2019 and subsequent years, the maximum price for credits may exceed $200, but only to the extent that a greater maximum price for credits is necessary to annually adjust for inflation, beginning on January 1, 2019, pursuant to the increase, if any, from the preceding calendar year in the West Region Consumer Price Index for All Urban Consumers for All Items, as published by the Bureau of Labor Statistics of the United States Department of Labor.
+      (b) For 2019 and subsequent years, the maximum price for credits may exceed $200, but only to the extent that a greater maximum price for credits is necessary to annually adjust for inflation, beginning on January 1, 2019, pursuant to the increase, if any, from the preceding calendar year in the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor.
 
       (5) A regulated party that has a net deficit balance after the close of a credit clearance market:
 
@@ -1769,7 +1745,7 @@ CLIMATE CHANGE
 
       (7) If credits sold in a credit clearance market are subsequently invalidated as a result of fraud or any other form of noncompliance on the part of the generator of the credit, the department may not pursue civil penalties against, or require credit replacement by, the regulated party that purchased the credits unless the regulated party was a party to the fraud or other form of noncompliance.
 
-      (8) The department may not disclose the deficit balances or pro rata share purchase requirements of a regulated party that participates in the credit clearance market. [2017 c.750 §166]
+      (8) The department may not disclose the deficit balances or pro rata share purchase requirements of a regulated party that participates in the credit clearance market. [2017 c.750 §166; 2019 c.57 §25]
 
  
 
@@ -1973,7 +1949,7 @@ FEDERAL OPERATING PERMIT PROGRAM
 
  
 
-      468A.300 Definitions for federal operating permit program. As used in ORS 468.065, 468A.040, 468A.300 to 468A.330, 468A.415, 468A.420 and 468A.460 to 468A.515:
+      468A.300 Definitions. As used in ORS 468.065, 468A.040, 468A.300 to 468A.330, 468A.345, 468A.415, 468A.420 and 468A.460 to 468A.515:
 
       (1) “Administrator” means the administrator of the United States Environmental Protection Agency.
 
@@ -1983,7 +1959,7 @@ FEDERAL OPERATING PERMIT PROGRAM
 
       (4) “Major source” has the meaning given in section 501(2) of the Clean Air Act.
 
-      (5) “Title V” means Title V of the Clean Air Act. [1991 c.752 §3; 2009 c.387 §15]
+      (5) “Title V” means Title V of the Clean Air Act. [1991 c.752 §3; 2009 c.387 §15; 2018 c.102 §19]
 
  
 
@@ -2037,7 +2013,7 @@ FEDERAL OPERATING PERMIT PROGRAM
 
  
 
-      468A.315 Emission fees for major sources; base fees; basis of fees; rules. (1) The fee schedule required under ORS 468.065 (2) for a source subject to the federal operating permit program shall be based on a schedule established by rule by the Environmental Quality Commission in accordance with this section. Except for the additional fee under subsection (2)(e) of this section, this fee schedule shall be in lieu of any other fee for a permit issued under ORS 468A.040, 468A.045 or 468A.155. The fee schedule shall cover all reasonable direct and indirect costs of implementing the federal operating permit program and shall consist of:
+      468A.315 Emission fees for major sources; base fees; basis of fees; rules. (1) The fee schedule required under ORS 468.065 (2) for a source subject to the federal operating permit program shall be based on a schedule established by rule by the Environmental Quality Commission in accordance with this section. Except for the additional fees under subsection (2)(e) of this section and ORS 468A.345, this fee schedule shall be in lieu of any other fee for a permit issued under ORS 468A.040, 468A.045 or 468A.155. The fee schedule shall cover all reasonable direct and indirect costs of implementing the federal operating permit program and shall consist of:
 
       (a) An emission fee per ton of each regulated pollutant emitted during the prior calendar year as determined under subsection (2) of this section, subject to annual fee increases as set forth in paragraph (d) of this subsection. The following emission fees apply:
 
@@ -2099,7 +2075,7 @@ FEDERAL OPERATING PERMIT PROGRAM
 
       (a) “Regulated pollutant” means particulates, volatile organic compounds, oxides of nitrogen, and sulfur dioxide; and
 
-      (b) “Consumer Price Index” has the meaning given in 42 U.S.C. 7661a(b), as in effect on June 20, 2007. [1991 c.752 §§5,25; 1993 c.790 §§6,7; 2007 c.480 §1; 2009 c.266 §1]
+      (b) “Consumer Price Index” has the meaning given in 42 U.S.C. 7661a(b), as in effect on June 20, 2007. [1991 c.752 §§5,25; 1993 c.790 §§6,7; 2007 c.480 §1; 2009 c.266 §1; 2018 c.102 §20]
 
  
 
@@ -2182,6 +2158,230 @@ FEDERAL OPERATING PERMIT PROGRAM
       (A) “Clear” means plain, evident, free from doubt.
 
       (B) “Immediate danger” means a situation in which there is substantial likelihood that serious harm may be experienced within the time frame necessary for the department to pursue an enforcement action. [1991 c.752 §12]
+
+ 
+
+TOXIC AIR CONTAMINANTS
+
+ 
+
+      468A.335 Definitions. As used in ORS 468A.335 to 468A.343 and section 7, chapter 102, Oregon Laws 2018:
+
+      (1) “Benchmark for excess lifetime cancer risk” means:
+
+      (a) For a new or reconstructed air contamination source, an excess lifetime cancer risk level of 10 in one million.
+
+      (b) For an existing air contamination source, an excess lifetime cancer risk level of 50 in one million.
+
+      (2) “Benchmark for excess noncancer risk” means:
+
+      (a) For a new or reconstructed air contamination source, a benchmark equal to a Hazard Index number of 1.
+
+      (b) For an existing air contamination source, a benchmark equal to a Hazard Index number of 5.
+
+      (3) “Hazard Index number” means a number equal to the sum of the hazard quotients attributable to toxic air contaminants that have noncancer effects on the same target organs or organ systems.
+
+      (4) “Hazard quotient” means a calculated numerical value that is used to evaluate noncancer health risk from exposure to a single toxic air contaminant. The calculated numerical value is the ratio of the air concentration of a toxic air contaminant to the noncancer risk-based concentration at which no serious adverse human health effects are expected to occur.
+
+      (5) “Reconstructed” means an individual project constructed at an air contamination source that, once constructed, increases the hourly capacity of any changed equipment to emit and where the fixed capital cost of new components exceeds 50 percent of the fixed capital cost that would have been required to construct a comparable new source. [2018 c.102 §2]
+
+ 
+
+      Note: The amendments to 468A.335 by section 10, chapter 102, Oregon Laws 2018, become operative January 1, 2029. See section 9, chapter 102, Oregon Laws 2018. The text that is operative on and after January 1, 2029, is set forth for the user’s convenience.
+
+      468A.335. As used in ORS 468A.335 to 468A.343 and section 7, chapter 102, Oregon Laws 2018:
+
+      (1) “Benchmark for excess lifetime cancer risk” means:
+
+      (a) For a new or reconstructed air contamination source, an excess lifetime cancer risk level of 10 in one million.
+
+      (b) For an existing air contamination source, an excess lifetime cancer risk level established by the Environmental Quality Commission by rule, but no less than 25 in one million.
+
+      (2) “Benchmark for excess noncancer risk” means:
+
+      (a) For a new or reconstructed air contamination source, a benchmark equal to a Hazard Index number of 1.
+
+      (b) For an existing air contamination source, a benchmark equal to a Hazard Index number established by the commission by rule.
+
+      (3) “Hazard Index number” means a number equal to the sum of the hazard quotients attributable to toxic air contaminants that have noncancer effects on the same target organs or organ systems.
+
+      (4) “Hazard quotient” means a calculated numerical value that is used to evaluate noncancer health risk from exposure to a single toxic air contaminant. The calculated numerical value is the ratio of the air concentration of a toxic air contaminant to the noncancer risk-based concentration at which no serious adverse human health effects are expected to occur.
+
+      (5) “Reconstructed” means an individual project constructed at an air contamination source that, once constructed, increases the hourly capacity of any changed equipment to emit and where the fixed capital cost of new components exceeds 50 percent of the fixed capital cost that would have been required to construct a comparable new source.
+
+ 
+
+      468A.337 Individual air contamination source program; rules. (1) The Environmental Quality Commission may adopt a program and rules to reduce public health risks from emissions of toxic air contaminants from individual stationary industrial and commercial air contamination sources. The program and rules adopted under this section may be in addition to any other programs or rules adopted pursuant to ORS chapter 468A.
+
+      (2) Except as required by federal law, a program and rules adopted under this section may not require a person in control of an air contamination source to reduce risk associated with toxic air contaminant emissions from that source unless:
+
+      (a) The air contamination source is one for which a person is otherwise subject to regulation under ORS 468A.040, 468A.050, 468A.055 or 468A.155 or is subject to the federal operating permit program pursuant to ORS 468A.310; and
+
+      (b) Subject to periodic review by the Department of Environmental Quality, the total demonstrated public health risk from toxic air contaminant emissions from the air contamination source exceeds the benchmark for excess lifetime cancer risk or the benchmark for excess noncancer risk.
+
+      (3) For purposes of administration by the department of rules adopted under this section, rather than evaluating and regulating the public health risks from toxic air contaminant emissions from an air contamination source based on modeling for the potential to emit toxic air contaminants and land use zoning, a person in control of the air contamination source may elect to have the emissions from the air contamination source evaluated and regulated based on modeling for one or both of the following:
+
+      (a) Public health risk due to toxic air contaminant emissions from the air contamination source’s actual production or, for a new or reconstructed air contamination source, the reasonably anticipated actual production by the new or reconstructed air contamination source.
+
+      (b)(A) The impacts by toxic air contaminants on locations where people actually live or normally congregate. There is a presumption that people actually live or normally congregate in locations in the manner allowed by the land use zoning for the location, based on the most recent zoning maps available.
+
+      (B) A person in control of an air contamination source subject to rules adopted under this section may rebut the presumption in subparagraph (A) of this paragraph by submitting to the department documentation that the department determines is adequate to rebut the presumption. If the department determines that the documentation is adequate to rebut the presumption, the department shall adjust modeling inputs according to the documentation submitted.
+
+      (C) Documentation required under this paragraph must be updated annually by the person in control of the air contamination source.
+
+      (D) Documentation required under this paragraph may include a request by the person in control of the air contamination source for the department to exclude certain zoned areas from the modeling used for purposes of evaluating the toxic air contaminant emissions from the air contamination source. A request under this subparagraph must be based on documentation that the area to be excluded is not being used in a manner allowed by the land use zoning applicable to the area at the time the modeling is to be performed. If the department grants a request under this subparagraph, the person in control of the air contamination source shall annually submit to the department, as part of the update required under subparagraph (C) of this paragraph, documentation showing that the excluded zoned areas continue to not be used in a manner allowed by the land use zoning applicable to the area.
+
+      (4)(a) A person in control of an air contamination source subject to a program and rules adopted under this section may elect to have the public health risks from toxic air contaminant emissions from the air contamination source evaluated using air monitoring, if:
+
+      (A) The person submits to the department an air monitoring plan and the department approves the submitted air monitoring plan; and
+
+      (B) A modeled risk assessment using methods approved by the department is submitted to the department in advance of the commencement of the final, approved air monitoring plan.
+
+      (b) The department shall work with a person in control of an air contamination source to develop public information concerning an approved air monitoring plan and the timeline for the approved air monitoring plan.
+
+      (c) The department may not require a person in control of an air contamination source that elects to complete air monitoring under an approved air monitoring plan pursuant to this subsection to, pursuant to a program and rules adopted under this section, reduce public health risk from toxic air contaminants emitted by the air contamination source unless the results of the air monitoring:
+
+      (A) Validate the modeling completed pursuant to subsection (3) of this section; or
+
+      (B) Otherwise lead the department to reasonably conclude that the public health risks from toxic air contaminants emitted by the air contamination source exceed the benchmark for excess lifetime cancer risk or the benchmark for excess noncancer risk.
+
+      (d) Notwithstanding paragraph (c) of this subsection, if the results of the modeling completed pursuant to subsection (3) of this section indicate that the public health risks from toxic air contaminants emitted by the air contamination source exceed four times the benchmark for excess lifetime cancer risk or four times the benchmark for excess noncancer risk, a person in control of an air contamination source may not, pending completion of the approved air monitoring plan, delay implementation of any public health risk reduction measures that are required by the department pursuant to a program and rules adopted under this section.
+
+      (5)(a) Except as required under ORS 468.115, 468.936, 468.939, 468.951 or 468.996, or federal law, the department may not, pursuant to a program and rules adopted under this section, require an existing air contamination source that employs toxics best available control technology on all significant emission units to undertake additional measures to limit or reduce toxic air contaminant emissions.
+
+      (b) Notwithstanding paragraph (a) of this subsection and subsection (6)(d) of this section, the department may require an existing air contamination source that employs toxics best available control technology on all significant emission units to undertake additional measures to limit or reduce toxic air contaminant emissions if the public health risks from toxic air contaminants emitted by the air contamination source are greater than four times the benchmark for excess lifetime cancer risk or are greater than two times the benchmark for excess noncancer risk.
+
+      (6)(a) Toxics best available control technology described in subsection (5) of this section must be a toxic air contaminant emissions limitation or emissions control measure or measures based on the maximum degree of reduction of toxic air contaminants that is feasible, determined for each air contamination source on a case-by-case basis, taking into consideration:
+
+      (A) What has been achieved in practice for:
+
+      (i) Air contamination sources in the same class as the air contamination source to which the toxic air contaminant emissions limitation or control measure will apply, as classified under ORS 468A.050; or
+
+      (ii) Processes or emissions similar to the processes or emissions of the air contamination source;
+
+      (B) Energy and health or environmental impacts not related to air quality; and
+
+      (C) Economic impacts and cost-effectiveness, including the costs of changing existing processes or equipment or adding equipment or controls to existing processes and equipment.
+
+      (b) Toxics best available control technology may be based on a design standard, equipment standard, work practice standard or other operational standard, or a combination thereof.
+
+      (c) In assessing the cost-effectiveness of any measure for purposes of determining toxics best available control technology for an air contamination source, the department must assess only the economic impacts and benefits associated with controlling toxic air contaminants.
+
+      (d) For an air contamination source that exists as of the date that a program and rules adopted under this section first become effective, compliance with emission control requirements, work practices or limitations established by a major source National Emission Standard for Hazardous Air Pollutants adopted by the United States Environmental Protection Agency after 1993 is deemed to be toxics best available control technology, provided that:
+
+      (A) The emission control requirements, work practices or limitations result in an actual reduction to the emissions of the hazardous air pollutants regulated under the National Emission Standard for Hazardous Air Pollutants; and
+
+      (B) There are no other toxic air contaminants emitted by the air contamination source that:
+
+      (i) Are regulated under a program and rules adopted by the Environmental Quality Commission pursuant to subsection (1) of this section;
+
+      (ii) Are not controlled by the emission control requirements, work practices or limitations established by a major source National Emission Standard for Hazardous Air Pollutants; and
+
+      (iii) Materially contribute to public health risks. [2018 c.102 §3]
+
+ 
+
+      468A.339 Pilot program; rules; applicability. (1)(a) The Environmental Quality Commission may establish by rule a pilot program for evaluating and controlling public health risks from toxic air contaminant emissions from multiple stationary air contamination sources. The requirements of a pilot program adopted under this section shall be in addition to, and not in lieu of, any requirements applicable to a person in control of an air contamination source under a program and rules adopted under ORS 468A.337.
+
+      (b) Rules adopted for purposes of evaluating and regulating the public health risks from toxic air contaminant emissions from air contamination sources subject to the pilot program must be consistent with, and administered subject to the provisions of, ORS 468A.337 (3) and (4).
+
+      (2) The pilot program adopted under this section may apply to no more than one area in this state in a county with a population exceeding 500,000 people, selected based on:
+
+      (a) The degree to which the level of excess lifetime cancer risk in the area from all sources of toxic air contaminants exceeds the statewide mean excess lifetime cancer risk from all sources of toxic air contaminants; and
+
+      (b) The degree to which the area contains multiple stationary sources of toxic air contaminants, leading to high cumulative public health risks from the toxic air contaminant emissions of those air contamination sources.
+
+      (3) In determining the boundary of the pilot program area, the department shall consider the degree to which the level of cumulative risk resulting from the toxic air contaminant emissions of existing stationary air contamination sources within the area exceeds the benchmark for excess lifetime cancer risk or the benchmark for excess noncancer risk. The pilot program area may not be larger than a circle measuring 2.5 miles in diameter.
+
+      (4) Subsection (5) of this section applies:
+
+      (a) If ambient concentrations of toxic air contaminant emissions from all stationary air contamination sources within any portion of the pilot program area result in an exceedance of two times the benchmark for excess lifetime cancer risk or two times the benchmark for excess noncancer risk within that portion of the pilot program area; and
+
+      (b) To persons in control of existing air contamination sources that significantly contribute to an exceedance described in paragraph (a) of this subsection and to any person in control of a new or modified source that is reasonably anticipated to significantly contribute to an exceedance described in paragraph (a) of this subsection.
+
+      (5) In order to obtain a permit or a permit modification that would authorize a significant increase in the public health risks from toxic air contaminants emitted by an air contamination source, and except as provided in subsection (6) of this section, a person described in subsection (4)(b) of this section must prepare and submit to the Department of Environmental Quality a risk mitigation plan that includes one or more actions to offset the projected increase in public health risks from toxic air contaminant emissions from the new or modified air contamination source. The plan required by this subsection may include actions to reduce emissions from other sources in the area, including mobile sources. The department shall approve a risk mitigation plan submitted under this subsection if the department determines that the actions described in the plan are reasonably likely to achieve the projected reduction in public health risks necessary to offset the projected increase in public health risks from toxic air contaminant emissions from the new or modified air contamination source.
+
+      (6) Notwithstanding subsection (5) of this section, if the department determines, considering cost and available technology, that a risk mitigation plan is not feasible because reasonable actions to reduce public health risks are not available, the person in control of the air contamination source, in lieu of a risk mitigation plan, shall make a payment into the Clean Communities Fund established under ORS 468A.341. The amount of the payment required by this subsection shall be determined by the department based on the following considerations:
+
+      (a) The expected cost of actions to achieve the projected reduction in public health risks necessary to offset the increase in public health risks from toxic air contaminant emissions from the new or modified air contamination source; and
+
+      (b) How to best incentivize payments for actions that will most directly offset the increase in public health risks from toxic air contaminant emissions from the new or modified air contamination source in the portion of the pilot program area where the cumulative public health risks are expected to be the highest.
+
+      (7) The department may enter into a contract or agreement for services to implement a program for investing moneys deposited in the Clean Communities Fund in actions to reduce public health risks from toxic air contaminants emitted by air contamination sources located within the pilot program area. [2018 c.102 §4]
+
+ 
+
+      468A.341 Clean Communities Fund; uses. (1) The Clean Communities Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the Clean Communities Fund shall be credited to the fund.
+
+      (2) The Clean Communities Fund consists of moneys deposited in the fund pursuant to ORS 468A.339 and any other moneys deposited in the fund from any other public or private source.
+
+      (3) Moneys in the Clean Communities Fund are continuously appropriated to the Department of Environmental Quality to be used for actions to reduce public health risks from toxic air contaminants emitted by air contamination sources located within the pilot program area designated by the department under ORS 468A.339. [2018 c.102 §5]
+
+ 
+
+      468A.343 Public meetings; private actions. (1) The Department of Environmental Quality shall hold any public meeting required by rules adopted pursuant to ORS 468A.335 to 468A.343 and section 7, chapter 102, Oregon Laws 2018. At least one representative of a person in control of an air contamination source for which a permit or plan will be discussed at a public meeting required by a rule adopted under ORS 468A.335 to 468A.343 and section 7, chapter 102, Oregon Laws 2018, must appear at the meeting.
+
+      (2) If the Environmental Quality Commission adopts a program and rules pursuant to ORS 468A.337 or a pilot program pursuant to ORS 468A.339, the programs and rules and their applicability to any air contamination source described in this section do not create a new standard of care or otherwise alter an existing standard of care for imposing liability in any private action. [2018 c.102 §6]
+
+ 
+
+      Note: Sections 1, 7, 8, 11 and 12, chapter 102, Oregon Laws 2018, provide:
+
+      Sec. 1. Sections 2 to 7 [468A.335 to 468A.343], 13 [468A.345], 14 and 16 of this 2018 Act are added to and made a part of ORS chapter 468A. [2018 c.102 §1]
+
+      Sec. 7. Benchmarks for excess noncancer risk for existing air contamination sources; rules. (1) Notwithstanding section 2 (2)(b) of this 2018 Act [468A.335 (2)(b)], the Department of Environmental Quality may regulate an existing air contamination source pursuant to section 3 [468A.337] or 4 [468A.339] of this 2018 Act based on a benchmark for excess noncancer risk that is adjusted to equal a Hazard Index number other than 5, if the department determines that the existing air contamination source emits a material amount of one or more toxic air contaminants that are identified by the Environmental Quality Commission by rule to be toxic air contaminants that are expected to have:
+
+      (a) Developmental human health effects associated with prenatal or postnatal exposure; or
+
+      (b) Other severe human health effects.
+
+      (2) The adjusted benchmark for excess noncancer risk applicable to an air contamination source described in subsection (1) of this section may be equal to a Hazard Index number determined by the department based on standards and criteria set forth by the commission in rule, but may be no less than a Hazard Index number of 3.
+
+      (3)(a) The commission shall adopt rules necessary to implement this section. The rules must, at a minimum:
+
+      (A) Identify toxic air contaminants for which the department may apply an adjusted benchmark for excess noncancer risk under subsection (1) of this section; and
+
+      (B) Establish standards and criteria for determining the degree to which the department may adjust the benchmark for excess noncancer risk applicable to an individual air contamination source described in subsection (1) of this section.
+
+      (b) Before adopting rules under this section, the commission shall establish and consider the recommendations of an advisory committee composed, at a minimum, of persons with technical expertise in toxic air contaminant risk assessment. [2018 c.102 §7]
+
+      Sec. 8. Section 7 of this 2018 Act is repealed on January 1, 2029. [2018 c.102 §8]
+
+      Sec. 11. Report. The Department of Environmental Quality shall report to the interim committees of the Legislative Assembly related to the environment, no later than September 15, 2026, on the costs and benefits of regulating existing air contamination sources based on the benchmark for excess noncancer risk as defined in section 2 of this 2018 Act [468A.335] and based on any adjusted benchmarks for excess noncancer risk that have been applied to existing air contamination sources pursuant to section 7 of this 2018 Act. The report may include recommendations for legislation. [2018 c.102 §11]
+
+      Sec. 12. Section 11 of this 2018 Act is repealed January 2, 2027. [2018 c.102 §12]
+
+ 
+
+      468A.345 Fees. (1) The fee schedules authorized under ORS 468.065 (2) for permits described in subsection (2) of this section may include fees that are reasonably calculated to cover the direct and indirect costs of the Department of Environmental Quality and the Environmental Quality Commission in developing and implementing, under ORS 468A.335 to 468A.343 and section 7, chapter 102, Oregon Laws 2018, a program and rules described in ORS 468A.337 or a pilot program described in ORS 468A.339.
+
+      (2) The fees authorized by subsection (1) of this section shall:
+
+      (a) Apply for any class of air contamination sources classified pursuant to ORS 468A.050 for which a person is required to obtain a permit under ORS 468A.040 or 468A.155 or is subject to the federal operating permit program pursuant to ORS 468A.310; and
+
+      (b) Be in addition to, and not in lieu of, any other fee required under ORS 468.065 or 468A.315.
+
+      (3) Not more than once each calendar year, the Environmental Quality Commission may increase the fees authorized under this section. The amount of the annual increase may not exceed the anticipated increase in the cost of implementing ORS 468A.335 to 468A.343 and section 7, chapter 102, Oregon Laws 2018, or three percent, whichever is lower, unless a larger increase is provided for in the Department of Environmental Quality’s legislatively approved budget.
+
+      (4)(a) Any rule adopted under ORS 468.065 (2) regarding late payment of emission fees by an air contamination source issued a permit under ORS 468A.040 or 468A.155 shall apply in the same manner to an air contamination source issued a permit under ORS 468A.040 or 468A.155 for late payment of fees under this section.
+
+      (b) Any rule adopted under ORS 468A.315 regarding late payment of emission fees by sources subject to the federal operating permit program shall apply in the same manner to sources subject to the federal operating permit program for late payment of fees under this section.
+
+      (5) The department may, in the manner provided in ORS 468.070, refuse to issue, suspend, revoke or refuse to renew a permit issued under ORS 468A.040 or 468A.155 or under the federal operating permit program pursuant to ORS 468A.310 for failure to comply with the provisions of this section. [2018 c.102 §13]
+
+ 
+
+      Note: Sections 14 and 15, chapter 102, Oregon Laws 2018, provide:
+
+      Sec. 14. Fee increases. (1) Fees imposed pursuant to section 13 of this 2018 Act [468A.345] shall first become due and payable no earlier than July 1, 2019.
+
+      (2) The Environmental Quality Commission may not increase the fees established under section 13 of this 2018 Act pursuant to section 13 (3) of this 2018 Act before January 1, 2020. Increased fees imposed pursuant to this subsection shall first become due and payable no earlier than July 1, 2020.
+
+      (3)(a) A fee imposed under section 13 of this 2018 Act may not exceed an amount equal to 35 percent of the fee imposed on a person during the 2018 calendar year, pursuant to ORS 468.065 (2), for an air contamination source classified pursuant to ORS 468A.050 for which the person is required to obtain a permit under ORS 468A.040 or 468A.155 or is subject to the federal operating permit program pursuant to ORS 468A.310.
+
+      (b) For purposes of administering this subsection, the commission shall exclude from the fee imposed on a person during the 2018 calendar year that portion of the fee that was imposed to cover the costs to the Department of Environmental Quality for any greenhouse gas emissions registration and reporting requirements adopted by the commission by rule. [2018 c.102 §14]
+
+      Sec. 15. Section 14 of this 2018 Act is repealed on January 2, 2024. [2018 c.102 §15]
 
  
 
@@ -3325,35 +3525,33 @@ DIESEL ENGINES
 
       (2) “Best available exhaust control technology” means the most effective exhaust controls to reduce diesel particulate that rely on passively regenerated diesel particulate control technology supported in a vehicle’s normal duty cycle.
 
-      (3) “Combined weight” has the meaning given that term in ORS 825.005.
+      (3) “Cost-effectiveness threshold” means the cost, in dollars, per ton of diesel particulate matter reduced, as established by rule of the Environmental Quality Commission.
 
-      (4) “Cost-effectiveness threshold” means the cost, in dollars, per ton of diesel particulate matter reduced, as established by rule of the Environmental Quality Commission.
+      (4) “Diesel engine” means a compression ignition engine.
 
-      (5) “Diesel engine” means a compression ignition engine.
+      (5) “Environmental Mitigation Trust Agreement” means the fully executed Environmental Mitigation Trust Agreement for State Beneficiaries effective October 2, 2017, and issued pursuant to Paragraph 17 of the Volkswagen “Clean Diesel” Marketing, Sales Practices and Products Liability Litigation partial consent decree dated October 25, 2016.
 
-      (6) “Environmental Mitigation Trust Agreement” means the Environmental Mitigation Trust Agreement required by the Volkswagen “Clean Diesel” Marketing, Sales Practices and Products Liability Litigation partial consent decree dated October 25, 2016.
+      (6) “Equivalent equipment” means a piece of equipment that performs the same function and has the equivalent horsepower to a piece of equipment subject to a replacement.
 
-      (7) “Equivalent equipment” means a piece of equipment that performs the same function and has the equivalent horsepower to a piece of equipment subject to a replacement.
+      (7) “Equivalent motor vehicle” means a motor vehicle that performs the same function and is in the same weight class as a motor vehicle subject to a replacement.
 
-      (8) “Equivalent motor vehicle” means a motor vehicle that performs the same function and is in the same weight class as a motor vehicle subject to a replacement.
+      (8) “Gross vehicle weight rating” means the value specified by the manufacturer as the maximum loaded weight of a single or a combination vehicle.
 
-      (9) “Heavy-duty truck” means a motor vehicle or combination of vehicles operated as a unit that has a combined weight that is greater than 26,000 pounds.
+      (9) “Heavy-duty truck” means a motor vehicle or combination of vehicles operated as a unit that has a gross vehicle weight rating that is greater than 26,000 pounds.
 
       (10) “Incremental cost” means the cost of a qualifying repower or retrofit less a baseline cost that would otherwise be incurred in the normal course of business.
 
-      (11) “Medium-duty truck” means a motor vehicle or combination of vehicles operated as a unit that has a combined weight that is greater than 14,000 pounds but less than or equal to 26,000 pounds.
+      (11) “Medium-duty truck” means a motor vehicle or combination of vehicles operated as a unit that has a gross vehicle weight rating that is greater than 14,000 pounds but less than or equal to 26,000 pounds.
 
       (12) “Motor vehicle” has the meaning given that term in ORS 825.005.
 
       (13) “Nonroad diesel engine” means a diesel engine of 25 horsepower or more that is not designed primarily to propel a motor vehicle on public highways.
 
-      (14) “Oregon diesel engine” means an engine at least 50 percent of the use of which, as measured by miles driven or hours operated, will occur in Oregon for the three years following the repowering or retrofitting of the engine.
+      (14) “Oregon diesel truck engine” means a diesel engine in a truck at least 50 percent of the use of which, as measured by miles driven or hours operated, has occurred in Oregon for the two years preceding the scrapping of the engine.
 
-      (15) “Oregon diesel truck engine” means a diesel engine in a truck at least 50 percent of the use of which, as measured by miles driven or hours operated, has occurred in Oregon for the two years preceding the scrapping of the engine.
+      (15) “Public highway” has the meaning given that term in ORS 825.005.
 
-      (16) “Public highway” has the meaning given that term in ORS 825.005.
-
-      (17)(a) “Replacement” means:
+      (16)(a) “Replacement” means:
 
       (A) To scrap a motor vehicle powered by a diesel engine and replace the motor vehicle with an equivalent motor vehicle; or
 
@@ -3361,13 +3559,13 @@ DIESEL ENGINES
 
       (b) “Replacement” does not mean ordinary maintenance, repair or replacement of a diesel engine.
 
-      (18) “Repower” means to scrap an old diesel engine and substitute it with a new engine, a used engine or a remanufactured engine, or with electric motors, drives or fuel cells, with a minimum useful life of seven years.
+      (17) “Repower” means to scrap an old diesel engine and substitute it with a new engine, a used engine or a remanufactured engine, or with electric motors, drives or fuel cells, with a minimum useful life of seven years.
 
-      (19) “Retrofit” means to equip a diesel engine with new emissions-reducing parts or technology after the manufacture of the original engine. A retrofit must use the greatest degree of emissions reduction available for the particular application of the equipment retrofitted that meets the cost-effectiveness threshold.
+      (18) “Retrofit” means to equip a diesel engine with new emissions-reducing parts or technology after the manufacture of the original engine or to convert the diesel engine into an engine capable of being powered by alternative fuel. A retrofit must use the greatest degree of emissions reduction available for the particular application of the equipment retrofitted that meets the cost-effectiveness threshold.
 
-      (20) “Scrap” means to destroy, render inoperable and recycle.
+      (19) “Scrap” means to destroy, render inoperable and recycle.
 
-      (21) “Truck” means a motor vehicle or combination of vehicles operated as a unit that has a combined weight that is greater than 14,000 pounds. [2007 c.855 §6; 2007 c.855 §6a; 2017 c.742 §§1,2]
+      (20) “Truck” means a motor vehicle or combination of vehicles operated as a unit that has a gross vehicle weight rating that is greater than 14,000 pounds. [2007 c.855 §6; 2007 c.855 §6a; 2017 c.742 §§1,2; 2019 c.645 §1]
 
  
 
@@ -3477,21 +3675,27 @@ DIESEL ENGINES
 
       (5) The department may not award a grant or loan for a replacement, repower or retrofit under subsection (1) of this section unless the grant or loan applicant demonstrates to the department’s satisfaction that the resulting equivalent motor vehicle, equivalent equipment, repowered nonroad diesel engine or retrofitted diesel engine will undergo at least 50 percent of its use in Oregon, as measured by miles driven or hours operated, for the three years following the replacement, repower or retrofit.
 
-      (6) The department may not award a grant to scrap an Oregon diesel truck engine under subsection (1) of this section unless the engine was manufactured prior to 1994 and the engine is in operating condition at the time of the grant application or, if repairs are needed, the owner demonstrates to the department’s satisfaction that the engine can be repaired to an operating condition for less than its commercial scrap value. The commission shall adopt rules for a maximum grant awarded under subsection (1) of this section for an engine in a heavy-duty truck and for an engine in a medium-duty truck. A grant awarded under subsection (1) of this section may not be combined with any other tax credits, grants or loans, or any other public financial assistance, to scrap an Oregon diesel truck engine.
+      (6) The department may not award a grant to scrap an Oregon diesel truck engine under subsection (1)(d) of this section unless the engine was manufactured prior to 1994 and the engine is in operating condition at the time of the grant application or, if repairs are needed, the owner demonstrates to the department’s satisfaction that the engine can be repaired to an operating condition for less than its commercial scrap value. The commission shall adopt rules for a maximum grant awarded under subsection (1)(d) of this section for an engine in a heavy-duty truck and for an engine in a medium-duty truck. A grant awarded under subsection (1)(d) of this section may not be combined with any other tax credits, grants or loans, or any other public financial assistance, to scrap an Oregon diesel truck engine.
 
       (7) Subject to and consistent with federal law, any moneys received from the federal government that are deposited in the Clean Diesel Engine Fund under ORS 468A.801 (2)(b) must be used for initiatives to reduce emissions from diesel engines. Subsections (1) to (6) of this section and ORS 468A.797 and 468A.799 do not apply to use of moneys in the fund received from the federal government.
 
       (8) Any moneys received by the State of Oregon pursuant to a voluntary written agreement or a settlement approved in an administrative or judicial proceeding that are deposited in the Clean Diesel Engine Fund must be used by the department for activities consistent with the terms and conditions of the agreement or settlement. Subsections (1) to (6) of this section and ORS 468A.797 and 468A.799 do not apply to the use of moneys in the fund received pursuant to this subsection.
 
-      (9) Except as provided in subsection (8) of this section, the department may use the moneys in the Clean Diesel Engine Fund to pay expenses of the department in administering the program described in ORS 468A.795 to 468A.807. [2007 c.855 §10; 2013 c.44 §1; 2017 c.742 §8]
+      (9) Except as provided in subsection (8) of this section, the department may use the moneys in the Clean Diesel Engine Fund to pay expenses of the department in administering the program described in ORS 468A.795 to 468A.807. [2007 c.855 §10; 2013 c.44 §1; 2017 c.742 §8; 2019 c.645 §21]
 
  
 
-      468A.805 Environmental Mitigation Trust Agreement moneys; uses. (1) Subject to and consistent with ORS 468A.803 (8) and with the terms of the Environmental Mitigation Trust Agreement, any moneys received by the State of Oregon pursuant to the agreement that are deposited in the Clean Diesel Engine Fund under ORS 468A.801 must be used by the Department of Environmental Quality to award grants for the purpose of reducing nitrogen oxides emissions from diesel engines.
+      468A.805 Environmental Mitigation Trust Agreement moneys; uses; rules. (1) Subject to and consistent with ORS 468A.803 (8) and with the terms of the Environmental Mitigation Trust Agreement, any moneys received by the State of Oregon pursuant to the agreement that are deposited in the Clean Diesel Engine Fund under ORS 468A.801 must be expended by the Department of Environmental Quality as follows:
 
-      (2)(a) To the extent authorized by the agreement, the department shall allocate moneys awarded pursuant to subsection (1) of this section first to award grants to owners and operators of school buses to reduce emissions from at least 450 school buses powered by diesel engines operating in this state.
+      (a) The department shall award grants to owners and operators of school buses to reduce emissions from at least 450 school buses powered by diesel engines operating in this state.
 
-      (b) In awarding grants under this subsection, the department shall begin by awarding grants to owners and operators of school buses powered by diesel engines that are of the median model year of school buses powered by diesel engines operating in this state, and shall proceed to award grants for school buses powered by diesel engines through the adjoining model years until the requirements of paragraph (a) of this subsection are met. A grant may be awarded under this subsection for any school bus powered by a diesel engine within the control of an owner or operator that meets the following conditions:
+      (b) Moneys not expended under paragraph (a) of this subsection must be:
+
+      (A) Awarded as grants for the purpose of reducing emissions from diesel engines; or
+
+      (B) Utilized by the department as the State of Oregon’s voluntary matching funds under the Diesel Emissions Reduction Act Program in the Energy Policy Act of 2005, 42 U.S.C. 16133, and for the purpose of awarding grants for reducing diesel particulate matter emissions from diesel engines.
+
+      (2)(a) In awarding grants under subsection (1)(a) of this section, the department shall begin by awarding grants to owners and operators of school buses powered by diesel engines that are of the median model year of school buses powered by diesel engines operating in this state, and shall proceed to award grants for school buses powered by diesel engines through the adjoining model years until the requirements of subsection (1)(a) of this section are met. A grant may be awarded under subsection (1)(a) of this section for any school bus powered by a diesel engine within the control of an owner or operator that meets the following conditions:
 
       (A) The school bus has at least three years of remaining useful life;
 
@@ -3499,13 +3703,31 @@ DIESEL ENGINES
 
       (C) For the three years following receipt of a grant award, use of the school bus to which the owner or operator applies the grant will occur in Oregon.
 
-      (c) The grant amount per school bus awarded under this paragraph shall be for:
+      (b) The grant amount per school bus awarded under subsection (1)(a) of this section shall be for:
 
       (A) $50,000 or 30 percent of the cost to purchase a school bus that meets minimum standards adopted by the State Board of Education under ORS 820.100 for the applicable class or type of school bus, whichever is less; or
 
       (B) Up to 100 percent of the cost to retrofit a school bus with emissions-reducing parts or technology that results in a reduction of diesel particulate matter emissions by at least 85 percent when compared with the baseline emissions for the relevant engine year and application.
 
-      (3) Except for awarding grants pursuant to subsection (2) of this section, the department may not award grants from the moneys described under subsection (1) of this section without prior approval by the Legislative Assembly by law. [2017 c.742 §10]
+      (3) In awarding grants pursuant to subsection (1)(b) of this section, the department shall give preference to projects that will:
+
+      (a) Support compliance with ORS 803.591 or with contract specifications or preferences related to emissions standards for diesel engines established by a public body, as defined in ORS 174.109;
+
+      (b) Be carried out by a grant applicant that is a disadvantaged business enterprise, a minority-owned business, a woman-owned business, a business that a service-disabled veteran owns or an emerging small business, as those terms are defined in ORS 200.005;
+
+      (c) Involve the replacement, repower or retrofit of one or more motor vehicles or pieces of equipment that have at least three years of remaining useful life at the time that the grant agreement is executed;
+
+      (d) Support the utilization of fuels for which regulated parties may generate credits under the clean fuels program adopted by rule by the Environmental Quality Commission under ORS 468A.266 (1)(b);
+
+      (e) Benefit owners and operators of heavy-duty trucks, if the fleet of the owner or operator includes only one heavy-duty truck and the heavy-duty truck is registered in Multnomah, Clackamas or Washington County;
+
+      (f) Benefit small fleets other than as described in paragraph (e) of this subsection;
+
+      (g) Involve the retrofit of concrete mixer trucks or trucks that are used for the transportation of aggregate; or
+
+      (h) Meet the criteria of any other preferences that the commission may establish by rule, if the department determines that the additional preferences are necessary to ensure that grant awards result in the reduction of emissions from diesel engines.
+
+      (4) The commission may adopt rules as necessary to implement the provisions of this section. [2017 c.742 §10; 2019 c.645 §2]
 
  
 
@@ -3524,6 +3746,96 @@ DIESEL ENGINES
       (3) Rules adopted by the commission under this section must reserve a portion of the financial assistance available each year for applicants that own or operate a small number of diesel engines or Oregon diesel truck engines and must provide for simplified access to financial assistance for those applicants.
 
       (4) The Department of Environmental Quality may perform activities necessary to ensure that recipients of grants and loans from the Clean Diesel Engine Fund comply with applicable requirements. If the department determines that a recipient has not complied with applicable requirements, the department may order the recipient to refund all grant or loan moneys and may impose penalties pursuant to ORS 468.140. [2017 c.742 §11]
+
+ 
+
+      468A.810 Certification of approved retrofit technologies; rules. (1) The Environmental Quality Commission shall adopt by rule criteria for certification of approved retrofit technologies for the retrofit of a diesel engine that powers a medium-duty truck or a heavy-duty truck. In determining the criteria and approved retrofit technologies, the commission shall consider:
+
+      (a) Regulations adopted by the State of California for reducing diesel engine emissions from in-use medium-duty trucks and heavy-duty trucks; and
+
+      (b) The list of technologies approved as qualifying retrofits included in the standards established by the commission under ORS 468A.799.
+
+      (2) The commission shall prescribe by rule the manner for issuing certification that a diesel engine has been retrofitted with approved retrofit technology in compliance with the criteria adopted by rule under subsection (1) of this section.
+
+      (3) When proof of certification that a diesel engine has been retrofitted with approved retrofit technology is required under ORS 803.591, the proof may be provided by any means that the Department of Transportation and the commission determine by joint rulemaking or by interagency agreement to be satisfactory. Proof of certification may include, but need not be limited to, a certificate of compliance. [2019 c.645 §7]
+
+ 
+
+      468A.813 Voluntary emission control label program; rules; fees. (1) The Environmental Quality Commission shall adopt by rule a program allowing for an owner or operator of a piece of construction equipment powered by a nonroad diesel engine and operated in Oregon to voluntarily demonstrate to the Department of Environmental Quality the emissions profile of the nonroad diesel engine powering the equipment, and to receive and display an emission control label on the piece of construction equipment.
+
+      (2) The department may contract with an independent third-party to implement the program described in subsection (1) of this section.
+
+      (3) The commission may establish by rule a schedule of fees for participation in the program developed under this section. The fees established under this section shall be based upon the costs of the department in carrying out the program.
+
+      (4) The fees collected under subsection (3) of this section shall be deposited into the State Treasury to the credit of an account of the department and are continuously appropriated to the department for payment of the costs of the department in carrying out the provisions of this section. [2019 c.645 §15]
+
+ 
+
+      Note: Sections 19 and 20, chapter 645, Oregon Laws 2019, provide:
+
+      Sec. 19. Supporting Businesses in Reducing Diesel Emissions Task Force. (1) The Supporting Businesses in Reducing Diesel Emissions Task Force is established.
+
+      (2) The task force consists of 11 members appointed as follows:
+
+      (a) The President of the Senate shall appoint one member from the majority party of the Senate and one member from the minority party of the Senate.
+
+      (b) The Speaker of the House of Representatives shall appoint one member from the majority party of the House of Representatives and one member from the minority party of the House of Representatives.
+
+      (c) The President and the Speaker shall coordinate to jointly appoint seven members as follows:
+
+      (A) One member of the public who is an elected official of a government entity having jurisdiction in an area with elevated concentrations of diesel particulate matter;
+
+      (B) Two members of the public who represent organizations concerned with the impacts of diesel emissions on health and communities;
+
+      (C) One member of the public who represents the trucking or freight industry;
+
+      (D) One member of the public who represents a business that operates equipment that is likely to be powered by diesel engines;
+
+      (E) One member of the public who represents contractors or businesses that retain the services of subcontractors that operate motor vehicles or equipment powered by diesel engines; and
+
+      (F) One member of the public who represents environmental justice communities.
+
+      (3) The task force shall:
+
+      (a) Consider public funding strategies for supporting businesses in reducing emissions from diesel engines used in the course of conducting business activities.
+
+      (b) Evaluate and develop recommendations related to funding strategies that shall include, but need not be limited to:
+
+      (A) Taxes;
+
+      (B) Fees;
+
+      (C) Contract requirements or funding set-asides; and
+
+      (D) Strategies employed by other states to accrue funds for diesel emissions reduction programs.
+
+      (c) Develop statewide incentive strategies to encourage replacement, repower or retrofitting of medium-duty trucks and heavy-duty trucks owned by owners located outside Multnomah, Clackamas or Washington County, taking into consideration the incentive strategies employed by adjoining states.
+
+      (d) Identify the barriers to small contractor participation in public contracting that exist under clean diesel in public contracting provisions.
+
+      (4) A majority of the voting members of the task force constitutes a quorum for the transaction of business.
+
+      (5) Official action by the task force requires the approval of a majority of the voting members of the task force, except that in the event of a tie vote, the vote of the chairperson shall decide the action.
+
+      (6) The task force shall elect one of its members to serve as chairperson.
+
+      (7) If there is a vacancy for any cause, the appointing authority shall make an appointment to become immediately effective.
+
+      (8) The task force shall first convene no later than September 15, 2019, and shall meet at times and places specified by the call of the chairperson or of a majority of the voting members of the task force.
+
+      (9) The task force may adopt rules necessary for the operation of the task force.
+
+      (10) The task force shall submit a report in the manner provided by ORS 192.245, and may include recommendations for legislation, to the interim committees of the Legislative Assembly related to environment and natural resources no later than September 15, 2020.
+
+      (11) The Legislative Policy and Research Director shall provide staff support to the task force.
+
+      (12) Members of the Legislative Assembly appointed to the task force are nonvoting members of the task force and may act in an advisory capacity only.
+
+      (13) Members of the task force who are not members of the Legislative Assembly are not entitled to compensation or reimbursement for expenses and serve as volunteers on the task force.
+
+      (14) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of the duties of the task force and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the task force consider necessary to perform their duties. [2019 c.645 §19]
+
+      Sec. 20. Section 19 of this 2019 Act is repealed on December 31, 2020. [2019 c.645 §20]
 
  
 

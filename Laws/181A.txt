@@ -4,24 +4,6 @@ Chapter 181A — State Police; Crime Reporting and Records; Public Safety Standa
 
  
 
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were added by legislative action to this ORS chapter or to a series within this ORS chapter by the Legislative Assembly during its 2018 regular session. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0005; 2018 Session Laws 0055
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0055
-
- 
-
- 
-
-
- 
 
  
 
@@ -189,7 +171,7 @@ CRIME REPORTING
 
  
 
-181A.195  Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department of State Police; rules
+181A.195  Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department of State Police; fitness determinations; rules; fee
 
  
 
@@ -265,6 +247,10 @@ CRIMINAL JUSTICE INFORMATION STANDARDS
 
  
 
+181A.287  Entry of certain convictions related to possession of firearms or ammunition into Law Enforcement Data System and databases of National Crime Information Center
+
+ 
+
 181A.290  Certain information required from agencies; rules
 
  
@@ -301,7 +287,7 @@ SEXUAL ASSAULT FORENSIC EVIDENCE KITS
 
  
 
-181A.323  Definitions for ORS 181A.323 to 181A.326
+181A.323  Definitions for ORS 181A.323 to 181A.328
 
  
 
@@ -317,19 +303,15 @@ SEXUAL ASSAULT FORENSIC EVIDENCE KITS
 
  
 
+181A.328  Committee on tracking of sexual assault forensic evidence; statewide electronic sexual assault forensic evidence kit tracking system
+
+ 
+
 Note          Task Force on the Testing of Sexual Assault Forensic Evidence Kits--2016 c.89 §§7,8
 
  
 
 MISCELLANEOUS
-
- 
-
-181A.330  State Police Tobacco Law Enforcement Fund
-
- 
-
-181A.335  Department to administer program to enforce laws discouraging use of tobacco products by persons under legal minimum purchase age; rules
 
  
 
@@ -344,6 +326,8 @@ MISCELLANEOUS
 181A.350  Eligibility of towing business to be placed on department list; rules
 
  
+
+Note          Study on missing and murdered Native American women--2019 c.119 §§1,2
 
 PUBLIC SAFETY STANDARDS AND TRAINING
 
@@ -429,6 +413,10 @@ PUBLIC SAFETY STANDARDS AND TRAINING
 
  
 
+181A.485  Psychological screening of law enforcement officers; rules
+
+ 
+
 181A.490  Certification of police officers and certified reserve officers
 
  
@@ -501,7 +489,7 @@ PUBLIC SAFETY STANDARDS AND TRAINING
 
  
 
-181A.655  Civil penalties relating to certification; rules
+181A.655  Civil penalties relating to certification; rules; immunity from civil liability
 
  
 
@@ -617,6 +605,10 @@ PUBLIC SAFETY PERSONNEL GENERALLY
 
  
 
+181A.832  Mental health wellness policies for law enforcement agencies
+
+ 
+
 181A.835  Peer support counseling sessions; confidentiality; admissibility as evidence
 
  
@@ -678,6 +670,18 @@ PRIVATE SECURITY SERVICE PROVIDERS
  
 
 181A.895  State preemption of local laws relating to private security providers
+
+ 
+
+SECURITY ON CAMPUS
+
+ 
+
+181A.910  Short title
+
+ 
+
+181A.912  Requirements for special campus security providers and private security providers on campuses of institutions of higher education
 
  
 
@@ -1019,7 +1023,7 @@ STATE POLICE
 
       (a) The department shall first analyze samples from persons convicted of:
 
-      (A) Rape, sodomy, unlawful sexual penetration, sexual abuse, public indecency, incest or using a child in a display of sexually explicit conduct, as those offenses are defined in ORS 163.355 to 163.427, 163.465 (1)(c), 163.525 and 163.670;
+      (A) Rape, sodomy, unlawful sexual penetration, sexual abuse, public indecency, incest or using a child in a display of sexually explicit conduct, as those offenses are defined in ORS 163.355 to 163.427, 163.465 (1)(d), 163.525 and 163.670;
 
       (B) Burglary in the second degree, as defined in ORS 164.215;
 
@@ -1071,7 +1075,7 @@ STATE POLICE
 
       (c) The department is not required to destroy an item of physical evidence obtained from a blood or buccal sample if evidence relating to another person subject to the provisions of ORS 137.076, 161.325, 419A.260 and 419C.473 (1) and this section would thereby be destroyed. Notwithstanding this subsection, no sample, physical evidence or criminal identification record is affected by an order to set aside a conviction under ORS 137.225.
 
-      (9) As used in this section, “convicted” includes a juvenile court finding of jurisdiction based on ORS 419C.005. [Formerly 181.085]
+      (9) As used in this section, “convicted” includes a juvenile court finding of jurisdiction based on ORS 419C.005. [Formerly 181.085; 2019 c.65 §2]
 
  
 
@@ -1217,7 +1221,7 @@ CRIME REPORTING
 
  
 
-      181A.195 Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department of State Police; rules. (1) As used in this section:
+      181A.195 Criminal records check; authorized agencies; retention of fingerprint cards by FBI and Department of State Police; fitness determinations; rules; fee. (1) As used in this section:
 
       (a) “Authorized agency” means state government as defined in ORS 174.111 and the Oregon State Bar. “Authorized agency” does not include:
 
@@ -1227,7 +1231,11 @@ CRIME REPORTING
 
       (b) “Subject individual” means a person from whom an authorized agency may require fingerprints pursuant to statute for the purpose of enabling the authorized agency to request a state or nationwide criminal records check.
 
-      (2) An authorized agency may request that the Department of State Police conduct a criminal records check on a subject individual for non-criminal justice purposes. If a nationwide criminal records check of a subject individual is necessary, the authorized agency may request that the Department of State Police conduct the check, including fingerprint identification, through the Federal Bureau of Investigation.
+      (2)(a) An authorized agency may request that the Department of State Police conduct a criminal records check on a subject individual for non-criminal justice purposes.
+
+      (b) A criminal records check under this subsection must, if requested by the authorized agency, include a name-based check of the national sex offender registry maintained by the National Crime Information Center.
+
+      (c) If a nationwide criminal records check of a subject individual is necessary, the authorized agency may request that the Department of State Police conduct the check, including fingerprint identification, through the Federal Bureau of Investigation.
 
       (3) The Department of State Police shall provide the results of a criminal records check conducted pursuant to subsection (2) of this section to the authorized agency requesting the check.
 
@@ -1291,13 +1299,47 @@ CRIME REPORTING
 
       (vi) The recommendation of an employer.
 
-      (d) An individual prohibited from receiving public funds for employment under ORS 443.004 (3) is not entitled to a determination of fitness as a subject individual under this subsection.
+      (d) A subject individual is not entitled to a fitness determination under this subsection if the subject individual:
 
-      (11) Criminal offender information is confidential. Authorized agencies and the Department of State Police shall adopt rules to restrict dissemination of information received under this section to persons with a demonstrated and legitimate need to know the information.
+      (A) Is or seeks to be employed in any capacity having contact with a recipient of support services or a resident of a residential facility or adult foster home, as provided in ORS 443.004 (3), and has been convicted of any crime listed in ORS 443.004 (3) or (5).
 
-      (12) If a subject individual refuses to consent to the criminal records check or refuses to be fingerprinted, the authorized agency shall deny the employment of the individual, or revoke or deny any applicable position, authority to provide services, license, certification, registration or permit.
+      (B) Is prohibited by federal law from holding a position, providing services, being employed or being granted a license, certification, registration or permit for which the fitness determination is requested by an authorized agency.
 
-      (13) If an authorized agency requires a criminal records check of employees, prospective employees, contractors, vendors or volunteers or applicants for a license, certification, registration or permit, the application forms of the authorized agency must contain a notice that the person is subject to fingerprinting and a criminal records check. [Formerly 181.534; 2017 c.228 §8]
+      (11)(a) In conducting a fitness determination regarding a subject individual other than an individual described in paragraph (b) of this subsection, the Department of Human Services or the Oregon Health Authority may not consider:
+
+      (A) A conviction that is more than 10 years old unless the conviction is for a crime listed in ORS 443.004 (3) or (5);
+
+      (B) A charge or arrest for which there was no conviction unless the charge or arrest is for a crime listed in ORS 443.004 (3) or (5);
+
+      (C) A conviction on a charge relating to marijuana if the charge is no longer a criminal offense;
+
+      (D) A conviction under ORS 813.010, if the subject individual had no more than one conviction under ORS 813.010 in the five-year period prior to the date of the criminal records check;
+
+      (E) A deferred sentence, conditional discharge or participation in a diversion program for any crime unless the crime is listed in ORS 443.004 (3) and (5); and
+
+      (F) A pending indictment for a crime unless the crime is listed in ORS 443.004 (3) or (5).
+
+      (b) The department or the authority may consider a charge, arrest, conviction, deferred sentence, conditional discharge, participation in a diversion program or pending indictment that may not be considered under paragraph (a) of this subsection in making a fitness determination for a subject individual who is:
+
+      (A) Described in ORS 418.016;
+
+      (B) An employee, volunteer, contractor or provider in, or an agent of, a proctor foster home as defined in ORS 418.205 or a child-caring agency as defined in ORS 418.205;
+
+      (C) An exempt family child care provider, as defined in ORS 329A.430, the provider’s household members who are 16 years of age or older or a frequent visitor of a provider who is subject to a criminal records check;
+
+      (D) An employee or volunteer in a facility that:
+
+      (i) Provides care to children and is operated by a school district, as defined in ORS 332.002, a political subdivision of this state, a preschool recorded program, as defined in ORS 329A.250, or a government agency; and
+
+      (ii) Is not required to be certified under ORS 329A.280; or
+
+      (E) An emergency medical services provider, as defined in ORS 682.025, for the purpose of determining the fitness of the emergency medical services provider to receive or hold a license under ORS 670.280.
+
+      (12) Criminal offender information is confidential. Authorized agencies and the Department of State Police shall adopt rules to restrict dissemination of information received under this section to persons with a demonstrated and legitimate need to know the information.
+
+      (13) If a subject individual refuses to consent to the criminal records check or refuses to be fingerprinted, the authorized agency shall deny the employment of the individual, or revoke or deny any applicable position, authority to provide services, license, certification, registration or permit.
+
+      (14) If an authorized agency requires a criminal records check of employees, prospective employees, contractors, vendors or volunteers or applicants for a license, certification, registration or permit, the application forms of the authorized agency must contain a notice that the person is subject to fingerprinting and a criminal records check. [Formerly 181.534; 2017 c.228 §8; 2019 c.187 §2; 2019 c.423 §1]
 
  
 
@@ -1573,7 +1615,7 @@ CRIME REPORTING
 
       (b) As otherwise directed by the Governor concerning general criminal categories of criminal activities but not individual criminal records.
 
-      (c) Motivated by prejudice based on the perceived race, color, religion, national origin, sexual orientation, marital status, political affiliation or beliefs, membership or activity in or on behalf of a labor organization or against a labor organization, physical or mental disability, age, economic or social status or citizenship of the victim.
+      (c) Motivated by prejudice based on the perceived race, color, religion, national origin, sexual orientation, disability or gender identity of the victim.
 
       (d) And other incidents arising out of domestic disturbances under ORS 133.055 (2) and 133.310 (3).
 
@@ -1581,11 +1623,19 @@ CRIME REPORTING
 
       (a) Quarterly and annual reports for the use of agencies reporting under subsection (1) of this section, and others having an interest therein;
 
-      (b) An annual public report of the statistics on the incidence of crime motivated by prejudice based on the perceived race, color, religion, national origin, sexual orientation, marital status, political affiliation or beliefs, membership or activity in or on behalf of a labor organization or against a labor organization, physical or mental disability, age, economic or social status or citizenship of the victim;
+      (b) An annual public report of the statistics on the incidence of crime motivated by prejudice based on the perceived race, color, religion, national origin, sexual orientation, disability or gender identity of the victim;
 
       (c) Quarterly and annual reports of the statistics on the incidence of crimes and incidents of domestic disturbances; and
 
-      (d) Special reports as directed by the Governor. [Formerly 181.550]
+      (d) Special reports as directed by the Governor.
+
+      (3)(a) The department shall report to the Oregon Criminal Justice Commission, continually and at least quarterly, all primary data collected pursuant to subsection (1) of this section.
+
+      (b) The data reported to, and maintained by, the commission under this subsection:
+
+      (A) Shall be used only for statistical purposes and not for any other purpose.
+
+      (B) Is exempt from public disclosure if the data directly identifies any individual involved in a bias crime. [Formerly 181.550; 2019 c.553 §3]
 
  
 
@@ -1933,6 +1983,10 @@ CRIMINAL JUSTICE INFORMATION STANDARDS
 
  
 
+      181A.287 Entry of certain convictions related to possession of firearms or ammunition into Law Enforcement Data System and databases of National Crime Information Center. Upon receipt of a record of conviction for an offense described in ORS 166.255 (1)(b), the Department of State Police shall immediately enter the conviction into the Law Enforcement Data System and shall cause the conviction to be entered into the databases of the National Crime Information Center of the United States Department of Justice. The entry must include any judicial findings or terms of the judgment, when available, that are necessary to designate the conviction as a misdemeanor crime of domestic violence as defined in 18 U.S.C. 921 or as an offense described in ORS 166.255 (1)(b). [2018 c.5 §3]
+
+ 
+
       181A.290 Certain information required from agencies; rules. (1) The Department of Human Services, the Oregon Health Authority, the Psychiatric Security Review Board and the Judicial Department shall provide the Department of State Police with the minimum information necessary to identify persons who:
 
       (a) Have been committed by a court to the Oregon Health Authority under ORS 426.130, based on a finding that the person is dangerous to self or others;
@@ -1962,40 +2016,6 @@ CRIMINAL JUSTICE INFORMATION STANDARDS
       (b) Describing the method and manner of maintaining the information described in this section and transmitting the information to the federal government.
 
       (5) As used in this section, “minimum information necessary” means data elements or nominal information that is necessary or required under federal law to accurately identify a person described in this section and includes the person’s name, date of birth, gender and reference information that identifies the originating agency or court and enables the originating agency or court to locate an underlying record or file of a person described in this section. “Minimum information necessary” does not include any medical, psychiatric or psychological information, case histories or files of a person described in this section or any record or file of an originating agency or court. [Formerly 181.740; 2017 c.442 §22]
-
- 
-
-      Note: The amendments to 181A.290 by section 22, chapter 442, Oregon Laws 2017, become operative July 1, 2018. See section 36, chapter 442, Oregon Laws 2017. The text that is operative until July 1, 2018, is set forth for the user’s convenience.
-
-      181A.290 (1) The Department of Human Services, the Oregon Health Authority, the Psychiatric Security Review Board and the Judicial Department shall provide the Department of State Police with the minimum information necessary to identify persons who:
-
-      (a) Have been committed by a court to the Oregon Health Authority under ORS 426.130, based on a finding that the person is dangerous to self or others;
-
-      (b) Are subject to a court order under ORS 426.130 or 426.133 prohibiting the person from purchasing or possessing a firearm;
-
-      (c) Have been committed by a court to the Department of Human Services under ORS 427.290, based on a finding that the person is dangerous to self or others;
-
-      (d) Have been found by a court to lack fitness to proceed under ORS 161.370;
-
-      (e) Have been found guilty except for insanity of a crime under ORS 161.295 to 161.370;
-
-      (f) Have been found responsible except for insanity for an act under ORS 419C.411;
-
-      (g) Have been placed under the jurisdiction of the Psychiatric Security Review Board or the Oregon Health Authority under ORS 161.315 to 161.351; or
-
-      (h) Have been committed to a state hospital or facility under ORS 161.315 to 161.351 or 419C.529 to 419C.544.
-
-      (2) Upon receipt of the information described in this section, the Department of State Police shall access and maintain the information and transmit the information to the federal government as required under federal law.
-
-      (3) The Department of Human Services, the Oregon Health Authority, the Psychiatric Security Review Board and the Judicial Department shall enter into agreements with the Department of State Police describing the access to information provided under this section.
-
-      (4) The Department of State Police shall adopt rules:
-
-      (a) After consulting with the Department of Human Services, the Oregon Health Authority, the Psychiatric Security Review Board and the Judicial Department, describing the type of information provided to the Department of State Police under this section; and
-
-      (b) Describing the method and manner of maintaining the information described in this section and transmitting the information to the federal government.
-
-      (5) As used in this section, “minimum information necessary” means data elements or nominal information that is necessary or required under federal law to accurately identify a person described in this section and includes the person’s name, date of birth, gender and reference information that identifies the originating agency or court and enables the originating agency or court to locate an underlying record or file of a person described in this section. “Minimum information necessary” does not include any medical, psychiatric or psychological information, case histories or files of a person described in this section or any record or file of an originating agency or court.
 
  
 
@@ -2077,35 +2097,19 @@ MISSING PERSONS PROCEDURES
 
  
 
-      Note: Sections 1 and 4, chapter 24, Oregon Laws 2014, provide:
-
-      Sec. 1. The Legislative Assembly finds that:
-
-      (1) The number of people in Oregon with Alzheimer’s disease and related dementia is growing. Alzheimer’s is a devastating disease that slowly destroys memory and thinking skills and, eventually, even the ability to carry out the simplest tasks of daily living.
-
-      (2) Sixty percent of people with Alzheimer’s will wander from their homes. Sixty percent of people with Alzheimer’s who wander, if not found within 24 hours, die as a consequence of wandering. Eighty percent die if not found within 72 hours.
-
-      (3) Other adults in Oregon, including those with intellectual or developmental disabilities or other conditions, are vulnerable if they go missing as well.
-
-      (4) Many police departments and sheriff’s offices are well trained to respond to reports of missing vulnerable adults. This legislation provides for all law enforcement in Oregon to be fully prepared to assist in protecting the safety of some of our most vulnerable citizens, while providing each police department or sheriff’s office with the flexibility to determine what works best in the local jurisdiction. [2014 c.24 §1]
-
-      Sec. 4. Section 1 of this 2014 Act is repealed on January 2, 2019. [2014 c.24 §4]
-
- 
-
 SEXUAL ASSAULT FORENSIC EVIDENCE KITS
 
  
 
-      181A.322 Short title. ORS 181A.323 to 181A.326 shall be known and may be cited as “Melissa’s Law.” [2016 c.89 §1]
+      181A.322 Short title. ORS 181A.323 to 181A.328 shall be known and may be cited as “Melissa’s Law.” [2016 c.89 §1]
 
  
 
-      Note: 181A.322 to 181A.326 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      Note: 181A.322 to 181A.328 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
-      181A.323 Definitions for ORS 181A.323 to 181A.326. As used in ORS 181A.323 to 181A.326:
+      181A.323 Definitions for ORS 181A.323 to 181A.328. As used in ORS 181A.323 to 181A.328:
 
       (1) “Anonymous kit” means a sexual assault forensic evidence kit collected from a victim who has not participated with a law enforcement agency in the creation of a report of the sexual assault.
 
@@ -2193,6 +2197,38 @@ SEXUAL ASSAULT FORENSIC EVIDENCE KITS
 
  
 
+      181A.328 Committee on tracking of sexual assault forensic evidence; statewide electronic sexual assault forensic evidence kit tracking system. (1) The Department of State Police shall establish a multidisciplinary committee on the tracking of sexual assault forensic evidence kits. The committee shall:
+
+      (a) Develop recommendations for establishing a statewide electronic sexual assault forensic evidence kit tracking system.
+
+      (b) Identify and pursue state and federal funding to establish the tracking system, including grants.
+
+      (c) Be composed of members that include law enforcement professionals, crime lab personnel, prosecutors, victim advocates, victim attorneys, survivors and Sexual Assault Nurse Examiners or Sexual Assault Forensic Examiners.
+
+      (d) Monitor the tracking system’s implementation for at least two years and recommend necessary modifications.
+
+      (2) The department shall implement the recommendations of the multidisciplinary committee and create and maintain the statewide electronic sexual assault forensic evidence kit tracking system. The department may contract with public or private entities, including but not limited to private software and technology providers, for the creation, operation and maintenance of the tracking system. The tracking system must:
+
+      (a) Record the status of sexual assault forensic evidence kits from the collection site throughout the criminal justice process, including but not limited to the initial collection at medical facilities, inventory and storage by law enforcement agencies or crime labs, analysis at crime laboratories and storage or destruction after completion or analysis.
+
+      (b) Allow all agencies or facilities that receive, maintain, store or preserve sexual assault forensic evidence kits to update the status and location of the kits.
+
+      (c) Allow a victim of sexual assault, or a parent or guardian of a victim if the victim is a minor, to anonymously access the system and to receive updates regarding the location of the victim’s sexual assault forensic evidence kit and the status of analysis, including but not limited to the initiation and completion of testing.
+
+      (d) Use electronic technology that allows continuous access to the tracking system by victims, medical facilities, law enforcement agencies, prosecutors, private laboratories and crime laboratories.
+
+      (3)(a) The department may phase in the requirement of initial participation in the tracking system according to region, volume of sexual assault forensic evidence kits or other appropriate classifications.
+
+      (b) Notwithstanding paragraph (a) of this subsection, all law enforcement agencies, medical facilities, crime laboratories and other facilities that receive, maintain, store or preserve sexual assault forensic evidence kits are required to fully participate in the tracking system within one year of the tracking system’s initial date of operation.
+
+      (4) Records and information within the tracking system described in this section are exempt from disclosure under ORS 192.311 to 192.478. [2018 c.55 §2]
+
+ 
+
+      Note: See note under 181A.322.
+
+ 
+
       Note: Sections 7 and 8, chapter 89, Oregon Laws 2016, provide:
 
       Sec. 7. Task Force on the Testing of Sexual Assault Forensic Evidence Kits. (1) The Task Force on the Testing of Sexual Assault Forensic Evidence Kits is established.
@@ -2237,9 +2273,11 @@ SEXUAL ASSAULT FORENSIC EVIDENCE KITS
 
       (d) Examine and identify possible procedures for the testing of anonymous kits;
 
-      (e) Examine and identify additional rights of victims concerning the sexual assault forensic evidence kit testing process; and
+      (e) Examine and identify additional rights of victims concerning the sexual assault forensic evidence kit testing process;
 
-      (f) Identify and pursue grants and other funding sources in order to eliminate the backlog of untested sexual assault forensic evidence kits, reduce testing wait times, provide victim notification and improve efficiencies in the kit testing process.
+      (f) Identify and pursue grants and other funding sources in order to eliminate the backlog of untested sexual assault forensic evidence kits, reduce testing wait times, provide victim notification and improve efficiencies in the kit testing process; and
+
+      (g) Monitor the implementation of the sexual assault forensic evidence kit tracking system described in section 2 of this 2018 Act [181A.328].
 
       (4) A majority of the voting members of the task force constitutes a quorum for the transaction of business.
 
@@ -2253,43 +2291,33 @@ SEXUAL ASSAULT FORENSIC EVIDENCE KITS
 
       (9) The task force may adopt rules necessary for the operation of the task force.
 
-      (10)(a) The task force shall complete the duties described in subsection (3) of this section no later than July 31, 2018.
+      (10)(a) The task force shall complete the duties described in subsection (3) of this section no later than July 31, 2020.
 
-      (b) The task force shall submit, in the manner provided by ORS 192.245, a report that includes recommendations for legislation to an interim committee of the Legislative Assembly related to the judiciary no later than December 1, 2018.
+      (b) The task force shall submit, in the manner provided by ORS 192.245, to an interim committee of the Legislative Assembly related to the judiciary:
 
-      (11) The Committee Services office of the Legislative Assembly shall provide staff support to the task force.
+      (A) A report that includes recommendations for legislation no later than December 1, 2018.
 
-      (12) Members of the task force who are not members of the Legislative Assembly are not entitled to compensation, but may be reimbursed for actual and necessary travel and other expenses incurred by them in the performance of their official duties in the manner and amounts provided for in ORS 292.495. Claims for expenses incurred in performing functions of the task force shall be paid out of funds appropriated to the Committee Services office of the Legislative Assembly for purposes of the task force.
+      (B) A final report that includes a status update on the implementation of the sexual assault forensic evidence kit tracking system and recommendations for legislation no later than December 1, 2020.
 
-      (13) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of the task force’s duties and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the task force consider necessary to perform their duties. [2016 c.89 §7]
+      (11) The Legislative Policy and Research Director shall provide staff support to the task force.
 
-      Sec. 8. Section 7 of this 2016 Act is repealed on June 30, 2019. [2016 c.89 §8]
+      (12) Members of the task force who are not members of the Legislative Assembly are not entitled to compensation, but may be reimbursed for actual and necessary travel and other expenses incurred by them in the performance of their official duties in the manner and amounts provided for in ORS 292.495. Claims for expenses incurred in performing functions of the task force shall be paid out of funds appropriated to the Legislative Policy and Research Director for purposes of the task force.
+
+      (13) All agencies of state government, as defined in ORS 174.111, are directed to assist the task force in the performance of the task force’s duties and, to the extent permitted by laws relating to confidentiality, to furnish information and advice the members of the task force consider necessary to perform their duties. [2016 c.89 §7; 2018 c.55 §4]
+
+      Sec. 8. Section 7, chapter 89, Oregon Laws 2016, is repealed on June 30, 2021. [2016 c.89 §8; 2018 c.55 §5]
+
+ 
+
+      181A.330 [Formerly 181.428; repealed by 2019 c.456 §124]
+
+ 
+
+      181A.335 [Formerly 181.430; 2017 c.701 §20; repealed by 2019 c.456 §124]
 
  
 
 MISCELLANEOUS
-
- 
-
-      181A.330 State Police Tobacco Law Enforcement Fund. The State Police Tobacco Law Enforcement Fund is established in the State Treasury, separate and distinct from the General Fund. Interest earned by the State Police Tobacco Law Enforcement Fund shall be credited to the State Police Tobacco Law Enforcement Fund. Moneys in the State Police Tobacco Law Enforcement Fund are continuously appropriated to the Department of State Police for use in carrying out the program described in ORS 181A.335. [Formerly 181.428]
-
- 
-
-      Note: 181A.330 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
-
- 
-
-      181A.335 Department to administer program to enforce laws discouraging use of tobacco products by persons under legal minimum purchase age; rules. (1) As used in this section, “tobacco products” has the meaning given that term in ORS 431A.175.
-
-      (2) The Oregon Health Authority may apply for and accept moneys from the United States Government or other public or private sources for utilization of those moneys by the Department of State Police in accordance with any federal restrictions or other funding source restrictions to carry out the duties, functions and powers of the department under this section. Moneys received as provided under this subsection shall be deposited into the State Treasury to the credit of the State Police Tobacco Law Enforcement Fund. Moneys that are subject to funding source conditions or restrictions shall be placed in separate subaccounts of the fund and accounted for separately from other fund moneys.
-
-      (3) The department shall establish and administer a program employing retired state police officers who are active reserve officers for the purpose of enforcing laws designed to discourage the use of tobacco products by persons who are under the legal minimum purchase age. The department shall periodically consult with the authority to maximize program qualification for federal funds to enforce laws designed to discourage the use of tobacco products by persons who are under the legal minimum purchase age, including but not limited to grants under P.L. 102-321, section 1926 (42 U.S.C. 300x-26). Service by a retired state police member under this section is subject to ORS 238.082. The department may not use the services of a retired state police officer under this section to displace an active state police member from the enforcement of laws concerning tobacco products.
-
-      (4) The department shall adopt rules for carrying out subsection (3) of this section. [Formerly 181.430; 2017 c.701 §20]
-
- 
-
-      Note: 181A.335 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -2354,6 +2382,24 @@ MISCELLANEOUS
  
 
       181A.350 Eligibility of towing business to be placed on department list; rules. The Superintendent of State Police may make rules governing the eligibility of towing businesses to be placed and remain on any list of such businesses used by the Department of State Police when it requests towing services on behalf of any person. [Formerly 181.440]
+
+ 
+
+      Note: Sections 1 and 2, chapter 119, Oregon Laws 2019, provide:
+
+      Sec. 1. Study on missing and murdered Native American women. (1) The Department of State Police shall conduct a study to determine how to increase and improve state criminal justice protective, responsive and investigative resources and systems for reporting, identification, investigation and rapid response to future and past cases of missing and murdered Native American women in this state, including cases involving Indian country.
+
+      (2) In conducting the study, the department shall consult with:
+
+      (a) The Commission on Indian Services to convene meetings with tribal and local law enforcement partners, federally recognized tribes and urban Indian organizations to determine the scope of the problem, identify barriers and find ways to create partnerships to increase reporting, identification, investigation and rapid response to future and past cases of missing and murdered Native American women in this state; and
+
+      (b) The United States Department of Justice on ways to increase information sharing and coordination of resources to focus on reporting, identification, investigation and rapid response to future and past cases of missing and murdered Native American women in this state.
+
+      (3) The Department of State Police shall report on the results of the study to an appropriate committee or interim committee of the Legislative Assembly no later than September 15, 2020.
+
+      (4) As used in this section, “Native American women” includes Alaska Native women. [2019 c.119 §1]
+
+      Sec. 2. Section 1 of this 2019 Act is repealed on January 2, 2021. [2019 c.119 §2]
 
  
 
@@ -2923,6 +2969,28 @@ PUBLIC SAFETY STANDARDS AND TRAINING
 
  
 
+      181A.485 Psychological screening of law enforcement officers; rules. (1) As used in this section:
+
+      (a) “Law enforcement agency” means a public body, as defined in ORS 174.109, that employs law enforcement officers to enforce criminal laws.
+
+      (b) “Law enforcement officer” means a police officer, reserve officer or certified reserve officer, as those terms are defined in ORS 181A.355.
+
+      (2) A law enforcement agency may not employ a person as a law enforcement officer unless the person has completed a psychological screening to determine the person’s fitness to serve as a law enforcement officer.
+
+      (3) The psychological screening required by subsection (2) of this section must be conducted by a licensed mental health professional who meets the qualifications and training requirements established by the Board on Public Safety Standards and Training by rule.
+
+      (4) The board shall establish by rule:
+
+      (a) The qualifications and training necessary for a licensed mental health professional to conduct a psychological screening under this section; and
+
+      (b) Standards and procedures for conducting a psychological screening under this section. [2019 c.78 §1]
+
+ 
+
+      Note: 181A.485 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 181A or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       181A.490 Certification of police officers and certified reserve officers. (1) Except for a person who has requested and obtained an extension from the Department of Public Safety Standards and Training pursuant to subsection (2) of this section, a person may not be employed as a police officer, or utilized as a certified reserve officer, by a law enforcement unit for more than 18 months unless the person:
 
       (a)(A) Is a citizen of the United States; or
@@ -3038,8 +3106,6 @@ PUBLIC SAFETY STANDARDS AND TRAINING
       (4) In order to maintain certification, a parole and probation officer who is employed part-time must complete annually at least 20 hours of continuing education approved by the Department of Public Safety Standards and Training.
 
       (5) The requirement of citizenship imposed under subsection (1) of this section does not apply to a person employed as a parole and probation officer on September 27, 1987, who continues to serve as a parole and probation officer. [Formerly 181.653; 2017 c.53 §4]
-
- 
 
       181A.540 Certification of judicial marshals. (1) Upon request of the Security and Emergency Preparedness Office of the Judicial Department, the Department of Public Safety Standards and Training shall certify individual judicial marshals appointed under ORS 1.177 as being qualified in the same manner as police officers pursuant to ORS 181A.410.
 
@@ -3225,7 +3291,7 @@ PUBLIC SAFETY STANDARDS AND TRAINING
 
  
 
-      181A.655 Civil penalties relating to certification; rules. (1) The Department of Public Safety Standards and Training may impose a civil penalty on a public safety agency for violation of ORS 181A.490, 181A.520, 181A.530 or 181A.560.
+      181A.655 Civil penalties relating to certification; rules; immunity from civil liability. (1) The Department of Public Safety Standards and Training may impose a civil penalty on a public safety agency for violation of ORS 181A.490, 181A.520, 181A.530 or 181A.560.
 
       (2) The department shall recommend and the Board on Public Safety Standards and Training by rule shall adopt a schedule establishing civil penalties that may be imposed under subsection (1) of this section. Civil penalties imposed under subsection (1) of this section may not exceed $1,500 for each violation.
 
@@ -3733,11 +3799,11 @@ PUBLIC SAFETY PERSONNEL GENERALLY
 
       181A.820 Enforcement of federal immigration laws. (1) No law enforcement agency of the State of Oregon or of any political subdivision of the state shall use agency moneys, equipment or personnel for the purpose of detecting or apprehending persons whose only violation of law is that they are persons of foreign citizenship present in the United States in violation of federal immigration laws.
 
-      (2) Notwithstanding subsection (1) of this section, a law enforcement agency may exchange information with the United States Bureau of Immigration and Customs Enforcement, the United States Bureau of Citizenship and Immigration Services and the United States Bureau of Customs and Border Protection in order to:
+      (2) Notwithstanding subsection (1) of this section, a law enforcement agency may exchange information with United States Immigration and Customs Enforcement, United States Citizenship and Immigration Services and United States Customs and Border Protection in order to:
 
       (a) Verify the immigration status of a person if the person is arrested for any criminal offense; or
 
-      (b) Request criminal investigation information with reference to persons named in records of the United States Bureau of Immigration and Customs Enforcement, the United States Bureau of Citizenship and Immigration Services or the United States Bureau of Customs and Border Protection.
+      (b) Request criminal investigation information with reference to persons named in records of United States Immigration and Customs Enforcement, United States Citizenship and Immigration Services or United States Customs and Border Protection.
 
       (3) Notwithstanding subsection (1) of this section, a law enforcement agency may arrest any person who:
 
@@ -3747,7 +3813,7 @@ PUBLIC SAFETY PERSONNEL GENERALLY
 
       (4) For purposes of subsection (1) of this section, the Bureau of Labor and Industries is not a law enforcement agency.
 
-      (5) As used in this section, “warrant of arrest” has the meaning given that term in ORS 131.005. [Formerly 181.850]
+      (5) As used in this section, “warrant of arrest” has the meaning given that term in ORS 131.005. [Formerly 181.850; 2019 c.13 §32]
 
  
 
@@ -3810,6 +3876,20 @@ PUBLIC SAFETY PERSONNEL GENERALLY
       (b) Information about the employee that is exempt from disclosure under ORS 192.345 or 192.355 (2) or (3).
 
       (c) Information about the employee that is prohibited from disclosure by subsection (3) of this section. [Formerly 181.854]
+
+ 
+
+      181A.832 Mental health wellness policies for law enforcement agencies. (1) As used in this section, “law enforcement agency” means:
+
+      (a) A city or municipal police department.
+
+      (b) A county sheriff’s office.
+
+      (c) The Oregon State Police.
+
+      (d) A police department established by a university under ORS 352.121 or 353.125.
+
+      (2) A law enforcement agency shall establish a mental health wellness policy for addressing issues related to the mental health wellness of law enforcement officers employed by the agency. [2019 c.79 §1]
 
  
 
@@ -4094,6 +4174,60 @@ PRIVATE SECURITY SERVICE PROVIDERS
  
 
       181A.895 State preemption of local laws relating to private security providers. The provisions of ORS 181A.360, 181A.840 to 181A.891 and 181A.995 preempt any laws of the political subdivisions of this state relating to the regulation of private security providers. [Formerly 203.090]
+
+ 
+
+SECURITY ON CAMPUS
+
+ 
+
+      181A.910 Short title. ORS 181A.912 shall be known and may be cited as Kaylee’s Law. [2019 c.152 §1]
+
+ 
+
+      181A.912 Requirements for special campus security providers and private security providers on campuses of institutions of higher education. (1) As used in this section:
+
+      (a) “Institution of higher education” has the meaning given that term in ORS 163A.005.
+
+      (b) “Private security professional” and “private security provider” have the meanings given those terms in ORS 181A.840.
+
+      (2)(a) An institution of higher education that employs or contracts with a private security provider, or the governing board of a public university listed in ORS 352.002 that commissions special campus security officers under ORS 352.118 to provide security services on campus, shall ensure that a nationwide criminal records check is conducted for each private security professional or special campus security officer providing security services on campus.
+
+      (b) A public university listed in ORS 352.002 that commissions special campus security officers under ORS 352.118 to provide security services on campus shall ensure that each officer undergoes psychological testing to determine the officer’s fitness to serve as a special campus security officer.
+
+      (3) A law enforcement agency may share information about applicants for employment with the agency with an institution of higher education. An institution of higher education may use information shared under this subsection for purposes of hiring private security professionals or special campus security officers.
+
+      (4) A private security provider that provides security services on the campus of an institution of higher education or the governing board of a public university listed in ORS 352.002 that commissions special campus security officers under ORS 352.118 to provide security services on campus shall ensure that:
+
+      (a) Vehicles used by private security professionals or special campus security officers in the scope of their employment on campus are equipped with:
+
+      (A) A global positioning system device, as defined in ORS 163.715, for which global positioning data is retained for at least 90 days;
+
+      (B) A video camera that records the scene within the vehicle and for which video recordings are retained for at least 90 days; or
+
+      (C) A dispatch system for which a record of calls is maintained for at least 90 days.
+
+      (b) Uniforms worn by private security professionals or special campus security officers in the scope of their employment on campus can be easily differentiated from the uniform of any law enforcement officer certified by the Department of Public Safety Standards and Training, with differentiations including, but not limited to, prominent designation of “campus security” or prominent use of a school logo or school colors.
+
+      (5) An institution of higher education that employs or contracts with a private security provider, or the governing board of a public university listed in ORS 352.002 that commissions special campus security officers under ORS 352.118 to provide security services on campus, shall ensure that vehicles used by private security professionals or special campus security officers in the scope of their employment on campus:
+
+      (a) Are clearly identified as a campus vehicle on the front of the vehicle;
+
+      (b) Do not use red and blue light bars;
+
+      (c) Do not use bumpers intended to ram another vehicle in order to cause a stall; and
+
+      (d) Do not use cages.
+
+      (6) When a private security professional or special campus security officer makes a probable cause arrest or an arrest under ORS 133.225 in the course of the individual’s duties on the campus of an institution of higher education, the institution of higher education or governing board of the public university listed in ORS 352.002 for whom the individual provides security services:
+
+      (a) Shall promptly notify a law enforcement agency with jurisdiction over the area in which the arrest took place.
+
+      (b) May not retain evidence related to the arrest except for the purpose of providing the evidence to a law enforcement agency with jurisdiction over the area in which the arrest took place.
+
+      (7) Private security professionals and special campus security officers commissioned under ORS 352.118 who provide security services on the campus of an institution of higher education do not have stop and frisk authority as set forth in ORS 131.605 to 131.625.
+
+      (8) If an institution of higher education contracts with a private security provider to provide temporary security for an event, the terms of the contract must require the private security provider to comply with all relevant statutes and rules governing the duties of contracted private security providers. [2019 c.152 §2; 2019 c.152 §3]
 
  
 

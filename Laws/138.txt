@@ -281,11 +281,15 @@ POST-CONVICTION MOTION FOR DNA TESTING
 
  
 
-138.690     Motion
+138.688     Definitions
 
  
 
-138.692     Affidavit; order; costs
+138.690     Commencement of DNA testing proceedings; discovery
+
+ 
+
+138.692     Motion for DNA testing; declaration; court order; costs
 
  
 
@@ -302,6 +306,10 @@ POST-CONVICTION MOTION FOR DNA TESTING
  
 
 138.698     Effect of setting aside conviction on plea agreement
+
+ 
+
+138.700     Entry of unidentified profile into DNA databases; motion for laboratory evaluation; court order
 
  
 
@@ -823,7 +831,7 @@ APPEALS
 
  
 
-      138.261 Time within which certain appeals must be decided. (1) When a defendant is charged with a felony and is in custody pending an appeal under ORS 138.045 (1)(a) or (d), the Court of Appeals and the Supreme Court shall decide the appeal within the time limits prescribed by this section.
+      138.261 Time within which certain appeals must be decided. (1) When a defendant is charged with a felony and is in custody pending an appeal under ORS 138.045 (1)(a), (b) or (d), the Court of Appeals and the Supreme Court shall decide the appeal within the time limits prescribed by this section.
 
       (2)(a) Pursuant to rules adopted by the Court of Appeals, the Court of Appeals shall ensure that the appeal is fully briefed no later than 90 days after the date the transcript is settled under ORS 19.370.
 
@@ -853,7 +861,7 @@ APPEALS
 
       (8) Failure of the Court of Appeals or the Supreme Court to decide an appeal or review within the time limits prescribed in this section is not a ground for dismissal of the appeal or review.
 
-      (9) Any delay sought or acquiesced in by the defendant does not count against the state with respect to any statutory or constitutional right of the defendant to a speedy trial. [2001 c.870 §4b; 2017 c.529 §17]
+      (9) Any delay sought or acquiesced in by the defendant does not count against the state with respect to any statutory or constitutional right of the defendant to a speedy trial. [2001 c.870 §4b; 2017 c.529 §17; 2019 c.399 §1]
 
  
 
@@ -1085,7 +1093,7 @@ POST-CONVICTION RELIEF
 
       (2) An award of attorney fees under this section may not exceed $100.
 
-      (3) If the party required to pay attorney fees is an inmate of a correctional institution, the fees may be drawn from, or charged against, the inmate’s trust account. [1995 c.657 §3]
+      (3) If the party required to pay attorney fees is an adult in the custody of a correctional institution, the fees may be drawn from, or charged against, the trust account of the adult in custody. [1995 c.657 §3; 2019 c.213 §23]
 
  
 
@@ -1129,13 +1137,13 @@ POST-CONVICTION RELIEF
 
       138.560 Procedure upon filing petition for relief; filing fee; venue and transfer of proceedings. (1) A proceeding for post-conviction relief pursuant to ORS 138.510 to 138.680 shall be commenced by filing a petition with the clerk of the circuit court for the county in which the petitioner is imprisoned or, if the petitioner is not imprisoned, with the clerk of the circuit court for the county in which the petitioner’s conviction and sentence was rendered. Except as otherwise provided in ORS 138.590, the petitioner must pay the filing fee established under ORS 21.135 at the time of filing a petition under this section. If the petitioner prevails, the petitioner shall recover the fee pursuant to the Oregon Rules of Civil Procedure. The clerk of the court in which the petition is filed shall enter and file the petition and bring it promptly to the attention of such court. A copy of the petition need not be served by petitioner on the defendant, but, in lieu thereof, the clerk of the court in which the petition is filed shall immediately forward a copy of the petition to the Attorney General or other attorney for the defendant named in ORS 138.570.
 
-      (2) For the purposes of ORS 138.510 to 138.680, a person released on parole or conditional pardon shall be deemed to be imprisoned in the institution from which the person is so released.
+      (2) For the purposes of ORS 138.510 to 138.680, a person released on parole, post-prison supervision or conditional pardon shall be deemed to be imprisoned in the institution from which the person was released.
 
       (3) Except when petitioner’s conviction was for a misdemeanor, the release of the petitioner from imprisonment during the pendency of proceedings instituted pursuant to ORS 138.510 to 138.680 shall not cause the proceedings to become moot. Such release of petitioner shall not change the venue of the proceedings out of the circuit court in which the proceedings were commenced and shall not affect the power of such court to transfer the proceedings as provided in subsection (4) of this section.
 
       (4) Whenever the petitioner is imprisoned in a Department of Corrections institution and the circuit court for the county in which the petitioner is imprisoned finds that the hearing upon the petition can be more expeditiously conducted in the county in which the petitioner was convicted and sentenced, the circuit court upon its own motion or the motion of a party may order the petitioner’s case to be transferred to the circuit court for the county in which petitioner’s conviction and sentence were rendered. The court’s order is not reviewable by any court of this state.
 
-      (5) When a petitioner who is imprisoned in a Department of Corrections institution is transferred to another Department of Corrections institution, the circuit court in which a post-conviction relief proceeding is pending may deny a motion for a change of venue to the county where the petitioner is transferred. The court’s order is not reviewable by any court of this state. [1959 c.636 §6; 1983 c.505 §14; 1987 c.320 §44; 1991 c.249 §17; 1995 c.273 §20; 1995 c.657 §4; 2003 c.261 §1; 2003 c.737 §§65,66; 2005 c.702 §§77,78,79; 2011 c.595 §57; 2015 c.119 §1]
+      (5) When a petitioner who is imprisoned in a Department of Corrections institution is transferred to another Department of Corrections institution, the circuit court in which a post-conviction relief proceeding is pending may deny a motion for a change of venue to the county where the petitioner is transferred. The court’s order is not reviewable by any court of this state. [1959 c.636 §6; 1983 c.505 §14; 1987 c.320 §44; 1991 c.249 §17; 1995 c.273 §20; 1995 c.657 §4; 2003 c.261 §1; 2003 c.737 §§65,66; 2005 c.702 §§77,78,79; 2011 c.595 §57; 2015 c.119 §1; 2019 c.399 §2]
 
  
 
@@ -1195,9 +1203,9 @@ POST-CONVICTION RELIEF
 
       (8)(a) When a petitioner has been authorized to proceed as a financially eligible person, all court fees in the circuit court, except for the filing fee required by ORS 138.560, are waived.
 
-      (b) When a petitioner is allowed to file a petition without payment of the fee required by ORS 138.560 due to inability to pay, the fee is not waived but may be drawn from, or charged against, the petitioner’s trust account if the petitioner is an inmate in a correctional facility.
+      (b) When a petitioner is allowed to file a petition without payment of the fee required by ORS 138.560 due to inability to pay, the fee is not waived but may be drawn from, or charged against, the petitioner’s trust account if the petitioner is an adult in custody in a correctional facility.
 
-      (9) Notwithstanding any other provision of this chapter, a court may not appoint as counsel for a petitioner who has been sentenced to death a counsel who previously represented the petitioner at trial or on automatic and direct review in the case resulting in the death sentence unless the petitioner and the counsel expressly request continued representation. [1959 c.636 §9; 1961 c.480 §3; 1963 c.600 §9; 1973 c.836 §279a; 1979 c.867 §4; 1981 s.s. c.3 §127; 1983 c.763 §17; 1987 c.320 §46; 1989 c.1053 §7; 1991 c.827 §2; 1995 c.657 §5; 1999 c.1055 §8; 2001 c.962 §30; 2003 c.261 §§5,6; 2003 c.449 §§8,45]
+      (9) Notwithstanding any other provision of this chapter, a court may not appoint as counsel for a petitioner who has been sentenced to death a counsel who previously represented the petitioner at trial or on automatic and direct review in the case resulting in the death sentence unless the petitioner and the counsel expressly request continued representation. [1959 c.636 §9; 1961 c.480 §3; 1963 c.600 §9; 1973 c.836 §279a; 1979 c.867 §4; 1981 s.s. c.3 §127; 1983 c.763 §17; 1987 c.320 §46; 1989 c.1053 §7; 1991 c.827 §2; 1995 c.657 §5; 1999 c.1055 §8; 2001 c.962 §30; 2003 c.261 §§5,6; 2003 c.449 §§8,45; 2019 c.213 §24]
 
  
 
@@ -1251,9 +1259,9 @@ POST-CONVICTION RELIEF
 
       (4) If the court grants an order allowing a subpoena under this section, upon a request by the victim for no personal contact between the parties, the court may allow the victim to appear by telephone or other communication device approved by the court.
 
-      (5) If contacted by the defense or any agent of the defense, the victim must be clearly informed by the defense or other contacting agent, either in person or in writing, of the identity and capacity of the person contacting the victim, that the victim does not have to talk to the defendant’s attorney, or other agents of the defendant, or provide other discovery unless the victim wishes, and that the victim may have a district attorney, assistant attorney general or other attorney or advocate present during any interview or other contact.
+      (5) If contacted by the petitioner or any agent of the petitioner, the victim must be clearly informed by the petitioner or other contacting agent, either in person or in writing, of the identity and capacity of the person contacting the victim, that the victim does not have to talk to the petitioner’s attorney, or other agents of the petitioner, or provide other discovery unless the victim wishes, and that the victim may have a district attorney, assistant attorney general or other attorney or advocate present during any interview or other contact.
 
-      (6) As used in this section, “victim” has the meaning given that term in ORS 135.970. [2007 c.470 §1; 2013 c.144 §2]
+      (6) As used in this section, “victim” has the meaning given that term in ORS 135.970. [2007 c.470 §1; 2013 c.144 §2; 2019 c.399 §3]
 
  
 
@@ -1311,13 +1319,21 @@ POST-CONVICTION RELIEF
 
       (c) The Court of Appeals may not grant relief under this subsection unless the defendant has received notice of and an opportunity to respond to the petitioner’s request for relief.
 
-      (3) An appeal under this section taken by the defendant stays the effect of the judgment. If the petitioner is incarcerated, the trial court may stay the petitioner’s sentence pending the defendant’s appeal and order conditional release or security release, in accordance with ORS 135.230 to 135.290, only if:
+      (3) A party cross-appealing shall serve and file the notice of cross-appeal:
+
+      (a) Within 10 days of the expiration of the time allowed in subsection (1) of this section; or
+
+      (b) If the petitioner’s notice of appeal is filed pursuant to subsection (2) of this section, within 10 days of the expiration of the time allowed in subsection (2) of this section.
+
+      (4) An appeal under this section taken by the defendant stays the effect of the judgment. If the petitioner is incarcerated, the trial court may stay the petitioner’s sentence pending the defendant’s appeal and order conditional release or security release, in accordance with ORS 135.230 to 135.290, only if:
 
       (a) The post-conviction court’s judgment vacates the judgment of conviction or reduces the sentence or sentences imposed upon conviction;
 
       (b) The petitioner has completed any other sentence of incarceration to which the petitioner is subject; and
 
-      (c) The petitioner otherwise would be entitled to immediate release from incarceration under the court’s judgment. [1959 c.636 §18; 1963 c.557 §1; 1969 c.198 §72; 1971 c.565 §26; 1987 c.852 §3; 2003 c.576 §246; 2007 c.193 §1]
+      (c) The petitioner otherwise would be entitled to immediate release from incarceration under the court’s judgment.
+
+      (5) In an appeal under this section or to the United States Supreme Court, the Attorney General shall represent the defendant. [1959 c.636 §18; 1963 c.557 §1; 1969 c.198 §72; 1971 c.565 §26; 1987 c.852 §3; 2003 c.576 §246; 2007 c.193 §1; 2019 c.399 §4]
 
  
 
@@ -1369,63 +1385,141 @@ POST-CONVICTION MOTION FOR DNA TESTING
 
  
 
-      138.690 Motion. A person may file in the circuit court in which the judgment of conviction was entered a motion requesting the performance of DNA (deoxyribonucleic acid) testing on specific evidence if the person has been convicted of aggravated murder or a felony in which DNA evidence could exist and is relevant to establishing an element of the offense. [2001 c.697 §1; 2005 c.759 §1; 2007 c.800 §1; 2015 c.564 §1]
+      138.688 Definitions. As used in ORS 138.688 to 138.700:
+
+      (1) “CODIS” means the Combined DNA Index System.
+
+      (2) “DNA” means deoxyribonucleic acid.
+
+      (3) “Exculpatory results” and “exculpatory evidence” are limited to those DNA test results or evidence that are material to a determination of the identity of the individual who committed the crime, or whether the crime was committed.
+
+      (4) “Federal standards” means the Federal Bureau of Investigation Quality Assurance Standards for Forensic DNA Testing Laboratories, as modified or amended by the Federal Bureau of Investigation, or any successor standards adopted by the Federal Bureau of Investigation.
+
+      (5) “National DNA Index System” or “NDIS” means a national, searchable DNA database created and maintained by the Federal Bureau of Investigation where DNA profiles are stored.
+
+      (6) “NDIS manual” means the Federal Bureau of Investigation’s NDIS Operational Procedures Manual, as modified or amended by the Federal Bureau of Investigation, or any successor operational procedures manual.
+
+      (7) “NDIS-participating laboratory” means a forensic laboratory that has been designated to operate CODIS and participate in the National DNA Index System.
+
+      (8) “Nonparticipating laboratory” means a laboratory that does not participate in the National DNA Index System but that is accredited by a nonprofit organization and meets federal standards.
+
+      (9) “State DNA index system” means a statewide, searchable DNA database created and maintained by the Department of State Police where DNA profiles are stored. [2019 c.368 §2]
+
+Note: 138.688 to 138.700 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 138 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
-      Note: 138.690 to 138.698 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 138 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+      138.690 Commencement of DNA testing proceedings; discovery. (1) A person may file in the circuit court in which the judgment of conviction was entered a petition requesting the commencement of a DNA testing proceeding, and requesting that the court appoint an attorney for the purpose of determining whether to file a motion under ORS 138.692 for the performance of DNA testing on specific evidence, if the person has been convicted of aggravated murder or a felony in which DNA evidence could exist and is related to the investigation or prosecution that resulted in the judgment of conviction.
+
+      (2) After proceedings have been commenced under subsection (1) of this section:
+
+      (a) Upon motion of the person, the court shall order that the person be provided with a copy of property and evidence control and disposition records for all evidence related to the investigation or prosecution that resulted in the judgment of conviction. If forensic testing on the evidence has previously occurred, the court shall further order that the person be provided with access to the results of the testing and to any other written materials related to the testing, including reports, underlying data, notes and protocols.
+
+      (b) Upon motion of the person and a showing that good faith efforts to obtain discovery materials from prior defense counsel were made and were unsuccessful, the court shall order that the person be provided reasonable access to discovery materials in the possession of the district attorney and law enforcement agencies that the person would have received under ORS 135.815 prior to trial.
+
+      (3) At any time after a person files a petition under subsection (1) of this section, the person may file a motion to dismiss the proceeding on the grounds that the person does not wish to proceed with DNA testing. Upon receipt of the motion, the court shall dismiss the petition without prejudice.
+
+      (4) The court may not charge a fee for any filing under ORS 138.688 to 138.700.
+
+      (5) The State Court Administrator shall develop forms for proceedings under ORS 138.688 to 138.700. The State Court Administrator shall provide the forms to the clerk of each circuit court, who shall make the forms available to the public.
+
+      (6) ORS 138.688 to 138.700 are not the exclusive means by which a person convicted of a crime may obtain post-conviction DNA testing, and nothing in ORS 138.688 to 138.700 limits or affects any other means by which a person convicted of a crime may obtain post-conviction DNA testing.
+
+      (7) If the victim did not request notification under ORS 147.433, the district attorney may provide notification upon the filing of a petition under this section if the name and address of the victim are known to the district attorney. [2001 c.697 §1; 2005 c.759 §1; 2007 c.800 §1; 2015 c.564 §1; 2019 c.368 §3]
 
  
 
-      138.692 Affidavit; order; costs. (1)(a) When a person files a motion under ORS 138.690 requesting the performance of DNA (deoxyribonucleic acid) testing on evidence, the motion must be supported by an affidavit. The affidavit must:
+      Note: See note under 138.688.
 
-      (A) Contain a statement that the person is innocent of the offense for which the person was convicted;
+ 
 
-      (B) Identify the evidence to be tested with as much specificity as is reasonably practicable and a theory of defense that the DNA testing would support. The evidence must have been secured in connection with the prosecution, including the investigation, that resulted in the conviction of the person; and
+      138.692 Motion for DNA testing; declaration; court order; costs. (1) After a person files a petition under ORS 138.690, the person may file a motion requesting the performance of DNA testing on evidence. The motion must be supported by:
 
-      (C) Include the results of any previous DNA test of the evidence if a previous DNA test was conducted by either the prosecution or the defense.
+      (a) A declaration by the person made under penalty of perjury that the person is innocent of the offense for which the person was convicted; and
 
-      (b) Consistent with the statement of innocence described in paragraph (a)(A) of this subsection, the person must present a prima facie showing that DNA testing of the evidence would, assuming exculpatory results, lead to a finding that the person is actually innocent of the offense for which the person was convicted.
+      (b) A statement that:
 
-      (2) The state shall answer the motion requesting the performance of DNA testing and may refute the basis for the motion.
+      (A) Identifies the evidence to be tested with as much specificity as is reasonably practicable. The evidence must have been secured in connection with the prosecution, including the investigation, that resulted in the conviction of the person;
 
-      (3) Upon the motion of a party or the court’s own motion, the court may allow the testimony of witnesses if the testimony will assist the court in making its determination to grant or deny the motion requesting the performance of DNA testing. The court may not allow testimony from the victim of the offense without the consent of the victim.
+      (B) Includes the results of any previous DNA test of the evidence if a previous DNA test was conducted by either the prosecution or the defense;
 
-      (4) The court shall order the DNA testing requested in a motion under subsection (1) of this section if the court finds that:
+      (C)(i) The identity of the individual who committed the crime or conduct was at issue in the underlying prosecution; or
 
-      (a) The requirements of subsection (1) of this section have been met;
+      (ii) No crime occurred; and
 
-      (b) Unless the parties stipulate otherwise, the evidence to be tested has been subject to a chain of custody sufficient to establish that the evidence has not been altered in any material aspect;
+      (D) Explains, in light of all the evidence, how there is a reasonable probability that, had exculpatory results been available at the time of the underlying prosecution:
 
-      (c) The motion is made for the purpose of demonstrating the innocence of the person of the offense and not to delay the execution of the sentence or administration of justice; and
+      (i) The person would not have been prosecuted or convicted of the offense; or
 
-      (d) There is a reasonable possibility, assuming exculpatory results, that the testing would lead to a finding that the person is actually innocent of the offense for which the person was convicted.
+      (ii) There would have been a more favorable outcome to the underlying prosecution.
 
-      (5) In granting a motion under this section, the court may impose reasonable conditions designed to protect the interests of the state in the integrity of the evidence and the testing process.
+      (2) Concurrently with the filing of a motion under this section, the person shall serve the district attorney with:
 
-      (6) Unless both parties agree or the court finds compelling circumstances otherwise, the court shall order the Department of State Police to conduct the DNA testing. The court may order a second test upon a showing that the state police failed to follow appropriate DNA protocols and that failure reasonably affected the accuracy of the DNA test.
+      (a) A copy of any prior sworn testimony by the person concerning the underlying prosecution, including but not limited to affidavits, declarations, depositions and any testimony from the person in a prior post-conviction relief action challenging the conviction; or
 
-      (7) The costs of DNA tests ordered under this section must be paid by:
+      (b) A document affirming that there are no prior sworn statements.
+
+      (3) A person may file a motion under this section notwithstanding the fact that the person pleaded guilty or no contest to the underlying conviction or, before or after conviction, made a confession or admission.
+
+      (4) Upon being served as described in subsection (2) of this section, the state shall answer the motion requesting the performance of DNA testing and may refute the basis for the motion.
+
+      (5) Upon the motion of a party or the court’s own motion, the court may allow the testimony of witnesses if the testimony will assist the court in making its determination to grant or deny the motion requesting the performance of DNA testing. The court may not allow testimony from the victim of the offense without the consent of the victim.
+
+      (6) The court shall order the DNA testing requested in a motion under subsection (1) of this section if the court finds that:
+
+      (a) Unless the parties stipulate otherwise, the evidence to be tested has been subject to a chain of custody sufficient to establish that the evidence has not been altered in any material aspect;
+
+      (b) The motion is made for the purpose of demonstrating the innocence of the person of the offense and not to delay the execution of the sentence or administration of justice;
+
+      (c)(A) The identity of the individual who committed the crime or conduct was at issue in the underlying prosecution; or
+
+      (B) If the person alleges that no crime occurred, the testing could not have been obtained during the criminal proceedings with the exercise of reasonable diligence; and
+
+      (d) In light of all the evidence, there is a reasonable probability that, had exculpatory results been available at the time of the underlying prosecution, the person would not have been prosecuted or convicted of the offense.
+
+      (7) The court may order the DNA testing requested in a motion under subsection (1) of this section if the court finds that:
+
+      (a) Unless the parties stipulate otherwise, the evidence to be tested has been subject to a chain of custody sufficient to establish that the evidence has not been altered in any material aspect;
+
+      (b) The motion is made for the purpose of demonstrating the innocence of the person of the offense and not to delay the execution of the sentence or administration of justice;
+
+      (c)(A) The identity of the individual who committed the crime or conduct was at issue in the underlying prosecution; or
+
+      (B) If the person alleges that no crime occurred, the testing could not have been obtained during the criminal proceedings with the exercise of reasonable diligence; and
+
+      (d) In light of all the evidence, there is a reasonable probability that, had exculpatory results been available at the time of the underlying prosecution, there would have been a more favorable outcome to the underlying prosecution.
+
+      (8) In granting a motion under this section, the court may impose reasonable conditions designed to protect the interests of the state in the integrity of the evidence and the testing process.
+
+      (9)(a) If a motion is granted under this section, the district attorney shall notify the victim if the name and address of the victim are known to the district attorney.
+
+      (b) The district attorney may notify the victim of the results of DNA testing ordered under this section.
+
+      (10) Unless both parties agree or the court finds compelling circumstances otherwise, the court shall order the Department of State Police to conduct the DNA testing. The court may order a second test upon a showing that the state police failed to follow appropriate DNA protocols and that failure reasonably affected the accuracy of the DNA test.
+
+      (11) A party seeking entry into the National DNA Index System or State DNA Index System of any unknown DNA profile generated through DNA testing ordered under this section shall comply with ORS 138.700.
+
+      (12) The costs of DNA testing ordered under this section must be paid by:
 
       (a) The person making the motion for DNA testing if the person is not incarcerated or, if the person is incarcerated, if the person is financially able to pay; or
 
       (b) The state if counsel at state expense has been appointed under ORS 138.694.
 
-      (8) The laboratory conducting the DNA test shall provide a copy of the results of the test to the person filing the motion and to the state.
+      (13) The laboratory conducting the DNA test shall provide access to the results of the test and to any other written materials related to the testing, including reports, underlying data, notes and protocols, to the person filing the motion and to the state.
 
-      (9) Notwithstanding the fact that an appeal of the conviction or a petition for post-conviction relief in the underlying case is pending at the time a motion is filed under ORS 138.690, the circuit court shall consider the motion. If the court grants the motion, the court shall notify the court considering the appeal or post-conviction petition of that fact. When a court receives notice under this subsection, the court shall stay the appeal or post-conviction proceedings pending the outcome of the motion filed under ORS 138.690 and any further proceedings resulting from the motion.
+      (14) Notwithstanding the fact that an appeal of the conviction or a petition for post-conviction relief in the underlying case is pending at the time a motion is filed under this section, the circuit court shall consider the motion. If the court grants the motion, the court shall notify the court considering the appeal or post-conviction petition of that fact. When a court receives notice under this subsection, the court shall stay the appeal or post-conviction proceedings pending the outcome of the motion filed under this section and any further proceedings resulting from the motion.
 
-      (10) The court shall make findings when issuing an order under this section. [2001 c.697 §2; 2005 c.759 §2; 2007 c.800 §2; 2015 c.564 §2]
-
- 
-
-      Note: See note under 138.690.
+      (15) The court shall make written findings when issuing an order under this section. [2001 c.697 §2; 2005 c.759 §2; 2007 c.800 §2; 2015 c.564 §2; 2019 c.368 §4]
 
  
 
-      138.694 Appointed counsel. (1) A person described in ORS 138.690 is entitled to counsel during all stages of the proceedings described in ORS 138.692, 138.696 and 138.697.
+      Note: See note under 138.688.
 
-      (2) A person described in ORS 138.690 may file a petition in the circuit court in which the judgment of conviction was entered requesting the appointment of counsel at state expense to assist the person in determining whether to file a motion under ORS 138.690. The petition must be accompanied by:
+ 
+
+      138.694 Appointed counsel. (1) A person described in ORS 138.690 is entitled to counsel during all stages of the proceedings described in ORS 138.692, 138.696, 138.697 and 138.700.
+
+      (2) A person described in ORS 138.690 may file a petition in the circuit court in which the judgment of conviction was entered requesting the appointment of counsel at state expense to assist the person in determining whether to file a motion under ORS 138.692. The petition must be accompanied by:
 
       (a) A completed affidavit of eligibility for appointment of counsel at state expense; and
 
@@ -1435,7 +1529,7 @@ POST-CONVICTION MOTION FOR DNA TESTING
 
       (B) The person is innocent of the charge for which the person was convicted; and
 
-      (C) The person is without sufficient funds and assets, as shown by the affidavit required by paragraph (a) of this subsection, to hire an attorney to represent the person in determining whether to file a motion under ORS 138.690.
+      (C) The person is without sufficient funds and assets, as shown by the affidavit required by paragraph (a) of this subsection, to hire an attorney to represent the person in determining whether to file a motion under ORS 138.692.
 
       (3) The court shall grant a petition filed under this section if:
 
@@ -1447,15 +1541,15 @@ POST-CONVICTION MOTION FOR DNA TESTING
 
       (a) If other than counsel provided pursuant to ORS 151.460, is entitled to compensation and expenses as provided in ORS 135.055; or
 
-      (b) If counsel provided pursuant to ORS 151.460, is entitled to expenses as provided in ORS 135.055. [2001 c.697 §4; 2007 c.800 §3; 2015 c.564 §3]
+      (b) If counsel provided pursuant to ORS 151.460, is entitled to expenses as provided in ORS 135.055. [2001 c.697 §4; 2007 c.800 §3; 2015 c.564 §3; 2019 c.368 §5]
 
  
 
-      Note: See note under 138.690.
+      Note: See note under 138.688.
 
  
 
-      138.696 Test results; motion for new trial. (1) If DNA (deoxyribonucleic acid) testing ordered under ORS 138.692 produces inconclusive evidence or evidence that is unfavorable to the person requesting the testing:
+      138.696 Test results; motion for new trial. (1) If DNA testing ordered under ORS 138.692 produces inconclusive evidence or evidence that is unfavorable to the person requesting the testing:
 
       (a) The court shall forward the results to the State Board of Parole and Post-Prison Supervision; and
 
@@ -1463,37 +1557,97 @@ POST-CONVICTION MOTION FOR DNA TESTING
 
       (2) If DNA testing ordered under ORS 138.692 produces exculpatory evidence, the person who requested the testing may file in the court that ordered the testing a motion for a new trial based on newly discovered evidence. Notwithstanding the time limit established in ORCP 64 F, a person may file a motion under this subsection at any time during the 60-day period that begins on the date the person receives the test results.
 
-      (3) Upon receipt of a motion filed under subsection (2) of this section and notwithstanding the time limits in ORCP 64 F, the court shall hear the motion pursuant to ORCP 64. [2001 c.697 §3; 2003 c.288 §3; 2015 c.564 §4]
+      (3) Upon receipt of a motion filed under subsection (2) of this section and notwithstanding the time limits in ORCP 64 F, the court shall hear the motion pursuant to ORCP 64.
+
+      (4) If the court orders a new trial in response to a motion described in this section, the district attorney shall notify the victim. [2001 c.697 §3; 2003 c.288 §3; 2015 c.564 §4; 2019 c.368 §6]
 
  
 
-      Note: See note under 138.690.
+      Note: See note under 138.688.
 
  
 
-      138.697 Appeal of court order. (1) A person described in ORS 138.690 may appeal to the Court of Appeals from a circuit court’s final order or judgment denying or limiting DNA (deoxyribonucleic acid) testing under ORS 138.692, denying appointment of counsel under ORS 138.694 or denying a motion for a new trial under ORS 138.696.
+      138.697 Appeal of court order. (1) A person described in ORS 138.690 may appeal to the Court of Appeals from a circuit court’s final order or judgment denying or limiting DNA testing under ORS 138.692, denying appointment of counsel under ORS 138.694 or denying a motion for a new trial under ORS 138.696.
 
       (2) The state may appeal to the Court of Appeals from a circuit court’s final order or judgment granting a motion for DNA testing under ORS 138.692 or granting a motion for a new trial under ORS 138.696.
 
       (3) The time limits described in ORS 138.071, the notice requirements described in ORS 138.081 and 138.090 and the provisions of ORS 138.225, 138.227, 138.255 and 138.257 apply to appeals under this section unless the context requires otherwise.
 
-      (4) A circuit court shall appoint counsel to represent a person described in ORS 138.690 on appeal in the same manner as for criminal defendants under ORS 138.500. [2013 c.152 §1; 2015 c.564 §5; 2017 c.529 §25]
+      (4) A circuit court shall appoint counsel to represent a person described in ORS 138.690 on appeal in the same manner as for criminal defendants under ORS 138.500. [2013 c.152 §1; 2015 c.564 §5; 2017 c.529 §25; 2019 c.368 §9]
 
  
 
-      Note: See note under 138.690.
+      Note: See note under 138.688.
 
  
 
-      138.698 Effect of setting aside conviction on plea agreement. When a conviction has been set aside as the result of evidence obtained through DNA (deoxyribonucleic acid) testing conducted under ORS 138.692, the prosecution of any offense that was dismissed or not charged pursuant to a plea agreement that resulted in the conviction that has been set aside may be commenced within the later of:
+      138.698 Effect of setting aside conviction on plea agreement. When a conviction has been set aside as the result of evidence obtained through DNA testing conducted under ORS 138.692, the prosecution of any offense that was dismissed or not charged pursuant to a plea agreement that resulted in the conviction that has been set aside may be commenced within the later of:
 
       (1) The period of limitation established for the offense under ORS 131.125 to 131.155; or
 
-      (2) Notwithstanding ORS 131.125 and 131.155, two years after the date the conviction was set aside. [2005 c.759 §3]
+      (2) Notwithstanding ORS 131.125 and 131.155, two years after the date the conviction was set aside. [2005 c.759 §3; 2019 c.368 §10]
 
  
 
-      Note: See note under 138.690.
+      Note: See note under 138.688.
+
+ 
+
+      138.700 Entry of unidentified profile into DNA databases; motion for laboratory evaluation; court order. (1) If DNA testing ordered under ORS 138.692 produces an unidentified DNA profile, upon motion of a party the court may order an NDIS-participating laboratory within this state to:
+
+      (a) Enter the DNA profile into the National DNA Index System; or
+
+      (b) Enter the DNA profile into the State DNA Index System if the profile meets all applicable requirements.
+
+      (2) Notwithstanding subsection (1)(a) of this section, the DNA profile shall only be compared to the National DNA Index System if the state administrator of the Combined DNA Index System determines that:
+
+      (a) The forensic sample has a nexus to the crime scene, is probative, and was suitable for analysis;
+
+      (b) The DNA profile was generated through a technology that complies with all requirements in the NDIS manual and federal standards; and
+
+      (c) The DNA profile meets all requirements in the NDIS manual for entry.
+
+      (3)(a) If a party to post-conviction DNA testing proceedings seeks to conduct the testing at a nonparticipating laboratory and intends to have any DNA profile resulting from the testing submitted to the National DNA Index System or the State DNA Index System, the party may identify an NDIS-participating laboratory within this state and request the court, by motion, to order the NDIS-participating laboratory to evaluate whether the nonparticipating laboratory is in compliance with federal standards for the purpose of uploading DNA profiles to CODIS. The party shall provide notice of the requested order to the opposing party and to the NDIS-participating laboratory identified in the motion.
+
+      (b) The state may appear on the motion as a party to post-conviction DNA testing proceedings or on behalf of the NDIS-participating laboratory if the laboratory is a public entity.
+
+      (4) The court may order the NDIS-participating laboratory to conduct an evaluation pursuant to subsection (3) of this section if the moving party demonstrates and the court finds that:
+
+      (a)(A) The NDIS-participating laboratory is not able to, or for practical reasons has determined not to, perform the specific testing and analysis sought by the moving party;
+
+      (B) The NDIS-participating laboratory’s testing and analysis would not be substantially equivalent to testing and analysis by the nonparticipating laboratory; or
+
+      (C) Testing and analysis by the NDIS-participating laboratory would not otherwise be appropriate;
+
+      (b) The evaluation will not delay investigations or unduly burden the resources of the NDIS-participating laboratory; and
+
+      (c) There is a reasonable likelihood that the evaluation would result in a finding that:
+
+      (A) The nonparticipating laboratory is in compliance with federal standards; and
+
+      (B) If a DNA profile is generated from testing by the nonparticipating laboratory, the profile would meet all requirements in the NDIS manual and federal standards.
+
+      (5) If the court orders an evaluation of a nonparticipating laboratory under subsection (4) of this section, within 120 days of receiving the court order, the NDIS-participating laboratory shall comply with the order as follows:
+
+      (a) The NDIS-participating laboratory may conduct the evaluation by obtaining and reviewing the records of an on-site visit and assessment of the nonparticipating laboratory previously conducted by the Federal Bureau of Investigation or an NDIS-participating laboratory.
+
+      (b) If a previously conducted on-site visit and assessment were not conducted within a time frame required by federal law, the results of the previously conducted on-site visit and assessment are unavailable, or the nonparticipating laboratory is not in compliance with other applicable standards, the NDIS-participating laboratory may:
+
+      (A) Evaluate the nonparticipating laboratory by conducting a new on-site visit and assessment, provided that:
+
+      (i) The ability to conduct the new on-site visit and assessment is within the limits of available resources of the NDIS-participating laboratory;
+
+      (ii) The nonparticipating laboratory agrees to cooperate with the new on-site visit and assessment; and
+
+      (iii) The moving party bears the costs associated with the new on-site visit and assessment; or
+
+      (B) Notify the court of the inability to evaluate the nonparticipating laboratory by conducting a new on-site visit and assessment due to the available resources of the NDIS-participating laboratory, a refusal by the nonparticipating laboratory to cooperate with the on-site visit and assessment or the refusal by the moving party to bear the costs associated with the new on-site visit and assessment.
+
+      (6) A determination by the NDIS-participating laboratory as to whether the nonparticipating laboratory is in compliance with federal standards is not subject to judicial review.
+
+      (7) Should any provision of a court order under this section be determined to violate federal law, the NDIS manual, or any memorandum of understanding between the Federal Bureau of Investigation and the Department of State Police concerning forensic laboratories, that portion of the order shall be considered unenforceable and the remaining portions of the order remain in effect. [2019 c.368 §8]
+
+Note: See note under 138.688.
 
  
 

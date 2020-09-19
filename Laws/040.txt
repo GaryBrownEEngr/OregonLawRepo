@@ -26,16 +26,6 @@ Chapter 40 — Evidence Code
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0002
-
- 
-
- 
-
 
  
 
@@ -217,6 +207,10 @@ PRIVILEGES
 
  
 
+40.227       Rule 503-1. Right of client to communicate with lawyer; inadmissibility of evidence obtained or disclosed without client’s consent
+
+ 
+
 40.230       Rule 504. Psychotherapist-patient privilege
 
  
@@ -270,6 +264,10 @@ PRIVILEGES
  
 
 40.273       Rule 509-2. Non-English-speaking person-interpreter privilege
+
+ 
+
+40.274       Rule 509-3. Legislative branch offsite process counselor privilege
 
  
 
@@ -386,6 +384,8 @@ OPINIONS AND EXPERT TESTIMONY
  
 
 HEARSAY
+
+ 
 
 40.450       Rule 801. Definitions for ORS 40.450 to 40.475
 
@@ -857,9 +857,9 @@ RELEVANCY
 
       (C) Is otherwise constitutionally required to be admitted.
 
-      (3) Notwithstanding any other provision of law, in a prosecution for a crime or an attempt to commit a crime listed in subsection (1) of this section or in a proceeding conducted under ORS 163.760 to 163.777, evidence, other than reputation or opinion evidence, of the manner of dress of the alleged victim or a corroborating witness, presented by a person accused of committing the crime or, in a proceeding conducted under ORS 163.760 to 163.777, by the respondent, is also not admissible, unless the evidence is:
+      (3) Notwithstanding any other provision of law, in a prosecution for a crime or an attempt to commit a crime listed in subsection (1) of this section or in a proceeding conducted under ORS 163.760 to 163.777, evidence, other than reputation or opinion evidence, of the manner of dress of the alleged victim or a corroborating witness, presented by a person accused of committing the crime or, in a proceeding conducted under ORS 163.760 to 163.777, by the respondent, is also not admissible, unless the evidence:
 
-      (a) Admitted in accordance with subsection (4) of this section; and
+      (a) Is admitted in accordance with subsection (4) of this section; and
 
       (b) Is evidence that:
 
@@ -891,7 +891,7 @@ RELEVANCY
 
       (B) In a proceeding conducted under ORS 163.760 to 163.777, the alleged sexual abuse.
 
-      (d) “Trial” includes a hearing conducted under ORS 163.760 to 163.777. [1981 c.892 §31; 1993 c.301 §1; 1993 c.776 §1; 1997 c.249 §20; 1999 c.949 §3; 2013 c.687 §21; 2013 c.720 §5]
+      (d) “Trial” includes a hearing conducted under ORS 163.760 to 163.777. [1981 c.892 §31; 1993 c.301 §1; 1993 c.776 §1; 1997 c.249 §20; 1999 c.949 §3; 2013 c.687 §21; 2013 c.720 §5; 2019 c.13 §20]
 
  
 
@@ -927,43 +927,51 @@ PRIVILEGES
 
       40.225 Rule 503. Lawyer-client privilege. (1) As used in this section, unless the context requires otherwise:
 
-      (a) “Client” means a person, public officer, corporation, association or other organization or entity, either public or private, who is rendered professional legal services by a lawyer, or who consults a lawyer with a view to obtaining professional legal services from the lawyer.
+      (a) “Client” means:
+
+      (A) A person, public officer, corporation, association or other organization or entity, either public or private, who is rendered professional legal services by a lawyer, or who consults a lawyer with a view to obtaining professional legal services from the lawyer.
+
+      (B) A person, public officer, corporation, association or other organization or entity, either public or private, who consults a lawyer referral service with a view to obtaining professional legal services from a lawyer.
 
       (b) “Confidential communication” means a communication not intended to be disclosed to third persons other than those to whom disclosure is in furtherance of the rendition of professional legal services to the client or those reasonably necessary for the transmission of the communication.
 
       (c) “Lawyer” means a person authorized, or reasonably believed by the client to be authorized, to practice law in any state or nation.
 
-      (d) “Representative of the client” means:
+      (d) “Lawyer referral service” means an entity that, as a regular part of its business, refers potential clients to lawyers, including but not limited to a public nonprofit entity sponsored or operated by the Oregon State Bar.
+
+      (e) “Representative of the client” means:
 
       (A) A principal, an officer or a director of the client; or
 
       (B) A person who has authority to obtain professional legal services, or to act on legal advice rendered, on behalf of the client, or a person who, for the purpose of effectuating legal representation for the client, makes or receives a confidential communication while acting in the person’s scope of employment for the client.
 
-      (e) “Representative of the lawyer” means one employed to assist the lawyer in the rendition of professional legal services, but does not include a physician making a physical or mental examination under ORCP 44.
+      (f) “Representative of the lawyer” means one employed to assist the lawyer in the rendition of professional legal services, but does not include a physician making a physical or mental examination under ORCP 44.
 
       (2) A client has a privilege to refuse to disclose and to prevent any other person from disclosing confidential communications made for the purpose of facilitating the rendition of professional legal services to the client:
 
       (a) Between the client or the client’s representative and the client’s lawyer or a representative of the lawyer;
 
-      (b) Between the client’s lawyer and the lawyer’s representative;
+      (b) Between the client’s lawyer and the lawyer’s representative or the client’s lawyer referral service;
 
       (c) By the client or the client’s lawyer to a lawyer representing another in a matter of common interest;
 
-      (d) Between representatives of the client or between the client and a representative of the client; or
+      (d) Between representatives of the client or between the client and a representative of the client;
 
-      (e) Between lawyers representing the client.
+      (e) Between lawyers representing the client; or
 
-      (3) The privilege created by this section may be claimed by the client, a guardian or conservator of the client, the personal representative of a deceased client, or the successor, trustee, or similar representative of a corporation, association, or other organization, whether or not in existence. The person who was the lawyer or the lawyer’s representative at the time of the communication is presumed to have authority to claim the privilege but only on behalf of the client.
+      (f) Between the client or a representative of the client and a lawyer referral service.
+
+      (3) The privilege created by this section may be claimed by the client, a guardian or conservator of the client, the personal representative of a deceased client, or the successor, trustee, or similar representative of a corporation, association, or other organization, whether or not in existence. The person who was the lawyer or lawyer referral service or the lawyer’s representative at the time of the communication is presumed to have authority to claim the privilege but only on behalf of the client.
 
       (4) There is no privilege under this section:
 
-      (a) If the services of the lawyer were sought or obtained to enable or aid anyone to commit or plan to commit what the client knew or reasonably should have known to be a crime or fraud;
+      (a) If the services of the lawyer or lawyer referral service were sought or obtained to enable or aid anyone to commit or plan to commit what the client knew or reasonably should have known to be a crime or fraud;
 
       (b) As to a communication relevant to an issue between parties who claim through the same deceased client, regardless of whether the claims are by testate or intestate succession or by inter vivos transaction;
 
-      (c) As to a communication relevant to an issue of breach of duty by the lawyer to the client or by the client to the lawyer;
+      (c) As to a communication relevant to an issue of breach of duty by the lawyer or lawyer referral service to the client or by the client to the lawyer or lawyer referral service;
 
-      (d) As to a communication relevant to an issue concerning an attested document to which the lawyer is an attesting witness; or
+      (d) As to a communication relevant to an issue concerning an attested document to which the lawyer or lawyer referral service is an attesting witness; or
 
       (e) As to a communication relevant to a matter of common interest between two or more clients if the communication was made by any of them to a lawyer retained or consulted in common, when offered in an action between any of the clients.
 
@@ -971,7 +979,21 @@ PRIVILEGES
 
       (6) Notwithstanding subsection (4)(c) of this section and ORS 40.280, a privilege is maintained under this section for a communication that is made to the office of public defense services established under ORS 151.216 for the purpose of making, or providing information regarding, a complaint against a lawyer providing public defense services.
 
-      (7) Notwithstanding ORS 40.280, a privilege is maintained under this section for a communication ordered to be disclosed under ORS 192.311 to 192.478. [1981 c.892 §32; 1987 c.680 §1; 2005 c.356 §1; 2005 c.358 §1; 2007 c.513 §3; 2009 c.516 §1]
+      (7) Notwithstanding ORS 40.280, a privilege is maintained under this section for a communication ordered to be disclosed under ORS 192.311 to 192.478. [1981 c.892 §32; 1987 c.680 §1; 2005 c.356 §1; 2005 c.358 §1; 2007 c.513 §3; 2009 c.516 §1; 2018 c.2 §1]
+
+ 
+
+      40.227 Rule 503-1. Right of client to communicate with lawyer; inadmissibility of evidence obtained or disclosed without client’s consent. (1) As used in this section, “client,” “confidential communication,” “lawyer” and “representative of the lawyer” have the meanings given those terms in ORS 40.225.
+
+      (2) A client has a right to privately communicate with the client’s lawyer and representatives of the lawyer.
+
+      (3)(a) Any evidence derived from a confidential communication that is privileged under ORS 40.225, between a client and the client’s lawyer or a representative of the lawyer, is inadmissible in any proceeding to which the client is a party if the confidential communication was obtained or disclosed without the consent of the client.
+
+      (b) Paragraph (a) of this subsection does not apply to evidence offered by the client. [2019 c.169 §1]
+
+ 
+
+      Note: 40.227 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 40 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1083,7 +1105,7 @@ PRIVILEGES
 
  
 
-      40.252 Rule 504-5. Communications revealing intent to commit certain crimes. (1) In addition to any other limitations on privilege that may be imposed by law, there is no privilege under ORS 40.225, 40.230, 40.250 or 40.264 for communications if:
+      40.252 Rule 504-5. Communications revealing intent to commit certain crimes. (1) In addition to any other limitations on privilege that may be imposed by law, there is no privilege under ORS 40.225, 40.230, 40.250, 40.264 or 40.274 for communications if:
 
       (a) In the professional judgment of the person receiving the communications, the communications reveal that the declarant has a clear and serious intent at the time the communications are made to subsequently commit a crime involving physical injury, a threat to the physical safety of any person, sexual abuse or death or involving an act described in ORS 167.322;
 
@@ -1093,7 +1115,7 @@ PRIVILEGES
 
       (2) The provisions of this section do not create a duty to report any communication to any person.
 
-      (3) A person who discloses a communication described in subsection (1) of this section, or fails to disclose a communication described in subsection (1) of this section, is not liable to any other person in a civil action for any damage or injury arising out of the disclosure or failure to disclose. [2001 c.640 §2; 2007 c.731 §4; 2015 c.265 §3]
+      (3) A person who discloses a communication described in subsection (1) of this section, or fails to disclose a communication described in subsection (1) of this section, is not liable to any other person in a civil action for any damage or injury arising out of the disclosure or failure to disclose. [2001 c.640 §2; 2007 c.731 §4; 2015 c.265 §3; 2019 c.604 §18]
 
  
 
@@ -1231,6 +1253,42 @@ PRIVILEGES
 
  
 
+      40.274 Rule 509-3. Legislative branch offsite process counselor privilege. (1) As used in this section:
+
+      (a) “Confidential communication” means a communication between an offsite process counselor and an individual reporting information or seeking consultative services from the offsite process counselor.
+
+      (b) “Harassment” has the meaning given that term in legislative branch personnel rules that establish a standard of conduct that applies to legislators, legislative staff or executive or judicial branch staff that regularly are present in the State Capitol or regularly interact with the legislative branch, lobbyists who are required to be registered under ORS 171.740, or contractors, including employees of contractors, who regularly perform services in the State Capitol. “Harassment” includes conduct that constitutes sexual harassment or retaliation as those terms are used in the legislative branch personnel rules that address harassment. “Harassment” includes discrimination in a place of public accommodation.
+
+      (c) “Legislative branch” means the legislative department, as defined in ORS 174.114.
+
+      (d) “Offsite process counselor” means an offsite process counselor who meets the qualifications established under ORS 173.930 (2), who performs services under ORS 173.933 and who has completed at least 40 hours of training in advocacy for victims of domestic violence, sexual assault, stalking or workplace harassment, including harassment based on race, gender or disability, that has been approved by the Attorney General by rule.
+
+      (2) A person who reports information to an offsite process counselor that concerns harassment that the person has experienced or witnessed has a privilege to refuse to disclose and to prevent any other person from disclosing:
+
+      (a) Confidential communication made by the person to or received by the person from the offsite process counselor; and
+
+      (b) Records that are created or maintained by the offsite process counselor in the course of the person reporting information that concerns harassment in the State Capitol.
+
+      (3) A person who consults with an offsite process counselor for the purpose of understanding what options are available for reporting harassment or filing a harassment complaint has a privilege to refuse to disclose and to prevent any other person from disclosing:
+
+      (a) Confidential communication made by the person to or received by the person from the offsite process counselor; and
+
+      (b) Records that are created or maintained by the offsite process counselor in the course of providing counsel or services to the person.
+
+      (4) This section does not prohibit the disclosure of:
+
+      (a) Any information if the offsite process counselor reasonably believes that the disclosure is necessary to prevent immediate physical harm or other harm described in ORS 40.252; or
+
+      (b) Nonpersonally identifying data.
+
+      (5) This section applies to civil, criminal and administrative proceedings and to legislative branch disciplinary proceedings. [2019 c.604 §17]
+
+ 
+
+      Note: 40.274 was added to and made a part of 40.225 to 40.295 by legislative action but was not added to any smaller series therein. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
       40.275 Rule 510. Identity of informer. (1) As used in this section, “unit of government” means:
 
       (a) The federal government or any state or political subdivision thereof;
@@ -1353,47 +1411,49 @@ WITNESSES
 
       (A) Aggravated murder under ORS 163.095.
 
-      (B) Murder under ORS 163.115.
+      (B) Murder in the first degree under ORS 163.107.
 
-      (C) Manslaughter in the first degree under ORS 163.118.
+      (C) Murder in the second degree under ORS 163.115.
 
-      (D) Manslaughter in the second degree under ORS 163.125.
+      (D) Manslaughter in the first degree under ORS 163.118.
 
-      (E) Assault in the first degree under ORS 163.185.
+      (E) Manslaughter in the second degree under ORS 163.125.
 
-      (F) Assault in the second degree under ORS 163.175.
+      (F) Assault in the first degree under ORS 163.185.
 
-      (G) Assault in the third degree under ORS 163.165.
+      (G) Assault in the second degree under ORS 163.175.
 
-      (H) Assault in the fourth degree under ORS 163.160.
+      (H) Assault in the third degree under ORS 163.165.
 
-      (I) Rape in the first degree under ORS 163.375 (1)(a).
+      (I) Assault in the fourth degree under ORS 163.160.
 
-      (J) Sodomy in the first degree under ORS 163.405 (1)(a).
+      (J) Rape in the first degree under ORS 163.375 (1)(a).
 
-      (K) Unlawful sexual penetration in the first degree under ORS 163.411 (1)(a).
+      (K) Sodomy in the first degree under ORS 163.405 (1)(a).
 
-      (L) Sexual abuse in the first degree under ORS 163.427 (1)(a)(B).
+      (L) Unlawful sexual penetration in the first degree under ORS 163.411 (1)(a).
 
-      (M) Kidnapping in the first degree under ORS 163.235.
+      (M) Sexual abuse in the first degree under ORS 163.427 (1)(a)(B).
 
-      (N) Kidnapping in the second degree under ORS 163.225.
+      (N) Kidnapping in the first degree under ORS 163.235.
 
-      (O) Burglary in the first degree under ORS 164.225.
+      (O) Kidnapping in the second degree under ORS 163.225.
 
-      (P) Coercion under ORS 163.275.
+      (P) Burglary in the first degree under ORS 164.225.
 
-      (Q) Stalking under ORS 163.732.
+      (Q) Coercion under ORS 163.275.
 
-      (R) Violating a court’s stalking protective order under ORS 163.750.
+      (R) Stalking under ORS 163.732.
 
-      (S) Menacing under ORS 163.190.
+      (S) Violating a court’s stalking protective order under ORS 163.750.
 
-      (T) Harassment under ORS 166.065.
+      (T) Menacing under ORS 163.190.
 
-      (U) Strangulation under ORS 163.187.
+      (U) Harassment under ORS 166.065.
 
-      (V) Attempting to commit a crime listed in this paragraph.
+      (V) Strangulation under ORS 163.187.
+
+      (W) Attempting to commit a crime listed in this paragraph.
 
       (3) Evidence of a conviction under this section is not admissible if:
 
@@ -1407,7 +1467,7 @@ WITNESSES
 
       (6) An adjudication by a juvenile court that a child is within its jurisdiction is not a conviction of a crime.
 
-      (7) A conviction of any of the statutory counterparts of offenses designated as violations as described in ORS 153.008 may not be used to impeach the character of a witness in any criminal or civil action or proceeding. [1981 c.892 §53; 1987 c.2 §9; subsection (6) of 1993 Edition enacted as 1993 c.379 §4; 1999 c.1051 §121; 2001 c.714 §1; 2003 c.577 §3; 2009 c.56 §1]
+      (7) A conviction of any of the statutory counterparts of offenses designated as violations as described in ORS 153.008 may not be used to impeach the character of a witness in any criminal or civil action or proceeding. [1981 c.892 §53; 1987 c.2 §9; subsection (6) of 1993 Edition enacted as 1993 c.379 §4; 1999 c.1051 §121; 2001 c.714 §1; 2003 c.577 §3; 2009 c.56 §1; 2019 c.635 §6]
 
  
 
@@ -1507,13 +1567,15 @@ HEARSAY
 
       (4) A statement is not hearsay if:
 
-      (a) The declarant testifies at the trial or hearing and is subject to cross-examination concerning the statement, and the statement is:
+      (a) The declarant testifies at the trial or hearing and is subject to cross-examination concerning the statement, and the statement:
 
-      (A) Inconsistent with the testimony of the witness and was given under oath subject to the penalty of perjury at a trial, hearing or other proceeding, or in a deposition;
+      (A) Is inconsistent with the testimony of the witness and was given under oath subject to the penalty of perjury at a trial, hearing or other proceeding, or in a deposition;
 
-      (B) Consistent with the testimony of the witness and is offered to rebut an inconsistent statement or an express or implied charge against the witness of recent fabrication or improper influence or motive; or
+      (B) Is consistent with the testimony of the witness and is offered to rebut an inconsistent statement or an express or implied charge against the witness of recent fabrication or improper influence or motive;
 
-      (C) One of identification of a person made after perceiving the person.
+      (C) Is one of identification of a person made after perceiving the person; or
+
+      (D) Purports to interpret an otherwise admissible statement made by another person from one language into another.
 
       (b) The statement is offered against a party and is:
 
@@ -1527,7 +1589,7 @@ HEARSAY
 
       (E) A statement by a coconspirator of a party during the course and in furtherance of the conspiracy.
 
-      (c) The statement is made in a deposition taken in the same proceeding pursuant to ORCP 39 I. [1981 c.892 §62; 1987 c.275 §3]
+      (c) The statement is made in a deposition taken in the same proceeding pursuant to ORCP 39 I. [1981 c.892 §62; 1987 c.275 §3; 2019 c.306 §1]
 
  
 
@@ -1830,6 +1892,8 @@ CONTENTS OF WRITINGS, RECORDINGS AND PHOTOGRAPHS
       40.562 Rule 1003-1. Admissibility of reproduction. (1) If any business, institution or member of a profession or calling, in the regular course of business or activity, has kept or recorded any memorandum, writing, entry, print, representation or a combination thereof, of any act, transaction, occurrence or event, and in the regular course of business has caused any or all of the same to be recorded, copied or reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic, optical imaging or other process that accurately reproduces or forms a durable medium for so reproducing the original, the original may be destroyed in the regular course of business unless held in a custodial or fiduciary capacity and the principal or true owner has not authorized destruction or unless its preservation is required by law. Such reproduction, when satisfactorily identified, is as admissible in evidence as the original itself in any judicial or administrative proceeding whether the original is in existence or not and an enlargement or facsimile of such reproduction is likewise admissible in evidence if the original reproduction is in existence and available for inspection under direction of the court. The introduction of a reproduced record, enlargement or facsimile does not preclude admission of the original.
 
       (2) If any department or agency of government, in the regular course of business or activity, has kept or recorded any memorandum, writing, entry, print, representation or combination thereof, of any act, transaction, occurrence or event, and in the regular course of business, and in accordance with ORS 192.040 to 192.060 and 192.105, has caused any or all of the same to be recorded, copied or reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic, optical imaging or other process that accurately reproduces or forms a durable medium for so reproducing the original, the original may be destroyed in the regular course of business unless held in a custodial or fiduciary capacity and the principal or true owner has not authorized destruction or unless its preservation is required by law. Such reproduction, when satisfactorily identified, is as admissible in evidence as the original itself in any judicial or administrative proceeding whether the original is in existence or not and an enlargement or facsimile of such reproduction is likewise admissible in evidence if the original reproduction is in existence and available for inspection under direction of the court. The introduction of a reproduced record, enlargement or facsimile does not preclude admission of the original. [1995 c.760 §3]
+
+ 
 
       40.565 Rule 1004. Admissibility of other evidence of contents. The original is not required, and other evidence of the contents of a writing, recording or photograph is admissible when:
 

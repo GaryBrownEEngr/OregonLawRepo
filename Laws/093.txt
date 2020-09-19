@@ -4,16 +4,6 @@ Chapter 93 — Conveyancing and Recording
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0035
-
- 
-
- 
-
 
  
 
@@ -127,15 +117,23 @@ SPECIAL MATTERS IN PARTICULAR CONVEYANCES
 
  
 
-93.270       Certain discriminatory restrictions in conveyancing instruments prohibited; restriction on right of action
+93.270       Certain restrictions in conveyancing instruments prohibited; restriction on right of action
 
  
 
-93.272       Procedure for removal of certain discriminatory restrictions
+93.272       Procedure for removal of certain restrictions
+
+ 
+
+93.274       Procedure for removal of discriminatory restrictions
 
  
 
 93.275       Incidents not material facts to real property transaction; legislative findings
+
+ 
+
+93.277       Restrictions on development of certain housing prohibited
 
  
 
@@ -733,7 +731,7 @@ ______________________________________________________________________________
 
  
 
-      93.270 Certain discriminatory restrictions in conveyancing instruments prohibited; restriction on right of action. (1) A person conveying or contracting to convey fee title to real property may not include in an instrument for that purpose a provision:
+      93.270 Certain restrictions in conveyancing instruments prohibited; restriction on right of action. (1) A person conveying or contracting to convey fee title to real property, or recording a declaration under ORS 94.580, may not include in an instrument for that purpose a provision:
 
       (a) Restricting the use of the real property by any person or group of persons by reason of race, color, religion, sex, sexual orientation, national origin or disability.
 
@@ -749,21 +747,11 @@ ______________________________________________________________________________
 
       (4)(a) An instrument that contains a provision restricting the use of real property by requiring roofing materials with a lower fire rating than that required in the state building code established under ORS chapter 455 does not give rise to any public or private right of action to enforce the restriction in an area determined by a local jurisdiction as a wildfire hazard zone. Prohibitions on public or private right of action under this paragraph are limited solely to considerations of fire rating.
 
-      (b) As used in this subsection, “wildfire hazard zones” are areas that are legally declared by a governmental agency having jurisdiction over the area to have special hazards caused by a combination of combustible natural fuels, topography and climatic conditions that result in a significant hazard of catastrophic fire over relatively long periods each year. Wildfire hazard zones shall be determined using criteria established by the State Forestry Department. [1973 c.258 §1; 1989 c.437 §1; 1991 c.801 §7; 1993 c.311 §1; 1993 c.430 §3; 2007 c.70 §20; 2007 c.100 §16; 2009 c.595 §61; 2017 c.221 §1]
+      (b) As used in this subsection, “wildfire hazard zones” are areas that are legally declared by a governmental agency having jurisdiction over the area to have special hazards caused by a combination of combustible natural fuels, topography and climatic conditions that result in a significant hazard of catastrophic fire over relatively long periods each year. Wildfire hazard zones shall be determined using criteria established by the State Forestry Department. [1973 c.258 §1; 1989 c.437 §1; 1991 c.801 §7; 1993 c.311 §1; 1993 c.430 §3; 2007 c.70 §20; 2007 c.100 §16; 2009 c.595 §61; 2017 c.221 §1; 2018 c.35 §2]
 
  
 
-      Note: Section 7, chapter 221, Oregon Laws 2017, provides:
-
-      Sec. 7. The amendments to ORS 93.270 by section 1, chapter 221, Oregon Laws 2017, and the amendments to sections 3 [100.023] and 7 [94.779] of this 2017 Act [chapter 423, Oregon Laws 2017] by sections 3b and 7b of this 2017 Act apply to:
-
-      (1) Instruments conveying fee title to real property executed on or after January 1, 2018; and
-
-      (2) Provisions of governing documents and guidelines adopted on or after January 1, 2018. [2017 c.221 §7; 2017 c.423 §7d]
-
- 
-
-      93.272 Procedure for removal of certain discriminatory restrictions. (1) Any owner of record of real property that is subject to an instrument conveying or contracting to convey fee title to the property that contains a provision that is in violation of ORS 93.270 may file a petition to remove that provision from the title to the property. The petition shall be filed in the circuit court for the county in which the property is located. No fee shall be charged for the filing of the petition. The petition shall contain:
+      93.272 Procedure for removal of certain restrictions. (1) Except as otherwise provided in ORS 93.274, any owner of record of real property that is subject to an instrument conveying or contracting to convey fee title to the property, or a declaration recorded under ORS 94.580, that contains a provision that is in violation of ORS 93.270 may file a petition to remove that provision from the title to the property. The petition shall be filed in the circuit court for the county in which the property is located. For a petition filed under this section, the court may not charge any filing fees to the petitioner and may not award a prevailing party fee to any party. The petition shall contain:
 
       (a) The name and mailing address of the person filing the petition;
 
@@ -789,11 +777,53 @@ ______________________________________________________________________________
 
       (6) If a court finds only part of a provision to be in violation of ORS 93.270 under this section, the court shall enter a judgment removing only that part of the provision that is in violation.
 
-      (7) For the purposes of this section, “owner of record” means a person having any legal or equitable interest in property, including, but not limited to, a purchaser, lienholder or holder of any security interest in such property whose interest is recorded in the public records provided for by Oregon statutes where the owner’s interest must be recorded to perfect a lien or security interest or provide constructive notice of the owner’s interest. [1991 c.850 §2]
+      (7) For the purposes of this section, “owner of record” means a person having any legal or equitable interest in property, including, but not limited to, a purchaser, lienholder or holder of any security interest in such property whose interest is recorded in the public records provided for by Oregon statutes where the owner’s interest must be recorded to perfect a lien or security interest or provide constructive notice of the owner’s interest. [1991 c.850 §2; 2018 c.35 §3]
 
  
 
       93.273 [1989 c.523 §2; renumbered 93.275 (3) in 1993]
+
+ 
+
+      93.274 Procedure for removal of discriminatory restrictions. (1)(a) Notwithstanding ORS 93.272, any owner of record of real property that is subject to an instrument conveying or contracting to convey fee title to the property, or a declaration recorded under ORS 94.580, that contains a provision that is in violation of ORS 93.270 (1)(a) may file a petition under this section to remove that provision from the title to the property. The petition shall be filed in the circuit court for the county in which the property is located. For a petition filed under this section, the court may not charge any filing fees to the petitioner and may not award a prevailing party fee to any party.
+
+      (b) An owner may not use this section for removal of provisions that are in violation of both ORS 93.270 (1)(a) and (b).
+
+      (2) A petition filed under this section must contain:
+
+      (a) The name and mailing address of the person filing the petition;
+
+      (b) The name and mailing address of all owners of record of the property;
+
+      (c) The legal description of the property subject to the provision in violation of ORS 93.270 (1)(a); and
+
+      (d) A clear reference to the provision claimed to be in violation of ORS 93.270 (1)(a).
+
+      (3)(a) Notwithstanding ORCP 7, notice and a copy of the petition shall be served on all owners of record of the property via registered or certified mail.
+
+      (b) The petitioner shall submit to the court a sworn affidavit certifying the petitioner made a good faith effort to notify, in the manner required under this subsection, all owners of record of petitioner’s intent to file the petition.
+
+      (4) The notice required under subsection (3) of this section shall inform the owners of record that:
+
+      (a) The petition seeks the removal of a provision that is in violation of ORS 93.270 (1)(a) from the title to the property;
+
+      (b) The person served may request a hearing within 20 days after service of the petition; and
+
+      (c) The court is authorized to enter a default judgment removing the provision if no hearing is requested by the owners of record.
+
+      (5) If no request for hearing is made by any person served under subsection (3) of this section within 20 days after service on that person, the court shall enter a judgment removing the provision from the title to the property if the court determines that the provision is in violation of ORS 93.270 (1)(a).
+
+      (6) If a hearing is requested by any person served under subsection (3) of this section, the clerk of the court shall schedule a hearing within 20 days after the filing of the request for a hearing. The clerk of the court shall mail notification of the hearing date to the petitioner and to all owners of record listed in the petition.
+
+      (7) At any hearing under the provisions of this section, the sole issue that shall be decided by the court is whether the provision that is the subject of the petition is in violation of ORS 93.270 (1)(a). The matter shall be tried to the court sitting without jury. If the court finds that the provision is not in violation of ORS 93.270 (1)(a), the court shall dismiss the petition. If the court finds that the provision is in violation of ORS 93.270 (1)(a), the court shall enter a judgment removing the provision from the title to the property.
+
+      (8) If a court finds only part of a provision to be in violation of ORS 93.270 (1)(a) under this section, the court shall enter a judgment removing only that part of the provision that is in violation.
+
+      (9) For the purposes of this section, “owner of record” has the meaning given that term in ORS 93.272. [2018 c.35 §1]
+
+ 
+
+      Note: 93.274 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 93 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -803,13 +833,29 @@ ______________________________________________________________________________
 
       (b) The fact or suspicion that the real property or a neighboring property was the site of a crime, political activity, religious activity or any other act or occurrence that does not adversely affect the physical condition of or title to real property;
 
-      (c) The fact or suspicion that an owner or occupant of the real property has or had human immunodeficiency virus or acquired immune deficiency syndrome;
+      (c) The fact or suspicion that an owner or occupant of the real property has or had a blood-borne infection;
 
       (d) The fact or suspicion that a sex offender registered under ORS 163A.010, 163A.015, 163A.020 or 163A.025 resides in the area; and
 
       (e) The fact that a notice has been received that a neighboring property has been determined to be not fit for use under ORS 453.876.
 
-      (2) The Legislative Assembly finds that there is no known risk of the transmission of human immunodeficiency virus or acquired immune deficiency syndrome by casual contact. [1989 c.523 §3; subsection (3) formerly 93.273; 2001 c.701 §1; 2003 c.559 §2; 2011 c.271 §21]
+      (2) The Legislative Assembly finds that there is no known risk of the transmission of human immunodeficiency virus or acquired immune deficiency syndrome by casual contact. [1989 c.523 §3; subsection (3) formerly 93.273; 2001 c.701 §1; 2003 c.559 §2; 2011 c.271 §21; 2019 c.280 §1]
+
+ 
+
+      93.277 Restrictions on development of certain housing prohibited. A provision in a recorded instrument affecting real property is not enforceable if:
+
+      (1) The provision would allow the development of a single-family dwelling on the real property but would prohibit the development of:
+
+      (a) Middle housing, as defined in ORS 197.758; or
+
+      (b) An accessory dwelling unit allowed under ORS 197.312 (5); and
+
+      (2) The instrument was executed on or after August 8, 2019. [2019 c.639 §13]
+
+ 
+
+      Note: 93.277 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 93 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1133,7 +1179,7 @@ RECORDATION AND ITS EFFECTS
 
       93.643 Method of giving constructive notice of interest in real property; electronic lien records. (1) To give constructive notice of an interest in real property, a person must have documentation of the interest recorded in the indices maintained under ORS 205.130 in the county where the property is located. Such recordation, and no other record, constitutes constructive notice to any person of the existence of the interest, except:
 
-      (a) Constructive notice may be given as provided in ORS 311.405 and 446.515 to 446.547 and ORS chapters 87, 450, 451, 452, 453, 454, 455 and 456 and local government charters; or
+      (a) Constructive notice may be given as provided in ORS 311.405 and ORS chapters 87, 450, 451, 452, 453, 454, 455 and 456 and local government charters; or
 
       (b) A city may give constructive notice of a governmental lien by maintaining a record of the lien in an electronic medium that is accessible online during the regular business hours of the city.
 
@@ -1157,7 +1203,7 @@ RECORDATION AND ITS EFFECTS
 
       (4) Recording of the satisfaction of a local improvement district assessment or system development charge installment payment contract shall be made in the same location as the original recording, either in the indices maintained under ORS 205.130 or in the lien docket maintained through an electronic medium as provided in this section.
 
-      (5) A city that establishes an electronic lien record as authorized by this section shall record in the County Clerk Lien Record maintained under ORS 205.130 a statement that indicates the date and time at which the electronic lien record takes priority over the County Clerk Lien Record and that describes the methods by which the electronic lien records of the city are made accessible. [1987 c.586 §2a; 1995 c.709 §1; 1997 c.840 §1; 2003 c.576 §229]
+      (5) A city that establishes an electronic lien record as authorized by this section shall record in the County Clerk Lien Record maintained under ORS 205.130 a statement that indicates the date and time at which the electronic lien record takes priority over the County Clerk Lien Record and that describes the methods by which the electronic lien records of the city are made accessible. [1987 c.586 §2a; 1995 c.709 §1; 1997 c.840 §1; 2003 c.576 §229; 2019 c.625 §65]
 
  
 
@@ -1255,15 +1301,15 @@ RECORDATION AND ITS EFFECTS
 
 ______________________________________________________________________________
 
+ 
+
 NOTICE OF PENDENCY
 
 OF AN ACTION
 
- 
-
       Pursuant to ORS 93.740, the undersigned states:
 
-      1.   As plaintiff(s), ____________, has filed an action in the ______ Court for ______                             County, State of Oregon;
+      1.   As plaintiff(s), ____________, has filed an action in the ______ Court for ______                                   County, State of Oregon;
 
       2.   The defendant(s) is/are: ________
 
@@ -1287,13 +1333,11 @@ OF AN ACTION
 
 Dated this _____ day of_________,___.
 
-__________________
+                                                                        __________________
 
-Plaintiff or
+                                                                        Plaintiff or
 
-Plaintiff’s attorney
-
- 
+                                                                        Plaintiff’s attorney
 
 Name: _________________
 
@@ -1303,47 +1347,45 @@ _____________________
 
 _____________________
 
+ 
+
 Phone No.: ________
 
  
 
-STATE OF OREGON       )
+STATE OF OREGON            )
 
-                                            )      ss.
+                                                )           ss.
 
-County of _____                 )
+County of_____                      )
 
  
 
       The foregoing instrument was acknowledged before me this ___ day of______, 2___ by____________.
 
- 
+                                                            __________________
 
-__________________
+                                                                        Notary Public for Oregon
 
-Notary Public for Oregon
-
-My commission expires: _________
+                                                                        My commission expires: _________
 
  
 
-STATE OF OREGON       )
+STATE OF OREGON            )
 
-                                            )      ss.
+                                                )           ss.
 
-County of_____                 )
+County of_____                      )
 
  
 
       The foregoing instrument was acknowledged before me this ___ day of______, 2___ by ____________ of____________, a corporation, on behalf of the corporation.
 
- 
+                                                                        __________________
 
-__________________
+                                                                        Notary Public for Oregon
 
-Notary Public for Oregon
-
-My commission expires: _________
+                                                                        My commission expires: _________
 
 ______________________________________________________________________________ [Amended by 1987 c.586 §24; 1997 c.598 §1]
 
@@ -1441,13 +1483,19 @@ ______________________________________________________________________________ [
 
  
 
-      93.804 Requirement for original signatures for recording; recordation of certified copies; recordation of electronic image of instrument. (1) Except as provided in subsections (2) and (3) of this section, if an instrument presented for recording conveys an interest in real property and is required by law to be acknowledged or proved, a county clerk may not record the instrument unless the instrument contains the original signatures of the persons executing the instrument and the original signature of the officer before whom the acknowledgment was made.
+      93.804 Requirement for original signatures for recording; recordation of certified copies; recordation of electronic image of instrument. (1) As used in this section:
 
-      (2) A county clerk may record a certified copy of an instrument that conveys an interest in real property if a law authorizes recording a certified copy of the instrument and the instrument contains the original certification of the certifying officer.
+      (a) “Instrument” includes an electronic record as defined in ORS 84.004.
 
-      (3) If an instrument that is eligible to be recorded under the laws of this state is presented for recording as an electronic image or by electronic means, a county clerk may record the instrument. If the county clerk records the instrument, the county clerk shall require the person that presents the instrument for recording to certify that the instrument contains the original signatures required under subsection (1) of this section or that the instrument from which the person made the electronic image contains the original signatures required under subsection (1) of this section.
+      (b) “Original certification” or “original signature” includes an electronic signature as defined in ORS 84.004.
 
-      (4) A county clerk may enter into a contract to receive instruments as electronic images or by electronic means with a contractor that presents the instruments for recording on behalf of another person. The contractor or the other person shall certify by electronic means or otherwise that the instrument that the contractor presents for recording, or the instrument from which the electronic image was made, contains the original signatures required under subsection (1) of this section. [1991 c.230 §21; 2011 c.386 §1]
+      (2) Except as provided in subsections (3) and (4) of this section, if an instrument presented for recording conveys an interest in real property and is required by law to be acknowledged or proved, a county clerk may not record the instrument unless the instrument contains the original signatures of the persons executing the instrument and the original signature of the officer before whom the acknowledgment was made.
+
+      (3) A county clerk may record a certified copy of an instrument that conveys an interest in real property if a law authorizes recording a certified copy of the instrument and the instrument contains the original certification of the certifying officer.
+
+      (4) If an instrument that is eligible to be recorded under the laws of this state is presented for recording as an electronic image or by electronic means, a county clerk may record the instrument. If the county clerk records the instrument, the county clerk shall require the person that presents the instrument for recording to certify by electronic means or otherwise that the instrument, or the instrument from which the electronic image was made, contains the original signatures required under subsection (2) of this section.
+
+      (5) A county clerk may enter into a contract to receive instruments as electronic images or by electronic means with a contractor that presents the instruments for recording on behalf of another person. The contractor or the other person shall certify by electronic means or otherwise that the instrument that the contractor presents for recording, or the instrument from which the electronic image was made, contains the original signatures required under subsection (2) of this section. [1991 c.230 §21; 2011 c.386 §1; 2019 c.402 §1]
 
  
 
@@ -2111,8 +2159,6 @@ SIGNATURE OF OWNER OR OWNERS
 
 MAKING THIS DEED
 
- 
-
 Signature: _________
 
 Date: _________
@@ -2213,8 +2259,6 @@ MAKING THIS DEED
 
  
 
- 
-
 Signature: _________
 
 Date: _________
@@ -2269,23 +2313,35 @@ ______________________________________________________________________________ [
 
  
 
-      93.983 Transfer to parent who deserted or neglected transferor. (1) Property that would pass by transfer on death deed under ORS 93.948 to 93.979 from a deceased transferor to a parent of the deceased transferor shall pass and be vested as if the parent had predeceased the transferor if the transferor was an adult when the transferor died and:
+      93.983 Transfer to parent who deserted or neglected transferor. (1) Property that would pass by transfer on death deed under ORS 93.948 to 93.979 from a deceased transferor to a parent of the deceased transferor shall pass and be vested as if the parent had predeceased the transferor if the person who would be benefited by the forfeiture is a child or sibling of the transferor, the transferor was an adult when the transferor died and:
 
-      (a) The parent of the transferor willfully deserted the transferor for the 10-year period immediately preceding the date on which the transferor became an adult; or
+      (a) The parent of the transferor willfully deserted the transferor for the one-year period immediately preceding the date on which the transferor became an adult; or
 
-      (b) The parent neglected without just and sufficient cause to provide proper care and maintenance for the transferor for the 10-year period immediately preceding the date on which the transferor became an adult.
+      (b) The parent neglected without just and sufficient cause to provide proper care and maintenance for the transferor for the one-year period immediately preceding the date on which the transferor became an adult.
 
-      (2) Property that would pass by transfer on death deed under ORS 93.948 to 93.979 from the deceased transferor to a parent of the deceased transferor shall pass and be vested as if the parent had predeceased the transferor if the transferor was a minor when the transferor died and:
+      (2) Property that would pass by transfer on death deed under ORS 93.948 to 93.979 from a deceased transferor to a parent of the deceased transferor shall pass and be vested as if the parent had predeceased the transferor if the person who would be benefited by the forfeiture is not a child or sibling of the transferor, the transferor was an adult when the transferor died and:
 
-      (a) The parent of the transferor willfully deserted the transferor for the life of the transferor or for the 10-year period immediately preceding the date on which the transferor died; or
+      (a) The parent of the transferor willfully deserted the transferor for the three-year period immediately preceding the date on which the transferor became an adult; or
 
-      (b) The parent neglected without just and sufficient cause to provide proper care and maintenance for the transferor for the life of the transferor or for the 10-year period immediately preceding the date on which the transferor died.
+      (b) The parent neglected without just and sufficient cause to provide proper care and maintenance for the transferor for the three-year period immediately preceding the date on which the transferor became an adult.
 
-      (3) For the purposes of subsections (1) and (2) of this section, the court may disregard incidental visitations, communications and contributions in determining whether a parent willfully deserted the deceased transferor or neglected without just and sufficient cause to provide proper care and maintenance for the transferor.
+      (3) Property that would pass by transfer on death deed under ORS 93.948 to 93.979 from the deceased transferor to a parent of the deceased transferor shall pass and be vested as if the parent had predeceased the transferor if the person who would be benefited by the forfeiture is a child or sibling of the transferor, the transferor was a minor when the transferor died and:
 
-      (4) For the purposes of subsections (1) and (2) of this section, in determining whether the parent willfully deserted the deceased transferor or neglected without just and sufficient cause to provide proper care and maintenance for the deceased transferor, the court may consider whether a custodial parent or other custodian attempted, without good cause, to prevent or to impede contact between the transferor and the parent whose transfer would be forfeited under this section.
+      (a) The parent of the transferor willfully deserted the transferor for the life of the transferor or for the one-year period immediately preceding the date on which the transferor died; or
 
-      (5) The transfer of property, as defined in ORS 93.949, to a parent of a deceased transferor may be forfeited under this section only pursuant to an order of the court entered after the filing of a petition under ORS 93.985. A petition filed under ORS 113.035 may not request the forfeiture of a transfer by a transfer on death deed of a parent of a deceased transferor under this section. [2011 c.212 §20]
+      (b) The parent neglected without just and sufficient cause to provide proper care and maintenance for the transferor for the life of the transferor or for the one-year period immediately preceding the date on which the transferor died.
+
+      (4) Property that would pass by transfer on death deed under ORS 93.948 to 93.979 from the deceased transferor to a parent of the deceased transferor shall pass and be vested as if the parent had predeceased the transferor if the person who would be benefited by the forfeiture is not a child or sibling of the transferor, the transferor was a minor when the transferor died and:
+
+      (a) The parent of the transferor willfully deserted the transferor for the life of the transferor or for the three-year period immediately preceding the date on which the transferor died; or
+
+      (b) The parent neglected without just and sufficient cause to provide proper care and maintenance for the transferor for the life of the transferor or for the three-year period immediately preceding the date on which the transferor died.
+
+      (5) For the purposes of subsections (1) to (4) of this section, the court may disregard incidental visitations, communications and contributions in determining whether a parent willfully deserted the deceased transferor or neglected without just and sufficient cause to provide proper care and maintenance for the transferor.
+
+      (6) For the purposes of subsections (1) to (4) of this section, in determining whether the parent willfully deserted the deceased transferor or neglected without just and sufficient cause to provide proper care and maintenance for the deceased transferor, the court may consider whether a custodial parent or other custodian attempted, without good cause, to prevent or to impede contact between the transferor and the parent whose transfer would be forfeited under this section.
+
+      (7) The transfer of property, as defined in ORS 93.949, to a parent of a deceased transferor may be forfeited under this section only pursuant to an order of the court entered after the filing of a petition under ORS 93.985. A petition filed under ORS 113.035 may not request the forfeiture of a transfer by a transfer on death deed of a parent of a deceased transferor under this section. [2011 c.212 §20; 2019 c.461 §6]
 
  
 
@@ -2293,15 +2349,23 @@ ______________________________________________________________________________ [
 
  
 
-      93.985 Forfeiture of transfer by parent who deserted or neglected transferor. (1) A petition may be filed in probate proceedings to assert that the interest in property, as defined in ORS 93.949, transferred by a transfer on death deed to a parent of a deceased transferor is subject to forfeiture under ORS 112.047. A petition may be filed under this section only by a person who would be benefited by a forfeiture of the parent’s share.
+      93.985 Forfeiture of transfer by parent who deserted or neglected transferor. (1) A petition may be filed in probate proceedings to assert that the interest in property, as defined in ORS 93.949, transferred by a transfer on death deed to a parent of a deceased transferor is subject to forfeiture under ORS 93.983. A petition may be filed under this section only by a person who would be benefited by a forfeiture of the parent’s share.
 
       (2) A petition under this section must be filed not later than:
 
       (a) Four months after the date of delivery or mailing of the information described in ORS 113.145 if that information was required to be delivered or mailed to the person on whose behalf the petition is filed; or
 
-      (b) Four months after the first publication of notice to interested persons if the person on whose behalf the petition is filed was not required to be named as an interested person in the petition for appointment of a personal representative.
+      (b) If the person on whose behalf the petition is filed was not required to be named as an interested person in the petition for appointment of a personal representative:
 
-      (3) The petitioner has the burden of proving the facts alleged in a petition filed under this section by clear and convincing evidence. [2011 c.212 §21]
+      (A) Four months after the first publication of notice to interested persons; or
+
+      (B) If notice to interested persons was not published, one year after the decedent’s date of death.
+
+      (3) The petitioner has the burden of proving the facts alleged in a petition filed under this section by:
+
+      (a) If the petitioner is a child or sibling of the transferor, a preponderance of evidence; or
+
+      (b) If the petitioner is not a child or sibling of the transferor, clear and convincing evidence. [2011 c.212 §21; 2019 c.461 §7]
 
  
 

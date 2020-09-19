@@ -4,20 +4,6 @@ Chapter 307 — Property Subject to Taxation; Exemptions
 
  
 
-ORS sections in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of ORS sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-Uncodified sections printed in this chapter were amended or repealed by the Legislative Assembly during its 2018 regular session. See the table of uncodified sections amended or repealed during the 2018 regular session: 2018 A&R Tables
-
- 
-
-New sections of law were enacted by the Legislative Assembly during its 2018 regular session and pertain to or are likely to be compiled in this ORS chapter. See sections in the following 2018 Oregon Laws chapters: 2018 Session Laws 0064; 2018 Session Laws 0111
-
- 
-
- 
-
 
  
 
@@ -35,11 +21,15 @@ GENERAL PROVISIONS
 
  
 
-307.010     Definition of “real property” and “land”; timber and mineral interests in real property
+307.010     Definitions of “land” and “real property” for state property tax laws; timber and mineral interests
 
  
 
-307.020     Definition of “personal property”; inapplicability to certain persons
+307.020     Definitions of “intangible personal property” and “tangible personal property” for state property tax laws; inapplicability to centrally assessed persons
+
+ 
+
+307.021     Definition of “manufactured structure” for ORS chapters 305, 307, 308, 310 and 311
 
  
 
@@ -172,6 +162,10 @@ EXEMPTIONS
  
 
 307.157     Cemetery or crematory land acquired by eleemosynary or charitable institution; potential additional taxes
+
+ 
+
+307.158     Continued exemption for former cemetery or crematory land used for exempt low income housing; application; disqualification; additional taxes
 
  
 
@@ -373,8 +367,6 @@ EXEMPTIONS
 
 307.325     Agricultural products in possession of farmer
 
- 
-
 (Commercial Facilities Under Construction)
 
  
@@ -483,15 +475,19 @@ EXEMPTIONS
 
  
 
-307.453     Findings
+307.453     Findings for food processing machinery and equipment exemption
 
  
 
-307.455     Definitions; application for exemption; exemption; limitations
+307.455     Definitions for ORS 307.453 to 307.459; application; exemption; limitations
 
  
 
 307.457     Certification of eligibility of machinery and equipment; fees
+
+ 
+
+307.458     Local option to reduce exemption; delayed operative date of reduction; grandfathering; reversal; notice; minimum term
 
  
 
@@ -644,6 +640,10 @@ EXEMPTIONS
  
 
 307.548     Termination of exemption; additional taxes
+
+ 
+
+(Temporary provisions relating to exemption of property used in local home share program are compiled as notes following ORS 307.548)
 
  
 
@@ -871,6 +871,50 @@ EXEMPTIONS
 
  
 
+(Heavy Equipment Rental Tax)
+
+ 
+
+307.870     Definitions for ORS 307.870 to 307.890
+
+ 
+
+307.872     Heavy equipment rental tax; exemption from property tax; no maximum term; rulemaking authority
+
+ 
+
+307.875     Heavy equipment provider registration; records and statements; rules
+
+ 
+
+307.878     Collection of tax; quarterly returns; remittance of tax
+
+ 
+
+307.880     Refunds
+
+ 
+
+307.883     Taxes held in trust; warrant for delinquent taxes
+
+ 
+
+307.885     Applicability of other provisions of tax law
+
+ 
+
+307.888     Distribution of moneys received; certain information not confidential
+
+ 
+
+307.890     Exemption from disclosure; statutory conflict resolution
+
+ 
+
+(Temporary provisions relating to revenue neutrality of heavy equipment rental tax are compiled as notes following ORS 307.890)
+
+ 
+
 PENALTIES
 
  
@@ -883,7 +927,7 @@ GENERAL PROVISIONS
 
  
 
-      307.010 Definition of “real property” and “land”; timber and mineral interests in real property. (1) As used in the property tax laws of this state:
+      307.010 Definitions of “land” and “real property” for state property tax laws; timber and mineral interests. (1) As used in the property tax laws of this state:
 
       (a) “Land” means land in its natural state. For purposes of assessment of property subject to assessment at assessed value under ORS 308.146, land includes any site development made to the land. As used in this paragraph, “site development” includes fill, grading, leveling, underground utilities, underground utility connections and any other elements identified by rule of the Department of Revenue.
 
@@ -907,7 +951,7 @@ GENERAL PROVISIONS
 
  
 
-      307.020 Definition of “personal property”; inapplicability to certain persons. (1) As used in the property tax laws of this state, unless otherwise specifically provided:
+      307.020 Definition of “intangible personal property” and “tangible personal property” for state property tax laws; inapplicability to centrally assessed persons. (1) As used in the property tax laws of this state, unless otherwise specifically provided:
 
       (a) “Intangible personal property” or “intangibles” includes but is not limited to:
 
@@ -933,7 +977,19 @@ GENERAL PROVISIONS
 
       (c) “Tangible personal property” includes but is not limited to all chattels and movables, such as boats and vessels, merchandise and stock in trade, furniture and personal effects, goods, livestock, vehicles, farming implements, movable machinery, movable tools and movable equipment.
 
-      (2) Subsection (1) of this section does not apply to any person, company, corporation or association covered by ORS 308.505 to 308.681. [Amended by 1959 c.82 §1; 1977 c.602 §1; 1993 c.353 §1; 1997 c.154 §27; 2005 c.94 §30]
+      (2) Subsection (1) of this section does not apply to any person, company, corporation or association covered by ORS 308.505 to 308.674. [Amended by 1959 c.82 §1; 1977 c.602 §1; 1993 c.353 §1; 1997 c.154 §27; 2005 c.94 §30]
+
+ 
+
+      307.021 Definition of “manufactured structure” for ORS chapters 305, 307, 308, 310 and 311. As used in this chapter and ORS chapters 305, 308, 310 and 311, “manufactured structure” means:
+
+      (1) A manufactured dwelling as defined in ORS 446.003;
+
+      (2) A structure that would meet the definition of “manufactured dwelling” in ORS 446.003 except that the structure is being used for other than residential purposes;
+
+      (3) A prefabricated structure, as defined in ORS 455.010, that is relocatable and more than eight and one-half feet wide; and
+
+      (4) A recreational vehicle, as defined in ORS 174.101, that is more than eight and one-half feet wide. [2019 c.585 §15; 2019 c.585 §15a]
 
  
 
@@ -949,7 +1005,7 @@ GENERAL PROVISIONS
 
       307.030 Property subject to assessment generally. (1) All real property within this state and all tangible personal property situated within this state, except as otherwise provided by law, shall be subject to assessment and taxation in equal and ratable proportion.
 
-      (2) Except as provided in ORS 308.505 to 308.681, intangible personal property is not subject to assessment and taxation. [Amended by 1993 c.353 §2; 1997 c.154 §28]
+      (2) Except as provided in ORS 308.505 to 308.674, intangible personal property is not subject to assessment and taxation. [Amended by 1993 c.353 §2; 1997 c.154 §28]
 
  
 
@@ -1001,7 +1057,7 @@ EXEMPTIONS
 
       (2) Except as provided in ORS 307.050, 307.060, 307.070 and 307.080, all property of the United States, its agencies or instrumentalities, is exempt from taxation to the extent that taxation of the property is forbidden by law.
 
-      (3) Notwithstanding ORS 308.505 to 308.681, for purposes of this section, property the title to which is held by a person other than the United States and that is leased to the United States under a lease or lease-purchase agreement is property of the United States if:
+      (3) Notwithstanding ORS 308.505 to 308.674, for purposes of this section, property the title to which is held by a person other than the United States and that is leased to the United States under a lease or lease-purchase agreement is property of the United States if:
 
       (a) The property is operated or used in furtherance of a statutory responsibility of the United States with respect to a high-voltage electricity transmission system that the United States owns and operates within the Pacific Northwest;
 
@@ -1077,7 +1133,7 @@ EXEMPTIONS
 
       (2) The exemption under this section applies to all property used for the project, real and personal, tangible and intangible.
 
-      (3) Notwithstanding ORS 307.110 or 308.505 to 308.681 or any other provision of state law, property that is exempt under this section is not disqualified from exemption if a person other than the owner:
+      (3) Notwithstanding ORS 307.110 or 308.505 to 308.674 or any other provision of state law, property that is exempt under this section is not disqualified from exemption if a person other than the owner:
 
       (a) Holds a lease, sublease or other interest in the exempt property; or
 
@@ -1411,100 +1467,6 @@ EXEMPTIONS
 
       (a) “Art museum” means a nonprofit corporation organized to display works of art to the public.
 
-      (b) “History museum or science museum” means a nonprofit corporation organized to display historical or scientific exhibits, or both, to the public.
-
-      (c) “Nonprofit corporation” means a corporation that:
-
-      (A) Is organized not for profit, pursuant to ORS chapter 65 or any predecessor of ORS chapter 65; or
-
-      (B) Is organized and operated as described under section 501(c) of the Internal Revenue Code as defined in ORS 305.842.
-
-      (d) “Rehabilitation facility” means a facility defined in ORS 344.710 or a facility that provides individuals who have physical, mental or emotional disabilities with occupational rehabilitation activities of an educational or therapeutic nature, even if remuneration is received by the individual.
-
-      (e) “Volunteer fire department” means a nonprofit corporation organized to provide fire protection services in a specific response area.
-
-      (f) “Welfare program” means a program to provide food, shelter, clothing or health care, including dental service, to needy persons without charge.
-
-      (2) Upon compliance with ORS 307.162, the following property owned or being purchased by art museums, volunteer fire departments, or incorporated literary, benevolent, charitable and scientific institutions shall be exempt from taxation:
-
-      (a) Except as provided in ORS 748.414, only real or personal property, or a proportion of the property, that is actually and exclusively occupied or used in the literary, benevolent, charitable or scientific work carried on by such institutions.
-
-      (b) Parking lots used for parking or any other use as long as that parking or other use is permitted without charge for no fewer than 355 days during the tax year.
-
-      (c) All real or personal property of a rehabilitation facility or any retail outlet of the facility, including inventory.
-
-      (d) All real and personal property of a retail store dealing exclusively in donated inventory, if the inventory is distributed without cost as part of a welfare program or where the proceeds of the sale of any inventory sold to the general public are used to support a welfare program.
-
-      (e) All real and personal property of a retail store if:
-
-      (A) The retail store deals on a regular basis in inventory at least one-half of which is donated and consigned;
-
-      (B) The individuals who operate the retail store are all individuals who work as volunteers; and
-
-      (C) The inventory is either distributed without charge as part of a welfare program, or sold to the general public and the sales proceeds used exclusively to support a welfare program.
-
-      (f) The real and personal property of an art museum that is used in conjunction with the public display of works of art or used to educate the public about art, but not including any portion of the art museum’s real or personal property that is used to sell, or hold out for sale, works of art, reproductions of works of art or other items to be sold to the public.
-
-      (g) All real and personal property of a volunteer fire department that is used in conjunction with services and activities for providing fire protection to all residents within a fire response area.
-
-      (h) All real and personal property, including inventory, of a retail store owned by a nonprofit corporation if:
-
-      (A) The retail store deals exclusively in donated inventory; and
-
-      (B) Proceeds of the retail store sales are used to support a not-for-profit housing program whose purpose is to:
-
-      (i) Acquire property and construct housing for resale to individuals at or below the cost of acquisition and construction; and
-
-      (ii) Provide loans bearing no interest to individuals purchasing housing through the program.
-
-      (i) All real and personal property, including inventory, of a retail store owned by a nonprofit corporation if:
-
-      (A) The retail store deals exclusively in donated inventory;
-
-      (B) The retail store operates with substantial support from volunteers; and
-
-      (C) All net proceeds of the retail store sales are donated:
-
-      (i) To a nonprofit corporation that provides animal rescue services;
-
-      (ii) To a manufacturer or provider of goods or services in return for which an entity described in sub-subparagraph (i) of this subparagraph receives an equivalent value of goods or services from the manufacturer or provider;
-
-      (iii) To an entity that provides spaying and neutering services for pets of individuals residing in households with an annual household income at or below 80 percent of the area median income; or
-
-      (iv) For the purpose of aiding domesticated animals, regardless of whether the animals are in the custody of the county shelter, in furtherance of the purpose for which the nonprofit corporation was organized.
-
-      (3)(a) Upon compliance with ORS 307.162, real and personal property owned or leased by a history museum or science museum shall be exempt from property taxes if the property:
-
-      (A) Is used to fulfill the mission of the museum as provided in the articles of incorporation and bylaws of the museum; and
-
-      (B) Is used or occupied for one or more of the following purposes:
-
-      (i) As a food service facility or concession stand selling food and refreshments to museum visitors, volunteers or staff within the museum buildings or on museum grounds.
-
-      (ii) As a retail store selling inventory, at least 90 percent of which is museum-related, within the museum buildings or on museum grounds.
-
-      (iii) As a parking lot, the use of which is permitted without charge for not fewer than 355 days during the property tax year, for museum visitors, volunteers or staff employed by the museum.
-
-      (iv) As a theater located in a museum building showing entertainment or educational features, at least 75 percent of which are museum-related.
-
-      (v) As unimproved land that is not specially assessed and that is contiguous with the land on which the museum is situated.
-
-      (vi) For displays, storage areas, educational classrooms or meeting areas.
-
-      (b) The exemption granted under this subsection does not apply to property used or occupied as a hotel, water park or chapel or for any commercial enterprise.
-
-      (4) An art museum or institution shall not be deprived of an exemption under this section solely because its primary source of funding is from one or more governmental entities.
-
-      (5) An institution shall not be deprived of an exemption under this section because its purpose or the use of its property is not limited to relieving pain, alleviating disease or removing constraints. [Amended by 1955 c.576 §1; 1959 c.207 §1; 1969 c.342 §1; 1971 c.605 §1; 1974 c.52 §3; 1979 c.688 §1; 1987 c.391 §1; 1987 c.490 §49; 1989 c.224 §50; 1991 c.93 §4; 1993 c.655 §3; 1995 c.470 §4; 1997 c.599 §1; 1999 c.90 §31; 1999 c.773 §1; 2001 c.660 §26; 2003 c.77 §4; 2005 c.832 §16; 2007 c.70 §75; 2007 c.614 §4a; 2007 c.694 §1; 2008 c.45 §4; 2009 c.5 §14; 2009 c.909 §14; 2010 c.82 §14; 2011 c.7 §14; 2012 c.31 §14; 2013 c.377 §14; 2014 c.52 §16; 2015 c.701 §46; 2017 c.686 §1]
-
- 
-
-      Note: The amendments to 307.130 by section 48, chapter 701, Oregon Laws 2015, apply to property tax years beginning on or after July 1, 2019. See section 49, chapter 701, Oregon Laws 2015. The text that applies to property tax years beginning on or after July 1, 2019, including amendments by section 2, chapter 686, Oregon Laws 2017, is set forth for the user’s convenience.
-
-      307.130. (1) As used in this section:
-
-      (a) “Art museum” means a nonprofit corporation organized to display works of art to the public.
-
       (b) “Nonprofit corporation” means a corporation that:
 
       (A) Is organized not for profit, pursuant to ORS chapter 65 or any predecessor of ORS chapter 65; or
@@ -1567,7 +1529,7 @@ EXEMPTIONS
 
       (3) An art museum or institution shall not be deprived of an exemption under this section solely because its primary source of funding is from one or more governmental entities.
 
-      (4) An institution shall not be deprived of an exemption under this section because its purpose or the use of its property is not limited to relieving pain, alleviating disease or removing constraints.
+      (4) An institution shall not be deprived of an exemption under this section because its purpose or the use of its property is not limited to relieving pain, alleviating disease or removing constraints. [Amended by 1955 c.576 §1; 1959 c.207 §1; 1969 c.342 §1; 1971 c.605 §1; 1974 c.52 §3; 1979 c.688 §1; 1987 c.391 §1; 1987 c.490 §49; 1989 c.224 §50; 1991 c.93 §4; 1993 c.655 §3; 1995 c.470 §4; 1997 c.599 §1; 1999 c.90 §31; 1999 c.773 §1; 2001 c.660 §26; 2003 c.77 §4; 2005 c.832 §16; 2007 c.70 §75; 2007 c.614 §4a; 2007 c.694 §1; 2008 c.45 §4; 2009 c.5 §14; 2009 c.909 §14; 2010 c.82 §14; 2011 c.7 §14; 2012 c.31 §14; 2013 c.377 §14; 2014 c.52 §16; 2015 c.701 §§46,48; 2017 c.686 §§1,2]
 
  
 
@@ -1722,6 +1684,52 @@ EXEMPTIONS
       Note: Section 5, chapter 422, Oregon Laws 2001, provides:
 
       Sec. 5. Section 4 of this 2001 Act [307.157] applies to property owned or being purchased by an incorporated eleemosynary or charitable institution on or after January 1, 2001, and before January 1, 2011, and to property tax years beginning on or after July 1, 2001, and before July 1, 2021. [2001 c.422 §5]
+
+ 
+
+      307.158 Continued exemption for former cemetery or crematory land used for exempt low income housing; application; disqualification; additional taxes. (1) Notwithstanding ORS 92.095, 307.155 and 311.411, if land that is exempt under ORS 307.150 ceases to be used or held exclusively for cemetery or crematory purposes, the additional taxes that would otherwise be due under ORS 307.155 (2) shall remain a potential tax liability that is not imposed if:
+
+      (a) As of the date of sale or other transfer of title to the land, the land is being used or held for the purpose of providing low income housing that will be exempt from ad valorem property taxation under ORS 307.515 to 307.523 or 307.540 to 307.548; and
+
+      (b) All other requirements set forth in subsections (2) to (5) of this section are met.
+
+      (2) At the time of recording the deed to the land with the county clerk, the owner of the land shall file with the assessor of the county, and the governing body of the city or county that adopted the low income housing exemption, as applicable, in which the land is located a notice of intent:
+
+      (a) To apply for the exemption for low income housing under ORS 307.515 to 307.523 or 307.540 to 307.548 on the land; and
+
+      (b) To benefit from the provisions of this section.
+
+      (3)(a) The owner of the land must file the application for exemption, as applicable:
+
+      (A) Under ORS 307.521, no later than the deadlines set forth in ORS 307.523 that first occur after the date on which the owner recorded the deed to the land; or
+
+      (B) Under ORS 307.545, no later than the deadlines set forth in that section that first occur after the date on which the owner recorded the deed to the land.
+
+      (b) If the governing body to which the owner applies denies the application, the additional taxes described in ORS 307.155 (2) become due on the land.
+
+      (4) If the land is held for the purpose of developing low income housing for a period exceeding the reasonable maximum period, if any, adopted by the governing body of the city or county under ORS 307.517, 307.518 or 307.541, as applicable to the exemption granted for the land, the additional taxes described in ORS 307.155 (2) become due on the land.
+
+      (5)(a) If the land is not used to provide low income housing that is exempt under ORS 307.515 to 307.523 or 307.540 to 307.548 for at least 10 consecutive property tax years, the additional taxes described in ORS 307.155 (2) become due on the land. Any period for which the land is held for the purpose of developing low income housing on the land does not count toward the 10 consecutive property tax years.
+
+      (b) After the land has been used to provide low income housing that is exempt under ORS 307.515 to 307.523 or 307.540 to 307.548 for at least 10 consecutive property tax years, the potential tax liability of the land for the additional taxes described in ORS 307.155 (2) shall end.
+
+      (6) Additional taxes that become due on the land under this section:
+
+      (a) Shall be added to the next general property tax roll, to be collected and distributed in the same manner as other real property taxes.
+
+      (b) Are in addition to any additional taxes or other charges that become due upon disqualification of property exempt under ORS 307.515 to 307.523 or 307.540 to 307.548.
+
+      (7) The lien for additional taxes that become due under this section, and the interest on the additional taxes, shall attach as of July 1 of the property tax year in which the additional taxes become due under this section.
+
+      (8) For each year that the additional taxes described in ORS 307.155 (2) remain a potential tax liability that is not imposed under this section, the assessor shall enter on the assessment and tax roll, with respect to the land, the notation “(potential additional tax).”
+
+      (9) The amount of additional taxes determined to be due under this section may be paid to the tax collector prior to the completion of the next general property tax roll, pursuant to ORS 311.370.
+
+      (10) Additional taxes collected under this section shall be deemed to have been imposed in the year to which the additional taxes relate. [2018 c.111 §9]
+
+ 
+
+      Note: 307.158 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 307 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
 
@@ -1891,7 +1899,7 @@ EXEMPTIONS
 
       (b) Primarily designed to offset onsite electricity use.
 
-      (3) Notwithstanding ORS 307.110 and 308.505 to 308.681, any portion of the real property to which an alternative energy system is affixed is exempt under this section if:
+      (3) Notwithstanding ORS 307.110 and 308.505 to 308.674, any portion of the real property to which an alternative energy system is affixed is exempt under this section if:
 
       (a) The real property is otherwise exempt from ad valorem property taxation; and
 
@@ -1925,21 +1933,15 @@ EXEMPTIONS
 
       (2) The fee in lieu of property taxes shall be computed at the rate of $7,000 per megawatt of nameplate capacity of the solar project for each property tax year. Megawatt of nameplate capacity shall be carried to the third decimal place.
 
-      (3)(a) On or before December 31 preceding the first property tax year to which an agreement entered into under this section relates, the owner or person in possession or control of the solar project shall file with the county assessor a copy of the agreement and a request for computation of the fee in lieu of property taxes for the property constituting the solar project. The request must include any information required by the assessor to compute the fee.
+      (3)(a) On or before December 31 preceding the first property tax year to which an agreement entered into under this section relates, the owner or person in possession or control of the solar project shall file with the assessor of the county in which the solar project is located and the Department of Revenue a copy of the agreement and the nameplate capacity of the solar project.
 
-      (b) On or before December 31 preceding each subsequent property tax year to which an agreement entered into under this section relates, the owner or person in possession or control of the solar project shall file with the county assessor a request for computation of the fee in lieu of property taxes for the property constituting the solar project. If the identity of the owner or person in possession or control, or the nameplate capacity, of the solar project has changed, the request for computation of the fee must include the new information.
+      (b) For each subsequent property tax year to which the agreement relates, the owner or person in possession or control of the solar project shall include with the statement required under ORS 308.520 [renumbered 308.524] the nameplate capacity of the solar project.
 
-      (c) A request for computation that is not filed on or before December 31 must be accompanied by a late fee of $200.
+      (c) A filing made under paragraph (a) of this subsection after December 31 must be accompanied by a late fee of $200. A filing may not be made after March 1 preceding the property tax year to which the filing relates.
 
-      (4)(a) On or before February 1 of each year to which the agreement relates, the county assessor shall compute the fee in lieu of property taxes for the property constituting the solar project and shall notify the owner or person in possession or control:
+      (4)(a) For each property tax year to which an agreement relates, the department, when certifying and transmitting the assessment roll to the county assessors under ORS 308.505 to 308.681 [series became 308.505 to 308.674], shall provide the nameplate capacity of each solar project paying the fee in lieu of property taxes to each assessor of a county in which a solar project is located.
 
-      (A) That the fee in lieu of property taxes must be paid to the county treasurer on or before March 1; and
-
-      (B) Of the amount due and of the consequences of late payment or nonpayment.
-
-      (b) Notwithstanding paragraph (a) of this subsection, payment of the fee in lieu of property taxes is not due until after the notice required under paragraph (a) of this subsection has been sent.
-
-      (c) On or before July 15 of each year, the county treasurer shall distribute fee revenue collected under this section to each taxing district in which a solar project is located on the basis of the ratio that the taxing district’s total rate of ad valorem property taxes, excluding the rates of taxes imposed to repay bonded indebtedness, bears to the total rate of ad valorem property taxes, excluding the rates of taxes imposed to repay bonded indebtedness, imposed by all taxing districts in which the solar project is located.
+      (b) As required under ORS 311.255, the county assessors shall extend upon the tax roll against all property constituting a solar project located in the respective counties all fees in lieu of property taxes for the property tax year. The fees shall be distributed pursuant to the percentage schedules prepared under ORS 311.390.
 
       (5)(a) If the owner or person in possession or control of a solar project that has entered into an agreement under this section fails to pay the fee as required under this section, the property constituting the solar project is not exempt for the following property tax year and shall be assessed and taxed as other similar property is assessed and taxed.
 
@@ -1951,11 +1953,11 @@ EXEMPTIONS
 
       (A) Be assessed and taxed as other similar property is assessed and taxed.
 
-      (B) In addition, be assessed a penalty in an amount equal to one year of the fee in lieu of property taxes for the property. The penalty assessed under this subparagraph shall be distributed in the manner described in subsection (4)(c) of this section.
+      (B) In addition, be assessed a penalty in an amount equal to one year of the fee in lieu of property taxes for the property. The penalty assessed under this subparagraph shall be distributed in the manner described in subsection (4)(b) of this section.
 
       (7)(a) Property constituting a solar project that has received an exemption under ORS 285C.350 to 285C.370 or 307.123 for any property tax year is not eligible to pay a fee in lieu of property taxes under this section.
 
-      (b) Paragraph (a) of this subsection does not apply to property constituting a solar project that was the subject of an application filed pursuant to ORS 285C.350 to 285C.370 if the property did not receive the exemption for any property tax year. The election to pay the fee in lieu of property taxes for property described in this paragraph is not a disqualifying event. [2015 c.571 §1]
+      (b) Paragraph (a) of this subsection does not apply to property constituting a solar project that was the subject of an application filed pursuant to ORS 285C.350 to 285C.370 if the property did not receive the exemption for any property tax year. The election to pay the fee in lieu of property taxes for property described in this paragraph is not a disqualifying event. [2015 c.571 §1; 2019 c.628 §1]
 
       Sec. 2. Section 1 of this 2015 Act applies to property tax years beginning on or after July 1, 2016. [2015 c.571 §2]
 
@@ -1999,7 +2001,7 @@ EXEMPTIONS
 
       (b) Notwithstanding paragraph (a) of this subsection, property is not eligible for an exemption or partial exemption pursuant to this section if, at the time an application for the property is filed under section 2 of this 2017 Act, the property is:
 
-      (A) Subject to assessment under ORS 308.505 to 308.681; or
+      (A) Subject to assessment under ORS 308.505 to 308.681 [series became 308.505 to 308.674]; or
 
       (B) State-appraised industrial property as defined in ORS 306.126.
 
@@ -2141,7 +2143,7 @@ EXEMPTIONS
 
       (B) An individual member of a federally recognized Indian tribe.
 
-      (b) The exemption granted under this subsection does not apply to property assessable under ORS 308.505 to 308.681.
+      (b) The exemption granted under this subsection does not apply to property assessable under ORS 308.505 to 308.674.
 
       (3)(a) Notwithstanding subsection (1) of this section, property that is owned exclusively by an eligible Indian tribe or by an entity wholly owned by an eligible Indian tribe, or a portion of the property, is exempt from taxation if the property, or the portion of the property, respectively, is used exclusively for government services.
 
@@ -2271,7 +2273,7 @@ EXEMPTIONS
 
       (c) Floating homes or boathouses, as defined in ORS 830.700.
 
-      (d) Manufactured structures as defined in ORS 446.561. [Amended by 1953 c.698 §7; 1969 c.648 §1; 1977 c.615 §2; 1985 c.614 §1; 1987 c.601 §5; 2003 c.655 §63]
+      (d) Manufactured structures. [Amended by 1953 c.698 §7; 1969 c.648 §1; 1977 c.615 §2; 1985 c.614 §1; 1987 c.601 §5; 2003 c.655 §63; 2019 c.585 §21]
 
  
 
@@ -2611,6 +2613,12 @@ EXEMPTIONS
 
  
 
+      Note: Section 1, chapter 578, Oregon Laws 2019, provides:
+
+      Sec. 1. An exemption may not be granted under an ordinance or resolution adopted pursuant to ORS 307.295 for property tax years beginning on or after July 1, 2025. [2019 c.578 §1]
+
+ 
+
       Note: 307.295 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 307 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -2707,33 +2715,33 @@ EXEMPTIONS
 
       Note: Sections 1 to 7, chapter 112, Oregon Laws 2016, provide:
 
-      Sec. 1. (1) As used in sections 1 to 5 of this 2016 Act:
+      Sec. 1. (1) As used in sections 1 to 5, chapter 112, Oregon Laws 2016:
 
-      (a) “Eligible location” means land and improvements that are located in a rural area.
+      (a) “Eligible location” means land and improvements that are located in a rural area. “Eligible location” includes a location that has not formerly been used for industrial purposes.
 
-      (b) “Eligible property” means improvements classified as industrial under rules established by the Department of Revenue pursuant to ORS 308.215 (1)(a)(C), and associated personal property, that:
+      (b) “Eligible property” means improvements classified as industrial under rules established by the Department of Revenue pursuant to ORS 308.215 (1)(a)(C), and associated personal property, whether appraised by the county or by the Department of Revenue, that:
 
       (A) Are newly constructed or installed at an eligible location; and
 
       (B) Have a cost of initial investment to the purchaser of at least $1 million and not more than $25 million.
 
-      (c) “Qualified property” means eligible property for which an application has been approved under section 2 of this 2016 Act.
+      (c) “Qualified property” means eligible property for which an application has been approved under section 2, chapter 112, Oregon Laws 2016.
 
-      (d) “Rural area” means an area located entirely outside of the urban growth boundary of a city with a population of 40,000 or more, as the urban growth boundary is acknowledged on the date on which an applicant submits an application for eligible property under section 2 of this 2016 Act.
+      (d) “Rural area” means an area located in unincorporated territory, or in a city with a population of less than 40,000, that is located entirely outside of the urban growth boundaries of any and all cities with populations of 40,000 or more, as the urban growth boundaries are acknowledged on the date on which an applicant submits an application for eligible property under section 2, chapter 112, Oregon Laws 2016.
 
       (2)(a) The governing body of a city or county may adopt an ordinance or resolution granting a property tax exemption for eligible property located within the boundaries of the city or county, respectively.
 
-      (b) The terms of the exemption must conform to the provisions of sections 1 to 5 of this 2016 Act. In addition, an ordinance or resolution adopted under this subsection shall establish standards for the imposition of conditions described in section 2 (4) of this 2016 Act.
+      (b) The terms of the exemption must conform to the provisions of sections 1 to 5, chapter 112, Oregon Laws 2016. In addition, an ordinance or resolution adopted under this subsection shall establish standards for the imposition of conditions described in section 2 (4), chapter 112, Oregon Laws 2016.
 
       (3)(a) Qualified property must be:
 
-      (A) Owned or leased by the applicant filing the application under section 2 of this 2016 Act.
+      (A) Owned or leased by the applicant filing the application under section 2, chapter 112, Oregon Laws 2016.
 
-      (B) Used through the final year of exemption for the purpose, and at the location, identified in the application filed under section 2 of this 2016 Act.
+      (B) Used through the final year of exemption for the purpose, and at the location, identified in the application filed under section 2, chapter 112, Oregon Laws 2016.
 
       (b) The exemption:
 
-      (A) May be granted to eligible property only if the first assessment year to which the application filed under section 2 of this 2016 Act relates is the first assessment year that begins after the eligible property was first placed in service; and
+      (A) May be granted to eligible property only if the first assessment year to which the application filed under section 2, chapter 112, Oregon Laws 2016, relates is the first assessment year that begins after the eligible property was first placed in service; and
 
       (B) Shall be granted only for qualified property that was first placed in service after the ordinance or resolution was adopted.
 
@@ -2755,19 +2763,19 @@ EXEMPTIONS
 
       (c) The decisions of the taxing districts under paragraph (a) of this subsection may not be changed but are not binding with respect to an ordinance or resolution adopted pursuant to subsection (6) of this section or a new ordinance or resolution adopted pursuant to subsection (2) of this section.
 
-      (d) All qualified property shall be granted exemption under this section, or deferral under section 3 of this 2016 Act, on the same terms provided in the ordinance or resolution adopted or amended by the city or county and in effect on the date the application is submitted under section 2 of this 2016 Act.
+      (d) All qualified property shall be granted exemption under this section, or deferral under section 3, chapter 112, Oregon Laws 2016, on the same terms provided in the ordinance or resolution adopted or amended by the city or county and in effect on the date the application is submitted under section 2, chapter 112, Oregon Laws 2016.
 
-      (6)(a) A city or county may adopt at any time an ordinance or resolution amending the terms of an exemption granted pursuant to this section or a deferral granted pursuant to section 3 of this 2016 Act, subject to approval of the taxing districts under subsection (5)(a) of this section, or terminating the exemption or deferral.
+      (6)(a) A city or county may adopt at any time an ordinance or resolution amending the terms of an exemption granted pursuant to this section or a deferral granted pursuant to section 3, chapter 112, Oregon Laws 2016, subject to approval of the taxing districts under subsection (5)(a) of this section, or terminating the exemption or deferral.
 
-      (b) Notwithstanding an ordinance or resolution adopted under paragraph (a) of this subsection, qualified property that has been granted an exemption pursuant to this section, or a deferral pursuant to section 3 of this 2016 Act, shall continue to receive the exemption or deferral under the terms in effect at the time the exemption or deferral was first granted.
+      (b) Notwithstanding an ordinance or resolution adopted under paragraph (a) of this subsection, qualified property that has been granted an exemption pursuant to this section, or a deferral pursuant to section 3, chapter 112, Oregon Laws 2016, shall continue to receive the exemption or deferral under the terms in effect at the time the exemption or deferral was first granted.
 
       (7) If a city or county proposes an ordinance or resolution providing for an exemption on terms other than the terms provided in subsection (4)(a) of this section, the ordinance or resolution may not take effect unless the governing body of the city or county, as applicable, receives testimony from the county assessor at a public hearing on the question regarding the cost and administration of the proposed terms of the exemption.
 
-      (8)(a) Qualified property granted an exemption pursuant to this section, or a deferral pursuant to section 3 of this 2016 Act, is not eligible for any other property tax exemption or special assessment.
+      (8)(a) Qualified property granted an exemption pursuant to this section, or a deferral pursuant to section 3, chapter 112, Oregon Laws 2016, is not eligible for any other property tax exemption or special assessment.
 
       (b) Otherwise eligible property that has received another property tax exemption or special assessment is not eligible for the exemption or deferral.
 
-      (c) Paragraphs (a) and (b) of this subsection do not apply to the exemption granted under ORS 307.330. [2016 c.112 §1]
+      (c) Paragraphs (a) and (b) of this subsection do not apply to the exemption granted under ORS 307.330. [2016 c.112 §1; 2018 c.111 §15]
 
       Sec. 2. (1)(a) The governing body of a city or county that adopts an ordinance or resolution pursuant to section 1 of this 2016 Act shall prescribe exemption application forms and the information required to be included in the application.
 
@@ -2853,17 +2861,17 @@ EXEMPTIONS
 
       Sec. 5. (1) As used in this section:
 
-      (a) “Annual average employment of the applicant” means the average employment of the applicant, calculated over the 12 months preceding the date of the application submitted under section 2 of this 2016 Act.
+      (a) “Annual average employment of the applicant” means the average employment of the applicant, calculated over the 12 months preceding the date of the application submitted under section 2, chapter 112, Oregon Laws 2016.
 
-      (b) “Employment of the applicant” means the number of employees working for the applicant a majority of their time in eligible operations at locations in this state.
+      (b) “Employment of the applicant” means the number of employees working for the applicant a majority of their time in eligible operations at a location for which the applicant has submitted an application under section 2, chapter 112, Oregon Laws 2016.
 
       (c) “First-source hiring agreement” means an agreement between an applicant and a publicly funded job training provider whereby the provider refers qualified candidates to the firm for new jobs and job openings in the firm.
 
-      (2) An application for exemption may not be approved under section 2 of this 2016 Act unless the applicant and the governing body of the city or county have agreed to, and the applicant has complied with, the conditions of this section.
+      (2) An application for exemption may not be approved under section 2, chapter 112, Oregon Laws 2016, unless the applicant and the governing body of the city or county have agreed to, and the applicant has complied with, the conditions of this section.
 
       (3) The applicant must agree to enter into a first-source hiring agreement with the governing body of the city or county for the period of the exemption.
 
-      (4) No later than the date on which the application is submitted, the employment of the applicant may not be less than the greater of:
+      (4) As of a date certain agreed upon by the applicant and the governing body of the city or county, as applicable, but in no event later than the end of the first property tax year for which the exemption is granted, the employment of the applicant may not be less than the greater of:
 
       (a) 110 percent of the annual average employment of the applicant; or
 
@@ -2879,7 +2887,7 @@ EXEMPTIONS
 
       (8) The governing body of the city or county shall establish procedures for monitoring and verifying the compliance of the applicant with the conditions imposed under this section and shall require the applicant to agree to the procedures as a condition for granting the exemption.
 
-      (9) The conditions established under this subsection shall be set forth in the resolution adopted under section 2 (4) of this 2016 Act and shall remain in effect throughout the period for which the exemption is granted. [2016 c.112 §5]
+      (9) The conditions established under this subsection shall be set forth in the resolution adopted under section 2 (4), chapter 112, Oregon Laws 2016, and shall remain in effect throughout the period for which the exemption is granted. [2016 c.112 §5; 2019 c.575 §1]
 
       Sec. 6. (1) Sections 1 to 5 of this 2016 Act are repealed on January 2, 2024.
 
@@ -3065,7 +3073,7 @@ EXEMPTIONS
 
  
 
-      307.402 Beverage containers. Any beverage container having a refund value as required under ORS 459A.700 to 459A.740 is exempt from ad valorem taxation. [Formerly 310.608; 1983 c.600 §2; 1987 c.691 §2; formerly part of 307.400]
+      307.402 Beverage containers. Any beverage container having a refund value as required under ORS 459A.700 to 459A.744 is exempt from ad valorem taxation. [Formerly 310.608; 1983 c.600 §2; 1987 c.691 §2; formerly part of 307.400]
 
  
 
@@ -3113,7 +3121,7 @@ EXEMPTIONS
 
       (b) Exemption or partial exemption of improvements and personal property on land described in paragraph (a) of this subsection.
 
-      (2)(a) An ordinance or resolution adopted under this section shall specify the eligibility requirements for the programs, including, but not limited to, a showing by the owner of a brownfield in an application filed under section 2 of this 2016 Act:
+      (2)(a) An ordinance or resolution adopted under this section shall specify the eligibility requirements for the programs, including, but not limited to, a showing by the owner of a brownfield in an application filed under section 2, chapter 96, Oregon Laws 2016:
 
       (A) That the owner or authorized representative of the owner has obtained, as applicable, a site evaluation, preliminary assessment, confirmation of release or remedial investigation of the brownfield prepared by a geologist registered under ORS 672.505 to 672.705 or a professional engineer as defined in ORS 672.002.
 
@@ -3123,15 +3131,13 @@ EXEMPTIONS
 
       (D) That the report of the site evaluation, preliminary assessment, confirmation of release or remedial investigation required under subparagraph (A) of this paragraph, and a report prepared by a geologist or professional engineer showing that any remedial action has complied with any applicable agreement, order, program or process authorized by the department and with any other applicable state law administered by the department, have been submitted to the department.
 
-      (b) Notwithstanding paragraph (a) of this subsection, property is not eligible for tax incentive programs adopted pursuant to this section if, at the time an application for the property is filed under section 2 of this 2016 Act, the property is:
+      (b) Notwithstanding paragraph (a) of this subsection, property is not eligible for tax incentive programs adopted pursuant to this section if, at the time an application for the property is filed under section 2, chapter 96, Oregon Laws 2016, the property is:
 
-      (A) Subject to assessment under ORS 308.505 to 308.681;
+      (A) Subject to assessment under ORS 308.505 to 308.681 [series became 308.505 to 308.674];
 
       (B) State-appraised industrial property as defined in ORS 306.126; or
 
       (C) A federal Superfund site.
-
-      (c) For any property tax year, property granted any other special assessment, exemption or partial exemption may not be granted benefits under a tax incentive program adopted pursuant to this section.
 
       (3)(a)(A) An ordinance or resolution adopted under this section shall specify the period, not to exceed 10 years, for which the property tax incentive program benefits may be granted.
 
@@ -3141,19 +3147,29 @@ EXEMPTIONS
 
       (A) The expiration of the period for which the property is eligible for the benefit under paragraph (a) of this subsection; or
 
-      (B) The date on which the dollar amount of the benefit equals the eligible costs for the property as determined under section 3 of this 2016 Act.
+      (B) The date on which the dollar amount of the benefit equals the eligible costs for the property as determined under section 3, chapter 96, Oregon Laws 2016.
 
       (c) If a city, county or port adopts both a special assessment and an exemption or partial exemption program, the two program benefits must be granted concurrently for any property.
 
-      (d) The city, county or port may adopt any other provisions relating to the property tax incentive programs that do not conflict with the requirements of sections 1 to 7 of this 2016 Act.
+      (d) The city, county or port may adopt any other provisions relating to the property tax incentive programs that do not conflict with the requirements of sections 1 to 7, chapter 96, Oregon Laws 2016.
 
-      (4)(a) The city, county or port may amend or repeal an ordinance or resolution adopted under this section at any time.
+      (4)(a) For any property tax year:
+
+      (A) Property that is granted benefits under a tax incentive program adopted pursuant to this section may be granted any other special assessment, exemption or partial exemption for which the property is eligible.
+
+      (B) The total amount of all special assessments, exemptions and partial exemptions granted to property may not reduce the property tax liability of the property below zero.
+
+      (b)(A) A city, county or port shall specify in an ordinance or resolution adopted under this section how the city, county or port intends to apply multiple property tax benefits granted to property in the circumstances authorized under paragraph (a)(A) of this subsection.
+
+      (B) The city, county or port shall notify the county assessor of the intended application.
+
+      (5)(a) The city, county or port may amend or repeal an ordinance or resolution adopted under this section at any time.
 
       (b) Notwithstanding paragraph (a) of this subsection, property that is receiving a tax incentive program benefit under this section when the ordinance or resolution is amended or repealed shall continue to receive the benefit pursuant to the provisions of the ordinance or resolution in effect when the property was initially granted the benefit.
 
-      (5)(a) An ordinance or resolution adopted under this section does not become effective unless the rates of taxation of the taxing districts located within territory of the city, county or port whose governing boards agree to the property tax incentive programs, when combined with the rate of taxation of the city, county or port that adopted the ordinance or resolution, equal 75 percent or more of the total combined rate of taxation within the territory of the city, county or port.
+      (6)(a) An ordinance or resolution adopted under this section does not become effective unless the rates of taxation of the taxing districts located within territory of the city, county or port whose governing boards agree to the property tax incentive programs, when combined with the rate of taxation of the city, county or port that adopted the ordinance or resolution, equal 75 percent or more of the total combined rate of taxation within the territory of the city, county or port.
 
-      (b) If an ordinance or resolution becomes effective pursuant to paragraph (a) of this subsection, the property tax incentive programs shall be effective for the tax levies of all taxing districts in which a brownfield that is granted a property tax incentive program benefit is located. [2016 c.96 §1]
+      (b) If an ordinance or resolution becomes effective pursuant to paragraph (a) of this subsection, the property tax incentive programs shall be effective for the tax levies of all taxing districts in which a brownfield that is granted a property tax incentive program benefit is located. [2016 c.96 §1; 2019 c.492 §1]
 
       Sec. 2. (1)(a) The owner of a brownfield seeking a property tax incentive program benefit for the brownfield or improvements and personal property on the brownfield under an ordinance or resolution adopted pursuant to section 1 of this 2016 Act must file an application, with the governing body of the city, county or port that adopted the ordinance or resolution, on or before March 15 preceding the beginning of the property tax year for which the property tax incentive program benefit is sought. A single application may be filed for brownfields in contiguous tax accounts under common ownership.
 
@@ -3295,11 +3311,11 @@ EXEMPTIONS
 
  
 
-      307.453 Findings. The Legislative Assembly finds that food processing activities make significant contributions to the economy of this state and are important in supporting and maintaining a high level of agricultural diversity, upon which consistent economic performance is based. The Legislative Assembly declares that a property tax exemption for qualified real property machinery and equipment encourages continued operation and expansion of the food processing industry in this state. [2005 c.637 §2]
+      307.453 Findings for food processing machinery and equipment exemption. The Legislative Assembly finds that food processing activities make significant contributions to the economy of this state and are important in supporting and maintaining a high level of agricultural diversity, upon which consistent economic performance is based. The Legislative Assembly declares that a property tax exemption for qualified real property machinery and equipment encourages continued operation and expansion of the food processing industry in this state. [2005 c.637 §2]
 
  
 
-      307.455 Definitions; application for exemption; exemption; limitations. (1) As used in this section and ORS 307.457:
+      307.455 Definitions for ORS 307.453 to 307.459; application; exemption; limitations. (1) As used in ORS 307.453 to 307.459:
 
       (a) “Assessor” means the county assessor, or the Department of Revenue if under ORS 306.126 the department is responsible for appraisal of the facility at which the qualified machinery and equipment is located.
 
@@ -3339,19 +3355,59 @@ EXEMPTIONS
 
       (5) Notwithstanding subsection (3) of this section, qualified machinery and equipment that is used to process grains or bakery products may not be granted exemption under this section unless the qualified machinery and equipment has a total cost of initial investment of at least $100,000 to the food processor.
 
-      (6) Notwithstanding subsection (3) of this section, qualified machinery and equipment that is used to process bakery products may not be granted exemption under this section if proceeds from retail sales made at the processing site constitute more than 10 percent of all proceeds from sales made at the processing site. [2005 c.637 §3; 2015 c.827 §1; 2016 c.105 §1; 2017 c.21 §102]
+      (6) Notwithstanding subsection (3) of this section, qualified machinery and equipment that is used to process bakery products may not be granted exemption under this section if proceeds from retail sales made at the processing site constitute more than 10 percent of all proceeds from sales made at the processing site. [2005 c.637 §3; 2015 c.827 §1; 2016 c.105 §1; 2017 c.21 §102; 2019 c.579 §45]
+
+ 
+
+      Note: The amendments to 307.455 by section 45, chapter 579, Oregon Laws 2019, become operative July 1, 2020. See section 47, chapter 579, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      307.455. (1) As used in this section and ORS 307.457:
+
+      (a) “Assessor” means the county assessor, or the Department of Revenue if under ORS 306.126 the department is responsible for appraisal of the facility at which the qualified machinery and equipment is located.
+
+      (b) “Bakery product” has the meaning given that term in ORS 625.010.
+
+      (c) “Dairy products” has the meaning given that term in ORS 621.003.
+
+      (d) “Food processor”:
+
+      (A) Means a person engaged in the business of freezing, canning, dehydrating, concentrating, preserving, processing or repacking for human consumption raw or fresh fruit, vegetables, nuts, legumes, grains, bakery products, dairy products, eggs or seafood in any procedure that occurs prior to the point of first sale by the processor.
+
+      (B) Does not include:
+
+      (i) Persons engaged in the business of producing alcoholic beverages or marijuana items as defined in ORS 475B.015.
+
+      (ii) A person engaged in the business of producing bakery products unless the person has been issued a wholesale license by the State Department of Agriculture.
+
+      (e) “Integrated processing line” does not include forklifts, trucks or other rolling stock used to transport material to or from a point of manufacture or assembly.
+
+      (f) “Qualified machinery and equipment” means property, whether new or used, that is newly acquired by a food processor and placed into service prior to January 1 preceding the first tax year for which an exemption under this section is sought, and that consists of:
+
+      (A) Real property machinery and equipment that is used by a food processor in the primary processing of raw or fresh fruit, vegetables, nuts, legumes, grains, bakery products, dairy products, eggs or seafood; or
+
+      (B) Personal property machinery and equipment that is used in an integrated processing line for the primary processing of raw or fresh fruit, vegetables, nuts, legumes, grains, bakery products, dairy products, eggs or seafood.
+
+      (2)(a) On or before March 1 preceding the first tax year for which property is to be exempt from taxation under this section, a food processor seeking an exemption under this section shall apply to the assessor for exemption. The application shall be on a form prescribed by the Department of Revenue and shall include any information required by the department, including a schedule of the qualified machinery and equipment for which certification is sought.
+
+      (b) Notwithstanding paragraph (a) of this subsection, the assessor may approve an application that is filed after March 1, and on or before December 31 of the assessment year, if the statement is accompanied by a late filing fee of the greater of $200 or one-tenth of one percent of the real market value of the property that is the subject of the application.
+
+      (c) The assessor shall review the application and, if the machinery and equipment that is the subject of the application constitutes qualified machinery and equipment certified by the State Department of Agriculture under ORS 307.457, shall approve the application and exempt the qualified machinery and equipment.
+
+      (d) If any of the machinery and equipment that is the subject of the application does not constitute qualified machinery and equipment certified by the State Department of Agriculture under ORS 307.457, the assessor shall exclude the nonqualified machinery and equipment from the application.
+
+      (3) Qualified machinery and equipment for which an application has been approved under subsection (2) of this section shall be exempt for the tax year for which the application was approved and for the next four succeeding tax years, if as of the assessment date for each year the property constitutes qualified machinery and equipment.
+
+      (4) The duration of the exemption under subsection (3) of this section may not be extended as the result of the value of changes to qualified machinery and equipment that are attributable to rehabilitation, reconditioning or ongoing maintenance or repair.
+
+      (5) Notwithstanding subsection (3) of this section, qualified machinery and equipment that is used to process grains or bakery products may not be granted exemption under this section unless the qualified machinery and equipment has a total cost of initial investment of at least $100,000 to the food processor.
+
+      (6) Notwithstanding subsection (3) of this section, qualified machinery and equipment that is used to process bakery products may not be granted exemption under this section if proceeds from retail sales made at the processing site constitute more than 10 percent of all proceeds from sales made at the processing site.
 
  
 
       Note: Section 7, chapter 637, Oregon Laws 2005, provides:
 
-      Sec. 7. Property may not qualify for a first year of exemption under ORS 307.455 for a tax year beginning on or after July 1, 2020. [2005 c.637 §7; 2011 c.656 §1; 2013 c.210 §1]
-
- 
-
-      Note: Section 5, chapter 827, Oregon Laws 2015, provides:
-
-      Sec. 5. The State Department of Agriculture shall submit, in the manner provided by ORS 192.245, a report on the impact that the amendments to ORS 307.455 by section 1 of this 2015 Act have had on the use of the exemption for qualified food processing machinery and equipment to the interim committees of the Legislative Assembly related to revenue not later than September 15, 2018. [2015 c.827 §5]
+      Sec. 7. Property may not qualify for a first year of exemption under ORS 307.455 for a tax year beginning on or after July 1, 2025. [2005 c.637 §7; 2011 c.656 §1; 2013 c.210 §1; 2019 c.579 §42]
 
  
 
@@ -3365,7 +3421,69 @@ EXEMPTIONS
 
  
 
-      307.459 Rules. The Department of Revenue and the State Department of Agriculture may adopt rules to implement the provisions of ORS 307.455 and 307.457. [2005 c.637 §5]
+      307.458 Local option to reduce exemption; delayed operative date of reduction; grandfathering; reversal; notice; minimum term. (1)(a) Notwithstanding ORS 307.455, the governing body of a city or county may adopt an ordinance or resolution that:
+
+      (A) Changes, but not above 100 percent, the percentage of exemption granted under ORS 307.455 or changes, but not above five years, the number of property tax years for which the exemption may be granted; or
+
+      (B) Renders the exemption granted under ORS 307.455 inoperative.
+
+      (b) An ordinance or resolution adopted pursuant to this subsection by the governing body of a city shall apply:
+
+      (A) Only within the corporate boundaries of the city;
+
+      (B) To all qualified machinery and equipment taxable within the corporate boundaries; and
+
+      (C) To the tax levies of the city and all other taxing districts having jurisdiction within the corporate boundaries.
+
+      (c) An ordinance or resolution adopted pursuant to this subsection by the governing body of a county shall apply:
+
+      (A) Only within the unincorporated territory of the county;
+
+      (B) To all qualified machinery and equipment taxable within the unincorporated territory; and
+
+      (C) To the tax levies of the county and all other taxing districts having jurisdiction within the unincorporated territory.
+
+      (2)(a) An ordinance or resolution adopted pursuant to subsection (1) of this section shall not become operative before the beginning of the second property tax year that begins on or after the date on which the ordinance or resolution is adopted.
+
+      (b) For property tax years beginning on or after the operative date specified in paragraph (a) of this subsection, qualified machinery and equipment that is subject to an ordinance or resolution described in subsection (1)(a)(B) of this section shall be assessed and taxed as other similar property is assessed and taxed.
+
+      (3) Notwithstanding subsection (1) of this section, qualified machinery and equipment that is exempt under ORS 307.455 on the operative date specified in subsection (2)(a) of this section that would otherwise be subject to an ordinance or resolution adopted pursuant to subsection (1) of this section shall continue to be exempt for the number of property tax years for which the qualified machinery and equipment is eligible under ORS 307.455 (3).
+
+      (4)(a) The governing body of a city or county that adopts an ordinance or resolution pursuant to subsection (1)(a)(B) of this section may subsequently adopt an ordinance or resolution rendering the exemption granted under ORS 307.455 operative again for the city or county, respectively, and all other affected taxing districts.
+
+      (b) The exemption shall become operative for the first property tax year that begins on or after the date on which the ordinance or resolution adopted under this subsection becomes effective.
+
+      (5) As soon as practicable after the adoption of an ordinance or resolution under:
+
+      (a) Subsection (1) of this section, the governing body of the city or county shall provide notice of the adoption or changes to:
+
+      (A) The county assessor;
+
+      (B) The Department of Revenue;
+
+      (C) The State Department of Agriculture; and
+
+      (D) Taxpayers whose qualified machinery and equipment is exempt under ORS 307.455 for the current property tax year on the effective date of the ordinance or resolution.
+
+      (b) Subsection (4) of this section, the governing body of the city or county shall provide notice of the adoption to:
+
+      (A) The county assessor;
+
+      (B) The Department of Revenue; and
+
+      (C) The State Department of Agriculture.
+
+      (6) An ordinance or resolution adopted under subsection (1) or (4) of this section must remain in effect for at least three consecutive property tax years. [2019 c.579 §44]
+
+ 
+
+      307.459 Rules. The Department of Revenue and the State Department of Agriculture may adopt rules to implement the provisions of ORS 307.455, 307.457 and 307.458. [2005 c.637 §5; 2019 c.579 §46]
+
+ 
+
+      Note: The amendments to 307.459 by section 46, chapter 579, Oregon Laws 2019, become operative July 1, 2020. See section 47, chapter 579, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      307.459. The Department of Revenue and the State Department of Agriculture may adopt rules to implement the provisions of ORS 307.455 and 307.457.
 
  
 
@@ -3617,6 +3735,14 @@ EXEMPTIONS
 
  
 
+      Note: Section 2, chapter 578, Oregon Laws 2019, provides:
+
+      Sec. 2. (1) Land may not be granted an initial year of exemption under ORS 307.513 for any property tax year beginning on or after July 1, 2029.
+
+      (2) Notwithstanding subsection (1) of this section, land that is granted an initial year of exemption under ORS 307.513 for a property tax year beginning before July 1, 2029, may continue to receive the exemption for the number of consecutive property tax years for which the land is eligible for the exemption under ORS 307.513. [2019 c.578 §2]
+
+ 
+
       Note: 307.513 was enacted into law by the Legislative Assembly but was not added to or made a part of ORS chapter 307 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
 
  
@@ -3647,7 +3773,7 @@ EXEMPTIONS
 
       (c) The required rent payment reflects the full value of the property tax exemption;
 
-      (d) The exemption has been approved as provided in ORS 307.523;
+      (d) The exemption has been approved as provided in ORS 307.523, pursuant to an application filed before July 1, 2030;
 
       (e) The housing units on the property were constructed after the local governing body adopted the provisions of ORS 307.515 to 307.523; and
 
@@ -3659,7 +3785,7 @@ EXEMPTIONS
 
       (a) The person is obligated under the terms of the lease to pay the ad valorem taxes on the real and personal property used in this activity on that property; or
 
-      (b) The rent payable has been established to reflect the savings resulting from the exemption from taxation. [1989 c.803 §2; 1997 c.752 §5; 2005 c.94 §36; 2015 c.310 §1]
+      (b) The rent payable has been established to reflect the savings resulting from the exemption from taxation. [1989 c.803 §2; 1997 c.752 §5; 2005 c.94 §36; 2015 c.310 §1; 2018 c.111 §10; 2019 c.579 §33]
 
  
 
@@ -3673,7 +3799,7 @@ EXEMPTIONS
 
       (b) The property, if occupied, is occupied solely as a residence for low income persons;
 
-      (c) An exemption for the property has been approved as provided under ORS 307.523, pursuant to an application filed before January 1, 2020;
+      (c) An exemption for the property has been approved as provided under ORS 307.523, pursuant to an application filed before July 1, 2030;
 
       (d) The property is owned or being purchased by a nonprofit corporation organized in a manner that meets the criteria for a public benefit corporation or a religious corporation, both terms as defined in ORS 65.001;
 
@@ -3693,7 +3819,7 @@ EXEMPTIONS
 
       (a) A nonprofit corporation is a general partner of the partnership; and
 
-      (b) The nonprofit corporation is responsible for the day-to-day operation of the property that is the subject of the exemption under ORS 307.515 to 307.523. [1991 c.930 §2; 1993 c.168 §4; 1995 c.79 §121; 1995 c.702 §1; 1997 c.541 §127; 1997 c.752 §6; 1999 c.487 §1; 2001 c.315 §55; 2005 c.94 §37; 2010 c.29 §6; 2013 c.158 §36; 2015 c.310 §2]
+      (b) The nonprofit corporation is responsible for the day-to-day operation of the property that is the subject of the exemption under ORS 307.515 to 307.523. [1991 c.930 §2; 1993 c.168 §4; 1995 c.79 §121; 1995 c.702 §1; 1997 c.541 §127; 1997 c.752 §6; 1999 c.487 §1; 2001 c.315 §55; 2005 c.94 §37; 2010 c.29 §6; 2013 c.158 §36; 2015 c.310 §2; 2018 c.111 §11; 2019 c.579 §34]
 
  
 
@@ -3741,7 +3867,9 @@ EXEMPTIONS
 
       (2) Within 60 days of the filing of an application under ORS 307.521, the governing body shall take final action upon the application as provided under ORS 307.527, and certify the results of the action to the county assessor, as set forth in ORS 307.512.
 
-      (3) Upon receipt of certification under subsection (2) of this section, the county assessor shall exempt the property from taxation to the extent certified by the governing body. [1989 c.803 §5; 1991 c.459 §64; 1991 c.930 §6; 1997 c.541 §128; 2013 c.193 §5]
+      (3) Upon receipt of certification under subsection (2) of this section, the county assessor shall exempt the property from taxation to the extent certified by the governing body.
+
+      (4) Notwithstanding the dates specified in ORS 307.517 and 307.518, property granted exemption pursuant to an application filed under ORS 307.517 or 307.518 before July 1, 2030, shall continue to receive the exemption on the same terms, including duration, on which the exemption was granted. [1989 c.803 §5; 1991 c.459 §64; 1991 c.930 §6; 1997 c.541 §128; 2013 c.193 §5; 2018 c.111 §12; 2019 c.579 §35]
 
  
 
@@ -3759,11 +3887,11 @@ EXEMPTIONS
 
  
 
-      307.529 Notice of proposed termination of exemption; grounds; terminating exemption. (1) Except as provided in ORS 307.531, if, after an application for exemption under ORS 307.517 has been approved under ORS 307.527, the governing body finds that construction or development of the exempt property differs from the construction or development described in the application for exemption, or is not completed on or before January 1, 2020, or that any provision of ORS 307.515 to 307.523 is not being complied with, or any provision required by the governing body pursuant to ORS 307.515 to 307.523 is not being complied with, the governing body shall give notice of the proposed termination of the exemption to the owner, by mailing the notice to the last-known address of the owner, and to every known lender, by mailing the notice to the last-known address of every known lender. The notice shall state the reasons for the proposed termination and shall require the owner to appear at a specified time, not less than 20 days after mailing the notice, to show cause, if any, why the exemption should not be terminated.
+      307.529 Notice of proposed termination of exemption; grounds; terminating exemption. (1) Except as provided in ORS 307.531, if, after an application for exemption under ORS 307.517 has been approved under ORS 307.527, the governing body finds that construction or development of the exempt property differs from the construction or development described in the application for exemption, or is not completed on or before July 1, 2030, or that any provision of ORS 307.515 to 307.523 is not being complied with, or any provision required by the governing body pursuant to ORS 307.515 to 307.523 is not being complied with, the governing body shall give notice of the proposed termination of the exemption to the owner, by mailing the notice to the last-known address of the owner, and to every known lender, by mailing the notice to the last-known address of every known lender. The notice shall state the reasons for the proposed termination and shall require the owner to appear at a specified time, not less than 20 days after mailing the notice, to show cause, if any, why the exemption should not be terminated.
 
       (2) If the owner fails to appear and show cause why the exemption should not be terminated, the governing body shall notify every known lender, and shall allow any lender not less than 30 days after the date the notice of the failure to appear and show cause is mailed to cure any noncompliance or to provide assurance adequate to the governing body that all noncompliance shall be remedied.
 
-      (3) If the owner fails to appear and show cause why the exemption should not be terminated, and the lender fails to cure or give adequate assurance of the cure of any noncompliance, the governing body shall adopt an ordinance or resolution stating its findings terminating the exemption. A copy of the ordinance or resolution shall be filed with the county assessor, and a copy shall be sent to the owner at the owner’s last-known address and to the lender at the last-known address of the lender within 10 days after its adoption. [1989 c.803 §8; 1991 c.459 §65; 1991 c.930 §7; 1993 c.168 §5; 1997 c.541 §129; 1997 c.752 §8; 1999 c.487 §2; 2010 c.29 §7]
+      (3) If the owner fails to appear and show cause why the exemption should not be terminated, and the lender fails to cure or give adequate assurance of the cure of any noncompliance, the governing body shall adopt an ordinance or resolution stating its findings terminating the exemption. A copy of the ordinance or resolution shall be filed with the county assessor, and a copy shall be sent to the owner at the owner’s last-known address and to the lender at the last-known address of the lender within 10 days after its adoption. [1989 c.803 §8; 1991 c.459 §65; 1991 c.930 §7; 1993 c.168 §5; 1997 c.541 §129; 1997 c.752 §8; 1999 c.487 §2; 2010 c.29 §7; 2018 c.111 §13; 2019 c.579 §36]
 
  
 
@@ -3801,9 +3929,9 @@ EXEMPTIONS
 
       307.535 Extension of deadline for completion; exception to imposition of additional taxes. Notwithstanding any provision of ORS 307.515 to 307.523:
 
-      (1) If the governing body finds that construction of the housing unit otherwise entitled to exemption under ORS 307.517 was not completed by January 1, 2020, due to circumstances beyond the control of the owner, and that the owner had been acting and could reasonably be expected to act in good faith and with due diligence, the governing body may extend the deadline for completion of construction for a period not to exceed 12 consecutive months.
+      (1) If the governing body finds that construction of the housing unit otherwise entitled to exemption under ORS 307.517 was not completed by July 1, 2030, due to circumstances beyond the control of the owner, and that the owner had been acting and could reasonably be expected to act in good faith and with due diligence, the governing body may extend the deadline for completion of construction for a period not to exceed 12 consecutive months.
 
-      (2) If property granted exemption under ORS 307.515 to 307.523 is destroyed by fire or act of God, or is otherwise no longer capable of owner-occupancy due to circumstances beyond the control of the owner, the exemption shall cease but no additional taxes shall be imposed upon the property under ORS 307.531 or 307.533. [1989 c.803 §11; 1991 c.459 §68; 1991 c.930 §10; 1997 c.541 §132; 1999 c.487 §3; 2010 c.29 §8]
+      (2) If property granted exemption under ORS 307.515 to 307.523 is destroyed by fire or act of God, or is otherwise no longer capable of owner-occupancy due to circumstances beyond the control of the owner, the exemption shall cease but no additional taxes shall be imposed upon the property under ORS 307.531 or 307.533. [1989 c.803 §11; 1991 c.459 §68; 1991 c.930 §10; 1997 c.541 §132; 1999 c.487 §3; 2010 c.29 §8; 2018 c.111 §14; 2019 c.579 §37]
 
  
 
@@ -3965,6 +4093,180 @@ EXEMPTIONS
 
  
 
+(Temporary provisions relating to exemption of property used in local home share program)
+
+ 
+
+      Note: Sections 1 to 7, chapter 566, Oregon Laws 2019, provide:
+
+      Sec. 1. As used in sections 1 to 5 of this 2019 Act:
+
+      (1) “Adopting jurisdiction” means the governing body of a city or county that has adopted an ordinance or resolution pursuant to section 2 of this 2019 Act.
+
+      (2) “Consumer Price Index for All Urban Consumers, West Region” means the Consumer Price Index for All Urban Consumers, West Region (All Items), as published by the Bureau of Labor Statistics of the United States Department of Labor.
+
+      (3) “Eligible property” means a home that is used pursuant to a home share agreement facilitated by a home share program and, if the land is owned by the home share provider, the land upon which the home is situated.
+
+      (4) “Family member” means an individual related, by blood, marriage, domestic partnership, adoption, fosterage or otherwise as specified below, to another individual in any of the following ways:
+
+      (a) A spouse, former spouse, domestic partner or former domestic partner;
+
+      (b) A parent or grandparent of any generation;
+
+      (c) A child or grandchild of any generation;
+
+      (d) An individual who acts or has acted in loco parentis;
+
+      (e) An aunt, uncle, niece or nephew of any generation; or
+
+      (f) A cousin of any degree.
+
+      (5) “Home” means the principal place of residence of a home share provider.
+
+      (6) “Home share agreement” means a rental agreement for living space entered into by a home share provider with one or more home share seekers in return for money or other property or services.
+
+      (7) “Home share program” means a program for the purpose of addressing homelessness, due to any cause, by facilitating home share agreements, subject to all applicable federal, state and local laws and the rules of the home share program, that is operated by:
+
+      (a) A nonprofit corporation organized under ORS chapter 65;
+
+      (b) A corporation described in section 501(c)(3) of the Internal Revenue Code that is exempt from income taxation under section 501(a) of the Internal Revenue Code;
+
+      (c) A housing authority as defined in ORS 456.005; or
+
+      (d) An adopting jurisdiction.
+
+      (8) “Home share provider” means an individual homeowner who rents or offers to rent space in the individual’s home to one or more home share seekers through a home share program.
+
+      (9) “Home share seeker” means an individual who seeks or obtains housing in the home of a home share provider through a home share program.
+
+      (10) “Qualified property” means eligible property for which an exemption application has been approved under section 4 of this 2019 Act. [2019 c.566 §1]
+
+      Sec. 2. (1) The governing body of a city or county may adopt an ordinance or resolution granting a property tax exemption for eligible property located within the boundaries of the city or county, respectively.
+
+      (2)(a) The exemption shall be granted as a subtraction from the assessed value of the qualified property for a property tax year in an amount, not to exceed $300,000, determined by the adopting jurisdiction in consultation with the applicable home share program.
+
+      (b) The adopting jurisdiction shall annually adjust the dollar amount specified in paragraph (a) of this subsection by multiplying the amount by the percentage, if any, by which the monthly averaged Consumer Price Index for All Urban Consumers, West Region, for the 12 consecutive months ending on the immediately preceding December 31 exceeds the monthly averaged Consumer Price Index for All Urban Consumers, West Region, for the 12 consecutive months ending on the second preceding December 31.
+
+      (3) The ordinance or resolution must:
+
+      (a) Limit home share seekers to individuals who, at the time the individuals enter into a home share agreement, have a combined household income that does not exceed 60 percent of area median income or a lesser percentage determined by the adopting jurisdiction;
+
+      (b) Require any home share agreement to offer space in the qualified property at a rent that is affordable to home share seekers described in paragraph (a) of this subsection;
+
+      (c) Prohibit an exemption if the home share seeker and home share provider are family members;
+
+      (d) Specify the period for which an exemption may be granted; and
+
+      (e) Specify a permissible period of not less than three months and not more than six months during which a home share provider may enter into a new home share agreement with a home share seeker under section 5 (4)(b) of this 2019 Act before the qualified property is disqualified from the exemption.
+
+      (4) The adopting jurisdiction may specify in the ordinance or resolution:
+
+      (a) How often or other circumstances in which a home share provider must reapply for the exemption; and
+
+      (b) Other provisions relating to the exemption that do not conflict with the requirements of sections 1 to 5 of this 2019 Act.
+
+      (5)(a) The adopting jurisdiction shall ask the governing bodies of other taxing districts with territory located within the boundaries of the city or county to agree to grant the exemption on the terms set forth in the ordinance or resolution.
+
+      (b) An ordinance or resolution adopted or amended pursuant to this section may not take effect unless the rates of taxation of the taxing districts whose governing bodies agree to grant the exemption, when combined with the rate of taxation of the adopting jurisdiction, equal 51 percent or more of the total combined rate of taxation on the qualified property.
+
+      (c) If the ordinance or resolution takes effect, the exemption shall apply to all property tax levies of all taxing districts in which qualified property is located.
+
+      (d) The decisions of the taxing districts under paragraph (b) of this subsection may not be changed but are not binding with respect to an ordinance or resolution amended pursuant to subsection (6) of this section or a subsequent ordinance or resolution adopted pursuant to subsection (1) of this section.
+
+      (6)(a) An adopting jurisdiction may at any time adopt an ordinance or resolution amending the terms of an exemption granted pursuant to this section, subject to subsection (5) of this section, or repealing the exemption.
+
+      (b) Notwithstanding an ordinance or resolution adopted under paragraph (a) of this subsection, qualified property that was granted an exemption prior to the adoption shall continue to receive the exemption for the number of property tax years for which the exemption was granted and under all other terms then in effect.
+
+      (7)(a) Eligible property that is receiving any other property tax exemption or special assessment may not be granted an exemption pursuant to this section.
+
+      (b) Paragraph (a) of this subsection does not apply to the homestead property tax deferral program under ORS 311.666 to 311.701. [2019 c.566 §2]
+
+      Sec. 3. (1) For any property tax year, no more than 500 eligible properties statewide may be granted an exemption under an ordinance or resolution adopted pursuant to section 2 of this 2019 Act.
+
+      (2) On or before January 31 of each year, each adopting jurisdiction shall notify the Department of Revenue of an ordinance or resolution that was adopted, amended or repealed by the adopting jurisdiction pursuant to section 2 of this 2019 Act and that became effective on or before January 31.
+
+      (3)(a) On or before February 28 of each year, the department shall allocate the maximum number of eligible properties specified in subsection (1) of this section among all adopting jurisdictions in proportion to the relative populations of the adopting jurisdictions.
+
+      (b) The department shall notify each adopting jurisdiction of the maximum number of eligible properties that may be granted an exemption by the adopting jurisdiction.
+
+      (c) For each adopting jurisdiction, the maximum number includes both the number of qualified properties for the current property tax year and the number of eligible properties that may be granted an exemption for the next succeeding property tax year.
+
+      (4) If the number of qualified properties in an adopting jurisdiction exceeds the maximum number allowable after allocation under subsection (3) of this section:
+
+      (a) The qualified properties shall continue to receive the exemption for the number of property tax years for which the exemption was granted and under all other terms in effect when the exemption was granted; and
+
+      (b) The adopting jurisdiction may not grant another exemption until the total number of qualified properties in the adopting jurisdiction is less than the maximum number allocated to the adopting jurisdiction for the property tax year.
+
+      (5) The department may adopt rules to establish standards and procedures for administering this section. [2019 c.566 §3]
+
+      Sec. 4. (1)(a) An adopting jurisdiction shall prescribe exemption application forms and the information required to be included in the application.
+
+      (b) If an eligible property is located in a city and county, each of which is an adopting jurisdiction, the applicant shall elect the exemption the applicant wishes to receive for the eligible property by submitting the application to the appropriate adopting jurisdiction.
+
+      (2) An application must be accompanied by the home share agreement entered into between the applicant and the home share seeker and an application fee fixed by the adopting jurisdiction in an amount estimated to compensate the adopting jurisdiction for the actual costs of processing the application.
+
+      (3)(a) An application must be submitted for review to the adopting jurisdiction on or before March 1 preceding the property tax year to which the application relates.
+
+      (b) Unless otherwise provided in the ordinance or resolution granting the exemption, if the ownership of the qualified property and the home share agreement included in the application for a prior year remain unchanged, a new application is not required.
+
+      (4) Within 60 days of receiving an application submitted pursuant to subsection (3) of this section, the adopting jurisdiction shall determine whether the property to which the application relates is eligible property located within the boundaries of the adopting jurisdiction and whether the application complies with the adopting jurisdiction’s ordinance or resolution and sections 1 to 5 of this 2019 Act.
+
+      (5)(a) If the adopting jurisdiction determines that the property or application does not meet all the requirements described in subsection (4) of this section, the application shall be rejected and the applicant shall be notified of the decision and the reasons for the decision.
+
+      (b) The rejection of an application:
+
+      (A) May not be appealed.
+
+      (B) Does not preclude the applicant from submitting a new application for the property for any property tax year.
+
+      (6)(a) Except as provided in paragraph (b) of this subsection, if the adopting jurisdiction determines that the property and application meet all the requirements described in subsection (4) of this section, the adopting jurisdiction shall approve the application.
+
+      (b) If the number of valid applications exceeds the maximum number allocated to the adopting jurisdiction under section 3 of this 2019 Act, applications shall be approved in chronological order by date of submission.
+
+      (7) Not later than July 15 of each year, an adopting jurisdiction shall notify:
+
+      (a) The assessor of the county in which qualified property is located of:
+
+      (A) All eligible properties approved for the exemption since July 15 of the previous year;
+
+      (B) All qualified properties disqualified from the exemption since July 15 of the previous year;
+
+      (C) The home share provider’s name, the street address and the assessor’s property account number for all properties described in subparagraphs (A) and (B) of this paragraph;
+
+      (D) The amount to be subtracted from the assessed value of each qualified property for the property tax year in accordance with section 2 (2) of this 2019 Act; and
+
+      (E) Any other information necessary for the assessor to perform the assessor’s duties with respect to the qualified property; and
+
+      (b) The Department of Revenue of the total number of qualified properties in the adopting jurisdiction for the property tax year. [2019 c.566 §4]
+
+      Sec. 5. (1) An adopting jurisdiction shall oversee and audit any home share program operating within the boundaries of the adopting jurisdiction.
+
+      (2) The adopting jurisdiction shall immediately disqualify property from an exemption granted under an ordinance or resolution adopted pursuant to section 2 of this 2019 Act if:
+
+      (a) In any year through the final assessment year of the exemption, the qualified property is not used for the purpose identified in the application approved under section 4 of this 2019 Act; or
+
+      (b) The applicant fails to comply with any requirement established by the adopting jurisdiction in the ordinance or resolution adopted pursuant to section 2 of this 2019 Act.
+
+      (3) Upon disqualification, the property shall be assessed and taxed in the same manner as other real property is assessed and taxed.
+
+      (4) Notwithstanding subsection (2) of this section, if a qualified property would otherwise be disqualified by reason of a breach of the home share agreement for which the home share provider is not at fault:
+
+      (a) The breached home share agreement shall be considered void; and
+
+      (b) The qualified property shall continue to receive the exemption for the number of property tax years for which the exemption was granted and under all other terms in effect when the exemption was granted if, within the period established by the adopting jurisdiction under section 2 (3)(e) of this 2019 Act, the home share provider enters into a home share agreement with one or more home share seekers and the application for the new home share agreement is approved under section 4 of this 2019 Act.
+
+      (5) The Department of Revenue may adopt rules to establish standards and procedures for administering this section. [2019 c.566 §5]
+
+      Sec. 6. (1) Sections 1 to 5 of this 2019 Act apply to property tax years beginning on or after July 1, 2020, and before July 1, 2028.
+
+      (2) The governing body of a city or county may not adopt an ordinance or resolution pursuant to section 2 of this 2019 Act that becomes effective after January 31, 2027. [2019 c.566 §6]
+
+      Sec. 7. (1) Sections 1 to 5 of this 2019 Act are repealed on January 2, 2029.
+
+      (2) Notwithstanding the date specified in subsection (1) of this section, qualified property granted an exemption under an ordinance or resolution adopted pursuant to section 2 of this 2019 Act before the date specified in subsection (1) of this section shall continue to receive the exemption on and after the date specified in subsection (1) of this section if the term of the exemption adopted under the ordinance or resolution extends past that date. [2019 c.566 §7]
+
+ 
+
       307.550 [1983 c.786 §10; 1991 c.459 §70; 1997 c.541 §134; repealed by 2001 c.114 §16]
 
  
@@ -4017,8 +4319,6 @@ EXEMPTIONS
 
       (5) The programs shall result in the preservation, construction, addition or conversion of units at rental rates or sale prices accessible to a broad range of the general public. [1975 c.428 §2; 1995 c.596 §1; 1999 c.808 §1; 2003 c.457 §1; 2017 c.315 §8]
 
- 
-
       307.603 Definitions for ORS 307.600 to 307.637. As used in ORS 307.600 to 307.637:
 
       (1) “Establish” means, unless the context requires otherwise, making existing multiple-unit housing subject to a low income housing assistance contract.
@@ -4052,8 +4352,6 @@ EXEMPTIONS
  
 
       307.605 [1975 c.428 §1; 1979 c.425 §1; 1989 c.1051 §1; 1995 c.596 §2; 1999 c.808 §2; 2003 c.457 §2; renumbered 307.603 in 2005]
-
- 
 
       307.606 Exemption limited to tax levy of city or county that adopts ORS 307.600 to 307.637; designated areas; public hearings; standards and guidelines for considering applications. (1) ORS 307.600 to 307.637 apply to multiple-unit housing preserved, constructed, established, added to or converted in cities or counties that adopt, after a public hearing and determination pursuant to subsection (3) of this section, by resolution or ordinance, the provisions of ORS 307.600 to 307.637. The tax exemption provided by ORS 307.600 to 307.637 only applies to the tax levy of a city or county that adopts the provisions of ORS 307.600 to 307.637, except that the tax exemption shall apply to the ad valorem property taxes of all taxing districts when upon request of the city or county that has adopted the provisions of ORS 307.600 to 307.637, the rates of ad valorem taxation of taxing districts whose governing boards agree by resolution to the policy of providing tax exemptions for multiple-unit housing as provided in ORS 307.600 to 307.637, when combined with the rate of taxation of the city or county that adopts the provisions of ORS 307.600 to 307.637, equal 51 percent or more of the total combined rate of taxation levied on the property which is tax exempt under ORS 307.600 to 307.637.
 
@@ -4127,8 +4425,6 @@ EXEMPTIONS
 
       307.620 [1975 c.428 §4; 1989 c.1051 §3; 1995 c.596 §4; 1999 c.808 §4; 2003 c.457 §4; renumbered 307.609 in 2005]
 
- 
-
       307.621 Approval or denial of applications; city or county to state in writing reasons for denial of exemption; application fees. (1) The city or county shall approve or deny an application filed under ORS 307.615 within 180 days after receipt of the application. An application not acted upon within 180 days shall be deemed approved.
 
       (2) Final action upon an application by the city or county shall be in the form of an ordinance or resolution that shall contain the owner’s name and address, a description of the subject multiple-unit housing, either the legal description of the property or the assessor’s property account number, and the specific conditions upon which the approval of the application is based. Following approval and on or before the deadline set forth in ORS 307.512, the city or county shall file with the county assessor and send to the owner at the last-known address of the owner a copy of the ordinance or resolution approving or disapproving the application. In addition, the city or county shall file with the county assessor a document listing the same information otherwise required to be in an ordinance or resolution under this subsection, as to each application deemed approved under subsection (1) of this section.
@@ -4181,9 +4477,9 @@ EXEMPTIONS
 
       307.637 Deadlines for actions required for exemption. An exemption for multiple-unit housing may not be granted under ORS 307.600 to 307.637 unless:
 
-      (1) In the case of multiple-unit housing described in ORS 307.603 (5)(a), the application for exemption is made to the city or county on or before January 1, 2022.
+      (1) In the case of multiple-unit housing described in ORS 307.603 (5)(a), the application for exemption is made to the city or county on or before January 1, 2032.
 
-      (2) In the case of multiple-unit housing described in ORS 307.603 (5)(b), the construction, addition or conversion is completed on or before January 1, 2022. [Formerly 307.691; 2011 c.266 §4]
+      (2) In the case of multiple-unit housing described in ORS 307.603 (5)(b), the construction, addition or conversion is completed on or before January 1, 2032. [Formerly 307.691; 2011 c.266 §4; 2019 c.322 §1]
 
  
 
@@ -4215,9 +4511,9 @@ EXEMPTIONS
 
       (d) Has one or more qualified dwelling units within the single-unit housing.
 
-      (e) Is not a floating home, as defined in ORS 830.700, or a manufactured structure, as defined in ORS 446.561, other than a manufactured home described in ORS 197.307 (8)(a) to (f).
+      (e) Is not a floating home, as defined in ORS 830.700, or a manufactured structure, other than a manufactured home described in ORS 197.307 (8)(a) to (f).
 
-      (4) “Structure” does not include the land or any site development made to the land, as those terms are defined in ORS 307.010. [Formerly 458.005; 2011 c.354 §8; 2013 c.426 §1; 2017 c.294 §1]
+      (4) “Structure” does not include the land or any site development made to the land, as those terms are defined in ORS 307.010. [Formerly 458.005; 2011 c.354 §8; 2013 c.426 §1; 2017 c.294 §1; 2019 c.585 §22]
 
  
 
@@ -4563,7 +4859,7 @@ EXEMPTIONS
 
       Note: Section 2, chapter 783, Oregon Laws 1979, provides:
 
-      Sec. 2. Cargo containers, as defined in ORS 307.835, are exempt from taxation for tax years beginning on or after July 1, 1974, but prior to July 1, 2020. [1979 c.783 §2; 1987 c.583 §1; 1995 c.748 §7; 2003 c.218 §1; 2009 c.548 §1; 2013 c.213 §1]
+      Sec. 2. Cargo containers, as defined in ORS 307.835, are exempt from taxation for tax years beginning on or after July 1, 1974, and before July 1, 2026. [1979 c.783 §2; 1987 c.583 §1; 1995 c.748 §7; 2003 c.218 §1; 2009 c.548 §1; 2013 c.213 §1; 2019 c.578 §3]
 
  
 
@@ -4910,6 +5206,232 @@ EXEMPTIONS
       Sec. 4. (1) Sections 1 to 3 of this 2017 Act are repealed on January 2, 2027.
 
       (2) Notwithstanding the date specified in subsection (1) of this section, eligible rental property that is granted exemption under an ordinance or resolution adopted pursuant to section 1 of this 2017 Act before the date specified in subsection (1) of this section shall continue to receive the exemption under the provisions of the ordinance or resolution for the period of time for which the exemption was granted. [2017 c.624 §4]
+
+ 
+
+(Heavy Equipment Rental Tax)
+
+ 
+
+      307.870 Definitions for ORS 307.870 to 307.890. As used in ORS 307.870 to 307.890:
+
+      (1) “Affiliate” means a person that directly or indirectly owns or controls, is owned or controlled by, or is under common ownership or control with, another person.
+
+      (2) “Control,” for purposes of the definition of “affiliate” under this section, means direct or indirect possession of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract or otherwise.
+
+      (3) “Heavy equipment rental tax” means the tax imposed under ORS 307.872.
+
+      (4) “Mobile” means that qualified heavy equipment:
+
+      (a) Is intended to be moved among worksites as needed; and
+
+      (b) Is not intended to be permanently affixed to real property when put to its intended use.
+
+      (5) “Own,” for purposes of the definition of “affiliate” under this section, means to have ownership of an equity interest, or the equivalent, of 10 percent or more in a person.
+
+      (6) “Qualified heavy equipment” means any construction, mining, earthmoving or industrial equipment, together with attachments and other equipment and tools, including, but not limited to, towable trailers and fixed load vehicles, that is:
+
+      (a) Mobile;
+
+      (b) Owned by a qualified heavy equipment provider; and
+
+      (c) Held primarily for rental.
+
+      (7)(a) “Qualified heavy equipment provider” means a person that is primarily engaged in the business of renting qualified heavy equipment without an operator.
+
+      (b) “Qualified heavy equipment provider” does not mean a person primarily engaged in the business of renting qualified heavy equipment to one or more of the person’s affiliates.
+
+      (8) “Rent,” “rental” and “renting” mean entering into an agreement for the use of property in exchange for consideration for a term of less than 365 consecutive days, an open-ended term or an undefined term.
+
+      (9) “Rental location” means a qualified heavy equipment provider’s store or other business location in this state from which qualified heavy equipment is rented.
+
+      (10) “Rental price” means the rental charge for qualified heavy equipment, net of any invoice credits provided to the renter. “Rental price” does not include delivery and pickup fees, damage waivers or environmental mitigation fees. [2018 c.64 §1]
+
+ 
+
+      Note: 307.870 to 307.890 were enacted into law by the Legislative Assembly but were not added to or made a part of ORS chapter 307 or any series therein by legislative action. See Preface to Oregon Revised Statutes for further explanation.
+
+ 
+
+      307.872 Heavy equipment rental tax; exemption from property tax; no maximum term; rulemaking authority. (1) A tax of two percent is imposed on the rental price received for any qualified heavy equipment.
+
+      (2) The tax imposed under this section shall be collected by the qualified heavy equipment provider from the renter at the time that the rental of the qualified heavy equipment is made.
+
+      (3) Qualified heavy equipment is exempt from any and all ad valorem property taxes if rental of the qualified heavy equipment is subject to taxation under this section.
+
+      (4) Notwithstanding ORS 315.037, the exemption granted under subsection (3) of this section does not have a maximum term.
+
+      (5) The Department of Revenue may adopt rules necessary for the administration and enforcement of the heavy equipment rental tax under ORS 307.870 to 307.890. [2018 c.64 §§2,10]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.875 Heavy equipment provider registration; records and statements; rules. (1) Every qualified heavy equipment provider shall register with the Department of Revenue in the form and manner prescribed by the department no later than December 15 immediately preceding the beginning of the next property tax year by certifying that the provider is engaged in the line of business described in ORS 307.870 (7).
+
+      (2) Every qualified heavy equipment provider shall keep records, render statements and comply with rules adopted by the department with respect to the heavy equipment rental tax. The records and statements required by this section must be sufficient to show whether there is a tax liability under ORS 307.872. [2018 c.64 §3]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.878 Collection of tax; quarterly returns; remittance of tax. (1) Every qualified heavy equipment provider that rents out qualified heavy equipment is responsible for collecting the heavy equipment rental tax and shall file a return with the Department of Revenue, on or before the last day of the month following the end of each calendar quarter, reporting the amount of tax due during the quarter. The department shall prescribe the form and manner of the return required by this section, provided that the form shall require the qualified heavy equipment provider to report, for each county in the state, the aggregate rental prices and taxes collected for qualified heavy equipment rented out from each of its rental locations in the county during the applicable calendar quarter. The rules of the department shall require that returns be made under penalties for false swearing.
+
+      (2) When a return is required under subsection (1) of this section, the qualified heavy equipment provider required to make the return shall remit the tax due to the department at the time fixed for filing the return. [2018 c.64 §4]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.880 Refunds. If the amount paid by a qualified heavy equipment provider to the Department of Revenue under ORS 307.878 exceeds the amount of tax payable, the department shall refund the amount of the excess. A refund may not be made to a qualified heavy equipment provider that fails to claim the refund within two years after the due date for filing the return to which the claim for refund relates. [2018 c.64 §5]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.883 Taxes held in trust; warrant for delinquent taxes. (1) Every qualified heavy equipment provider is deemed to hold the amount of heavy equipment rental taxes collected in trust for the State of Oregon and for payment to the Department of Revenue in the manner and at the time provided under ORS 307.878.
+
+      (2) At any time the qualified heavy equipment provider fails to remit any amount of heavy equipment rental taxes deemed to be held in trust for the State of Oregon, the department may enforce collection by the issuance of a distraint warrant for the collection of the delinquent amount and all penalties, interest and collection charges accrued on the delinquent amount. The warrant shall be issued, docketed and proceeded upon in the same manner and shall have the same force and effect as warrants for the collection of delinquent income taxes. [2018 c.64 §6]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.885 Applicability of other provisions of tax law. (1) Unless the context requires otherwise, the provisions of ORS chapters 305, 314 and 316 governing the audit and examination of reports and returns, confidentiality of reports and returns, determination of deficiencies, assessments, claims for refunds, penalties, interest, jeopardy assessments, warrants, conferences and appeals to the Oregon Tax Court, and related procedures, apply to ORS 307.870 to 307.890 as if the heavy equipment rental tax were a tax imposed upon or measured by net income. The provisions apply to the taxpayer liable for the tax and to any qualified heavy equipment provider required to collect the tax.
+
+      (2) Any amount collected and required to be remitted to the Department of Revenue is considered a tax upon the qualified heavy equipment provider required to collect the tax and the qualified heavy equipment provider is considered a taxpayer. [2018 c.64 §7]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.888 Distribution of moneys received; certain information not confidential. (1) All moneys received by the Department of Revenue pursuant to ORS 307.870 to 307.890, and any interest on the moneys, shall be paid to the State Treasurer to be held in a suspense account established under ORS 293.445.
+
+      (2)(a) After the payment of refunds:
+
+      (A) Moneys necessary to reimburse the department for the actual costs incurred by the department in administering the heavy equipment rental tax, not to exceed five percent of heavy equipment rental tax collections, are continuously appropriated to the department; and
+
+      (B) An amount equal to two percent of the gross moneys received shall be transferred pro rata to counties that do not receive a transfer of moneys under paragraph (b) of this subsection.
+
+      (b) After deduction for the amounts described in paragraph (a) of this subsection, the balance of the moneys received shall be transferred to the treasurer of each county according to the share of the moneys that are attributable to qualified heavy equipment rented out from rental locations in the county.
+
+      (3) Each county treasurer shall:
+
+      (a) Deposit the moneys received from the department under subsection (2) of this section in the unsegregated tax collections account described in ORS 311.385; and
+
+      (b) Distribute the moneys in accordance with ORS 311.390.
+
+      (4) Provisions of law relating to the confidentiality of public records do not apply to the extent that remittances made by the department pursuant to this section disclose information derived from heavy equipment rental tax returns. [2018 c.64 §8]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+      307.890 Exemption from disclosure; statutory conflict resolution. (1) Public records of heavy equipment rental tax moneys collected by the Department of Revenue pursuant to ORS 307.870 to 307.890 are exempt from disclosure under ORS 192.311 to 192.478. Nothing in this section shall limit the use that can be made of such information for regulatory purposes or its use and admissibility in any enforcement proceedings.
+
+      (2) If a conflict is found to exist between subsection (1) of this section and ORS 314.835, ORS 314.835 controls. [2018 c.64 §9]
+
+ 
+
+      Note: See note under 307.870.
+
+ 
+
+(Temporary provisions relating to revenue neutrality of heavy equipment rental tax)
+
+ 
+
+      Note: Sections 12 to 17, chapter 64, Oregon Laws 2018, provide:
+
+      Sec. 12. (1)(a) On or before March 31, 2019, each qualified heavy equipment provider shall file with the Department of Revenue a complete report on forms provided by the department, made under penalties for false swearing, that lists the qualified heavy equipment that is assigned to each rental location and that is:
+
+      (A) In this state on January 1, 2019, at 1:00 a.m.; and
+
+      (B) Subject to the heavy equipment rental tax imposed under section 2 of this 2018 Act [307.872].
+
+      (b) The report required under this subsection shall provide the cost, acquisition date, description and rental location of each piece of qualified heavy equipment.
+
+      (c) The department shall use the report required under this subsection and the 14 years personal property valuation factors found in Table 2 of the department’s Personal Property Valuation Guidelines 2017, as revised effective December 2016, to determine a real market value for the qualified heavy equipment for purposes of this section.
+
+      (d) For purposes of this section, the department shall determine the maximum assessed value and assessed value for the qualified heavy equipment under ORS 308.153, treating the qualified heavy equipment as new property within the meaning of ORS 308.149 (6)(a)(C).
+
+      (e) The department shall use the values determined under this section to estimate the amount of ad valorem property taxes that would be due for the property tax year beginning on July 1, 2019, if the qualified heavy equipment were subject to ad valorem property taxation.
+
+      (2) On or before March 31, 2020, for each rental location, the department shall compare:
+
+      (a) The total amount of tax reported under section 4 of this 2018 Act [307.878], after any adjustment or amended returns, that is attributable to qualified heavy equipment rented out from the rental location during the 2019 calendar year; and
+
+      (b) The total estimated ad valorem property tax amount determined under subsection (1) of this section.
+
+      (3)(a) If the total amount determined under subsection (2)(a) of this section is less than the total amount determined under subsection (2)(b) of this section, the department shall collect the amount of the difference from the applicable qualified heavy equipment provider as a supplemental amount of the heavy equipment rental tax imposed under section 2 of this 2018 Act.
+
+      (b) The supplemental tax amount shall be payable on or before the later of June 30, 2020, or within 60 days after the date of the notice from the department.
+
+      (c) After retaining moneys necessary to reimburse the department for the actual costs incurred by the department in administering this section, not to exceed five percent of the supplemental tax amount, the department shall remit each net supplemental tax amount collected under this subsection to the treasurer of the county in which the applicable rental location is located and the county treasurer shall deposit all such amounts in the county’s unsegregated tax collections account.
+
+      (4) If the amount determined under subsection (2)(a) of this section is greater than the amount determined under subsection (2)(b) of this section, the department shall, in the department’s sole discretion, refund the amount of the difference to the qualified heavy equipment provider without interest or issue the amount of the difference without interest as a credit against future heavy equipment rental tax liabilities of the qualified heavy equipment provider.
+
+      (5) Provisions of law relating to the confidentiality of public records do not apply to the extent that remittances and refunds made by the department pursuant to this section disclose information derived from heavy equipment rental tax returns. [2018 c.64 §12]
+
+      Sec. 13. (1)(a) On or before March 31, 2020, each qualified heavy equipment provider shall file with the Department of Revenue a complete report on forms provided by the department, made under penalties for false swearing, that lists the qualified heavy equipment that is assigned to each rental location and that is:
+
+      (A) In this state on January 1, 2020, at 1:00 a.m.; and
+
+      (B) Subject to the heavy equipment rental tax imposed under section 2 of this 2018 Act [307.872].
+
+      (b) The report required under this subsection shall provide the cost, acquisition date, description and rental location of each piece of qualified heavy equipment.
+
+      (c) The department shall use the report required under this subsection and the 14 years personal property valuation factors found in Table 2 of the department’s Personal Property Valuation Guidelines 2017, as revised effective December 2016, to determine a real market value for the qualified heavy equipment for purposes of this section.
+
+      (d) For purposes of this section, the department shall determine the maximum assessed value and assessed value for the qualified heavy equipment under ORS 308.153, treating the qualified heavy equipment as new property within the meaning of ORS 308.149 (6)(a)(C).
+
+      (e) The department shall use the values determined under this section to estimate the amount of ad valorem property taxes that would be due for the property tax year beginning on July 1, 2020, if the qualified heavy equipment were subject to ad valorem property taxation.
+
+      (2) On or before March 31, 2021, for each rental location, the department shall compare:
+
+      (a) The total amount of tax reported under section 4 of this 2018 Act [307.878], after any adjustment or amended returns, that is attributable to qualified heavy equipment rented out from the rental location during the 2020 calendar year; and
+
+      (b) The total estimated ad valorem property tax amount determined under subsection (1) of this section.
+
+      (3)(a) If the total amount determined under subsection (2)(a) of this section is less than the total amount determined under subsection (2)(b) of this section, the department shall collect the amount of the difference from the applicable qualified heavy equipment provider as a supplemental amount of the heavy equipment rental tax imposed under section 2 of this 2018 Act.
+
+      (b) The supplemental tax amount shall be payable on or before the later of June 30, 2021, or within 60 days after the date of the notice from the department.
+
+      (c) After retaining moneys necessary to reimburse the department for the actual costs incurred by the department in administering this section, not to exceed five percent of the supplemental tax amount, the department shall remit each net supplemental tax amount collected under this subsection to the treasurer of the county in which the applicable rental location is located and the county treasurer shall deposit all such amounts in the county’s unsegregated tax collections account.
+
+      (4) If the amount determined under subsection (2)(a) of this section is greater than the amount determined under subsection (2)(b) of this section, the department shall, in the department’s sole discretion, refund the amount of the difference to the qualified heavy equipment provider without interest or issue the amount of the difference without interest as a credit against future heavy equipment rental tax liabilities of the qualified heavy equipment provider.
+
+      (5) Provisions of law relating to the confidentiality of public records do not apply to the extent that remittances and refunds made by the department pursuant to this section disclose information derived from heavy equipment rental tax returns. [2018 c.64 §13]
+
+      Sec. 14. Sections 7 [307.885], 9 [307.890] and 10 [307.872 (5)] of this 2018 Act and the definitions provided by section 1 of this 2018 Act [307.870] apply to sections 12 and 13 of this 2018 Act. [2018 c.64 §14]
+
+      Sec. 15. Sections 12 and 13 of this 2018 Act are repealed on January 2, 2022. [2018 c.64 §15]
+
+      Sec. 16. (1) Not later than July 1, 2022, the Department of Revenue, after consulting with the Legislative Revenue Officer as necessary, shall submit a report in the manner provided in ORS 192.245 to the interim committees of the Legislative Assembly related to revenue regarding the heavy equipment rental tax imposed under section 2 of this 2018 Act [307.872].
+
+      (2) For tax years with valuation dates of January 1, 2019, and January 1, 2020, the report shall set forth:
+
+      (a) The revenue collected under sections 12 (3)(a) and 13 (3)(a) of this 2018 Act, after payment of refunds, for all taxpayers registered as qualified heavy equipment providers; and
+
+      (b) The amount of ad valorem property taxes that would have been due for the property tax years beginning on July 1, 2019, and July 1, 2020, respectively, if the qualified heavy equipment had been subject to ad valorem property taxation.
+
+      (3) In the report the Legislative Revenue Officer shall propose a tax rate for section 2 of this 2018 Act that, based on the experience of the heavy equipment rental tax to date, will maintain revenue neutrality with respect to the replacement of the ad valorem property tax by the heavy equipment rental tax. [2018 c.64 §16]
+
+      Sec. 17. Section 16 of this 2018 Act is repealed on January 2, 2023. [2018 c.64 §17]
 
  
 

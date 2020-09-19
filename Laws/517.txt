@@ -573,8 +573,6 @@ PENALTIES
 
  
 
- 
-
 GENERAL PROVISIONS
 
  
@@ -699,11 +697,7 @@ MINING CLAIMS
 
       517.090 Application to claims of law governing transfers and mortgages of realty. All conveyances of mining claims or of interests therein, either quartz or placer, whether patented or unpatented, are subject to the provisions governing transfers and mortgages of other realty as to execution, recordation, foreclosure, execution sale and redemption. However, such redemption by the judgment debtor must take place within 60 days from date of confirmation, or such right is lost. [Amended by 2003 c.14 §339]
 
- 
-
       517.100 Sums payable on redemption of claim; interest. In case of redemption from sale under judgment, the redemptioner shall pay such sums as are now required by law for redemption under execution sale, and such additional sum as may have been expended upon the property so redeemed by the purchaser under execution, or the assigns of the purchaser, in order to keep alive the possessory right thereto after the execution sale, not exceeding $100 for each claim, with 10 percent interest thereon from date of such expenditures. [Amended by 2003 c.576 §466]
-
- 
 
       517.110 Grubstaking contracts. All contracts of mining copartnership, commonly known as “grubstaking,” shall be in writing, and recorded with the clerk of the county wherein the locations thereunder are made. Unless contracts of mining copartnership contain the names of the parties thereto and the duration thereof, the contracts are void. [Amended by 1991 c.230 §28]
 
@@ -1195,7 +1189,7 @@ RECLAMATION OF MINING LANDS
 
       (5) “Exploration” means all activities conducted on or beneath the surface of the earth for the purpose of determining presence, location, extent, grade or economic viability of a deposit. “Exploration” does not include prospecting or chemical processing of minerals.
 
-      (6) “Explorer” means, notwithstanding the provisions of ORS 517.810 (2), any individual, public or private corporation, political subdivision, agency, board or department of this state, any municipality, partnership, association, firm, trust, estate or any other legal entity whatsoever that is engaged in exploration.
+      (6) “Explorer” means a person that is engaged in exploration.
 
       (7) “Landowner” means:
 
@@ -1239,7 +1233,7 @@ RECLAMATION OF MINING LANDS
 
       (16)(a) “Surface mining” includes:
 
-      (A) All or any part of the process of mining minerals by the removal of overburden and the extraction of natural mineral deposits thereby exposed by any method by which more than 5,000 cubic yards of minerals are extracted or by which at least one acre of land is affected within a period of 12 consecutive calendar months, including open-pit mining operations, auger mining operations, processing, surface impacts of underground mining, production of surface mining refuse and the construction of adjacent or off-site borrow pits (except those constructed for use as access roads).
+      (A) All or any part of the process of mining minerals by the removal of overburden and the extraction of natural mineral deposits thereby exposed by any method by which more than 5,000 cubic yards of minerals are extracted or by which at least one acre of land is affected within a period of 12 consecutive calendar months, including open-pit mining operations, auger mining operations, processing, surface impacts of underground mining, production of surface mining refuse and the construction of adjacent or off-site borrow pits, except those constructed for use as access roads.
 
       (B) Removal or filling, or both, within the beds or banks of any waters of this state that is the subject of a memorandum of agreement between the Department of State Lands and the State Department of Geology and Mineral Industries in which the State Department of Geology and Mineral Industries is assigned sole responsibility for permitting as described in ORS 517.797.
 
@@ -1255,13 +1249,19 @@ RECLAMATION OF MINING LANDS
 
       (E) Excavations or reprocessing of aggregate material, or grading operations, within the highway right of way reasonably necessary for the construction, reconstruction or maintenance of a highway as defined in ORS 801.305;
 
-      (F) Excavation or movement of materials on site at a landfill, as defined in ORS 459.005, for the primary purpose of construction, reconstruction or maintenance of access roads or for landfill operations, including but not limited to landfill cell construction and daily, interim and final cover operations, if the excavation or movement of materials is covered by a permit issued by the Department of Environmental Quality under ORS 459.205 to 459.385; or
+      (F) Excavation or movement of materials on site at a landfill, as defined in ORS 459.005, for the primary purpose of construction, reconstruction or maintenance of access roads or for landfill operations, including but not limited to landfill cell construction and daily, interim and final cover operations, if the excavation or movement of materials is covered by a permit issued by the Department of Environmental Quality under ORS 459.205 to 459.385;
 
-      (G) Excavation or grading operations necessary for construction and maintenance of utilities or drainage facilities, where the excavated material is used on site and is not sold into the commercial market as aggregate material.
+      (G) Excavation or grading operations necessary for construction and maintenance of utilities or drainage facilities, where the excavated material is used on site and is not sold into the commercial market as aggregate material; or
+
+      (H) Excavation or grading operations that:
+
+      (i) Are associated with on-site construction activities; and
+
+      (ii) Do not result in any excavated materials being sold into the commercial market.
 
       (17) “Surface mining refuse” means all waste materials, soil, rock, mineral, liquid, vegetation and other materials resulting from or displaced by surface mining operations within the operating permit area, including all waste materials deposited in or upon lands within the operating permit area.
 
-      (18) “Underground mining” means all human-made excavations below the surface of the ground through shafts or adits for the purpose of exploring for, developing or producing valuable minerals. [1971 c.719 §2; 1975 c.724 §1; 1977 c.59 §1; 1981 c.622 §1; 1983 c.46 §1; 1985 c.292 §2; 1989 c.347 §12; 1999 c.353 §2; 2007 c.318 §5; 2009 c.279 §1; 2011 c.406 §2; 2017 c.736 §2; 2017 c.743 §1]
+      (18) “Underground mining” means all human-made excavations below the surface of the ground through shafts or adits for the purpose of exploring for, developing or producing valuable minerals. [1971 c.719 §2; 1975 c.724 §1; 1977 c.59 §1; 1981 c.622 §1; 1983 c.46 §1; 1985 c.292 §2; 1989 c.347 §12; 1999 c.353 §2; 2007 c.318 §5; 2009 c.279 §1; 2011 c.406 §2; 2017 c.736 §2; 2017 c.743 §1; 2019 c.502 §1]
 
  
 
@@ -2197,7 +2197,85 @@ MINING OPERATIONS SUBJECT TO CONSOLIDATED APPLICATION PROCESS
 
       (a) Surface mining operating permits required under ORS 517.790 and 517.915;
 
-      (b) Fill and removal permits required under ORS 196.600 to 196.905;
+      (b) Fill and removal permits required under ORS 196.600 to 196.921;
+
+      (c) Permits to appropriate surface water or ground water under ORS 537.130 and 537.615, to store water under ORS 537.400 and impoundment structure approval under ORS 540.449;
+
+      (d) National Pollutant Discharge Elimination System permit under ORS 468B.050;
+
+      (e) Water pollution control facility permit under ORS 468B.050;
+
+      (f) Air contaminant discharge permit under ORS 468A.040 to 468A.060;
+
+      (g) Solid waste disposal permit under ORS 459.205;
+
+      (h) Permit for use of power driven machinery on forestland under ORS 477.625;
+
+      (i) Permit for placing explosives or harmful substances in waters of the state under ORS 509.140;
+
+      (j) Hazardous waste storage permit under ORS 466.005 to 466.385;
+
+      (k) Local land use permits; and
+
+      (L) Any other state permit required for the mining operation.
+
+      (9) All other information required by the department, a permitting agency, a cooperating agency or the technical review team. [1991 c.735 §13; 1995 c.605 §3; 2009 c.217 §12; 2013 c.371 §17; 2019 c.390 §21]
+
+ 
+
+      Note: The amendments to 517.971 by section 21, chapter 390, Oregon Laws 2019, become operative July 1, 2020. See section 28, chapter 390, Oregon Laws 2019. The text that is operative until July 1, 2020, is set forth for the user’s convenience.
+
+      517.971. Each applicant for a permit to operate a mining operation shall submit a consolidated application to the State Department of Geology and Mineral Industries. The department and the permitting and cooperating agencies shall not begin deliberating on whether to issue a permit until the department receives an application fee and a complete consolidated application that includes but is not limited to:
+
+      (1) Name and location of the proposed facility.
+
+      (2) Name, mailing address and phone number of the applicant and a registered agent for the applicant.
+
+      (3) The legal structure of the applicant as filed in the business registry with the Secretary of State and the legal residence of the applicant.
+
+      (4) Mineral and surface ownership status of the proposed facility.
+
+      (5) Baseline data, including but not limited to environmental, socioeconomic, historical, archaeological conditions, land use designations and special use designations in the area of the state in which the proposed mining operation is located.
+
+      (6) Appropriate maps, aerial photos, cross sections, plans and documentation.
+
+      (7) A proposed:
+
+      (a) Mine plan;
+
+      (b) Processing plan;
+
+      (c) Water budget;
+
+      (d) Fish and wildlife protection and mitigation plan;
+
+      (e) Operational monitoring and reporting plan;
+
+      (f) Reclamation and closure plan;
+
+      (g) Plan for controlling water runoff and run on;
+
+      (h) Operating plan;
+
+      (i) Solid and hazardous waste management plan;
+
+      (j) Plan for transporting and storing toxic chemicals;
+
+      (k) Employee training plan as required by agency rule;
+
+      (L) Seasonal or short term closure plan;
+
+      (m) Spill prevention and credible accident contingency plan;
+
+      (n) Post-closure monitoring and reporting plan; and
+
+      (o) Identification of special natural areas, including but not limited to areas designated as areas of critical environmental concern, research natural areas, outstanding natural areas and areas designated by the Oregon Natural Areas Plan, as defined in state rules and federal regulations.
+
+      (8) All information required by the permitting agencies to determine whether to issue or deny the following permits as applicable to the proposed operation:
+
+      (a) Surface mining operating permits required under ORS 517.790 and 517.915;
+
+      (b) Fill and removal permits required under ORS 196.600 to 196.921;
 
       (c) Permits to appropriate surface water or ground water under ORS 537.130 and 537.615, to store water under ORS 537.400 and impoundment structure approval under ORS 540.350 to 540.390;
 
@@ -2219,7 +2297,7 @@ MINING OPERATIONS SUBJECT TO CONSOLIDATED APPLICATION PROCESS
 
       (L) Any other state permit required for the mining operation.
 
-      (9) All other information required by the department, a permitting agency, a cooperating agency or the technical review team. [1991 c.735 §13; 1995 c.605 §3; 2009 c.217 §12; 2013 c.371 §17]
+      (9) All other information required by the department, a permitting agency, a cooperating agency or the technical review team.
 
  
 
@@ -2471,16 +2549,6 @@ PENALTIES
 
       (9) A civil penalty may be imposed against the board of directors and high managerial agents of a corporation if those persons engage in, authorize, solicit, request, command or knowingly tolerate the conduct for which the penalty is to be imposed. As used in this subsection, “agent” and “high managerial agent” have the meanings given those terms in ORS 161.170. [1991 c.735 §24c; 1993 c.341 §1; 1997 c.183 §4; 2001 c.262 §1; 2003 c.470 §3; 2007 c.318 §14; 2013 c.371 §26]
 
- 
-
-_______________
+CHAPTERS 518 AND 519 [Reserved for expansion]_______________
 
  
-
- 
-
-CHAPTERS 518 AND 519
-
- 
-
- [Reserved for expansion]
